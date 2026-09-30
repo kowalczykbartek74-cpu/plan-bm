@@ -15,12 +15,13 @@ const WEEK = { odd: "nieparzysty", even: "parzysty" };
 
 async function get(path) {
   let lastErr;
-  for (let i = 0; i < 3; i++) {
+  const waits = [10, 20, 40, 60];   // sekundy między próbami
+  for (let i = 0; i <= waits.length; i++) {
     try {
       const res = await fetch(BASE + path, { headers: { "User-Agent": "plan-bm (projekt studencki, raz dziennie)" } });
       if (!res.ok) throw new Error(`HTTP ${res.status} dla ${path}`);
       return await res.text();
-    } catch (e) { lastErr = e; console.log(`Próba ${i + 1} nieudana: ${e.message}${e.cause ? " (" + (e.cause.code || e.cause.message) + ")" : ""}`); await new Promise(r => setTimeout(r, 5000 * (i + 1))); }
+    } catch (e) { lastErr = e; console.log(`Próba ${i + 1} nieudana: ${e.message}${e.cause ? " (" + (e.cause.code || e.cause.message) + ")" : ""}`); if (i < waits.length) await new Promise(r => setTimeout(r, waits[i] * 1000)); }
   }
   throw lastErr;
 }

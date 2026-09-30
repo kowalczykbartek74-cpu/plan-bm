@@ -50,6 +50,7 @@ jobs:
             else
               git commit -m "Sprawdzenie planu: bez zmian"
             fi
+            git pull --rebase origin main
             git push
           fi
 
