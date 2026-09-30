@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Plan zajęć 1. roku Business Management, Uniwersytet Szczeciński (WEFiZ)">
 <title>Plan zajęć BM</title>
+<script>try{var t=localStorage.getItem("bm-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
@@ -141,6 +142,7 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
           <li><b>Laby:</b> wybierz podgrupę A lub B. Od niej zależy termin laboratorium z Narzędzi IT. „Obie grupy” pokazuje oba terminy.</li>
           <li><b>Kalendarz:</b> plan z prawdziwymi datami. Strzałkami ‹ › przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
           <li><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
+          <li><b>Motyw:</b> „Jasny” albo „Ciemny” ustawia kolory na stałe, a „Auto” dopasowuje je do ustawień telefonu.</li>
           <li><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
         </ol>
         <div class="hint">
@@ -175,6 +177,14 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
         <button id="mode-cal" data-mode="cal" aria-pressed="true">Kalendarz</button>
         <button id="mode-odd" data-mode="odd" aria-pressed="false">Nieparzysty</button>
         <button id="mode-even" data-mode="even" aria-pressed="false">Parzysty</button>
+      </div>
+    </div>
+    <div class="ctl">
+      <div class="ctl-label">Motyw</div>
+      <div class="seg" id="themes" role="group" aria-label="Motyw kolorów">
+        <button id="theme-auto" data-theme-opt="auto" aria-pressed="true" title="Jak w ustawieniach telefonu lub komputera">Auto</button>
+        <button id="theme-light" data-theme-opt="light" aria-pressed="false"><span aria-hidden="true">☀︎</span> Jasny</button>
+        <button id="theme-dark" data-theme-opt="dark" aria-pressed="false"><span aria-hidden="true">☾</span> Ciemny</button>
       </div>
     </div>
   </section>
@@ -410,6 +420,15 @@ async function loadRemote(){
 }
 document.querySelectorAll("#subs button").forEach(b => b.onclick = () => { state.sub = b.dataset.sub; store.set("bm-sub", state.sub); render(); });
 document.querySelectorAll("#modes button").forEach(b => b.onclick = () => { state.mode = b.dataset.mode; render(); });
+
+/* ---------- Motyw: auto / jasny / ciemny ---------- */
+function applyTheme(t){
+  const root = document.documentElement;
+  if (t === "light" || t === "dark") root.setAttribute("data-theme", t); else { root.removeAttribute("data-theme"); t = "auto"; }
+  document.querySelectorAll("#themes button").forEach(b => b.setAttribute("aria-pressed", b.dataset.themeOpt === t));
+}
+applyTheme(store.get("bm-theme"));
+document.querySelectorAll("#themes button").forEach(b => b.onclick = () => { store.set("bm-theme", b.dataset.themeOpt); applyTheme(b.dataset.themeOpt); });
 
 /* ---------- Auto-refresh: keep "today" and the current week correct while the page stays open ---------- */
 let lastDay = key(new Date());
