@@ -1,0 +1,92 @@
+name: Aktualizacja planu zajęć
+
+on:
+  schedule:
+    # GitHub liczy czas w UTC. 7:00 w Polsce to 5:00 UTC latem i 6:00 UTC zimą,
+    # więc sprawdzamy o obu godzinach (dodatkowe sprawdzenie nic nie psuje).
+    - cron: "0 5 * * *"
+    - cron: "0 6 * * *"
+  workflow_dispatch:        # ręczne uruchomienie: zakładka Actions → Run workflow
+  push:
+    branches: [main]
+    paths: ["index.html", "plan.json", "scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: aktualizacja-planu
+  cancel-in-progress: false
+
+jobs:
+  sprawdz-plan:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.plan.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Pobierz plan ze strony uczelni
+        id: plan
+        if: github.event_name != 'push'
+        run: node scripts/update-plan.mjs
+
+      - name: Zapisz nową wersję
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "plan-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add plan.json index.html
+          if git diff --cached --quiet; then
+            echo "Nic do zapisania."
+          else
+            if [ "${{ steps.plan.outputs.changed }}" = "true" ]; then
+              git commit -m "Plan zajęć zmienił się na stronie uczelni"
+            else
+              git commit -m "Sprawdzenie planu: bez zmian"
+            fi
+            git push
+          fi
+
+      - name: Powiadom o zmianie (mail z GitHuba)
+        if: steps.plan.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('zmiany.md', 'utf8');
+            const day = new Date().toLocaleDateString('pl-PL', { timeZone: 'Europe/Warsaw' });
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Plan zajęć się zmienił (${day})`,
+              body,
+              assignees: [context.repo.owner]
+            });
+
+      - name: Przygotuj stronę
+        run: |
+          mkdir -p _site
+          cp index.html plan.json _site/
+          touch _site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  opublikuj:
+    needs: sprawdz-plan
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

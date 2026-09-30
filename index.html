@@ -1,0 +1,450 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Plan zajęć 1. roku Business Management, Uniwersytet Szczeciński (WEFiZ)">
+<title>Plan zajęć BM</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: controls (group, lab subgroup, week mode) in a sticky block, then five day cards that wrap to one column on phones */
+:root{
+  --bg:#f5f6f8; --surface:#ffffff; --ink:#172033; --muted:#5d6678; --line:#dfe3ea; --chip:#eef1f6;
+  --odd:#2457a6; --even:#b5620f; --on-accent:#ffffff;
+  --w:#2457a6; --w-soft:#e6eef9; --cw:#1d7a55; --cw-soft:#e2f3eb; --lab:#7a3db0; --lab-soft:#f0e6fa;
+  --k:#9a5b00; --k-soft:#fbefd9; --s:#b0325a; --s-soft:#fbe5ec; --x:#4b5566; --x-soft:#eceff4;
+  --note:#8a5a00; --note-soft:#fff5dc; --today:#2457a6;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#10141c; --surface:#181e29; --ink:#e7ebf2; --muted:#9aa4b6; --line:#2a3242; --chip:#212939;
+  --odd:#7aa8f0; --even:#f0a95a; --on-accent:#10141c;
+  --w:#7aa8f0; --w-soft:#1c2b44; --cw:#5fcf9c; --cw-soft:#173428; --lab:#c49af0; --lab-soft:#2c2140;
+  --k:#f2b35a; --k-soft:#35270f; --s:#f08aab; --s-soft:#3a1c27; --x:#b3bccb; --x-soft:#242c3a;
+  --note:#f2c765; --note-soft:#342a12; --today:#7aa8f0; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#10141c; --surface:#181e29; --ink:#e7ebf2; --muted:#9aa4b6; --line:#2a3242; --chip:#212939;
+  --odd:#7aa8f0; --even:#f0a95a; --on-accent:#10141c;
+  --w:#7aa8f0; --w-soft:#1c2b44; --cw:#5fcf9c; --cw-soft:#173428; --lab:#c49af0; --lab-soft:#2c2140;
+  --k:#f2b35a; --k-soft:#35270f; --s:#f08aab; --s-soft:#3a1c27; --x:#b3bccb; --x-soft:#242c3a;
+  --note:#f2c765; --note-soft:#342a12; --today:#7aa8f0; color-scheme:dark }
+
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;padding-inline:16px;padding-block:20px 40px}
+.wrap{max-width:1320px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+header{display:flex;flex-direction:column;gap:4px;position:relative;padding-right:132px}
+.help{position:absolute;top:0;right:0;z-index:20}
+.help summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:7px;font:600 14px/1 var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:9px 13px;user-select:none}
+.help summary::-webkit-details-marker{display:none}
+.help summary .q{display:inline-grid;place-items:center;width:18px;height:18px;border-radius:50%;background:var(--ink);color:var(--bg);font-size:12px}
+.help summary:hover{border-color:var(--muted)}
+.help summary:focus-visible{outline:2px solid var(--today);outline-offset:2px}
+.help[open] summary{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.help[open] summary .q{background:var(--bg);color:var(--ink)}
+.help-panel{box-sizing:border-box;position:absolute;right:0;top:calc(100% + 8px);width:min(360px,calc(100vw - 32px));background:var(--surface);border:1px solid var(--line);border-radius:14px;box-shadow:0 12px 32px rgba(0,0,0,.18);padding:16px 18px;display:flex;flex-direction:column;gap:12px;font-size:14px}
+.help-panel h3{margin:0;font-family:var(--display);font-weight:600;font-size:18px}
+.help-panel ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
+.help-panel li::marker{color:var(--muted);font-weight:600}
+.help-panel b{font-weight:600}
+.help-panel .hint{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:4px}
+.help-panel .sign{display:flex;flex-direction:column;gap:2px}
+.help-panel .sign p{margin:0;font-family:var(--display);font-weight:600;font-size:16px}
+.help-panel .sign .who{font-family:var(--body);font-weight:500;font-size:13px;color:var(--muted)}
+.help-panel .close{align-self:flex-end;font:600 13px/1 var(--body);border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:8px;padding:8px 12px;cursor:pointer}
+.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1.05;margin:0;text-wrap:balance}
+.sub{color:var(--muted);margin:0;max-width:70ch}
+
+.controls{display:flex;flex-direction:column;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px}
+.ctl{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px}
+.ctl-label{font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600;min-width:74px}
+.years{display:flex;flex-wrap:wrap;gap:8px 16px}
+.year{display:flex;align-items:center;gap:6px}
+.year span{font-size:12.5px;color:var(--muted)}
+.pill{font:600 14px/1 var(--body);border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:999px;padding:9px 13px;cursor:pointer;font-variant-numeric:tabular-nums}
+.pill:hover{border-color:var(--muted)}
+.pill[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.pill:focus-visible,.seg button:focus-visible,.nav button:focus-visible{outline:2px solid var(--today);outline-offset:2px}
+
+.seg{display:inline-grid;grid-auto-flow:column;gap:4px;background:var(--chip);border-radius:10px;padding:4px}
+.seg button{font:600 14px/1.2 var(--body);border:0;border-radius:7px;padding:8px 12px;background:transparent;color:var(--muted);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.12)}
+.seg button[data-mode="odd"][aria-pressed="true"]{background:var(--odd);color:var(--on-accent)}
+.seg button[data-mode="even"][aria-pressed="true"]{background:var(--even);color:var(--on-accent)}
+
+.weekbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:6px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}
+.nav{display:flex;align-items:center;gap:8px;min-width:0}
+.nav button{font:600 18px/1 var(--body);width:40px;height:40px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.nav button:disabled{opacity:.35;cursor:default}
+.nav .today-btn{width:auto;padding:0 12px;font-size:14px}
+.wk{display:flex;flex-direction:column;min-width:0}
+.wk b{font-family:var(--display);font-weight:600;font-size:19px;line-height:1.15}
+.wk small{color:var(--muted);font-size:13px}
+.par{display:inline-flex;gap:6px;flex-wrap:wrap}
+.tag-odd,.tag-even{font:600 12px/1 var(--body);padding:5px 8px;border-radius:6px;color:var(--on-accent)}
+.tag-odd{background:var(--odd)} .tag-even{background:var(--even)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:12.5px;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:5px}
+
+.chip{font:600 11px/1 var(--body);letter-spacing:.04em;padding:4px 6px;border-radius:5px;white-space:nowrap;font-style:normal}
+.chip.W{background:var(--w-soft);color:var(--w)} .chip.CW{background:var(--cw-soft);color:var(--cw)}
+.chip.LAB{background:var(--lab-soft);color:var(--lab)} .chip.K{background:var(--k-soft);color:var(--k)}
+.chip.S{background:var(--s-soft);color:var(--s)} .chip.X{background:var(--x-soft);color:var(--x)}
+
+.days{display:grid;grid-template-columns:repeat(auto-fit,minmax(236px,1fr));gap:12px;align-items:start}
+.day{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;min-width:0}
+.day.is-today{border-color:var(--today);box-shadow:0 0 0 1px var(--today)}
+.day h2{margin:0;display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding:11px 14px;border-bottom:1px solid var(--line);font-family:var(--display);font-weight:600;font-size:18px}
+.day h2 .dt{font:500 13px var(--body);color:var(--muted);font-variant-numeric:tabular-nums}
+.day h2 .now{font:600 11px/1 var(--body);color:var(--on-accent);background:var(--today);padding:4px 6px;border-radius:5px;margin-left:6px;vertical-align:2px}
+.daynote{font-size:12.5px;background:var(--note-soft);color:var(--note);padding:7px 14px}
+.list{display:flex;flex-direction:column}
+.cls{display:grid;grid-template-columns:48px 1fr;gap:10px;padding:10px 14px;border-top:1px solid var(--line)}
+.cls:first-child{border-top:0}
+.time{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:13px;line-height:1.25}
+.time span{display:block;color:var(--muted)}
+.time .chip{display:inline-block;margin-top:6px}
+.info{min-width:0;display:flex;flex-direction:column;gap:2px}
+.top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+.name{font-weight:600;line-height:1.3;overflow-wrap:break-word}
+.en{font-size:12.5px;color:var(--muted);font-style:italic}
+.meta{font-size:13px;color:var(--muted);overflow-wrap:anywhere}
+.room{font-size:13px;font-weight:500;overflow-wrap:anywhere}
+.tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:2px}
+.tg{font:500 11.5px/1 var(--body);padding:4px 6px;border-radius:5px;background:var(--chip);color:var(--muted)}
+.note{font-size:12.5px;background:var(--note-soft);color:var(--note);border-radius:6px;padding:5px 8px;margin-top:3px}
+.sem{margin:4px 0 0;padding:0;list-style:none;font-size:13px;display:flex;flex-direction:column;gap:2px}
+.sem li{display:flex;justify-content:space-between;gap:8px;color:var(--muted)}
+.sem li b{font-weight:500;color:var(--ink)}
+.free{padding:16px 14px;color:var(--muted);font-size:14px}
+.foot{font-size:13px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
+.foot a{color:var(--w)}
+@media (max-width:520px){ .ctl-label{min-width:0;width:100%} .weekbar{flex-direction:column;align-items:stretch} header{padding-right:52px} .help summary .t{display:none} .help summary{padding:9px} }
+@media (prefers-reduced-motion:no-preference){ .days{animation:fade .18s ease} }
+@keyframes fade{from{opacity:.5}to{opacity:1}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Uniwersytet Szczeciński · WEFiZ · Business Management · I rok · semestr zimowy 2026/27</div>
+    <h1 id="title">Plan zajęć</h1>
+    <p class="sub">Wybierz swoją grupę i podgrupę do laboratoriów. Kalendarz sam rozpoznaje tydzień parzysty i nieparzysty.</p>
+    <details class="help" id="help">
+      <summary aria-label="Instrukcja obsługi"><span class="q">?</span><span class="t">Jak używać</span></summary>
+      <div class="help-panel">
+        <h3>Szybka instrukcja</h3>
+        <ol>
+          <li><b>Grupa:</b> kliknij swoją grupę: C111, C112 albo C113.</li>
+          <li><b>Laby:</b> wybierz podgrupę A lub B. Od niej zależy termin laboratorium z Narzędzi IT. „Obie grupy” pokazuje oba terminy.</li>
+          <li><b>Kalendarz:</b> plan z prawdziwymi datami. Strzałkami ‹ › przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
+          <li><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
+          <li><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
+        </ol>
+        <div class="hint">
+          <span>Twój wybór grupy i podgrupy zapamiętuje się w tej przeglądarce.</span>
+          <span>Sale bez adresu są przy ul. Cukrowej 8. Plan jest codziennie rano sprawdzany automatycznie na stronie uczelni. W razie wątpliwości sprawdź oficjalną stronę.</span>
+        </div>
+        <div class="sign">
+          <p>Niech Wam służy!</p>
+          <p class="who">Wasz starosta</p>
+        </div>
+        <button class="close" id="helpClose" type="button">Zamknij</button>
+      </div>
+    </details>
+  </header>
+
+  <section class="controls" aria-label="Ustawienia">
+    <div class="ctl">
+      <div class="ctl-label">Grupa</div>
+      <div class="years" id="groups"></div>
+    </div>
+    <div class="ctl" id="subRow">
+      <div class="ctl-label">Laby</div>
+      <div class="seg" id="subs" role="group" aria-label="Podgrupa laboratoryjna">
+        <button id="sub-all" data-sub="" aria-pressed="true">Obie grupy</button>
+        <button id="sub-a" data-sub="A" aria-pressed="false">Grupa A</button>
+        <button id="sub-b" data-sub="B" aria-pressed="false">Grupa B</button>
+      </div>
+    </div>
+    <div class="ctl">
+      <div class="ctl-label">Widok</div>
+      <div class="seg" id="modes" role="group" aria-label="Widok tygodnia">
+        <button id="mode-cal" data-mode="cal" aria-pressed="true">Kalendarz</button>
+        <button id="mode-odd" data-mode="odd" aria-pressed="false">Nieparzysty</button>
+        <button id="mode-even" data-mode="even" aria-pressed="false">Parzysty</button>
+      </div>
+    </div>
+  </section>
+
+  <div class="weekbar">
+    <div class="nav" id="nav"></div>
+    <div class="legend">
+      <span><i class="chip W">W</i> wykład</span>
+      <span><i class="chip CW">ĆW</i> ćwiczenia</span>
+      <span><i class="chip LAB">LAB</i> laboratorium</span>
+      <span><i class="chip K">K</i> konwersatorium</span>
+      <span><i class="chip S">S</i> seminarium</span>
+    </div>
+  </div>
+
+  <main class="days" id="days" aria-live="polite"></main>
+
+  <div class="foot">
+    <div>Sale bez adresu są w budynku przy ul. Cukrowej 8. Dane z <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">planu zajęć WEFiZ</a>, sprawdzane automatycznie codziennie rano. Podział tygodni: harmonogram wydziału na semestr zimowy 2026/27.</div>
+    <div id="dataMeta"></div>
+    <div>Plan może się zmieniać. W razie wątpliwości sprawdź oficjalną stronę.</div>
+    <div id="refreshed"></div>
+  </div>
+</div>
+
+<script>
+/* ---------- Plan data ---------- */
+const SLOTS = [["8:15","9:45"],["10:00","11:30"],["12:00","13:30"],["13:45","15:15"],["15:30","17:00"],["17:15","18:45"],["19:00","20:30"]];
+const DAYN = ["Poniedziałek","Wtorek","Środa","Czwartek","Piątek"];
+/* Dane planu: kopia zapasowa w pliku. Automat (scripts/update-plan.mjs) podmienia ją przy każdej zmianie,
+   a strona i tak najpierw próbuje wczytać świeży plan.json. */
+let DATA = /*PLAN_DATA_START*/{"source":"https://planyzajec-efz.usz.edu.pl/","kierunek":"Business Management","rokAkademicki":"2026/2027","semestr":"zimowy","updated":"30.09.2026 10:45","changedAt":"2026-09-30T13:31:40.515Z","checkedAt":"2026-09-30T13:31:40.515Z","groups":{"C111":{"odd":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Logistyka","en":"Logistics","k":"W","p":"dr Jakub Dowejko","r":"s. SIL 323"},{"d":1,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":2,"s":1,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"W","p":"dr hab. prof. US Dariusz Milewski","r":"s. 002"},{"d":4,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":1,"s":2,"pl":"Logistyka","en":"Logistics","k":"CW","p":"dr Jakub Dowejko","r":"s. 307"},{"d":2,"s":2,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"CW","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":3,"s":2,"pl":"Szkolenie z obrony cywilnej","k":"X","r":"Aula WNS ul. Krakowska 71-79, Szczecin","dates":["2026-12-17"],"n":"Jednorazowo: 17.12.2026"},{"d":4,"s":2,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"W","p":"dr Barbara Batóg","r":"s. 002"},{"d":4,"s":3,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"W","p":"dr inż. Alicja Nerć-Pełka","r":"s. 002"}],"even":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"CW","p":"mgr Malwina Jankowska","r":"s. 307"},{"d":4,"s":0,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"CW","p":"dr Barbara Batóg","r":"s. 112"},{"d":0,"s":1,"pl":"Ekonomia biznesu","en":"Business Economics","k":"CW","p":"dr Aleksandra Gąsior","r":"s. 003"},{"d":1,"s":1,"pl":"Ekonomia biznesu","en":"Business Economics","k":"W","p":"dr Aleksandra Gąsior","r":"s. 048 (aula)"},{"d":2,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"W","p":"dr inż. Anna Borawska","r":"s. SIL 325"},{"d":4,"s":1,"pl":"Makroekonomia","en":"Macroeconomics","k":"CW","p":"dr Agnieszka Bretyn","r":"s. SIL 325"},{"d":0,"s":2,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"CW","p":"dr hab. prof. US Dariusz Milewski","r":"s. 048 (aula)"},{"d":1,"s":2,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. 423 (lab)"},{"d":2,"s":2,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"W","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":4,"s":2,"pl":"Makroekonomia","en":"Macroeconomics","k":"W","p":"dr Agnieszka Bretyn","r":"s. SIL 325"},{"d":0,"s":3,"pl":"Ochrona własności intelektualnej","en":"Intelectual Property Protection","k":"W","p":"dr Jarosław Poteralski","r":"s. SIL 323","dates":["2026-10-12","2026-10-26","2026-11-09","2026-11-23"],"n":"Tylko: 12.10, 26.10, 9.11, 23.11"},{"d":4,"s":3,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"}]},"C112":{"odd":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Logistyka","en":"Logistics","k":"W","p":"dr Jakub Dowejko","r":"s. SIL 323"},{"d":3,"s":0,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 124/125 (lab)"},{"d":4,"s":0,"pl":"Makroekonomia","en":"Macroeconomics","k":"CW","p":"dr Agnieszka Bretyn","r":"s. SIL 323"},{"d":1,"s":1,"pl":"Logistyka","en":"Logistics","k":"CW","p":"dr Jakub Dowejko","r":"s. 307"},{"d":2,"s":1,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"W","p":"dr hab. prof. US Dariusz Milewski","r":"s. 002"},{"d":3,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 124/125 (lab)"},{"d":4,"s":1,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"CW","p":"dr Barbara Batóg","r":"s. 112"},{"d":2,"s":2,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"CW","p":"dr hab. prof. US Dariusz Milewski","r":"s. 507"},{"d":3,"s":2,"pl":"Szkolenie z obrony cywilnej","k":"X","r":"Aula WNS ul. Krakowska 71-79, Szczecin","dates":["2026-12-17"],"n":"Jednorazowo: 17.12.2026"},{"d":4,"s":2,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"W","p":"dr Barbara Batóg","r":"s. 002"},{"d":2,"s":3,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"CW","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":4,"s":3,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"W","p":"dr inż. Alicja Nerć-Pełka","r":"s. 002"}],"even":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":3,"s":0,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 124/125 (lab)"},{"d":0,"s":1,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"CW","p":"mgr Malwina Jankowska","r":"s. 707"},{"d":1,"s":1,"pl":"Ekonomia biznesu","en":"Business Economics","k":"W","p":"dr Aleksandra Gąsior","r":"s. 048 (aula)"},{"d":2,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"W","p":"dr inż. Anna Borawska","r":"s. SIL 325"},{"d":3,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 124/125 (lab)"},{"d":0,"s":2,"pl":"Ekonomia biznesu","en":"Business Economics","k":"CW","p":"dr Aleksandra Gąsior","r":"s. 003"},{"d":2,"s":2,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"W","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":4,"s":2,"pl":"Makroekonomia","en":"Macroeconomics","k":"W","p":"dr Agnieszka Bretyn","r":"s. SIL 325"},{"d":0,"s":3,"pl":"Ochrona własności intelektualnej","en":"Intelectual Property Protection","k":"W","p":"dr Jarosław Poteralski","r":"s. SIL 323","dates":["2026-10-12","2026-10-26","2026-11-09","2026-11-23"],"n":"Tylko: 12.10, 26.10, 9.11, 23.11"}]},"C113":{"odd":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Logistyka","en":"Logistics","k":"W","p":"dr Jakub Dowejko","r":"s. SIL 323"},{"d":2,"s":1,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"W","p":"dr hab. prof. US Dariusz Milewski","r":"s. 002"},{"d":4,"s":1,"pl":"Makroekonomia","en":"Macroeconomics","k":"CW","p":"dr Agnieszka Bretyn","r":"s. SIL 323"},{"d":2,"s":2,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"CW","p":"mgr Malwina Jankowska","r":"s. 307"},{"d":3,"s":2,"pl":"Szkolenie z obrony cywilnej","k":"X","r":"Aula WNS ul. Krakowska 71-79, Szczecin","dates":["2026-12-17"],"n":"Jednorazowo: 17.12.2026"},{"d":4,"s":2,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"W","p":"dr Barbara Batóg","r":"s. 002"},{"d":2,"s":3,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"CW","p":"dr hab. prof. US Dariusz Milewski","r":"s. 507"},{"d":3,"s":3,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":4,"s":3,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"W","p":"dr inż. Alicja Nerć-Pełka","r":"s. 002"},{"d":3,"s":4,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"}],"even":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Logistyka","en":"Logistics","k":"CW","p":"dr Jakub Dowejko","r":"s. SIL 324"},{"d":1,"s":1,"pl":"Ekonomia biznesu","en":"Business Economics","k":"W","p":"dr Aleksandra Gąsior","r":"s. 048 (aula)"},{"d":2,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"W","p":"dr inż. Anna Borawska","r":"s. SIL 325"},{"d":4,"s":1,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"CW","p":"dr Barbara Batóg","r":"s. 112"},{"d":2,"s":2,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"W","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":4,"s":2,"pl":"Makroekonomia","en":"Macroeconomics","k":"W","p":"dr Agnieszka Bretyn","r":"s. SIL 325"},{"d":0,"s":3,"pl":"Ochrona własności intelektualnej","en":"Intelectual Property Protection","k":"W","p":"dr Jarosław Poteralski","r":"s. SIL 323","dates":["2026-10-12","2026-10-26","2026-11-09","2026-11-23"],"n":"Tylko: 12.10, 26.10, 9.11, 23.11"},{"d":2,"s":3,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"CW","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":3,"s":3,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":0,"s":4,"pl":"Ekonomia biznesu","en":"Business Economics","k":"CW","p":"dr Aleksandra Gąsior","r":"s. 003"},{"d":3,"s":4,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"}]}}}/*PLAN_DATA_END*/;
+const G = () => DATA.groups || {};
+const startMin = e => { const [h,m] = (e.time ? e.time[0] : SLOTS[e.s][0]).split(":").map(Number); return h*60+m; };
+const endOf = e => e.time ? e.time[1] : SLOTS[e.s][1];
+const startOf = e => e.time ? e.time[0] : SLOTS[e.s][0];
+
+/* ---------- Official week calendar, winter 2026/27 ---------- */
+const RANGES = [
+  ["2026-10-02","2026-10-02","even"],
+  ["2026-10-05","2026-10-09","odd"],["2026-10-12","2026-10-16","even"],
+  ["2026-10-19","2026-10-23","odd"],["2026-10-26","2026-10-30","even"],
+  ["2026-11-03","2026-11-06","odd"],["2026-11-09","2026-11-13","even"],
+  ["2026-11-16","2026-11-20","odd"],["2026-11-23","2026-11-27","even"],
+  ["2026-11-30","2026-12-04","odd"],["2026-12-07","2026-12-11","even"],
+  ["2026-12-14","2026-12-18","odd"],["2026-12-21","2026-12-23","even"],
+  ["2027-01-07","2027-01-08","even"],
+  ["2027-01-11","2027-01-15","odd"],["2027-01-18","2027-01-22","even"],
+  ["2027-01-25","2027-01-29","odd"],["2027-02-01","2027-02-01","even"]
+];
+const OFF = {"2026-10-01":"Dzień rektorski","2026-11-02":"Dzień rektorski","2026-11-11":"Narodowe Święto Niepodległości"};
+const SWAP = {"2027-01-29":{p:"even",asDay:2,n:"Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"}};
+const FIRST_WEEK = "2026-09-28", LAST_WEEK = "2027-02-01";
+
+const pad = n => String(n).padStart(2,"0");
+const key = dt => `${dt.getFullYear()}-${pad(dt.getMonth()+1)}-${pad(dt.getDate())}`;
+const parse = k => { const [y,m,d]=k.split("-").map(Number); return new Date(y,m-1,d); };
+const addDays = (dt,n) => { const x=new Date(dt); x.setDate(x.getDate()+n); return x; };
+const monday = dt => addDays(new Date(dt.getFullYear(),dt.getMonth(),dt.getDate()), -((dt.getDay()+6)%7));
+
+const PAR = {};
+for (const [a,b,p] of RANGES) for (let d=parse(a); key(d)<=b; d=addDays(d,1)) if (d.getDay()%6) PAR[key(d)]=p;
+for (const k of Object.keys(OFF)) delete PAR[k];
+for (const [k,v] of Object.entries(SWAP)) PAR[k]=v.p;
+
+function dayInfo(k){
+  if (SWAP[k]) return {p:SWAP[k].p, asDay:SWAP[k].asDay, n:SWAP[k].n};
+  if (PAR[k]) return {p:PAR[k]};
+  if (OFF[k]) return {off:OFF[k]};
+  if (k < "2026-10-01") return {off:"Zajęcia zaczynają się 2 października"};
+  if (k >= "2026-12-24" && k <= "2027-01-06") return {off:"Przerwa świąteczna"};
+  if (k >= "2027-02-02" && k <= "2027-02-15") return {off:"Sesja egzaminacyjna (2–15.02)"};
+  if (k > "2027-02-15") return {off:"Po sesji zimowej"};
+  return {off:"Brak zajęć"};
+}
+
+/* ---------- State ---------- */
+const store = { get(k){ try{return localStorage.getItem(k)}catch(e){return null} }, set(k,v){ try{localStorage.setItem(k,v)}catch(e){} } };
+const state = {
+  group: store.get("bm-group") || "C112",
+  sub: ["","A","B"].includes(store.get("bm-sub")) ? store.get("bm-sub") : "A",
+  mode: "cal",
+  week: null
+};
+if (location.hash === "#nieparzysty") state.mode = "odd";
+if (location.hash === "#parzysty") state.mode = "even";
+
+function defaultWeek(){
+  const now = new Date();
+  let m = monday(now);
+  if (now.getDay()===0 || now.getDay()===6) m = addDays(m,7);
+  let k = key(m);
+  if (k < FIRST_WEEK) k = FIRST_WEEK;
+  if (k > LAST_WEEK) k = LAST_WEEK;
+  return k;
+}
+state.week = defaultWeek();
+function ensureGroup(){
+  const gs = Object.keys(G()).sort();
+  if (!G()[state.group]) state.group = G().C112 ? "C112" : (gs[0] || "C112");
+}
+
+/* ---------- Rendering ---------- */
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const LBL = {W:"W", CW:"ĆW", LAB:"LAB", K:"K", S:"S"};
+const MONTHS = ["stycznia","lutego","marca","kwietnia","maja","czerwca","lipca","sierpnia","września","października","listopada","grudnia"];
+const fmt = dt => `${dt.getDate()}.${pad(dt.getMonth()+1)}`;
+
+function hasSubs(g){ return !!G()[g] && ["odd","even"].some(w => (G()[g][w]||[]).some(e => e.g)); }
+
+function entriesFor(week, day, dateKey){
+  const grp = G()[state.group];
+  if (!grp) return [];
+  return (grp[week] || [])
+    .filter(e => e.d === day)
+    .filter(e => !state.sub || !e.g || e.g === state.sub)
+    .filter(e => !dateKey || !e.dates || e.dates.includes(dateKey))
+    .sort((a,b) => startMin(a) - startMin(b));
+}
+
+function cls(e, showDates){
+  const t = [startOf(e), endOf(e)];
+  const pl = e.pl || e.en || "", en = e.en && e.en !== e.pl ? e.en : "";
+  const tags = [];
+  if (e.g) tags.push(`Grupa ${e.g}`);
+  if (e.tag) tags.push(e.tag);
+  const note = e.n && (showDates || !e.dates) ? e.n : "";
+  return `<div class="cls">
+    <div class="time">${t[0]}<span>${t[1]}</span>${e.k!=="X" ? `<i class="chip ${e.k}">${LBL[e.k]}</i>` : ""}</div>
+    <div class="info">
+      <div class="name">${esc(pl)}</div>
+      ${en ? `<div class="en">${esc(en)}</div>` : ""}
+      ${e.p ? `<div class="meta">${esc(e.p)}</div>` : ""}
+      ${e.r ? `<div class="room">${esc(e.r)}</div>` : ""}
+      ${e.x ? `<div class="meta">${esc(e.x)}</div>` : ""}
+      ${tags.length ? `<div class="tags">${tags.map(x=>`<span class="tg">${esc(x)}</span>`).join("")}</div>` : ""}
+      ${note ? `<div class="note">${esc(note)}</div>` : ""}
+    </div></div>`;
+}
+
+function dayCard(title, dateLbl, items, opts={}){
+  const body = items.length ? items.map(e => cls(e, opts.fixed)).join("") : `<div class="free">${esc(opts.empty || "Brak zajęć")}</div>`;
+  const span = items.length ? (() => { const f=items[0], l=items[items.length-1];
+      return `${startOf(f)}–${endOf(l)}`; })() : "";
+  return `<section class="day${opts.today ? " is-today":""}">
+    <h2><span>${title}${opts.today ? `<span class="now">dziś</span>`:""}</span><span class="dt">${esc(dateLbl || span || "")}</span></h2>
+    ${opts.note ? `<div class="daynote">${esc(opts.note)}</div>` : ""}
+    <div class="list">${body}</div></section>`;
+}
+
+function renderNav(){
+  const nav = document.getElementById("nav");
+  if (state.mode !== "cal"){
+    const odd = state.mode==="odd";
+    nav.innerHTML = `<div class="wk"><b>Tydzień ${odd?"nieparzysty":"parzysty"}</b><small>Stały układ, bez dat i dni wolnych</small></div>`;
+    return;
+  }
+  const m = parse(state.week), f = addDays(m,4);
+  const pars = [...new Set([0,1,2,3,4].map(i => dayInfo(key(addDays(m,i))).p).filter(Boolean))];
+  const range = m.getMonth()===f.getMonth() ? `${m.getDate()}–${f.getDate()} ${MONTHS[f.getMonth()]}` : `${m.getDate()} ${MONTHS[m.getMonth()]} – ${f.getDate()} ${MONTHS[f.getMonth()]}`;
+  const parHtml = pars.length ? pars.map(p => `<span class="tag-${p}">${p==="odd"?"nieparzysty":"parzysty"}</span>`).join("") : `<span class="tg">bez zajęć</span>`;
+  const thisWeek = defaultWeek();
+  nav.innerHTML = `
+    <button id="prev" aria-label="Poprzedni tydzień" ${state.week<=FIRST_WEEK?"disabled":""}>‹</button>
+    <div class="wk"><b>${range}</b><small class="par">${parHtml}</small></div>
+    <button id="next" aria-label="Następny tydzień" ${state.week>=LAST_WEEK?"disabled":""}>›</button>
+    ${state.week!==thisWeek ? `<button class="today-btn" id="now">Ten tydzień</button>` : ""}`;
+  document.getElementById("prev").onclick = () => { state.week = key(addDays(parse(state.week),-7)); render(); };
+  document.getElementById("next").onclick = () => { state.week = key(addDays(parse(state.week),7)); render(); };
+  const n = document.getElementById("now"); if (n) n.onclick = () => { state.week = thisWeek; render(); };
+}
+
+function render(){
+  ensureGroup();
+  const g = state.group;
+  document.getElementById("title").textContent = `Plan zajęć ${g}`;
+  document.querySelectorAll("#groups .pill").forEach(b => b.setAttribute("aria-pressed", b.dataset.g===g));
+  const subs = hasSubs(g);
+  document.getElementById("subRow").hidden = !subs;
+  document.querySelectorAll("#subs button").forEach(b => b.setAttribute("aria-pressed", b.dataset.sub===(subs?state.sub:"")));
+  document.querySelectorAll("#modes button").forEach(b => b.setAttribute("aria-pressed", b.dataset.mode===state.mode));
+  document.getElementById("src").href = `https://planyzajec-efz.usz.edu.pl/planGrup?numerGrupy=${g}`;
+  renderNav();
+
+  const el = document.getElementById("days");
+  if (state.mode !== "cal"){
+    el.innerHTML = DAYN.map((dn,i) => dayCard(dn, "", entriesFor(state.mode,i,null), {fixed:true})).join("");
+    return;
+  }
+  const m = parse(state.week), today = key(new Date());
+  el.innerHTML = DAYN.map((dn,i) => {
+    const dt = addDays(m,i), k = key(dt), info = dayInfo(k);
+    if (info.off) return dayCard(dn, fmt(dt), [], {empty:info.off, today:k===today});
+    const items = entriesFor(info.p, info.asDay ?? i, k);
+    return dayCard(dn, fmt(dt), items, {today:k===today, note:info.n});
+  }).join("");
+}
+
+/* ---------- Controls ---------- */
+function buildGroups(){
+  const gs = Object.keys(G()).sort();
+  document.getElementById("groups").innerHTML = `<div class="year">${gs.map(g => `<button class="pill" id="grp-${g}" data-g="${g}" aria-pressed="false">${g}</button>`).join("")}</div>`;
+  document.querySelectorAll("#groups .pill").forEach(b => b.onclick = () => { state.group = b.dataset.g; store.set("bm-group", state.group); render(); });
+}
+buildGroups();
+
+/* ---------- Data info + fresh plan.json ---------- */
+function fmtStamp(iso){
+  if (!iso) return "";
+  const d = new Date(iso); if (isNaN(d)) return "";
+  return `${d.getDate()}.${pad(d.getMonth()+1)}.${d.getFullYear()}, ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+function showMeta(){
+  const parts = [];
+  if (DATA.updated) parts.push(`stan planu na stronie uczelni: ${DATA.updated}`);
+  if (DATA.checkedAt) parts.push(`automat sprawdził plan: ${fmtStamp(DATA.checkedAt)}`);
+  document.getElementById("dataMeta").textContent = parts.length ? parts.join(" · ") + "." : "";
+}
+let loading = false;
+async function loadRemote(){
+  if (loading) return; loading = true;
+  try {
+    const r = await fetch("plan.json?t=" + Date.now(), {cache:"no-store"});
+    if (!r.ok) return;
+    const j = await r.json();
+    if (!j || !j.groups || !Object.keys(j.groups).length) return;
+    const sameGroups = Object.keys(j.groups).sort().join() === Object.keys(G()).sort().join();
+    DATA = j;
+    if (!sameGroups) buildGroups();
+    render(); showMeta();
+  } catch (e) { /* brak plan.json (np. podgląd lokalny) - zostaje kopia zapasowa */ }
+  finally { loading = false; }
+}
+document.querySelectorAll("#subs button").forEach(b => b.onclick = () => { state.sub = b.dataset.sub; store.set("bm-sub", state.sub); render(); });
+document.querySelectorAll("#modes button").forEach(b => b.onclick = () => { state.mode = b.dataset.mode; render(); });
+
+/* ---------- Auto-refresh: keep "today" and the current week correct while the page stays open ---------- */
+let lastDay = key(new Date());
+let lastDefaultWeek = defaultWeek();
+const REFRESH_MS = 5 * 60 * 1000;   // automatic refresh every 5 minutes
+function stamp(){
+  const n = new Date();
+  document.getElementById("refreshed").textContent = `Odświeżono automatycznie o ${pad(n.getHours())}:${pad(n.getMinutes())} (co 5 minut).`;
+}
+function refresh(){
+  const nowDay = key(new Date());
+  if (nowDay !== lastDay){
+    const followingCurrent = state.week === lastDefaultWeek;   // viewer was on "this week", not browsing elsewhere
+    lastDay = nowDay;
+    lastDefaultWeek = defaultWeek();
+    if (followingCurrent) state.week = lastDefaultWeek;
+  }
+  render();
+  stamp();
+  loadRemote();
+}
+stamp();
+setInterval(refresh, REFRESH_MS);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) refresh(); });
+window.addEventListener("pageshow", refresh);
+
+const help = document.getElementById("help");
+document.getElementById("helpClose").onclick = () => { help.open = false; help.querySelector("summary").focus(); };
+document.addEventListener("click", ev => { if (help.open && !help.contains(ev.target)) help.open = false; });
+document.addEventListener("keydown", ev => { if (ev.key === "Escape" && help.open) { help.open = false; help.querySelector("summary").focus(); } });
+
+render();
+showMeta();
+loadRemote();
+</script>
+
+</body>
+</html>
