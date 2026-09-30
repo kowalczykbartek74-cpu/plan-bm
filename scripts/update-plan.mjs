@@ -20,7 +20,7 @@ async function get(path) {
       const res = await fetch(BASE + path, { headers: { "User-Agent": "plan-bm (projekt studencki, raz dziennie)" } });
       if (!res.ok) throw new Error(`HTTP ${res.status} dla ${path}`);
       return await res.text();
-    } catch (e) { lastErr = e; await new Promise(r => setTimeout(r, 5000 * (i + 1))); }
+    } catch (e) { lastErr = e; console.log(`Próba ${i + 1} nieudana: ${e.message}${e.cause ? " (" + (e.cause.code || e.cause.message) + ")" : ""}`); await new Promise(r => setTimeout(r, 5000 * (i + 1))); }
   }
   throw lastErr;
 }
@@ -103,4 +103,9 @@ async function main() {
   if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `changed=${changed && !!old}\n`);
 }
 
-main().catch(err => { console.error("BŁĄD:", err.message); process.exit(1); });
+main().catch(err => {
+  const cause = err.cause ? ` (${err.cause.code || err.cause.message || err.cause})` : "";
+  console.error("BŁĄD:", err.message + cause);
+  if (process.env.GITHUB_ACTIONS) console.log(`::error title=Nie udało się pobrać planu::${err.message}${cause}`);
+  process.exit(1);
+});
