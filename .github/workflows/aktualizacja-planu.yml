@@ -2,10 +2,11 @@ name: Aktualizacja planu zajęć
 
 on:
   schedule:
-    # GitHub liczy czas w UTC. 7:00 w Polsce to 5:00 UTC latem i 6:00 UTC zimą,
-    # więc sprawdzamy o obu godzinach (dodatkowe sprawdzenie nic nie psuje).
+    # GitHub liczy czas w UTC. 7:00 w Polsce to 5:00 UTC latem i 6:00 UTC zimą.
+    # Trzy poranne próby: gdy strona uczelni chwilowo nie odpowiada, kolejna to nadrobi.
     - cron: "0 5 * * *"
     - cron: "0 6 * * *"
+    - cron: "0 7 * * *"
   workflow_dispatch:        # ręczne uruchomienie: zakładka Actions → Run workflow
   push:
     branches: [main]
@@ -35,9 +36,12 @@ jobs:
 
       - name: Pobierz plan ze strony uczelni
         id: plan
+        continue-on-error: true   # awaria strony uczelni nie blokuje publikacji
+        timeout-minutes: 20
         run: node scripts/update-plan.mjs
 
       - name: Zapisz nową wersję
+        if: steps.plan.outcome == 'success'
         run: |
           git config user.name "plan-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -80,8 +84,15 @@ jobs:
         with:
           path: _site
 
+      - name: Zgłoś błąd pobierania planu
+        if: steps.plan.outcome == 'failure'
+        run: |
+          echo "::error title=Nie udało się pobrać planu z uczelni::Strona z planem działa na poprzednich danych. Kolejna próba przy następnym uruchomieniu."
+          exit 1
+
   opublikuj:
     needs: sprawdz-plan
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages

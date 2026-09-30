@@ -2,6 +2,8 @@
 // wstawia dane do index.html i przygotowuje listę zmian (zmiany.md).
 // Uruchamiane codziennie przez GitHub Actions. Node 20+, bez zależności.
 import fs from "node:fs";
+import https from "node:https";
+import http from "node:http";
 import { parseGroupPage, parseUpdated, SLOTS } from "./parse.mjs";
 
 const BASE = process.env.PLAN_BASE_URL || "https://planyzajec-efz.usz.edu.pl/";
@@ -13,15 +15,33 @@ const MIN_ENTRIES = 5;   // mniej zajęć w grupie = podejrzana odpowiedź, nie 
 const DAYS = ["Pon", "Wt", "Śr", "Czw", "Pt"];
 const WEEK = { odd: "nieparzysty", even: "parzysty" };
 
+// Zwykłe żądanie HTTP z długim limitem czasu (fetch w Node ma sztywne 10 s na połączenie,
+// a serwer uczelni czasem odpowiada wolno).
+function request(url) {
+  return new Promise((resolve, reject) => {
+    const lib = url.startsWith("https:") ? https : http;
+    const req = lib.get(url, { headers: { "User-Agent": "plan-bm (projekt studencki, raz dziennie)" }, timeout: 60000 }, res => {
+      if (res.statusCode !== 200) { res.resume(); return reject(new Error(`HTTP ${res.statusCode}`)); }
+      let body = "";
+      res.setEncoding("utf8");
+      res.on("data", c => body += c);
+      res.on("end", () => resolve(body));
+    });
+    req.on("timeout", () => req.destroy(new Error("brak odpowiedzi przez 60 s")));
+    req.on("error", reject);
+  });
+}
+
 async function get(path) {
   let lastErr;
-  const waits = [10, 20, 40, 60];   // sekundy między próbami
+  const waits = [15, 30, 60, 90];   // sekundy między próbami
   for (let i = 0; i <= waits.length; i++) {
-    try {
-      const res = await fetch(BASE + path, { headers: { "User-Agent": "plan-bm (projekt studencki, raz dziennie)" } });
-      if (!res.ok) throw new Error(`HTTP ${res.status} dla ${path}`);
-      return await res.text();
-    } catch (e) { lastErr = e; console.log(`Próba ${i + 1} nieudana: ${e.message}${e.cause ? " (" + (e.cause.code || e.cause.message) + ")" : ""}`); if (i < waits.length) await new Promise(r => setTimeout(r, waits[i] * 1000)); }
+    try { return await request(BASE + path); }
+    catch (e) {
+      lastErr = new Error(`${path}: ${e.message}${e.code ? " (" + e.code + ")" : ""}`);
+      console.log(`Próba ${i + 1} nieudana: ${lastErr.message}`);
+      if (i < waits.length) await new Promise(r => setTimeout(r, waits[i] * 1000));
+    }
   }
   throw lastErr;
 }
