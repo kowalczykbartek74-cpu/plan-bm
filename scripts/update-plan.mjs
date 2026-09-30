@@ -21,6 +21,7 @@ function request(url) {
   return new Promise((resolve, reject) => {
     const lib = url.startsWith("https:") ? https : http;
     const req = lib.get(url, { headers: { "User-Agent": "plan-bm (projekt studencki, raz dziennie)" }, timeout: 60000 }, res => {
+      if (res.statusCode >= 300 && res.statusCode < 500) { res.resume(); return resolve(null); }   // przekierowanie / brak strony
       if (res.statusCode !== 200) { res.resume(); return reject(new Error(`HTTP ${res.statusCode}`)); }
       let body = "";
       res.setEncoding("utf8");
@@ -72,12 +73,15 @@ function diffGroups(oldG, newG) {
 
 async function main() {
   const planHtml = await get("plan");
+  if (planHtml === null) throw new Error("Strona główna planu przekierowuje w inne miejsce");
   const updated = parseUpdated(planHtml);
 
   const groups = {};
   let meta = {};
   for (const g of CANDIDATES) {
-    const page = parseGroupPage(await get(`planGrup?numerGrupy=${g}`));
+    const html = await get(`planGrup?numerGrupy=${g}`);
+    if (html === null) continue;   // uczelnia nie ma takiej grupy (przekierowanie)
+    const page = parseGroupPage(html);
     if (page.empty || page.kierunek !== KIERUNEK) continue;
     const count = page.odd.length + page.even.length;
     if (count === 0) continue;
