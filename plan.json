@@ -3,9 +3,9 @@
  "kierunek": "Business Management",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "05.10.2026 13:38",
- "changedAt": "2026-09-30T13:31:40.515Z",
- "checkedAt": "2026-10-05T12:09:05.868Z",
+ "updated": "05.10.2026 14:26",
+ "changedAt": "2026-10-05T14:00:16.691Z",
+ "checkedAt": "2026-10-05T14:00:16.691Z",
  "groups": {
   "C111": {
    "odd": [
@@ -291,16 +291,6 @@
      "r": "s. 002"
     },
     {
-     "d": 3,
-     "s": 1,
-     "pl": "Narzędzia IT w zarządzaniu",
-     "en": "IT Tools in Management",
-     "k": "LAB",
-     "g": "B",
-     "p": "dr inż. Piotr Niemcewicz",
-     "r": "s. SIL 124/125 (lab)"
-    },
-    {
      "d": 4,
      "s": 1,
      "pl": "Analiza matematyczna",
@@ -308,6 +298,16 @@
      "k": "CW",
      "p": "dr Barbara Batóg",
      "r": "s. 112"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Narzędzia IT w zarządzaniu",
+     "en": "IT Tools in Management",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr inż. Piotr Niemcewicz",
+     "r": "s. SIL 116 (lab)"
     },
     {
      "d": 2,
