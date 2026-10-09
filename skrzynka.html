@@ -41,7 +41,23 @@ button,input,textarea,select{font:inherit;color:inherit}
 .tabs a[aria-current="page"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.12)}
 .tabs a:hover{color:var(--ink)}
 
-header{display:flex;flex-direction:column;gap:4px}
+header{display:flex;flex-direction:column;gap:4px;position:relative;padding-right:132px}
+.help{position:absolute;top:0;right:0;z-index:20}
+.help summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:7px;font:600 14px/1 var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:9px 13px;user-select:none}
+.help summary::-webkit-details-marker{display:none}
+.help summary .q{display:inline-grid;place-items:center;width:18px;height:18px;border-radius:50%;background:var(--ink);color:var(--bg);font-size:12px}
+.help summary:hover{border-color:var(--muted)}
+.help[open] summary{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.help[open] summary .q{background:var(--bg);color:var(--ink)}
+.help-panel{position:absolute;right:0;top:calc(100% + 8px);width:min(380px,calc(100vw - 32px));max-height:min(70vh,640px);overflow:auto;background:var(--surface);border:1px solid var(--line);border-radius:14px;box-shadow:0 12px 32px rgba(0,0,0,.18);padding:16px 18px;display:flex;flex-direction:column;gap:12px;font-size:14px}
+.help-panel h3{margin:0;font-family:var(--display);font-weight:600;font-size:18px}
+.help-panel ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
+.help-panel li::marker{color:var(--muted);font-weight:600}
+.help-panel b{font-weight:600}
+.help-panel .hint{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:4px}
+.help-panel .sign p{margin:0;font-family:var(--display);font-weight:600;font-size:16px}
+.help-panel .sign .who{font-family:var(--body);font-weight:500;font-size:13px;color:var(--muted)}
+.help-panel .close{align-self:flex-end;font:600 13px/1 var(--body);border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:8px;padding:8px 12px;cursor:pointer}
 .eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
 h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1.05;margin:0;text-wrap:balance}
 .sub{color:var(--muted);margin:0;max-width:62ch}
@@ -135,7 +151,7 @@ textarea:focus,input:focus,select:focus{border-color:var(--accent);outline:none;
 .login{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .login input{flex:1 1 200px;width:auto;font-size:15px;padding:8px 10px}
 [hidden]{display:none !important}
-@media (max-width:520px){ .who{margin-left:0;width:100%} .tabs{align-self:stretch} .tabs a{flex:1;text-align:center;padding:9px 8px} }
+@media (max-width:520px){ header{padding-right:52px} .help summary .t{display:none} .help summary{padding:9px} .who{margin-left:0;width:100%} .tabs{align-self:stretch} .tabs a{flex:1;text-align:center;padding:9px 8px} }
 </style>
 </head>
 <body>
@@ -149,6 +165,31 @@ textarea:focus,input:focus,select:focus{border-color:var(--accent);outline:none;
     <div class="eyebrow">Business Management · I rok · sprawy do opiekunki roku</div>
     <h1>Skrzynka do opiekunki</h1>
     <p class="sub">Napisz sprawę lub prośbę. Starosta zbiera wiadomości i przekazuje je opiekunce roku, a odpowiedź pojawi się tutaj. Inni mogą poprzeć Twoją prośbę reakcją albo dopisać komentarz.</p>
+    <details class="help" id="help">
+      <summary aria-label="Instrukcja obsługi"><span class="q">?</span><span class="t">Jak używać</span></summary>
+      <div class="help-panel">
+        <h3>Jak działa skrzynka</h3>
+        <ol>
+          <li><b>Napisz wiadomość:</b> wpisz sprawę w polu „Treść”, np. prośbę o przesunięcie kolokwium albo pytanie o zasady zaliczenia. Pisz konkretnie: czego dotyczy sprawa, z jakiego przedmiotu, jaki termin.</li>
+          <li><b>Pilność:</b> „Zwykła” to sprawy bez pośpiechu, „Ważna” to takie na najbliższe dni, a „Pilna” to sprawy, które trzeba załatwić od razu. Pilne trafiają na górę listy.</li>
+          <li><b>Grupa:</b> wybierz C111, C112 albo C113, jeśli sprawa dotyczy tylko jednej grupy. „Cały rok” oznacza wszystkich.</li>
+          <li><b>Podpis:</b> zaznacz „Podpisz imieniem”, jeśli opiekunka ma wiedzieć, kto pyta. Bez podpisu wiadomość pojawi się jako „Anonim”.</li>
+          <li><b>Poprzyj sprawę:</b> jeśli czyjś problem dotyczy też Ciebie, kliknij 👍 albo 🙏 pod jego wiadomością, zamiast pisać to samo jeszcze raz. Starosta widzi liczbę reakcji i przekazuje ją opiekunce. Drugie kliknięcie cofa reakcję.</li>
+          <li><b>Komentarze:</b> kliknij „Skomentuj” albo „Komentarze”, żeby coś dopisać, np. dodatkowe szczegóły.</li>
+          <li><b>Status:</b> „Nowa” czeka na przekazanie, „Przekazana opiekunce” jest już u niej, a przy „Jest odpowiedź” zobaczysz zieloną ramkę z odpowiedzią. Filtr „Czekające na odpowiedź” albo „Z odpowiedzią” pomaga je znaleźć.</li>
+        </ol>
+        <div class="hint">
+          <span>Wiadomości widzi każdy, kto ma link do strony. Nie wpisuj danych prywatnych, np. numeru albumu czy telefonu.</span>
+          <span>Wiadomości nie da się samemu edytować ani usunąć. Jeśli się pomylisz, napisz do starosty.</span>
+          <span>Twój podpis i ustawienia zapamiętują się w tej przeglądarce. Strona odświeża się sama co 30 sekund.</span>
+        </div>
+        <div class="sign">
+          <p>Piszcie śmiało!</p>
+          <p class="who">Wasz starosta</p>
+        </div>
+        <button class="close" id="helpClose" type="button">Zamknij</button>
+      </div>
+    </details>
   </header>
 
   <div class="notice" id="notConfigured" hidden>Skrzynka jest jeszcze podłączana. Wróć za chwilę.</div>
@@ -562,6 +603,12 @@ $("markSent").onclick = async () => {
     state.copiedIds = []; $("markSent").hidden = true; await load();
   } catch (e) { $("adminMsg").className = "msg err"; $("adminMsg").textContent = e.message; }
 };
+
+/* ---------- Instrukcja ---------- */
+const help = $("help");
+$("helpClose").onclick = () => { help.open = false; help.querySelector("summary").focus(); };
+document.addEventListener("click", ev => { if (help.open && !help.contains(ev.target)) help.open = false; });
+document.addEventListener("keydown", ev => { if (ev.key === "Escape" && help.open) { help.open = false; help.querySelector("summary").focus(); } });
 
 /* ---------- Start ---------- */
 if (!CONFIG.url || !CONFIG.key) {
