@@ -1,0 +1,577 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Skrzynka do opiekunki roku: sprawy 1. roku Business Management, zbierane przez starostę">
+<title>Skrzynka do opiekunki</title>
+<script>try{var t=localStorage.getItem("bm-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: tabs, header, a "new message" card, a filter row, then the list of request cards (comments fold open under each) */
+:root{
+  --bg:#f5f6f8; --surface:#ffffff; --ink:#172033; --muted:#5d6678; --line:#dfe3ea; --chip:#eef1f6;
+  --accent:#2457a6; --accent-soft:#e6eef9; --on-accent:#ffffff;
+  --u1:#5d6678; --u1-soft:#eef1f6; --u2:#9a5b00; --u2-soft:#fbefd9; --u3:#b3261e; --u3-soft:#fbe4e2;
+  --ok:#1d7a55; --ok-soft:#e2f3eb; --note:#8a5a00; --note-soft:#fff5dc; --err:#b3261e;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#10141c; --surface:#181e29; --ink:#e7ebf2; --muted:#9aa4b6; --line:#2a3242; --chip:#212939;
+  --accent:#7aa8f0; --accent-soft:#1c2b44; --on-accent:#10141c;
+  --u1:#9aa4b6; --u1-soft:#242c3a; --u2:#f2b35a; --u2-soft:#35270f; --u3:#ff8a80; --u3-soft:#3d1a18;
+  --ok:#5fcf9c; --ok-soft:#173428; --note:#f2c765; --note-soft:#342a12; --err:#ff8a80; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#10141c; --surface:#181e29; --ink:#e7ebf2; --muted:#9aa4b6; --line:#2a3242; --chip:#212939;
+  --accent:#7aa8f0; --accent-soft:#1c2b44; --on-accent:#10141c;
+  --u1:#9aa4b6; --u1-soft:#242c3a; --u2:#f2b35a; --u2-soft:#35270f; --u3:#ff8a80; --u3-soft:#3d1a18;
+  --ok:#5fcf9c; --ok-soft:#173428; --note:#f2c765; --note-soft:#342a12; --err:#ff8a80; color-scheme:dark }
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;padding-inline:16px;padding-block:20px 40px}
+.wrap{max-width:820px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+button,input,textarea,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.tabs{display:flex;gap:4px;background:var(--chip);border-radius:12px;padding:4px;align-self:flex-start;max-width:100%}
+.tabs a{font:600 14px/1.2 var(--body);text-decoration:none;color:var(--muted);padding:9px 14px;border-radius:9px;white-space:nowrap}
+.tabs a[aria-current="page"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.12)}
+.tabs a:hover{color:var(--ink)}
+
+header{display:flex;flex-direction:column;gap:4px}
+.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1.05;margin:0;text-wrap:balance}
+.sub{color:var(--muted);margin:0;max-width:62ch}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px}
+.compose{display:flex;flex-direction:column;gap:12px}
+.compose h2{margin:0;font-family:var(--display);font-weight:600;font-size:20px}
+.field{display:flex;flex-direction:column;gap:6px}
+.lbl{font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600}
+textarea,input[type=text],input[type=password],select{width:100%;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:16px}
+textarea{resize:vertical;min-height:96px;line-height:1.45}
+textarea:focus,input:focus,select:focus{border-color:var(--accent);outline:none;box-shadow:0 0 0 3px var(--accent-soft)}
+.count{font-size:12px;color:var(--muted);align-self:flex-end;font-variant-numeric:tabular-nums}
+.row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end}
+.row > .field{flex:1 1 220px}
+
+.seg{display:inline-flex;flex-wrap:wrap;gap:4px;background:var(--chip);border-radius:10px;padding:4px}
+.seg button{border:0;border-radius:7px;padding:8px 12px;background:transparent;color:var(--muted);cursor:pointer;font-weight:600;font-size:14px;line-height:1.2}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.12)}
+.seg.urg button[data-u="2"][aria-pressed="true"]{background:var(--u2);color:var(--on-accent)}
+.seg.urg button[data-u="3"][aria-pressed="true"]{background:var(--u3);color:var(--on-accent)}
+.check{display:inline-flex;align-items:center;gap:8px;font-weight:500;cursor:pointer;user-select:none}
+.check input{width:18px;height:18px;accent-color:var(--accent)}
+.hint{font-size:13px;color:var(--muted);margin:0}
+
+.btn{border:1px solid var(--line);background:var(--chip);border-radius:10px;padding:10px 14px;font-weight:600;font-size:14px;cursor:pointer;line-height:1.2}
+.btn:hover{border-color:var(--muted)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.btn.primary:hover{filter:brightness(1.07)}
+.btn:disabled{opacity:.5;cursor:default}
+.btn.small{padding:7px 10px;font-size:13px;border-radius:8px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.msg{font-size:14px;font-weight:500}
+.msg.ok{color:var(--ok)} .msg.err{color:var(--err)}
+
+.toolbar{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between}
+.toolbar h2{margin:0;font-family:var(--display);font-weight:600;font-size:20px}
+.toolbar .tools{display:flex;flex-wrap:wrap;gap:8px}
+.toolbar select{width:auto;font-size:14px;padding:8px 10px}
+
+.list{display:flex;flex-direction:column;gap:12px}
+.item{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--u1);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.item.u2{border-left-color:var(--u2)} .item.u3{border-left-color:var(--u3)}
+.item.hidden{opacity:.55;border-style:dashed}
+.head{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.badge{font:600 12px/1 var(--body);padding:5px 8px;border-radius:6px;white-space:nowrap}
+.badge.u1{background:var(--u1-soft);color:var(--u1)} .badge.u2{background:var(--u2-soft);color:var(--u2)} .badge.u3{background:var(--u3-soft);color:var(--u3)}
+.badge.st{background:var(--chip);color:var(--muted)}
+.badge.st.przekazana{background:var(--accent-soft);color:var(--accent)}
+.badge.st.odpowiedz{background:var(--ok-soft);color:var(--ok)}
+.badge.grp{background:transparent;border:1px solid var(--line);color:var(--muted)}
+.who{font-size:13px;color:var(--muted);margin-left:auto;white-space:nowrap}
+.who b{color:var(--ink);font-weight:600}
+.text{margin:0;white-space:pre-wrap;overflow-wrap:anywhere}
+.answer{background:var(--ok-soft);border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px}
+.answer .lbl{color:var(--ok)}
+.answer p{margin:0;white-space:pre-wrap;overflow-wrap:anywhere}
+
+.react{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.rx{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:5px 10px;cursor:pointer;font-size:15px;line-height:1.1;min-height:34px}
+.rx .n{font:600 13px var(--body);font-variant-numeric:tabular-nums;color:var(--muted)}
+.rx[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent)}
+.rx[aria-pressed="true"] .n{color:var(--accent)}
+.rx.empty{opacity:.55}
+.rx.empty:hover{opacity:1}
+.cbtn{margin-left:auto;border:0;background:none;color:var(--accent);font-weight:600;font-size:14px;cursor:pointer;padding:6px 2px}
+
+.comments{border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:10px}
+.cm{display:flex;flex-direction:column;gap:2px;font-size:14px}
+.cm .meta{font-size:12.5px;color:var(--muted)}
+.cm .meta b{color:var(--ink);font-weight:600}
+.cm p{margin:0;white-space:pre-wrap;overflow-wrap:anywhere}
+.cm.hidden{opacity:.5}
+.cform{display:flex;flex-direction:column;gap:8px}
+.cform textarea{min-height:60px;font-size:15px}
+.cform .row2{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.cform input[type=text]{flex:1 1 160px;width:auto;font-size:15px;padding:8px 10px}
+.linkbtn{border:0;background:none;color:var(--muted);font-size:12.5px;text-decoration:underline;cursor:pointer;padding:0}
+
+.admin{border-top:1px dashed var(--line);padding-top:10px;display:flex;flex-direction:column;gap:8px}
+.admin .row2{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.admin select{width:auto;font-size:14px;padding:7px 9px}
+.admin textarea{min-height:60px;font-size:15px}
+.adminbar{display:flex;flex-direction:column;gap:10px;background:var(--note-soft);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.adminbar b{font-family:var(--display);font-weight:600;font-size:17px}
+.adminbar p{margin:0;font-size:14px}
+
+.empty-state{color:var(--muted);text-align:center;padding:28px 12px}
+.notice{background:var(--note-soft);color:var(--note);border-radius:12px;padding:12px 14px;font-size:14px}
+.foot{font-size:13px;color:var(--muted);display:flex;flex-direction:column;gap:8px}
+.login{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.login input{flex:1 1 200px;width:auto;font-size:15px;padding:8px 10px}
+[hidden]{display:none !important}
+@media (max-width:520px){ .who{margin-left:0;width:100%} .tabs{align-self:stretch} .tabs a{flex:1;text-align:center;padding:9px 8px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="tabs" aria-label="Zakładki">
+    <a href="./">Plan zajęć</a>
+    <a href="skrzynka.html" aria-current="page">Skrzynka do opiekunki</a>
+  </nav>
+
+  <header>
+    <div class="eyebrow">Business Management · I rok · sprawy do opiekunki roku</div>
+    <h1>Skrzynka do opiekunki</h1>
+    <p class="sub">Napisz sprawę lub prośbę. Starosta zbiera wiadomości i przekazuje je opiekunce roku, a odpowiedź pojawi się tutaj. Inni mogą poprzeć Twoją prośbę reakcją albo dopisać komentarz.</p>
+  </header>
+
+  <div class="notice" id="notConfigured" hidden>Skrzynka jest jeszcze podłączana. Wróć za chwilę.</div>
+
+  <section class="card compose" id="compose" aria-labelledby="composeTitle">
+    <h2 id="composeTitle">Nowa wiadomość</h2>
+    <div class="field">
+      <label class="lbl" for="tresc">Treść</label>
+      <textarea id="tresc" maxlength="2000" placeholder="Np. Czy kolokwium z Analizy matematycznej może się odbyć tydzień później? Tego samego dnia mamy dwa inne zaliczenia."></textarea>
+      <span class="count" id="count">0 / 2000</span>
+    </div>
+    <div class="row">
+      <div class="field" style="flex:0 1 auto">
+        <span class="lbl" id="urgLbl">Pilność</span>
+        <div class="seg urg" id="urg" role="group" aria-labelledby="urgLbl">
+          <button type="button" data-u="1" aria-pressed="true">Zwykła</button>
+          <button type="button" data-u="2" aria-pressed="false">Ważna</button>
+          <button type="button" data-u="3" aria-pressed="false">Pilna</button>
+        </div>
+      </div>
+      <div class="field" style="flex:0 1 auto">
+        <span class="lbl" id="grpLbl">Grupa</span>
+        <div class="seg" id="grp" role="group" aria-labelledby="grpLbl">
+          <button type="button" data-g="" aria-pressed="true">Cały rok</button>
+          <button type="button" data-g="C111" aria-pressed="false">C111</button>
+          <button type="button" data-g="C112" aria-pressed="false">C112</button>
+          <button type="button" data-g="C113" aria-pressed="false">C113</button>
+        </div>
+      </div>
+    </div>
+    <div class="field">
+      <label class="check"><input type="checkbox" id="podpis"> Podpisz imieniem</label>
+      <input type="text" id="imie" maxlength="60" placeholder="Imię i nazwisko lub samo imię" hidden autocomplete="name">
+      <p class="hint" id="anonHint">Bez podpisu wiadomość pojawi się jako „Anonim”.</p>
+    </div>
+    <div class="actions">
+      <button class="btn primary" id="send" type="button">Wyślij do skrzynki</button>
+      <span class="msg" id="sendMsg" role="status"></span>
+    </div>
+  </section>
+
+  <section class="adminbar" id="adminbar" hidden aria-label="Panel starosty">
+    <b>Panel starosty</b>
+    <p id="adminSummary"></p>
+    <div class="actions">
+      <button class="btn small" id="copyNew" type="button">Kopiuj nowe sprawy do maila</button>
+      <button class="btn small" id="markSent" type="button" hidden>Oznacz skopiowane jako przekazane</button>
+      <button class="btn small" id="logout" type="button">Wyjdź z panelu</button>
+      <span class="msg" id="adminMsg" role="status"></span>
+    </div>
+  </section>
+
+  <section aria-labelledby="listTitle" style="display:flex;flex-direction:column;gap:12px">
+    <div class="toolbar">
+      <h2 id="listTitle">Wiadomości <span id="total" style="color:var(--muted);font-weight:500"></span></h2>
+      <div class="tools">
+        <select id="filter" aria-label="Pokaż">
+          <option value="all">Wszystkie</option>
+          <option value="open">Czekające na odpowiedź</option>
+          <option value="answered">Z odpowiedzią</option>
+        </select>
+        <select id="sort" aria-label="Sortuj">
+          <option value="urg">Najpilniejsze</option>
+          <option value="new">Najnowsze</option>
+          <option value="top">Najwięcej reakcji</option>
+        </select>
+      </div>
+    </div>
+    <div class="list" id="list" aria-live="polite"><div class="empty-state">Wczytuję wiadomości…</div></div>
+  </section>
+
+  <div class="foot">
+    <div>Pisz kulturalnie i konkretnie. Starosta może ukryć spam i wiadomości niezwiązane z tematem. Wiadomości są widoczne dla wszystkich, którzy mają link do strony.</div>
+    <div id="refreshed"></div>
+    <div>
+      <button class="linkbtn" id="adminOpen" type="button">Panel starosty</button>
+      <div class="login" id="loginBox" hidden>
+        <input type="password" id="pass" placeholder="Hasło starosty" autocomplete="current-password">
+        <button class="btn small" id="login" type="button">Wejdź</button>
+        <span class="msg err" id="loginMsg" role="status"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ---------- Połączenie z bazą (Supabase). Klucz anon/publishable jest publiczny z założenia. ---------- */
+const CONFIG = {
+  url: "",   // np. https://abcd.supabase.co
+  key: ""    // klucz anon / publishable
+};
+
+const EMOJI = ["👍","🙏","❤️","😂","😮","😢"];
+const URG = {1:"Zwykła", 2:"Ważna", 3:"Pilna"};
+const STATUS = {nowa:"Nowa", przekazana:"Przekazana opiekunce", odpowiedz:"Jest odpowiedź", zamknieta:"Zamknięta"};
+
+const store = {
+  get(k, s){ try{ return (s ? sessionStorage : localStorage).getItem(k) }catch(e){ return null } },
+  set(k, v, s){ try{ (s ? sessionStorage : localStorage).setItem(k, v) }catch(e){} },
+  del(k, s){ try{ (s ? sessionStorage : localStorage).removeItem(k) }catch(e){} }
+};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const pad = n => String(n).padStart(2, "0");
+
+function uuid(){
+  if (crypto.randomUUID) return crypto.randomUUID();
+  const b = crypto.getRandomValues(new Uint8Array(16)); b[6] = b[6] & 15 | 64; b[8] = b[8] & 63 | 128;
+  const h = [...b].map(x => x.toString(16).padStart(2, "0")).join("");
+  return `${h.slice(0,8)}-${h.slice(8,12)}-${h.slice(12,16)}-${h.slice(16,20)}-${h.slice(20)}`;
+}
+let CLIENT = store.get("bm-klient");
+if (!/^[0-9a-f-]{36}$/i.test(CLIENT || "")) { CLIENT = uuid(); store.set("bm-klient", CLIENT); }
+
+/* ---------- API ---------- */
+const BASE = () => CONFIG.url.replace(/\/+$/, "") + "/rest/v1";
+function headers(extra){
+  const h = {"apikey": CONFIG.key, "Content-Type": "application/json", ...extra};
+  if (CONFIG.key.startsWith("eyJ")) h.Authorization = "Bearer " + CONFIG.key;
+  return h;
+}
+async function api(path, opts = {}){
+  const r = await fetch(BASE() + path, {...opts, headers: headers(opts.headers)});
+  const txt = await r.text();
+  const body = txt ? JSON.parse(txt) : null;
+  if (!r.ok) {
+    const m = (body && (body.message || body.hint)) || `Błąd ${r.status}`;
+    throw new Error(friendly(m));
+  }
+  return body;
+}
+const rpc = (fn, args) => api(`/rpc/${fn}`, {method: "POST", body: JSON.stringify(args)});
+function friendly(m){
+  if (/check constraint.*tresc/i.test(m)) return "Wiadomość musi mieć od 5 do 2000 znaków.";
+  if (/Failed to fetch|NetworkError/i.test(m)) return "Brak połączenia z internetem.";
+  return m;
+}
+
+/* ---------- Stan ---------- */
+const state = {
+  items: [], comments: {}, reactions: {},
+  urg: 1, grp: "", filter: store.get("bm-skr-filter") || "all", sort: store.get("bm-skr-sort") || "urg",
+  open: new Set(), drafts: {}, admin: store.get("bm-admin", true) || "", loaded: false, copiedIds: []
+};
+const g0 = store.get("bm-group"); if (["C111","C112","C113"].includes(g0)) state.grp = g0;
+$("filter").value = state.filter; $("sort").value = state.sort;
+
+/* ---------- Wczytywanie ---------- */
+async function load(){
+  if (!CONFIG.url || !CONFIG.key) return;
+  try {
+    let prosby, komentarze = [];
+    if (state.admin) {
+      const all = await rpc("admin_lista", {p_haslo: state.admin});
+      prosby = all.prosby.sort((a, b) => b.id - a.id); komentarze = all.komentarze;
+    } else {
+      prosby = await api("/prosby?select=id,created_at,updated_at,tresc,autor,grupa,pilnosc,status,odpowiedz,ukryta&order=id.desc&limit=300");
+      if (prosby.length) komentarze = await api("/komentarze?select=id,created_at,prosba_id,tresc,autor,ukryty&order=id.asc&limit=2000");
+    }
+    const rx = await rpc("reakcje_podsumowanie", {p_klient: CLIENT});
+    state.items = prosby;
+    state.comments = {};
+    for (const c of komentarze) (state.comments[c.prosba_id] ||= []).push(c);
+    state.reactions = {};
+    for (const r of rx) (state.reactions[r.prosba_id] ||= {})[r.emoji] = {n: r.ile, mine: r.moja};
+    state.loaded = true;
+    const n = new Date();
+    $("refreshed").textContent = `Odświeżono o ${pad(n.getHours())}:${pad(n.getMinutes())}. Strona odświeża się sama co 30 sekund.`;
+    safeRender();
+  } catch (e) {
+    if (state.admin && /hasło/i.test(e.message)) { state.admin = ""; store.del("bm-admin", true); return load(); }
+    if (!state.loaded) $("list").innerHTML = `<div class="empty-state">Nie udało się wczytać wiadomości. ${esc(e.message)}</div>`;
+  }
+}
+
+/* Nie przerysowuj listy, gdy ktoś właśnie pisze w niej komentarz lub odpowiedź. */
+let pendingRender = false;
+function safeRender(){
+  const a = document.activeElement;
+  if (a && $("list").contains(a) && (a.tagName === "TEXTAREA" || a.tagName === "INPUT" || a.tagName === "SELECT")) { pendingRender = true; return; }
+  pendingRender = false; render();
+}
+document.addEventListener("focusout", () => setTimeout(() => { if (pendingRender) safeRender(); }, 0));
+
+/* ---------- Rysowanie ---------- */
+function when(iso){
+  const d = new Date(iso), s = (Date.now() - d) / 1000;
+  if (s < 60) return "przed chwilą";
+  if (s < 3600) return `${Math.floor(s/60)} min temu`;
+  if (s < 6*3600) return `${Math.floor(s/3600)} godz. temu`;
+  const today = new Date(); today.setHours(0,0,0,0);
+  const hm = `${pad(d.getHours())}:${pad(d.getMinutes())}`;
+  if (d >= today) return `dziś, ${hm}`;
+  if (d >= new Date(today - 864e5)) return `wczoraj, ${hm}`;
+  return `${d.getDate()}.${pad(d.getMonth()+1)}${d.getFullYear() !== today.getFullYear() ? "." + d.getFullYear() : ""}, ${hm}`;
+}
+const plural = (n, one, few, many) => n === 1 ? one : (n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? few : many;
+const rxTotal = id => Object.values(state.reactions[id] || {}).reduce((a, r) => a + r.n, 0);
+const isOpen = p => p.status === "nowa" || p.status === "przekazana";
+
+function visible(){
+  let xs = state.items.slice();
+  if (state.filter === "open") xs = xs.filter(isOpen);
+  if (state.filter === "answered") xs = xs.filter(p => p.status === "odpowiedz" || p.odpowiedz);
+  const byNew = (a, b) => b.id - a.id;
+  if (state.sort === "new") xs.sort(byNew);
+  if (state.sort === "top") xs.sort((a, b) => rxTotal(b.id) - rxTotal(a.id) || byNew(a, b));
+  if (state.sort === "urg") xs.sort((a, b) => (isOpen(b) - isOpen(a)) || (b.pilnosc - a.pilnosc) || byNew(a, b));
+  return xs;
+}
+
+function itemHtml(p){
+  const cs = state.comments[p.id] || [];
+  const shown = state.admin ? cs : cs.filter(c => !c.ukryty);
+  const rx = state.reactions[p.id] || {};
+  const open = state.open.has(p.id);
+  const rxHtml = EMOJI.map(e => {
+    const r = rx[e] || {n: 0, mine: false};
+    return `<button class="rx${r.n ? "" : " empty"}" data-act="rx" data-id="${p.id}" data-e="${e}" aria-pressed="${r.mine}" aria-label="${e} ${r.n}">${e}${r.n ? `<span class="n">${r.n}</span>` : ""}</button>`;
+  }).join("");
+  const cmHtml = shown.map(c => `<div class="cm${c.ukryty ? " hidden" : ""}">
+      <div class="meta"><b>${c.autor ? esc(c.autor) : "Anonim"}</b> · ${when(c.created_at)}${c.ukryty ? " · ukryty" : ""}
+        ${state.admin ? ` · <button class="linkbtn" data-act="hidec" data-id="${c.id}" data-v="${!c.ukryty}">${c.ukryty ? "przywróć" : "ukryj"}</button>` : ""}</div>
+      <p>${esc(c.tresc)}</p></div>`).join("");
+  const d = state.drafts[p.id] || {};
+  const name = store.get("bm-imie") || "";
+  const admin = state.admin ? `<div class="admin">
+      <span class="lbl">Starosta</span>
+      <div class="row2">
+        <select data-role="status" data-id="${p.id}" aria-label="Status">${Object.entries(STATUS).map(([k, v]) => `<option value="${k}"${k === p.status ? " selected" : ""}>${v}</option>`).join("")}</select>
+        <button class="btn small" data-act="hide" data-id="${p.id}" data-v="${!p.ukryta}">${p.ukryta ? "Przywróć" : "Ukryj"}</button>
+      </div>
+      <textarea data-role="answer" data-id="${p.id}" maxlength="3000" placeholder="Odpowiedź opiekunki (widoczna dla wszystkich)">${esc(d.answer ?? p.odpowiedz ?? "")}</textarea>
+      <div class="row2"><button class="btn small primary" data-act="save" data-id="${p.id}">Zapisz status i odpowiedź</button><span class="msg" data-msg="${p.id}"></span></div>
+    </div>` : "";
+  return `<article class="item u${p.pilnosc}${p.ukryta ? " hidden" : ""}" data-item="${p.id}">
+    <div class="head">
+      <span class="badge u${p.pilnosc}">${URG[p.pilnosc]}</span>
+      <span class="badge st ${p.status}">${STATUS[p.status]}</span>
+      ${p.grupa ? `<span class="badge grp">${esc(p.grupa)}</span>` : ""}
+      ${p.ukryta ? `<span class="badge st">Ukryta</span>` : ""}
+      <span class="who"><b>${p.autor ? esc(p.autor) : "Anonim"}</b> · ${when(p.created_at)}</span>
+    </div>
+    <p class="text">${esc(p.tresc)}</p>
+    ${p.odpowiedz ? `<div class="answer"><span class="lbl">Odpowiedź opiekunki</span><p>${esc(p.odpowiedz)}</p></div>` : ""}
+    <div class="react">${rxHtml}
+      <button class="cbtn" data-act="toggle" data-id="${p.id}" aria-expanded="${open}">💬 ${shown.length ? `Komentarze (${shown.length})` : "Skomentuj"}</button>
+    </div>
+    ${open ? `<div class="comments">${cmHtml}
+      <div class="cform">
+        <textarea data-role="comment" data-id="${p.id}" maxlength="1000" placeholder="Twój komentarz">${esc(d.comment || "")}</textarea>
+        <div class="row2">
+          <input type="text" data-role="cname" data-id="${p.id}" maxlength="60" placeholder="Podpis (puste = anonim)" value="${esc(d.cname ?? name)}">
+          <button class="btn small primary" data-act="comment" data-id="${p.id}">Dodaj komentarz</button>
+          <span class="msg" data-msg="${p.id}"></span>
+        </div>
+      </div></div>` : ""}
+    ${admin}
+  </article>`;
+}
+
+function render(){
+  const xs = visible();
+  const all = state.items.filter(p => !p.ukryta);
+  $("total").textContent = all.length ? `(${all.length})` : "";
+  if (!state.items.length) $("list").innerHTML = `<div class="empty-state">Na razie pusto. Napisz pierwszą sprawę.</div>`;
+  else if (!xs.length) $("list").innerHTML = `<div class="empty-state">Brak wiadomości w tym widoku.</div>`;
+  else $("list").innerHTML = xs.map(itemHtml).join("");
+  renderAdminBar();
+}
+
+function renderAdminBar(){
+  $("adminbar").hidden = !state.admin;
+  $("adminOpen").hidden = !!state.admin;
+  if (!state.admin) return;
+  const nowe = state.items.filter(p => p.status === "nowa" && !p.ukryta);
+  const c = k => nowe.filter(p => p.pilnosc === k).length;
+  $("adminSummary").textContent = nowe.length
+    ? `Nowe sprawy do przekazania: ${nowe.length} (pilne: ${c(3)}, ważne: ${c(2)}, zwykłe: ${c(1)}).`
+    : "Wszystko przekazane. Brak nowych spraw.";
+  $("copyNew").disabled = !nowe.length;
+}
+
+/* ---------- Nowa wiadomość ---------- */
+const tresc = $("tresc");
+const draft = store.get("bm-skr-draft"); if (draft) tresc.value = draft;
+function updCount(){ $("count").textContent = `${tresc.value.length} / 2000`; }
+tresc.addEventListener("input", () => { updCount(); store.set("bm-skr-draft", tresc.value); });
+updCount();
+
+function setSeg(id, attr, val){ document.querySelectorAll(`#${id} button`).forEach(b => b.setAttribute("aria-pressed", b.dataset[attr] === String(val))); }
+document.querySelectorAll("#urg button").forEach(b => b.onclick = () => { state.urg = +b.dataset.u; setSeg("urg", "u", state.urg); });
+document.querySelectorAll("#grp button").forEach(b => b.onclick = () => { state.grp = b.dataset.g; setSeg("grp", "g", state.grp); });
+setSeg("grp", "g", state.grp);
+
+const podpis = $("podpis"), imie = $("imie");
+imie.value = store.get("bm-imie") || "";
+podpis.checked = store.get("bm-podpis") === "1";
+function updPodpis(){ imie.hidden = !podpis.checked; $("anonHint").hidden = podpis.checked; }
+podpis.onchange = () => { store.set("bm-podpis", podpis.checked ? "1" : "0"); updPodpis(); if (podpis.checked) imie.focus(); };
+imie.oninput = () => store.set("bm-imie", imie.value.trim());
+updPodpis();
+
+$("send").onclick = async () => {
+  const t = tresc.value.trim(), msg = $("sendMsg");
+  msg.className = "msg";
+  if (t.length < 5) { msg.className = "msg err"; msg.textContent = "Napisz trochę więcej (min. 5 znaków)."; tresc.focus(); return; }
+  if (podpis.checked && !imie.value.trim()) { msg.className = "msg err"; msg.textContent = "Wpisz imię albo odznacz podpis."; imie.focus(); return; }
+  $("send").disabled = true; msg.textContent = "Wysyłam…";
+  try {
+    await api("/prosby", {method: "POST", headers: {Prefer: "return=minimal"},
+      body: JSON.stringify({tresc: t, pilnosc: state.urg, grupa: state.grp || null, autor: podpis.checked ? imie.value.trim() : null})});
+    tresc.value = ""; store.del("bm-skr-draft"); updCount();
+    state.urg = 1; setSeg("urg", "u", 1);
+    msg.className = "msg ok"; msg.textContent = "Wysłane! Twoja wiadomość jest na liście poniżej.";
+    await load();
+  } catch (e) { msg.className = "msg err"; msg.textContent = e.message; }
+  finally { $("send").disabled = false; }
+};
+
+/* ---------- Akcje na liście ---------- */
+$("filter").onchange = e => { state.filter = e.target.value; store.set("bm-skr-filter", state.filter); render(); };
+$("sort").onchange = e => { state.sort = e.target.value; store.set("bm-skr-sort", state.sort); render(); };
+
+$("list").addEventListener("input", e => {
+  const role = e.target.dataset.role, id = e.target.dataset.id; if (!role) return;
+  const d = state.drafts[id] ||= {};
+  if (role === "comment") d.comment = e.target.value;
+  if (role === "cname") { d.cname = e.target.value; store.set("bm-imie", e.target.value.trim()); }
+  if (role === "answer") d.answer = e.target.value;
+});
+
+function itemMsg(id, text, ok){
+  const m = document.querySelector(`[data-msg="${id}"]`);
+  if (m) { m.className = "msg " + (ok ? "ok" : "err"); m.textContent = text; }
+}
+
+$("list").addEventListener("click", async e => {
+  const b = e.target.closest("[data-act]"); if (!b) return;
+  const id = +b.dataset.id, act = b.dataset.act;
+  if (act === "toggle") { state.open.has(id) ? state.open.delete(id) : state.open.add(id); render();
+    if (state.open.has(id)) document.querySelector(`textarea[data-role="comment"][data-id="${id}"]`)?.focus(); return; }
+  if (act === "rx") {
+    const e2 = b.dataset.e, rx = (state.reactions[id] ||= {}), r = (rx[e2] ||= {n: 0, mine: false});
+    r.mine = !r.mine; r.n += r.mine ? 1 : -1; render();          // od razu na ekranie
+    try { await rpc("przelacz_reakcje", {p_prosba: id, p_emoji: e2, p_klient: CLIENT}); }
+    catch (err) { r.mine = !r.mine; r.n += r.mine ? 1 : -1; render(); }
+    return;
+  }
+  if (act === "comment") {
+    const d = state.drafts[id] || {}, t = (d.comment || "").trim();
+    if (!t) { itemMsg(id, "Komentarz jest pusty.", false); return; }
+    b.disabled = true;
+    try {
+      await api("/komentarze", {method: "POST", headers: {Prefer: "return=minimal"},
+        body: JSON.stringify({prosba_id: id, tresc: t, autor: (d.cname ?? store.get("bm-imie") ?? "").trim() || null})});
+      d.comment = ""; document.activeElement?.blur(); await load();
+    } catch (err) { itemMsg(id, err.message, false); b.disabled = false; }
+    return;
+  }
+  if (!state.admin) return;
+  try {
+    if (act === "save") {
+      const st = document.querySelector(`select[data-role="status"][data-id="${id}"]`).value;
+      const ans = document.querySelector(`textarea[data-role="answer"][data-id="${id}"]`).value;
+      await rpc("admin_prosba", {p_haslo: state.admin, p_id: id, p_status: st, p_odpowiedz: ans, p_ukryta: null});
+      delete state.drafts[id]; document.activeElement?.blur(); await load(); itemMsg(id, "Zapisano.", true);
+    }
+    if (act === "hide") { await rpc("admin_prosba", {p_haslo: state.admin, p_id: id, p_status: null, p_odpowiedz: null, p_ukryta: b.dataset.v === "true"}); await load(); }
+    if (act === "hidec") { await rpc("admin_komentarz", {p_haslo: state.admin, p_id: id, p_ukryty: b.dataset.v === "true"}); await load(); }
+  } catch (err) { $("adminMsg").className = "msg err"; $("adminMsg").textContent = err.message; }
+});
+
+/* ---------- Panel starosty ---------- */
+$("adminOpen").onclick = () => { $("loginBox").hidden = !$("loginBox").hidden; if (!$("loginBox").hidden) $("pass").focus(); };
+async function login(){
+  const p = $("pass").value;
+  try {
+    const ok = await rpc("admin_ok", {p_haslo: p});
+    if (!ok) { $("loginMsg").textContent = "Złe hasło."; return; }
+    state.admin = p; store.set("bm-admin", p, true);
+    $("pass").value = ""; $("loginMsg").textContent = ""; $("loginBox").hidden = true;
+    await load(); window.scrollTo({top: $("adminbar").offsetTop - 16, behavior: "smooth"});
+  } catch (e) { $("loginMsg").textContent = e.message; }
+}
+$("login").onclick = login;
+$("pass").onkeydown = e => { if (e.key === "Enter") login(); };
+$("logout").onclick = () => { state.admin = ""; store.del("bm-admin", true); $("markSent").hidden = true; load(); };
+
+$("copyNew").onclick = async () => {
+  const nowe = state.items.filter(p => p.status === "nowa" && !p.ukryta).sort((a, b) => b.pilnosc - a.pilnosc || a.id - b.id);
+  const lines = nowe.map((p, i) => {
+    const rx = rxTotal(p.id), cs = (state.comments[p.id] || []).filter(c => !c.ukryty);
+    let s = `${i+1}. [${URG[p.pilnosc]}]${p.grupa ? ` (${p.grupa})` : ""} ${p.tresc}`;
+    if (p.autor) s += `\n   Od: ${p.autor}`;
+    if (rx) s += `\n   Poparcie: ${rx} ${plural(rx, "reakcja", "reakcje", "reakcji")}`;
+    for (const c of cs) s += `\n   – komentarz${c.autor ? ` (${c.autor})` : ""}: ${c.tresc}`;
+    return s;
+  });
+  const text = `Dzień dobry,\n\nprzesyłam sprawy zgłoszone przez studentów I roku Business Management:\n\n${lines.join("\n\n")}\n\nZ wyrazami szacunku,\nstarosta roku`;
+  try { await navigator.clipboard.writeText(text); }
+  catch (e) { const ta = document.createElement("textarea"); ta.value = text; document.body.append(ta); ta.select(); document.execCommand("copy"); ta.remove(); }
+  state.copiedIds = nowe.map(p => p.id);
+  $("markSent").hidden = false;
+  $("adminMsg").className = "msg ok"; $("adminMsg").textContent = `Skopiowano ${nowe.length} spraw. Wklej je do maila do opiekunki.`;
+};
+$("markSent").onclick = async () => {
+  try {
+    for (const id of state.copiedIds) await rpc("admin_prosba", {p_haslo: state.admin, p_id: id, p_status: "przekazana", p_odpowiedz: null, p_ukryta: null});
+    $("adminMsg").className = "msg ok"; $("adminMsg").textContent = "Oznaczono jako przekazane.";
+    state.copiedIds = []; $("markSent").hidden = true; await load();
+  } catch (e) { $("adminMsg").className = "msg err"; $("adminMsg").textContent = e.message; }
+};
+
+/* ---------- Start ---------- */
+if (!CONFIG.url || !CONFIG.key) {
+  $("notConfigured").hidden = false; $("send").disabled = true;
+  $("list").innerHTML = `<div class="empty-state">Skrzynka jeszcze nie działa.</div>`;
+} else {
+  load();
+  setInterval(() => { if (!document.hidden) load(); }, 30000);
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+}
+</script>
+</body>
+</html>

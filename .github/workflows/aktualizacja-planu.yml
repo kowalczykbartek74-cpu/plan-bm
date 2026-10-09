@@ -10,7 +10,7 @@ on:
   workflow_dispatch:        # ręczne uruchomienie: zakładka Actions → Run workflow
   push:
     branches: [main]
-    paths: ["index.html", "plan.json", "scripts/**", ".github/workflows/**"]
+    paths: ["index.html", "skrzynka.html", "plan.json", "scripts/**", ".github/workflows/**"]
 
 permissions:
   contents: write
@@ -77,7 +77,7 @@ jobs:
       - name: Przygotuj stronę
         run: |
           mkdir -p _site
-          cp index.html plan.json _site/
+          cp index.html skrzynka.html plan.json _site/
           touch _site/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
