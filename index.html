@@ -7,33 +7,38 @@
 <title>Plan zajęć BM</title>
 <script>try{var t=localStorage.getItem("bm-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<meta name="theme-color" content="#E7EEEE" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#071820" media="(prefers-color-scheme: dark)">
 <style>
 /* Layout: controls (group, lab subgroup, week mode) in a sticky block, then five day cards that wrap to one column on phones */
 :root{
-  --bg:#f5f6f8; --surface:#ffffff; --ink:#172033; --muted:#5d6678; --line:#dfe3ea; --chip:#eef1f6;
-  --odd:#2457a6; --even:#b5620f; --on-accent:#ffffff;
-  --w:#2457a6; --w-soft:#e6eef9; --cw:#1d7a55; --cw-soft:#e2f3eb; --lab:#7a3db0; --lab-soft:#f0e6fa;
-  --k:#9a5b00; --k-soft:#fbefd9; --s:#b0325a; --s-soft:#fbe5ec; --x:#4b5566; --x-soft:#eceff4;
-  --note:#8a5a00; --note-soft:#fff5dc; --today:#2457a6;
-  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
-  --body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  --bg:#E7EEEE; --surface:#FBFDFD; --ink:#0F2A36; --muted:#4D646E; --line:#C9D7D9; --chip:#DCE6E7;
+  --odd:#0E6A73; --even:#B4511A; --on-accent:#FFFFFF;
+  --w:#1F5A8C; --w-soft:#E1EBF5; --cw:#17775A; --cw-soft:#DDF0E7; --lab:#6E3FA3; --lab-soft:#ECE3F7;
+  --k:#8E5800; --k-soft:#F8EDD5; --s:#A8325A; --s-soft:#F8E2EA; --x:#47585F; --x-soft:#E4EBEC;
+  --note:#7A5200; --note-soft:#FFF3D1; --today:#0E6A73;
+  --tile:#0F2A36; --tile-ink:#F6C343; --tile-sub:#9FB8C0; --signal:#F6C343; --on-signal:#0F2A36;
+  --display:"Big Shoulders Display","Arial Narrow",system-ui,sans-serif;
+  --body:"Atkinson Hyperlegible","Segoe UI",system-ui,sans-serif;
+  --mono:"Big Shoulders Display",ui-monospace,monospace;
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --bg:#10141c; --surface:#181e29; --ink:#e7ebf2; --muted:#9aa4b6; --line:#2a3242; --chip:#212939;
-  --odd:#7aa8f0; --even:#f0a95a; --on-accent:#10141c;
-  --w:#7aa8f0; --w-soft:#1c2b44; --cw:#5fcf9c; --cw-soft:#173428; --lab:#c49af0; --lab-soft:#2c2140;
-  --k:#f2b35a; --k-soft:#35270f; --s:#f08aab; --s-soft:#3a1c27; --x:#b3bccb; --x-soft:#242c3a;
-  --note:#f2c765; --note-soft:#342a12; --today:#7aa8f0; color-scheme:dark }}
+  --bg:#071820; --surface:#0E2530; --ink:#E3EDEF; --muted:#8FA8B0; --line:#1D3B47; --chip:#15303B;
+  --odd:#5CC6C6; --even:#F0995C; --on-accent:#071820;
+  --w:#86B6F0; --w-soft:#16304A; --cw:#62D0A2; --cw-soft:#123628; --lab:#C49AF0; --lab-soft:#2A2142;
+  --k:#F2B35A; --k-soft:#33260E; --s:#F08AAB; --s-soft:#3A1C27; --x:#B0C0C6; --x-soft:#1C323C;
+  --note:#F2C765; --note-soft:#2E2610; --today:#5CC6C6;
+  --tile:#04121A; --tile-ink:#F6C343; --tile-sub:#7E99A2; --signal:#F6C343; --on-signal:#071820; color-scheme:dark }}
 :root[data-theme="dark"]{
-  --bg:#10141c; --surface:#181e29; --ink:#e7ebf2; --muted:#9aa4b6; --line:#2a3242; --chip:#212939;
-  --odd:#7aa8f0; --even:#f0a95a; --on-accent:#10141c;
-  --w:#7aa8f0; --w-soft:#1c2b44; --cw:#5fcf9c; --cw-soft:#173428; --lab:#c49af0; --lab-soft:#2c2140;
-  --k:#f2b35a; --k-soft:#35270f; --s:#f08aab; --s-soft:#3a1c27; --x:#b3bccb; --x-soft:#242c3a;
-  --note:#f2c765; --note-soft:#342a12; --today:#7aa8f0; color-scheme:dark }
+  --bg:#071820; --surface:#0E2530; --ink:#E3EDEF; --muted:#8FA8B0; --line:#1D3B47; --chip:#15303B;
+  --odd:#5CC6C6; --even:#F0995C; --on-accent:#071820;
+  --w:#86B6F0; --w-soft:#16304A; --cw:#62D0A2; --cw-soft:#123628; --lab:#C49AF0; --lab-soft:#2A2142;
+  --k:#F2B35A; --k-soft:#33260E; --s:#F08AAB; --s-soft:#3A1C27; --x:#B0C0C6; --x-soft:#1C323C;
+  --note:#F2C765; --note-soft:#2E2610; --today:#5CC6C6;
+  --tile:#04121A; --tile-ink:#F6C343; --tile-sub:#7E99A2; --signal:#F6C343; --on-signal:#071820; color-scheme:dark }
 
-body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;padding-inline:16px;padding-block:20px 40px}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;padding-inline:16px;padding-block:20px 40px}
 .wrap{max-width:1320px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
 header{display:flex;flex-direction:column;gap:4px;position:relative;padding-right:132px}
 .help{position:absolute;top:0;right:0;z-index:20}
@@ -69,7 +74,7 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 
 .controls{display:flex;flex-direction:column;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px}
 .ctl{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px}
-.ctl-label{font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600;min-width:74px}
+.ctl-label{font-size:14px;color:var(--ink);font-weight:700;min-width:74px}
 .years{display:flex;flex-wrap:wrap;gap:8px 16px}
 .year{display:flex;align-items:center;gap:6px}
 .year span{font-size:12.5px;color:var(--muted)}
@@ -90,7 +95,7 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 .nav button:disabled{opacity:.35;cursor:default}
 .nav .today-btn{width:auto;padding:0 12px;font-size:14px}
 .wk{display:flex;flex-direction:column;min-width:0}
-.wk b{font-family:var(--display);font-weight:600;font-size:19px;line-height:1.15}
+.wk b{font-family:var(--display);font-weight:800;font-size:25px;line-height:1.05;letter-spacing:.01em}
 .wk small{color:var(--muted);font-size:13px}
 .par{display:inline-flex;gap:6px;flex-wrap:wrap}
 .tag-odd,.tag-even{font:600 12px/1 var(--body);padding:5px 8px;border-radius:6px;color:var(--on-accent)}
@@ -105,17 +110,20 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 
 .days{display:grid;grid-template-columns:repeat(auto-fit,minmax(236px,1fr));gap:12px;align-items:start}
 .day{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;min-width:0}
-.day.is-today{border-color:var(--today);box-shadow:0 0 0 1px var(--today)}
-.day h2{margin:0;display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding:11px 14px;border-bottom:1px solid var(--line);font-family:var(--display);font-weight:600;font-size:18px}
+.day.is-today{border-color:var(--signal);box-shadow:0 0 0 2px var(--signal)}
+.day.is-today h2{background:var(--tile);color:var(--tile-ink);border-bottom-color:var(--tile)}
+.day.is-today h2 .dt{color:var(--tile-sub)}
+.day h2{margin:0;display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding:11px 14px;border-bottom:1px solid var(--line);font-family:var(--display);font-weight:800;font-size:24px;letter-spacing:.01em}
 .day h2 .dt{font:500 13px var(--body);color:var(--muted);font-variant-numeric:tabular-nums}
-.day h2 .now{font:600 11px/1 var(--body);color:var(--on-accent);background:var(--today);padding:4px 6px;border-radius:5px;margin-left:6px;vertical-align:2px}
+.day h2 .now{font:700 12px/1 var(--body);color:var(--on-signal);background:var(--signal);padding:4px 6px;border-radius:5px;margin-left:6px;vertical-align:2px}
 .daynote{font-size:12.5px;background:var(--note-soft);color:var(--note);padding:7px 14px}
 .list{display:flex;flex-direction:column}
-.cls{display:grid;grid-template-columns:48px 1fr;gap:10px;padding:10px 14px;border-top:1px solid var(--line)}
+.cls{display:grid;grid-template-columns:60px 1fr;gap:10px;padding:10px 14px;border-top:1px solid var(--line)}
 .cls:first-child{border-top:0}
-.time{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:13px;line-height:1.25}
-.time span{display:block;color:var(--muted)}
-.time .chip{display:inline-block;margin-top:6px}
+.time{align-self:start;display:flex;flex-direction:column;align-items:center;gap:6px;font-family:var(--display);font-variant-numeric:tabular-nums}
+.time .board{width:100%;background:var(--tile);color:var(--tile-ink);border-radius:7px;padding:7px 0 6px;text-align:center;font-weight:800;font-size:21px;line-height:1;letter-spacing:.03em;box-shadow:inset 0 -1px 0 rgba(255,255,255,.06)}
+.time .board span{display:block;color:var(--tile-sub);font-size:14px;font-weight:700;margin-top:3px}
+.time .chip{display:inline-block}
 .info{min-width:0;display:flex;flex-direction:column;gap:2px}
 .top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
 .name{font-weight:600;line-height:1.3;overflow-wrap:break-word}
@@ -134,6 +142,10 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 @media (max-width:520px){ .ctl-label{min-width:0;width:100%} .weekbar{flex-direction:column;align-items:stretch} header{padding-right:52px} .help summary .t{display:none} .help summary{padding:9px} .tabs{flex:1} .tabs a{flex:1;text-align:center;padding:9px 6px;font-size:13.5px;white-space:normal} .langbtn{padding:0 10px} }
 @media (prefers-reduced-motion:no-preference){ .days{animation:fade .18s ease} }
 @keyframes fade{from{opacity:.5}to{opacity:1}}
+/* Motyw „port”: godziny jak na tablicy odjazdów, nagłówki krojem szyldów portowych */
+h1{font-family:var(--display);font-weight:800;font-size:clamp(38px,9vw,56px);line-height:.95;letter-spacing:.005em;margin:0;text-wrap:balance}
+.eyebrow{font-size:13.5px;letter-spacing:0;text-transform:none;color:var(--muted);font-weight:700}
+.tabs a[aria-current="page"]{background:var(--tile);color:var(--tile-ink);box-shadow:none}
 </style>
 </head>
 <body>
@@ -411,7 +423,7 @@ function cls(e, showDates){
   if (e.tag) tags.push(e.tag);
   const note = e.n && (showDates || !e.dates) ? trNote(e.n) : "";
   return `<div class="cls">
-    <div class="time">${t[0]}<span>${t[1]}</span>${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}</div>
+    <div class="time"><div class="board">${t[0]}<span>${t[1]}</span></div>${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}</div>
     <div class="info">
       <div class="name">${esc(pl)}</div>
       ${en ? `<div class="en">${esc(en)}</div>` : ""}
