@@ -36,7 +36,10 @@ body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font
 button,input,textarea,select{font:inherit;color:inherit}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
-.tabs{display:flex;gap:4px;background:var(--chip);border-radius:12px;padding:4px;align-self:flex-start;max-width:100%}
+.topbar{display:flex;gap:8px;align-items:center;justify-content:space-between}
+.tabs{display:flex;gap:4px;background:var(--chip);border-radius:12px;padding:4px;max-width:100%;min-width:0}
+.langbtn{flex:none;font:600 14px/1 var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:10px;padding:0 12px;height:42px;cursor:pointer}
+.langbtn:hover{border-color:var(--muted)}
 .tabs a{font:600 14px/1.2 var(--body);text-decoration:none;color:var(--muted);padding:9px 14px;border-radius:9px;white-space:nowrap}
 .tabs a[aria-current="page"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.12)}
 .tabs a:hover{color:var(--ink)}
@@ -151,69 +154,72 @@ textarea:focus,input:focus,select:focus{border-color:var(--accent);outline:none;
 .login{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .login input{flex:1 1 200px;width:auto;font-size:15px;padding:8px 10px}
 [hidden]{display:none !important}
-@media (max-width:520px){ header{padding-right:52px} .help summary .t{display:none} .help summary{padding:9px} .who{margin-left:0;width:100%} .tabs{align-self:stretch} .tabs a{flex:1;text-align:center;padding:9px 8px} }
+@media (max-width:520px){ header{padding-right:52px} .help summary .t{display:none} .help summary{padding:9px} .who{margin-left:0;width:100%} .tabs{flex:1} .tabs a{flex:1;text-align:center;padding:9px 6px;font-size:13.5px;white-space:normal} .langbtn{padding:0 10px} }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <nav class="tabs" aria-label="Zakładki">
-    <a href="./">Plan zajęć</a>
-    <a href="skrzynka.html" aria-current="page">Skrzynka do opiekunki</a>
-  </nav>
+  <div class="topbar">
+    <nav class="tabs" aria-label="Zakładki" data-i18n-attr="aria-label=aTabs">
+      <a href="./" data-i18n="tabPlan">Plan zajęć</a>
+      <a href="skrzynka.html" aria-current="page" data-i18n="tabBox">Skrzynka do opiekunki</a>
+    </nav>
+    <button class="langbtn" id="langBtn" type="button"></button>
+  </div>
 
   <header>
-    <div class="eyebrow">Business Management · I rok · sprawy do opiekunki roku</div>
-    <h1>Skrzynka do opiekunki</h1>
-    <p class="sub">Napisz sprawę lub prośbę. Starosta zbiera wiadomości i przekazuje je opiekunce roku, a odpowiedź pojawi się tutaj. Inni mogą poprzeć Twoją prośbę reakcją albo dopisać komentarz.</p>
+    <div class="eyebrow" data-i18n="eyebrow">Business Management · I rok · sprawy do opiekunki roku</div>
+    <h1 data-i18n="title">Skrzynka do opiekunki</h1>
+    <p class="sub" data-i18n="sub">Napisz sprawę lub prośbę. Starosta zbiera wiadomości i przekazuje je opiekunce roku, a odpowiedź pojawi się tutaj. Inni mogą poprzeć Twoją prośbę reakcją albo dopisać komentarz.</p>
     <details class="help" id="help">
-      <summary aria-label="Instrukcja obsługi"><span class="q">?</span><span class="t">Jak używać</span></summary>
+      <summary aria-label="Instrukcja obsługi" data-i18n-attr="aria-label=aHelp"><span class="q">?</span><span class="t" data-i18n="howto">Jak używać</span></summary>
       <div class="help-panel">
-        <h3>Jak działa skrzynka</h3>
+        <h3 data-i18n="helpH">Jak działa skrzynka</h3>
         <ol>
-          <li><b>Napisz wiadomość:</b> wpisz sprawę w polu „Treść”, np. prośbę o przesunięcie kolokwium albo pytanie o zasady zaliczenia. Pisz konkretnie: czego dotyczy sprawa, z jakiego przedmiotu, jaki termin.</li>
-          <li><b>Pilność:</b> „Zwykła” to sprawy bez pośpiechu, „Ważna” to takie na najbliższe dni, a „Pilna” to sprawy, które trzeba załatwić od razu. Pilne trafiają na górę listy.</li>
-          <li><b>Grupa:</b> wybierz C111, C112 albo C113, jeśli sprawa dotyczy tylko jednej grupy. „Cały rok” oznacza wszystkich.</li>
-          <li><b>Podpis:</b> zaznacz „Podpisz imieniem”, jeśli opiekunka ma wiedzieć, kto pyta. Bez podpisu wiadomość pojawi się jako „Anonim”.</li>
-          <li><b>Poprzyj sprawę:</b> jeśli czyjś problem dotyczy też Ciebie, kliknij 👍 albo 🙏 pod jego wiadomością, zamiast pisać to samo jeszcze raz. Starosta widzi liczbę reakcji i przekazuje ją opiekunce. Drugie kliknięcie cofa reakcję.</li>
-          <li><b>Komentarze:</b> kliknij „Skomentuj” albo „Komentarze”, żeby coś dopisać, np. dodatkowe szczegóły.</li>
-          <li><b>Status:</b> „Nowa” czeka na przekazanie, „Przekazana opiekunce” jest już u niej, a przy „Jest odpowiedź” zobaczysz zieloną ramkę z odpowiedzią. Filtr „Czekające na odpowiedź” albo „Z odpowiedzią” pomaga je znaleźć.</li>
+          <li data-i18n="h1"><b>Napisz wiadomość:</b> wpisz sprawę w polu „Treść”, np. prośbę o przesunięcie kolokwium albo pytanie o zasady zaliczenia. Pisz konkretnie: czego dotyczy sprawa, z jakiego przedmiotu, jaki termin.</li>
+          <li data-i18n="h2"><b>Pilność:</b> „Zwykła” to sprawy bez pośpiechu, „Ważna” to takie na najbliższe dni, a „Pilna” to sprawy, które trzeba załatwić od razu. Pilne trafiają na górę listy.</li>
+          <li data-i18n="h3"><b>Grupa:</b> wybierz C111, C112 albo C113, jeśli sprawa dotyczy tylko jednej grupy. „Cały rok” oznacza wszystkich.</li>
+          <li data-i18n="h4"><b>Podpis:</b> zaznacz „Podpisz imieniem”, jeśli opiekunka ma wiedzieć, kto pyta. Bez podpisu wiadomość pojawi się jako „Anonim”.</li>
+          <li data-i18n="h5"><b>Poprzyj sprawę:</b> jeśli czyjś problem dotyczy też Ciebie, kliknij 👍 albo 🙏 pod jego wiadomością, zamiast pisać to samo jeszcze raz. Starosta widzi liczbę reakcji i przekazuje ją opiekunce. Drugie kliknięcie cofa reakcję.</li>
+          <li data-i18n="h6"><b>Komentarze:</b> kliknij „Skomentuj” albo „Komentarze”, żeby coś dopisać, np. dodatkowe szczegóły.</li>
+          <li data-i18n="h7"><b>Status:</b> „Nowa” czeka na przekazanie, „Przekazana opiekunce” jest już u niej, a przy „Jest odpowiedź” zobaczysz zieloną ramkę z odpowiedzią. Filtr „Czekające na odpowiedź” albo „Z odpowiedzią” pomaga je znaleźć.</li>
         </ol>
         <div class="hint">
-          <span>Wiadomości widzi każdy, kto ma link do strony. Nie wpisuj danych prywatnych, np. numeru albumu czy telefonu.</span>
-          <span>Wiadomości nie da się samemu edytować ani usunąć. Jeśli się pomylisz, napisz do starosty.</span>
-          <span>Twój podpis i ustawienia zapamiętują się w tej przeglądarce. Strona odświeża się sama co 30 sekund.</span>
+          <span data-i18n="hint1">Wiadomości widzi każdy, kto ma link do strony. Nie wpisuj danych prywatnych, np. numeru albumu czy telefonu.</span>
+          <span data-i18n="hint2">Wiadomości nie da się samemu edytować ani usunąć. Jeśli się pomylisz, napisz do starosty.</span>
+          <span data-i18n="hint3">Twój podpis i ustawienia zapamiętują się w tej przeglądarce. Strona odświeża się sama co 30 sekund.</span>
         </div>
         <div class="sign">
-          <p>Piszcie śmiało!</p>
-          <p class="who">Wasz starosta</p>
+          <p data-i18n="sign1">Piszcie śmiało!</p>
+          <p class="who" data-i18n="sign2">Wasz starosta</p>
         </div>
-        <button class="close" id="helpClose" type="button">Zamknij</button>
+        <button class="close" id="helpClose" type="button" data-i18n="close">Zamknij</button>
       </div>
     </details>
   </header>
 
-  <div class="notice" id="notConfigured" hidden>Skrzynka jest jeszcze podłączana. Wróć za chwilę.</div>
+  <div class="notice" id="notConfigured" hidden data-i18n="notConf">Skrzynka jest jeszcze podłączana. Wróć za chwilę.</div>
 
   <section class="card compose" id="compose" aria-labelledby="composeTitle">
-    <h2 id="composeTitle">Nowa wiadomość</h2>
+    <h2 id="composeTitle" data-i18n="composeH">Nowa wiadomość</h2>
     <div class="field">
-      <label class="lbl" for="tresc">Treść</label>
-      <textarea id="tresc" maxlength="2000" placeholder="Np. Czy kolokwium z Analizy matematycznej może się odbyć tydzień później? Tego samego dnia mamy dwa inne zaliczenia."></textarea>
+      <label class="lbl" for="tresc" data-i18n="lText">Treść</label>
+      <textarea id="tresc" maxlength="2000" data-i18n-attr="placeholder=phText" placeholder="Np. Czy kolokwium z Analizy matematycznej może się odbyć tydzień później? Tego samego dnia mamy dwa inne zaliczenia."></textarea>
       <span class="count" id="count">0 / 2000</span>
     </div>
     <div class="row">
       <div class="field" style="flex:0 1 auto">
-        <span class="lbl" id="urgLbl">Pilność</span>
+        <span class="lbl" id="urgLbl" data-i18n="lUrg">Pilność</span>
         <div class="seg urg" id="urg" role="group" aria-labelledby="urgLbl">
-          <button type="button" data-u="1" aria-pressed="true">Zwykła</button>
-          <button type="button" data-u="2" aria-pressed="false">Ważna</button>
-          <button type="button" data-u="3" aria-pressed="false">Pilna</button>
+          <button type="button" data-u="1" aria-pressed="true" data-i18n="u1">Zwykła</button>
+          <button type="button" data-u="2" aria-pressed="false" data-i18n="u2">Ważna</button>
+          <button type="button" data-u="3" aria-pressed="false" data-i18n="u3">Pilna</button>
         </div>
       </div>
       <div class="field" style="flex:0 1 auto">
-        <span class="lbl" id="grpLbl">Grupa</span>
+        <span class="lbl" id="grpLbl" data-i18n="lGrp">Grupa</span>
         <div class="seg" id="grp" role="group" aria-labelledby="grpLbl">
-          <button type="button" data-g="" aria-pressed="true">Cały rok</button>
+          <button type="button" data-g="" aria-pressed="true" data-i18n="gAll">Cały rok</button>
           <button type="button" data-g="C111" aria-pressed="false">C111</button>
           <button type="button" data-g="C112" aria-pressed="false">C112</button>
           <button type="button" data-g="C113" aria-pressed="false">C113</button>
@@ -221,54 +227,54 @@ textarea:focus,input:focus,select:focus{border-color:var(--accent);outline:none;
       </div>
     </div>
     <div class="field">
-      <label class="check"><input type="checkbox" id="podpis"> Podpisz imieniem</label>
-      <input type="text" id="imie" maxlength="60" placeholder="Imię i nazwisko lub samo imię" hidden autocomplete="name">
-      <p class="hint" id="anonHint">Bez podpisu wiadomość pojawi się jako „Anonim”.</p>
+      <label class="check"><input type="checkbox" id="podpis"> <span data-i18n="sign">Podpisz imieniem</span></label>
+      <input type="text" id="imie" maxlength="60" placeholder="Imię i nazwisko lub samo imię" data-i18n-attr="placeholder=phName" hidden autocomplete="name">
+      <p class="hint" id="anonHint" data-i18n="anonHint">Bez podpisu wiadomość pojawi się jako „Anonim”.</p>
     </div>
     <div class="actions">
-      <button class="btn primary" id="send" type="button">Wyślij do skrzynki</button>
+      <button class="btn primary" id="send" type="button" data-i18n="send">Wyślij do skrzynki</button>
       <span class="msg" id="sendMsg" role="status"></span>
     </div>
   </section>
 
-  <section class="adminbar" id="adminbar" hidden aria-label="Panel starosty">
-    <b>Panel starosty</b>
+  <section class="adminbar" id="adminbar" hidden aria-label="Panel starosty" data-i18n-attr="aria-label=adminH">
+    <b data-i18n="adminH">Panel starosty</b>
     <p id="adminSummary"></p>
     <div class="actions">
-      <button class="btn small" id="copyNew" type="button">Kopiuj nowe sprawy do maila</button>
-      <button class="btn small" id="markSent" type="button" hidden>Oznacz skopiowane jako przekazane</button>
-      <button class="btn small" id="logout" type="button">Wyjdź z panelu</button>
+      <button class="btn small" id="copyNew" type="button" data-i18n="copyNew">Kopiuj nowe sprawy do maila</button>
+      <button class="btn small" id="markSent" type="button" hidden data-i18n="markSent">Oznacz skopiowane jako przekazane</button>
+      <button class="btn small" id="logout" type="button" data-i18n="logout">Wyjdź z panelu</button>
       <span class="msg" id="adminMsg" role="status"></span>
     </div>
   </section>
 
   <section aria-labelledby="listTitle" style="display:flex;flex-direction:column;gap:12px">
     <div class="toolbar">
-      <h2 id="listTitle">Wiadomości <span id="total" style="color:var(--muted);font-weight:500"></span></h2>
+      <h2 id="listTitle"><span data-i18n="listH">Wiadomości</span> <span id="total" style="color:var(--muted);font-weight:500"></span></h2>
       <div class="tools">
-        <select id="filter" aria-label="Pokaż">
-          <option value="all">Wszystkie</option>
-          <option value="open">Czekające na odpowiedź</option>
-          <option value="answered">Z odpowiedzią</option>
+        <select id="filter" aria-label="Pokaż" data-i18n-attr="aria-label=aFilter">
+          <option value="all" data-i18n="fAll">Wszystkie</option>
+          <option value="open" data-i18n="fOpen">Czekające na odpowiedź</option>
+          <option value="answered" data-i18n="fAns">Z odpowiedzią</option>
         </select>
-        <select id="sort" aria-label="Sortuj">
-          <option value="urg">Najpilniejsze</option>
-          <option value="new">Najnowsze</option>
-          <option value="top">Najwięcej reakcji</option>
+        <select id="sort" aria-label="Sortuj" data-i18n-attr="aria-label=aSort">
+          <option value="urg" data-i18n="sUrg">Najpilniejsze</option>
+          <option value="new" data-i18n="sNew">Najnowsze</option>
+          <option value="top" data-i18n="sTop">Najwięcej reakcji</option>
         </select>
       </div>
     </div>
-    <div class="list" id="list" aria-live="polite"><div class="empty-state">Wczytuję wiadomości…</div></div>
+    <div class="list" id="list" aria-live="polite"><div class="empty-state" data-i18n="loading">Wczytuję wiadomości…</div></div>
   </section>
 
   <div class="foot">
-    <div>Pisz kulturalnie i konkretnie. Starosta może ukryć spam i wiadomości niezwiązane z tematem. Wiadomości są widoczne dla wszystkich, którzy mają link do strony.</div>
+    <div data-i18n="foot1">Pisz kulturalnie i konkretnie. Starosta może ukryć spam i wiadomości niezwiązane z tematem. Wiadomości są widoczne dla wszystkich, którzy mają link do strony.</div>
     <div id="refreshed"></div>
     <div>
-      <button class="linkbtn" id="adminOpen" type="button">Panel starosty</button>
+      <button class="linkbtn" id="adminOpen" type="button" data-i18n="adminH">Panel starosty</button>
       <div class="login" id="loginBox" hidden>
-        <input type="password" id="pass" placeholder="Hasło starosty" autocomplete="current-password">
-        <button class="btn small" id="login" type="button">Wejdź</button>
+        <input type="password" id="pass" placeholder="Hasło starosty" data-i18n-attr="placeholder=phPass" autocomplete="current-password">
+        <button class="btn small" id="login" type="button" data-i18n="login">Wejdź</button>
         <span class="msg err" id="loginMsg" role="status"></span>
       </div>
     </div>
@@ -276,6 +282,67 @@ textarea:focus,input:focus,select:focus{border-color:var(--accent);outline:none;
 </div>
 
 <script>
+/* ---------- Język: PL / EN ---------- */
+const EN = {
+  aTabs:"Tabs", tabPlan:"Timetable", tabBox:"Year Tutor Mailbox",
+  eyebrow:"Business Management · 1st year · requests to the year tutor", title:"Year Tutor Mailbox",
+  sub:"Write your issue or request. Your class representative collects the messages and passes them on to the year tutor, and the reply will appear here. Others can support your request with a reaction or add a comment.",
+  aHelp:"How to use", howto:"How to use", helpH:"How the mailbox works",
+  hint1:"Everyone with the link can see the messages. Don't write private data such as your student ID or phone number.",
+  hint2:"You can't edit or delete a message yourself. If you make a mistake, contact your class representative.",
+  hint3:"Your name and settings are saved in this browser. The page refreshes itself every 30 seconds.",
+  sign1:"Write away!", sign2:"Your class representative", close:"Close",
+  notConf:"The mailbox is still being set up. Please come back soon.",
+  composeH:"New message", lText:"Message",
+  phText:"E.g. Could the Mathematical Analysis test be moved a week later? We have two other tests on the same day.",
+  lUrg:"Urgency", u1:"Normal", u2:"Important", u3:"Urgent", lGrp:"Group", gAll:"Whole year",
+  sign:"Sign with my name", phName:"Full name or first name", anonHint:"Without a name, your message will show as “Anonymous”.",
+  send:"Send to mailbox", adminH:"Class rep panel", copyNew:"Copy new requests for an email",
+  markSent:"Mark copied as forwarded", logout:"Leave panel",
+  listH:"Messages", aFilter:"Show", aSort:"Sort", fAll:"All", fOpen:"Waiting for a reply", fAns:"Answered",
+  sUrg:"Most urgent", sNew:"Newest", sTop:"Most reactions",
+  foot1:"Please be polite and to the point. The class representative can hide spam and off-topic messages. Messages are visible to everyone with the link to this page.",
+  phPass:"Class rep password", login:"Log in", loading:"Loading messages…"
+};
+EN.h1 = "<b>Write a message:</b> type your issue in the “Message” box, e.g. a request to move a test or a question about how a course is graded. Be specific: what it is about, which course, which date.";
+EN.h2 = "<b>Urgency:</b> “Normal” for things that can wait, “Important” for the next few days, and “Urgent” for things that need sorting out right away. Urgent ones go to the top of the list.";
+EN.h3 = "<b>Group:</b> choose C111, C112 or C113 if the issue concerns only one group. “Whole year” means everyone.";
+EN.h4 = "<b>Name:</b> tick “Sign with my name” if the tutor should know who is asking. Without it, your message shows as “Anonymous”.";
+EN.h5 = "<b>Support a request:</b> if someone else's issue affects you too, tap 👍 or 🙏 under their message instead of writing the same thing again. The class rep sees the number of reactions and passes it on to the tutor. Tap again to undo.";
+EN.h6 = "<b>Comments:</b> tap “Comment” or “Comments” to add something, e.g. extra details.";
+EN.h7 = "<b>Status:</b> “New” is waiting to be forwarded, “Forwarded to tutor” is already with her, and “Answered” shows a green box with the reply. The “Waiting for a reply” and “Answered” filters help you find them.";
+const LANG = (() => {
+  let l = null;
+  try { l = localStorage.getItem("bm-lang"); } catch (e) {}
+  if (location.hash === "#en" || location.hash === "#pl") l = location.hash.slice(1);
+  if (l !== "en" && l !== "pl") l = /^pl\b/i.test(navigator.language || "") ? "pl" : "en";
+  return {cur: l};
+})();
+const isEN = () => LANG.cur === "en";
+const L = (pl, en) => isEN() ? en : pl;
+function applyStatic(){
+  document.documentElement.lang = LANG.cur;
+  document.title = L("Skrzynka do opiekunki", "Year Tutor Mailbox");
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    if (el.dataset.pl === undefined) el.dataset.pl = el.innerHTML;
+    const k = el.dataset.i18n;
+    el.innerHTML = isEN() && EN[k] != null ? EN[k] : el.dataset.pl;
+  });
+  document.querySelectorAll("[data-i18n-attr]").forEach(el => {
+    for (const pair of el.dataset.i18nAttr.split(",")) {
+      const [attr, k] = pair.split("="), store = "pl_" + attr.replace(/-/g, "_");
+      if (el.dataset[store] === undefined) el.dataset[store] = el.getAttribute(attr) || "";
+      el.setAttribute(attr, isEN() && EN[k] != null ? EN[k] : el.dataset[store]);
+    }
+  });
+  const b = document.getElementById("langBtn");
+  b.textContent = isEN() ? "PL" : "EN";
+  b.setAttribute("aria-label", isEN() ? "Wersja polska" : "English version");
+  b.title = isEN() ? "Przełącz na polski" : "Switch to English";
+}
+
+applyStatic();
+
 /* ---------- Połączenie z bazą (Supabase). Klucz anon/publishable jest publiczny z założenia. ---------- */
 const CONFIG = {
   url: "https://zkyxujkdrovfzpasocmv.supabase.co",
@@ -283,8 +350,12 @@ const CONFIG = {
 };
 
 const EMOJI = ["👍","🙏","❤️","😂","😮","😢"];
-const URG = {1:"Zwykła", 2:"Ważna", 3:"Pilna"};
-const STATUS = {nowa:"Nowa", przekazana:"Przekazana opiekunce", odpowiedz:"Jest odpowiedź", zamknieta:"Zamknięta"};
+const URG_PL = {1:"Zwykła", 2:"Ważna", 3:"Pilna"}, URG_EN = {1:"Normal", 2:"Important", 3:"Urgent"};
+const STATUS_PL = {nowa:"Nowa", przekazana:"Przekazana opiekunce", odpowiedz:"Jest odpowiedź", zamknieta:"Zamknięta"};
+const STATUS_EN = {nowa:"New", przekazana:"Forwarded to tutor", odpowiedz:"Answered", zamknieta:"Closed"};
+const URG = URG_PL;   // e-mail do opiekunki zawsze po polsku
+const urg = k => (isEN() ? URG_EN : URG_PL)[k];
+const STATUS = () => isEN() ? STATUS_EN : STATUS_PL;
 
 const store = {
   get(k, s){ try{ return (s ? sessionStorage : localStorage).getItem(k) }catch(e){ return null } },
@@ -316,15 +387,21 @@ async function api(path, opts = {}){
   const txt = await r.text();
   const body = txt ? JSON.parse(txt) : null;
   if (!r.ok) {
-    const m = (body && (body.message || body.hint)) || `Błąd ${r.status}`;
+    const m = (body && (body.message || body.hint)) || L(`Błąd ${r.status}`, `Error ${r.status}`);
     throw new Error(friendly(m));
   }
   return body;
 }
 const rpc = (fn, args) => api(`/rpc/${fn}`, {method: "POST", body: JSON.stringify(args)});
 function friendly(m){
-  if (/check constraint.*tresc/i.test(m)) return "Wiadomość musi mieć od 5 do 2000 znaków.";
-  if (/Failed to fetch|NetworkError/i.test(m)) return "Brak połączenia z internetem.";
+  if (/check constraint.*tresc/i.test(m)) return L("Wiadomość musi mieć od 5 do 2000 znaków.", "A message must be 5 to 2000 characters long.");
+  if (/Failed to fetch|NetworkError|Load failed/i.test(m)) return L("Brak połączenia z internetem.", "No internet connection.");
+  if (isEN()) {
+    if (/Za dużo wiadomości/.test(m)) return "Too many messages at once. Try again in a minute.";
+    if (/Za dużo komentarzy/.test(m)) return "Too many comments at once. Try again in a minute.";
+    if (/Złe hasło/.test(m)) return "Wrong password.";
+    if (/Nie ma takiej/.test(m)) return "This message no longer exists.";
+  }
   return m;
 }
 
@@ -357,13 +434,16 @@ async function load(){
     for (const r of rx) (state.reactions[r.prosba_id] ||= {})[r.emoji] = {n: r.ile, mine: r.moja};
     state.loaded = true;
     const n = new Date();
-    $("refreshed").textContent = `Odświeżono o ${pad(n.getHours())}:${pad(n.getMinutes())}. Strona odświeża się sama co 30 sekund.`;
+    state.lastLoad = n; stampLoad();
     safeRender();
   } catch (e) {
     if (state.admin && /hasło/i.test(e.message)) { state.admin = ""; store.del("bm-admin", true); return load(); }
-    if (!state.loaded) $("list").innerHTML = `<div class="empty-state">Nie udało się wczytać wiadomości. ${esc(e.message)}</div>`;
+    if (!state.loaded) $("list").innerHTML = `<div class="empty-state">${L("Nie udało się wczytać wiadomości.","Couldn't load the messages.")} ${esc(e.message)}</div>`;
   }
 }
+
+function stampLoad(){ const n = state.lastLoad; if (!n) return;
+  $("refreshed").textContent = L(`Odświeżono o ${pad(n.getHours())}:${pad(n.getMinutes())}. Strona odświeża się sama co 30 sekund.`, `Refreshed at ${pad(n.getHours())}:${pad(n.getMinutes())}. The page refreshes itself every 30 seconds.`); }
 
 /* Nie przerysowuj listy, gdy ktoś właśnie pisze w niej komentarz lub odpowiedź. */
 let pendingRender = false;
@@ -377,13 +457,13 @@ document.addEventListener("focusout", () => setTimeout(() => { if (pendingRender
 /* ---------- Rysowanie ---------- */
 function when(iso){
   const d = new Date(iso), s = (Date.now() - d) / 1000;
-  if (s < 60) return "przed chwilą";
-  if (s < 3600) return `${Math.floor(s/60)} min temu`;
-  if (s < 6*3600) return `${Math.floor(s/3600)} godz. temu`;
+  if (s < 60) return L("przed chwilą", "just now");
+  if (s < 3600) return L(`${Math.floor(s/60)} min temu`, `${Math.floor(s/60)} min ago`);
+  if (s < 6*3600) return L(`${Math.floor(s/3600)} godz. temu`, `${Math.floor(s/3600)} h ago`);
   const today = new Date(); today.setHours(0,0,0,0);
   const hm = `${pad(d.getHours())}:${pad(d.getMinutes())}`;
-  if (d >= today) return `dziś, ${hm}`;
-  if (d >= new Date(today - 864e5)) return `wczoraj, ${hm}`;
+  if (d >= today) return L(`dziś, ${hm}`, `today, ${hm}`);
+  if (d >= new Date(today - 864e5)) return L(`wczoraj, ${hm}`, `yesterday, ${hm}`);
   return `${d.getDate()}.${pad(d.getMonth()+1)}${d.getFullYear() !== today.getFullYear() ? "." + d.getFullYear() : ""}, ${hm}`;
 }
 const plural = (n, one, few, many) => n === 1 ? one : (n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? few : many;
@@ -411,39 +491,39 @@ function itemHtml(p){
     return `<button class="rx${r.n ? "" : " empty"}" data-act="rx" data-id="${p.id}" data-e="${e}" aria-pressed="${r.mine}" aria-label="${e} ${r.n}">${e}${r.n ? `<span class="n">${r.n}</span>` : ""}</button>`;
   }).join("");
   const cmHtml = shown.map(c => `<div class="cm${c.ukryty ? " hidden" : ""}">
-      <div class="meta"><b>${c.autor ? esc(c.autor) : "Anonim"}</b> · ${when(c.created_at)}${c.ukryty ? " · ukryty" : ""}
-        ${state.admin ? ` · <button class="linkbtn" data-act="hidec" data-id="${c.id}" data-v="${!c.ukryty}">${c.ukryty ? "przywróć" : "ukryj"}</button>` : ""}</div>
+      <div class="meta"><b>${c.autor ? esc(c.autor) : L("Anonim","Anonymous")}</b> · ${when(c.created_at)}${c.ukryty ? L(" · ukryty"," · hidden") : ""}
+        ${state.admin ? ` · <button class="linkbtn" data-act="hidec" data-id="${c.id}" data-v="${!c.ukryty}">${c.ukryty ? L("przywróć","restore") : L("ukryj","hide")}</button>` : ""}</div>
       <p>${esc(c.tresc)}</p></div>`).join("");
   const d = state.drafts[p.id] || {};
   const name = store.get("bm-imie") || "";
   const admin = state.admin ? `<div class="admin">
-      <span class="lbl">Starosta</span>
+      <span class="lbl">${L("Starosta","Class rep")}</span>
       <div class="row2">
-        <select data-role="status" data-id="${p.id}" aria-label="Status">${Object.entries(STATUS).map(([k, v]) => `<option value="${k}"${k === p.status ? " selected" : ""}>${v}</option>`).join("")}</select>
-        <button class="btn small" data-act="hide" data-id="${p.id}" data-v="${!p.ukryta}">${p.ukryta ? "Przywróć" : "Ukryj"}</button>
+        <select data-role="status" data-id="${p.id}" aria-label="Status">${Object.entries(STATUS()).map(([k, v]) => `<option value="${k}"${k === p.status ? " selected" : ""}>${v}</option>`).join("")}</select>
+        <button class="btn small" data-act="hide" data-id="${p.id}" data-v="${!p.ukryta}">${p.ukryta ? L("Przywróć","Restore") : L("Ukryj","Hide")}</button>
       </div>
-      <textarea data-role="answer" data-id="${p.id}" maxlength="3000" placeholder="Odpowiedź opiekunki (widoczna dla wszystkich)">${esc(d.answer ?? p.odpowiedz ?? "")}</textarea>
-      <div class="row2"><button class="btn small primary" data-act="save" data-id="${p.id}">Zapisz status i odpowiedź</button><span class="msg" data-msg="${p.id}"></span></div>
+      <textarea data-role="answer" data-id="${p.id}" maxlength="3000" placeholder="${L("Odpowiedź opiekunki (widoczna dla wszystkich)","Tutor's reply (visible to everyone)")}">${esc(d.answer ?? p.odpowiedz ?? "")}</textarea>
+      <div class="row2"><button class="btn small primary" data-act="save" data-id="${p.id}">${L("Zapisz status i odpowiedź","Save status and reply")}</button><span class="msg" data-msg="${p.id}"></span></div>
     </div>` : "";
   return `<article class="item u${p.pilnosc}${p.ukryta ? " hidden" : ""}" data-item="${p.id}">
     <div class="head">
-      <span class="badge u${p.pilnosc}">${URG[p.pilnosc]}</span>
-      <span class="badge st ${p.status}">${STATUS[p.status]}</span>
+      <span class="badge u${p.pilnosc}">${urg(p.pilnosc)}</span>
+      <span class="badge st ${p.status}">${STATUS()[p.status]}</span>
       ${p.grupa ? `<span class="badge grp">${esc(p.grupa)}</span>` : ""}
-      ${p.ukryta ? `<span class="badge st">Ukryta</span>` : ""}
-      <span class="who"><b>${p.autor ? esc(p.autor) : "Anonim"}</b> · ${when(p.created_at)}</span>
+      ${p.ukryta ? `<span class="badge st">${L("Ukryta","Hidden")}</span>` : ""}
+      <span class="who"><b>${p.autor ? esc(p.autor) : L("Anonim","Anonymous")}</b> · ${when(p.created_at)}</span>
     </div>
     <p class="text">${esc(p.tresc)}</p>
-    ${p.odpowiedz ? `<div class="answer"><span class="lbl">Odpowiedź opiekunki</span><p>${esc(p.odpowiedz)}</p></div>` : ""}
+    ${p.odpowiedz ? `<div class="answer"><span class="lbl">${L("Odpowiedź opiekunki","Year tutor's reply")}</span><p>${esc(p.odpowiedz)}</p></div>` : ""}
     <div class="react">${rxHtml}
-      <button class="cbtn" data-act="toggle" data-id="${p.id}" aria-expanded="${open}">💬 ${shown.length ? `Komentarze (${shown.length})` : "Skomentuj"}</button>
+      <button class="cbtn" data-act="toggle" data-id="${p.id}" aria-expanded="${open}">💬 ${shown.length ? L(`Komentarze (${shown.length})`, `Comments (${shown.length})`) : L("Skomentuj","Comment")}</button>
     </div>
     ${open ? `<div class="comments">${cmHtml}
       <div class="cform">
-        <textarea data-role="comment" data-id="${p.id}" maxlength="1000" placeholder="Twój komentarz">${esc(d.comment || "")}</textarea>
+        <textarea data-role="comment" data-id="${p.id}" maxlength="1000" placeholder="${L("Twój komentarz","Your comment")}">${esc(d.comment || "")}</textarea>
         <div class="row2">
-          <input type="text" data-role="cname" data-id="${p.id}" maxlength="60" placeholder="Podpis (puste = anonim)" value="${esc(d.cname ?? name)}">
-          <button class="btn small primary" data-act="comment" data-id="${p.id}">Dodaj komentarz</button>
+          <input type="text" data-role="cname" data-id="${p.id}" maxlength="60" placeholder="${L("Podpis (puste = anonim)","Name (empty = anonymous)")}" value="${esc(d.cname ?? name)}">
+          <button class="btn small primary" data-act="comment" data-id="${p.id}">${L("Dodaj komentarz","Add comment")}</button>
           <span class="msg" data-msg="${p.id}"></span>
         </div>
       </div></div>` : ""}
@@ -455,8 +535,8 @@ function render(){
   const xs = visible();
   const all = state.items.filter(p => !p.ukryta);
   $("total").textContent = all.length ? `(${all.length})` : "";
-  if (!state.items.length) $("list").innerHTML = `<div class="empty-state">Na razie pusto. Napisz pierwszą sprawę.</div>`;
-  else if (!xs.length) $("list").innerHTML = `<div class="empty-state">Brak wiadomości w tym widoku.</div>`;
+  if (!state.items.length) $("list").innerHTML = `<div class="empty-state">${L("Na razie pusto. Napisz pierwszą sprawę.","Nothing here yet. Be the first to write.")}</div>`;
+  else if (!xs.length) $("list").innerHTML = `<div class="empty-state">${L("Brak wiadomości w tym widoku.","No messages in this view.")}</div>`;
   else $("list").innerHTML = xs.map(itemHtml).join("");
   renderAdminBar();
 }
@@ -468,8 +548,8 @@ function renderAdminBar(){
   const nowe = state.items.filter(p => p.status === "nowa" && !p.ukryta);
   const c = k => nowe.filter(p => p.pilnosc === k).length;
   $("adminSummary").textContent = nowe.length
-    ? `Nowe sprawy do przekazania: ${nowe.length} (pilne: ${c(3)}, ważne: ${c(2)}, zwykłe: ${c(1)}).`
-    : "Wszystko przekazane. Brak nowych spraw.";
+    ? L(`Nowe sprawy do przekazania: ${nowe.length} (pilne: ${c(3)}, ważne: ${c(2)}, zwykłe: ${c(1)}).`, `New requests to forward: ${nowe.length} (urgent: ${c(3)}, important: ${c(2)}, normal: ${c(1)}).`)
+    : L("Wszystko przekazane. Brak nowych spraw.", "Everything forwarded. No new requests.");
   $("copyNew").disabled = !nowe.length;
 }
 
@@ -496,15 +576,15 @@ updPodpis();
 $("send").onclick = async () => {
   const t = tresc.value.trim(), msg = $("sendMsg");
   msg.className = "msg";
-  if (t.length < 5) { msg.className = "msg err"; msg.textContent = "Napisz trochę więcej (min. 5 znaków)."; tresc.focus(); return; }
-  if (podpis.checked && !imie.value.trim()) { msg.className = "msg err"; msg.textContent = "Wpisz imię albo odznacz podpis."; imie.focus(); return; }
-  $("send").disabled = true; msg.textContent = "Wysyłam…";
+  if (t.length < 5) { msg.className = "msg err"; msg.textContent = L("Napisz trochę więcej (min. 5 znaków).", "Please write a bit more (at least 5 characters)."); tresc.focus(); return; }
+  if (podpis.checked && !imie.value.trim()) { msg.className = "msg err"; msg.textContent = L("Wpisz imię albo odznacz podpis.", "Enter your name or untick the box."); imie.focus(); return; }
+  $("send").disabled = true; msg.textContent = L("Wysyłam…", "Sending…");
   try {
     await api("/prosby", {method: "POST", headers: {Prefer: "return=minimal"},
       body: JSON.stringify({tresc: t, pilnosc: state.urg, grupa: state.grp || null, autor: podpis.checked ? imie.value.trim() : null})});
     tresc.value = ""; store.del("bm-skr-draft"); updCount();
     state.urg = 1; setSeg("urg", "u", 1);
-    msg.className = "msg ok"; msg.textContent = "Wysłane! Twoja wiadomość jest na liście poniżej.";
+    msg.className = "msg ok"; msg.textContent = L("Wysłane! Twoja wiadomość jest na liście poniżej.", "Sent! Your message is in the list below.");
     await load();
   } catch (e) { msg.className = "msg err"; msg.textContent = e.message; }
   finally { $("send").disabled = false; }
@@ -541,7 +621,7 @@ $("list").addEventListener("click", async e => {
   }
   if (act === "comment") {
     const d = state.drafts[id] || {}, t = (d.comment || "").trim();
-    if (!t) { itemMsg(id, "Komentarz jest pusty.", false); return; }
+    if (!t) { itemMsg(id, L("Komentarz jest pusty.", "The comment is empty."), false); return; }
     b.disabled = true;
     try {
       await api("/komentarze", {method: "POST", headers: {Prefer: "return=minimal"},
@@ -556,7 +636,7 @@ $("list").addEventListener("click", async e => {
       const st = document.querySelector(`select[data-role="status"][data-id="${id}"]`).value;
       const ans = document.querySelector(`textarea[data-role="answer"][data-id="${id}"]`).value;
       await rpc("admin_prosba", {p_haslo: state.admin, p_id: id, p_status: st, p_odpowiedz: ans, p_ukryta: null});
-      delete state.drafts[id]; document.activeElement?.blur(); await load(); itemMsg(id, "Zapisano.", true);
+      delete state.drafts[id]; document.activeElement?.blur(); await load(); itemMsg(id, L("Zapisano.", "Saved."), true);
     }
     if (act === "hide") { await rpc("admin_prosba", {p_haslo: state.admin, p_id: id, p_status: null, p_odpowiedz: null, p_ukryta: b.dataset.v === "true"}); await load(); }
     if (act === "hidec") { await rpc("admin_komentarz", {p_haslo: state.admin, p_id: id, p_ukryty: b.dataset.v === "true"}); await load(); }
@@ -569,7 +649,7 @@ async function login(){
   const p = $("pass").value;
   try {
     const ok = await rpc("admin_ok", {p_haslo: p});
-    if (!ok) { $("loginMsg").textContent = "Złe hasło."; return; }
+    if (!ok) { $("loginMsg").textContent = L("Złe hasło.", "Wrong password."); return; }
     state.admin = p; store.set("bm-admin", p, true);
     $("pass").value = ""; $("loginMsg").textContent = ""; $("loginBox").hidden = true;
     await load(); window.scrollTo({top: $("adminbar").offsetTop - 16, behavior: "smooth"});
@@ -594,12 +674,12 @@ $("copyNew").onclick = async () => {
   catch (e) { const ta = document.createElement("textarea"); ta.value = text; document.body.append(ta); ta.select(); document.execCommand("copy"); ta.remove(); }
   state.copiedIds = nowe.map(p => p.id);
   $("markSent").hidden = false;
-  $("adminMsg").className = "msg ok"; $("adminMsg").textContent = `Skopiowano ${nowe.length} spraw. Wklej je do maila do opiekunki.`;
+  $("adminMsg").className = "msg ok"; $("adminMsg").textContent = L(`Skopiowano ${nowe.length} spraw. Wklej je do maila do opiekunki.`, `Copied ${nowe.length} requests (in Polish). Paste them into an email to the tutor.`);
 };
 $("markSent").onclick = async () => {
   try {
     for (const id of state.copiedIds) await rpc("admin_prosba", {p_haslo: state.admin, p_id: id, p_status: "przekazana", p_odpowiedz: null, p_ukryta: null});
-    $("adminMsg").className = "msg ok"; $("adminMsg").textContent = "Oznaczono jako przekazane.";
+    $("adminMsg").className = "msg ok"; $("adminMsg").textContent = L("Oznaczono jako przekazane.", "Marked as forwarded.");
     state.copiedIds = []; $("markSent").hidden = true; await load();
   } catch (e) { $("adminMsg").className = "msg err"; $("adminMsg").textContent = e.message; }
 };
@@ -610,10 +690,22 @@ $("helpClose").onclick = () => { help.open = false; help.querySelector("summary"
 document.addEventListener("click", ev => { if (help.open && !help.contains(ev.target)) help.open = false; });
 document.addEventListener("keydown", ev => { if (ev.key === "Escape" && help.open) { help.open = false; help.querySelector("summary").focus(); } });
 
+/* ---------- Przełącznik języka ---------- */
+$("langBtn").onclick = () => {
+  LANG.cur = isEN() ? "pl" : "en";
+  store.set("bm-lang", LANG.cur);
+  if (location.hash === "#en" || location.hash === "#pl") history.replaceState(null, "", location.pathname + location.search);
+  applyStatic(); updPodpis(); updCount(); stampLoad();
+  for (const id of ["sendMsg", "adminMsg", "loginMsg"]) $(id).textContent = "";
+  if (state.loaded) render();
+  else if (!CONFIG.url || !CONFIG.key) $("list").innerHTML = `<div class="empty-state">${L("Skrzynka jeszcze nie działa.","The mailbox isn't working yet.")}</div>`;
+  else $("list").innerHTML = `<div class="empty-state">${L("Wczytuję wiadomości…","Loading messages…")}</div>`;
+};
+
 /* ---------- Start ---------- */
 if (!CONFIG.url || !CONFIG.key) {
   $("notConfigured").hidden = false; $("send").disabled = true;
-  $("list").innerHTML = `<div class="empty-state">Skrzynka jeszcze nie działa.</div>`;
+  $("list").innerHTML = `<div class="empty-state">${L("Skrzynka jeszcze nie działa.","The mailbox isn't working yet.")}</div>`;
 } else {
   load();
   setInterval(() => { if (!document.hidden) load(); }, 30000);

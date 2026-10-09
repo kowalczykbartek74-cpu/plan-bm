@@ -54,7 +54,11 @@ header{display:flex;flex-direction:column;gap:4px;position:relative;padding-righ
 .help-panel .sign p{margin:0;font-family:var(--display);font-weight:600;font-size:16px}
 .help-panel .sign .who{font-family:var(--body);font-weight:500;font-size:13px;color:var(--muted)}
 .help-panel .close{align-self:flex-end;font:600 13px/1 var(--body);border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:8px;padding:8px 12px;cursor:pointer}
-.tabs{display:flex;gap:4px;background:var(--chip);border-radius:12px;padding:4px;align-self:flex-start;max-width:100%}
+.topbar{display:flex;gap:8px;align-items:center;justify-content:space-between}
+.tabs{display:flex;gap:4px;background:var(--chip);border-radius:12px;padding:4px;max-width:100%;min-width:0}
+.langbtn{flex:none;font:600 14px/1 var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:10px;padding:0 12px;height:42px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.langbtn:hover{border-color:var(--muted)}
+.langbtn:focus-visible{outline:2px solid var(--today);outline-offset:2px}
 .tabs a{font:600 14px/1.2 var(--body);text-decoration:none;color:var(--muted);padding:9px 14px;border-radius:9px;white-space:nowrap}
 .tabs a[aria-current="page"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.12)}
 .tabs a:hover{color:var(--ink)}
@@ -127,74 +131,78 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 .free{padding:16px 14px;color:var(--muted);font-size:14px}
 .foot{font-size:13px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
 .foot a{color:var(--w)}
-@media (max-width:520px){ .ctl-label{min-width:0;width:100%} .weekbar{flex-direction:column;align-items:stretch} header{padding-right:52px} .help summary .t{display:none} .help summary{padding:9px} .tabs{align-self:stretch} .tabs a{flex:1;text-align:center;padding:9px 8px} }
+@media (max-width:520px){ .ctl-label{min-width:0;width:100%} .weekbar{flex-direction:column;align-items:stretch} header{padding-right:52px} .help summary .t{display:none} .help summary{padding:9px} .tabs{flex:1} .tabs a{flex:1;text-align:center;padding:9px 6px;font-size:13.5px;white-space:normal} .langbtn{padding:0 10px} }
 @media (prefers-reduced-motion:no-preference){ .days{animation:fade .18s ease} }
 @keyframes fade{from{opacity:.5}to{opacity:1}}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <nav class="tabs" aria-label="Zakładki">
-    <a href="./" aria-current="page">Plan zajęć</a>
-    <a href="skrzynka.html">Skrzynka do opiekunki</a>
-  </nav>
+  <div class="topbar">
+    <nav class="tabs" aria-label="Zakładki" data-i18n-attr="aria-label=aTabs">
+      <a href="./" aria-current="page" data-i18n="tabPlan">Plan zajęć</a>
+      <a href="skrzynka.html" data-i18n="tabBox">Skrzynka do opiekunki</a>
+    </nav>
+    <button class="langbtn" id="langBtn" type="button"></button>
+  </div>
   <header>
-    <div class="eyebrow">Uniwersytet Szczeciński · WEFiZ · Business Management · I rok · semestr zimowy 2026/27</div>
+    <div class="eyebrow" data-i18n="eyebrow">Uniwersytet Szczeciński · WEFiZ · Business Management · I rok · semestr zimowy 2026/27</div>
     <h1 id="title">Plan zajęć</h1>
-    <p class="sub">Wybierz swoją grupę i podgrupę do laboratoriów. Kalendarz sam rozpoznaje tydzień parzysty i nieparzysty.</p>
+    <p class="sub" data-i18n="sub">Wybierz swoją grupę i podgrupę do laboratoriów. Kalendarz sam rozpoznaje tydzień parzysty i nieparzysty.</p>
     <details class="help" id="help">
-      <summary aria-label="Instrukcja obsługi"><span class="q">?</span><span class="t">Jak używać</span></summary>
+      <summary aria-label="Instrukcja obsługi" data-i18n-attr="aria-label=aHelp"><span class="q">?</span><span class="t" data-i18n="howto">Jak używać</span></summary>
       <div class="help-panel">
-        <h3>Szybka instrukcja</h3>
+        <h3 data-i18n="helpH">Szybka instrukcja</h3>
         <ol>
-          <li><b>Grupa:</b> kliknij swoją grupę: C111, C112 albo C113.</li>
-          <li><b>Laby:</b> wybierz podgrupę A lub B. Od niej zależy termin laboratorium z Narzędzi IT. „Obie grupy” pokazuje oba terminy.</li>
-          <li><b>Kalendarz:</b> plan z prawdziwymi datami. Strzałkami ‹ › przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
-          <li><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
-          <li><b>Motyw:</b> „Jasny” albo „Ciemny” ustawia kolory na stałe, a „Auto” dopasowuje je do ustawień telefonu.</li>
-          <li><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
-          <li><b>Skrzynka do opiekunki:</b> druga zakładka u góry. Napiszesz tam sprawę do opiekunki roku, podpisaną albo anonimowo. Starosta zbiera wiadomości i przekazuje je dalej, a odpowiedź pojawia się przy wiadomości. Szczegóły są w „Jak używać” w tamtej zakładce.</li>
+          <li data-i18n="h1"><b>Grupa:</b> kliknij swoją grupę: C111, C112 albo C113.</li>
+          <li data-i18n="h2"><b>Laby:</b> wybierz podgrupę A lub B. Od niej zależy termin laboratorium z Narzędzi IT. „Obie grupy” pokazuje oba terminy.</li>
+          <li data-i18n="h3"><b>Kalendarz:</b> plan z prawdziwymi datami. Strzałkami ‹ › przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
+          <li data-i18n="h4"><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
+          <li data-i18n="h5"><b>Motyw:</b> „Jasny” albo „Ciemny” ustawia kolory na stałe, a „Auto” dopasowuje je do ustawień telefonu.</li>
+          <li data-i18n="h6"><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
+          <li data-i18n="h7"><b>Skrzynka do opiekunki:</b> druga zakładka u góry. Napiszesz tam sprawę do opiekunki roku, podpisaną albo anonimowo. Starosta zbiera wiadomości i przekazuje je dalej, a odpowiedź pojawia się przy wiadomości. Szczegóły są w „Jak używać” w tamtej zakładce.</li>
+          <li data-i18n="h8"><b>Język:</b> przycisk EN / PL u góry przełącza całą stronę między polskim a angielskim.</li>
         </ol>
         <div class="hint">
-          <span>Twój wybór grupy i podgrupy zapamiętuje się w tej przeglądarce.</span>
-          <span>Sale bez adresu są przy ul. Cukrowej 8. Plan jest codziennie rano sprawdzany automatycznie na stronie uczelni. W razie wątpliwości sprawdź oficjalną stronę.</span>
+          <span data-i18n="hint1">Twój wybór grupy i podgrupy zapamiętuje się w tej przeglądarce.</span>
+          <span data-i18n="hint2">Sale bez adresu są przy ul. Cukrowej 8. Plan jest codziennie rano sprawdzany automatycznie na stronie uczelni. W razie wątpliwości sprawdź oficjalną stronę.</span>
         </div>
         <div class="sign">
-          <p>Niech Wam służy!</p>
-          <p class="who">Wasz starosta</p>
+          <p data-i18n="sign1">Niech Wam służy!</p>
+          <p class="who" data-i18n="sign2">Wasz starosta</p>
         </div>
-        <button class="close" id="helpClose" type="button">Zamknij</button>
+        <button class="close" id="helpClose" type="button" data-i18n="close">Zamknij</button>
       </div>
     </details>
   </header>
 
-  <section class="controls" aria-label="Ustawienia">
+  <section class="controls" aria-label="Ustawienia" data-i18n-attr="aria-label=aSettings">
     <div class="ctl">
-      <div class="ctl-label">Grupa</div>
+      <div class="ctl-label" data-i18n="lGroup">Grupa</div>
       <div class="years" id="groups"></div>
     </div>
     <div class="ctl" id="subRow">
-      <div class="ctl-label">Laby</div>
-      <div class="seg" id="subs" role="group" aria-label="Podgrupa laboratoryjna">
-        <button id="sub-all" data-sub="" aria-pressed="true">Obie grupy</button>
-        <button id="sub-a" data-sub="A" aria-pressed="false">Grupa A</button>
-        <button id="sub-b" data-sub="B" aria-pressed="false">Grupa B</button>
+      <div class="ctl-label" data-i18n="lLabs">Laby</div>
+      <div class="seg" id="subs" role="group" aria-label="Podgrupa laboratoryjna" data-i18n-attr="aria-label=aSubs">
+        <button id="sub-all" data-sub="" aria-pressed="true" data-i18n="subAll">Obie grupy</button>
+        <button id="sub-a" data-sub="A" aria-pressed="false" data-i18n="subA">Grupa A</button>
+        <button id="sub-b" data-sub="B" aria-pressed="false" data-i18n="subB">Grupa B</button>
       </div>
     </div>
     <div class="ctl">
-      <div class="ctl-label">Widok</div>
-      <div class="seg" id="modes" role="group" aria-label="Widok tygodnia">
-        <button id="mode-cal" data-mode="cal" aria-pressed="true">Kalendarz</button>
-        <button id="mode-odd" data-mode="odd" aria-pressed="false">Nieparzysty</button>
-        <button id="mode-even" data-mode="even" aria-pressed="false">Parzysty</button>
+      <div class="ctl-label" data-i18n="lView">Widok</div>
+      <div class="seg" id="modes" role="group" aria-label="Widok tygodnia" data-i18n-attr="aria-label=aModes">
+        <button id="mode-cal" data-mode="cal" aria-pressed="true" data-i18n="mCal">Kalendarz</button>
+        <button id="mode-odd" data-mode="odd" aria-pressed="false" data-i18n="mOdd">Nieparzysty</button>
+        <button id="mode-even" data-mode="even" aria-pressed="false" data-i18n="mEven">Parzysty</button>
       </div>
     </div>
     <div class="ctl">
-      <div class="ctl-label">Motyw</div>
-      <div class="seg" id="themes" role="group" aria-label="Motyw kolorów">
-        <button id="theme-auto" data-theme-opt="auto" aria-pressed="true" title="Jak w ustawieniach telefonu lub komputera">Auto</button>
-        <button id="theme-light" data-theme-opt="light" aria-pressed="false"><span aria-hidden="true">☀︎</span> Jasny</button>
-        <button id="theme-dark" data-theme-opt="dark" aria-pressed="false"><span aria-hidden="true">☾</span> Ciemny</button>
+      <div class="ctl-label" data-i18n="lTheme">Motyw</div>
+      <div class="seg" id="themes" role="group" aria-label="Motyw kolorów" data-i18n-attr="aria-label=aThemes">
+        <button id="theme-auto" data-theme-opt="auto" aria-pressed="true" title="Jak w ustawieniach telefonu lub komputera" data-i18n-attr="title=tAuto">Auto</button>
+        <button id="theme-light" data-theme-opt="light" aria-pressed="false" data-i18n="thLight"><span aria-hidden="true">☀︎</span> Jasny</button>
+        <button id="theme-dark" data-theme-opt="dark" aria-pressed="false" data-i18n="thDark"><span aria-hidden="true">☾</span> Ciemny</button>
       </div>
     </div>
   </section>
@@ -202,28 +210,101 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
   <div class="weekbar">
     <div class="nav" id="nav"></div>
     <div class="legend">
-      <span><i class="chip W">W</i> wykład</span>
-      <span><i class="chip CW">ĆW</i> ćwiczenia</span>
-      <span><i class="chip LAB">LAB</i> laboratorium</span>
-      <span><i class="chip K">K</i> konwersatorium</span>
-      <span><i class="chip S">S</i> seminarium</span>
+      <span data-i18n="lg1"><i class="chip W">W</i> wykład</span>
+      <span data-i18n="lg2"><i class="chip CW">ĆW</i> ćwiczenia</span>
+      <span data-i18n="lg3"><i class="chip LAB">LAB</i> laboratorium</span>
+      <span data-i18n="lg4"><i class="chip K">K</i> konwersatorium</span>
+      <span data-i18n="lg5"><i class="chip S">S</i> seminarium</span>
     </div>
   </div>
 
   <main class="days" id="days" aria-live="polite"></main>
 
   <div class="foot">
-    <div>Sale bez adresu są w budynku przy ul. Cukrowej 8. Dane z <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">planu zajęć WEFiZ</a>, sprawdzane automatycznie codziennie rano. Podział tygodni: harmonogram wydziału na semestr zimowy 2026/27.</div>
+    <div data-i18n="foot1">Sale bez adresu są w budynku przy ul. Cukrowej 8. Dane z <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">planu zajęć WEFiZ</a>, sprawdzane automatycznie codziennie rano. Podział tygodni: harmonogram wydziału na semestr zimowy 2026/27.</div>
     <div id="dataMeta"></div>
-    <div>Plan może się zmieniać. W razie wątpliwości sprawdź oficjalną stronę.</div>
+    <div data-i18n="foot3">Plan może się zmieniać. W razie wątpliwości sprawdź oficjalną stronę.</div>
     <div id="refreshed"></div>
   </div>
 </div>
 
 <script>
+/* ---------- Język: PL / EN ---------- */
+const EN = {
+  aTabs:"Tabs", tabPlan:"Timetable", tabBox:"Year Tutor Mailbox",
+  eyebrow:"University of Szczecin · WEFiZ · Business Management · 1st year · winter semester 2026/27",
+  sub:"Choose your group and lab subgroup. The calendar knows which weeks are odd and which are even.",
+  aHelp:"How to use", howto:"How to use", helpH:"Quick guide",
+  h1:"<b>Group:</b> tap your group: C111, C112 or C113.",
+  h2:"<b>Labs:</b> choose subgroup A or B. It decides when your IT Tools in Management lab takes place. “Both groups” shows both slots.",
+  h3:"<b>Calendar:</b> the timetable with real dates. Use the ‹ › arrows to move between weeks; “This week” takes you back. Days off and breaks are noted on the day cards.",
+  h4:"<b>Odd / Even:</b> the fixed weekly layout without dates, e.g. for a screenshot.",
+  h5:"<b>Theme:</b> “Light” or “Dark” fixes the colours; “Auto” follows your phone or computer settings.",
+  h6:"<b>Labels:</b> LEC is a lecture, CLASS a tutorial class and LAB a laboratory. Today's card has a frame and a “today” tag.",
+  h7:"<b>Year Tutor Mailbox:</b> the second tab at the top. Write a request to the year tutor, signed or anonymous. Your class representative collects the messages and passes them on, and the reply appears next to your message. Details are under “How to use” in that tab.",
+  h8:"<b>Language:</b> the PL / EN button at the top switches the whole site between Polish and English.",
+  hint1:"Your group and subgroup choice is saved in this browser.",
+  hint2:"Rooms without an address are at ul. Cukrowa 8. The timetable is checked automatically on the university website every morning. If in doubt, check the official site.",
+  sign1:"Hope it helps!", sign2:"Your class representative", close:"Close",
+  aSettings:"Settings", lGroup:"Group", lLabs:"Labs", lView:"View", lTheme:"Theme",
+  aSubs:"Lab subgroup", subAll:"Both groups", subA:"Group A", subB:"Group B",
+  aModes:"Week view", mCal:"Calendar", mOdd:"Odd week", mEven:"Even week",
+  aThemes:"Colour theme", tAuto:"Same as your phone or computer settings",
+  thLight:'<span aria-hidden="true">☀︎</span> Light', thDark:'<span aria-hidden="true">☾</span> Dark',
+  lg1:'<i class="chip W">LEC</i> lecture', lg2:'<i class="chip CW">CLASS</i> tutorial class', lg3:'<i class="chip LAB">LAB</i> laboratory',
+  lg4:'<i class="chip K">CONV</i> conversation class', lg5:'<i class="chip S">SEM</i> seminar',
+  foot1:'Rooms without an address are in the building at ul. Cukrowa 8. Data from the <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">WEFiZ timetable</a>, checked automatically every morning. Odd and even weeks follow the faculty schedule for the winter semester 2026/27.',
+  foot3:"The timetable may change. If in doubt, check the official site."
+};
+/* Komunikaty generowane w kodzie (dni wolne, notatki) */
+const EN_MSG = {
+  "Dzień rektorski":"Rector's day off (no classes)", "Narodowe Święto Niepodległości":"National Independence Day (no classes)",
+  "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)":"Swap day: Wednesday classes (even week)",
+  "Zajęcia zaczynają się 2 października":"Classes start on 2 October", "Przerwa świąteczna":"Christmas break",
+  "Sesja egzaminacyjna (2–15.02)":"Exam session (2–15 February)", "Po sesji zimowej":"After the winter exam session",
+  "Brak zajęć":"No classes"
+};
+const NAME_EN = {"Szkolenie z obrony cywilnej":"Civil Defence Training"};
+const LANG = (() => {
+  let l = null;
+  try { l = localStorage.getItem("bm-lang"); } catch (e) {}
+  if (location.hash === "#en" || location.hash === "#pl") l = location.hash.slice(1);
+  if (l !== "en" && l !== "pl") l = /^pl\b/i.test(navigator.language || "") ? "pl" : "en";
+  return {cur: l};
+})();
+const isEN = () => LANG.cur === "en";
+const L = (pl, en) => isEN() ? en : pl;
+const tr = m => isEN() ? (EN_MSG[m] ?? m) : m;
+function applyStatic(){
+  document.documentElement.lang = LANG.cur;
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    if (el.dataset.pl === undefined) el.dataset.pl = el.innerHTML;
+    const k = el.dataset.i18n;
+    el.innerHTML = isEN() && EN[k] != null ? EN[k] : el.dataset.pl;
+  });
+  document.querySelectorAll("[data-i18n-attr]").forEach(el => {
+    for (const pair of el.dataset.i18nAttr.split(",")) {
+      const [attr, k] = pair.split("="), store = "pl_" + attr.replace(/-/g, "_");
+      if (el.dataset[store] === undefined) el.dataset[store] = el.getAttribute(attr) || "";
+      el.setAttribute(attr, isEN() && EN[k] != null ? EN[k] : el.dataset[store]);
+    }
+  });
+  const b = document.getElementById("langBtn");
+  b.textContent = isEN() ? "PL" : "EN";
+  b.setAttribute("aria-label", isEN() ? "Wersja polska" : "English version");
+  b.title = isEN() ? "Przełącz na polski" : "Switch to English";
+}
+function setLang(l){
+  LANG.cur = l;
+  try { localStorage.setItem("bm-lang", l); } catch (e) {}
+  if (location.hash === "#en" || location.hash === "#pl") history.replaceState(null, "", location.pathname + location.search);
+  applyStatic(); render(); showMeta(); stamp();
+}
+
 /* ---------- Plan data ---------- */
 const SLOTS = [["8:15","9:45"],["10:00","11:30"],["12:00","13:30"],["13:45","15:15"],["15:30","17:00"],["17:15","18:45"],["19:00","20:30"]];
-const DAYN = ["Poniedziałek","Wtorek","Środa","Czwartek","Piątek"];
+const DAYN_PL = ["Poniedziałek","Wtorek","Środa","Czwartek","Piątek"], DAYN_EN = ["Monday","Tuesday","Wednesday","Thursday","Friday"];
+const DAYN = DAYN_PL;
 /* Dane planu: kopia zapasowa w pliku. Automat (scripts/update-plan.mjs) podmienia ją przy każdej zmianie,
    a strona i tak najpierw próbuje wczytać świeży plan.json. */
 let DATA = /*PLAN_DATA_START*/{"source":"https://planyzajec-efz.usz.edu.pl/","kierunek":"Business Management","rokAkademicki":"2026/2027","semestr":"zimowy","updated":"09.10.2026 13:58","changedAt":"2026-10-07T12:54:51.374Z","checkedAt":"2026-10-09T17:16:25.442Z","groups":{"C111":{"odd":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Logistyka","en":"Logistics","k":"W","p":"dr Jakub Dowejko","r":"s. SIL 325"},{"d":1,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":2,"s":1,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"W","p":"dr hab. prof. US Dariusz Milewski","r":"s. 002"},{"d":4,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":1,"s":2,"pl":"Logistyka","en":"Logistics","k":"CW","p":"dr Jakub Dowejko","r":"s. 307"},{"d":2,"s":2,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"CW","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":3,"s":2,"pl":"Szkolenie z obrony cywilnej","k":"X","r":"Aula WNS ul. Krakowska 71-79, Szczecin","dates":["2026-12-17"],"n":"Jednorazowo: 17.12.2026"},{"d":4,"s":2,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"W","p":"dr Barbara Batóg","r":"s. 002"},{"d":4,"s":3,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"W","p":"dr inż. Alicja Nerć-Pełka","r":"s. 002"}],"even":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"CW","p":"mgr Malwina Jankowska","r":"s. 307"},{"d":4,"s":0,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"CW","p":"dr Barbara Batóg","r":"s. 112"},{"d":0,"s":1,"pl":"Ekonomia biznesu","en":"Business Economics","k":"CW","p":"dr Aleksandra Gąsior","r":"s. 003"},{"d":1,"s":1,"pl":"Ekonomia biznesu","en":"Business Economics","k":"W","p":"dr Aleksandra Gąsior","r":"s. 044 (aula)"},{"d":2,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"W","p":"dr inż. Anna Borawska","r":"s. SIL 325"},{"d":4,"s":1,"pl":"Makroekonomia","en":"Macroeconomics","k":"CW","p":"dr Agnieszka Bretyn","r":"s. SIL 325"},{"d":0,"s":2,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"CW","p":"dr hab. prof. US Dariusz Milewski","r":"s. 044 (aula)"},{"d":1,"s":2,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. 423 (lab)"},{"d":2,"s":2,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"W","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":4,"s":2,"pl":"Makroekonomia","en":"Macroeconomics","k":"W","p":"dr Agnieszka Bretyn","r":"s. SIL 325"},{"d":0,"s":3,"pl":"Ochrona własności intelektualnej","en":"Intelectual Property Protection","k":"W","p":"dr Jarosław Poteralski","r":"s. SIL 323","dates":["2026-10-12","2026-10-26","2026-11-09","2026-11-23"],"n":"Tylko: 12.10, 26.10, 9.11, 23.11"},{"d":4,"s":3,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"}]},"C112":{"odd":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Logistyka","en":"Logistics","k":"W","p":"dr Jakub Dowejko","r":"s. SIL 325"},{"d":3,"s":0,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 124/125 (lab)"},{"d":4,"s":0,"pl":"Makroekonomia","en":"Macroeconomics","k":"CW","p":"dr Agnieszka Bretyn","r":"s. SIL 323"},{"d":1,"s":1,"pl":"Logistyka","en":"Logistics","k":"CW","p":"dr Jakub Dowejko","r":"s. 307"},{"d":2,"s":1,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"W","p":"dr hab. prof. US Dariusz Milewski","r":"s. 002"},{"d":4,"s":1,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"CW","p":"dr Barbara Batóg","r":"s. 112"},{"d":1,"s":2,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":2,"s":2,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"CW","p":"dr hab. prof. US Dariusz Milewski","r":"s. 507"},{"d":3,"s":2,"pl":"Szkolenie z obrony cywilnej","k":"X","r":"Aula WNS ul. Krakowska 71-79, Szczecin","dates":["2026-12-17"],"n":"Jednorazowo: 17.12.2026"},{"d":4,"s":2,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"W","p":"dr Barbara Batóg","r":"s. 002"},{"d":2,"s":3,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"CW","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":4,"s":3,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"W","p":"dr inż. Alicja Nerć-Pełka","r":"s. 002"}],"even":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":3,"s":0,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 124/125 (lab)"},{"d":0,"s":1,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"CW","p":"mgr Malwina Jankowska","r":"s. 707"},{"d":1,"s":1,"pl":"Ekonomia biznesu","en":"Business Economics","k":"W","p":"dr Aleksandra Gąsior","r":"s. 044 (aula)"},{"d":2,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"W","p":"dr inż. Anna Borawska","r":"s. SIL 325"},{"d":3,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 124/125 (lab)"},{"d":0,"s":2,"pl":"Ekonomia biznesu","en":"Business Economics","k":"CW","p":"dr Aleksandra Gąsior","r":"s. 003"},{"d":2,"s":2,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"W","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":4,"s":2,"pl":"Makroekonomia","en":"Macroeconomics","k":"W","p":"dr Agnieszka Bretyn","r":"s. SIL 325"},{"d":0,"s":3,"pl":"Ochrona własności intelektualnej","en":"Intelectual Property Protection","k":"W","p":"dr Jarosław Poteralski","r":"s. SIL 323","dates":["2026-10-12","2026-10-26","2026-11-09","2026-11-23"],"n":"Tylko: 12.10, 26.10, 9.11, 23.11"}]},"C113":{"odd":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Logistyka","en":"Logistics","k":"W","p":"dr Jakub Dowejko","r":"s. SIL 325"},{"d":2,"s":1,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"W","p":"dr hab. prof. US Dariusz Milewski","r":"s. 002"},{"d":4,"s":1,"pl":"Makroekonomia","en":"Macroeconomics","k":"CW","p":"dr Agnieszka Bretyn","r":"s. SIL 323"},{"d":2,"s":2,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"CW","p":"mgr Malwina Jankowska","r":"s. 307"},{"d":3,"s":2,"pl":"Szkolenie z obrony cywilnej","k":"X","r":"Aula WNS ul. Krakowska 71-79, Szczecin","dates":["2026-12-17"],"n":"Jednorazowo: 17.12.2026"},{"d":4,"s":2,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"W","p":"dr Barbara Batóg","r":"s. 002"},{"d":2,"s":3,"pl":"Podstawy zarządzania","en":"Fundamentals of Management","k":"CW","p":"dr hab. prof. US Dariusz Milewski","r":"s. 507"},{"d":3,"s":3,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":4,"s":3,"pl":"Zarządzanie zasobami ludzkimi","en":"Human Resources Management","k":"W","p":"dr inż. Alicja Nerć-Pełka","r":"s. 002"},{"d":3,"s":4,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"}],"even":[{"d":1,"s":0,"pl":"Prawo","en":"Law","k":"W","p":"dr Małgorzata Szymszon","r":"s. 002"},{"d":2,"s":0,"pl":"Logistyka","en":"Logistics","k":"CW","p":"dr Jakub Dowejko","r":"s. SIL 324"},{"d":1,"s":1,"pl":"Ekonomia biznesu","en":"Business Economics","k":"W","p":"dr Aleksandra Gąsior","r":"s. 044 (aula)"},{"d":2,"s":1,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"W","p":"dr inż. Anna Borawska","r":"s. SIL 325"},{"d":4,"s":1,"pl":"Analiza matematyczna","en":"Mathematical Analysis","k":"CW","p":"dr Barbara Batóg","r":"s. 112"},{"d":2,"s":2,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"W","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":4,"s":2,"pl":"Makroekonomia","en":"Macroeconomics","k":"W","p":"dr Agnieszka Bretyn","r":"s. SIL 325"},{"d":0,"s":3,"pl":"Ochrona własności intelektualnej","en":"Intelectual Property Protection","k":"W","p":"dr Jarosław Poteralski","r":"s. SIL 323","dates":["2026-10-12","2026-10-26","2026-11-09","2026-11-23"],"n":"Tylko: 12.10, 26.10, 9.11, 23.11"},{"d":2,"s":3,"pl":"Podstawy finansów","en":"Fundamentals of Finances","k":"CW","p":"dr hab. prof. US Beata Świecka","r":"s. 002"},{"d":3,"s":3,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"A","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"},{"d":0,"s":4,"pl":"Ekonomia biznesu","en":"Business Economics","k":"CW","p":"dr Aleksandra Gąsior","r":"s. 003"},{"d":3,"s":4,"pl":"Narzędzia IT w zarządzaniu","en":"IT Tools in Management","k":"LAB","g":"B","p":"dr inż. Piotr Niemcewicz","r":"s. SIL 116 (lab)"}]}}}/*PLAN_DATA_END*/;
@@ -299,9 +380,15 @@ function ensureGroup(){
 
 /* ---------- Rendering ---------- */
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const LBL = {W:"W", CW:"ĆW", LAB:"LAB", K:"K", S:"S"};
-const MONTHS = ["stycznia","lutego","marca","kwietnia","maja","czerwca","lipca","sierpnia","września","października","listopada","grudnia"];
-const fmt = dt => `${dt.getDate()}.${pad(dt.getMonth()+1)}`;
+const LBL_PL = {W:"W", CW:"ĆW", LAB:"LAB", K:"K", S:"S"}, LBL_EN = {W:"LEC", CW:"CLASS", LAB:"LAB", K:"CONV", S:"SEM"};
+const lbl = k => (isEN() ? LBL_EN : LBL_PL)[k] || k;
+const MONTHS_EN = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const MONTHS_PL = ["stycznia","lutego","marca","kwietnia","maja","czerwca","lipca","sierpnia","września","października","listopada","grudnia"];
+const MONTHS = () => isEN() ? MONTHS_EN : MONTHS_PL;
+const MON3 = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const fmt = dt => isEN() ? `${dt.getDate()} ${MON3[dt.getMonth()]}` : `${dt.getDate()}.${pad(dt.getMonth()+1)}`;
+const trRoom = r => isEN() ? r.replace(/(^|, )s\. /g, "$1Room ").replace(/\(aula\)/g, "(lecture hall)").replace(/^Aula (\S+) /, "$1 Auditorium, ") : r;
+const trNote = n => !isEN() ? n : n.replace(/^Tylko: /, "Only on: ").replace(/^Jednorazowo: /, "One-off: ");
 
 function hasSubs(g){ return !!G()[g] && ["odd","even"].some(w => (G()[g][w]||[]).some(e => e.g)); }
 
@@ -317,18 +404,19 @@ function entriesFor(week, day, dateKey){
 
 function cls(e, showDates){
   const t = [startOf(e), endOf(e)];
-  const pl = e.pl || e.en || "", en = e.en && e.en !== e.pl ? e.en : "";
+  const pl = isEN() ? (e.en || NAME_EN[e.pl] || e.pl || "") : (e.pl || e.en || "");
+  const en = !isEN() && e.en && e.en !== e.pl ? e.en : "";
   const tags = [];
-  if (e.g) tags.push(`Grupa ${e.g}`);
+  if (e.g) tags.push(L(`Grupa ${e.g}`, `Group ${e.g}`));
   if (e.tag) tags.push(e.tag);
-  const note = e.n && (showDates || !e.dates) ? e.n : "";
+  const note = e.n && (showDates || !e.dates) ? trNote(e.n) : "";
   return `<div class="cls">
-    <div class="time">${t[0]}<span>${t[1]}</span>${e.k!=="X" ? `<i class="chip ${e.k}">${LBL[e.k]}</i>` : ""}</div>
+    <div class="time">${t[0]}<span>${t[1]}</span>${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}</div>
     <div class="info">
       <div class="name">${esc(pl)}</div>
       ${en ? `<div class="en">${esc(en)}</div>` : ""}
       ${e.p ? `<div class="meta">${esc(e.p)}</div>` : ""}
-      ${e.r ? `<div class="room">${esc(e.r)}</div>` : ""}
+      ${e.r ? `<div class="room">${esc(trRoom(e.r))}</div>` : ""}
       ${e.x ? `<div class="meta">${esc(e.x)}</div>` : ""}
       ${tags.length ? `<div class="tags">${tags.map(x=>`<span class="tg">${esc(x)}</span>`).join("")}</div>` : ""}
       ${note ? `<div class="note">${esc(note)}</div>` : ""}
@@ -336,12 +424,12 @@ function cls(e, showDates){
 }
 
 function dayCard(title, dateLbl, items, opts={}){
-  const body = items.length ? items.map(e => cls(e, opts.fixed)).join("") : `<div class="free">${esc(opts.empty || "Brak zajęć")}</div>`;
+  const body = items.length ? items.map(e => cls(e, opts.fixed)).join("") : `<div class="free">${esc(tr(opts.empty || "Brak zajęć"))}</div>`;
   const span = items.length ? (() => { const f=items[0], l=items[items.length-1];
       return `${startOf(f)}–${endOf(l)}`; })() : "";
   return `<section class="day${opts.today ? " is-today":""}">
-    <h2><span>${title}${opts.today ? `<span class="now">dziś</span>`:""}</span><span class="dt">${esc(dateLbl || span || "")}</span></h2>
-    ${opts.note ? `<div class="daynote">${esc(opts.note)}</div>` : ""}
+    <h2><span>${title}${opts.today ? `<span class="now">${L("dziś","today")}</span>`:""}</span><span class="dt">${esc(dateLbl || span || "")}</span></h2>
+    ${opts.note ? `<div class="daynote">${esc(tr(opts.note))}</div>` : ""}
     <div class="list">${body}</div></section>`;
 }
 
@@ -349,19 +437,20 @@ function renderNav(){
   const nav = document.getElementById("nav");
   if (state.mode !== "cal"){
     const odd = state.mode==="odd";
-    nav.innerHTML = `<div class="wk"><b>Tydzień ${odd?"nieparzysty":"parzysty"}</b><small>Stały układ, bez dat i dni wolnych</small></div>`;
+    nav.innerHTML = `<div class="wk"><b>${L(`Tydzień ${odd?"nieparzysty":"parzysty"}`, `${odd?"Odd":"Even"} week`)}</b><small>${L("Stały układ, bez dat i dni wolnych","Fixed layout, without dates or days off")}</small></div>`;
     return;
   }
   const m = parse(state.week), f = addDays(m,4);
   const pars = [...new Set([0,1,2,3,4].map(i => dayInfo(key(addDays(m,i))).p).filter(Boolean))];
-  const range = m.getMonth()===f.getMonth() ? `${m.getDate()}–${f.getDate()} ${MONTHS[f.getMonth()]}` : `${m.getDate()} ${MONTHS[m.getMonth()]} – ${f.getDate()} ${MONTHS[f.getMonth()]}`;
-  const parHtml = pars.length ? pars.map(p => `<span class="tag-${p}">${p==="odd"?"nieparzysty":"parzysty"}</span>`).join("") : `<span class="tg">bez zajęć</span>`;
+  const MN = MONTHS();
+  const range = m.getMonth()===f.getMonth() ? `${m.getDate()}–${f.getDate()} ${MN[f.getMonth()]}` : `${m.getDate()} ${MN[m.getMonth()]} – ${f.getDate()} ${MN[f.getMonth()]}`;
+  const parHtml = pars.length ? pars.map(p => `<span class="tag-${p}">${p==="odd"?L("nieparzysty","odd week"):L("parzysty","even week")}</span>`).join("") : `<span class="tg">${L("bez zajęć","no classes")}</span>`;
   const thisWeek = defaultWeek();
   nav.innerHTML = `
-    <button id="prev" aria-label="Poprzedni tydzień" ${state.week<=FIRST_WEEK?"disabled":""}>‹</button>
+    <button id="prev" aria-label="${L("Poprzedni tydzień","Previous week")}" ${state.week<=FIRST_WEEK?"disabled":""}>‹</button>
     <div class="wk"><b>${range}</b><small class="par">${parHtml}</small></div>
-    <button id="next" aria-label="Następny tydzień" ${state.week>=LAST_WEEK?"disabled":""}>›</button>
-    ${state.week!==thisWeek ? `<button class="today-btn" id="now">Ten tydzień</button>` : ""}`;
+    <button id="next" aria-label="${L("Następny tydzień","Next week")}" ${state.week>=LAST_WEEK?"disabled":""}>›</button>
+    ${state.week!==thisWeek ? `<button class="today-btn" id="now">${L("Ten tydzień","This week")}</button>` : ""}`;
   document.getElementById("prev").onclick = () => { state.week = key(addDays(parse(state.week),-7)); render(); };
   document.getElementById("next").onclick = () => { state.week = key(addDays(parse(state.week),7)); render(); };
   const n = document.getElementById("now"); if (n) n.onclick = () => { state.week = thisWeek; render(); };
@@ -370,7 +459,8 @@ function renderNav(){
 function render(){
   ensureGroup();
   const g = state.group;
-  document.getElementById("title").textContent = `Plan zajęć ${g}`;
+  document.getElementById("title").textContent = L(`Plan zajęć ${g}`, `Timetable ${g}`);
+  document.title = L("Plan zajęć BM", "BM Timetable");
   document.querySelectorAll("#groups .pill").forEach(b => b.setAttribute("aria-pressed", b.dataset.g===g));
   const subs = hasSubs(g);
   document.getElementById("subRow").hidden = !subs;
@@ -381,11 +471,11 @@ function render(){
 
   const el = document.getElementById("days");
   if (state.mode !== "cal"){
-    el.innerHTML = DAYN.map((dn,i) => dayCard(dn, "", entriesFor(state.mode,i,null), {fixed:true})).join("");
+    el.innerHTML = (isEN() ? DAYN_EN : DAYN_PL).map((dn,i) => dayCard(dn, "", entriesFor(state.mode,i,null), {fixed:true})).join("");
     return;
   }
   const m = parse(state.week), today = key(new Date());
-  el.innerHTML = DAYN.map((dn,i) => {
+  el.innerHTML = (isEN() ? DAYN_EN : DAYN_PL).map((dn,i) => {
     const dt = addDays(m,i), k = key(dt), info = dayInfo(k);
     if (info.off) return dayCard(dn, fmt(dt), [], {empty:info.off, today:k===today});
     const items = entriesFor(info.p, info.asDay ?? i, k);
@@ -409,9 +499,10 @@ function fmtStamp(iso){
 }
 function showMeta(){
   const parts = [];
-  if (DATA.updated) parts.push(`stan planu na stronie uczelni: ${DATA.updated}`);
-  if (DATA.checkedAt) parts.push(`automat sprawdził plan: ${fmtStamp(DATA.checkedAt)}`);
-  document.getElementById("dataMeta").textContent = parts.length ? parts.join(" · ") + "." : "";
+  if (DATA.updated) parts.push(L(`stan planu na stronie uczelni: ${DATA.updated}`, `timetable on the university website as of ${DATA.updated}`));
+  if (DATA.checkedAt) parts.push(L(`automat sprawdził plan: ${fmtStamp(DATA.checkedAt)}`, `last automatic check: ${fmtStamp(DATA.checkedAt)}`));
+  const t = parts.join(" · ");
+  document.getElementById("dataMeta").textContent = t ? t.charAt(0).toUpperCase() + t.slice(1) + "." : "";
 }
 let loading = false;
 async function loadRemote(){
@@ -446,7 +537,7 @@ let lastDefaultWeek = defaultWeek();
 const REFRESH_MS = 5 * 60 * 1000;   // automatic refresh every 5 minutes
 function stamp(){
   const n = new Date();
-  document.getElementById("refreshed").textContent = `Odświeżono automatycznie o ${pad(n.getHours())}:${pad(n.getMinutes())} (co 5 minut).`;
+  document.getElementById("refreshed").textContent = L(`Odświeżono automatycznie o ${pad(n.getHours())}:${pad(n.getMinutes())} (co 5 minut).`, `Refreshed automatically at ${pad(n.getHours())}:${pad(n.getMinutes())} (every 5 minutes).`);
 }
 function refresh(){
   const nowDay = key(new Date());
@@ -470,6 +561,8 @@ document.getElementById("helpClose").onclick = () => { help.open = false; help.q
 document.addEventListener("click", ev => { if (help.open && !help.contains(ev.target)) help.open = false; });
 document.addEventListener("keydown", ev => { if (ev.key === "Escape" && help.open) { help.open = false; help.querySelector("summary").focus(); } });
 
+document.getElementById("langBtn").onclick = () => setLang(isEN() ? "pl" : "en");
+applyStatic();
 render();
 showMeta();
 loadRemote();
