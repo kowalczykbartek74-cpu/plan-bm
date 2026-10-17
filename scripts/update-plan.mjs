@@ -109,12 +109,18 @@ async function main() {
   };
   fs.writeFileSync("plan.json", JSON.stringify(data, null, 1) + "\n");
 
-  // Kopia danych w index.html, żeby strona działała nawet bez plan.json
-  const html = fs.readFileSync("index.html", "utf8");
+  // Kopia danych w plan.html, żeby strona z planem działała nawet bez plan.json
+  const html = fs.readFileSync("plan.html", "utf8");
   const start = "/*PLAN_DATA_START*/", end = "/*PLAN_DATA_END*/";
   const i = html.indexOf(start), j = html.indexOf(end);
-  if (i < 0 || j < 0) throw new Error("Brak znaczników danych w index.html");
-  fs.writeFileSync("index.html", html.slice(0, i + start.length) + JSON.stringify(data) + html.slice(j));
+  if (i < 0 || j < 0) throw new Error("Brak znaczników danych w plan.html");
+  fs.writeFileSync("plan.html", html.slice(0, i + start.length) + JSON.stringify(data) + html.slice(j));
+
+  // Ten sam plan w Skrót BM (index.html): jedna linia „const PLAN = {...};”
+  const app = fs.readFileSync("index.html", "utf8");
+  const re = /^(\s*const PLAN = ).*;$/m;
+  if (!re.test(app)) throw new Error("Brak „const PLAN = …;” w index.html");
+  fs.writeFileSync("index.html", app.replace(re, (_, pre) => pre + JSON.stringify(data) + ";"));
 
   let summary = "";
   if (changed && old) {
