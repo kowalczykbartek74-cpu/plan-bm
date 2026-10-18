@@ -1,0 +1,40 @@
+{
+ "opis": "Kalendarz roku: które dni to tydzień nieparzysty (odd), a które parzysty (even), dni wolne, dni zamienne i przerwy. Edytuj TEN plik, gdy wydział zmieni harmonogram albo ogłosi semestr letni. Automat dołącza go do plan.json, a z plan.json korzystają plan.skrotbm.pl i skrotbm.pl.",
+ "start": "2026-09-28",
+ "tygodnie": [
+  ["2026-10-02", "2026-10-02", "even"],
+  ["2026-10-05", "2026-10-09", "odd"],
+  ["2026-10-12", "2026-10-16", "even"],
+  ["2026-10-19", "2026-10-23", "odd"],
+  ["2026-10-26", "2026-10-30", "even"],
+  ["2026-11-03", "2026-11-06", "odd"],
+  ["2026-11-09", "2026-11-13", "even"],
+  ["2026-11-16", "2026-11-20", "odd"],
+  ["2026-11-23", "2026-11-27", "even"],
+  ["2026-11-30", "2026-12-04", "odd"],
+  ["2026-12-07", "2026-12-11", "even"],
+  ["2026-12-14", "2026-12-18", "odd"],
+  ["2026-12-21", "2026-12-23", "even"],
+  ["2027-01-07", "2027-01-08", "even"],
+  ["2027-01-11", "2027-01-15", "odd"],
+  ["2027-01-18", "2027-01-22", "even"],
+  ["2027-01-25", "2027-01-29", "odd"],
+  ["2027-02-01", "2027-02-01", "even"]
+ ],
+ "wolne": {
+  "2026-10-01": "Dzień rektorski",
+  "2026-11-02": "Dzień rektorski",
+  "2026-11-11": "Narodowe Święto Niepodległości"
+ },
+ "zamiany": {
+  "2027-01-29": { "p": "even", "asDay": 2, "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)" }
+ },
+ "okresy": [
+  { "od": "0000-01-01", "do": "2026-10-01", "opis": "Zajęcia zaczynają się 2 października" },
+  { "od": "2026-12-24", "do": "2027-01-06", "opis": "Przerwa świąteczna" },
+  { "od": "2027-02-02", "do": "2027-02-15", "opis": "Sesja egzaminacyjna (2–15.02)" },
+  { "od": "2027-02-16", "do": "2027-02-21", "opis": "Przerwa po sesji zimowej" },
+  { "od": "2027-02-22", "do": "2027-02-28", "opis": "Sesja poprawkowa (22–28.02)" },
+  { "od": "2027-03-01", "do": "9999-12-31", "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje" }
+ ]
+}

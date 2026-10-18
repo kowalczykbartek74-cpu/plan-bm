@@ -19,6 +19,7 @@ Zakładka **Actions** → **Aktualizacja planu zajęć** → **Run workflow**.
 
 ## Co trzeba zmienić ręcznie
 
-- **Nowy semestr:** podział na tygodnie parzyste i nieparzyste (`RANGES`, `OFF`, `SWAP` w `index.html`)
-  pochodzi z harmonogramu wydziału na semestr zimowy 2026/27. Na semestr letni trzeba go podmienić.
+- **Kalendarz roku** (tygodnie parzyste i nieparzyste, dni wolne, dni zamienne, przerwy i sesje) jest w `kalendarz.json`.
+  Po zapisaniu zmian automat dołącza go do `plan.json` (pole `kalendarz`), z którego korzystają plan.skrotbm.pl i skrotbm.pl.
+  Na semestr letni dopisz tygodnie do `tygodnie` i popraw ostatni wpis w `okresy`.
 - **Inne grupy:** lista grup jest w `CANDIDATES` w `scripts/update-plan.mjs`.

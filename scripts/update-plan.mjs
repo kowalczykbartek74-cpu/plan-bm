@@ -105,7 +105,8 @@ async function main() {
     updated,                                   // znacznik z planu uczelni
     changedAt: changed ? now : old.changedAt,  // kiedy skrypt ostatnio wykrył zmianę
     checkedAt: now,                            // ostatnie sprawdzenie
-    groups
+    groups,
+    ...(old?.kalendarz ? { kalendarz: old.kalendarz } : {})   // kalendarz roku dokłada scripts/kalendarz.mjs
   };
   fs.writeFileSync("plan.json", JSON.stringify(data, null, 1) + "\n");
 
