@@ -3,9 +3,9 @@
  "kierunek": "Business Management",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.10.2026 11:47",
- "changedAt": "2026-10-13T12:32:34.952Z",
- "checkedAt": "2026-10-20T11:08:41.543Z",
+ "updated": "20.10.2026 13:53",
+ "changedAt": "2026-10-20T12:28:32.647Z",
+ "checkedAt": "2026-10-20T12:28:32.647Z",
  "groups": {
   "C111": {
    "odd": [
@@ -45,6 +45,17 @@
      "k": "W",
      "p": "dr hab. prof. US Dariusz Milewski",
      "r": "s. 002"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 002a dr Barbara Batóg",
+     "dates": [
+      "2026-11-19"
+     ],
+     "n": "Jednorazowo: 19.11.2026"
     },
     {
      "d": 4,
@@ -291,6 +302,17 @@
      "r": "s. 002"
     },
     {
+     "d": 3,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 002a dr Barbara Batóg",
+     "dates": [
+      "2026-11-19"
+     ],
+     "n": "Jednorazowo: 19.11.2026"
+    },
+    {
      "d": 4,
      "s": 1,
      "pl": "Analiza matematyczna",
@@ -321,13 +343,14 @@
     {
      "d": 3,
      "s": 2,
-     "pl": "Szkolenie z obrony cywilnej",
+     "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
      "dates": [
+      "2026-11-26",
       "2026-12-17"
      ],
-     "n": "Jednorazowo: 17.12.2026"
+     "n": "Tylko: 26.11, 17.12"
     },
     {
      "d": 4,
@@ -487,6 +510,17 @@
      "k": "W",
      "p": "dr hab. prof. US Dariusz Milewski",
      "r": "s. 002"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 002a dr Barbara Batóg",
+     "dates": [
+      "2026-11-19"
+     ],
+     "n": "Jednorazowo: 19.11.2026"
     },
     {
      "d": 4,
