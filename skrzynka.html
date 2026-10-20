@@ -5,35 +5,21 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Skrzynka do opiekunki roku: sprawy 1. roku Business Management, zbierane przez starostę">
 <title>Skrzynka do opiekunki</title>
-<script>try{var t=localStorage.getItem("bm-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
-<meta name="theme-color" content="#E7EEEE" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#071820" media="(prefers-color-scheme: dark)">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<meta name="theme-color" content="#FFFFFF">
 <style>
 /* Layout: tabs, header, a "new message" card, a filter row, then the list of request cards (comments fold open under each) */
 :root{
-  --bg:#E7EEEE; --surface:#FBFDFD; --ink:#0F2A36; --muted:#4D646E; --line:#C9D7D9; --chip:#DCE6E7;
-  --accent:#0E6A73; --accent-soft:#DAEDED; --on-accent:#FFFFFF;
-  --u1:#4D646E; --u1-soft:#DCE6E7; --u2:#8E5800; --u2-soft:#FBEFD2; --u3:#B3261E; --u3-soft:#FBE3E0;
-  --ok:#17775A; --ok-soft:#DDF0E7; --note:#7A5200; --note-soft:#FFF3D1; --err:#B3261E;
-  --tile:#0F2A36; --tile-ink:#F6C343; --signal:#F6C343; --on-signal:#0F2A36;
-  --display:"Big Shoulders Display","Arial Narrow",system-ui,sans-serif;
-  --body:"Atkinson Hyperlegible","Segoe UI",system-ui,sans-serif;
-  --mono:"Big Shoulders Display",ui-monospace,monospace;
-}
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --bg:#071820; --surface:#0E2530; --ink:#E3EDEF; --muted:#8FA8B0; --line:#1D3B47; --chip:#15303B;
-  --accent:#5CC6C6; --accent-soft:#12343A; --on-accent:#071820;
-  --u1:#8FA8B0; --u1-soft:#15303B; --u2:#F6C343; --u2-soft:#33280B; --u3:#FF8A80; --u3-soft:#3D1A18;
-  --ok:#62D0A2; --ok-soft:#123628; --note:#F2C765; --note-soft:#2E2610; --err:#FF8A80;
-  --tile:#04121A; --tile-ink:#F6C343; --signal:#F6C343; --on-signal:#071820; color-scheme:dark }}
-:root[data-theme="dark"]{
-  --bg:#071820; --surface:#0E2530; --ink:#E3EDEF; --muted:#8FA8B0; --line:#1D3B47; --chip:#15303B;
-  --accent:#5CC6C6; --accent-soft:#12343A; --on-accent:#071820;
-  --u1:#8FA8B0; --u1-soft:#15303B; --u2:#F6C343; --u2-soft:#33280B; --u3:#FF8A80; --u3-soft:#3D1A18;
-  --ok:#62D0A2; --ok-soft:#123628; --note:#F2C765; --note-soft:#2E2610; --err:#FF8A80;
-  --tile:#04121A; --tile-ink:#F6C343; --signal:#F6C343; --on-signal:#071820; color-scheme:dark }
+  --bg:#F5F8F6; --surface:#FFFFFF; --ink:#16231B; --muted:#5A6B61; --line:#E1E9E4; --chip:#EEF3F0;
+  --accent:#1A7F45; --accent-soft:#EAF5EE; --on-accent:#FFFFFF;
+  --u1:#5A6B61; --u1-soft:#EEF3F0; --u2:#9A5B00; --u2-soft:#FFF4DE; --u3:#B42318; --u3-soft:#FDECEA;
+  --ok:#1A7F45; --ok-soft:#EAF5EE; --note:#9A5B00; --note-soft:#FFF4DE; --err:#B42318;
+  --tile:#0E5A30; --tile-ink:#FFFFFF; --signal:#B7DB4A; --on-signal:#0E5A30;
+  --display:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+  --body:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+  --mono:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+ color-scheme:light;}
 
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;padding-inline:16px;padding-block:20px 40px}
@@ -164,6 +150,17 @@ textarea:focus,input:focus,select:focus{border-color:var(--accent);outline:none;
 h1{font-family:var(--display);font-weight:800;font-size:clamp(38px,9vw,56px);line-height:.95;letter-spacing:.005em;margin:0;text-wrap:balance}
 .eyebrow{font-size:13.5px;letter-spacing:0;text-transform:none;color:var(--muted);font-weight:700}
 .tabs a[aria-current="page"]{background:var(--tile);color:var(--tile-ink);box-shadow:none}
+
+/* Motyw Skrót BM: biało-zielony „zeszyt w kratkę” (ten sam co skrotbm.pl, opis w PALETA.md w repo skrot-bm) */
+body{background-color:var(--bg);
+  background-image:linear-gradient(rgba(26,127,69,.055) 1px,transparent 1px),linear-gradient(90deg,rgba(26,127,69,.055) 1px,transparent 1px),linear-gradient(rgba(26,127,69,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(26,127,69,.035) 1px,transparent 1px);
+  background-size:24px 24px,24px 24px,120px 120px,120px 120px}
+body::before{content:"";position:fixed;left:0;right:0;top:0;height:4px;z-index:50;background:linear-gradient(90deg,#1A7F45 0 40%,#0F6E6E 40% 62%,#4CAF72 62% 82%,#B7DB4A 82% 100%)}
+h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='10' viewBox='0 0 40 10'%3E%3Cpath d='M0 6 Q10 0 20 6 T40 6' fill='none' stroke='%23B7DB4A' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E") left bottom/40px 10px repeat-x}
+.pill[aria-pressed="true"]{background:#1A7F45;border-color:#1A7F45;color:#fff}
+.help summary .q{background:#1A7F45;color:#fff}
+.help[open] summary{background:#1A7F45;border-color:#1A7F45;color:#fff}
+.help[open] summary .q{background:#fff;color:#1A7F45}
 </style>
 </head>
 <body>

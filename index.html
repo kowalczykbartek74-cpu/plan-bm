@@ -5,38 +5,22 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Plan zajęć 1. roku Business Management, Uniwersytet Szczeciński (WEFiZ)">
 <title>Plan zajęć BM</title>
-<script>try{var t=localStorage.getItem("bm-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
-<meta name="theme-color" content="#E7EEEE" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#071820" media="(prefers-color-scheme: dark)">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<meta name="theme-color" content="#FFFFFF">
 <style>
 /* Layout: controls (group, lab subgroup, week mode) in a sticky block, then five day cards that wrap to one column on phones */
 :root{
-  --bg:#E7EEEE; --surface:#FBFDFD; --ink:#0F2A36; --muted:#4D646E; --line:#C9D7D9; --chip:#DCE6E7;
-  --odd:#0E6A73; --even:#B4511A; --on-accent:#FFFFFF;
-  --w:#1F5A8C; --w-soft:#E1EBF5; --cw:#17775A; --cw-soft:#DDF0E7; --lab:#6E3FA3; --lab-soft:#ECE3F7;
-  --k:#8E5800; --k-soft:#F8EDD5; --s:#A8325A; --s-soft:#F8E2EA; --x:#47585F; --x-soft:#E4EBEC;
-  --note:#7A5200; --note-soft:#FFF3D1; --today:#0E6A73;
-  --tile:#0F2A36; --tile-ink:#F6C343; --tile-sub:#9FB8C0; --signal:#F6C343; --on-signal:#0F2A36;
-  --display:"Big Shoulders Display","Arial Narrow",system-ui,sans-serif;
-  --body:"Atkinson Hyperlegible","Segoe UI",system-ui,sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
-}
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --bg:#071820; --surface:#0E2530; --ink:#E3EDEF; --muted:#8FA8B0; --line:#1D3B47; --chip:#15303B;
-  --odd:#5CC6C6; --even:#F0995C; --on-accent:#071820;
-  --w:#86B6F0; --w-soft:#16304A; --cw:#62D0A2; --cw-soft:#123628; --lab:#C49AF0; --lab-soft:#2A2142;
-  --k:#F2B35A; --k-soft:#33260E; --s:#F08AAB; --s-soft:#3A1C27; --x:#B0C0C6; --x-soft:#1C323C;
-  --note:#F2C765; --note-soft:#2E2610; --today:#5CC6C6;
-  --tile:#04121A; --tile-ink:#F6C343; --tile-sub:#7E99A2; --signal:#F6C343; --on-signal:#071820; color-scheme:dark }}
-:root[data-theme="dark"]{
-  --bg:#071820; --surface:#0E2530; --ink:#E3EDEF; --muted:#8FA8B0; --line:#1D3B47; --chip:#15303B;
-  --odd:#5CC6C6; --even:#F0995C; --on-accent:#071820;
-  --w:#86B6F0; --w-soft:#16304A; --cw:#62D0A2; --cw-soft:#123628; --lab:#C49AF0; --lab-soft:#2A2142;
-  --k:#F2B35A; --k-soft:#33260E; --s:#F08AAB; --s-soft:#3A1C27; --x:#B0C0C6; --x-soft:#1C323C;
-  --note:#F2C765; --note-soft:#2E2610; --today:#5CC6C6;
-  --tile:#04121A; --tile-ink:#F6C343; --tile-sub:#7E99A2; --signal:#F6C343; --on-signal:#071820; color-scheme:dark }
+  --bg:#F5F8F6; --surface:#FFFFFF; --ink:#16231B; --muted:#5A6B61; --line:#E1E9E4; --chip:#EEF3F0;
+  --odd:#1A7F45; --even:#0F6E6E; --on-accent:#FFFFFF;
+  --w:#1A7F45; --w-soft:#EAF5EE; --cw:#0F6E6E; --cw-soft:#E3F3F1; --lab:#5B7A12; --lab-soft:#F3F9DD;
+  --k:#9A5B00; --k-soft:#FFF4DE; --s:#B42318; --s-soft:#FDECEA; --x:#5A6B61; --x-soft:#EEF3F0;
+  --note:#9A5B00; --note-soft:#FFF4DE; --today:#1A7F45;
+  --tile:#0E5A30; --tile-ink:#FFFFFF; --tile-sub:#CFE8D8; --signal:#B7DB4A; --on-signal:#0E5A30;
+  --display:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+  --body:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+  --mono:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+ color-scheme:light;}
 
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;padding-inline:16px;padding-block:20px 40px}
 .wrap{max-width:1320px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
@@ -145,6 +129,17 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 h1{font-family:var(--display);font-weight:800;font-size:clamp(38px,9vw,56px);line-height:.95;letter-spacing:.005em;margin:0;text-wrap:balance}
 .eyebrow{font-size:13.5px;letter-spacing:0;text-transform:none;color:var(--muted);font-weight:700}
 .tabs a[aria-current="page"]{background:var(--tile);color:var(--tile-ink);box-shadow:none}
+
+/* Motyw Skrót BM: biało-zielony „zeszyt w kratkę” (ten sam co skrotbm.pl, opis w PALETA.md w repo skrot-bm) */
+body{background-color:var(--bg);
+  background-image:linear-gradient(rgba(26,127,69,.055) 1px,transparent 1px),linear-gradient(90deg,rgba(26,127,69,.055) 1px,transparent 1px),linear-gradient(rgba(26,127,69,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(26,127,69,.035) 1px,transparent 1px);
+  background-size:24px 24px,24px 24px,120px 120px,120px 120px}
+body::before{content:"";position:fixed;left:0;right:0;top:0;height:4px;z-index:50;background:linear-gradient(90deg,#1A7F45 0 40%,#0F6E6E 40% 62%,#4CAF72 62% 82%,#B7DB4A 82% 100%)}
+h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='10' viewBox='0 0 40 10'%3E%3Cpath d='M0 6 Q10 0 20 6 T40 6' fill='none' stroke='%23B7DB4A' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E") left bottom/40px 10px repeat-x}
+.pill[aria-pressed="true"]{background:#1A7F45;border-color:#1A7F45;color:#fff}
+.help summary .q{background:#1A7F45;color:#fff}
+.help[open] summary{background:#1A7F45;border-color:#1A7F45;color:#fff}
+.help[open] summary .q{background:#fff;color:#1A7F45}
 </style>
 </head>
 <body>
@@ -207,14 +202,6 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(38px,9vw,56px);lin
         <button id="mode-cal" data-mode="cal" aria-pressed="true" data-i18n="mCal">Kalendarz</button>
         <button id="mode-odd" data-mode="odd" aria-pressed="false" data-i18n="mOdd">Nieparzysty</button>
         <button id="mode-even" data-mode="even" aria-pressed="false" data-i18n="mEven">Parzysty</button>
-      </div>
-    </div>
-    <div class="ctl">
-      <div class="ctl-label" data-i18n="lTheme">Motyw</div>
-      <div class="seg" id="themes" role="group" aria-label="Motyw kolorów" data-i18n-attr="aria-label=aThemes">
-        <button id="theme-auto" data-theme-opt="auto" aria-pressed="true" title="Jak w ustawieniach telefonu lub komputera" data-i18n-attr="title=tAuto">Auto</button>
-        <button id="theme-light" data-theme-opt="light" aria-pressed="false" data-i18n="thLight"><span aria-hidden="true">☀︎</span> Jasny</button>
-        <button id="theme-dark" data-theme-opt="dark" aria-pressed="false" data-i18n="thDark"><span aria-hidden="true">☾</span> Ciemny</button>
       </div>
     </div>
   </section>
@@ -536,7 +523,7 @@ function applyTheme(t){
   if (t === "light" || t === "dark") root.setAttribute("data-theme", t); else { root.removeAttribute("data-theme"); t = "auto"; }
   document.querySelectorAll("#themes button").forEach(b => b.setAttribute("aria-pressed", b.dataset.themeOpt === t));
 }
-applyTheme(store.get("bm-theme"));
+applyTheme("light"); // jeden jasny motyw
 document.querySelectorAll("#themes button").forEach(b => b.onclick = () => { store.set("bm-theme", b.dataset.themeOpt); applyTheme(b.dataset.themeOpt); });
 
 /* ---------- Auto-refresh: keep "today" and the current week correct while the page stays open ---------- */
