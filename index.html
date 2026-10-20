@@ -13,7 +13,7 @@
 :root{
   --bg:#F5F8F6; --surface:#FFFFFF; --ink:#16231B; --muted:#5A6B61; --line:#E1E9E4; --chip:#EEF3F0;
   --odd:#1A7F45; --even:#0F6E6E; --on-accent:#FFFFFF;
-  --w:#1A7F45; --w-soft:#EAF5EE; --cw:#0F6E6E; --cw-soft:#E3F3F1; --lab:#5B7A12; --lab-soft:#F3F9DD;
+  --w:#1A7F45; --w-soft:#EAF5EE; --cw:#1D5FA6; --cw-soft:#E6EFFA; --lab:#6D3FB0; --lab-soft:#F1EAFB;
   --k:#9A5B00; --k-soft:#FFF4DE; --s:#B42318; --s-soft:#FDECEA; --x:#5A6B61; --x-soft:#EEF3F0;
   --note:#9A5B00; --note-soft:#FFF4DE; --today:#1A7F45;
   --tile:#0E5A30; --tile-ink:#FFFFFF; --tile-sub:#CFE8D8; --signal:#B7DB4A; --on-signal:#0E5A30;
@@ -140,6 +140,15 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
 .help summary .q{background:#1A7F45;color:#fff}
 .help[open] summary{background:#1A7F45;border-color:#1A7F45;color:#fff}
 .help[open] summary .q{background:#fff;color:#1A7F45}
+/* Typy zajęć: pełne, wyraźnie różne kolory + pasek z lewej strony wiersza */
+.chip.W,.chip.CW,.chip.LAB,.chip.K,.chip.S{color:#fff;font-weight:700}
+.chip.W{background:var(--w)} .chip.CW{background:var(--cw)} .chip.LAB{background:var(--lab)} .chip.K{background:var(--k)} .chip.S{background:var(--s)}
+.cls{border-left:4px solid transparent}
+.cls.k-W{border-left-color:var(--w);background:linear-gradient(90deg,var(--w-soft),transparent 55%)}
+.cls.k-CW{border-left-color:var(--cw);background:linear-gradient(90deg,var(--cw-soft),transparent 55%)}
+.cls.k-LAB{border-left-color:var(--lab);background:linear-gradient(90deg,var(--lab-soft),transparent 55%)}
+.cls.k-K{border-left-color:var(--k);background:linear-gradient(90deg,var(--k-soft),transparent 55%)}
+.cls.k-S{border-left-color:var(--s);background:linear-gradient(90deg,var(--s-soft),transparent 55%)}
 </style>
 </head>
 <body>
@@ -404,7 +413,7 @@ function cls(e, showDates){
   if (e.g) tags.push(L(`Grupa ${e.g}`, `Group ${e.g}`));
   if (e.tag) tags.push(e.tag);
   const note = e.n && (showDates || !e.dates) ? trNote(e.n) : "";
-  return `<div class="cls">
+  return `<div class="cls k-${e.k}">
     <div class="time">${t[0]}<span>${t[1]}</span>${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}</div>
     <div class="info">
       <div class="name">${esc(pl)}</div>
