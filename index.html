@@ -122,6 +122,29 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 .free{padding:16px 14px;color:var(--muted);font-size:14px}
 .foot{font-size:13px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
 .foot a{color:var(--w)}
+/* Dodaj do kalendarza: przycisk w ustawieniach i okienko z linkami subskrypcji */
+.calbtn{font:600 14px/1 var(--body);border:1px solid var(--w);background:var(--w-soft);color:var(--w);border-radius:999px;padding:9px 14px;cursor:pointer;display:inline-flex;align-items:center;gap:7px}
+.calbtn:hover{background:var(--w);color:var(--on-accent)}
+.calbtn:focus-visible,.caldlg a:focus-visible,.caldlg button:focus-visible{outline:2px solid var(--today);outline-offset:2px}
+.calbtn svg{width:16px;height:16px;flex:none}
+.caldlg{border:1px solid var(--line);border-radius:16px;padding:0;width:min(440px,calc(100vw - 32px));background:var(--surface);color:var(--ink);box-shadow:0 18px 48px rgba(0,0,0,.22)}
+.caldlg::backdrop{background:rgba(22,35,27,.45)}
+.caldlg .in{padding:18px;display:flex;flex-direction:column;gap:12px;font-size:14px}
+.caldlg h3{margin:0;font-family:var(--display);font-weight:700;font-size:19px}
+.caldlg p{margin:0}
+.caldlg .muted{color:var(--muted);font-size:13px}
+.caldlg .which{display:inline-block;font-weight:700;background:var(--chip);border-radius:6px;padding:3px 7px}
+.caldlg .opts{display:flex;flex-direction:column;gap:8px}
+.caldlg .opt{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:12px;padding:11px 13px;background:var(--surface)}
+.caldlg .opt:hover{border-color:var(--w);background:var(--w-soft)}
+.caldlg .opt b{display:block;font-weight:700}
+.caldlg .opt small{display:block;color:var(--muted);font-size:12.5px;margin-top:2px;line-height:1.35}
+.caldlg .ico{flex:none;width:34px;height:34px;border-radius:9px;display:grid;place-items:center;font:800 15px/1 var(--display);color:var(--on-accent)}
+.caldlg .copyrow{display:flex;gap:6px}
+.caldlg .copyrow input{flex:1;min-width:0;font:500 12.5px/1 ui-monospace,monospace;border:1px solid var(--line);border-radius:8px;padding:9px;background:var(--chip);color:var(--ink)}
+.caldlg .copyrow button,.caldlg .close{font:600 13px/1 var(--body);border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:8px;padding:9px 12px;cursor:pointer;white-space:nowrap}
+.caldlg .close{align-self:flex-end}
+.caldlg .tip{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:5px}
 @media (max-width:520px){ .ctl-label{min-width:0;width:100%} .weekbar{flex-direction:column;align-items:stretch} header{padding-right:52px} .help summary .t{display:none} .help summary{padding:9px} .tabs{flex:1} .tabs a{flex:1;text-align:center;padding:9px 6px;font-size:13.5px;white-space:normal} .langbtn{padding:0 10px} }
 @media (prefers-reduced-motion:no-preference){ .days{animation:fade .18s ease} }
 @keyframes fade{from{opacity:.5}to{opacity:1}}
@@ -177,6 +200,7 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
           <li data-i18n="h5"><b>Motyw:</b> „Jasny” albo „Ciemny” ustawia kolory na stałe, a „Auto” dopasowuje je do ustawień telefonu.</li>
           <li data-i18n="h6"><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
           <li data-i18n="h7"><b>Skrzynka do opiekunki:</b> druga zakładka u góry. Napiszesz tam sprawę do opiekunki roku, podpisaną albo anonimowo. Starosta zbiera wiadomości i przekazuje je dalej, a odpowiedź pojawia się przy wiadomości. Szczegóły są w „Jak używać” w tamtej zakładce.</li>
+          <li data-i18n="h9"><b>Twój kalendarz:</b> przycisk „Dodaj plan do kalendarza w telefonie” dodaje zajęcia Twojej grupy do Kalendarza Google, Apple albo Outlooka. Kalendarz aktualizuje się sam, gdy zmieni się plan.</li>
           <li data-i18n="h8"><b>Język:</b> przycisk EN / PL u góry przełącza całą stronę między polskim a angielskim.</li>
         </ol>
         <div class="hint">
@@ -213,7 +237,12 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
         <button id="mode-even" data-mode="even" aria-pressed="false" data-i18n="mEven">Parzysty</button>
       </div>
     </div>
+    <div class="ctl">
+      <div class="ctl-label" data-i18n="lCal">Twój kalendarz</div>
+      <button class="calbtn" id="calBtn" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg><span data-i18n="calBtn">Dodaj plan do kalendarza w telefonie</span></button>
+    </div>
   </section>
+  <dialog class="caldlg" id="calDlg" aria-labelledby="calH"><div class="in" id="calIn"></div></dialog>
 
   <div class="weekbar">
     <div class="nav" id="nav"></div>
@@ -250,11 +279,12 @@ const EN = {
   h5:"<b>Theme:</b> “Light” or “Dark” fixes the colours; “Auto” follows your phone or computer settings.",
   h6:"<b>Labels:</b> LEC is a lecture, CLASS a tutorial class and LAB a laboratory. Today's card has a frame and a “today” tag.",
   h7:"<b>Year Tutor Mailbox:</b> the second tab at the top. Write a request to the year tutor, signed or anonymous. Your class representative collects the messages and passes them on, and the reply appears next to your message. Details are under “How to use” in that tab.",
+  h9:"<b>Your calendar:</b> the “Add the timetable to your phone calendar” button adds your group's classes to Google, Apple or Outlook Calendar. It updates itself when the timetable changes.",
   h8:"<b>Language:</b> the PL / EN button at the top switches the whole site between Polish and English.",
   hint1:"Your group and subgroup choice is saved in this browser.",
   hint2:"Rooms without an address are at ul. Cukrowa 8. The timetable is checked automatically on the university website every morning. If in doubt, check the official site.",
   sign1:"Hope it helps!", sign2:"Your class representative", close:"Close",
-  aSettings:"Settings", lGroup:"Group", lLabs:"Labs", lView:"View", lTheme:"Theme",
+  aSettings:"Settings", lCal:"Your calendar", calBtn:"Add the timetable to your phone calendar", lGroup:"Group", lLabs:"Labs", lView:"View", lTheme:"Theme",
   aSubs:"Lab subgroup", subAll:"Both groups", subA:"Group A", subB:"Group B",
   aModes:"Week view", mCal:"Calendar", mOdd:"Odd week", mEven:"Even week",
   aThemes:"Colour theme", tAuto:"Same as your phone or computer settings",
@@ -525,6 +555,42 @@ async function loadRemote(){
 }
 document.querySelectorAll("#subs button").forEach(b => b.onclick = () => { state.sub = b.dataset.sub; store.set("bm-sub", state.sub); render(); });
 document.querySelectorAll("#modes button").forEach(b => b.onclick = () => { state.mode = b.dataset.mode; render(); });
+
+/* ---------- Dodaj do kalendarza: subskrypcja pliku .ics (kalendarz/GRUPA-PODGRUPA.ics, robi go scripts/ics.mjs) ---------- */
+const CAL_HOST = "plan.skrotbm.pl";
+function calFile(){ const g = state.group, sub = hasSubs(g) ? state.sub : ""; return { file: `kalendarz/${g}${sub ? "-" + sub : ""}.ics`, g, sub }; }
+function openCal(){
+  const { file, g, sub } = calFile();
+  const https = `https://${CAL_HOST}/${file}`, webcal = `webcal://${CAL_HOST}/${file}`;
+  const name = `Plan zajęć ${g}${sub ? " · laby " + sub : ""}`;
+  const which = `${g}${sub ? L(`, laby ${sub}`, `, lab group ${sub}`) : (hasSubs(g) ? L(", obie grupy labów", ", both lab groups") : "")}`;
+  const opt = (href, color, letter, title, small, attrs="") => `<a class="opt" href="${href}" ${attrs}><span class="ico" style="background:${color}">${letter}</span><span><b>${title}</b><small>${small}</small></span></a>`;
+  document.getElementById("calIn").innerHTML = `
+    <h3 id="calH">${L("Plan w Twoim kalendarzu","Timetable in your calendar")}</h3>
+    <p>${L("Dodasz plan dla:","You are adding the timetable for:")} <span class="which">${esc(which)}</span></p>
+    <p class="muted">${L("To subskrypcja, nie jednorazowy import: gdy uczelnia zmieni plan, kalendarz sam się zaktualizuje. Inna grupa lub podgrupa? Zamknij okienko i zmień wybór wyżej.","This is a subscription, not a one-off import: when the university changes the timetable, your calendar updates itself. Different group? Close this and change your choice above.")}</p>
+    <div class="opts">
+      ${opt(`https://calendar.google.com/calendar/r?cid=${encodeURIComponent(webcal)}`, "#1A73E8", "G", "Google Calendar", L("Android i komputer. Otwórz na koncie Google, którego używasz w telefonie.","Android and computer. Open it in the Google account you use on your phone."), 'target="_blank" rel="noopener"')}
+      ${opt(webcal, "#16231B", "A", L("iPhone, iPad, Mac","iPhone, iPad, Mac"), L("Kalendarz Apple. Potwierdź „Subskrybuj”.","Apple Calendar. Confirm “Subscribe”."))}
+      ${opt(`https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(https)}&name=${encodeURIComponent(name)}`, "#0F6CBD", "O", "Outlook", L("Konto Outlook / Hotmail. Dla konta uczelnianego (Microsoft 365) skopiuj link niżej i wybierz „Dodaj kalendarz → Z internetu”.","Outlook / Hotmail account. For the university Microsoft 365 account, copy the link below and choose “Add calendar → From the internet”."), 'target="_blank" rel="noopener"')}
+    </div>
+    <div class="copyrow"><input id="calUrl" readonly value="${https}" aria-label="${L("Link do kalendarza","Calendar link")}"><button type="button" id="calCopy">${L("Kopiuj link","Copy link")}</button></div>
+    <div class="tip">
+      <span>${L("Android: po dodaniu w Google wejdź w aplikacji Kalendarz w Ustawienia, znajdź „"+esc(name)+"” i włącz synchronizację, jeśli plan się nie pokazuje.","Android: after adding it in Google, open Settings in the Calendar app, find “"+esc(name)+"” and turn on sync if it does not show up.")}</span>
+      <span>${L("Google odświeża subskrybowane kalendarze co kilka godzin, więc zmiana planu może pojawić się z opóźnieniem. Wiążąca jest zawsze ta strona i plan uczelni.","Google refreshes subscribed calendars every few hours, so changes can show up with a delay. This page and the university timetable are always the source of truth.")}</span>
+    </div>
+    <button type="button" class="close" id="calClose">${L("Zamknij","Close")}</button>`;
+  const dlg = document.getElementById("calDlg");
+  document.getElementById("calClose").onclick = () => dlg.close();
+  document.getElementById("calCopy").onclick = async (ev) => {
+    const inp = document.getElementById("calUrl");
+    try { await navigator.clipboard.writeText(inp.value); } catch (e) { inp.select(); try { document.execCommand("copy"); } catch (e2) {} }
+    ev.currentTarget.textContent = L("Skopiowano ✓","Copied ✓");
+  };
+  if (typeof dlg.showModal === "function") dlg.showModal(); else dlg.setAttribute("open", "");
+}
+document.getElementById("calBtn").onclick = openCal;
+document.getElementById("calDlg").addEventListener("click", e => { if (e.target.id === "calDlg") e.target.close(); });
 
 /* ---------- Motyw: auto / jasny / ciemny ---------- */
 function applyTheme(t){

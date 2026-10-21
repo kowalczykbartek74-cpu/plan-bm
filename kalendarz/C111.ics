@@ -1,0 +1,2070 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//plan.skrotbm.pl//Plan zajec BM//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plan zajęć C111
+X-WR-TIMEZONE:Europe/Warsaw
+X-WR-CALDESC:Business Management\, I rok\, US WEFiZ. Aktualizuje się sam\,
+  gdy zmieni się plan na stronie uczelni. https://plan.skrotbm.pl
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-02-C111-0-x-1wmb67f@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261002T081500
+DTEND;TZID=Europe/Warsaw:20261002T094500
+SUMMARY:Analiza matematyczna · ĆW
+LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
+ nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-C111-1-x-4vgoku@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261002T100000
+DTEND;TZID=Europe/Warsaw:20261002T113000
+SUMMARY:Makroekonomia · ĆW
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan
+ : https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-C111-2-x-ua5hxp@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261002T120000
+DTEND;TZID=Europe/Warsaw:20261002T133000
+SUMMARY:Makroekonomia · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan: h
+ ttps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-C111-3-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261002T134500
+DTEND;TZID=Europe/Warsaw:20261002T151500
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261006T081500
+DTEND;TZID=Europe/Warsaw:20261006T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-C111-1-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261006T100000
+DTEND;TZID=Europe/Warsaw:20261006T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-C111-2-x-bzzsa0@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261006T120000
+DTEND;TZID=Europe/Warsaw:20261006T133000
+SUMMARY:Logistyka · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
+ //plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-C111-0-x-1kbsa17@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261007T081500
+DTEND;TZID=Europe/Warsaw:20261007T094500
+SUMMARY:Logistyka · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
+ lan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-C111-1-x-1b581ny@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261007T100000
+DTEND;TZID=Europe/Warsaw:20261007T113000
+SUMMARY:Podstawy zarządzania · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
+  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-C111-2-x-fle48r@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261007T120000
+DTEND;TZID=Europe/Warsaw:20261007T133000
+SUMMARY:Podstawy finansów · ĆW
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Finances\nProwadzi: dr hab. prof. U
+ S Beata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-C111-1-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261009T100000
+DTEND;TZID=Europe/Warsaw:20261009T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-C111-2-x-lg92w8@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261009T120000
+DTEND;TZID=Europe/Warsaw:20261009T133000
+SUMMARY:Analiza matematyczna · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPl
+ an: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-C111-3-x-9kfcig@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261009T134500
+DTEND;TZID=Europe/Warsaw:20261009T151500
+SUMMARY:Zarządzanie zasobami ludzkimi · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nHuman Resources Management\nProwadzi: dr inż. Alicja 
+ Nerć-Pełka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-C111-1-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261012T100000
+DTEND;TZID=Europe/Warsaw:20261012T113000
+SUMMARY:Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-C111-2-x-1s50dt9@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261012T120000
+DTEND;TZID=Europe/Warsaw:20261012T133000
+SUMMARY:Podstawy zarządzania · ĆW
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
+  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-C111-3-x-1eh9mcq@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261012T134500
+DTEND;TZID=Europe/Warsaw:20261012T151500
+SUMMARY:Ochrona własności intelektualnej · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIntelectual Property Protection\nProwadzi: dr Jarosła
+ w Poteralski\nTylko: 12.10\, 26.10\, 9.11\, 23.11\nPlan: https://plan.skro
+ tbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261013T081500
+DTEND;TZID=Europe/Warsaw:20261013T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-C111-1-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261013T100000
+DTEND;TZID=Europe/Warsaw:20261013T113000
+SUMMARY:Ekonomia biznesu · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior\nP
+ lan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-C111-2-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261013T120000
+DTEND;TZID=Europe/Warsaw:20261013T133000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. 423 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-C111-0-x-vlm8rf@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261014T081500
+DTEND;TZID=Europe/Warsaw:20261014T094500
+SUMMARY:Zarządzanie zasobami ludzkimi · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nHuman Resources Management\nProwadzi: mgr Malwina J
+ ankowska\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-C111-1-x-19zau0b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261014T100000
+DTEND;TZID=Europe/Warsaw:20261014T113000
+SUMMARY:Narzędzia IT w zarządzaniu · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIT Tools in Management\nProwadzi: dr inż. Anna Boraws
+ ka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-C111-2-x-15daed4@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261014T120000
+DTEND;TZID=Europe/Warsaw:20261014T133000
+SUMMARY:Podstawy finansów · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Finances\nProwadzi: dr hab. prof. US B
+ eata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-C111-0-x-1wmb67f@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261016T081500
+DTEND;TZID=Europe/Warsaw:20261016T094500
+SUMMARY:Analiza matematyczna · ĆW
+LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
+ nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-C111-1-x-4vgoku@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261016T100000
+DTEND;TZID=Europe/Warsaw:20261016T113000
+SUMMARY:Makroekonomia · ĆW
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan
+ : https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-C111-2-x-ua5hxp@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261016T120000
+DTEND;TZID=Europe/Warsaw:20261016T133000
+SUMMARY:Makroekonomia · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan: h
+ ttps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-C111-3-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261016T134500
+DTEND;TZID=Europe/Warsaw:20261016T151500
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261020T081500
+DTEND;TZID=Europe/Warsaw:20261020T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-C111-1-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261020T100000
+DTEND;TZID=Europe/Warsaw:20261020T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-C111-2-x-bzzsa0@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261020T120000
+DTEND;TZID=Europe/Warsaw:20261020T133000
+SUMMARY:Logistyka · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
+ //plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-C111-0-x-1kbsa17@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261021T081500
+DTEND;TZID=Europe/Warsaw:20261021T094500
+SUMMARY:Logistyka · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
+ lan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-C111-1-x-1b581ny@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261021T100000
+DTEND;TZID=Europe/Warsaw:20261021T113000
+SUMMARY:Podstawy zarządzania · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
+  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-C111-2-x-fle48r@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261021T120000
+DTEND;TZID=Europe/Warsaw:20261021T133000
+SUMMARY:Podstawy finansów · ĆW
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Finances\nProwadzi: dr hab. prof. U
+ S Beata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-C111-1-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261023T100000
+DTEND;TZID=Europe/Warsaw:20261023T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-C111-2-x-lg92w8@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261023T120000
+DTEND;TZID=Europe/Warsaw:20261023T133000
+SUMMARY:Analiza matematyczna · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPl
+ an: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-C111-3-x-9kfcig@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261023T134500
+DTEND;TZID=Europe/Warsaw:20261023T151500
+SUMMARY:Zarządzanie zasobami ludzkimi · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nHuman Resources Management\nProwadzi: dr inż. Alicja 
+ Nerć-Pełka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-C111-1-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261026T100000
+DTEND;TZID=Europe/Warsaw:20261026T113000
+SUMMARY:Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-C111-2-x-1s50dt9@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261026T120000
+DTEND;TZID=Europe/Warsaw:20261026T133000
+SUMMARY:Podstawy zarządzania · ĆW
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
+  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-C111-3-x-1eh9mcq@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261026T134500
+DTEND;TZID=Europe/Warsaw:20261026T151500
+SUMMARY:Ochrona własności intelektualnej · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIntelectual Property Protection\nProwadzi: dr Jarosła
+ w Poteralski\nTylko: 12.10\, 26.10\, 9.11\, 23.11\nPlan: https://plan.skro
+ tbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261027T081500
+DTEND;TZID=Europe/Warsaw:20261027T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-C111-1-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261027T100000
+DTEND;TZID=Europe/Warsaw:20261027T113000
+SUMMARY:Ekonomia biznesu · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior\nP
+ lan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-C111-2-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261027T120000
+DTEND;TZID=Europe/Warsaw:20261027T133000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. 423 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-C111-0-x-vlm8rf@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261028T081500
+DTEND;TZID=Europe/Warsaw:20261028T094500
+SUMMARY:Zarządzanie zasobami ludzkimi · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nHuman Resources Management\nProwadzi: mgr Malwina J
+ ankowska\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-C111-1-x-19zau0b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261028T100000
+DTEND;TZID=Europe/Warsaw:20261028T113000
+SUMMARY:Narzędzia IT w zarządzaniu · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIT Tools in Management\nProwadzi: dr inż. Anna Boraws
+ ka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-C111-2-x-15daed4@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261028T120000
+DTEND;TZID=Europe/Warsaw:20261028T133000
+SUMMARY:Podstawy finansów · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Finances\nProwadzi: dr hab. prof. US B
+ eata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-C111-0-x-1wmb67f@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261030T081500
+DTEND;TZID=Europe/Warsaw:20261030T094500
+SUMMARY:Analiza matematyczna · ĆW
+LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
+ nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-C111-1-x-4vgoku@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261030T100000
+DTEND;TZID=Europe/Warsaw:20261030T113000
+SUMMARY:Makroekonomia · ĆW
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan
+ : https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-C111-2-x-ua5hxp@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261030T120000
+DTEND;TZID=Europe/Warsaw:20261030T133000
+SUMMARY:Makroekonomia · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan: h
+ ttps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-C111-3-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261030T134500
+DTEND;TZID=Europe/Warsaw:20261030T151500
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261103T081500
+DTEND;TZID=Europe/Warsaw:20261103T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-C111-1-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261103T100000
+DTEND;TZID=Europe/Warsaw:20261103T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-C111-2-x-bzzsa0@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261103T120000
+DTEND;TZID=Europe/Warsaw:20261103T133000
+SUMMARY:Logistyka · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
+ //plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-C111-0-x-1kbsa17@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261104T081500
+DTEND;TZID=Europe/Warsaw:20261104T094500
+SUMMARY:Logistyka · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
+ lan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-C111-1-x-1b581ny@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261104T100000
+DTEND;TZID=Europe/Warsaw:20261104T113000
+SUMMARY:Podstawy zarządzania · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
+  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-C111-2-x-fle48r@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261104T120000
+DTEND;TZID=Europe/Warsaw:20261104T133000
+SUMMARY:Podstawy finansów · ĆW
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Finances\nProwadzi: dr hab. prof. U
+ S Beata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-C111-1-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261106T100000
+DTEND;TZID=Europe/Warsaw:20261106T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-C111-2-x-lg92w8@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261106T120000
+DTEND;TZID=Europe/Warsaw:20261106T133000
+SUMMARY:Analiza matematyczna · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPl
+ an: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-C111-3-x-9kfcig@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261106T134500
+DTEND;TZID=Europe/Warsaw:20261106T151500
+SUMMARY:Zarządzanie zasobami ludzkimi · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nHuman Resources Management\nProwadzi: dr inż. Alicja 
+ Nerć-Pełka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-C111-1-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261109T100000
+DTEND;TZID=Europe/Warsaw:20261109T113000
+SUMMARY:Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-C111-2-x-1s50dt9@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261109T120000
+DTEND;TZID=Europe/Warsaw:20261109T133000
+SUMMARY:Podstawy zarządzania · ĆW
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
+  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-C111-3-x-1eh9mcq@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261109T134500
+DTEND;TZID=Europe/Warsaw:20261109T151500
+SUMMARY:Ochrona własności intelektualnej · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIntelectual Property Protection\nProwadzi: dr Jarosła
+ w Poteralski\nTylko: 12.10\, 26.10\, 9.11\, 23.11\nPlan: https://plan.skro
+ tbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261110T081500
+DTEND;TZID=Europe/Warsaw:20261110T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-C111-1-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261110T100000
+DTEND;TZID=Europe/Warsaw:20261110T113000
+SUMMARY:Ekonomia biznesu · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior\nP
+ lan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-C111-2-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261110T120000
+DTEND;TZID=Europe/Warsaw:20261110T133000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. 423 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-C111-0-x-1wmb67f@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261113T081500
+DTEND;TZID=Europe/Warsaw:20261113T094500
+SUMMARY:Analiza matematyczna · ĆW
+LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
+ nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-C111-1-x-4vgoku@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261113T100000
+DTEND;TZID=Europe/Warsaw:20261113T113000
+SUMMARY:Makroekonomia · ĆW
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan
+ : https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-C111-2-x-ua5hxp@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261113T120000
+DTEND;TZID=Europe/Warsaw:20261113T133000
+SUMMARY:Makroekonomia · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan: h
+ ttps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-C111-3-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261113T134500
+DTEND;TZID=Europe/Warsaw:20261113T151500
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261117T081500
+DTEND;TZID=Europe/Warsaw:20261117T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-C111-1-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261117T100000
+DTEND;TZID=Europe/Warsaw:20261117T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-C111-2-x-bzzsa0@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261117T120000
+DTEND;TZID=Europe/Warsaw:20261117T133000
+SUMMARY:Logistyka · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
+ //plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-C111-0-x-1kbsa17@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261118T081500
+DTEND;TZID=Europe/Warsaw:20261118T094500
+SUMMARY:Logistyka · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
+ lan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-C111-1-x-1b581ny@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261118T100000
+DTEND;TZID=Europe/Warsaw:20261118T113000
+SUMMARY:Podstawy zarządzania · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
+  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-C111-2-x-fle48r@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261118T120000
+DTEND;TZID=Europe/Warsaw:20261118T133000
+SUMMARY:Podstawy finansów · ĆW
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Finances\nProwadzi: dr hab. prof. U
+ S Beata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-C111-1-x-1nyd70i@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261119T100000
+DTEND;TZID=Europe/Warsaw:20261119T113000
+SUMMARY:Odrabianie zajęć
+LOCATION:sala 002a dr Barbara Batóg\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Jednorazowo: 19.11.2026\nPlan: https://plan.skrotbm.pl
+CATEGORIES:zajęcia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-C111-1-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261120T100000
+DTEND;TZID=Europe/Warsaw:20261120T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-C111-2-x-lg92w8@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261120T120000
+DTEND;TZID=Europe/Warsaw:20261120T133000
+SUMMARY:Analiza matematyczna · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPl
+ an: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-C111-3-x-9kfcig@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261120T134500
+DTEND;TZID=Europe/Warsaw:20261120T151500
+SUMMARY:Zarządzanie zasobami ludzkimi · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nHuman Resources Management\nProwadzi: dr inż. Alicja 
+ Nerć-Pełka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-C111-1-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261123T100000
+DTEND;TZID=Europe/Warsaw:20261123T113000
+SUMMARY:Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-C111-2-x-1s50dt9@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261123T120000
+DTEND;TZID=Europe/Warsaw:20261123T133000
+SUMMARY:Podstawy zarządzania · ĆW
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
+  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-C111-3-x-1eh9mcq@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261123T134500
+DTEND;TZID=Europe/Warsaw:20261123T151500
+SUMMARY:Ochrona własności intelektualnej · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIntelectual Property Protection\nProwadzi: dr Jarosła
+ w Poteralski\nTylko: 12.10\, 26.10\, 9.11\, 23.11\nPlan: https://plan.skro
+ tbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261124T081500
+DTEND;TZID=Europe/Warsaw:20261124T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-C111-1-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261124T100000
+DTEND;TZID=Europe/Warsaw:20261124T113000
+SUMMARY:Ekonomia biznesu · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior\nP
+ lan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-C111-2-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261124T120000
+DTEND;TZID=Europe/Warsaw:20261124T133000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. 423 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-C111-0-x-vlm8rf@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261125T081500
+DTEND;TZID=Europe/Warsaw:20261125T094500
+SUMMARY:Zarządzanie zasobami ludzkimi · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nHuman Resources Management\nProwadzi: mgr Malwina J
+ ankowska\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-C111-1-x-19zau0b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261125T100000
+DTEND;TZID=Europe/Warsaw:20261125T113000
+SUMMARY:Narzędzia IT w zarządzaniu · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIT Tools in Management\nProwadzi: dr inż. Anna Boraws
+ ka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-C111-2-x-15daed4@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261125T120000
+DTEND;TZID=Europe/Warsaw:20261125T133000
+SUMMARY:Podstawy finansów · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Finances\nProwadzi: dr hab. prof. US B
+ eata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-C111-0-x-1wmb67f@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261127T081500
+DTEND;TZID=Europe/Warsaw:20261127T094500
+SUMMARY:Analiza matematyczna · ĆW
+LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
+ nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-C111-1-x-4vgoku@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261127T100000
+DTEND;TZID=Europe/Warsaw:20261127T113000
+SUMMARY:Makroekonomia · ĆW
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan
+ : https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-C111-2-x-ua5hxp@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261127T120000
+DTEND;TZID=Europe/Warsaw:20261127T133000
+SUMMARY:Makroekonomia · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan: h
+ ttps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-C111-3-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261127T134500
+DTEND;TZID=Europe/Warsaw:20261127T151500
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261201T081500
+DTEND;TZID=Europe/Warsaw:20261201T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-C111-1-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261201T100000
+DTEND;TZID=Europe/Warsaw:20261201T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-C111-2-x-bzzsa0@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261201T120000
+DTEND;TZID=Europe/Warsaw:20261201T133000
+SUMMARY:Logistyka · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
+ //plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-C111-0-x-1kbsa17@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261202T081500
+DTEND;TZID=Europe/Warsaw:20261202T094500
+SUMMARY:Logistyka · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
+ lan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-C111-1-x-1b581ny@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261202T100000
+DTEND;TZID=Europe/Warsaw:20261202T113000
+SUMMARY:Podstawy zarządzania · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
+  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-C111-2-x-fle48r@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261202T120000
+DTEND;TZID=Europe/Warsaw:20261202T133000
+SUMMARY:Podstawy finansów · ĆW
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Finances\nProwadzi: dr hab. prof. U
+ S Beata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-C111-1-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261204T100000
+DTEND;TZID=Europe/Warsaw:20261204T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-C111-2-x-lg92w8@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261204T120000
+DTEND;TZID=Europe/Warsaw:20261204T133000
+SUMMARY:Analiza matematyczna · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPl
+ an: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-C111-3-x-9kfcig@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261204T134500
+DTEND;TZID=Europe/Warsaw:20261204T151500
+SUMMARY:Zarządzanie zasobami ludzkimi · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nHuman Resources Management\nProwadzi: dr inż. Alicja 
+ Nerć-Pełka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-C111-1-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261207T100000
+DTEND;TZID=Europe/Warsaw:20261207T113000
+SUMMARY:Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-C111-2-x-1s50dt9@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261207T120000
+DTEND;TZID=Europe/Warsaw:20261207T133000
+SUMMARY:Podstawy zarządzania · ĆW
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
+  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261208T081500
+DTEND;TZID=Europe/Warsaw:20261208T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-C111-1-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261208T100000
+DTEND;TZID=Europe/Warsaw:20261208T113000
+SUMMARY:Ekonomia biznesu · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior\nP
+ lan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-C111-2-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261208T120000
+DTEND;TZID=Europe/Warsaw:20261208T133000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. 423 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-C111-0-x-vlm8rf@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261209T081500
+DTEND;TZID=Europe/Warsaw:20261209T094500
+SUMMARY:Zarządzanie zasobami ludzkimi · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nHuman Resources Management\nProwadzi: mgr Malwina J
+ ankowska\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-C111-1-x-19zau0b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261209T100000
+DTEND;TZID=Europe/Warsaw:20261209T113000
+SUMMARY:Narzędzia IT w zarządzaniu · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIT Tools in Management\nProwadzi: dr inż. Anna Boraws
+ ka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-C111-2-x-15daed4@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261209T120000
+DTEND;TZID=Europe/Warsaw:20261209T133000
+SUMMARY:Podstawy finansów · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Finances\nProwadzi: dr hab. prof. US B
+ eata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-C111-0-x-1wmb67f@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261211T081500
+DTEND;TZID=Europe/Warsaw:20261211T094500
+SUMMARY:Analiza matematyczna · ĆW
+LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
+ nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-C111-1-x-4vgoku@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261211T100000
+DTEND;TZID=Europe/Warsaw:20261211T113000
+SUMMARY:Makroekonomia · ĆW
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan
+ : https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-C111-2-x-ua5hxp@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261211T120000
+DTEND;TZID=Europe/Warsaw:20261211T133000
+SUMMARY:Makroekonomia · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan: h
+ ttps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-C111-3-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261211T134500
+DTEND;TZID=Europe/Warsaw:20261211T151500
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261215T081500
+DTEND;TZID=Europe/Warsaw:20261215T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-C111-1-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261215T100000
+DTEND;TZID=Europe/Warsaw:20261215T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-C111-2-x-bzzsa0@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261215T120000
+DTEND;TZID=Europe/Warsaw:20261215T133000
+SUMMARY:Logistyka · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
+ //plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-C111-0-x-1kbsa17@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261216T081500
+DTEND;TZID=Europe/Warsaw:20261216T094500
+SUMMARY:Logistyka · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
+ lan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-C111-1-x-1b581ny@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261216T100000
+DTEND;TZID=Europe/Warsaw:20261216T113000
+SUMMARY:Podstawy zarządzania · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
+  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-C111-2-x-fle48r@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261216T120000
+DTEND;TZID=Europe/Warsaw:20261216T133000
+SUMMARY:Podstawy finansów · ĆW
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Finances\nProwadzi: dr hab. prof. U
+ S Beata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-C111-2-x-1cjqjgv@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261217T120000
+DTEND;TZID=Europe/Warsaw:20261217T133000
+SUMMARY:Szkolenie z obrony cywilnej
+LOCATION:Aula WNS ul. Krakowska 71-79\, Szczecin
+DESCRIPTION:Jednorazowo: 17.12.2026\nPlan: https://plan.skrotbm.pl
+CATEGORIES:zajęcia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-C111-1-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261218T100000
+DTEND;TZID=Europe/Warsaw:20261218T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-C111-2-x-lg92w8@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261218T120000
+DTEND;TZID=Europe/Warsaw:20261218T133000
+SUMMARY:Analiza matematyczna · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPl
+ an: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-C111-3-x-9kfcig@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261218T134500
+DTEND;TZID=Europe/Warsaw:20261218T151500
+SUMMARY:Zarządzanie zasobami ludzkimi · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nHuman Resources Management\nProwadzi: dr inż. Alicja 
+ Nerć-Pełka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-C111-1-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261221T100000
+DTEND;TZID=Europe/Warsaw:20261221T113000
+SUMMARY:Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-C111-2-x-1s50dt9@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261221T120000
+DTEND;TZID=Europe/Warsaw:20261221T133000
+SUMMARY:Podstawy zarządzania · ĆW
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
+  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261222T081500
+DTEND;TZID=Europe/Warsaw:20261222T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-C111-1-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261222T100000
+DTEND;TZID=Europe/Warsaw:20261222T113000
+SUMMARY:Ekonomia biznesu · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior\nP
+ lan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-C111-2-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261222T120000
+DTEND;TZID=Europe/Warsaw:20261222T133000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. 423 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-C111-0-x-vlm8rf@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261223T081500
+DTEND;TZID=Europe/Warsaw:20261223T094500
+SUMMARY:Zarządzanie zasobami ludzkimi · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nHuman Resources Management\nProwadzi: mgr Malwina J
+ ankowska\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-C111-1-x-19zau0b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261223T100000
+DTEND;TZID=Europe/Warsaw:20261223T113000
+SUMMARY:Narzędzia IT w zarządzaniu · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIT Tools in Management\nProwadzi: dr inż. Anna Boraws
+ ka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-C111-2-x-15daed4@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261223T120000
+DTEND;TZID=Europe/Warsaw:20261223T133000
+SUMMARY:Podstawy finansów · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Finances\nProwadzi: dr hab. prof. US B
+ eata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-C111-0-x-1wmb67f@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270108T081500
+DTEND;TZID=Europe/Warsaw:20270108T094500
+SUMMARY:Analiza matematyczna · ĆW
+LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
+ nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-C111-1-x-4vgoku@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270108T100000
+DTEND;TZID=Europe/Warsaw:20270108T113000
+SUMMARY:Makroekonomia · ĆW
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan
+ : https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-C111-2-x-ua5hxp@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270108T120000
+DTEND;TZID=Europe/Warsaw:20270108T133000
+SUMMARY:Makroekonomia · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan: h
+ ttps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-C111-3-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270108T134500
+DTEND;TZID=Europe/Warsaw:20270108T151500
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270112T081500
+DTEND;TZID=Europe/Warsaw:20270112T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-C111-1-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270112T100000
+DTEND;TZID=Europe/Warsaw:20270112T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-C111-2-x-bzzsa0@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270112T120000
+DTEND;TZID=Europe/Warsaw:20270112T133000
+SUMMARY:Logistyka · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
+ //plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-C111-0-x-1kbsa17@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270113T081500
+DTEND;TZID=Europe/Warsaw:20270113T094500
+SUMMARY:Logistyka · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
+ lan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-C111-1-x-1b581ny@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270113T100000
+DTEND;TZID=Europe/Warsaw:20270113T113000
+SUMMARY:Podstawy zarządzania · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
+  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-C111-2-x-fle48r@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270113T120000
+DTEND;TZID=Europe/Warsaw:20270113T133000
+SUMMARY:Podstawy finansów · ĆW
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Finances\nProwadzi: dr hab. prof. U
+ S Beata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-C111-1-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270115T100000
+DTEND;TZID=Europe/Warsaw:20270115T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-C111-2-x-lg92w8@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270115T120000
+DTEND;TZID=Europe/Warsaw:20270115T133000
+SUMMARY:Analiza matematyczna · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPl
+ an: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-C111-3-x-9kfcig@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270115T134500
+DTEND;TZID=Europe/Warsaw:20270115T151500
+SUMMARY:Zarządzanie zasobami ludzkimi · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nHuman Resources Management\nProwadzi: dr inż. Alicja 
+ Nerć-Pełka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-C111-1-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270118T100000
+DTEND;TZID=Europe/Warsaw:20270118T113000
+SUMMARY:Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-C111-2-x-1s50dt9@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270118T120000
+DTEND;TZID=Europe/Warsaw:20270118T133000
+SUMMARY:Podstawy zarządzania · ĆW
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
+  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270119T081500
+DTEND;TZID=Europe/Warsaw:20270119T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-C111-1-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270119T100000
+DTEND;TZID=Europe/Warsaw:20270119T113000
+SUMMARY:Ekonomia biznesu · W
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior\nP
+ lan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-C111-2-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270119T120000
+DTEND;TZID=Europe/Warsaw:20270119T133000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. 423 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-C111-0-x-vlm8rf@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270120T081500
+DTEND;TZID=Europe/Warsaw:20270120T094500
+SUMMARY:Zarządzanie zasobami ludzkimi · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nHuman Resources Management\nProwadzi: mgr Malwina J
+ ankowska\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-C111-1-x-19zau0b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270120T100000
+DTEND;TZID=Europe/Warsaw:20270120T113000
+SUMMARY:Narzędzia IT w zarządzaniu · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIT Tools in Management\nProwadzi: dr inż. Anna Boraws
+ ka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-C111-2-x-15daed4@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270120T120000
+DTEND;TZID=Europe/Warsaw:20270120T133000
+SUMMARY:Podstawy finansów · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Finances\nProwadzi: dr hab. prof. US B
+ eata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-C111-0-x-1wmb67f@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270122T081500
+DTEND;TZID=Europe/Warsaw:20270122T094500
+SUMMARY:Analiza matematyczna · ĆW
+LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
+ nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-C111-1-x-4vgoku@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270122T100000
+DTEND;TZID=Europe/Warsaw:20270122T113000
+SUMMARY:Makroekonomia · ĆW
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan
+ : https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-C111-2-x-ua5hxp@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270122T120000
+DTEND;TZID=Europe/Warsaw:20270122T133000
+SUMMARY:Makroekonomia · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nMacroeconomics\nProwadzi: dr Agnieszka Bretyn\nPlan: h
+ ttps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-C111-3-A-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270122T134500
+DTEND;TZID=Europe/Warsaw:20270122T151500
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby A)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa A\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-C111-0-x-1jjry2x@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270126T081500
+DTEND;TZID=Europe/Warsaw:20270126T094500
+SUMMARY:Prawo · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLaw\nProwadzi: dr Małgorzata Szymszon\nPlan: https://
+ plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-C111-1-B-1v3f76b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270126T100000
+DTEND;TZID=Europe/Warsaw:20270126T113000
+SUMMARY:Narzędzia IT w zarządzaniu · LAB (laby B)
+LOCATION:s. SIL 116 (lab)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
+  inż. Piotr Niemcewicz\nPlan: https://plan.skrotbm.pl
+CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-C111-2-x-bzzsa0@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270126T120000
+DTEND;TZID=Europe/Warsaw:20270126T133000
+SUMMARY:Logistyka · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
+ //plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-C111-0-x-1kbsa17@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270127T081500
+DTEND;TZID=Europe/Warsaw:20270127T094500
+SUMMARY:Logistyka · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
+ lan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-C111-1-x-1b581ny@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270127T100000
+DTEND;TZID=Europe/Warsaw:20270127T113000
+SUMMARY:Podstawy zarządzania · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
+  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-C111-2-x-fle48r@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270127T120000
+DTEND;TZID=Europe/Warsaw:20270127T133000
+SUMMARY:Podstawy finansów · ĆW
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Finances\nProwadzi: dr hab. prof. U
+ S Beata Świecka\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-C111-0-x-vlm8rf@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270129T081500
+DTEND;TZID=Europe/Warsaw:20270129T094500
+SUMMARY:Zarządzanie zasobami ludzkimi · ĆW
+LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nHuman Resources Management\nProwadzi: mgr Malwina J
+ ankowska\nDzień zamienny: zajęcia jak w środę (tydzień parzysty)\nPla
+ n: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-C111-1-x-19zau0b@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270129T100000
+DTEND;TZID=Europe/Warsaw:20270129T113000
+SUMMARY:Narzędzia IT w zarządzaniu · W
+LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nIT Tools in Management\nProwadzi: dr inż. Anna Boraws
+ ka\nDzień zamienny: zajęcia jak w środę (tydzień parzysty)\nPlan: htt
+ ps://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-C111-2-x-15daed4@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270129T120000
+DTEND;TZID=Europe/Warsaw:20270129T133000
+SUMMARY:Podstawy finansów · W
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Wykład\nFundamentals of Finances\nProwadzi: dr hab. prof. US B
+ eata Świecka\nDzień zamienny: zajęcia jak w środę (tydzień parzysty)
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-C111-1-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270201T100000
+DTEND;TZID=Europe/Warsaw:20270201T113000
+SUMMARY:Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
+ \nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-C111-2-x-1s50dt9@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20270201T120000
+DTEND;TZID=Europe/Warsaw:20270201T133000
+SUMMARY:Podstawy zarządzania · ĆW
+LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
+  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:wolne-2026-10-01@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Bez zajęć: Dzień rektorski
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wolne-2026-11-02@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Bez zajęć: Dzień rektorski
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wolne-2026-11-11@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Bez zajęć: Narodowe Święto Niepodległości
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:okres-2026-12-24@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270107
+SUMMARY:Przerwa świąteczna
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:okres-2027-02-02@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270216
+SUMMARY:Sesja egzaminacyjna (2–15.02)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:okres-2027-02-16@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270222
+SUMMARY:Przerwa po sesji zimowej
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:okres-2027-02-22@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270301
+SUMMARY:Sesja poprawkowa (22–28.02)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

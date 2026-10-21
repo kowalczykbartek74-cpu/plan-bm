@@ -13,6 +13,12 @@ Plan aktualizuje się sam na podstawie [oficjalnego planu wydziału](https://pla
 Jeśli strona uczelni zwróci coś podejrzanego (brak grupy, za mało zajęć), skrypt nie nadpisuje planu.
 Uruchomienie kończy się wtedy błędem i GitHub wysyła maila o nieudanym przebiegu.
 
+## Plan w kalendarzu telefonu
+
+Przycisk „Dodaj plan do kalendarza w telefonie” daje link do subskrypcji w Google, Apple albo Outlooku.
+Pliki `kalendarz/GRUPA-PODGRUPA.ics` (np. `C112-A.ics`, a `C112.ics` to obie podgrupy) robi `scripts/ics.mjs`
+przy każdym przebiegu automatu, więc zmiana planu albo `kalendarz.json` trafia też do kalendarzy studentów.
+
 ## Ręczne sprawdzenie
 
 Zakładka **Actions** → **Aktualizacja planu zajęć** → **Run workflow**.
