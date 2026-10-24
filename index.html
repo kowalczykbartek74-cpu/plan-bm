@@ -88,7 +88,7 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 .legend span{display:inline-flex;align-items:center;gap:5px}
 
 .chip{font:600 11px/1 var(--body);letter-spacing:.04em;padding:4px 6px;border-radius:5px;white-space:nowrap;font-style:normal}
-.chip.W{background:var(--w-soft);color:var(--w)} .chip.CW{background:var(--cw-soft);color:var(--cw)}
+.chip.W{background:var(--cw-soft);color:var(--cw)} .chip.CW{background:var(--w-soft);color:var(--w)}
 .chip.LAB{background:var(--lab-soft);color:var(--lab)} .chip.K{background:var(--k-soft);color:var(--k)}
 .chip.S{background:var(--s-soft);color:var(--s)} .chip.X{background:var(--x-soft);color:var(--x)}
 
@@ -165,10 +165,10 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
 .help[open] summary .q{background:#fff;color:#1A7F45}
 /* Typy zajęć: pełne, wyraźnie różne kolory + pasek z lewej strony wiersza */
 .chip.W,.chip.CW,.chip.LAB,.chip.K,.chip.S{color:#fff;font-weight:700}
-.chip.W{background:var(--w)} .chip.CW{background:var(--cw)} .chip.LAB{background:var(--lab)} .chip.K{background:var(--k)} .chip.S{background:var(--s)}
+.chip.W{background:var(--cw)} .chip.CW{background:var(--w)} .chip.LAB{background:var(--lab)} .chip.K{background:var(--k)} .chip.S{background:var(--s)}
 .cls{border-left:4px solid transparent}
-.cls.k-W{border-left-color:var(--w);background:linear-gradient(90deg,var(--w-soft),transparent 55%)}
-.cls.k-CW{border-left-color:var(--cw);background:linear-gradient(90deg,var(--cw-soft),transparent 55%)}
+.cls.k-W{border-left-color:var(--cw);background:linear-gradient(90deg,var(--cw-soft),transparent 55%)}
+.cls.k-CW{border-left-color:var(--w);background:linear-gradient(90deg,var(--w-soft),transparent 55%)}
 .cls.k-LAB{border-left-color:var(--lab);background:linear-gradient(90deg,var(--lab-soft),transparent 55%)}
 .cls.k-K{border-left-color:var(--k);background:linear-gradient(90deg,var(--k-soft),transparent 55%)}
 .cls.k-S{border-left-color:var(--s);background:linear-gradient(90deg,var(--s-soft),transparent 55%)}
