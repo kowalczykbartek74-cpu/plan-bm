@@ -23,10 +23,10 @@ jobs:
         run: node scripts/dziekanat.mjs > przebieg.txt 2>&1 || true
       - name: Wynik
         run: |
-          node -e 'const p=require("./plan.json");const d=p.dziekanat;console.log(JSON.stringify(d.posts.map(x=>({t:x.title,u:x.url,text:x.text})),null,1));console.log(JSON.stringify(d.zmiany,null,1))' > wynik.txt
-          node scripts/ics.mjs >> wynik.txt 2>&1
+          node -e 'const p=require("./plan.json");const d=p.dziekanat;console.log(JSON.stringify(d.posts.map(x=>({t:x.title,u:x.url,text:x.text})),null,1));console.log(JSON.stringify(d.zmiany,null,1))' > wynik.txt 2>&1 || true
+          node scripts/ics.mjs >> wynik.txt 2>&1 || true
           cp dziekanat.md mail.md 2>/dev/null || true
           git config user.name test && git config user.email test@example.com
           git checkout -b test-wynik
-          git add -f podglad.txt przebieg.txt wynik.txt lista.html wpis.html mail.md 2>/dev/null; git add -f podglad.txt przebieg.txt wynik.txt lista.html wpis.html
+          git add -f podglad.txt przebieg.txt wynik.txt lista.html wpis.html mail.md || git add -f podglad.txt przebieg.txt wynik.txt lista.html wpis.html || true
           git commit -qm wynik && git push -f origin test-wynik
