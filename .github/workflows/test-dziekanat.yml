@@ -1,0 +1,24 @@
+name: Test komunikatów dziekanatu (tymczasowy)
+on:
+  push:
+    branches: [test-dziekanat]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Podgląd HTML
+        run: |
+          curl -sSL -A "plan-bm test" https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/ -o lista.html
+          grep -o '<h2[^>]*entry-title[^>]*>.\{0,200\}' lista.html | head -5
+          grep -o '.\{0,120\}Starsze.\{0,40\}' lista.html | head -2
+          U=$(grep -o 'https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c111-c112-c113[^"]*' lista.html | head -1); echo "$U"
+          curl -sSL -A "plan-bm test" "$U" -o wpis.html; grep -o 'class="[^"]*entry-content[^"]*".\{0,400\}' wpis.html | head -3
+      - name: Komunikaty
+        run: node scripts/dziekanat.mjs
+      - name: Wynik
+        run: |
+          node -e 'const p=require("./plan.json");const d=p.dziekanat;console.log(JSON.stringify(d.posts.map(x=>({t:x.title,u:x.url,text:x.text.slice(0,300)})),null,1));console.log(JSON.stringify(d.zmiany,null,1))'
+          node scripts/ics.mjs

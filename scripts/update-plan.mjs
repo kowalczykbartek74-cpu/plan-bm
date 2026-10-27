@@ -106,7 +106,8 @@ async function main() {
     changedAt: changed ? now : old.changedAt,  // kiedy skrypt ostatnio wykrył zmianę
     checkedAt: now,                            // ostatnie sprawdzenie
     groups,
-    ...(old?.kalendarz ? { kalendarz: old.kalendarz } : {})   // kalendarz roku dokłada scripts/kalendarz.mjs
+    ...(old?.kalendarz ? { kalendarz: old.kalendarz } : {}),   // kalendarz roku dokłada scripts/kalendarz.mjs
+    ...(old?.dziekanat ? { dziekanat: old.dziekanat } : {})    // odwołania i odrabianie: scripts/dziekanat.mjs
   };
   fs.writeFileSync("plan.json", JSON.stringify(data, null, 1) + "\n");
 

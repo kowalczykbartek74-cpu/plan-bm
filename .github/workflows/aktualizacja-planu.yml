@@ -7,6 +7,8 @@ on:
     - cron: "0 5 * * *"
     - cron: "0 6 * * *"
     - cron: "0 7 * * *"
+    # W ciągu dnia co godzinę tylko komunikaty dziekanatu (odwołane zajęcia, odrabianie): 8:20–19:20 zimą.
+    - cron: "20 7-18 * * *"
   workflow_dispatch:        # ręczne uruchomienie: zakładka Actions → Run workflow
   push:
     branches: [main]
@@ -27,6 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       changed: ${{ steps.plan.outputs.changed }}
+      publish: ${{ steps.decide.outputs.publish }}
     steps:
       - uses: actions/checkout@v4
 
@@ -36,6 +39,7 @@ jobs:
 
       - name: Pobierz plan ze strony uczelni
         id: plan
+        if: github.event.schedule != '20 7-18 * * *'   # przebiegi co godzinę sprawdzają tylko dziekanat
         continue-on-error: true   # awaria strony uczelni nie blokuje publikacji
         timeout-minutes: 20
         run: node scripts/update-plan.mjs
@@ -43,6 +47,12 @@ jobs:
       - name: Dołącz kalendarz roku (kalendarz.json)
         id: kalendarz
         run: node scripts/kalendarz.mjs
+
+      - name: Komunikaty dziekanatu (odwołania, odrabianie)
+        id: dz
+        continue-on-error: true   # awaria strony dziekanatu nie blokuje publikacji planu
+        timeout-minutes: 15
+        run: node scripts/dziekanat.mjs
 
       - name: Pliki do kalendarza w telefonie (kalendarz/*.ics)
         continue-on-error: true   # błąd w plikach kalendarza nie blokuje publikacji planu
@@ -58,7 +68,9 @@ jobs:
           else
             if [ "${{ steps.plan.outputs.changed }}" = "true" ]; then
               git commit -m "Plan zajęć zmienił się na stronie uczelni"
-            elif [ "${{ steps.plan.outcome }}" != "success" ]; then
+            elif [ "${{ steps.dz.outputs.changed }}" = "true" ]; then
+              git commit -m "Komunikaty dziekanatu: odwołania i odrabianie"
+            elif [ "${{ steps.plan.outcome }}" = "failure" ]; then
               git commit -m "Kalendarz roku zaktualizowany"
             else
               git commit -m "Sprawdzenie planu: bez zmian"
@@ -83,7 +95,34 @@ jobs:
               assignees: [context.repo.owner]
             });
 
+      - name: Powiadom o nowych komunikatach dziekanatu (mail z GitHuba)
+        if: steps.dz.outputs.fresh == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('dziekanat.md', 'utf8');
+            const day = new Date().toLocaleDateString('pl-PL', { timeZone: 'Europe/Warsaw' });
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Dziekanat: nowe odwołania lub odrabianie (${day})`,
+              body,
+              assignees: [context.repo.owner]
+            });
+
+      - name: Czy publikować stronę
+        id: decide
+        run: |
+          # przebieg co godzinę publikuje tylko wtedy, gdy coś się zmieniło
+          if [ "${{ github.event.schedule }}" = "20 7-18 * * *" ] && [ "${{ steps.dz.outputs.changed }}" != "true" ]; then
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Przygotuj stronę
+        if: steps.decide.outputs.publish == 'true'
         run: |
           mkdir -p _site
           cp index.html skrzynka.html plan.json kalendarz.json CNAME _site/
@@ -91,6 +130,7 @@ jobs:
           touch _site/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
+        if: steps.decide.outputs.publish == 'true'
         with:
           path: _site
 
@@ -102,7 +142,7 @@ jobs:
 
   opublikuj:
     needs: sprawdz-plan
-    if: ${{ !cancelled() }}
+    if: ${{ !cancelled() && needs.sprawdz-plan.outputs.publish == 'true' }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
