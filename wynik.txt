@@ -1,0 +1,269 @@
+[
+ {
+  "t": "GRUPA C111, C112, C113",
+  "u": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c111-c112-c113-11/",
+  "text": "Dnia 26.10.2026 i 27.10.2026 zostają odwołane zajęcia z dr Aleksandrą Gąsior . Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+ },
+ {
+  "t": "GRUPA C111, C112, C113",
+  "u": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c112-27/",
+  "text": "Dnia 23.10.2026 zostają odwołane zajęcia z dr Barbarą Batóg. Termin odrobienia zajęć: 19.11.2026 godz. 10:00 sala 002"
+ },
+ {
+  "t": "GRUPA C112",
+  "u": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c112-26/",
+  "text": "Dnia 23.10.2026 zostają odwołane zajęcia z dr Barbarą Batóg. Termin odrobienia zajęć: 19.11.2026 godz. 12:00 sala 002"
+ },
+ {
+  "t": "GRUPA C111, C112, C113",
+  "u": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c111-c112-c113-10/",
+  "text": "Zmiana sali na przedmiot Ochrona własności intelektualnej – nowa sala 044 Aula Cuk. 8"
+ },
+ {
+  "t": "GRUPA C113",
+  "u": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c113-20/",
+  "text": "The classes are cancelled because I’m at the conference dr hab. prof. US Dariusz Milewski"
+ },
+ {
+  "t": "GRUPA C112",
+  "u": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c112-25/",
+  "text": "The classes are cancelled because I’m at the conference dr hab. prof. US Dariusz Milewski"
+ },
+ {
+  "t": "GRUPA C111, C112, C113",
+  "u": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c111-c112-c113-9/",
+  "text": "The lecture will be cancelled because I’m at the conference. dr hab. prof. US Dariusz Milewski"
+ }
+]
+{
+ "C111": [
+  {
+   "type": "cancel",
+   "date": "2026-10-21",
+   "start": "10:00",
+   "pl": "Podstawy zarządzania",
+   "guess": true,
+   "post": 6,
+   "posts": [
+    6
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-23",
+   "start": "12:00",
+   "pl": "Analiza matematyczna",
+   "post": 1,
+   "posts": [
+    1
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-26",
+   "start": "10:00",
+   "pl": "Ekonomia biznesu",
+   "post": 0,
+   "posts": [
+    0
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-27",
+   "start": "10:00",
+   "pl": "Ekonomia biznesu",
+   "post": 0,
+   "posts": [
+    0
+   ]
+  },
+  {
+   "type": "extra",
+   "kind": "makeup",
+   "date": "2026-11-19",
+   "start": "10:00",
+   "end": "11:30",
+   "pl": "Analiza matematyczna",
+   "en": "Mathematical Analysis",
+   "k": "W",
+   "p": "dr Barbara Batóg",
+   "r": "s. 002",
+   "post": 1,
+   "dup": true
+  }
+ ],
+ "C112": [
+  {
+   "type": "cancel",
+   "date": "2026-10-21",
+   "start": "10:00",
+   "pl": "Podstawy zarządzania",
+   "guess": true,
+   "post": 5,
+   "posts": [
+    5,
+    6
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-21",
+   "start": "12:00",
+   "pl": "Podstawy zarządzania",
+   "guess": true,
+   "post": 5,
+   "posts": [
+    5
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-23",
+   "start": "10:00",
+   "pl": "Analiza matematyczna",
+   "post": 1,
+   "posts": [
+    1,
+    2
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-23",
+   "start": "12:00",
+   "pl": "Analiza matematyczna",
+   "post": 1,
+   "posts": [
+    1,
+    2
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-26",
+   "start": "12:00",
+   "pl": "Ekonomia biznesu",
+   "post": 0,
+   "posts": [
+    0
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-27",
+   "start": "10:00",
+   "pl": "Ekonomia biznesu",
+   "post": 0,
+   "posts": [
+    0
+   ]
+  },
+  {
+   "type": "extra",
+   "kind": "makeup",
+   "date": "2026-11-19",
+   "start": "10:00",
+   "end": "11:30",
+   "pl": "Analiza matematyczna",
+   "en": "Mathematical Analysis",
+   "k": "X",
+   "p": "dr Barbara Batóg",
+   "r": "s. 002",
+   "post": 1,
+   "dup": true
+  },
+  {
+   "type": "extra",
+   "kind": "makeup",
+   "date": "2026-11-19",
+   "start": "12:00",
+   "end": "13:30",
+   "pl": "Analiza matematyczna",
+   "en": "Mathematical Analysis",
+   "k": "X",
+   "p": "dr Barbara Batóg",
+   "r": "s. 002",
+   "post": 2
+  }
+ ],
+ "C113": [
+  {
+   "type": "cancel",
+   "date": "2026-10-21",
+   "start": "10:00",
+   "pl": "Podstawy zarządzania",
+   "guess": true,
+   "post": 4,
+   "posts": [
+    4,
+    6
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-21",
+   "start": "13:45",
+   "pl": "Podstawy zarządzania",
+   "guess": true,
+   "post": 4,
+   "posts": [
+    4
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-23",
+   "start": "12:00",
+   "pl": "Analiza matematyczna",
+   "post": 1,
+   "posts": [
+    1
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-26",
+   "start": "15:30",
+   "pl": "Ekonomia biznesu",
+   "post": 0,
+   "posts": [
+    0
+   ]
+  },
+  {
+   "type": "cancel",
+   "date": "2026-10-27",
+   "start": "10:00",
+   "pl": "Ekonomia biznesu",
+   "post": 0,
+   "posts": [
+    0
+   ]
+  },
+  {
+   "type": "extra",
+   "kind": "makeup",
+   "date": "2026-11-19",
+   "start": "10:00",
+   "end": "11:30",
+   "pl": "Analiza matematyczna",
+   "en": "Mathematical Analysis",
+   "k": "W",
+   "p": "dr Barbara Batóg",
+   "r": "s. 002",
+   "post": 1,
+   "dup": true
+  }
+ ]
+}
+Kalendarze:
+  kalendarz/C111-A.ics (150 zajęć)
+  kalendarz/C111-B.ics (150 zajęć)
+  kalendarz/C111.ics (165 zajęć)
+  kalendarz/C112-A.ics (150 zajęć)
+  kalendarz/C112-B.ics (150 zajęć)
+  kalendarz/C112.ics (165 zajęć)
+  kalendarz/C113-A.ics (148 zajęć)
+  kalendarz/C113-B.ics (148 zajęć)
+  kalendarz/C113.ics (163 zajęć)
