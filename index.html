@@ -504,6 +504,7 @@ function dzCancelInfo(e){
   } else if (post && /ustalon|uzgodnion/i.test(post.text || "")) {
     text = L("Termin odrobienia zostanie ustalony.","Make-up date to be agreed.");
   } else text = "";
+  if (c.guess) text = (text ? text + " " : "") + L("Komunikat nie podaje daty, więc dotyczy najbliższych zajęć tego prowadzącego.", "The notice gives no date, so it applies to this lecturer's next class.");
   return { cls:"off", badge: (c.moved ? L("Przeniesione","Moved") : L("Odwołane","Cancelled")) + subNote, text: esc(text) + dzLink(c.post) };
 }
 function dzExtraInfo(e){

@@ -94,6 +94,15 @@ export function parsePost(html) {
   return part ? toText(part).replace(/\n+/g, " ").replace(/\s+/g, " ").trim() : "";
 }
 
+// Data publikacji wpisu: <span class="published">paź 23, 2026</span>
+const SHORT_MONTHS = ["sty", "lut", "mar", "kwi", "maj", "cze", "lip", "sie", "wrz", "paź", "lis", "gru"];
+export function parsePublished(html) {
+  const m = /class="published"[^>]*>\s*([a-ząćęłńóśźż]{3})[a-ząćęłńóśźż]*\.?\s+(\d{1,2}),?\s+(\d{4})/i.exec(html);
+  if (m) { const mo = SHORT_MONTHS.indexOf(decode(m[1]).toLowerCase()) + 1; if (mo) return `${m[3]}-${String(mo).padStart(2, "0")}-${String(+m[2]).padStart(2, "0")}`; }
+  const iso = /"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})|article:published_time"\s+content="(\d{4}-\d{2}-\d{2})/.exec(html);
+  return iso ? iso[1] || iso[2] : null;
+}
+
 // ---------- czytanie komunikatu ----------
 const MONTHS = ["stycz", "lut", "mar", "kwie", "maj", "czerw", "lip", "sierp", "wrze", "październik", "listopad", "grud"];
 const pad = n => String(n).padStart(2, "0");
@@ -251,6 +260,21 @@ export function resolve(plan, posts) {
       const cancelled = [];
       const matched = new Set();
 
+      // Komunikat bez daty ("The classes are cancelled because I'm at the conference"):
+      // odwołane są najbliższe zajęcia tego prowadzącego od dnia publikacji wpisu.
+      if (!findDates(text, year).length && post.pub && lecturers.length && /odwoł|cancel/i.test(text)) {
+        const onlyLecture = /\b(lecture|wykład)/i.test(text) && !/\bclasses\b|ćwicz|zajęcia/i.test(text);
+        const start = new Date(post.pub + "T12:00:00Z");
+        for (let i = 0; i <= 14; i++) {
+          const date = new Date(start.getTime() + i * 864e5).toISOString().slice(0, 10);
+          const hit = classesOn(plan, cal, g, date).filter(e => lecturers.includes(e.p) && (!onlyLecture || e.k === "W") && (!titleSub || !e.g || e.g === titleSub));
+          if (!hit.length) continue;
+          for (const e of hit) add(g, { type: "cancel", date, start: startOf(e), pl: e.pl, ...(e.g ? { g: e.g } : {}), guess: true, post: pi });
+          break;
+        }
+        continue;
+      }
+
       for (const ev of events.filter(e => e.type === "cancel")) {
         let cands = classesOn(plan, cal, g, ev.date).filter(e => e.k !== "X");
         if (titleSub) cands = cands.filter(e => !e.g || e.g === titleSub);
@@ -328,10 +352,12 @@ async function fetchPosts(known, old) {
     try {
       const html = await get(p.url);
       p.text = html ? parsePost(html) : "";
+      p.pub = html ? parsePublished(html) : null;
     } catch (e) {
       console.log(`Nie udało się pobrać wpisu ${p.url}: ${e.message}`);
       p.text = prev?.text || "";
     }
+    if (!p.pub && prev?.pub) p.pub = prev.pub;
     if (!p.text && prev?.text) p.text = prev.text;
   }
   return relevant;
@@ -365,7 +391,7 @@ async function main() {
     try { posts = await fetchPosts(known, old); }
     catch (e) { fetchError = e; posts = old?.posts || []; console.log(`Strona dziekanatu nie odpowiada (${e.message}). Liczę zmiany z zapisanych wpisów.`); }
   }
-  posts = posts.map(({ url, title, ym, text }) => ({ url, title, ym, text: text || "" }));
+  posts = posts.map(({ url, title, ym, pub, text }) => ({ url, title, ym, ...(pub ? { pub } : {}), text: text || "" }));
   const zmiany = resolve(plan, posts);
 
   const next = { source: SOURCE, posts, zmiany };
