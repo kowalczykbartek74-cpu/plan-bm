@@ -320,24 +320,28 @@ UID:2026-10-21-C112-1-x-1b581ny@plan.skrotbm.pl
 DTSTAMP:20261020T122832Z
 DTSTART;TZID=Europe/Warsaw:20261021T100000
 DTEND;TZID=Europe/Warsaw:20261021T113000
-SUMMARY:Podstawy zarządzania · W
+SUMMARY:ODWOŁANE: Podstawy zarządzania · W
 LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
-DESCRIPTION:Wykład\nFundamentals of Management\nProwadzi: dr hab. prof. US
-  Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+DESCRIPTION:Komunikat dziekanatu: The classes are cancelled because I’m a
+ t the conference dr hab. prof. US Dariusz Milewski\nhttps://dos.usz.edu.pl
+ /cukrowa/2026/10/grupa-c112-25/\nWykład\nFundamentals of Management\nProw
+ adzi: dr hab. prof. US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
 CATEGORIES:wykład
-TRANSP:OPAQUE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-C112-2-x-1s50dt9@plan.skrotbm.pl
 DTSTAMP:20261020T122832Z
 DTSTART;TZID=Europe/Warsaw:20261021T120000
 DTEND;TZID=Europe/Warsaw:20261021T133000
-SUMMARY:Podstawy zarządzania · ĆW
+SUMMARY:ODWOŁANE: Podstawy zarządzania · ĆW
 LOCATION:s. 507\, ul. Cukrowa 8\, Szczecin
-DESCRIPTION:Ćwiczenia\nFundamentals of Management\nProwadzi: dr hab. prof.
-  US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
+DESCRIPTION:Komunikat dziekanatu: The classes are cancelled because I’m a
+ t the conference dr hab. prof. US Dariusz Milewski\nhttps://dos.usz.edu.pl
+ /cukrowa/2026/10/grupa-c112-25/\nĆwiczenia\nFundamentals of Management\nP
+ rowadzi: dr hab. prof. US Dariusz Milewski\nPlan: https://plan.skrotbm.pl
 CATEGORIES:ćwiczenia
-TRANSP:OPAQUE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21-C112-3-x-fle48r@plan.skrotbm.pl
@@ -380,24 +384,30 @@ UID:2026-10-23-C112-1-x-1wmb67f@plan.skrotbm.pl
 DTSTAMP:20261020T122832Z
 DTSTART;TZID=Europe/Warsaw:20261023T100000
 DTEND;TZID=Europe/Warsaw:20261023T113000
-SUMMARY:Analiza matematyczna · ĆW
+SUMMARY:ODWOŁANE: Analiza matematyczna · ĆW
 LOCATION:s. 112\, ul. Cukrowa 8\, Szczecin
-DESCRIPTION:Ćwiczenia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\
- nPlan: https://plan.skrotbm.pl
+DESCRIPTION:Komunikat dziekanatu: Dnia 23.10.2026 zostają odwołane zajęc
+ ia z dr Barbarą Batóg. Termin odrobienia zajęć: 19.11.2026 godz. 10:00
+  sala 002\nhttps://dos.usz.edu.pl/cukrowa/2026/10/grupa-c112-27/\nĆwiczen
+ ia\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPlan: https://plan
+ .skrotbm.pl
 CATEGORIES:ćwiczenia
-TRANSP:OPAQUE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-C112-2-x-lg92w8@plan.skrotbm.pl
 DTSTAMP:20261020T122832Z
 DTSTART;TZID=Europe/Warsaw:20261023T120000
 DTEND;TZID=Europe/Warsaw:20261023T133000
-SUMMARY:Analiza matematyczna · W
+SUMMARY:ODWOŁANE: Analiza matematyczna · W
 LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
-DESCRIPTION:Wykład\nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPl
- an: https://plan.skrotbm.pl
+DESCRIPTION:Komunikat dziekanatu: Dnia 23.10.2026 zostają odwołane zajęc
+ ia z dr Barbarą Batóg. Termin odrobienia zajęć: 19.11.2026 godz. 10:00
+  sala 002\nhttps://dos.usz.edu.pl/cukrowa/2026/10/grupa-c112-27/\nWykład\
+ nMathematical Analysis\nProwadzi: dr Barbara Batóg\nPlan: https://plan.sk
+ rotbm.pl
 CATEGORIES:wykład
-TRANSP:OPAQUE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23-C112-3-x-9kfcig@plan.skrotbm.pl
@@ -428,12 +438,15 @@ UID:2026-10-26-C112-2-x-x9h4js@plan.skrotbm.pl
 DTSTAMP:20261020T122832Z
 DTSTART;TZID=Europe/Warsaw:20261026T120000
 DTEND;TZID=Europe/Warsaw:20261026T133000
-SUMMARY:Ekonomia biznesu · ĆW
+SUMMARY:ODWOŁANE: Ekonomia biznesu · ĆW
 LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
-DESCRIPTION:Ćwiczenia\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior
- \nPlan: https://plan.skrotbm.pl
+DESCRIPTION:Komunikat dziekanatu: Dnia 26.10.2026 i 27.10.2026 zostają odw
+ ołane zajęcia z dr Aleksandrą Gąsior . Termin odrobienia zostanie usta
+ lony na kolejnych zajęciach.\nhttps://dos.usz.edu.pl/cukrowa/2026/10/grup
+ a-c111-c112-c113-11/\nĆwiczenia\nBusiness Economics\nProwadzi: dr Aleksan
+ dra Gąsior\nPlan: https://plan.skrotbm.pl
 CATEGORIES:ćwiczenia
-TRANSP:OPAQUE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26-C112-3-x-1eh9mcq@plan.skrotbm.pl
@@ -465,12 +478,15 @@ UID:2026-10-27-C112-1-x-szmucr@plan.skrotbm.pl
 DTSTAMP:20261020T122832Z
 DTSTART;TZID=Europe/Warsaw:20261027T100000
 DTEND;TZID=Europe/Warsaw:20261027T113000
-SUMMARY:Ekonomia biznesu · W
+SUMMARY:ODWOŁANE: Ekonomia biznesu · W
 LOCATION:s. 044 (aula)\, ul. Cukrowa 8\, Szczecin
-DESCRIPTION:Wykład\nBusiness Economics\nProwadzi: dr Aleksandra Gąsior\nP
- lan: https://plan.skrotbm.pl
+DESCRIPTION:Komunikat dziekanatu: Dnia 26.10.2026 i 27.10.2026 zostają odw
+ ołane zajęcia z dr Aleksandrą Gąsior . Termin odrobienia zostanie usta
+ lony na kolejnych zajęciach.\nhttps://dos.usz.edu.pl/cukrowa/2026/10/grup
+ a-c111-c112-c113-11/\nWykład\nBusiness Economics\nProwadzi: dr Aleksandra
+  Gąsior\nPlan: https://plan.skrotbm.pl
 CATEGORIES:wykład
-TRANSP:OPAQUE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-C112-1-x-19zau0b@plan.skrotbm.pl
@@ -829,6 +845,20 @@ DTEND;TZID=Europe/Warsaw:20261119T113000
 SUMMARY:Odrabianie zajęć
 LOCATION:sala 002a dr Barbara Batóg\, ul. Cukrowa 8\, Szczecin
 DESCRIPTION:Jednorazowo: 19.11.2026\nPlan: https://plan.skrotbm.pl
+CATEGORIES:zajęcia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-C112-dz1200-x-lg92w7@plan.skrotbm.pl
+DTSTAMP:20261020T122832Z
+DTSTART;TZID=Europe/Warsaw:20261119T120000
+DTEND;TZID=Europe/Warsaw:20261119T133000
+SUMMARY:Odrabianie: Analiza matematyczna
+LOCATION:s. 002\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Komunikat dziekanatu: Dnia 23.10.2026 zostają odwołane zajęc
+ ia z dr Barbarą Batóg. Termin odrobienia zajęć: 19.11.2026 godz. 12:00
+  sala 002\nhttps://dos.usz.edu.pl/cukrowa/2026/10/grupa-c112-26/\nMathemat
+ ical Analysis\nProwadzi: dr Barbara Batóg\nPlan: https://plan.skrotbm.pl
 CATEGORIES:zajęcia
 TRANSP:OPAQUE
 END:VEVENT
