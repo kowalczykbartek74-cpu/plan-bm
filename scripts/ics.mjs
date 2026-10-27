@@ -72,29 +72,40 @@ function build(group, sub) {
     ...VTIMEZONE,
   ];
   let count = 0;
+  // Komunikaty dziekanatu (scripts/dziekanat.mjs): odwołane zajęcia i odrabianie
+  const dz = (plan.dziekanat?.zmiany?.[group] || []).filter((x) => !sub || !x.g || x.g === sub);
+  const posts = plan.dziekanat?.posts || [];
   for (let d = parse(first); key(d) <= last; d = addDays(d, 1)) {
     const k = key(d), info = dayInfo(k);
-    if (!info) continue;
-    const day = info.asDay ?? (d.getUTCDay() + 6) % 7;
-    const items = (grp[info.p] || [])
+    const today = dz.filter((x) => x.date === k);
+    if (!info && !today.length) continue;
+    const day = info ? info.asDay ?? (d.getUTCDay() + 6) % 7 : -1;
+    const items = (info ? grp[info.p] || [] : [])
       .filter((e) => e.d === day)
       .filter((e) => !sub || !e.g || e.g === sub)
-      .filter((e) => !e.dates || e.dates.includes(k));
+      .filter((e) => !e.dates || e.dates.includes(k))
+      .concat(today.filter((x) => x.type === "extra" && !x.dup).map((x) => ({
+        pl: x.pl, en: x.en, k: x.k || "X", p: x.p, r: x.r, g: x.g, time: [x.start, x.end], s: 9, extra: x,
+      })));
     for (const e of items) {
       const [t0, t1] = e.time || SLOTS[e.s];
       const kind = KIND[e.k];
-      const title = `${e.pl || e.en}${SHORT[e.k] ? " · " + SHORT[e.k] : ""}${e.g && !sub ? " (laby " + e.g + ")" : ""}`;
+      const off = !e.extra && today.find((x) => x.type === "cancel" && x.start === t0 && x.pl === e.pl && (!x.g || !e.g || x.g === e.g));
+      const post = off ? posts[off.post] : e.extra ? posts[e.extra.post] : null;
+      const label = off ? (off.moved ? "PRZENIESIONE: " : "ODWOŁANE: ") : e.extra ? (e.extra.kind === "change" ? "Zmiana: " : "Odrabianie: ") : "";
+      const title = `${label}${e.pl || e.en}${SHORT[e.k] ? " · " + SHORT[e.k] : ""}${e.g && !sub ? " (laby " + e.g + ")" : ""}`;
       const desc = [
+        post ? `Komunikat dziekanatu: ${post.text || post.title}\n${post.url}` : null,
         kind ? kind[0].toUpperCase() + kind.slice(1) + (e.g ? `, podgrupa ${e.g}` : "") : null,
         e.en && e.en !== e.pl ? e.en : null,
         e.p ? `Prowadzi: ${e.p}` : null,
-        info.n || null,
+        info?.n || null,
         e.n || null,
         `Plan: ${SITE}`,
       ].filter(Boolean).join("\n");
       L.push(
         "BEGIN:VEVENT",
-        `UID:${k}-${group}-${e.s}-${e.g || "x"}-${hash((e.pl || "") + e.k)}@plan.skrotbm.pl`,
+        `UID:${k}-${group}-${e.extra ? "dz" + t0.replace(":", "") : e.s}-${e.g || "x"}-${hash((e.pl || "") + e.k)}@plan.skrotbm.pl`,
         `DTSTAMP:${stamp}`,
         `DTSTART;TZID=Europe/Warsaw:${ymd(k)}T${hm(t0)}`,
         `DTEND;TZID=Europe/Warsaw:${ymd(k)}T${hm(t1)}`,
@@ -102,7 +113,7 @@ function build(group, sub) {
         e.r ? `LOCATION:${esc(/ul\.|Szczecin/.test(e.r) ? e.r : e.r + ", ul. Cukrowa 8, Szczecin")}` : null,
         `DESCRIPTION:${esc(desc)}`,
         `CATEGORIES:${esc(kind || "zajęcia")}`,
-        "TRANSP:OPAQUE",
+        off ? "TRANSP:TRANSPARENT" : "TRANSP:OPAQUE",
         "END:VEVENT",
       );
       count++;

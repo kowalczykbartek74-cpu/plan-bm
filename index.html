@@ -116,6 +116,21 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 .tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:2px}
 .tg{font:500 11.5px/1 var(--body);padding:4px 6px;border-radius:5px;background:var(--chip);color:var(--muted)}
 .note{font-size:12.5px;background:var(--note-soft);color:var(--note);border-radius:6px;padding:5px 8px;margin-top:3px}
+/* Komunikaty dziekanatu: odwołane zajęcia przekreślone, odrabianie i zmiany sal oznaczone */
+.badge{font:700 11.5px/1 var(--body);padding:4px 7px;border-radius:5px;letter-spacing:.02em;text-transform:uppercase}
+.badge.off{background:var(--s);color:#fff}
+.badge.add{background:var(--w);color:#fff}
+.days .cls.is-off{background:repeating-linear-gradient(135deg,var(--s-soft) 0 8px,transparent 8px 16px);border-left-color:var(--s)}
+.cls.is-off .name,.cls.is-off .time{text-decoration:line-through;text-decoration-color:var(--s);text-decoration-thickness:2px}
+.cls.is-off .name,.cls.is-off .en,.cls.is-off .meta,.cls.is-off .room,.cls.is-off .time{color:var(--muted)}
+.cls.is-off .time span{color:var(--muted)}
+.cls.is-off .chip{opacity:.55}
+.days .cls.is-add{border-left-color:var(--w);box-shadow:inset 0 0 0 1px var(--w-soft)}
+.dz{font-size:12.5px;line-height:1.4;border-radius:6px;padding:5px 8px;margin-top:3px;background:var(--s-soft);color:var(--s)}
+.dz.add{background:var(--w-soft);color:var(--w)}
+.dz a,.dznote a{color:inherit;font-weight:600}
+.dznote{font-size:12.5px;line-height:1.4;background:var(--s-soft);color:var(--s);padding:7px 14px;border-top:1px solid var(--line)}
+.dznote b{font-weight:700}
 .sem{margin:4px 0 0;padding:0;list-style:none;font-size:13px;display:flex;flex-direction:column;gap:2px}
 .sem li{display:flex;justify-content:space-between;gap:8px;color:var(--muted)}
 .sem li b{font-weight:500;color:var(--ink)}
@@ -196,6 +211,7 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
           <li data-i18n="h1"><b>Grupa:</b> kliknij swoją grupę: C111, C112 albo C113.</li>
           <li data-i18n="h2"><b>Laby:</b> wybierz podgrupę A lub B. Od niej zależy termin laboratorium z Narzędzi IT. „Obie grupy” pokazuje oba terminy.</li>
           <li data-i18n="h3"><b>Kalendarz:</b> plan z prawdziwymi datami. Strzałkami ‹ › przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
+          <li data-i18n="h10"><b>Odwołane zajęcia:</b> plan czyta komunikaty dziekanatu. Odwołane zajęcia są przekreślone z napisem „Odwołane”, a odrabianie i zmiany sal pojawiają się jako dodatkowe zajęcia w odpowiednim dniu.</li>
           <li data-i18n="h4"><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
           <li data-i18n="h5"><b>Motyw:</b> „Jasny” albo „Ciemny” ustawia kolory na stałe, a „Auto” dopasowuje je do ustawień telefonu.</li>
           <li data-i18n="h6"><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
@@ -259,6 +275,7 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
 
   <div class="foot">
     <div data-i18n="foot1">Sale bez adresu są w budynku przy ul. Cukrowej 8. Dane z <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">planu zajęć WEFiZ</a>, sprawdzane automatycznie codziennie rano. Podział tygodni: harmonogram wydziału na semestr zimowy 2026/27.</div>
+    <div data-i18n="foot2">Odwołane zajęcia i odrabianie: <a href="https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/" target="_blank" rel="noopener">komunikaty dziekanatu (Cukrowa)</a>, sprawdzane automatycznie co godzinę w ciągu dnia.</div>
     <div id="dataMeta"></div>
     <div data-i18n="foot3">Plan może się zmieniać. W razie wątpliwości sprawdź oficjalną stronę.</div>
     <div id="refreshed"></div>
@@ -275,6 +292,7 @@ const EN = {
   h1:"<b>Group:</b> tap your group: C111, C112 or C113.",
   h2:"<b>Labs:</b> choose subgroup A or B. It decides when your IT Tools in Management lab takes place. “Both groups” shows both slots.",
   h3:"<b>Calendar:</b> the timetable with real dates. Use the ‹ › arrows to move between weeks; “This week” takes you back. Days off and breaks are noted on the day cards.",
+  h10:"<b>Cancelled classes:</b> the timetable reads the dean's office notices. Cancelled classes are crossed out and marked “Cancelled”; make-up classes and room changes appear as extra classes on the right day.",
   h4:"<b>Odd / Even:</b> the fixed weekly layout without dates, e.g. for a screenshot.",
   h5:"<b>Theme:</b> “Light” or “Dark” fixes the colours; “Auto” follows your phone or computer settings.",
   h6:"<b>Labels:</b> LEC is a lecture, CLASS a tutorial class and LAB a laboratory. Today's card has a frame and a “today” tag.",
@@ -292,6 +310,7 @@ const EN = {
   lg1:'<i class="chip W">LEC</i> lecture', lg2:'<i class="chip CW">CLASS</i> tutorial class', lg3:'<i class="chip LAB">LAB</i> laboratory',
   lg4:'<i class="chip K">CONV</i> conversation class', lg5:'<i class="chip S">SEM</i> seminar',
   foot1:'Rooms without an address are in the building at ul. Cukrowa 8. Data from the <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">WEFiZ timetable</a>, checked automatically every morning. Odd and even weeks follow the faculty schedule for the winter semester 2026/27.',
+  foot2:'Cancelled and make-up classes: <a href="https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/" target="_blank" rel="noopener">dean\'s office notices (Cukrowa)</a>, checked automatically every hour during the day.',
   foot3:"The timetable may change. If in doubt, check the official site."
 };
 /* Komunikaty generowane w kodzie (dni wolne, notatki) */
@@ -443,7 +462,9 @@ function cls(e, showDates){
   if (e.g) tags.push(L(`Grupa ${e.g}`, `Group ${e.g}`));
   if (e.tag) tags.push(e.tag);
   const note = e.n && (showDates || !e.dates) ? trNote(e.n) : "";
-  return `<div class="cls k-${e.k}">
+  const dz = e.off ? dzCancelInfo(e) : e.add ? dzExtraInfo(e) : null;
+  const badge = dz ? `<span class="badge ${dz.cls}">${esc(dz.badge)}</span>` : "";
+  return `<div class="cls k-${e.k}${e.off ? " is-off" : ""}${e.add ? " is-add" : ""}">
     <div class="time">${t[0]}<span>${t[1]}</span>${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}</div>
     <div class="info">
       <div class="name">${esc(pl)}</div>
@@ -451,9 +472,60 @@ function cls(e, showDates){
       ${e.p ? `<div class="meta">${esc(e.p)}</div>` : ""}
       ${e.r ? `<div class="room">${esc(trRoom(e.r))}</div>` : ""}
       ${e.x ? `<div class="meta">${esc(e.x)}</div>` : ""}
-      ${tags.length ? `<div class="tags">${tags.map(x=>`<span class="tg">${esc(x)}</span>`).join("")}</div>` : ""}
+      ${tags.length || badge ? `<div class="tags">${badge}${tags.map(x=>`<span class="tg">${esc(x)}</span>`).join("")}</div>` : ""}
       ${note ? `<div class="note">${esc(note)}</div>` : ""}
+      ${dz && dz.text ? `<div class="dz ${dz.cls}">${dz.text}</div>` : ""}
     </div></div>`;
+}
+
+/* ---------- Komunikaty dziekanatu (plan.json → "dziekanat", robi je scripts/dziekanat.mjs) ---------- */
+const DZ_SRC = "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/";
+const dzList = () => (DATA.dziekanat && DATA.dziekanat.zmiany && DATA.dziekanat.zmiany[state.group]) || [];
+const dzPost = i => (DATA.dziekanat && DATA.dziekanat.posts && DATA.dziekanat.posts[i]) || null;
+const dmy = k => { const [y,m,d] = k.split("-"); return isEN() ? `${+d} ${MON3[+m-1]}` : `${+d}.${m}`; };
+const shorten = (s, n) => s.length > n ? s.slice(0, n-1).replace(/\s+\S*$/, "") + "…" : s;
+function dzLink(i){
+  const p = dzPost(i);
+  return p ? ` <a href="${esc(p.url)}" target="_blank" rel="noopener">${L("Komunikat dziekanatu","Dean's office notice")} ↗</a>` : "";
+}
+const forSub = x => !x.g || !state.sub || x.g === state.sub;
+function dzCancelInfo(e){
+  const c = e.off, post = dzPost(c.post);
+  const subNote = c.g && !e.g ? L(` (grupa ${c.g})`, ` (group ${c.g})`) : "";
+  const from = c.posts || [c.post];
+  const makeups = dzList().filter(x => x.type==="extra" && from.includes(x.post) && (x.pl===e.pl || x.k==="X" && x.pl==="Odrabianie zajęć") && forSub(x))
+    .filter((x,i,a) => a.findIndex(y => y.date===x.date && y.start===x.start) === i);
+  let text;
+  if (c.moved) {
+    const to = makeups.find(x => x.date===c.date);
+    text = to ? L(`Przeniesione na ${to.start}${to.r ? ", " + to.r : ""}.`, `Moved to ${to.start}${to.r ? ", " + trRoom(to.r) : ""}.`) : L("Przeniesione.","Moved.");
+  } else if (makeups.length) {
+    text = L("Odrabianie: ","Make-up: ") + makeups.map(x => `${dmy(x.date)}, ${x.start}${x.r ? ", " + trRoom(x.r) : ""}`).join("; ") + ".";
+  } else if (post && /ustalon|uzgodnion/i.test(post.text || "")) {
+    text = L("Termin odrobienia zostanie ustalony.","Make-up date to be agreed.");
+  } else text = "";
+  if (c.guess) text = (text ? text + " " : "") + L("Komunikat nie podaje daty, więc dotyczy najbliższych zajęć tego prowadzącego.", "The notice gives no date, so it applies to this lecturer's next class.");
+  return { cls:"off", badge: (c.moved ? L("Przeniesione","Moved") : L("Odwołane","Cancelled")) + subNote, text: esc(text) + dzLink(c.post) };
+}
+function dzExtraInfo(e){
+  const x = e.add;
+  if (x.kind === "change") return { cls:"add", badge: L("Zmiana","Changed"), text: esc(L("Nowa godzina lub sala w tym dniu.","New time or room for this day.")) + dzLink(x.post) };
+  const from = [...new Set(dzList().filter(c => c.type==="cancel" && (c.posts || [c.post]).includes(x.post) && c.pl===x.pl && c.date!==x.date).map(c => c.date))].sort();
+  const text = from.length ? L(`Za zajęcia z ${from.map(dmy).join(", ")}.`, `Replaces the class on ${from.map(dmy).join(", ")}.`) : "";
+  return { cls:"add", badge: L("Odrabianie","Make-up"), text: esc(text) + dzLink(x.post) };
+}
+// Zajęcia jednego dnia z naniesionymi komunikatami: odwołane oznaczone, odrabianie dopisane.
+function withDz(items, k){
+  const dz = dzList().filter(x => x.date === k);
+  if (!dz.length) return { items, notes: [] };
+  const base = items.map(e => {
+    const c = dz.find(x => x.type==="cancel" && x.start===startOf(e) && x.pl===e.pl && (!x.g || (e.g ? e.g===x.g : (!state.sub || state.sub===x.g))));
+    return c ? { ...e, off: c } : e;
+  });
+  const extras = dz.filter(x => x.type==="extra" && !x.dup && forSub(x)).map(x => ({
+    pl: x.pl, en: x.en, k: x.k || "X", p: x.p, r: x.r, g: x.g, time: [x.start, x.end], add: x
+  }));
+  return { items: [...base, ...extras].sort((a,b) => startMin(a) - startMin(b)), notes: dz.filter(x => x.type==="note") };
 }
 
 function dayCard(title, dateLbl, items, opts={}){
@@ -463,7 +535,8 @@ function dayCard(title, dateLbl, items, opts={}){
   return `<section class="day${opts.today ? " is-today":""}">
     <h2><span>${title}${opts.today ? `<span class="now">${L("dziś","today")}</span>`:""}</span><span class="dt">${esc(dateLbl || span || "")}</span></h2>
     ${opts.note ? `<div class="daynote">${esc(tr(opts.note))}</div>` : ""}
-    <div class="list">${body}</div></section>`;
+    <div class="list">${body}</div>
+    ${(opts.dz || []).map(x => { const p = dzPost(x.post); return p ? `<div class="dznote"><b>${L("Komunikat dziekanatu","Dean's office notice")}:</b> ${esc(shorten(p.text || p.title, 220))}${dzLink(x.post).replace(/>[^<]*↗</, `>${L("Więcej","More")} ↗<`)}</div>` : ""; }).join("")}</section>`;
 }
 
 function renderNav(){
@@ -510,9 +583,9 @@ function render(){
   const m = parse(state.week), today = key(new Date());
   el.innerHTML = (isEN() ? DAYN_EN : DAYN_PL).map((dn,i) => {
     const dt = addDays(m,i), k = key(dt), info = dayInfo(k);
-    if (info.off) return dayCard(dn, fmt(dt), [], {empty:info.off, today:k===today});
-    const items = entriesFor(info.p, info.asDay ?? i, k);
-    return dayCard(dn, fmt(dt), items, {today:k===today, note:info.n});
+    const { items, notes } = withDz(info.off ? [] : entriesFor(info.p, info.asDay ?? i, k), k);
+    if (info.off && !items.length) return dayCard(dn, fmt(dt), [], {empty:info.off, today:k===today, dz:notes});
+    return dayCard(dn, fmt(dt), items, {today:k===today, note:info.off || info.n, dz:notes});
   }).join("");
 }
 
