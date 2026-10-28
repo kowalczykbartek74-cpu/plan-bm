@@ -115,6 +115,8 @@ language sql stable security definer set search_path = '' as $$
 $$;
 
 -- ---------- Panel starosty (chroniony hasłem) ----------
+-- UWAGA: od 28.10.2026 admin_ok ma limit prób hasła (repozytorium skrot-bm, supabase/skrot-v11-zabezpieczenia.sql).
+-- Po uruchomieniu tego pliku uruchom ponownie tamten, bo ta wersja admin_ok jest bez limitu.
 create or replace function public.admin_ok(p_haslo text) returns boolean
 language sql stable security definer set search_path = '' as $$
   select exists (select 1 from public.admin_haslo
