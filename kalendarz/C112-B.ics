@@ -553,12 +553,15 @@ UID:2026-11-03-C112-1-x-bzzsa0@plan.skrotbm.pl
 DTSTAMP:20261020T122832Z
 DTSTART;TZID=Europe/Warsaw:20261103T100000
 DTEND;TZID=Europe/Warsaw:20261103T113000
-SUMMARY:Logistyka · ĆW
+SUMMARY:ODWOŁANE: Logistyka · ĆW
 LOCATION:s. 307\, ul. Cukrowa 8\, Szczecin
-DESCRIPTION:Ćwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:
- //plan.skrotbm.pl
+DESCRIPTION:Komunikat dziekanatu: Dnia 03.11.2026 zostają odwołane zajęc
+ ia z dr Jakubem Dowejko. Termin odrobienia zajęć zostanie podany w póź
+ niejszym czasie.\nhttps://dos.usz.edu.pl/cukrowa/2026/11/grupa-c111-c112-1
+ 2/\nĆwiczenia\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://plan.
+ skrotbm.pl
 CATEGORIES:ćwiczenia
-TRANSP:OPAQUE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-C112-2-B-1v3f76b@plan.skrotbm.pl

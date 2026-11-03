@@ -3,9 +3,9 @@
  "kierunek": "Business Management",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "30.10.2026 11:55",
+ "updated": "03.11.2026 11:24",
  "changedAt": "2026-10-20T12:28:32.647Z",
- "checkedAt": "2026-11-02T16:44:25.189Z",
+ "checkedAt": "2026-11-03T12:41:42.193Z",
  "groups": {
   "C111": {
    "odd": [
@@ -863,6 +863,20 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c113-21/",
+    "title": "GRUPA C113",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Dnia 04.11.2026 zostają odwołane zajęcia z dr Jakubem Dowejko. Termin odrobienia zajęć zostanie podany w późniejszym czasie."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c111-c112-12/",
+    "title": "GRUPA C111, C112",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Dnia 03.11.2026 zostają odwołane zajęcia z dr Jakubem Dowejko. Termin odrobienia zajęć zostanie podany w późniejszym czasie."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c111-c112-c113-11/",
     "title": "GRUPA C111, C112, C113",
     "ym": "2026-10",
@@ -920,9 +934,9 @@
      "start": "10:00",
      "pl": "Podstawy zarządzania",
      "guess": true,
-     "post": 6,
+     "post": 8,
      "posts": [
-      6
+      8
      ]
     },
     {
@@ -930,9 +944,9 @@
      "date": "2026-10-23",
      "start": "12:00",
      "pl": "Analiza matematyczna",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -940,9 +954,9 @@
      "date": "2026-10-26",
      "start": "10:00",
      "pl": "Ekonomia biznesu",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
      ]
     },
     {
@@ -950,9 +964,19 @@
      "date": "2026-10-27",
      "start": "10:00",
      "pl": "Ekonomia biznesu",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "12:00",
+     "pl": "Logistyka",
+     "post": 1,
+     "posts": [
+      1
      ]
     },
     {
@@ -966,7 +990,7 @@
      "k": "W",
      "p": "dr Barbara Batóg",
      "r": "s. 002",
-     "post": 1,
+     "post": 3,
      "dup": true
     }
    ],
@@ -977,10 +1001,10 @@
      "start": "10:00",
      "pl": "Podstawy zarządzania",
      "guess": true,
-     "post": 5,
+     "post": 7,
      "posts": [
-      5,
-      6
+      7,
+      8
      ]
     },
     {
@@ -989,9 +1013,9 @@
      "start": "12:00",
      "pl": "Podstawy zarządzania",
      "guess": true,
-     "post": 5,
+     "post": 7,
      "posts": [
-      5
+      7
      ]
     },
     {
@@ -999,10 +1023,10 @@
      "date": "2026-10-23",
      "start": "10:00",
      "pl": "Analiza matematyczna",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1,
-      2
+      3,
+      4
      ]
     },
     {
@@ -1010,10 +1034,10 @@
      "date": "2026-10-23",
      "start": "12:00",
      "pl": "Analiza matematyczna",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1,
-      2
+      3,
+      4
      ]
     },
     {
@@ -1021,9 +1045,9 @@
      "date": "2026-10-26",
      "start": "12:00",
      "pl": "Ekonomia biznesu",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
      ]
     },
     {
@@ -1031,9 +1055,19 @@
      "date": "2026-10-27",
      "start": "10:00",
      "pl": "Ekonomia biznesu",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "10:00",
+     "pl": "Logistyka",
+     "post": 1,
+     "posts": [
+      1
      ]
     },
     {
@@ -1047,7 +1081,7 @@
      "k": "X",
      "p": "dr Barbara Batóg",
      "r": "s. 002",
-     "post": 1,
+     "post": 3,
      "dup": true
     },
     {
@@ -1061,7 +1095,7 @@
      "k": "X",
      "p": "dr Barbara Batóg",
      "r": "s. 002",
-     "post": 2
+     "post": 4
     }
    ],
    "C113": [
@@ -1071,10 +1105,10 @@
      "start": "10:00",
      "pl": "Podstawy zarządzania",
      "guess": true,
-     "post": 4,
+     "post": 6,
      "posts": [
-      4,
-      6
+      6,
+      8
      ]
     },
     {
@@ -1083,9 +1117,9 @@
      "start": "13:45",
      "pl": "Podstawy zarządzania",
      "guess": true,
-     "post": 4,
+     "post": 6,
      "posts": [
-      4
+      6
      ]
     },
     {
@@ -1093,9 +1127,9 @@
      "date": "2026-10-23",
      "start": "12:00",
      "pl": "Analiza matematyczna",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -1103,9 +1137,9 @@
      "date": "2026-10-26",
      "start": "15:30",
      "pl": "Ekonomia biznesu",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
      ]
     },
     {
@@ -1113,6 +1147,16 @@
      "date": "2026-10-27",
      "start": "10:00",
      "pl": "Ekonomia biznesu",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "8:15",
+     "pl": "Logistyka",
      "post": 0,
      "posts": [
       0
@@ -1129,11 +1173,11 @@
      "k": "W",
      "p": "dr Barbara Batóg",
      "r": "s. 002",
-     "post": 1,
+     "post": 3,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-10-27T19:56:07.101Z"
+  "updatedAt": "2026-11-03T12:41:51.778Z"
  }
 }
