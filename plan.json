@@ -5,7 +5,7 @@
  "semestr": "zimowy",
  "updated": "04.11.2026 10:55",
  "changedAt": "2026-10-20T12:28:32.647Z",
- "checkedAt": "2026-11-04T18:24:18.799Z",
+ "checkedAt": "2026-11-04T20:15:12.413Z",
  "groups": {
   "C111": {
    "odd": [
@@ -924,6 +924,26 @@
     "ym": "2026-10",
     "pub": "2026-10-08",
     "text": "The lecture will be cancelled because I’m at the conference. dr hab. prof. US Dariusz Milewski"
+   },
+   {
+    "src": "teams",
+    "id": "omw2hk7x0",
+    "tid": "i-log-odwolane-0311",
+    "url": "",
+    "title": "Odwołane wykłady z Logistyki 3 i 4.11",
+    "team": "Logistics Lectures BM",
+    "ym": "",
+    "text": ""
+   },
+   {
+    "src": "teams",
+    "id": "omw2hk977",
+    "tid": "i-pz-odwolane-1910",
+    "url": "",
+    "title": "Odwołane zajęcia z Podstaw zarządzania (19–23.10)",
+    "team": "Fundamentals of Management",
+    "ym": "",
+    "text": ""
    }
   ],
   "zmiany": {
@@ -977,6 +997,17 @@
      "post": 1,
      "posts": [
       1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "8:15",
+     "pl": "Logistyka",
+     "src": "teams",
+     "post": 9,
+     "posts": [
+      9
      ]
     },
     {
@@ -1068,6 +1099,17 @@
      "post": 1,
      "posts": [
       1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "8:15",
+     "pl": "Logistyka",
+     "src": "teams",
+     "post": 9,
+     "posts": [
+      9
      ]
     },
     {
@@ -1178,6 +1220,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-03T12:41:51.778Z"
+  "updatedAt": "2026-11-04T20:15:22.215Z"
  }
 }

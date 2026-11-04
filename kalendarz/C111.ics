@@ -660,12 +660,13 @@ UID:2026-11-04-C111-0-x-1kbsa17@plan.skrotbm.pl
 DTSTAMP:20261020T122832Z
 DTSTART;TZID=Europe/Warsaw:20261104T081500
 DTEND;TZID=Europe/Warsaw:20261104T094500
-SUMMARY:Logistyka · W
+SUMMARY:ODWOŁANE: Logistyka · W
 LOCATION:s. SIL 325\, ul. Cukrowa 8\, Szczecin
-DESCRIPTION:Wykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https://p
- lan.skrotbm.pl
+DESCRIPTION:Ogłoszenie prowadzącego w Teams: Odwołane wykłady z Logisty
+ ki 3 i 4.11\nWykład\nLogistics\nProwadzi: dr Jakub Dowejko\nPlan: https:/
+ /plan.skrotbm.pl
 CATEGORIES:wykład
-TRANSP:OPAQUE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-C111-1-x-1b581ny@plan.skrotbm.pl
