@@ -95,7 +95,7 @@ function build(group, sub) {
       const label = off ? (off.moved ? "PRZENIESIONE: " : "ODWOŁANE: ") : e.extra ? (e.extra.kind === "change" ? "Zmiana: " : "Odrabianie: ") : "";
       const title = `${label}${e.pl || e.en}${SHORT[e.k] ? " · " + SHORT[e.k] : ""}${e.g && !sub ? " (laby " + e.g + ")" : ""}`;
       const desc = [
-        post ? `Komunikat dziekanatu: ${post.text || post.title}\n${post.url}` : null,
+        post ? (post.src === "teams" ? `Ogłoszenie prowadzącego w Teams: ${post.title}` : `Komunikat dziekanatu: ${post.text || post.title}\n${post.url}`) : null,
         kind ? kind[0].toUpperCase() + kind.slice(1) + (e.g ? `, podgrupa ${e.g}` : "") : null,
         e.en && e.en !== e.pl ? e.en : null,
         e.p ? `Prowadzi: ${e.p}` : null,

@@ -489,7 +489,8 @@ const dmy = k => { const [y,m,d] = k.split("-"); return isEN() ? `${+d} ${MON3[+
 const shorten = (s, n) => s.length > n ? s.slice(0, n-1).replace(/\s+\S*$/, "") + "…" : s;
 function dzLink(i){
   const p = dzPost(i);
-  return p ? ` <a href="${esc(p.url)}" target="_blank" rel="noopener">${L("Komunikat dziekanatu","Dean's office notice")} ↗</a>` : "";
+  if (p && p.src === "teams") return ` <span class="dzsrc">${L("Ogłoszenie prowadzącego w Teams","Lecturer's notice in Teams")}${p.title ? ": " + esc(p.title) : ""}</span>`;
+  return p && p.url ? ` <a href="${esc(p.url)}" target="_blank" rel="noopener">${L("Komunikat dziekanatu","Dean's office notice")} ↗</a>` : "";
 }
 const forSub = x => !x.g || !state.sub || x.g === state.sub;
 function dzCancelInfo(e){

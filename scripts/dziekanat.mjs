@@ -8,6 +8,10 @@
 //   - "note"    komunikat dla grupy, którego nie udało się przypiąć do konkretnych zajęć.
 // Wynik trafia do plan.json (pole "dziekanat") i do kopii danych w index.html.
 //
+// Do tego odwołania i przeniesienia z ogłoszeń prowadzących w Teams, zatwierdzone przez starostę w Skrócie BM
+// (skrotbm.pl → Narzędzia starosty → Odwołania z Teams). Czyta je publiczna funkcja bazy Skrótu nauka_odwolania_publiczne()
+// (skrot-bm/supabase/skrot-v26-odwolania.sql). Trafiają do "posts" (src: "teams", bez adresu) i do "zmiany" (src: "teams").
+//
 // Gdy strona dziekanatu nie odpowiada, skrypt liczy zmiany z wpisów zapisanych przy poprzednim sprawdzeniu.
 // Uruchomienie lokalne bez internetu: node scripts/dziekanat.mjs --offline
 // Node 20+, bez zależności.
@@ -331,6 +335,67 @@ export function resolve(plan, posts) {
   return out;
 }
 
+// ---------- odwołania z Teams (Skrót BM) ----------
+// Adres i klucz publishable bazy Skrótu są publiczne z założenia (te same są w skrot-bm/skrot-supabase.js).
+const SKROT_DB = { url: "https://zkyxujkdrovfzpasocmv.supabase.co", key: "sb_publishable_lVORMiTz9DlQaekBlfKf3Q_qPbKDHxb" };
+function postJson(url, body, headers) {
+  return new Promise((resolve, reject) => {
+    const data = JSON.stringify(body);
+    const req = https.request(url, { method: "POST", headers: { "Content-Type": "application/json", "Content-Length": Buffer.byteLength(data), ...headers }, timeout: 30000 }, res => {
+      let out = ""; res.setEncoding("utf8"); res.on("data", c => out += c);
+      res.on("end", () => (res.statusCode === 200 ? resolve(JSON.parse(out || "null")) : reject(new Error(`HTTP ${res.statusCode}: ${out.slice(0, 200)}`))));
+    });
+    req.on("timeout", () => req.destroy(new Error("brak odpowiedzi przez 30 s")));
+    req.on("error", reject); req.end(data);
+  });
+}
+// Poprzednie wpisy z plan.json w tym samym kształcie, w jakim oddaje je baza.
+function teamsFromOld(old) {
+  const out = new Map();
+  (old?.posts || []).forEach((p, pi) => { if (p.src === "teams") out.set(pi, { id: p.id, tid: p.tid || null, title: p.title, team: p.team, z: {} }); });
+  for (const [g, list] of Object.entries(old?.zmiany || {})) for (const x of list) if (x.src === "teams" && out.has(x.post)) {
+    const { src, post, posts: _p, ...rest } = x; (out.get(x.post).z[g] ||= []).push(rest);
+  }
+  return [...out.values()];
+}
+// Zatwierdzone wpisy: [{ id, tid, kind, title, team, z: { C112: [{ type: "cancel", date, start, pl, g?, moved? } | { type: "extra", … }] } }].
+// Bez internetu (--offline) albo gdy baza nie odpowiada (np. przed uruchomieniem v26): poprzednie wpisy z plan.json.
+// Test: --teams-file plik.json (odpowiedź funkcji bazy).
+export async function fetchTeams(old, offline) {
+  const i = process.argv.indexOf("--teams-file");
+  if (i > 0) return Object.values(JSON.parse(fs.readFileSync(process.argv[i + 1], "utf8"))?.items || {});
+  if (offline) return teamsFromOld(old);
+  try {
+    const r = await postJson(`${SKROT_DB.url}/rest/v1/rpc/nauka_odwolania_publiczne`, {}, { apikey: SKROT_DB.key, Authorization: `Bearer ${SKROT_DB.key}` });
+    return Object.values(r?.items || {});
+  } catch (e) {
+    console.log(`Odwołania z Teams: baza Skrótu nie odpowiada (${e.message}). Zostają poprzednie.`);
+    return teamsFromOld(old);
+  }
+}
+// Dopisuje zatwierdzone odwołania z Teams do posts i zmiany (tylko grupy z planu). Zwraca nową listę posts.
+export function mergeTeams(posts, zmiany, teams) {
+  const all = posts.slice();
+  for (const a of teams) {
+    if (!a || typeof a.z !== "object" || !a.z) continue;
+    const pi = all.length;
+    all.push({ src: "teams", id: String(a.id || ""), ...(a.tid ? { tid: String(a.tid) } : {}), url: "", title: String(a.title || "Ogłoszenie w Teams").slice(0, 200), team: String(a.team || "").slice(0, 120), ym: "", text: "" });
+    for (const [g, list] of Object.entries(a.z)) {
+      if (!zmiany[g] || !Array.isArray(list)) continue;
+      for (const x of list) {
+        if (!x || !/^\d{4}-\d{2}-\d{2}$/.test(x.date || "") || !/^\d{1,2}:\d{2}$/.test(x.start || "") || !x.pl) continue;
+        // to samo odwołanie przyszło już z dziekanatu → zostaje wpis dziekanatu
+        if (x.type === "cancel" && zmiany[g].some(y => y.type === "cancel" && y.src !== "teams" && y.date === x.date && y.start === x.start && y.pl === x.pl && (y.g || "") === (x.g || ""))) continue;
+        if (x.type === "cancel") zmiany[g].push({ type: "cancel", date: x.date, start: x.start, pl: x.pl, ...(x.g ? { g: x.g } : {}), ...(x.moved ? { moved: true } : {}), src: "teams", post: pi, posts: [pi] });
+        else if (x.type === "extra") zmiany[g].push({ type: "extra", kind: x.kind === "change" ? "change" : "makeup", date: x.date, start: x.start, end: x.end || plusMin(x.start, 90), pl: x.pl,
+          ...(x.en ? { en: x.en } : {}), k: x.k || "X", ...(x.p ? { p: x.p } : {}), ...(x.r ? { r: x.r } : {}), ...(x.g ? { g: x.g } : {}), src: "teams", post: pi });
+      }
+    }
+  }
+  for (const g of Object.keys(zmiany)) zmiany[g].sort((a, b) => (a.date + (a.start ? pad(toMin(a.start)) : "")).localeCompare(b.date + (b.start ? pad(toMin(b.start)) : "")));
+  return all;
+}
+
 // ---------- główny przebieg ----------
 async function fetchPosts(known, old) {
   const relevant = [];
@@ -374,7 +439,7 @@ function writeData(plan) {
 
 function describe(item, posts) {
   const d = item.date.split("-").reverse().slice(0, 2).join(".");
-  if (item.type === "cancel") return `- ❌ ${d} ${item.start} **${item.pl}**${item.g ? ` (laby ${item.g})` : ""} — ${item.moved ? "przeniesione" : "odwołane"}`;
+  if (item.type === "cancel") return `- ❌ ${d} ${item.start} **${item.pl}**${item.g ? ` (laby ${item.g})` : ""} — ${item.moved ? "przeniesione" : "odwołane"}${item.src === "teams" ? " (ogłoszenie w Teams)" : ""}`;
   if (item.type === "extra" && item.dup) return `- ➕ ${d} ${item.start} **${item.pl}** — odrabianie (już jest w planie uczelni)`;
   if (item.type === "extra") return `- ➕ ${d} ${item.start}–${item.end} **${item.pl}**${item.g ? ` (laby ${item.g})` : ""}${item.r ? `, ${item.r}` : ""} — ${item.kind === "change" ? "zmiana godziny/sali" : "odrabianie"}`;
   return `- ℹ️ ${d} komunikat: ${short(posts[item.post]?.text || posts[item.post]?.title || "", 160)}`;
@@ -385,16 +450,21 @@ async function main() {
   const plan = JSON.parse(fs.readFileSync("plan.json", "utf8"));
   const known = Object.keys(plan.groups || {}).filter(g => /^C11\d$/.test(g));
   const old = plan.dziekanat || null;
+  // wpisy dziekanatu bez dopisanych odwołań z Teams (te liczymy osobno, niżej)
+  const oldDz = old ? { ...old, posts: (old.posts || []).filter(p => p.src !== "teams") } : null;
   let posts, fetchError = null;
-  if (offline) posts = old?.posts || [];
+  if (offline) posts = oldDz?.posts || [];
   else {
-    try { posts = await fetchPosts(known, old); }
-    catch (e) { fetchError = e; posts = old?.posts || []; console.log(`Strona dziekanatu nie odpowiada (${e.message}). Liczę zmiany z zapisanych wpisów.`); }
+    try { posts = await fetchPosts(known, oldDz); }
+    catch (e) { fetchError = e; posts = oldDz?.posts || []; console.log(`Strona dziekanatu nie odpowiada (${e.message}). Liczę zmiany z zapisanych wpisów.`); }
   }
   posts = posts.map(({ url, title, ym, pub, text }) => ({ url, title, ym, ...(pub ? { pub } : {}), text: text || "" }));
   const zmiany = resolve(plan, posts);
+  const teams = await fetchTeams(old, offline);
+  const allPosts = mergeTeams(posts, zmiany, teams);
+  if (teams.length) console.log(`Odwołania z Teams (zatwierdzone w Skrócie BM): ${teams.length}.`);
 
-  const next = { source: SOURCE, posts, zmiany };
+  const next = { source: SOURCE, posts: allPosts, zmiany };
   const same = old && JSON.stringify({ ...old, updatedAt: undefined }) === JSON.stringify({ ...next, updatedAt: undefined });
   if (!same) {
     next.updatedAt = new Date().toISOString();
@@ -403,7 +473,7 @@ async function main() {
   }
 
   // Nowe wpisy dla naszych grup → mail (Issue na GitHubie)
-  const oldUrls = new Set((old?.posts || []).map(p => p.url));
+  const oldUrls = new Set((oldDz?.posts || []).map(p => p.url));
   const fresh = old ? posts.filter(p => !oldUrls.has(p.url)) : [];
   const lines = [];
   for (const g of Object.keys(zmiany)) {

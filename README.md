@@ -23,6 +23,14 @@ rano razem z planem, a w ciągu dnia co godzinę (8:20–19:20). Bierze tylko wp
 - Komunikat, którego nie da się przypiąć do konkretnych zajęć (np. prowadzący spoza planu), widać jako notkę pod danym dniem.
 - Przy każdym nowym komunikacie dla naszych grup powstaje Issue, więc GitHub wysyła maila. Warto zerknąć, czy automat dobrze go odczytał.
 
+**Odwołania z Teams.** Prowadzący często piszą o odwołanych zajęciach tylko w Teams. Skrót BM pokazuje staroście propozycję
+odwołania przy takim ogłoszeniu (skrotbm.pl → Narzędzia starosty → Odwołania z Teams), a po zatwierdzeniu zapisuje gotowe wpisy
+w swojej bazie. `scripts/dziekanat.mjs` przy każdym przebiegu pobiera je publiczną funkcją bazy Skrótu
+(`nauka_odwolania_publiczne`, plik `supabase/skrot-v26-odwolania.sql` w repozytorium skrot-bm) i dopisuje do `dziekanat`:
+ogłoszenie trafia do `posts` z `src: "teams"` (bez adresu), a odwołania do `zmiany` z `src: "teams"`. Strona i pliki .ics pokazują je
+tak samo jak komunikaty dziekanatu, z dopiskiem „Ogłoszenie prowadzącego w Teams”. Gdy baza nie odpowiada, zostają poprzednie wpisy.
+Test bez internetu: `node scripts/dziekanat.mjs --offline --teams-file odpowiedz.json`.
+
 Automat rozpoznaje prowadzącego po nazwisku, a dni i godziny po zwykłych sformułowaniach dziekanatu
 („Dnia 23.10.2026 zostają odwołane zajęcia z dr …”, „Termin odrobienia: 19.11.2026, godz. 10:00, sala 002”).
 Gdy strona dziekanatu nie odpowiada, plan zostaje z ostatnio odczytanymi komunikatami.
