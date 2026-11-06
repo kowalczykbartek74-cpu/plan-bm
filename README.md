@@ -38,7 +38,7 @@ Gdy strona dziekanatu nie odpowiada, plan zostaje z ostatnio odczytanymi komunik
 ## Plan z PDF-u (kolejka importów w Skrócie)
 
 Gdy planu jakiejś grupy nie ma na stronie uczelni (np. nowa grupa albo plan rozesłany tylko jako PDF), administrator Skrótu
-wgrywa PDF w skrotbm.pl → Narzędzia starosty → Importy. AI robi szkic, a administrator zatwierdza go zajęcie po zajęciu;
+wgrywa PDF w zdawalni.pl → Narzędzia starosty → Importy. AI robi szkic, a administrator zatwierdza go zajęcie po zajęciu;
 nic z AI nie trafia do bazy bez tej decyzji. `scripts/update-plan.mjs` przy każdym przebiegu pyta publiczną funkcję bazy Skrótu
 `nauka_import_plan_publiczny(rocznik)` (plik `supabase/skrot-v40-importy.sql` w repozytorium skrot-bm; rocznik z `PLAN_ROCZNIK`,
 domyślnie `wefiz-bm-1-st-2026`) i dokłada **tylko grupy, których strona uczelni nie podaje**. Plan uczelni zawsze ma pierwszeństwo.
