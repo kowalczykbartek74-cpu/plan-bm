@@ -35,6 +35,17 @@ Automat rozpoznaje prowadzącego po nazwisku, a dni i godziny po zwykłych sform
 („Dnia 23.10.2026 zostają odwołane zajęcia z dr …”, „Termin odrobienia: 19.11.2026, godz. 10:00, sala 002”).
 Gdy strona dziekanatu nie odpowiada, plan zostaje z ostatnio odczytanymi komunikatami.
 
+## Plan z PDF-u (kolejka importów w Skrócie)
+
+Gdy planu jakiejś grupy nie ma na stronie uczelni (np. nowa grupa albo plan rozesłany tylko jako PDF), administrator Skrótu
+wgrywa PDF w zdawalni.pl → Narzędzia starosty → Importy. AI robi szkic, a administrator zatwierdza go zajęcie po zajęciu;
+nic z AI nie trafia do bazy bez tej decyzji. `scripts/update-plan.mjs` przy każdym przebiegu pyta publiczną funkcję bazy Skrótu
+`nauka_import_plan_publiczny(rocznik)` (plik `supabase/skrot-v40-importy.sql` w repozytorium skrot-bm; rocznik z `PLAN_ROCZNIK`,
+domyślnie `wefiz-bm-1-st-2026`) i dokłada **tylko grupy, których strona uczelni nie podaje**. Plan uczelni zawsze ma pierwszeństwo.
+W `plan.json` takie grupy są opisane w polu `zImportu`. Bez zatwierdzonego planu, bez sieci albo przed uruchomieniem v40 plan
+działa dokładnie jak dotąd (`scripts/import-plan.mjs`, test: `node --test scripts/import-plan.test.mjs`).
+Test bez internetu: `node scripts/update-plan.mjs --import-file odpowiedz.json` (odpowiedź funkcji bazy).
+
 ## Plan w kalendarzu telefonu
 
 Przycisk „Dodaj plan do kalendarza w telefonie” daje link do subskrypcji w Google, Apple albo Outlooku.
