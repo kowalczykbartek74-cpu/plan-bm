@@ -5,6 +5,7 @@ import fs from "node:fs";
 import https from "node:https";
 import http from "node:http";
 import { parseGroupPage, parseUpdated, SLOTS } from "./parse.mjs";
+import { fetchImportPlan, mergeImportPlan } from "./import-plan.mjs";
 
 const BASE = process.env.PLAN_BASE_URL || "https://planyzajec-efz.usz.edu.pl/";
 const KIERUNEK = "Business Management";
@@ -89,6 +90,11 @@ async function main() {
     groups[g] = { odd: page.odd, even: page.even };
     meta = { rokAkademicki: page.rokAkademicki, semestr: page.semestr };
   }
+  // Zatwierdzony plan z kolejki importów Skrótu: tylko grupy, których strona uczelni nie podaje (scripts/import-plan.mjs).
+  const fi = process.argv.indexOf("--import-file");
+  const imp = await fetchImportPlan({ file: fi > 0 ? process.argv[fi + 1] : null });
+  const zImportu = mergeImportPlan(groups, imp);
+  if (zImportu.length) console.log(`Plan z importu (Skrót, zatwierdzony ${imp.zatwierdzony_at}): grupy ${zImportu.join(", ")}.`);
   for (const g of ["C111", "C112", "C113"]) {
     if (!groups[g]) throw new Error(`Brak grupy ${g} w odpowiedzi uczelni. Nie nadpisuję planu.`);
   }
@@ -106,6 +112,7 @@ async function main() {
     changedAt: changed ? now : old.changedAt,  // kiedy skrypt ostatnio wykrył zmianę
     checkedAt: now,                            // ostatnie sprawdzenie
     groups,
+    ...(zImportu.length ? { zImportu: { id: imp.id, zatwierdzony: imp.zatwierdzony_at, grupy: zImportu } } : {}),   // skąd są te grupy
     ...(old?.kalendarz ? { kalendarz: old.kalendarz } : {}),   // kalendarz roku dokłada scripts/kalendarz.mjs
     ...(old?.dziekanat ? { dziekanat: old.dziekanat } : {})    // odwołania i odrabianie: scripts/dziekanat.mjs
   };
