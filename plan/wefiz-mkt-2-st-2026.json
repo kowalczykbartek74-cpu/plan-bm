@@ -1,0 +1,595 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Marketing",
+ "id": "wefiz-mkt-2-st-2026",
+ "kod": "mktm26",
+ "kierunekEn": "Marketing",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:23:30.204Z",
+ "checkedAt": "2026-11-08T20:23:30.204Z",
+ "groups": {
+  "C591": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 145/146 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Współczesne trendy konsumenckie",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 720"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. SIL 325"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 720"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 145/146 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Doświadczenie klienta i użytkownika",
+     "en": "Customer and User Experience",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 720"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Pluta",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 044 (aula)"
+    }
+   ]
+  },
+  "C592": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 707"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Współczesne trendy konsumenckie",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 523"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "g": "A",
+     "p": "mgr Kamil Bąkowski",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Justyna Simińska",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. SIL 325"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Pluta",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Justyna Simińska",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "g": "B",
+     "p": "mgr Kamil Bąkowski",
+     "r": "s. 423 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 720"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 044 (aula)"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Doświadczenie klienta i użytkownika",
+     "en": "Customer and User Experience",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 720"
+    }
+   ]
+  },
+  "C593": {
+   "odd": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 707"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Współczesne trendy konsumenckie",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. 423 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 034"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. SIL 325"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Doświadczenie klienta i użytkownika",
+     "en": "Customer and User Experience",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 623"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Justyna Simińska",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 707"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 044 (aula)"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Pluta",
+     "r": "s. SIL 324"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c593/",
+    "title": "GRUPA C593",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Szanowni Studenci od listopada nastąpi zmiana w planie: wtorek nieparzysty zajęcia z mgr Karoliną Białas CONTENT MARKETING I STORYTELLING W SOCIAL MEDIACH (K) zmiana sali na 707 ."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c591-c592-c593-2/",
+    "title": "GRUPA C591, C592, C593",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "Dnia 21.10.2026 zostają odwołane zajęcia z dr Marcinem Janowskim. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C591": [
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "8:15",
+     "pl": "Współczesne trendy konsumenckie",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    }
+   ],
+   "C592": [
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "8:15",
+     "pl": "Współczesne trendy konsumenckie",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    }
+   ],
+   "C593": [
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "8:15",
+     "pl": "Współczesne trendy konsumenckie",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:35.514Z"
+ }
+}

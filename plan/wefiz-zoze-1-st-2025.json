@@ -1,0 +1,624 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Zarządzanie odnawialnymi źródłami energii",
+ "id": "wefiz-zoze-1-st-2025",
+ "kod": "zoze25",
+ "kierunekEn": "Zarządzanie odnawialnymi źródłami energii",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:24:55.710Z",
+ "checkedAt": "2026-11-08T20:24:55.710Z",
+ "groups": {
+  "C241": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Zastosowanie odnawialnych źródeł energii w transporcie",
+     "k": "W",
+     "p": "dr Bartosz Pilecki",
+     "r": "s. 407"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język niemiecki ul. wawrzyniaka 15, s. 107 mgr m.kisiel- spychała",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "p": "dr Monika Rozkrut",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Zastosowanie odnawialnych źródeł energii w transporcie",
+     "k": "CW",
+     "p": "dr Bartosz Pilecki",
+     "r": "s. 407"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Modelowanie procesów w energetyce",
+     "k": "LAB",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Język angielski gr. 1 ul. cukrowa, s. 507 mgr a.hancewicz",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Ochrona środowiska w energetyce",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "s. 407"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Instrumenty wsparcia rozwoju odnawialnych źródeł energii",
+     "k": "W",
+     "p": "dr Mateusz Lewiński",
+     "r": "s. 407"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
+     "k": "W",
+     "p": "dr Magdalena Kogut-Jaworska",
+     "r": "s. 041"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Ochrona środowiska w energetyce",
+     "k": "CW",
+     "p": "dr Artur Pomianowski",
+     "r": "s. 407"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Instrumenty wsparcia rozwoju odnawialnych źródeł energii",
+     "k": "CW",
+     "p": "dr Mateusz Lewiński",
+     "r": "s. 407"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Analityka biznesowa rynku energii",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
+     "k": "CW",
+     "p": "mgr Stanisław Kaup",
+     "r": "s. 033"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Analityka biznesowa rynku energii",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język niemiecki ul. wawrzyniaka 15, s. 107 mgr m.kisiel- spychała",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "p": "dr Monika Rozkrut",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Modelowanie procesów w energetyce",
+     "k": "W",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Język angielski gr. 1 ul. cukrowa, s. 507 mgr a.hancewicz",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Systemy dystrybucji energii",
+     "k": "W",
+     "p": "dr Marcin Rabe",
+     "r": "s. 033"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Modelowanie procesów w energetyce",
+     "k": "LAB",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "wykład: ćwiczenia:",
+     "r": "sala 112 dr Artur Pomianowski",
+     "dates": [
+      "2026-11-12",
+      "2026-11-26"
+     ],
+     "n": "Tylko: 12.11, 26.11"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Systemy dystrybucji energii",
+     "k": "CW",
+     "p": "dr Marcin Rabe",
+     "r": "s. 033"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Efektywność energetyczna",
+     "k": "LAB",
+     "p": "mgr inż. Krystian Redżeb",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
+     "k": "CW",
+     "p": "mgr Stanisław Kaup",
+     "r": "s. 033"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Polityka energetyczna polski i UE",
+     "k": "K",
+     "p": "dr Mateusz Lewiński",
+     "r": "s. 407"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 033 mrg Stanisław Kaup",
+     "dates": [
+      "2026-11-27"
+     ],
+     "n": "Jednorazowo: 27.11.2026"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c241-42/",
+    "title": "GRUPA C241",
+    "ym": "2026-10",
+    "pub": "2026-10-26",
+    "text": "Odrabianie zajęć z dr Arturem Pomianowskim z dnia 9.10.2026 odbędzie się według następującego harmonogramu: Wykład: 12.11.2026 godz. 12:00 sala 112 Ćwiczenia: 26.11.2026 godz. 12:00 sala 112"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c241-41/",
+    "title": "GRUPA C241",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Dnia 20.10.2026 zostają odwołane zajęcia z mgr Stanisławem Kaup. Termin odrobienia zostanie ustalony na kolejnych zajęciach. Termin odrobienia zajęć z dnia 13.10.2026: 27.10.2026 godz. 17:15 sala 033"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c241-40/",
+    "title": "GRUPA C241",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 13.10.2026 zostają odwołane zajęcia z mgr Stanisławem Kaup. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C241": [
+    {
+     "type": "cancel",
+     "date": "2026-10-09",
+     "start": "10:00",
+     "pl": "Ochrona środowiska w energetyce",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-09",
+     "start": "12:00",
+     "pl": "Ochrona środowiska w energetyce",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "15:30",
+     "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
+     "post": 1,
+     "posts": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "15:30",
+     "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-27",
+     "start": "17:15",
+     "end": "18:45",
+     "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
+     "k": "CW",
+     "p": "mgr Stanisław Kaup",
+     "r": "s. 033",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Ochrona środowiska w energetyce",
+     "k": "X",
+     "p": "dr Artur Pomianowski",
+     "r": "s. 112",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Ochrona środowiska w energetyce",
+     "k": "X",
+     "p": "dr Artur Pomianowski",
+     "r": "s. 112",
+     "post": 0,
+     "dup": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:39:17.772Z"
+ }
+}

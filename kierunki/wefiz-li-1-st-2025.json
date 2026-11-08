@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-li-1-st-2025",
+  "kod": "li25",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "LI",
+    "pl": "Logistyka inż.",
+    "en": "Logistics (Eng.)"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2025,
+  "rok": 2,
+  "system": {
+    "nazwa": "Logistyka inż. (Li)",
+    "rok": "2 rokI"
+  },
+  "grupy": [
+    "C261"
+  ],
+  "plik": "plan/wefiz-li-1-st-2025.json",
+  "odwolania": [
+    "dos"
+  ]
+}

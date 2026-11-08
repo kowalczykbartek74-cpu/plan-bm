@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-iwb-1-st-2025",
+  "kod": "iwb25",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "IWB",
+    "pl": "Informatyka w Biznesie",
+    "en": "IT in Business"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2025,
+  "rok": 2,
+  "system": {
+    "nazwa": "Informatyka w Biznesie (IwB)",
+    "rok": "2 rokI"
+  },
+  "grupy": [
+    "C271"
+  ],
+  "plik": "plan/wefiz-iwb-1-st-2025.json",
+  "odwolania": [
+    "dos"
+  ]
+}

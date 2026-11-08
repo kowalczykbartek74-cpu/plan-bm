@@ -1,0 +1,815 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Komunikacja i psychologia w biznesie",
+ "id": "wefiz-kipb-2-st-2026",
+ "kod": "kipbm26",
+ "kierunekEn": "Komunikacja i psychologia w biznesie",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:22:35.116Z",
+ "checkedAt": "2026-11-08T20:22:35.116Z",
+ "groups": {
+  "C521": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Metody postępowania ze stresem",
+     "k": "K",
+     "p": "dr Karolina Drela",
+     "r": "s. 507"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Grywalizacja w motywowaniu pracowników i klientów",
+     "k": "W",
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "s. 104"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Zarządzanie różnorodnością",
+     "k": "K",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 044 (aula)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "CSR",
+     "en": "Społeczna Odpowiedzialność Biznesu",
+     "k": "CW",
+     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
+     "r": "s. 720"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala SIL 137/138 dr Karolina Muszyńska",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 707"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Psychologia poznawcza",
+     "k": "W",
+     "p": "dr Magdalena Kerestey",
+     "r": "s. 002"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 623 dr Karolina Drela",
+     "dates": [
+      "2027-01-11"
+     ],
+     "n": "Jednorazowo: 11.01.2027"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Odrabianie zajęć:",
+     "k": "X",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "sala 720",
+     "dates": [
+      "2026-11-10"
+     ],
+     "n": "Jednorazowo: 10.11.2026"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Grywalizacja w motywowaniu pracowników i klientów",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Psychologia osobowości",
+     "k": "W",
+     "p": "dr Eunice Hempolińska-Nowik",
+     "r": "WNS s. 116 ul. Krakowska 69"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Psychologia poznawcza",
+     "k": "CW",
+     "p": "mgr Karolina Szalińska",
+     "r": "s. 523"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "CSR",
+     "en": "Społeczna Odpowiedzialność Biznesu",
+     "k": "CW",
+     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
+     "r": "s. 720"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Komunikacja w zespołach rozproszonych",
+     "k": "LAB",
+     "p": "dr Karolina Muszyńska",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "p": "dr Eunice Hempolińska-Nowik",
+     "r": "WNS s. 21 budynek H ul. Krakowska 69"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 707"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "sala 104",
+     "dates": [
+      "2026-10-29"
+     ],
+     "n": "Jednorazowo: 29.10.2026"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
+     "r": "s. SIL 323"
+    }
+   ]
+  },
+  "C522": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Grywalizacja w motywowaniu pracowników i klientów",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Grywalizacja w motywowaniu pracowników i klientów",
+     "k": "W",
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "s. 104"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "p": "dr Eunice Hempolińska-Nowik",
+     "r": "WNS s. 21 budynek H ul. Krakowska 69"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Metody postępowania ze stresem",
+     "k": "K",
+     "p": "dr Karolina Drela",
+     "r": "s. 507"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 607"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie różnorodnością",
+     "k": "K",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 507"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "CSR",
+     "en": "Społeczna Odpowiedzialność Biznesu",
+     "k": "CW",
+     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
+     "r": "s. 720"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Psychologia poznawcza",
+     "k": "W",
+     "p": "dr Magdalena Kerestey",
+     "r": "s. 002"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Odrabianie zajęć:",
+     "k": "X",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "sala 607",
+     "dates": [
+      "2026-11-17"
+     ],
+     "n": "Jednorazowo: 17.11.2026"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 623 dr Karolina Drela",
+     "dates": [
+      "2027-01-25"
+     ],
+     "n": "Jednorazowo: 25.01.2027"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Komunikacja w zespołach rozproszonych",
+     "k": "LAB",
+     "p": "dr Karolina Muszyńska",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Psychologia osobowości",
+     "k": "W",
+     "p": "dr Eunice Hempolińska-Nowik",
+     "r": "WNS s. 116 ul. Krakowska 69"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 607"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Psychologia poznawcza",
+     "k": "CW",
+     "p": "mgr Karolina Szalińska",
+     "r": "s. 523"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "CSR",
+     "en": "Społeczna Odpowiedzialność Biznesu",
+     "k": "CW",
+     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
+     "r": "s. 720"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "sala 104",
+     "dates": [
+      "2026-10-29"
+     ],
+     "n": "Jednorazowo: 29.10.2026"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
+     "r": "s. SIL 323"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-25/",
+    "title": "GRUPA C521",
+    "ym": "2026-10",
+    "pub": "2026-10-29",
+    "text": "Dnia 26.11.2026 zostają odwołane zajęcia z dr Karoliną Muszyńską. Termin odrobienia zajęć: 03.12.2026 godz. 10:00 sala SIL 137/138"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-zmiana-w-planie/",
+    "title": "GRUPA C521 – ZMIANA W PLANIE",
+    "ym": "2026-10",
+    "pub": "2026-10-29",
+    "text": "Szanowni Studenci od listopada nastąpi zmiana w planie. Połączenie grup laboratoryjnych."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c522-25/",
+    "title": "GRUPA C522",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Dnia 17.11.2026 o godz. 15:30 w sali 607 odbędzie się odrabianie zajęć z dr Anną Ścibior-Butrym z dnia 20.10.2026 r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-24/",
+    "title": "GRUPA C521",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Dnia 10.11.2026 o godz. 8:15 w sali 720 odbędzie się odrabianie zajęć z dr Anną Ścibior-Butrym z dnia 20.10.2026 r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-c522-23/",
+    "title": "GRUPA C521, C522",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Dnia 29.10.2026 o godz. 12:00 w sali 104 odbędzie się odrabianie zajęć z dr hab. prof. US Jakubem Swacha z dnia 03.11.2026 r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c522-24/",
+    "title": "GRUPA C522",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: 25.01.2027 godz. 8:15 sala 623"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-23/",
+    "title": "GRUPA C521",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: 11.01.2027 godz. 8:15 sala 623"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/c522/",
+    "title": "GRUPA C522",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Dnia 13.10.2026 i 20.10.2026 zostają odwołane zajęcia z dr hab. prof. US Ewą Mazur-Wierzbicka. Termin odrabiania zajęć: 26.10.2026 godz. 13:45-17:00 Sala 707"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-22/",
+    "title": "GRUPA C521",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Dnia 13.10.2026 i 20.10.2026 zostają odwołane zajęcia z dr hab. prof. US Ewą Mazur-Wierzbicka. Termin odrabiania zajęć: 08.10.2026 godz. 8:15-11:30 Sala 623"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-21/",
+    "title": "GRUPA C521",
+    "ym": "2026-10",
+    "pub": "2026-10-01",
+    "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr Anną Ścibior-Butrym. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c522-23/",
+    "title": "GRUPA C522",
+    "ym": "2026-10",
+    "pub": "2026-10-01",
+    "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr Anną Ścibior-Butrym. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C521": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-08",
+     "start": "8:15",
+     "end": "11:30",
+     "pl": "CSR",
+     "en": "Społeczna Odpowiedzialność Biznesu",
+     "k": "CW",
+     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
+     "r": "s. 623",
+     "post": 8
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "10:00",
+     "pl": "CSR",
+     "post": 8,
+     "posts": [
+      8
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-19",
+     "start": "8:15",
+     "pl": "Metody postępowania ze stresem",
+     "post": 6,
+     "posts": [
+      6
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "10:00",
+     "pl": "CSR",
+     "post": 8,
+     "posts": [
+      8
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "12:00",
+     "pl": "Zachowania organizacyjne",
+     "post": 3,
+     "posts": [
+      3,
+      9
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Grywalizacja w motywowaniu pracowników i klientów",
+     "k": "W",
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "s. 104",
+     "post": 4,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "8:15",
+     "pl": "Grywalizacja w motywowaniu pracowników i klientów",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-10",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 720",
+     "post": 3,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "pl": "Komunikacja w zespołach rozproszonych",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Komunikacja w zespołach rozproszonych",
+     "k": "LAB",
+     "p": "dr Karolina Muszyńska",
+     "r": "s. SIL 137/138",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-11",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Metody postępowania ze stresem",
+     "k": "K",
+     "p": "dr Karolina Drela",
+     "r": "s. 623",
+     "post": 6,
+     "dup": true
+    }
+   ],
+   "C522": [
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "12:00",
+     "pl": "CSR",
+     "post": 7,
+     "posts": [
+      7
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-19",
+     "start": "10:00",
+     "pl": "Metody postępowania ze stresem",
+     "post": 5,
+     "posts": [
+      5
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "10:00",
+     "pl": "Zachowania organizacyjne",
+     "post": 2,
+     "posts": [
+      2,
+      10
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "12:00",
+     "pl": "CSR",
+     "post": 7,
+     "posts": [
+      7
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-26",
+     "start": "13:45",
+     "end": "17:00",
+     "pl": "CSR",
+     "en": "Społeczna Odpowiedzialność Biznesu",
+     "k": "CW",
+     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
+     "r": "s. 707",
+     "post": 7
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Grywalizacja w motywowaniu pracowników i klientów",
+     "k": "W",
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "s. 104",
+     "post": 4,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "8:15",
+     "pl": "Grywalizacja w motywowaniu pracowników i klientów",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-17",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 607",
+     "post": 2,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-25",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Metody postępowania ze stresem",
+     "k": "K",
+     "p": "dr Karolina Drela",
+     "r": "s. 623",
+     "post": 5
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:18.840Z"
+ }
+}

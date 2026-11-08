@@ -1,0 +1,662 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Logistyka",
+ "id": "wefiz-log-2-st-2026",
+ "kod": "logm26",
+ "kierunekEn": "Logistyka",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:23:13.992Z",
+ "checkedAt": "2026-11-08T20:23:13.992Z",
+ "groups": {
+  "C531": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "CW",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 112"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Rynek usług logistycznych",
+     "k": "W",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 003"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Rynek usług logistycznych",
+     "k": "CW",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. 523"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "CW",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 003"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-11-19",
+      "2026-12-17"
+     ],
+     "n": "Tylko: 19.11, 17.12"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "s. 003"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "s. SIL 314"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 104 dr Karolina Drela",
+     "dates": [
+      "2027-01-12"
+     ],
+     "n": "Jednorazowo: 12.01.2027"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "GRUPA C531A",
+     "r": "sala 126/127 dr inż. Piotr Gutowski",
+     "dates": [
+      "2027-01-28"
+     ],
+     "n": "Jednorazowo: 28.01.2027"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Informatyka w logistyce",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "GRUPA C531B",
+     "r": "sala 126/127 dr inż. Piotr Gutowski",
+     "dates": [
+      "2027-01-28"
+     ],
+     "n": "Jednorazowo: 28.01.2027"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "s. SIL 314"
+    }
+   ]
+  },
+  "C532": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 145/146 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Rynek usług logistycznych",
+     "k": "W",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 003"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Rynek usług logistycznych",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 002"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 002"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-11-19",
+      "2026-12-17"
+     ],
+     "n": "Tylko: 19.11, 17.12"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Informatyka w logistyce",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "s. 003"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "s. SIL 314"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 145/146 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "CW",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 044 (aula)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "CW",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "s. SIL 314"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c531-c532-14/",
+    "title": "GRUPA C531, C532",
+    "ym": "2026-11",
+    "pub": "2026-11-06",
+    "text": "Odrabianie zajęć z dr Arturem Pomianowskim z dnia 9.10.2026 odbędzie się 19.11.2026 godz. 12:00 sala 003"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c531c532-zmiana-w-planie/",
+    "title": "GRUPA C531,C532 – ZMIANA W PLANIE",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Szanowni Studenci od listopada nastąpi zmiana w planie. Dodanie grupy ćwiczeniowej C532"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c531a-i-c531b-3/",
+    "title": "GRUPA C531a i C531b",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 29.10.2026 zostają odwołane zajęcia z dr inż. Piotrem Gutowskim. Termin odrobienia: Grupa C531A: 28.01.2027 godz. 12:00 sala SIL 126/127. Grupa C531B: 28.01.2027 godz. 13:45 sala SIL 126/127."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c531-46/",
+    "title": "GRUPA C531",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: 12.01.2027 godz. 8:15 sala 104"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c531-45/",
+    "title": "GRUPA C531",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Zmiana sali w poniedziałek parzysty godz. 12:00 I 13:45. Nowa sala na zajęcia z dr M. Smolską – s. SIL 314"
+   }
+  ],
+  "zmiany": {
+   "C531": [
+    {
+     "type": "cancel",
+     "date": "2026-10-09",
+     "start": "13:45",
+     "pl": "Zarządzanie procesami logistycznymi",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-19",
+     "start": "13:45",
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-29",
+     "start": "8:15",
+     "pl": "Informatyka w logistyce",
+     "g": "A",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-29",
+     "start": "10:00",
+     "pl": "Informatyka w logistyce",
+     "g": "B",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-19",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "s. 003",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-12",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "s. 104",
+     "post": 3
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-28",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 126/127",
+     "g": "B",
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-28",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 126/127",
+     "g": "A",
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-28",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 126/127",
+     "g": "B",
+     "post": 2
+    }
+   ],
+   "C532": [
+    {
+     "type": "cancel",
+     "date": "2026-10-09",
+     "start": "13:45",
+     "pl": "Zarządzanie procesami logistycznymi",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-19",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "s. 003",
+     "post": 0,
+     "dup": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:34.643Z"
+ }
+}

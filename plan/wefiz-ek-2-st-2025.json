@@ -1,0 +1,408 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Ekonomia",
+ "id": "wefiz-ek-2-st-2025",
+ "kod": "ekm25",
+ "kierunekEn": "Ekonomia",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:20:07.692Z",
+ "checkedAt": "2026-11-08T20:20:07.692Z",
+ "groups": {
+  "M610": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Finanse i rozliczenia międzynarodowe",
+     "k": "W",
+     "h": 30,
+     "p": "dr Ewa Bilewicz",
+     "r": "s. N203 MBA"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język niemiecki (lk )(30)",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ s.107"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wycena przedsiębiorstw",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita",
+     "r": "s. N206"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski (lk)(30)",
+     "k": "X",
+     "p": "mgr Magdalena Cypryjańska",
+     "r": "s. S0201"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Współczesne nurty w ekonomii",
+     "k": "W",
+     "h": 15,
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "s. N206"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wspomaganie decyzji menedżerskich (w)us-dm)(15)",
+     "k": "X",
+     "p": "dr Edyta Mioduchowska-Jaroszewicz",
+     "r": "s. S0203"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Gry biznesowe (lb)us-dm)(30)",
+     "k": "X",
+     "p": "dr Marcin Pawlak",
+     "r": "s. S0315 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Ekonometria i prognozowanie procesów ekonomicznych",
+     "k": "LAB",
+     "h": 15,
+     "p": "mgr Mateusz Mostowski",
+     "r": "s. N08d (lab)"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "h": 30,
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "h": 30,
+     "p": "prof. dr hab. Małgorzata  Porada-Rochoń",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "h": 30,
+     "p": "dr hab. prof. US Barbara Kryk",
+     "r": "gabinet"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Współpraca podmiotów rynkowych (w)us-dm)(15)",
+     "k": "X",
+     "p": "dr Beata Skubiak",
+     "r": "s. S01"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych lub społecznych",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału."
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Finanse i rozliczenia międzynarodowe",
+     "k": "W",
+     "h": 30,
+     "p": "dr Ewa Bilewicz",
+     "r": "s. N203 MBA"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Ekonometria i prognozowanie procesów ekonomicznych",
+     "k": "W",
+     "h": 15,
+     "p": "dr Barbara Batóg",
+     "r": "s. S03"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język niemiecki (lk )(30)",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ s.107"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wycena przedsiębiorstw",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita",
+     "r": "s. N206"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski (lk)(30)",
+     "k": "X",
+     "p": "mgr Magdalena Cypryjańska",
+     "r": "s. S0201"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Wycena przedsiębiorstw",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Aurelia Bajerska-Osman",
+     "r": "s. N020"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wspomaganie decyzji menedżerskich (lb)us-dm)(15)",
+     "k": "X",
+     "p": "dr Edyta Mioduchowska-Jaroszewicz",
+     "r": "s. N08d (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Gry biznesowe (lb)us-dm)(30)",
+     "k": "X",
+     "p": "dr Marcin Pawlak",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Współpraca podmiotów rynkowych (ćw)us-dm)(15)",
+     "k": "X",
+     "p": "dr Beata Skubiak",
+     "r": "s. N104"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "h": 30,
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "h": 30,
+     "p": "prof. dr hab. Małgorzata  Porada-Rochoń",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "h": 30,
+     "p": "dr hab. prof. US Barbara Kryk",
+     "r": "gabinet"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych lub społecznych",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału."
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [],
+  "zmiany": {
+   "M610": []
+  },
+  "updatedAt": "2026-11-08T20:37:43.128Z"
+ }
+}

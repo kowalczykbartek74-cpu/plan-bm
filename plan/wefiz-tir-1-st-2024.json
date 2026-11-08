@@ -1,0 +1,894 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Turystyka i Rekreacja",
+ "id": "wefiz-tir-1-st-2024",
+ "kod": "tir24",
+ "kierunekEn": "Turystyka i Rekreacja",
+ "wydzial": "WEFiZ",
+ "rok": 3,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:24:20.094Z",
+ "checkedAt": "2026-11-08T20:24:20.094Z",
+ "groups": {
+  "M330": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Interpretacja dziedzictwa kulturowego na potrzeby turystyki (k) 15h atś",
+     "k": "X",
+     "p": "dr Tomasz Duda",
+     "r": "s. P-7 Przybudowka"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0102"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr M. Troczyńska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Gastronomia w turystyce",
+     "k": "CW",
+     "h": 15,
+     "p": "mgr Apoloniusz Kurylczyk",
+     "r": "s. N21"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język niemiecki w turystyce (lk) 45h jobwt",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. 209 ACKJ u. Wawrzyniak 15"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Metody i techniki obsługi grup turystycznych (k) 15h otip",
+     "k": "X",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr hab. prof. US Agnieszka Budziewicz-Guźlecka",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr hab. prof. US Beata Meyer",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "prof. dr hab. Grażyna Rosa",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr Agnieszka Sawińska",
+     "r": "gabinet"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język niemiecki w turystyce (lk) 45h jobwt",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. 209 ACKJ u. Wawrzyniak 15"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Turystyka na obszarach chronionych (k) 15h wtf",
+     "k": "X",
+     "p": "dr Barbara Osóch",
+     "r": "s. S0200"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Enoturystyka (k) 15h wtf",
+     "k": "X",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S019"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr Barbara Osóch",
+     "r": "s. N104"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Metodyka aktywności fizycznej",
+     "k": "W",
+     "h": 15,
+     "p": "dr Iwona Bonisławska",
+     "r": "s. S019",
+     "dates": [
+      "2026-10-08",
+      "2026-10-21",
+      "2026-12-10",
+      "2027-01-22"
+     ],
+     "n": "Tylko: 8.10, 21.10, 10.12, 22.01",
+     "x": ", ,"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Eventy na świecie (k) 15h atś",
+     "k": "X",
+     "p": "dr Jacek Rudewicz",
+     "r": "s. S07"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Metodyka aktywności fizycznej",
+     "k": "W",
+     "h": 15,
+     "p": "dr Iwona Bonisławska",
+     "r": "s. S019",
+     "dates": [
+      "2026-10-08",
+      "2026-10-21",
+      "2026-12-10",
+      "2027-01-22"
+     ],
+     "n": "Tylko: 8.10, 21.10, 10.12, 22.01",
+     "x": ", ,"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Komunikacja interpersonalna w obsłudze grup turystycznych (k) 15h otip",
+     "k": "X",
+     "p": "prof. dr hab. Grażyna Rosa",
+     "r": "s. S0103"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0102"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr M. Troczyńska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Współpraca i konkurencja w turystyce (k) 15h mt",
+     "k": "X",
+     "p": "dr hab. prof. US Małgorzata Brojak-Trzaskowska",
+     "r": "s. S07"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Planowanie marketingowe w turystyce i rekreacji (k) 15h mt",
+     "k": "X",
+     "p": "dr Izabela Ostrowska",
+     "r": "s. S0200"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język niemiecki w turystyce (lk) 45h jobwt",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. 209 ACKJ u. Wawrzyniak 15"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Informacja turystyczna",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Anna Czaplińska",
+     "r": "s. S06"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr hab. prof. US Agnieszka Budziewicz-Guźlecka",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr hab. prof. US Beata Meyer",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "prof. dr hab. Grażyna Rosa",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr Agnieszka Sawińska",
+     "r": "gabinet"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język niemiecki w turystyce (lk) 45h jobwt",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. 209 ACKJ u. Wawrzyniak 15"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Formy turystyki wodnej (k) 15h wtf",
+     "k": "X",
+     "p": "dr Barbara Osóch",
+     "r": "s. S0104"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Menedżer produktu turystycznego (k) 15h mt",
+     "k": "X",
+     "p": "dr Anna Gardzińska",
+     "r": "s. S0104"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Tematyczne szlaki turystyczne na świecie (k) atś",
+     "k": "X",
+     "p": "dr hab. prof. US Małgorzata Brojak-Trzaskowska",
+     "r": "s. S06"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Metodyka aktywności fizycznej",
+     "k": "W",
+     "h": 15,
+     "p": "dr Iwona Bonisławska",
+     "r": "s. S019",
+     "dates": [
+      "2026-10-08",
+      "2026-10-21",
+      "2026-12-10",
+      "2027-01-22"
+     ],
+     "n": "Tylko: 8.10, 21.10, 10.12, 22.01",
+     "x": ", ,"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Metodyka pracy rezydenta turystycznego (k) 15h otip",
+     "k": "X",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0103"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr Barbara Osóch",
+     "r": "s. N104"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Metodyka aktywności fizycznej",
+     "k": "W",
+     "h": 15,
+     "p": "dr Iwona Bonisławska",
+     "r": "s. S019",
+     "dates": [
+      "2026-10-08",
+      "2026-10-21",
+      "2026-12-10",
+      "2027-01-22"
+     ],
+     "n": "Tylko: 8.10, 21.10, 10.12, 22.01",
+     "x": ", ,"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  },
+  "M331": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Gastronomia w turystyce",
+     "k": "CW",
+     "h": 15,
+     "p": "mgr Apoloniusz Kurylczyk",
+     "r": "s. N21"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0102"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr M. Troczyńska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Enoturystyka (k) 15h wtf",
+     "k": "X",
+     "p": "dr Tomasz Duda",
+     "r": "s. P-7 Przybudowka"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język niemiecki w turystyce (lk) 45h jobwt",
+     "k": "X",
+     "p": "mgr Joanna Paśnicka-Stopa",
+     "r": "s. 9 ACKJ ul. Wawrzyniak 15"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Turystyka na obszarach chronionych (k) 15h wtf",
+     "k": "X",
+     "p": "dr Barbara Osóch",
+     "r": "s. P-7 Przybudowka"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr hab. prof. US Agnieszka Budziewicz-Guźlecka",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr hab. prof. US Beata Meyer",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "prof. dr hab. Grażyna Rosa",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr Agnieszka Sawińska",
+     "r": "gabinet"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język niemiecki w turystyce (lk) 45h jobwt",
+     "k": "X",
+     "p": "mgr Joanna Paśnicka-Stopa",
+     "r": "s. 9 ACKJ ul. Wawrzyniak 15"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Eventy na świecie (k) 15h atś",
+     "k": "X",
+     "p": "dr Jacek Rudewicz",
+     "r": "s. P-7 Przybudowka"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr Barbara Osóch",
+     "r": "s. N104"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Metodyka aktywności fizycznej",
+     "k": "W",
+     "h": 15,
+     "p": "dr Iwona Bonisławska",
+     "r": "s. S019",
+     "dates": [
+      "2026-10-08",
+      "2026-10-21",
+      "2026-12-10",
+      "2027-01-22"
+     ],
+     "n": "Tylko: 8.10, 21.10, 10.12, 22.01",
+     "x": ", ,"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Metody i techniki obsługi grup turystycznych (k) 15h otip",
+     "k": "X",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S019"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Metodyka aktywności fizycznej",
+     "k": "W",
+     "h": 15,
+     "p": "dr Iwona Bonisławska",
+     "r": "s. S019",
+     "dates": [
+      "2026-10-08",
+      "2026-10-21",
+      "2026-12-10",
+      "2027-01-22"
+     ],
+     "n": "Tylko: 8.10, 21.10, 10.12, 22.01",
+     "x": ", ,"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Planowanie marketingowe w turystyce i rekreacji (k) 15h mt",
+     "k": "X",
+     "p": "dr Izabela Ostrowska",
+     "r": "s. S0200"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Menedżer produktu turystycznego (k) 15h mt",
+     "k": "X",
+     "p": "dr Anna Gardzińska",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0102"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr M. Troczyńska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Informacja turystyczna",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Anna Czaplińska",
+     "r": "s. S06"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Komunikacja interpersonalna w obsłudze grup turystycznych (k) 15h otip",
+     "k": "X",
+     "p": "prof. dr hab. Grażyna Rosa",
+     "r": "s. S0103"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język niemiecki w turystyce (lk) 45h jobwt",
+     "k": "X",
+     "p": "mgr Joanna Paśnicka-Stopa",
+     "r": "s. 9 ACKJ ul. Wawrzyniak 15"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Formy turystyki wodnej (k) 15h wtf",
+     "k": "X",
+     "p": "dr Barbara Osóch",
+     "r": "s. S0104"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Współpraca i konkurencja w turystyce (k) 15h mt",
+     "k": "X",
+     "p": "dr hab. prof. US Małgorzata Brojak-Trzaskowska",
+     "r": "s. S07"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr hab. prof. US Agnieszka Budziewicz-Guźlecka",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr hab. prof. US Beata Meyer",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "prof. dr hab. Grażyna Rosa",
+     "r": "gabinet"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr Agnieszka Sawińska",
+     "r": "gabinet"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język niemiecki w turystyce (lk) 45h jobwt",
+     "k": "X",
+     "p": "mgr Joanna Paśnicka-Stopa",
+     "r": "s. 9 ACKJ ul. Wawrzyniak 15"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Tematyczne szlaki turystyczne na świecie (k) atś",
+     "k": "X",
+     "p": "dr hab. prof. US Małgorzata Brojak-Trzaskowska",
+     "r": "s. S06"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Metodyka pracy rezydenta turystycznego (k) 15h otip",
+     "k": "X",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0103"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Interpretacja dziedzictwa kulturowego na potrzeby turystyki (k) 15h atś",
+     "k": "X",
+     "p": "dr Tomasz Duda",
+     "r": "s. S07"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Metodyka aktywności fizycznej",
+     "k": "W",
+     "h": 15,
+     "p": "dr Iwona Bonisławska",
+     "r": "s. S019",
+     "dates": [
+      "2026-10-08",
+      "2026-10-21",
+      "2026-12-10",
+      "2027-01-22"
+     ],
+     "n": "Tylko: 8.10, 21.10, 10.12, 22.01",
+     "x": ", ,"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Seminarium dyplomowe 30h",
+     "k": "X",
+     "p": "dr Barbara Osóch",
+     "r": "s. N104"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Metodyka aktywności fizycznej",
+     "k": "W",
+     "h": 15,
+     "p": "dr Iwona Bonisławska",
+     "r": "s. S019",
+     "dates": [
+      "2026-10-08",
+      "2026-10-21",
+      "2026-12-10",
+      "2027-01-22"
+     ],
+     "n": "Tylko: 8.10, 21.10, 10.12, 22.01",
+     "x": ", ,"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [],
+  "zmiany": {
+   "M330": [],
+   "M331": []
+  },
+  "updatedAt": "2026-11-08T20:38:44.336Z"
+ }
+}

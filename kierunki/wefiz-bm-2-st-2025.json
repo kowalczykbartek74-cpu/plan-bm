@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-bm-2-st-2025",
+  "kod": "bmm25",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "BM",
+    "pl": "Business Management",
+    "en": "Business Management"
+  },
+  "stopien": 2,
+  "tryb": "st",
+  "nabor": 2025,
+  "rok": 2,
+  "system": {
+    "nazwa": "Business Management (BM)",
+    "rok": "2 rokII"
+  },
+  "grupy": [
+    "C611"
+  ],
+  "plik": "plan/wefiz-bm-2-st-2025.json",
+  "odwolania": [
+    "dos"
+  ]
+}

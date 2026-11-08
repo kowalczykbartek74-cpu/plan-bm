@@ -1,0 +1,535 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Turystyka i Rekreacja",
+ "id": "wefiz-tir-1-st-2025",
+ "kod": "tir25",
+ "kierunekEn": "Turystyka i Rekreacja",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:24:25.661Z",
+ "checkedAt": "2026-11-08T20:24:25.661Z",
+ "groups": {
+  "M230": {
+   "odd": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0102"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr M. Troczyńska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Przygotowanie i transmisja wydarzeń w internecie",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "dr Piotr Ładny",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "E-technologie w turystyce i rekreacji",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr Rafał Szymański",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Gis w turystyce",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "mgr Sara Bręcz-Kupiec",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Metody ilościowe w turystyce i rekreacji",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Rafał Klóska",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Hotelarstwo",
+     "k": "W",
+     "h": 15,
+     "p": "dr Anna Gardzińska",
+     "r": "s. S06"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Funkcjonowanie podmiotów turystycznych i rekreacyjnych",
+     "k": "CW",
+     "h": 15,
+     "p": "dr hab. prof. US Małgorzata Brojak-Trzaskowska",
+     "r": "s. S06"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "E-technologie w turystyce i rekreacji",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr Rafał Szymański",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Gis w turystyce",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "mgr Sara Bręcz-Kupiec",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Metody ilościowe w turystyce i rekreacji",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "dr hab. prof. US Rafał Klóska",
+     "r": "s. N101/102 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Hotelarstwo",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Anna Gardzińska",
+     "r": "s. N126"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zagospodarowanie turystyczne i rekreacyjne)",
+     "k": "CW",
+     "h": 15,
+     "p": "mgr Maria Adamczyk",
+     "r": "s. S019"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki 30h",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. 107 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71/79",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Polityka społeczno-gospodarcza",
+     "k": "W",
+     "h": 15,
+     "p": "prof. dr hab. Juliusz Engelhardt",
+     "r": "s. S0201"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0102"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr M. Troczyńska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Przygotowanie i transmisja wydarzeń w internecie",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "dr Piotr Ładny",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "E-technologie w turystyce i rekreacji",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr Rafał Szymański",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Gis w turystyce",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "mgr Sara Bręcz-Kupiec",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Polityka społeczno-gospodarcza",
+     "k": "CW",
+     "h": 15,
+     "p": "prof. dr hab. Juliusz Engelhardt",
+     "r": "s. S0201"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Zagospodarowanie turystyczne i rekreacyjne)",
+     "k": "W",
+     "h": 15,
+     "p": "dr Anna Gardzińska",
+     "r": "s. S06"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Funkcjonowanie podmiotów turystycznych i rekreacyjnych",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Małgorzata Brojak-Trzaskowska",
+     "r": "s. P-7 Przybudowka"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "E-technologie w turystyce i rekreacji",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr Rafał Szymański",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Gis w turystyce",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "mgr Sara Bręcz-Kupiec",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Metody ilościowe w turystyce i rekreacji",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "dr hab. prof. US Rafał Klóska",
+     "r": "s. N021B (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Hotelarstwo",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Anna Gardzińska",
+     "r": "s. S06"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki 30h",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. 107 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m230-odwolanie-zajec-z-dr-anna-gardzinska-w-dniu-27-10-2026-r/",
+    "title": "M230- odwołanie zajęć z dr Anną Gardzińską w dniu 27.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-22",
+    "text": "Ćwiczenia z hotelarstwa mające się odbyć w dniu 27 października (wtorek) o godz. 12.00 zostają przełożone na dzień 20 października (wtorek) na godz. 13.45 – 15.15, sala N126 Wykład z Zagospodarowania Turystycznego i Rekreacyjnego mający się odbyć w dniu 27 października (wtorek) o godz. 10.00 zostają przełożony na dzień 17 listopada (wtorek) na godz. 13.45 – 15.15, sala N126"
+   }
+  ],
+  "zmiany": {
+   "M230": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-20",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "N126",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-27",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-27",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-17",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "N126",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:44.660Z"
+ }
+}

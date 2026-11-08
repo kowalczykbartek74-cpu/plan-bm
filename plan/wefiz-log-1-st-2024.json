@@ -1,0 +1,770 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Logistyka",
+ "id": "wefiz-log-1-st-2024",
+ "kod": "log24",
+ "kierunekEn": "Logistyka",
+ "wydzial": "WEFiZ",
+ "rok": 3,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:22:57.701Z",
+ "checkedAt": "2026-11-08T20:22:57.701Z",
+ "groups": {
+  "C331": {
+   "odd": [
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Industrial and organizational psychology",
+     "k": "K",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. 104"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Cybersecurit in logistics management",
+     "k": "K",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Język hiszpański moduł ii gr. a ul. wawrzyniaka 15, s.210 mgr agnnieszka jakóbiak",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Wojciech Drożdż",
+     "r": "gab. SIL 216"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Marzena Frankowska",
+     "r": "gab. SIL 256"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Tomasz Kwarciński",
+     "r": "gab. 326"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Michał Pluciński",
+     "r": "gab. 306"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Tokarz-Kocik",
+     "r": "s. 047"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Język angielski gr. a ul. wawrzyniaka 15, s. 9 mgr m.troczyńska",
+     "k": "X",
+     "p": "JĘZYK ANGIELSKI gr. C ul. Wawrzyniaka 15,",
+     "r": "s. 108 mgr P. Krywult JĘZYK NIEMIECKI gr. 3 moduł II ul. Wawrzyniaka 15, s. 6 mgr M. Kisiel-Spychała"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. prof. US Michał Pluciński",
+     "r": "s. 041"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Tokarz-Kocik",
+     "r": "s. 104"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Język angielski gr. d ul. wawrzyniaka 15, s. 108 mgr p. krywult",
+     "k": "X",
+     "x": "JĘZYK HISZPAŃSKI gr C moduł II ul. Wawrzyniaka 15, s.210 mgr Agnieszka Jakóbiak"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. prof. US Michał Pluciński",
+     "r": "s. 041"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 041"
+    },
+    {
+     "d": 2,
+     "s": 5,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Sylwia Kowalska",
+     "r": "sala SIL 124/125",
+     "dates": [
+      "2026-12-16"
+     ],
+     "n": "Jednorazowo: 16.12.2026"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. prof. US Blanka Tundys",
+     "r": "s. 104"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Język hiszpański moduł ii gr. a ul. wawrzyniaka 15, s.210 mgr agnnieszka jakóbiak",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 034"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Wojciech Drożdż",
+     "r": "gab. SIL 216"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Marzena Frankowska",
+     "r": "gab. SIL 256"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Tomasz Kwarciński",
+     "r": "gab. 326"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Michał Pluciński",
+     "r": "gab. 306"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Język angielski gr. a ul. wawrzyniaka 15, s. 9 mgr m.troczyńska",
+     "k": "X",
+     "p": "JĘZYK ANGIELSKI gr. C ul. Wawrzyniaka 15,",
+     "r": "s. 108 mgr P. Krywult JĘZYK NIEMIECKI gr. 3 moduł II ul. Wawrzyniaka 15, s. 6 mgr M. Kisiel-Spychała"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. prof. US Michał Pluciński",
+     "r": "s. 041"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "W",
+     "p": "dr hab. prof. US Marta Mańkowska",
+     "r": "s. 034"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Język angielski gr. d ul. wawrzyniaka 15, s. 108 mgr p. krywult",
+     "k": "X",
+     "x": "JĘZYK HISZPAŃSKI gr C moduł II ul. Wawrzyniaka 15, s.210 mgr Agnieszka Jakóbiak"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. prof. US Michał Pluciński",
+     "r": "s. 041"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. prof. US Marta Mańkowska",
+     "r": "s. 034"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 003"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  },
+  "C332": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 033"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Industrial and organizational psychology",
+     "k": "K",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. 104"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Cybersecurit in logistics management",
+     "k": "K",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Język hiszpański moduł ii gr. a ul. wawrzyniaka 15, s.210 mgr agnnieszka jakóbiak",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Wojciech Drożdż",
+     "r": "gab. SIL 216"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Marzena Frankowska",
+     "r": "gab. SIL 256"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Tomasz Kwarciński",
+     "r": "gab. 326"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Michał Pluciński",
+     "r": "gab. 306"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Neuronauka poznawcza w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. SIL 203 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Język angielski gr. a ul. wawrzyniaka 15, s. 9 mgr m.troczyńska",
+     "k": "X",
+     "p": "JĘZYK ANGIELSKI gr. C ul. Wawrzyniaka 15,",
+     "r": "s. 108 mgr P. Krywult JĘZYK NIEMIECKI gr. 3 moduł II ul. Wawrzyniaka 15, s. 6 mgr M. Kisiel-Spychała"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Inteligentne magazyny",
+     "k": "W",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. 112"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 042"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Tokarz-Kocik",
+     "r": "s. 104"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Język angielski gr. d ul. wawrzyniaka 15, s. 108 mgr p. krywult",
+     "k": "X",
+     "x": "JĘZYK HISZPAŃSKI gr C moduł II ul. Wawrzyniaka 15, s.210 mgr Agnieszka Jakóbiak"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Inteligentne magazyny",
+     "k": "LAB",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Tokarz-Kocik",
+     "r": "s. 112"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. prof. US Blanka Tundys",
+     "r": "s. 104"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Język hiszpański moduł ii gr. a ul. wawrzyniaka 15, s.210 mgr agnnieszka jakóbiak",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Inteligentna fabryka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Wojciech Drożdż",
+     "r": "gab. SIL 216"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Marzena Frankowska",
+     "r": "gab. SIL 256"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Tomasz Kwarciński",
+     "r": "gab. 326"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Michał Pluciński",
+     "r": "gab. 306"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Neuronauka poznawcza w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. SIL 203 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Język angielski gr. a ul. wawrzyniaka 15, s. 9 mgr m.troczyńska",
+     "k": "X",
+     "p": "JĘZYK ANGIELSKI gr. C ul. Wawrzyniaka 15,",
+     "r": "s. 108 mgr P. Krywult JĘZYK NIEMIECKI gr. 3 moduł II ul. Wawrzyniaka 15, s. 6 mgr M. Kisiel-Spychała"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Inteligentna fabryka",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Inteligentna fabryka",
+     "k": "W",
+     "p": "dr hab. prof. US Marzena Frankowska",
+     "r": "s. 034"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Język angielski gr. d ul. wawrzyniaka 15, s. 108 mgr p. krywult",
+     "k": "X",
+     "x": "JĘZYK HISZPAŃSKI gr C moduł II ul. Wawrzyniaka 15, s.210 mgr Agnieszka Jakóbiak"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Inteligentne magazyny",
+     "k": "LAB",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 003"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c331-19/",
+    "title": "GRUPA C331",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Dnia 28.10.2026 zostają odwołane zajęcia z dr Sylwią Kowalską. Termin odrobienia zajęć: 16.12.2026 o godz. 17:15, sala 124/125 SIL."
+   }
+  ],
+  "zmiany": {
+   "C331": [
+    {
+     "type": "cancel",
+     "date": "2026-10-28",
+     "start": "10:00",
+     "pl": "Systemy informatyczne w transporcie ładunków",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-16",
+     "start": "17:15",
+     "end": "18:45",
+     "pl": "Systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. 124/125 SIL",
+     "post": 0,
+     "dup": true
+    }
+   ],
+   "C332": []
+  },
+  "updatedAt": "2026-11-08T20:38:22.602Z"
+ }
+}

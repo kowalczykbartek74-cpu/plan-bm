@@ -1,0 +1,31 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-log-2-st-2026",
+  "kod": "logm26",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "LOG",
+    "pl": "Logistyka",
+    "en": "Logistics"
+  },
+  "stopien": 2,
+  "tryb": "st",
+  "nabor": 2026,
+  "rok": 1,
+  "system": {
+    "nazwa": "Logistyka (L)",
+    "rok": "1 rokII"
+  },
+  "grupy": [
+    "C531",
+    "C532"
+  ],
+  "plik": "plan/wefiz-log-2-st-2026.json",
+  "odwolania": [
+    "dos"
+  ]
+}

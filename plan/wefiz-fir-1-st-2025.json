@@ -1,0 +1,1222 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Finanse i Rachunkowość",
+ "id": "wefiz-fir-1-st-2025",
+ "kod": "fir25",
+ "kierunekEn": "Finanse i Rachunkowość",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:20:31.653Z",
+ "checkedAt": "2026-11-08T20:20:31.653Z",
+ "groups": {
+  "M220": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Rachunek kosztów (w )(30)",
+     "k": "X",
+     "p": "dr Urszula Wawer",
+     "r": "s. S017"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N08d (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0101 (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Ubezpieczenia (ćw )(15)",
+     "k": "X",
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. N020"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Finanse publiczne (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. S0203"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0101 (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Systemy finansowo-księgowe",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0315 (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Ubezpieczenia",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. N08d (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Ubezpieczenia (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.3",
+     "k": "X",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0204"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki (lk )(30)",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ s.107"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul.Krakowska 71/79",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Systemy finansowo-księgowe",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0315 (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Ubezpieczenia",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Rachunek kosztów (ćw )(30)",
+     "k": "X",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0105"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Finanse publiczne (ćw )(15)",
+     "k": "X",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0105"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Rachunek kosztów (w )(30)",
+     "k": "X",
+     "p": "dr Urszula Wawer",
+     "r": "s. S017"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N08d (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0101 (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Rozliczenia publicznoprawne przedsiębiorstw",
+     "k": "CW",
+     "h": 15,
+     "p": "mgr Elżbieta Jędruczyk",
+     "r": "s. N020",
+     "tag": "US-RiSF"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Statystyka (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N126"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0101 (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Systemy finansowo-księgowe",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0315 (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Kadry i płace",
+     "k": "LAB",
+     "h": 15,
+     "p": "mgr Elżbieta Jędruczyk",
+     "r": "s. N08d (lab)",
+     "tag": "gr. B US-RiSF"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Ewidencje podatkowe przedsiębiorstw (w )(15)",
+     "k": "X",
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0106/0107"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.3",
+     "k": "X",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0204"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki (lk )(30)",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ s.107"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Systemy finansowo-księgowe",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0315 (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Kadry i płace",
+     "k": "LAB",
+     "h": 15,
+     "p": "mgr Elżbieta Jędruczyk",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A US-RiSF"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Kadry i płace",
+     "k": "W",
+     "h": 15,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. Aula Nowa",
+     "tag": "US-RiSF"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Rachunek kosztów (ćw )(30)",
+     "k": "X",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0105"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    }
+   ]
+  },
+  "M221": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Rachunek kosztów (w )(30)",
+     "k": "X",
+     "p": "dr Urszula Wawer",
+     "r": "s. S017"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Statystyka (lab )(30)",
+     "k": "X",
+     "p": "dr Piotr Szklarz",
+     "r": "s. N021B (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Finanse publiczne (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. S0203"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Systemy finansowo-księgowe (lab )(30)",
+     "k": "X",
+     "p": "mgr Krystian Socik",
+     "r": "s. S0315 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Rachunek kosztów (ćw )(30)",
+     "k": "X",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. N203 MBA"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Ubezpieczenia (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.3",
+     "k": "X",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0204"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Rozliczenia publicznoprawne przedsiębiorstw",
+     "k": "CW",
+     "h": 15,
+     "p": "mgr Elżbieta Jędruczyk",
+     "r": "s. N203 MBA",
+     "tag": "US-RiSF"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki (lk )(30)",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ s.107"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul.Krakowska 71/79",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Finanse publiczne (ćw )(15)",
+     "k": "X",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S02"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Ewidencje podatkowe przedsiębiorstw (lab )(30)",
+     "k": "X",
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Kadry i płace",
+     "k": "LAB",
+     "h": 15,
+     "p": "mgr Elżbieta Jędruczyk",
+     "r": "s. S0123A (lab)",
+     "tag": "US-RiSF"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Ubezpieczenia (lab )(15)",
+     "k": "X",
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Rachunek kosztów (w )(30)",
+     "k": "X",
+     "p": "dr Urszula Wawer",
+     "r": "s. S017"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Statystyka (lab )(30)",
+     "k": "X",
+     "p": "dr Piotr Szklarz",
+     "r": "s. N021B (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Statystyka (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N126"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Systemy finansowo-księgowe (lab )(30)",
+     "k": "X",
+     "p": "mgr Krystian Socik",
+     "r": "s. S0315 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Rachunek kosztów (ćw )(30)",
+     "k": "X",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. N203 MBA"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Ewidencje podatkowe przedsiębiorstw (w )(15)",
+     "k": "X",
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0106/0107"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.3",
+     "k": "X",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0204"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Ubezpieczenia (ćw )(15)",
+     "k": "X",
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. N203 MBA"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki (lk )(30)",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ s.107"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Kadry i płace",
+     "k": "W",
+     "h": 15,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. Aula Nowa",
+     "tag": "US-RiSF"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Ewidencje podatkowe przedsiębiorstw (lab )(30)",
+     "k": "X",
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    }
+   ]
+  },
+  "M222": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Rachunek kosztów (w )(30)",
+     "k": "X",
+     "p": "dr Urszula Wawer",
+     "r": "s. S017"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Systemy finansowo-księgowe",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0101 (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Finanse publiczne (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. S0203"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Finanse sektora msp gr 222",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Magdalena Brojakowska-Trząska",
+     "r": "s. S0105",
+     "tag": "US-FPiP"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr Piotr Szklarz",
+     "r": "s. N021B (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr Monika Rozkrut",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. N08d (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Systemy finansowo-księgowe",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0101 (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Ubezpieczenia (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.3",
+     "k": "X",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0204"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Ubezpieczenia (ćw )(15)",
+     "k": "X",
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. S0105"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki (lk )(30)",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ s.107"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul.Krakowska 71/79",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Rachunek kosztów (ćw )(30)",
+     "k": "X",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S01"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Ubezpieczenia",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Rachunek kosztów (w )(30)",
+     "k": "X",
+     "p": "dr Urszula Wawer",
+     "r": "s. S017"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Finanse publiczne (ćw )(15)",
+     "k": "X",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S02"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Systemy finansowo-księgowe",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0101 (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Statystyka (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N126"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Finanse sektora msp gr 222",
+     "k": "W",
+     "h": 15,
+     "p": "dr Magdalena Brojakowska-Trząska",
+     "r": "s. S0105",
+     "tag": "US-FPiP"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr Piotr Szklarz",
+     "r": "s. N021B (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr Monika Rozkrut",
+     "r": "s. N08d (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. N08d (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Systemy finansowo-księgowe",
+     "k": "LAB",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0101 (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Ewidencje podatkowe przedsiębiorstw (w )(15)",
+     "k": "X",
+     "p": "dr inż. Anna Zbaraszewska",
+     "r": "s. S0106/0107"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Język angielski (lk )(30) gr.3",
+     "k": "X",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0204"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Ordynacja podatkowa i księgi podatkowe gr 222",
+     "k": "W",
+     "h": 15,
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska",
+     "r": "s. S0203",
+     "tag": "US-FPiP"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki (lk )(30)",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ s.107"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Rachunek kosztów (ćw )(30)",
+     "k": "X",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S01"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Ubezpieczenia",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. N08d (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [],
+  "zmiany": {
+   "M220": [],
+   "M221": [],
+   "M222": []
+  },
+  "updatedAt": "2026-11-08T20:37:43.132Z"
+ }
+}

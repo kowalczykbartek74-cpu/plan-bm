@@ -1,0 +1,515 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Zarządzanie",
+ "id": "wefiz-zarz-2-st-2025",
+ "kod": "zarzm25",
+ "kierunekEn": "Zarządzanie",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:24:40.098Z",
+ "checkedAt": "2026-11-08T20:24:40.098Z",
+ "groups": {
+  "C651": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Język niemiecki ul. krakowska, s. 144 mgr joanna paśnicka-stopa",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Zarządzanie relacjami w biznesie (ćw) moduł zb",
+     "k": "X",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Nowoczesne koncepcje i metody zarządzania (ćw) moduł zb",
+     "k": "X",
+     "p": "dr hab. prof. US Krzysztof Janasz",
+     "r": "s. 033"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Język angielski gr. 1 ul. cukrowa 8, s. sil 316 mgr natalia ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Strategie rozwoju przedsiębiorstw (ćw) moduł zb",
+     "k": "X",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 707"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Augustyna Burlita",
+     "r": "gab. 706"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Krzysztof Janasz",
+     "r": "s. sem. 524"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Anna Pluta",
+     "r": "gab. SIL 248"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Patrycja Zwiech",
+     "r": "gab. 604"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 033"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Współczesne teorie firmy (ćw) moduł bhrbpz",
+     "k": "X",
+     "p": "dr Karolina Drela",
+     "r": "s. 042"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Zarządzanie marką (ćw) moduł zb",
+     "k": "X",
+     "p": "dr Marcin Janowski",
+     "r": "s. 046"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr hab. prof. US K. Janasz",
+     "r": "sala 046",
+     "dates": [
+      "2026-11-04"
+     ],
+     "n": "Jednorazowo: 4.11.2026"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 607 sala 003 dr Karolina Drela",
+     "dates": [
+      "2027-01-18",
+      "2027-02-01"
+     ],
+     "n": "Tylko: 18.01, 1.02"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Język niemiecki ul. krakowska, s. 144 mgr joanna paśnicka-stopa",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "dates": [
+      "2027-01-26"
+     ],
+     "n": "Jednorazowo: 26.01.2027",
+     "x": "MS Teams dr Karolina Drela"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 033"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "W",
+     "p": "dr Piotr Szklarz",
+     "r": "s. 307"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Język angielski gr. 1 ul. cukrowa 8, s.sil 316 mgr natalia ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Zarządzanie stresem (ćw) moduł bhrbpz",
+     "k": "X",
+     "p": "dr Karolina Drela",
+     "r": "s. 047"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Augustyna Burlita",
+     "r": "on-line/gab. 706",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Krzysztof Janasz",
+     "r": "on-line/gab. 524",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Anna Pluta",
+     "r": "on-line/gab. SIL 248",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Patrycja Zwiech",
+     "r": "on-line/gab. 604",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 033"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Piotr Szklarz",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Coaching i mentoring (ćw) moduł bhrbpz",
+     "k": "X",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 707"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Współczesne teorie firmy (w e-learning) moduł bhrbpz",
+     "k": "X",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams Z II 2 rok"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c651-45/",
+    "title": "GRUPA C651",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Dnia 04.11.2026 o godz. 13:45 w Sali 046 odbędzie się odrabianie zajęć dr hab. prof. US Krzysztofem Janaszem"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c651-44/",
+    "title": "GRUPA C651",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Marcinem Janowskim. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c651-43/",
+    "title": "GRUPA C651",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 12, 13 i 19 października 2027 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: Zarządzanie stresem (ćw): 18.01.2027 godz. 15:30 sala 607 Współczesne teorie firmy (w e-learning): 26.01.2027 godz. 8:15 MS Teams Współczesne teorie firmy (ćw): 01.02.2027 godz. 15:30 sala 003"
+   }
+  ],
+  "zmiany": {
+   "C651": [
+    {
+     "type": "note",
+     "date": "2026-10-19",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-04",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "s. 046",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-18",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Karolina Drela",
+     "r": "s. 607",
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-26",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "post": 2,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-02-01",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Karolina Drela",
+     "r": "s. 003",
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2027-10-19",
+     "post": 2
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:39:07.862Z"
+ }
+}

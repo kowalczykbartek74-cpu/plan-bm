@@ -1,0 +1,352 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Finanse i Rachunkowość",
+ "id": "wefiz-fir-2-st-2026",
+ "kod": "firm26",
+ "kierunekEn": "Finanse i Rachunkowość",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:20:40.509Z",
+ "checkedAt": "2026-11-08T20:20:40.509Z",
+ "groups": {
+  "M520": {
+   "odd": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Rachunkowość zarządcza (w )(30)",
+     "k": "X",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. S0106/0107"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Finanse behawioralne (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. N203 MBA"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Portfel inwestycyjny (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N126"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Teoria i zasady rachunkowości (ćw )(30)",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. N104"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Portfel inwestycyjny",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0315 (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Polityka pieniężna (ćw )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. N020"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Rachunkowość zarządcza (ćw )(30)",
+     "k": "X",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Finanse behawioralne",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0315 (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zarządzanie finansami publicznymi",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Izabela Nawrolska",
+     "r": "s. N021B (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Strategie podatkowe (ćw )(15)",
+     "k": "X",
+     "p": "dr Paweł Witkowski",
+     "r": "s. N206"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Finanse behawioralne",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0315 (lab)",
+     "tag": "gr. B "
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Zarządzanie finansami publicznymi",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Izabela Nawrolska",
+     "r": "s. N021B (lab)",
+     "tag": "gr. A "
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Portfel inwestycyjny",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0315 (lab)",
+     "tag": "gr. B "
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Rachunkowość zarządcza (w )(30)",
+     "k": "X",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. S0106/0107"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Strategie podatkowe e-zajęcia (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Adam Adamczyk",
+     "x": "online"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Teoria i zasady rachunkowości (ćw )(30)",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. N104"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie finansami publicznymi e- zajęcia (w )(15)",
+     "k": "X",
+     "p": "dr Izabela Nawrolska",
+     "x": "online"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Rachunkowość zarządcza (ćw )(30)",
+     "k": "X",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Polityka pieniężna e-zajęcia (w )(15)",
+     "k": "X",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "x": "online"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Teoria i zasady rachunkowości e- zajęcia (w )(15)",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "x": "online"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [],
+  "zmiany": {
+   "M520": []
+  },
+  "updatedAt": "2026-11-08T20:37:43.135Z"
+ }
+}

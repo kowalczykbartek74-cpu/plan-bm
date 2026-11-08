@@ -1,0 +1,422 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Economics and IT Applications",
+ "id": "wefiz-eaia-1-st-2025",
+ "kod": "eaia25",
+ "kierunekEn": "Economics and IT Applications",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:19:54.476Z",
+ "checkedAt": "2026-11-08T20:19:54.476Z",
+ "groups": {
+  "M290": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wprowadzenie do sztucznej inteligencji (introduction to artificial intelligence)",
+     "k": "W",
+     "h": 15,
+     "p": "dr inż. Marcin Gryczka",
+     "r": "s. S0100"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Finanse publiczne (public finance)",
+     "k": "W",
+     "h": 30,
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. S02"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język angielski (lk)(30) gr.1",
+     "k": "X",
+     "p": "mgr Natalia Ongoiba",
+     "r": "ACKJ s.209"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy programowania komputerów (introduction to computer programming)",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr Thomas Naprawski",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Matematyka finansowa i ubezpieczeniowa (financial and insurance mathematics)",
+     "k": "CW",
+     "h": 30,
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. N202 MBA"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Analiza ekonomiczna w przedsiębiorstwie (economic analysis in enterprise)",
+     "k": "W",
+     "h": 15,
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S0123"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Ekonometria (econometrics)",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr hab. prof. US Jacek Batóg",
+     "r": "s. S0101 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Rachunkowość w przedsiębiorstwie (accounting in enterprise)",
+     "k": "W",
+     "h": 15,
+     "p": "dr Magdalena Janowicz",
+     "r": "s. N206"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Analiza ekonomiczna w przedsiębiorstwie (economic analysis in enterprise)",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Piotr Bartoszewski",
+     "r": "s. S02"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Informatyka ekonomiczna (economic informatics)",
+     "k": "W",
+     "h": 15,
+     "p": "dr Olga Pilipczuk",
+     "r": "s. S02"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Matematyka finansowa i ubezpieczeniowa (financial and insurance mathematics)",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. N202 MBA"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Finanse publiczne (public finance)",
+     "k": "W",
+     "h": 30,
+     "p": "dr Natalia Marska-Dzioba",
+     "r": "s. S02"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język angielski (lk)(30) gr.1",
+     "k": "X",
+     "p": "mgr Natalia Ongoiba",
+     "r": "ACKJ s.209"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy programowania komputerów (introduction to computer programming)",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr Thomas Naprawski",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Ekonometria (econometrics)",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Jacek Batóg",
+     "r": "s. N206"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Matematyka finansowa i ubezpieczeniowa (financial and insurance mathematics)",
+     "k": "CW",
+     "h": 30,
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. N202 MBA"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "E-commerce (e-gospodarka)",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Agata Wawrzyniak",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Ekonometria (econometrics)",
+     "k": "CW",
+     "h": 15,
+     "p": "dr hab. prof. US Jacek Batóg",
+     "r": "s. N206"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Rachunkowość w przedsiębiorstwie (accounting in enterprise)",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Magdalena Janowicz",
+     "r": "s. N206"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Podstawy programowania komputerów (introduction to computer programming)",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "s. N202 MBA"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Analiza ekonomiczna w przedsiębiorstwie (economic analysis in enterprise)",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Piotr Bartoszewski",
+     "r": "s. S02"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Informatyka ekonomiczna (economic informatics)",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Olga Pilipczuk",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [],
+  "zmiany": {
+   "M290": []
+  },
+  "updatedAt": "2026-11-08T20:37:42.326Z"
+ }
+}

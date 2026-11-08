@@ -1,0 +1,536 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Logistyka",
+ "id": "wefiz-log-1-st-2025",
+ "kod": "log25",
+ "kierunekEn": "Logistyka",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:23:01.427Z",
+ "checkedAt": "2026-11-08T20:23:01.427Z",
+ "groups": {
+  "C231": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Logistyka dystrybucji",
+     "k": "W",
+     "p": "dr hab. prof. US Marzena Frankowska",
+     "r": "s. 042"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr hab. prof. US Rafał Klóska",
+     "r": "s. 307"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język niemiecki ul. wawrzyniaka 15, s. 107 mgr magdalena kisiel-spychała",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Logistyka miejska",
+     "k": "LAB",
+     "p": "dr Ewa Puzio",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Adam Rudawski",
+     "r": "s. SIL 325"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Nowe media w logistyce",
+     "k": "CW",
+     "p": "dr Adam Rudawski",
+     "r": "s. SIL 325"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Gospodarka magazynowa",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 034"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język angielski ul. wawrzyniaka 15, s. 210 mgr aleksandra meyer",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026",
+     "x": "SZKOLENIE Z OBRONY CYWILNEJ"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 034"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 034"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 034 dr Joanna Drbioazgiewicz",
+     "dates": [
+      "2026-12-16"
+     ],
+     "n": "Jednorazowo: 16.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język niemiecki ul. wawrzyniaka 15, s. 107 mgr m.kisiel- spychała",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Logistyka miejska",
+     "k": "W",
+     "p": "dr hab. prof. US Blanka Tundys",
+     "r": "s. 047"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Marta Sidorkiewicz",
+     "r": "s. 047"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język angielski ul. wawrzyniaka 15, s. 210 mgr mgr aleksandra meyer",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Gospodarka magazynowa",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "s. 047"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "CW",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 307"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 307 dr Joanna Drbioazgiewicz",
+     "dates": [
+      "2026-11-25"
+     ],
+     "n": "Jednorazowo: 25.11.2026"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c231-34/",
+    "title": "GRUPA C231",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 14 i 21.10.2026 zostają odwołane zajęcia z dr Joanną Drobiazgiewicz. Termin odrobienia zajęć: Ćwiczenia: 25.11.2026 godz. 15:30 sala 307 Wykład: 16.12.2026 godz. 15:30 sala 034"
+   }
+  ],
+  "zmiany": {
+   "C231": [
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "13:45",
+     "pl": "Zarządzanie jakością w logistyce",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-25",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 307",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-16",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 034",
+     "post": 0,
+     "dup": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:23.139Z"
+ }
+}

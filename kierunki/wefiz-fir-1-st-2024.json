@@ -1,0 +1,31 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-fir-1-st-2024",
+  "kod": "fir24",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "FIR",
+    "pl": "Finanse i Rachunkowość",
+    "en": "Finance and Accounting"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2024,
+  "rok": 3,
+  "system": {
+    "nazwa": "Finanse i Rachunkowość (FiR)",
+    "rok": "3 rokI"
+  },
+  "grupy": [
+    "M320",
+    "M321"
+  ],
+  "plik": "plan/wefiz-fir-1-st-2024.json",
+  "odwolania": [
+    "dos"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-gn-1-st-2026",
+  "kod": "gn26",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "GN",
+    "pl": "Gospodarka Nieruchomościami",
+    "en": "Real Estate Management"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2026,
+  "rok": 1,
+  "system": {
+    "nazwa": "Gospodarka Nieruchomościami (GN)",
+    "rok": "1 rokI"
+  },
+  "grupy": [
+    "M150",
+    "M151"
+  ],
+  "plik": "plan/wefiz-gn-1-st-2026.json",
+  "odwolania": [
+    "dos"
+  ]
+}

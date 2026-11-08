@@ -1,12 +1,78 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-08T18:54:53.444Z",
+ "at": "2026-11-08T20:24:55.713Z",
  "roczniki": [
+  {
+   "id": "wefiz-af-2-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 31
+  },
+  {
+   "id": "wefiz-af-2-st-2026",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wefiz-biwg-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wefiz-biwg-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 30
+  },
   {
    "id": "wefiz-biwg-1-st-2026",
    "status": "bez zmian uczelni",
    "grupy": 1,
    "zajec": 25
+  },
+  {
+   "id": "wefiz-bm-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 36
+  },
+  {
+   "id": "wefiz-bm-1-st-2025",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 90
+  },
+  {
+   "id": "wefiz-bm-2-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wefiz-bm-2-st-2026",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 30
+  },
+  {
+   "id": "wefiz-ds-2-st-2025",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 74
+  },
+  {
+   "id": "wefiz-ds-2-st-2026",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 23
+  },
+  {
+   "id": "wefiz-eaia-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 29
   },
   {
    "id": "wefiz-eaia-1-st-2026",
@@ -15,10 +81,46 @@
    "zajec": 27
   },
   {
+   "id": "wefiz-ek-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wefiz-ek-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
    "id": "wefiz-ek-1-st-2026",
    "status": "bez zmian uczelni",
    "grupy": 1,
    "zajec": 21
+  },
+  {
+   "id": "wefiz-ek-2-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 27
+  },
+  {
+   "id": "wefiz-ek-2-st-2026",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 17
+  },
+  {
+   "id": "wefiz-fir-1-st-2024",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 68
+  },
+  {
+   "id": "wefiz-fir-1-st-2025",
+   "status": "nowy",
+   "grupy": 3,
+   "zajec": 120
   },
   {
    "id": "wefiz-fir-1-st-2026",
@@ -27,10 +129,52 @@
    "zajec": 92
   },
   {
+   "id": "wefiz-fir-2-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 39
+  },
+  {
+   "id": "wefiz-fir-2-st-2026",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 21
+  },
+  {
+   "id": "wefiz-gn-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 43
+  },
+  {
+   "id": "wefiz-gn-1-st-2025",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 78
+  },
+  {
    "id": "wefiz-gn-1-st-2026",
    "status": "bez zmian uczelni",
    "grupy": 2,
    "zajec": 57
+  },
+  {
+   "id": "wefiz-gpi-1-st-2023",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 17
+  },
+  {
+   "id": "wefiz-gpi-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 25
+  },
+  {
+   "id": "wefiz-gpi-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 30
   },
   {
    "id": "wefiz-gpi-1-st-2026",
@@ -39,10 +183,34 @@
    "zajec": 23
   },
   {
+   "id": "wefiz-iie-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 29
+  },
+  {
+   "id": "wefiz-iie-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 37
+  },
+  {
    "id": "wefiz-iie-1-st-2026",
    "status": "bez zmian uczelni",
    "grupy": 1,
    "zajec": 14
+  },
+  {
+   "id": "wefiz-iwb-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 38
+  },
+  {
+   "id": "wefiz-iwb-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 41
   },
   {
    "id": "wefiz-iwb-1-st-2026",
@@ -51,10 +219,64 @@
    "zajec": 22
   },
   {
+   "id": "wefiz-iwb-2-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 28
+  },
+  {
+   "id": "wefiz-iwb-2-st-2026",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 16
+  },
+  {
+   "id": "wefiz-kipb-1-st-2024",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 94
+  },
+  {
+   "id": "wefiz-kipb-1-st-2025",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 86
+  },
+  {
    "id": "wefiz-kipb-1-st-2026",
    "status": "bez zmian uczelni",
    "grupy": 3,
    "zajec": 74
+  },
+  {
+   "id": "wefiz-kipb-2-st-2025",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 72
+  },
+  {
+   "id": "wefiz-kipb-2-st-2026",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 37
+  },
+  {
+   "id": "wefiz-li-1-st-2023",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 19
+  },
+  {
+   "id": "wefiz-li-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wefiz-li-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 36
   },
   {
    "id": "wefiz-li-1-st-2026",
@@ -63,10 +285,64 @@
    "zajec": 23
   },
   {
+   "id": "wefiz-log-1-st-2024",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 69
+  },
+  {
+   "id": "wefiz-log-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 39
+  },
+  {
    "id": "wefiz-log-1-st-2026",
    "status": "bez zmian uczelni",
    "grupy": 2,
    "zajec": 45
+  },
+  {
+   "id": "wefiz-log-2-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 31
+  },
+  {
+   "id": "wefiz-log-2-st-2026",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 37
+  },
+  {
+   "id": "wefiz-mbt-2-st-2026",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 15
+  },
+  {
+   "id": "wefiz-mkt-2-st-2025",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 58
+  },
+  {
+   "id": "wefiz-mkt-2-st-2026",
+   "status": "nowy",
+   "grupy": 3,
+   "zajec": 43
+  },
+  {
+   "id": "wefiz-pii-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 29
+  },
+  {
+   "id": "wefiz-pii-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 37
   },
   {
    "id": "wefiz-pii-1-st-2026",
@@ -75,10 +351,46 @@
    "zajec": 23
   },
   {
+   "id": "wefiz-rn-2-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 22
+  },
+  {
+   "id": "wefiz-rn-2-st-2026",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 20
+  },
+  {
+   "id": "wefiz-tir-1-st-2024",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 78
+  },
+  {
+   "id": "wefiz-tir-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 35
+  },
+  {
    "id": "wefiz-tir-1-st-2026",
    "status": "bez zmian uczelni",
    "grupy": 2,
    "zajec": 45
+  },
+  {
+   "id": "wefiz-zarz-1-st-2024",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 84
+  },
+  {
+   "id": "wefiz-zarz-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 43
   },
   {
    "id": "wefiz-zarz-1-st-2026",
@@ -87,10 +399,34 @@
    "zajec": 82
   },
   {
+   "id": "wefiz-zarz-2-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 31
+  },
+  {
+   "id": "wefiz-zarz-2-st-2026",
+   "status": "nowy",
+   "grupy": 2,
+   "zajec": 32
+  },
+  {
    "id": "wefiz-zloz-1-st-2026",
    "status": "bez zmian uczelni",
    "grupy": 1,
    "zajec": 14
+  },
+  {
+   "id": "wefiz-zoze-1-st-2024",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 25
+  },
+  {
+   "id": "wefiz-zoze-1-st-2025",
+   "status": "nowy",
+   "grupy": 1,
+   "zajec": 43
   },
   {
    "id": "wefiz-zoze-1-st-2026",

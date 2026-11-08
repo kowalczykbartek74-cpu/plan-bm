@@ -1,0 +1,31 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-zarz-2-st-2026",
+  "kod": "zarzm26",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "ZARZ",
+    "pl": "Zarządzanie",
+    "en": "Management"
+  },
+  "stopien": 2,
+  "tryb": "st",
+  "nabor": 2026,
+  "rok": 1,
+  "system": {
+    "nazwa": "Zarządzanie (Z)",
+    "rok": "1 rokII"
+  },
+  "grupy": [
+    "C551",
+    "C552"
+  ],
+  "plik": "plan/wefiz-zarz-2-st-2026.json",
+  "odwolania": [
+    "dos"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-kipb-1-st-2026",
+  "kod": "kipb26",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "KIPB",
+    "pl": "Komunikacja i psychologia w biznesie",
+    "en": "Communication and Psychology in Business"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2026,
+  "rok": 1,
+  "system": {
+    "nazwa": "Komunikacja i psychologia w biznesie (KiPB)",
+    "rok": "1 rokI"
+  },
+  "grupy": [
+    "C121",
+    "C122",
+    "C123"
+  ],
+  "plik": "plan/wefiz-kipb-1-st-2026.json",
+  "odwolania": [
+    "dos"
+  ]
+}

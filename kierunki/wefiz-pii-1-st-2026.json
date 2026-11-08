@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-pii-1-st-2026",
+  "kod": "pii26",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "PII",
+    "pl": "Przedsiębiorczość i Inwestycje",
+    "en": "Entrepreneurship and Investments"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2026,
+  "rok": 1,
+  "system": {
+    "nazwa": "Przedsiębiorczość i Inwestycje (PiI)",
+    "rok": "1 rokI"
+  },
+  "grupy": [
+    "C181"
+  ],
+  "plik": "plan/wefiz-pii-1-st-2026.json",
+  "odwolania": [
+    "dos"
+  ]
+}

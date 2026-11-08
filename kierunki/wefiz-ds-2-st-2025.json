@@ -1,0 +1,31 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-ds-2-st-2025",
+  "kod": "dsm25",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "DS",
+    "pl": "Data Science",
+    "en": "Data Science"
+  },
+  "stopien": 2,
+  "tryb": "st",
+  "nabor": 2025,
+  "rok": 2,
+  "system": {
+    "nazwa": "Data Science (DS)",
+    "rok": "2 rokII"
+  },
+  "grupy": [
+    "M640",
+    "M641"
+  ],
+  "plik": "plan/wefiz-ds-2-st-2025.json",
+  "odwolania": [
+    "dos"
+  ]
+}

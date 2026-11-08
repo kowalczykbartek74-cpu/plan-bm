@@ -71,6 +71,11 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   `C100–C499` i `M100–M499` (`--skan-litery`, `--skan-zakres`) i przypisuje rok po wspólnych przedmiotach; wynik zostaje
   w `docs/wefiz-grupy.json`, więc do zmiany „Aktualizacja planu” kolejne przebiegi nie pytają uczelni drugi raz (pierwszy: ok. 15 min).
 - Ten sam kierunek I i II stopnia (np. Ekonomia) to dwie pozycje na liście kierunków („Ekonomia (II stopień)”).
+- Od 8.11.2026 w `kierunki/` są wszystkie lata WEFiZ (73 roczniki, raport `docs/wefiz-wszystkie.md`). Nazwy EN nowych plików
+  skrypt bierze z `config/nazwy-en.json`. Kierunek tylko II stopnia (np. Audyt finansowy) `kierunki-1rok.mjs` zapisuje w
+  `tylkoIIStopnia`, nie jako „1. rok bez planu”.
+- Komunikaty DOS: grupy C i M, numery 1xx–6xx (wszystkie lata i II stopień); rocznik z grupami „M…” bierze sekcję DOS
+  Mickiewicza (także z pliku `kierunki/` bez pola `dos`).
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”
   albo w pliku brakuje grupy (`--wymus` = zawsze), z przerwą ≥ 1 s między zapytaniami. BM jak dotąd.
 - Test: `node --test scripts/*.test.mjs`.

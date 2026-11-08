@@ -1,0 +1,507 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Business Management",
+ "id": "wefiz-bm-2-st-2026",
+ "kod": "bmm26",
+ "kierunekEn": "Business Management",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:19:40.503Z",
+ "checkedAt": "2026-11-08T20:19:40.503Z",
+ "groups": {
+  "C511": {
+   "odd": [
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "International economics (ekonomia międzynarodowa)",
+     "k": "W",
+     "p": "dr Joanna Brzyska",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Organizacja i zarządzanie",
+     "en": "Organization and Management",
+     "k": "CW",
+     "p": "dr Monika Klein",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Enterpreneurship (przedsiębiorczość)",
+     "k": "K",
+     "p": "dr Barbara Czerniachowicz",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Communication in the global business (komunikacja w biznesie globalnym)",
+     "k": "W",
+     "p": "dr hab. prof. US Maciej Czaplewski",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie jakością",
+     "en": "Quality Management",
+     "k": "CW",
+     "p": "dr Joanna Markiewicz",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Zarządzanie biznesem globalnym",
+     "en": "Global Businnes Management",
+     "k": "CW",
+     "p": "dr Joanna Markiewicz",
+     "r": "s. SIL 314"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Organization and management (organizacja i zarządzanie)",
+     "k": "W",
+     "p": "dr hab. prof. US Dariusz Milewski",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Zarządzanie pracą zespołową",
+     "en": "Teamwork Management",
+     "k": "CW",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Global businnes management (zarządzanie biznesem globalnym)",
+     "k": "W",
+     "p": "dr Joanna Markiewicz",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Ekonomia międzynarodowa",
+     "en": "International Economics",
+     "k": "CW",
+     "p": "dr Joanna Brzyska",
+     "r": "s. 307"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie jakością",
+     "en": "Quality Management",
+     "k": "CW",
+     "p": "dr Joanna Markiewicz",
+     "r": "s. 112"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Teamwork management (zarządzanie pracą zespołową)",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Przedsiębiorczość",
+     "en": "Enterpreneurship",
+     "k": "K",
+     "p": "dr Barbara Czerniachowicz",
+     "r": "s. 623"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Komunikacja w biznesie globalnym",
+     "en": "Communication in the Global Business",
+     "k": "CW",
+     "p": "dr hab. prof. US Maciej Czaplewski",
+     "r": "s. SIL 323"
+    }
+   ]
+  },
+  "C512": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Zarządzanie biznesem globalnym",
+     "en": "Global Businnes Management",
+     "k": "CW",
+     "p": "dr Joanna Markiewicz",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "International economics (ekonomia międzynarodowa)",
+     "k": "W",
+     "p": "dr Joanna Brzyska",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Zarządzanie jakością",
+     "en": "Quality Management",
+     "k": "CW",
+     "p": "dr Joanna Markiewicz",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Communication in the global business (komunikacja w biznesie globalnym)",
+     "k": "W",
+     "p": "dr hab. prof. US Maciej Czaplewski",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Organizacja i zarządzanie",
+     "en": "Organization and Management",
+     "k": "CW",
+     "p": "dr Monika Klein",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Enterpreneurship (przedsiębiorczość)",
+     "k": "K",
+     "p": "dr Barbara Czerniachowicz",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Organization and management (organizacja i zarządzanie)",
+     "k": "W",
+     "p": "dr hab. prof. US Dariusz Milewski",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Zarządzanie jakością",
+     "en": "Quality Management",
+     "k": "CW",
+     "p": "dr Joanna Markiewicz",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Global businnes management (zarządzanie biznesem globalnym)",
+     "k": "W",
+     "p": "dr Joanna Markiewicz",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Komunikacja w biznesie globalnym",
+     "en": "Communication in the Global Business",
+     "k": "CW",
+     "p": "dr hab. prof. US Maciej Czaplewski",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie pracą zespołową",
+     "en": "Teamwork Management",
+     "k": "CW",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Teamwork management (zarządzanie pracą zespołową)",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "MS Teams BM II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Ekonomia międzynarodowa",
+     "en": "International Economics",
+     "k": "CW",
+     "p": "dr Joanna Brzyska",
+     "r": "s. 307"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Przedsiębiorczość",
+     "en": "Enterpreneurship",
+     "k": "K",
+     "p": "dr Barbara Czerniachowicz",
+     "r": "s. 707"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c511-49/",
+    "title": "Grupa C511",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Dnia 14.10.2026 zostają odwołane zajęcia z dr Barbarą Czerniachowicz. Termin odrobienia zajęć: 16.10.2026 godz. 13:45 sala SIL 323."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c511-48/",
+    "title": "GRUPA C511",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Zmiana sali w poniedziałek parzysty godz. 12:00. Nowa sala na zajęcia z dr J. Markiewicz – s. 112"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c511-i-c512-2/",
+    "title": "GRUPA C511 i C512",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "W dniu 21.10.2026 zajęcia online z Entrepreneurship są odwołane, termin odrobienie zajęć zostanie ustalony z grupą. The online Entrepreneurship class scheduled for October 21, 2026, is cancelled; the date for the make-up class will be arranged with the group."
+   }
+  ],
+  "zmiany": {
+   "C511": [
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "12:00",
+     "pl": "Przedsiębiorczość",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-16",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Przedsiębiorczość",
+     "en": "Enterpreneurship",
+     "k": "K",
+     "p": "dr Barbara Czerniachowicz",
+     "r": "s. SIL 323",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-10-21",
+     "post": 2
+    }
+   ],
+   "C512": [
+    {
+     "type": "note",
+     "date": "2026-10-21",
+     "post": 2
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:37:41.619Z"
+ }
+}

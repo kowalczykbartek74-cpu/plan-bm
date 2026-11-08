@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-eaia-1-st-2025",
+  "kod": "eaia25",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "EAIA",
+    "pl": "Economics and IT Applications",
+    "en": "Economics and IT Applications"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2025,
+  "rok": 2,
+  "system": {
+    "nazwa": "Economics and IT Applications (EaIA)",
+    "rok": "2 rokI"
+  },
+  "grupy": [
+    "M290"
+  ],
+  "plik": "plan/wefiz-eaia-1-st-2025.json",
+  "odwolania": [
+    "dos"
+  ]
+}

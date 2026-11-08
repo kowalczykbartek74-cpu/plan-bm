@@ -76,3 +76,12 @@ test("roczniki: kierunki/ ma pierwszeństwo, BM i kierunki bez planu pominięte,
   assert.equal(budynek({ groups: { C131: { odd: [{ r: "s. 607" }, { r: "s. SIL 315" }, { r: "s. N104" }], even: [] } } }), null);
   assert.match(DOS.mic, /mickiewicza/);
 });
+
+test("kierunek tylko II stopnia (plany II st. w kierunki/) nie jest wpisany jako 1. rok I st. bez planu", async () => {
+  const { zbuduj } = await import("./kierunki-1rok.mjs");
+  const w = (pelna, grupy) => ({ pelna, nazwa: pelna.replace(/ \(.*$/, ""), skrot: pelna.match(/\(([^)]+)\)/)[1], grupy });
+  const cfg = zbuduj([w("Logistyka (L)", ["C131"])], [w("Audyt finansowy (AF)", []), w("Green Economy - zielona gospodarka (GE)", [])],
+    { teraz: new Date("2026-11-08"), drugiStopien: new Set(["Audyt finansowy (AF)"]) });
+  assert.deepEqual(cfg.kierunki.map((k) => [k.id, k.maPlan]), [["wefiz-ge-1-st-2026", false], ["wefiz-log-1-st-2026", true]]);
+  assert.deepEqual(cfg.tylkoIIStopnia.map((k) => k.pl), ["Audyt finansowy"]);
+});

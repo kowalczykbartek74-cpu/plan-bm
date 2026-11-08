@@ -1,6 +1,6 @@
 # Plany wszystkich kierunków WEFiZ (2026-11-08)
 
-**Przebieg na sucho** (`--na-sucho`): nic jeszcze nie zapisane. Po „ok” Bartka: `node scripts/wefiz-wszystkie.mjs` (bez `--na-sucho`) zapisze 70 plików `kierunki/<id>.json`.
+Przebieg na sucho, a po „ok” Bartka (8.11.2026) zapis: 70 nowych plików `kierunki/<id>.json` (te same roczniki co poniżej).
 
 Wygenerowane: `node scripts/wefiz-wszystkie.mjs`. Nowe pliki konfiguracji: **70**, pominięte: 3, bez grup: 0.
 Plan każdego nowego pliku pobierze codzienny automat (`update-plan.mjs --wszystkie`), stronę wyboru odświeży `kierunki.mjs`.

@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-gpi-1-st-2025",
+  "kod": "gpi25",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "GPI",
+    "pl": "Gospodarka Przestrzenna inż.",
+    "en": "Spatial Management (Eng.)"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2025,
+  "rok": 2,
+  "system": {
+    "nazwa": "Gospodarka Przestrzenna inż. (GPi)",
+    "rok": "2 rokI"
+  },
+  "grupy": [
+    "M260"
+  ],
+  "plik": "plan/wefiz-gpi-1-st-2025.json",
+  "odwolania": [
+    "dos"
+  ]
+}

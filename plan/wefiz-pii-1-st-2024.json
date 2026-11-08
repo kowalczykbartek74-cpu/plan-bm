@@ -1,0 +1,522 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Przedsiębiorczość i Inwestycje",
+ "id": "wefiz-pii-1-st-2024",
+ "kod": "pii24",
+ "kierunekEn": "Przedsiębiorczość i Inwestycje",
+ "wydzial": "WEFiZ",
+ "rok": 3,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:23:34.477Z",
+ "checkedAt": "2026-11-08T20:23:34.477Z",
+ "groups": {
+  "C381": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wykorzystanie mediów społecznościowych w zarządzaniu małą firmą",
+     "k": "K",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 034"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Przywództwo i kierowanie zespołem",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Pluta",
+     "r": "s. 033"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Planowanie w małym przedsiębiorstwie",
+     "k": "W",
+     "p": "dr Barbara Czerniachowicz",
+     "r": "s. 607"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Problemy biznesu w praktyce",
+     "k": "K",
+     "p": "dr Mateusz Czerwiński",
+     "r": "s. 423 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Planowanie w małym przedsiębiorstwie",
+     "k": "CW",
+     "p": "mgr Julia Klimek",
+     "r": "s. 034"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Krzysztof Błoński",
+     "r": "gab. 713"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Roman Tylżanowski",
+     "r": "gab. 625"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Przywództwo i kierowanie zespołem",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Wycena przedsiębiorstw",
+     "k": "CW",
+     "p": "dr Aurelia Bajerska-Osman",
+     "r": "s. 034"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie kapitałem trwałym",
+     "k": "CW",
+     "p": "dr Roman Tylżanowski",
+     "r": "s. 407"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Zarządzanie projektami w małym przedsiębiorstwie",
+     "k": "W",
+     "p": "dr hab. prof. US Krzysztof Janasz",
+     "r": "s. 507"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zarządzanie projektami w małym przedsiębiorstwie",
+     "k": "CW",
+     "p": "dr Katarzyna Brzychcy",
+     "r": "s. 042"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr hab. prof. US K. Janasz",
+     "r": "sala 523",
+     "dates": [
+      "2026-11-17"
+     ],
+     "n": "Jednorazowo: 17.11.2026"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Język angielski ul. wawrzyniaka 15, s.108 mgr p.krywult",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Planowanie w małym przedsiębiorstwie",
+     "k": "LAB",
+     "p": "dr Marcin Pawlak",
+     "r": "s. 423 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Przywództwo i kierowanie zespołem",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Pluta",
+     "r": "s. 033"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Planowanie w małym przedsiębiorstwie",
+     "k": "W",
+     "p": "dr Barbara Czerniachowicz",
+     "r": "s. 607"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Wycena przedsiębiorstw",
+     "k": "W",
+     "p": "dr Aurelia Bajerska-Osman",
+     "r": "s. 034"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Planowanie w małym przedsiębiorstwie",
+     "k": "LAB",
+     "p": "dr Marcin Pawlak",
+     "r": "s. 423 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Zarządzanie kapitałem trwałym",
+     "k": "W",
+     "p": "dr Roman Tylżanowski",
+     "r": "s. 034"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Przywództwo i kierowanie zespołem",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Wycena przedsiębiorstw",
+     "k": "CW",
+     "p": "dr Aurelia Bajerska-Osman",
+     "r": "s. 034"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie kapitałem trwałym",
+     "k": "CW",
+     "p": "dr Roman Tylżanowski",
+     "r": "s. 034"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Przywództwo i kierowanie zespołem",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 423 lab dr Mateusz Czerwiński",
+     "dates": [
+      "2026-10-29"
+     ],
+     "n": "Jednorazowo: 29.10.2026"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Język angielski ul. wawrzyniaka 15, s.108 mgr p.krywult",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c381-39/",
+    "title": "GRUPA C381",
+    "ym": "2026-10",
+    "pub": "2026-10-22",
+    "text": "W planie zajęć została wprowadzona zmiana dotycząca zajęć Planowanie w małym przedsiębiorstwie, z dr M. Pawlakiem. Plan obowiązuje od poniedziałku tj. 26.10.2026r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c381-38/",
+    "title": "GRUPA C381",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Dnia 21.10.2026 zostają odwołane zajęcia z dr Barbarą Czerniachowicz. Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c381-37/",
+    "title": "GRUPA C381",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Dnia 17.11.2026 o godz. 13:45 w Sali 523 odbędzie się odrabianie zajęć dr hab. prof. US Krzysztofem Janaszem"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c381-36/",
+    "title": "GRUPA C381",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Dnia 22.10.2026 zostają odwołane zajęcia z dr Mateuszem Czerwińskim. Termin odrobienia zajęć: 29.10.2026 godz. 12:00 sala 423lab."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c181-60/",
+    "title": "GRUPA C381",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Dnia 08.10.2026 zostają odwołane zajęcia z dr Aurelią Bajerską-Osman Termin odrobienia zajęć: 15.10.2026 godz. 12:00 sala 034"
+   }
+  ],
+  "zmiany": {
+   "C381": [
+    {
+     "type": "cancel",
+     "date": "2026-10-08",
+     "start": "10:00",
+     "pl": "Wycena przedsiębiorstw",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-15",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Wycena przedsiębiorstw",
+     "k": "CW",
+     "p": "dr Aurelia Bajerska-Osman",
+     "r": "s. 034",
+     "post": 4
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "8:15",
+     "pl": "Planowanie w małym przedsiębiorstwie",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-22",
+     "start": "8:15",
+     "pl": "Problemy biznesu w praktyce",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-10-26",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Problemy biznesu w praktyce",
+     "k": "K",
+     "p": "dr Mateusz Czerwiński",
+     "r": "s. 423lab",
+     "post": 3,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-17",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "s. 523",
+     "post": 2,
+     "dup": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:38.387Z"
+ }
+}

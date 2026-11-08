@@ -1,0 +1,442 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Business Intelligence w gospodarce",
+ "id": "wefiz-biwg-1-st-2025",
+ "kod": "biwg25",
+ "kierunekEn": "Business Intelligence w gospodarce",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:19:19.522Z",
+ "checkedAt": "2026-11-08T20:19:19.522Z",
+ "groups": {
+  "M200": {
+   "odd": [
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Aplikacje finansowe (w) 15h nmwbi",
+     "k": "X",
+     "p": "dr Marta Musiał",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0204"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0102"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 3",
+     "k": "X",
+     "p": "mgr M. Troczyńska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Aplikacje finansowe (lab) 15h nmibi",
+     "k": "X",
+     "p": "dr Marta Musiał",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Metodyka badań ekonomicznych",
+     "k": "W",
+     "h": 15,
+     "p": "prof. dr hab. Małgorzata Porada-Rochoń",
+     "r": "s. S0103"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Podstawy analiz rynku kapitałowego",
+     "k": "W",
+     "h": 15,
+     "p": "dr prof. US Waldemar Aspadarec",
+     "r": "s. N15"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Monitoring finansowy",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Wojciech Chudziński",
+     "r": "s. S06"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wprowadzenie do języka python na potrzeby business intelligence (lab) 30h wdpiad",
+     "k": "X",
+     "p": "dr Konrad Biercewicz",
+     "r": "s. N105 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Planowanie i budżetowanie",
+     "k": "CW",
+     "h": 15,
+     "p": "dr hab. prof. US Andrzej Niemiec",
+     "r": "s. S019"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Ekonometria",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Mariusz Doszyń",
+     "r": "s. S06"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Planowanie i budżetowanie",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr hab. prof. US Andrzej Niemiec",
+     "r": "s. N105 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Aplikacje finansowe (ćw) 15h nmibi",
+     "k": "X",
+     "p": "dr Marta Musiał",
+     "r": "s. S07"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0204"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0102"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 3",
+     "k": "X",
+     "p": "mgr M. Troczyńska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wprowadzenie do języka python na potrzeby business intelligence (w) 15 h wdpiad",
+     "k": "X",
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "s. S06"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Planowanie i budżetowanie",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Andrzej Niemiec",
+     "r": "s. S0102"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Monitoring finansowy",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Wojciech Chudziński",
+     "r": "s. S019"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wprowadzenie do języka python na potrzeby business intelligence (lab) 30h wdpiad",
+     "k": "X",
+     "p": "dr Konrad Biercewicz",
+     "r": "s. N105 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Monitoring finansowy",
+     "k": "W",
+     "h": 15,
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0200"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Ekonometria",
+     "k": "LAB",
+     "h": 15,
+     "p": "mgr Mateusz Mostowski",
+     "r": "s. N105 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Podstawy analiz rynku kapitałowego",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. N105 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/09/m200-odwolanie-zajec-z-prof-andrzejem-niemcem-w-dniu-07-10-2026-r/",
+    "title": "M200- odwołanie zajęć z prof. Andrzejem Niemcem w dniu 07.10.2026 r.",
+    "ym": "2026-09",
+    "pub": "2026-09-29",
+    "text": "Zajęcia z przedmiotu planowanie i budżetowanie (ćwiczenia + laboratorium) z prof. Andrzejem Niemcem w dniu 07.10.2026 r. nie odbędą się. Termin odrobienia: 14.10.2026 r. ćwiczenia: godz. 08.15- sala S0104 laboratorium: godz. 10.00- sala S0123A lab"
+   }
+  ],
+  "zmiany": {
+   "M200": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-14",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Planowanie i budżetowanie",
+     "k": "X",
+     "p": "dr hab. prof. US Andrzej Niemiec",
+     "r": "S0104",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:37:10.854Z"
+ }
+}

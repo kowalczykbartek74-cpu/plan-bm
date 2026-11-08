@@ -1,0 +1,1446 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Business Management",
+ "id": "wefiz-bm-1-st-2025",
+ "kod": "bm25",
+ "kierunekEn": "Business Management",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:19:30.441Z",
+ "checkedAt": "2026-11-08T20:19:30.441Z",
+ "groups": {
+  "C211": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "LAB",
+     "g": "B",
+     "p": "mgr Mateusz Mostowski",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "W",
+     "p": "dr inż. Anna Borawska",
+     "r": "s. 003"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język angielski gr. 1 ul. wawrzyniaka 15 s. 209, mgr natalia ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Analiza ekonomiczna",
+     "en": "Economic Analysis",
+     "k": "W",
+     "p": "dr Edyta Mioduchowska-Jaroszewicz",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Innowacyjne modele biznesowe",
+     "en": "Innovative Business Models",
+     "k": "K",
+     "p": "dr Katarzyna Łobacz",
+     "r": "s. 507",
+     "tag": "BLOK B3"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Wykorzystanie informatycznych technologii w promocji biznesu",
+     "en": "Business Promotion with Information Technology Application",
+     "k": "W",
+     "p": "dr Uma Shankar Singh",
+     "r": "s. SIL 325",
+     "tag": "BLOK B2"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Język angielski gr. 2 ul. wawrzyniaka 15 s. 209, mgr natalia ongoiba",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15",
+     "r": "s. 107 mgr Magdalena Kisiel-Spychała"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "en": "Fundamentals of Accounting",
+     "k": "CW",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr inż. Janusz Jabłoński",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Analiza ekonomiczna",
+     "en": "Economic Analysis",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Edyta Mioduchowska-Jaroszewicz",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Analiza ekonomiczna",
+     "en": "Economic Analysis",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Projektowanie produktów i usług",
+     "en": "Product and Service Design",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "s. SIL 325",
+     "tag": "BLOK B1"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr inż. Janusz Jabłoński",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 003 dr Ilona Kędzierska-Bujak",
+     "dates": [
+      "2026-12-04"
+     ],
+     "n": "Jednorazowo: 4.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Odrabianie zajęć:",
+     "k": "X",
+     "r": "sala SIL 325 dr Anna Borawska",
+     "dates": [
+      "2026-11-17"
+     ],
+     "n": "Jednorazowo: 17.11.2026"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "LAB",
+     "g": "A",
+     "p": "mgr Mateusz Mostowski",
+     "r": "s. 423 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Zachowania konsumentów",
+     "en": "Consumer Behaviour",
+     "k": "LAB",
+     "g": "A",
+     "p": "mgr Anna Marszałek",
+     "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język angielski gr. 1 ul. wawrzyniaka 15 s. 209, mgr n.ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Podstawy rachunkowości",
+     "en": "Fundamentals of Accounting",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. 002"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Innowacyjne modele biznesowe",
+     "en": "Innovative Business Models",
+     "k": "K",
+     "p": "dr Katarzyna Łobacz",
+     "r": "s. 507",
+     "tag": "BLOK B3"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr inż. Janusz Jabłoński",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Język angielski gr. 2 ul. wawrzyniaka 15 s. 209, mgr n.ongoiba",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15",
+     "r": "s. 107 mgr M.Kisiel- Spychała"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "W",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. 002"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Wykorzystanie informatycznych technologii w promocji biznesu",
+     "en": "Business Promotion with Information Technology Application",
+     "k": "CW",
+     "p": "dr Uma Shankar Singh",
+     "r": "s. SIL 315",
+     "tag": "BLOK B2"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zachowania konsumentów",
+     "en": "Consumer Behaviour",
+     "k": "LAB",
+     "g": "B",
+     "p": "mgr Anna Marszałek",
+     "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Analiza ekonomiczna",
+     "en": "Economic Analysis",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Edyta Mioduchowska-Jaroszewicz",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Analiza ekonomiczna",
+     "en": "Economic Analysis",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Zachowania konsumentów",
+     "en": "Consumer Behaviour",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Włodarczyk",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr inż. Janusz Jabłoński",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr. K. Dmytrów",
+     "r": "sala 002",
+     "dates": [
+      "2026-10-29"
+     ],
+     "n": "Jednorazowo: 29.10.2026"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr. K. Dmytrów",
+     "r": "sala 002",
+     "dates": [
+      "2026-10-29"
+     ],
+     "n": "Jednorazowo: 29.10.2026"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ]
+  },
+  "C212": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "W",
+     "p": "dr inż. Anna Borawska",
+     "r": "s. 003"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język angielski gr. 1 ul. wawrzyniaka 15 s. 209, mgr natalia ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Analiza ekonomiczna",
+     "en": "Economic Analysis",
+     "k": "W",
+     "p": "dr Edyta Mioduchowska-Jaroszewicz",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Wykorzystanie informatycznych technologii w promocji biznesu",
+     "en": "Business Promotion with Information Technology Application",
+     "k": "W",
+     "p": "dr Uma Shankar Singh",
+     "r": "s. SIL 325",
+     "tag": "BLOK B2"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Język angielski gr. 2 ul. wawrzyniaka 15 s. 209, mgr natalia ongoiba",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15",
+     "r": "s. 107 mgr Magdalena Kisiel-Spychała"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Analiza ekonomiczna",
+     "en": "Economic Analysis",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Innowacyjne modele biznesowe",
+     "en": "Innovative Business Models",
+     "k": "K",
+     "p": "dr Katarzyna Łobacz",
+     "r": "s. 047",
+     "tag": "BLOK B3"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zachowania konsumentów",
+     "en": "Consumer Behaviour",
+     "k": "LAB",
+     "p": "mgr Anna Marszałek",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Podstawy rachunkowości",
+     "en": "Fundamentals of Accounting",
+     "k": "CW",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Projektowanie produktów i usług",
+     "en": "Product and Service Design",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "s. SIL 325",
+     "tag": "BLOK B1"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Wykorzystanie informatycznych technologii w promocji biznesu",
+     "en": "Business Promotion with Information Technology Application",
+     "k": "CW",
+     "p": "dr Uma Shankar Singh",
+     "r": "s. 307",
+     "tag": "BLOK B2"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 003 dr Ilona Kędzierska-Bujak",
+     "dates": [
+      "2026-12-04"
+     ],
+     "n": "Jednorazowo: 4.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Odrabianie zajęć:",
+     "k": "X",
+     "r": "sala SIL 325 dr Anna Borawska",
+     "dates": [
+      "2026-11-17"
+     ],
+     "n": "Jednorazowo: 17.11.2026"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "LAB",
+     "p": "dr inż. Janusz Jabłoński",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język angielski gr. 1 ul. wawrzyniaka 15 s. 209, mgr n.ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Podstawy rachunkowości",
+     "en": "Fundamentals of Accounting",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. 002"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Język angielski gr. 2 ul. wawrzyniaka 15 s. 209, mgr n.ongoiba",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15",
+     "r": "s. 107 mgr M.Kisiel- Spychała"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "W",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. 002"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Innowacyjne modele biznesowe",
+     "en": "Innovative Business Models",
+     "k": "K",
+     "p": "dr Katarzyna Łobacz",
+     "r": "s. 112",
+     "tag": "BLOK B3"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "LAB",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. SIL 145/146 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Zachowania konsumentów",
+     "en": "Consumer Behaviour",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Włodarczyk",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr. K. Dmytrów",
+     "r": "sala 002 dr K. Dmytrów sala SIL 145/146",
+     "dates": [
+      "2026-10-29",
+      "2026-11-12"
+     ],
+     "n": "Tylko: 29.10, 12.11"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Analiza ekonomiczna",
+     "en": "Economic Analysis",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "LAB",
+     "p": "dr inż. Janusz Jabłoński",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr. K. Dmytrów",
+     "r": "sala 002 dr K. Dmytrów sala SIL 145/146",
+     "dates": [
+      "2026-10-29",
+      "2026-11-12"
+     ],
+     "n": "Tylko: 29.10, 12.11"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c211-c212-13/",
+    "title": "GRUPA C211, C212",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Dnia 17.11.2026 o godz. 15:30 w sali SIL 325 odbędzie się odrabianie zajęć z dr inż. Anną Borawską z dnia 07.10.2026 r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c211-c212-12/",
+    "title": "GRUPA C211, C212",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Dnia 13.11.2026 zostają odwołane zajęcia z dr Iloną Kędzierską-Bujak. Termin odrobienia zajęć: 04.12.2026 godz. 13:45 sala 003 „Fundamentals of accounting” lacture with dr Ilona Kędzierska-Bujak from 13rd December is reschedule for 4th December at 13:45 and 003 classroom."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c211-c212-11/",
+    "title": "GRUPA C211, C212",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Dnia 03.11.2026 zostają odwołane zajęcia z dr Moniką Klein. Termin odrobienia zostanie ustalony na kolejnych zajęciach. Dear Students, Today’s class (3 November) is cancelled. We will see each other at our next scheduled class, when we will also agree on a date to make up the missed hours. Best regards, Dr Monika Klein"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c211-c212-10/",
+    "title": "GRUPA C211, C212",
+    "ym": "2026-10",
+    "pub": "2026-10-26",
+    "text": "Wykład z przedmiotu Business Process Modelling (Modelowanie procesów biznesowych) , odwołany w dniu 7 października 2026 r., zostanie odrobiony w terminie uzgodnionym ze studentami, tj. 3 listopada 2026 r. (wtorek) w godz. 15:30–17:00, w sali SIL325 (kampus Cukrowa) . The Business Process Modelling lecture cancelled on 7 October 2026 will be made up on Tuesday, 3 November 2026, from 15:30 to 17:00, in room SIL325 (Cukrowa campus) , as agreed with the students."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c212-4/",
+    "title": "GRUPA C212",
+    "ym": "2026-10",
+    "pub": "2026-10-23",
+    "text": "Dnia 11.12.2026 zostają odwołane zajęcia z dr Krzysztofem Dmytrów. Termin odrobienia zajęć 12.11.2026 godz. 13:45 sala SIL 145/146 Termin odrobienia zajęć z dnia 02.10.2026: 12.11.2026 godz. 15:30 sala SIL 145/146 Catch-up lectures from October 2nd, 2026"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c211-c212-9/",
+    "title": "GRUPA C211, C212",
+    "ym": "2026-10",
+    "pub": "2026-10-23",
+    "text": "Dnia 11.12.2026 zostają odwołane zajęcia z dr Krzysztofem Dmytrów. Termin odrabiania wykładu: 29.10.2026 godz. 13:45 sala 002 Termin odrabiania wykładu z dnia 02.10.2026: 29.10.2026 godz. 15:30 sala 002 Catch-up lectures from October 2nd, 2026"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/c211-zmiana-w-planie-sroda-parzysta/",
+    "title": "C211 ZMIANA W PLANIE ŚRODA PARZYSTA",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Nastąpiła zmiana w planie w środę parzystą bardzo proszę o zapoznanie się z nowym planem zajęć. GODZ. 8:15 CONSUMER BEHAVIOUR (ZACHOWANIA KONSUMENTÓW) (LB) GRUPA A"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c211-grupa-a/",
+    "title": "GRUPA C211 grupa A",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Dnia 13.10.2026 zostają odwołane zajęcia grupa A z mgr Mateuszem Mostowskim Termin odrobienia zostanie ustalony na kolejnych zajęciach. Dear Students, as I will be away on a business trip to attend a conference from 13 to 17 October, our classes (group A labs) will not take place. We will agree on a date to make them up together at our next meeting. Best regards!"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c211-c212-8/",
+    "title": "GRUPA C211, C212",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "Dnia 07.10.2026 zostają odwołane zajęcia z dr inż. Anną Borawską Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c212-3/",
+    "title": "GRUPA C212",
+    "ym": "2026-09",
+    "pub": "2026-09-29",
+    "text": "Dnia 02.10.2026 zostają odwołane zajęcia z dr Krzysztofem Dmytrów Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c211-40/",
+    "title": "GRUPA C211",
+    "ym": "2026-09",
+    "pub": "2026-09-29",
+    "text": "Dnia 02.10.2026 zostają odwołane zajęcia z dr Krzysztofem Dmytrów Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C211": [
+    {
+     "type": "cancel",
+     "date": "2026-10-02",
+     "start": "10:00",
+     "pl": "Statystyka opisowa",
+     "post": 5,
+     "posts": [
+      5,
+      10
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-07",
+     "start": "8:15",
+     "pl": "Modelowanie procesów biznesowych",
+     "post": 0,
+     "posts": [
+      0,
+      3,
+      8
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-07",
+     "start": "12:00",
+     "pl": "Modelowanie procesów biznesowych",
+     "g": "A",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-07",
+     "start": "13:45",
+     "pl": "Modelowanie procesów biznesowych",
+     "g": "B",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "8:15",
+     "pl": "Statystyka opisowa",
+     "g": "A",
+     "post": 7,
+     "posts": [
+      7
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "W",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. 002",
+     "post": 5,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "W",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. 002",
+     "post": 5,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "13:45",
+     "pl": "Projektowanie produktów i usług",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-03",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "X",
+     "p": "dr inż. Anna Borawska",
+     "r": "s. SIL325",
+     "post": 3
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-13",
+     "start": "8:15",
+     "pl": "Podstawy rachunkowości",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-17",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "W",
+     "p": "dr inż. Anna Borawska",
+     "r": "s. SIL 325",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-04",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy rachunkowości",
+     "en": "Fundamentals of Accounting",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. 003 „Fundamentals of",
+     "post": 1,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-11",
+     "start": "10:00",
+     "pl": "Statystyka opisowa",
+     "post": 5,
+     "posts": [
+      5
+     ]
+    }
+   ],
+   "C212": [
+    {
+     "type": "cancel",
+     "date": "2026-10-02",
+     "start": "10:00",
+     "pl": "Statystyka opisowa",
+     "post": 4,
+     "posts": [
+      4,
+      5,
+      9
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-02",
+     "start": "12:00",
+     "pl": "Statystyka opisowa",
+     "post": 4,
+     "posts": [
+      4,
+      5,
+      9
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-07",
+     "start": "8:15",
+     "pl": "Modelowanie procesów biznesowych",
+     "post": 0,
+     "posts": [
+      0,
+      3,
+      8
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-07",
+     "start": "15:30",
+     "pl": "Modelowanie procesów biznesowych",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "X",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. 002",
+     "post": 5,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "X",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. 002",
+     "post": 5,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "13:45",
+     "pl": "Projektowanie produktów i usług",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-03",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "X",
+     "p": "dr inż. Anna Borawska",
+     "r": "s. SIL325",
+     "post": 3
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "X",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. SIL 145/146",
+     "post": 4,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
+     "k": "X",
+     "p": "dr Krzysztof Dmytrów",
+     "r": "s. SIL 145/146",
+     "post": 4,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-13",
+     "start": "8:15",
+     "pl": "Podstawy rachunkowości",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-17",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Modelowanie procesów biznesowych",
+     "en": "Bussiness Process Modelling",
+     "k": "W",
+     "p": "dr inż. Anna Borawska",
+     "r": "s. SIL 325",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-04",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy rachunkowości",
+     "en": "Fundamentals of Accounting",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. 003 „Fundamentals of",
+     "post": 1,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-11",
+     "start": "10:00",
+     "pl": "Statystyka opisowa",
+     "post": 4,
+     "posts": [
+      4,
+      5
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-11",
+     "start": "12:00",
+     "pl": "Statystyka opisowa",
+     "post": 4,
+     "posts": [
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:37:34.185Z"
+ }
+}

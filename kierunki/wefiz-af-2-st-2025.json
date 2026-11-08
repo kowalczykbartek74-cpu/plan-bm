@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-af-2-st-2025",
+  "kod": "afm25",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "AF",
+    "pl": "Audyt finansowy",
+    "en": "Financial Audit"
+  },
+  "stopien": 2,
+  "tryb": "st",
+  "nabor": 2025,
+  "rok": 2,
+  "system": {
+    "nazwa": "Audyt finansowy (AF)",
+    "rok": "2 rokII"
+  },
+  "grupy": [
+    "M660"
+  ],
+  "plik": "plan/wefiz-af-2-st-2025.json",
+  "odwolania": [
+    "dos"
+  ]
+}

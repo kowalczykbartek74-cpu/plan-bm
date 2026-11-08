@@ -1,0 +1,565 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Business Management",
+ "id": "wefiz-bm-2-st-2025",
+ "kod": "bmm25",
+ "kierunekEn": "Business Management",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:19:34.702Z",
+ "checkedAt": "2026-11-08T20:19:34.702Z",
+ "groups": {
+  "C611": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Customer relationship management (zarządzanie relacjami z klientem)",
+     "k": "W",
+     "p": "dr Magdalena Kowalska",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Diploma seminar (seminarium dyplomowe)",
+     "k": "S",
+     "p": "dr Karolina Beyer",
+     "r": "on-line/gab. 210",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Diploma seminar (seminarium dyplomowe)",
+     "k": "S",
+     "p": "dr hab. inż. prof. US Alberto Lozano Platonoff",
+     "r": "on-line/gab. SIL 257",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Diploma seminar (seminarium dyplomowe)",
+     "k": "S",
+     "p": "dr Joanna Markiewicz",
+     "r": "on-line/gab. 511",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Diploma seminar (seminarium dyplomowe)",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Szopik-Depczyńska",
+     "r": "on-line/gab. 703",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Logistyka międzynarodowa",
+     "en": "International Logistics",
+     "k": "CW",
+     "p": "mgr inż. Krystian Redżeb",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Toolbox in project management (narzędzia zarządzania projektem)",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Hanna Soroka-Potrzebna",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "New trends in marketing (nowe trendy w marketingu)",
+     "k": "W",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Nowe trendy w marketingu",
+     "en": "New Trends in Marketing",
+     "k": "CW",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Toolbox in project management (narzędzia zarządzania projektem)",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Hanna Soroka-Potrzebna",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learoning"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Event management (zarządzanie wydarzeniami)",
+     "k": "W",
+     "p": "dr hab. prof. US Adam Pawlicz",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zarządzanie relacjami z klientem",
+     "en": "Customer Relationship Management",
+     "k": "CW",
+     "p": "mgr Maciej Lewandowski",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język angielski gr. 1 zajęcia on-line mgr natalia ongoiba",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026",
+     "x": "SZKOLENIE Z OBRONY CYWILNEJ"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "dates": [
+      "2026-11-17"
+     ],
+     "n": "Jednorazowo: 17.11.2026",
+     "x": "dr Małgorzata Wiścicka-Fernando MS Teams"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Język angielski gr. 2 zajęcia on-line mgr natalia ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Odrabiaie zajęć:",
+     "k": "X",
+     "dates": [
+      "2026-11-09"
+     ],
+     "n": "Jednorazowo: 9.11.2026",
+     "x": "dr H. Soroka-Potrzebna grupa A MS TEAMS"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Diploma seminar (seminarium dyplomowe)",
+     "k": "S",
+     "p": "dr Karolina Beyer",
+     "r": "on-line/gab. 210",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Diploma seminar (seminarium dyplomowe)",
+     "k": "S",
+     "p": "dr hab. inż. prof. US Alberto Lozano Platonoff",
+     "r": "on-line/gab. SIL 257",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Diploma seminar (seminarium dyplomowe)",
+     "k": "S",
+     "p": "dr Joanna Markiewicz",
+     "r": "on-line/gab. 511",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Diploma seminar (seminarium dyplomowe)",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Szopik-Depczyńska",
+     "r": "on-line/gab. 703",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Symulacja komputerowa w zarządzaniu biznesem",
+     "en": "Computer Simulation in Bussiness Management",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr inż. Anna Borawska",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Toolbox in project management (narzędzia zarządzania projektem)",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Hanna Soroka-Potrzebna",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Services management in digital world (zarządzanie usługami w cyfrowym świecie)",
+     "k": "W",
+     "p": "dr Michał Nowakowski",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Zarządzanie wydarzeniami",
+     "en": "Event Management",
+     "k": "CW",
+     "p": "dr hab. prof. US Adam Pawlicz",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Toolbox in project management (narzędzia zarządzania projektem)",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Hanna Soroka-Potrzebna",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learoning"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Services management in digital world (zarządzanie usługami w cyfrowym świecie)",
+     "k": "CW",
+     "p": "dr Michał Nowakowski",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Zarządzanie relacjami z klientem",
+     "en": "Customer Relationship Management",
+     "k": "CW",
+     "p": "mgr Maciej Lewandowski",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język angielski gr. 1 zajęcia on-line mgr natalia ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Odrabiaie zajęć:",
+     "k": "X",
+     "dates": [
+      "2026-11-09"
+     ],
+     "n": "Jednorazowo: 9.11.2026",
+     "x": "dr H. Soroka-Potrzebna grupa B MS TEAMS"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Computer simulation in bussiness management (symulacja komputerowa w zarządzaniu biznesem)",
+     "k": "W",
+     "p": "dr inż. Anna Borawska",
+     "r": "MS Teams BM II 2rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Computer simulation in bussiness management (symulacja komputerowa w zarządzaniu biznesem",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr inż. Anna Borawska",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Język angielski gr. 2 zajęcia on-line mgr natalia ongoiba",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c611-34/",
+    "title": "GRUPA C611",
+    "ym": "2026-11",
+    "pub": "2026-11-05",
+    "text": "Dnia 09.11.2026 odbędzie się odrabianie zajęć z dr Hanną Soroka-Potrzebna z dnia 30.11.2026 r. grupa C611 A „Toolbox in project management” – 9.11 godz. 8:15 , zajęcia online; grupa C611 B „Toolbox in project management” – 9.11 godz. 13:45 , zajęcia online."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c611-33/",
+    "title": "GRUPA C611",
+    "ym": "2026-10",
+    "pub": "2026-10-29",
+    "text": "Dnia 30.11.2026 zostają odwołane zajęcia z dr Hanną Soroka-Potrzebna. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c611-32/",
+    "title": "GRUPA C611",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Dnia 17.11.2026 o godz. 13:45 MS Teams odbędzie się odrabianie zajęć z dr Małgorzatą Wiścicka-Fernando z dnia 03.11.2026 r. The ‘New Trends in Marketing’ class has been cancelled on 3 November and will be rescheduled for 17 November 26 at 1.45 pm (online)"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c611-31/",
+    "title": "GRUPA C611",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Dnia 3.11.2026 zostają odwołane zajęcia z dr Małgorzatą Wiścicką-Fernando. Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami."
+   }
+  ],
+  "zmiany": {
+   "C611": [
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "10:00",
+     "pl": "New trends in marketing (nowe trendy w marketingu)",
+     "post": 2,
+     "posts": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-17",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "New trends in marketing (nowe trendy w marketingu)",
+     "k": "W",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "MS Teams",
+     "post": 2,
+     "dup": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-30",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-30",
+     "start": "10:00",
+     "pl": "Toolbox in project management (narzędzia zarządzania projektem)",
+     "g": "A",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-30",
+     "start": "12:00",
+     "pl": "Toolbox in project management (narzędzia zarządzania projektem)",
+     "g": "B",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:37:36.126Z"
+ }
+}

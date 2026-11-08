@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-ek-2-st-2026",
+  "kod": "ekm26",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "EK",
+    "pl": "Ekonomia",
+    "en": "Economics"
+  },
+  "stopien": 2,
+  "tryb": "st",
+  "nabor": 2026,
+  "rok": 1,
+  "system": {
+    "nazwa": "Ekonomia (Ek)",
+    "rok": "1 rokII"
+  },
+  "grupy": [
+    "M510"
+  ],
+  "plik": "plan/wefiz-ek-2-st-2026.json",
+  "odwolania": [
+    "dos"
+  ]
+}

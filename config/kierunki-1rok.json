@@ -10,23 +10,6 @@
   "wygenerowano": "2026-11-08",
   "kierunki": [
     {
-      "id": "wefiz-af-1-st-2026",
-      "kod": "af26",
-      "kierunek": "AF",
-      "system": {
-        "nazwa": "Audyt finansowy (AF)",
-        "rok": "1 rokI"
-      },
-      "pl": "Audyt finansowy",
-      "en": "Financial Audit",
-      "stopien": 1,
-      "rok": 1,
-      "tryb": "st",
-      "nabor": 2026,
-      "maPlan": false,
-      "grupy": []
-    },
-    {
       "id": "wefiz-biwg-1-st-2026",
       "kod": "biwg26",
       "kierunek": "BIWG",
@@ -89,23 +72,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "wefiz-ds-1-st-2026",
-      "kod": "ds26",
-      "kierunek": "DS",
-      "system": {
-        "nazwa": "Data Science (DS)",
-        "rok": "1 rokI"
-      },
-      "pl": "Data Science",
-      "en": "Data Science",
-      "stopien": 1,
-      "rok": 1,
-      "tryb": "st",
-      "nabor": 2026,
-      "maPlan": false,
-      "grupy": []
     },
     {
       "id": "wefiz-eaia-1-st-2026",
@@ -423,40 +389,6 @@
       ]
     },
     {
-      "id": "wefiz-mkt-1-st-2026",
-      "kod": "mkt26",
-      "kierunek": "MKT",
-      "system": {
-        "nazwa": "Marketing (M)",
-        "rok": "1 rokI"
-      },
-      "pl": "Marketing",
-      "en": "Marketing",
-      "stopien": 1,
-      "rok": 1,
-      "tryb": "st",
-      "nabor": 2026,
-      "maPlan": false,
-      "grupy": []
-    },
-    {
-      "id": "wefiz-mbt-1-st-2026",
-      "kod": "mbt26",
-      "kierunek": "MBT",
-      "system": {
-        "nazwa": "Międzynarodowy biznes turystyczny (MBT)",
-        "rok": "1 rokI"
-      },
-      "pl": "Międzynarodowy biznes turystyczny",
-      "en": "International Tourism Business",
-      "stopien": 1,
-      "rok": 1,
-      "tryb": "st",
-      "nabor": 2026,
-      "maPlan": false,
-      "grupy": []
-    },
-    {
       "id": "wefiz-pii-1-st-2026",
       "kod": "pii26",
       "kierunek": "PII",
@@ -477,23 +409,6 @@
           "podgrupy": []
         }
       ]
-    },
-    {
-      "id": "wefiz-rn-1-st-2026",
-      "kod": "rn26",
-      "kierunek": "RN",
-      "system": {
-        "nazwa": "Rynek Nieruchomości (RN)",
-        "rok": "1 rokI"
-      },
-      "pl": "Rynek Nieruchomości",
-      "en": "Real Estate Market",
-      "stopien": 1,
-      "rok": 1,
-      "tryb": "st",
-      "nabor": 2026,
-      "maPlan": false,
-      "grupy": []
     },
     {
       "id": "wefiz-tir-1-st-2026",
@@ -606,6 +521,33 @@
           "podgrupy": []
         }
       ]
+    }
+  ],
+  "tylkoIIStopnia": [
+    {
+      "nazwa": "Audyt finansowy (AF)",
+      "pl": "Audyt finansowy",
+      "uwaga": "kierunek tylko II stopnia – plany II st. w kierunki/"
+    },
+    {
+      "nazwa": "Data Science (DS)",
+      "pl": "Data Science",
+      "uwaga": "kierunek tylko II stopnia – plany II st. w kierunki/"
+    },
+    {
+      "nazwa": "Marketing (M)",
+      "pl": "Marketing",
+      "uwaga": "kierunek tylko II stopnia – plany II st. w kierunki/"
+    },
+    {
+      "nazwa": "Międzynarodowy biznes turystyczny (MBT)",
+      "pl": "Międzynarodowy biznes turystyczny",
+      "uwaga": "kierunek tylko II stopnia – plany II st. w kierunki/"
+    },
+    {
+      "nazwa": "Rynek Nieruchomości (RN)",
+      "pl": "Rynek Nieruchomości",
+      "uwaga": "kierunek tylko II stopnia – plany II st. w kierunki/"
     }
   ]
 }

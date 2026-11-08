@@ -1,0 +1,474 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Logistyka",
+ "id": "wefiz-log-2-st-2025",
+ "kod": "logm25",
+ "kierunekEn": "Logistyka",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:23:06.341Z",
+ "checkedAt": "2026-11-08T20:23:06.341Z",
+ "groups": {
+  "C631": {
+   "odd": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Wojciech Drożdż",
+     "r": "gab. SIL 216"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "gab. SIL 252"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Marta Mańkowska",
+     "r": "gab. 312"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "gab. SIL 253"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Blanka Tundys",
+     "r": "gab. SIL 215"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język angielski ul. wawrzyniaka 15, s.210 mgr aleksandra meyer",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15,",
+     "r": "s. 107 mgr Magdalena Kisiel-Spychała"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Modele biznesowe w transporcie i handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 623"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Planowanie i sterowanie procesami logistycznymi (ćw) moduł mld",
+     "k": "X",
+     "p": "dr Magdalena Kogut-Jaworska",
+     "r": "s. 607"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Modele biznesowe w transporcie i handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 623"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Społeczna odpowiedzialność biznesu w tsl",
+     "k": "CW",
+     "p": "dr Agnieszka Kwarcińska",
+     "r": "s. 623"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 623 dr Agnieszka Kwarcińska",
+     "dates": [
+      "2026-11-03"
+     ],
+     "n": "Jednorazowo: 3.11.2026"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Analiza efektywności w logistyce",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Wojciech Drożdż",
+     "r": "gab. SIL 216"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "gab. SIL 252"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Marta Mańkowska",
+     "r": "gab. 312"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "gab. SIL 253"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Blanka Tundys",
+     "r": "gab. SIL 215"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Zarządzanie transportem w łańcuchach dostaw (w) moduł mld",
+     "k": "X",
+     "p": "dr hab. prof. US Marta Mańkowska",
+     "r": "s. 003"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język angielski ul. wawrzyniaka 15, s.210 mgr aleksandra meyer",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15,",
+     "r": "s. 107 mgr Magdalena Kisiel-Spychała"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Analiza efektywności w logistyce",
+     "k": "W",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Zarządzanie infrastrukturą logistyczną (w) moduł mld",
+     "k": "X",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Zarządzanie transportem w łańcuchach dostaw (ćw) moduł mld",
+     "k": "X",
+     "p": "dr hab. prof. US Marta Mańkowska",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Analiza efektywności w logistyce",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Andrzej Rzeczycki",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Zarządzanie infrastrukturą logistyczną (lb) grupa a moduł mld",
+     "k": "X",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Bi w logistyce (lb) grupa b moduł mld",
+     "k": "X",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Planowanie i sterowanie procesami logistycznymi (w) moduł mld",
+     "k": "X",
+     "p": "dr Magdalena Kogut-Jaworska",
+     "r": "s. 707"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Bi w logistyce (lb) grupa a moduł mld",
+     "k": "X",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Zarządzanie infrastrukturą logistyczną (lb) grupa b moduł mld",
+     "k": "X",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c631-38/",
+    "title": "GRUPA C631",
+    "ym": "2026-10",
+    "pub": "2026-10-22",
+    "text": "Dnia 17.11.2026 zostają odwołane zajęcia z dr Agnieszką Kwarcińską. Termin odrobienia zajęć: 03.11.2026 godz. 15:15 sala 623"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c631a-i-c631b/",
+    "title": "GRUPA C631a i C631b",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Dnia 27.10.2026 zostają odwołane zajęcia z dr inż. Piotrem Gutowskim. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C631": [
+    {
+     "type": "note",
+     "date": "2026-10-27",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-03",
+     "start": "15:15",
+     "end": "16:45",
+     "pl": "Społeczna odpowiedzialność biznesu w tsl",
+     "k": "CW",
+     "p": "dr Agnieszka Kwarcińska",
+     "r": "s. 623",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-17",
+     "start": "13:45",
+     "pl": "Społeczna odpowiedzialność biznesu w tsl",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:31.209Z"
+ }
+}

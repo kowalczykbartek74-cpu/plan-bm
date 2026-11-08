@@ -177,11 +177,18 @@ export async function znajdz(get, { lata = null, stopnie = null, tylko = null, l
   return wyniki;
 }
 
+// Nazwa angielska ze słownika config/nazwy-en.json (nazwa PL z systemu → EN), bez rozróżniania wielkości liter.
+export function enNazwa(nazwa, plik = "config/nazwy-en.json") {
+  if (!fs.existsSync(plik)) return null;
+  const slownik = JSON.parse(fs.readFileSync(plik, "utf8"));
+  const n = String(nazwa).toLowerCase();
+  return Object.entries(slownik).find(([k]) => k.toLowerCase() === n)?.[1] || null;
+}
 export function zapiszKonfiguracje(wyniki, { dir = "kierunki", odswiez = false, naSucho = false, teraz = new Date() } = {}) {
   const raport = { nowe: [], pominiete: [], bezGrup: [] };
   for (const w of wyniki) {
     if (!w.grupy.length) { raport.bezGrup.push(w); continue; }
-    const c = konfiguracja(w, w.stopien, w.rok, w.grupy, { teraz });
+    const c = konfiguracja(w, w.stopien, w.rok, w.grupy, { teraz, en: enNazwa(w.nazwa) });
     const p = `${dir}/${c.id}.json`;
     const stary = fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, "utf8")) : null;
     // BM 1. roku ma plan.json (osobna konfiguracja w update-plan.mjs)

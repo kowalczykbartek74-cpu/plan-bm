@@ -1,0 +1,429 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Ekonomia",
+ "id": "wefiz-ek-1-st-2025",
+ "kod": "ek25",
+ "kierunekEn": "Ekonomia",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:20:03.407Z",
+ "checkedAt": "2026-11-08T20:20:03.407Z",
+ "groups": {
+  "M210": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Ekonomia zrównoważonego rozwoju",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Barbara Kryk",
+     "r": "s. N202 MBA"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Warsztaty IT w ekonomii",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr inż. Krzysztof Lorenz",
+     "r": "s. S0315 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język hiszpański",
+     "k": "K",
+     "h": 30,
+     "p": "mgr Agnieszka Jakóbiak ACKJ",
+     "r": "sala 108"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "h": 30,
+     "p": "dr Ewa Bilewicz",
+     "r": "s. N202 MBA"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski (lk)(30) gr.1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski (lk)(30) gr.2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Sprawozdawczość finansowa",
+     "k": "CW",
+     "h": 15,
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0123"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Metodyka badań ekonomicznych",
+     "k": "W",
+     "h": 15,
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "s. S017"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Ekonomia zrównoważonego rozwoju",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S0103"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Sprawozdawczość finansowa",
+     "k": "W",
+     "h": 15,
+     "p": "dr Daniel Szostak",
+     "r": "s. S03"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Ekonomia sektora publicznego",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S0123"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Metody ilościowe w ekonomii",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. S02"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Metody ilościowe w ekonomii",
+     "k": "LAB",
+     "h": 15,
+     "p": "mgr Michał Frej",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Język hiszpański",
+     "k": "K",
+     "h": 30,
+     "p": "mgr Agnieszka Jakóbiak ACKJ",
+     "r": "sala 108"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "h": 30,
+     "p": "dr Ewa Bilewicz",
+     "r": "s. N202 MBA"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski (lk)(30) gr.1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski (lk)(30) gr.2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Warsztaty badań ekonomicznych",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Joanna Kowalik",
+     "r": "s. S0123"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Międzynarodowe stosunki gospodarcze",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Ewa Bilewicz",
+     "r": "s. N202 MBA"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Ekonomia behawioralna",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S03"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Warsztaty badań ekonomicznych",
+     "k": "LAB",
+     "h": 15,
+     "p": "dr Joanna Kowalik",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Ekonomia sektora publicznego",
+     "k": "K",
+     "h": 15,
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Ekonomia behawioralna",
+     "k": "CW",
+     "h": 15,
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S03"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczególowy harmomogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [],
+  "zmiany": {
+   "M210": []
+  },
+  "updatedAt": "2026-11-08T20:37:43.126Z"
+ }
+}

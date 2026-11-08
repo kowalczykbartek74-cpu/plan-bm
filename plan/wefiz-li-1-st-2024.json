@@ -1,0 +1,410 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Logistyka inż.",
+ "id": "wefiz-li-1-st-2024",
+ "kod": "li24",
+ "kierunekEn": "Logistyka inż.",
+ "wydzial": "WEFiZ",
+ "rok": 3,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:22:45.308Z",
+ "checkedAt": "2026-11-08T20:22:45.308Z",
+ "groups": {
+  "C361": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Tomasz Kwarciński",
+     "r": "gab. 326"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "gab. SIL 246"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Industrial and organizational psychology",
+     "k": "K",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. 104"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Cybersecurit in logistics management",
+     "k": "K",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Język hiszpański moduł ii gr. b ul. wawrzyniaka 15, s.210 mgr agnnieszka jakóbiak",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Inżynieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 041"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. prof. US Blanka Tundys",
+     "r": "s. 046"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 112"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Język angielski gr. b ul. wawrzyniaka 15, s.108 mgr p. krywult",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI moduł II gr. 3 ul. Wawrzyniaka 15,",
+     "r": "s. 6 mgr M. Kisiel-Spychała"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Inżynieria ruchu kolejowego",
+     "k": "CW",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 423 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 047"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Język angielski gr. d ul. wawrzyniaka 15, s. 108 mgr p. krywult",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 041"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. prof. US Tomasz Kwarciński",
+     "r": "gab. 326"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "gab. SIL 246"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Język hiszpański moduł ii gr. b ul. wawrzyniaka 15, s.210 mgr agnnieszka jakóbiak",
+     "k": "X"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Inżynieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 041"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. 407"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 407"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Język angielski gr. b ul. wawrzyniaka 15, s.108 mgr p. krywult",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI moduł II gr. 3 ul. Wawrzyniaka 15,",
+     "r": "s. 6 mgr M. Kisiel-Spychała"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Inżynieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 423 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. prof. US Tomasz Kwarciński",
+     "r": "s. 407"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 407"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Język angielski gr. d ul. wawrzyniaka 15, s. 108 mgr p. krywult",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 407"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk humanistycznych",
+     "k": "W",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [],
+  "zmiany": {
+   "C361": []
+  },
+  "updatedAt": "2026-11-08T20:38:20.049Z"
+ }
+}

@@ -1,0 +1,574 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Informatyka i Ekonometria",
+ "id": "wefiz-iie-1-st-2025",
+ "kod": "iie25",
+ "kierunekEn": "Informatyka i Ekonometria",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:21:28.543Z",
+ "checkedAt": "2026-11-08T20:21:28.543Z",
+ "groups": {
+  "M240": {
+   "odd": [
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Matematyka finansowa",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Beata Bieszk-Stolorz",
+     "r": "s. S07"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "h": 15,
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S07"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "IT tools in marketing (narzędzia IT w marketingu)",
+     "k": "W",
+     "h": 15,
+     "p": "dr Agata Wawrzyniak",
+     "r": "s. S07"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S07"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki 30h",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. 107 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71/79",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Bazy danych",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "IT tools in marketing (narzędzia IT w marketingu)",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "mgr Bartosz Muszyński",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Programowanie stron www",
+     "k": "W",
+     "h": 15,
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. S07"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Bazy danych",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "IT tools in marketing (narzędzia IT w marketingu)",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "mgr Bartosz Muszyński",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Symulacja komputerowa systemów",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Małgorzata Łatuszyńska",
+     "r": "s. S08"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Analiza ekonomiczna",
+     "k": "W",
+     "h": 15,
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S07"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Metodologia badań naukowych",
+     "k": "CW",
+     "h": 15,
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s. S07"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 1",
+     "k": "X",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0202"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Język angielski 30h gr. 2",
+     "k": "X",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Analiza ekonomiczna",
+     "k": "CW",
+     "h": 15,
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S07"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Rachunek prawdopodobieństwa i statystyka matematyczna",
+     "k": "W",
+     "h": 15,
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "s. S07"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Symulacja komputerowa systemów",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "dr hab. prof. US Małgorzata Łatuszyńska",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Programowanie stron www",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N101/102 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Matematyka finansowa",
+     "k": "CW",
+     "h": 15,
+     "p": "dr hab. prof. US Beata Bieszk-Stolorz",
+     "r": "s. S07"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język niemiecki 30h",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. 107 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Bazy danych",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Rachunek prawdopodobieństwa i statystyka matematyczna",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N021A (lab)"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Symulacja komputerowa systemów",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "dr hab. prof. US Małgorzata Łatuszyńska",
+     "r": "s. N105 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Programowanie stron www",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N101/102 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Bazy danych",
+     "k": "W",
+     "h": 15,
+     "p": "dr Barbara Królikowska",
+     "r": "s. S01"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Bazy danych",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Rachunek prawdopodobieństwa i statystyka matematyczna",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N021A (lab)"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m150-m151-m160-m240-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniach-03-04-11-2026-r/",
+    "title": "M150, M151, M160, M240- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Wszystkie zajęcia z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r. nie odbędą się. Terminy odrobienia zajęć: 1 rok GN, wykład- 05.11.2026 r., godz. 12.00, sala S017 M151, ćwiczenia- 05.11.2026 r., godz. 13.45, sala S017 M160, wykład- 10.11.2026 r., godz. 10.00, sala S07 M160, ćwiczenia- 10.11.2026 r., godz. 12.00, sala S103 M150, ćwiczenia- 12.11.2026 r. godz. 12.00, sala S08 M240, wykład i ćwiczenia- terminy odrobienia zostaną podane w terminie późniejszym"
+   }
+  ],
+  "zmiany": {
+   "M240": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-05",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M151",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-05",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-10",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S07 M160",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-10",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S103 M150",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S08 M240",
+     "post": 0,
+     "dup": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:37:44.088Z"
+ }
+}

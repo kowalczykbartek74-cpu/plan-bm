@@ -10,7 +10,9 @@ import { pathToFileURL } from "node:url";
 import { znajdz, kodZ, nabor, idRocznika, prefiks, WYDZIAL } from "./wefiz-wszystkie.mjs";
 import { uczelnia } from "./uczelnia.mjs";
 
-export function zbuduj(wyniki, bezPlanu, { en = {}, teraz = new Date(), aktualizacja = null } = {}) {
+// drugiStopien: nazwy kierunków w systemie („Audyt finansowy (AF)”), które mają plany II stopnia (kierunki/*.json, stopien 2).
+// Taki kierunek bez 1. roku I st. to kierunek tylko II stopnia – nie wpisujemy go jako „1. rok I st. bez planu”.
+export function zbuduj(wyniki, bezPlanu, { en = {}, teraz = new Date(), aktualizacja = null, drugiStopien = new Set() } = {}) {
   const wpis = (w, maPlan) => {
     const kod = kodZ(w.skrot || w.nazwa), nab = nabor(1, teraz);
     return {
@@ -26,10 +28,12 @@ export function zbuduj(wyniki, bezPlanu, { en = {}, teraz = new Date(), aktualiz
       ...(w.zrodlo && w.zrodlo !== "plan kierunku" ? { uwaga: w.zrodlo } : {}),
     };
   };
-  const kierunki = [...wyniki.map((w) => wpis(w, true)), ...bezPlanu.map((w) => wpis(w, false))]
+  const tylkoII = bezPlanu.filter((w) => drugiStopien.has(w.pelna));
+  const kierunki = [...wyniki.map((w) => wpis(w, true)), ...bezPlanu.filter((w) => !drugiStopien.has(w.pelna)).map((w) => wpis(w, false))]
     .sort((a, b) => a.pl.localeCompare(b.pl, "pl"));
   return { opis: "Wygenerowane: node scripts/kierunki-1rok.mjs (z systemu planów WEFiZ). Nie edytuj ręcznie, nazwy EN w config/nazwy-en.json.",
-    zrodlo: "https://planyzajec-efz.usz.edu.pl/plan", wydzial: { ...WYDZIAL }, aktualizacja, wygenerowano: teraz.toISOString().slice(0, 10), kierunki };
+    zrodlo: "https://planyzajec-efz.usz.edu.pl/plan", wydzial: { ...WYDZIAL }, aktualizacja, wygenerowano: teraz.toISOString().slice(0, 10), kierunki,
+    ...(tylkoII.length ? { tylkoIIStopnia: tylkoII.map((w) => ({ nazwa: w.pelna, pl: w.nazwa, uwaga: "kierunek tylko II stopnia – plany II st. w kierunki/" })).sort((a, b) => a.pl.localeCompare(b.pl, "pl")) } : {}) };
 }
 
 export function tabela(cfg) {
@@ -43,12 +47,15 @@ async function main(argv) {
   const get = uczelnia({ log: (s) => console.error(s) });
   const wyniki = await znajdz(get, { lata: [1], stopnie: [1], tylko });
   const en = fs.existsSync("config/nazwy-en.json") ? JSON.parse(fs.readFileSync("config/nazwy-en.json", "utf8")) : {};
-  const cfg = zbuduj(wyniki, wyniki.bezPlanu, { en, aktualizacja: await get.aktualizacja() });
+  const drugiStopien = new Set(fs.existsSync("kierunki") ? fs.readdirSync("kierunki").filter((f) => f.endsWith(".json"))
+    .map((f) => JSON.parse(fs.readFileSync(`kierunki/${f}`, "utf8"))).filter((c) => c.stopien === 2 && c.system?.nazwa).map((c) => c.system.nazwa) : []);
+  const cfg = zbuduj(wyniki, wyniki.bezPlanu, { en, aktualizacja: await get.aktualizacja(), drugiStopien });
   fs.mkdirSync("config", { recursive: true });
   fs.writeFileSync("config/kierunki-1rok.json", JSON.stringify(cfg, null, 2) + "\n");
   console.log(tabela(cfg));
   const bezEn = cfg.kierunki.filter((k) => !k.en).map((k) => k.pl);
   console.log(`\n${cfg.kierunki.length} kierunków, z planem ${cfg.kierunki.filter((k) => k.maPlan).length}. Zapytania: sieć ${get.stat.siec}, cache ${get.stat.cache}.`);
+  if (cfg.tylkoIIStopnia) console.log("Tylko II stopień (bez 1. roku I st.): " + cfg.tylkoIIStopnia.map((k) => k.pl).join(", "));
   if (bezEn.length) console.log("Brak nazwy EN (config/nazwy-en.json): " + bezEn.join(", "));
 }
 

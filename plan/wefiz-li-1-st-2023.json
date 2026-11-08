@@ -1,0 +1,420 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Logistyka inż.",
+ "id": "wefiz-li-1-st-2023",
+ "kod": "li23",
+ "kierunekEn": "Logistyka inż.",
+ "wydzial": "WEFiZ",
+ "rok": 4,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:22:39.456Z",
+ "checkedAt": "2026-11-08T20:22:39.456Z",
+ "groups": {
+  "C461": {
+   "odd": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 034"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 034"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "gab. SIL 252"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Elżbieta Szaruga",
+     "r": "gab. 315"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Transport zrównoważony",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 034"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Smart logistics",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 034"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 623"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 104 prof. Beata Sadowska",
+     "dates": [
+      "2026-12-16"
+     ],
+     "n": "Jednorazowo: 16.12.2026"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Sylwia Kowalska",
+     "r": "sala 104",
+     "dates": [
+      "2026-12-16"
+     ],
+     "n": "Jednorazowo: 16.12.2026"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Smart logistics",
+     "k": "LAB",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Zarządzanie mobilnością",
+     "k": "W",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. 046"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "gab. SIL 252"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Elżbieta Szaruga",
+     "r": "gab. 315"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "W",
+     "p": "dr hab. prof. US Beata Sadowska",
+     "r": "s. 046"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "CW",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. 046"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. 423 (lab)"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c461-17/",
+    "title": "GRUPA C461",
+    "ym": "2026-11",
+    "pub": "2026-11-05",
+    "text": "Dnia 06.11.2026 zostają odwołane zajęcia z dr inż. Damianem Bonk. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c461-16/",
+    "title": "GRUPA C461",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Dnia 28.10.2026 zostają odwołane zajęcia z dr Sylwią Kowalską. Termin odrobienia zajęć: 16.12.2026 o godz. 15:30, sala 104."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c461-15/",
+    "title": "GRUPA C461",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "Dnia 14.10.2026 zostają odwołane zajęcia z prof. Beatą Sadowską. Termin odrobienia zajęć: 16.12.2026 godz. 13:45 sala 104"
+   }
+  ],
+  "zmiany": {
+   "C461": [
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "10:00",
+     "pl": "Rachunek kosztów dla inżynierów",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-28",
+     "start": "8:15",
+     "pl": "Zarządzanie mobilnością",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-06",
+     "start": "8:15",
+     "pl": "Transport zrównoważony",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-06",
+     "start": "10:00",
+     "pl": "Transport zrównoważony",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-16",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "W",
+     "p": "dr hab. prof. US Beata Sadowska",
+     "r": "s. 104",
+     "post": 2,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-16",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Zarządzanie mobilnością",
+     "k": "W",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. 104",
+     "post": 1,
+     "dup": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:20.045Z"
+ }
+}

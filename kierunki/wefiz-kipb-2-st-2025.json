@@ -1,0 +1,31 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-kipb-2-st-2025",
+  "kod": "kipbm25",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "KIPB",
+    "pl": "Komunikacja i psychologia w biznesie",
+    "en": "Communication and Psychology in Business"
+  },
+  "stopien": 2,
+  "tryb": "st",
+  "nabor": 2025,
+  "rok": 2,
+  "system": {
+    "nazwa": "Komunikacja i psychologia w biznesie (KiPB)",
+    "rok": "2 rokII"
+  },
+  "grupy": [
+    "C621",
+    "C622"
+  ],
+  "plik": "plan/wefiz-kipb-2-st-2025.json",
+  "odwolania": [
+    "dos"
+  ]
+}

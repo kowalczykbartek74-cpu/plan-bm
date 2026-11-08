@@ -1,0 +1,31 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-tir-1-st-2024",
+  "kod": "tir24",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "TIR",
+    "pl": "Turystyka i Rekreacja",
+    "en": "Tourism and Recreation"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2024,
+  "rok": 3,
+  "system": {
+    "nazwa": "Turystyka i Rekreacja (TiR)",
+    "rok": "3 rokI"
+  },
+  "grupy": [
+    "M330",
+    "M331"
+  ],
+  "plik": "plan/wefiz-tir-1-st-2024.json",
+  "odwolania": [
+    "dos"
+  ]
+}

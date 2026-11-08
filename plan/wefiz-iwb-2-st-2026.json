@@ -1,0 +1,330 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Informatyka w Biznesie",
+ "id": "wefiz-iwb-2-st-2026",
+ "kod": "iwbm26",
+ "kierunekEn": "Informatyka w Biznesie",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:22:06.680Z",
+ "checkedAt": "2026-11-08T20:22:06.680Z",
+ "groups": {
+  "C571": {
+   "odd": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Nowe media w biznesie",
+     "k": "CW",
+     "p": "dr Adam Rudawski",
+     "r": "s. SIL 325"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Uczenie maszynowe",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "MS Teams IwB II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Technologie 3d w biznesie",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. 323 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Uczenie maszynowe",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Zarządzanie wiedzą",
+     "k": "W",
+     "p": "dr hab. prof. US Ewa Krok",
+     "r": "MS Teams IwB II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Technologie 3d w biznesie",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. 323 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Administrowanie systemami środowiska linux",
+     "k": "LAB",
+     "p": "mgr inż. Justyna Szydłowska-Samsel",
+     "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Design thinking w IT",
+     "k": "W",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "MS Teams IwB II 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "E-marketing",
+     "k": "W",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "MS Teams IwB II 1rok",
+     "tag": "e-learning"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Technologie 3d w biznesie",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. 323 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "E-marketing",
+     "k": "LAB",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Uczenie maszynowe",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Design thinking w IT",
+     "k": "CW",
+     "p": "mgr inż. Loran Nermend",
+     "r": "s. SIL 325"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Gry menedżerskie",
+     "k": "LAB",
+     "p": "dr hab. prof. US Karol Kuczera",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Administrowanie systemami środowiska linux",
+     "k": "LAB",
+     "p": "mgr inż. Justyna Szydłowska-Samsel",
+     "r": "s. SIL 116 (lab)"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c571-23/",
+    "title": "GRUPA C571",
+    "ym": "2026-10",
+    "pub": "2026-10-14",
+    "text": "Dnia 21.10.2026 zostają odwołane zajęcia z mgr inż. Justyną Szydłowska-Samsel Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/c571-zmiana-sali/",
+    "title": "C571 ZMIANA SALI",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "ZMIANA SALI ŚRODA PARZYSTA – GRY MENEDŻERSKIE (LB) SALA SIL 134/136 LAB"
+   }
+  ],
+  "zmiany": {
+   "C571": [
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "12:00",
+     "pl": "Administrowanie systemami środowiska linux",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:37:52.368Z"
+ }
+}

@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "06.11.2026 11:48",
  "changedAt": "2026-11-08T18:39:33.474Z",
- "checkedAt": "2026-11-08T18:54:53.436Z",
+ "checkedAt": "2026-11-08T20:19:19.523Z",
  "groups": {
   "M100": {
    "odd": [
@@ -397,10 +397,24 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m100-odwolanie-zajec-z-mgrem-inz-michalem-gracelem-w-dniu-23-10-2026-r/",
+    "title": "M100- odwołanie zajęć z mgrem inż. Michałem Gracelem w dniu 23.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Zajęcia z mgrem inż. Michałem Gracelem w dniu 23.10.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie podany w terminie późniejszym."
+   }
+  ],
   "zmiany": {
-   "M100": []
+   "M100": [
+    {
+     "type": "note",
+     "date": "2026-10-23",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T18:37:59.021Z"
+  "updatedAt": "2026-11-08T20:37:12.392Z"
  }
 }

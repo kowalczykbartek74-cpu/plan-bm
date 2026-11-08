@@ -1,0 +1,30 @@
+{
+  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "id": "wefiz-zoze-1-st-2024",
+  "kod": "zoze24",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "ZOZE",
+    "pl": "Zarządzanie odnawialnymi źródłami energii",
+    "en": "Renewable Energy Management"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2024,
+  "rok": 3,
+  "system": {
+    "nazwa": "Zarządzanie odnawialnymi źródłami energii (ZOZE)",
+    "rok": "3 rokI"
+  },
+  "grupy": [
+    "C341"
+  ],
+  "plik": "plan/wefiz-zoze-1-st-2024.json",
+  "odwolania": [
+    "dos"
+  ]
+}

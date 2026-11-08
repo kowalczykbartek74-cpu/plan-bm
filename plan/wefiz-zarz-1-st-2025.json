@@ -1,0 +1,664 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Zarządzanie",
+ "id": "wefiz-zarz-1-st-2025",
+ "kod": "zarz25",
+ "kierunekEn": "Zarządzanie",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T20:24:35.722Z",
+ "checkedAt": "2026-11-08T20:24:35.722Z",
+ "groups": {
+  "C251": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Informatyka w zarządzaniu",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "g": "B",
+     "p": "mgr Maciej Lewandowski",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Analiza ekonomiczna",
+     "k": "CW",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. 307"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "g": "A",
+     "p": "mgr Maciej Lewandowski",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Informatyka w zarządzaniu",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 307"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Język angielski gr. 1 ul. cukrowa, s. 507 mgr a.hancewicz",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15,",
+     "r": "s. 107 mgr M.Kisiel- Spychała"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Zarządzanie produkcją",
+     "k": "CW",
+     "p": "dr Anna Bielawa",
+     "r": "s. SIL 325"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Badania marketingowe",
+     "k": "CW",
+     "p": "dr Justyna Simińska",
+     "r": "s. 707"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język angielski gr. 2 ul. cukrowa, s. 507 mgr a.hancewicz",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-03",
+      "2026-12-17"
+     ],
+     "n": "Tylko: 3.12, 17.12",
+     "x": "WYJŚCIE W RAMACH ZAJĘĆ TERENOWYCH SZKOLENIE Z OBRONY CYWILNEJ"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr hab. prof. US Rafał Klóska",
+     "r": "s. 042"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Wyjście w ramach zajęć terenowych",
+     "k": "X",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Odrabianie zajęć grupa c251a",
+     "k": "X",
+     "r": "sala 423 mgr Maciej Lewandowski",
+     "dates": [
+      "2026-12-16"
+     ],
+     "n": "Jednorazowo: 16.12.2026"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Wyjście w ramach zajęć terenowych",
+     "k": "X",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Badania marketingowe",
+     "k": "W",
+     "p": "dr hab. prof. US Augustyna Burlita",
+     "r": "s. 707"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Rafał Czyżycki",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "W",
+     "p": "dr hab. prof. US Wojciech Jarecki",
+     "r": "s. 623"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 307"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Język angielski gr. 1 ul. cukrowa, s. 507 mgr a.hancewicz",
+     "k": "X",
+     "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15,",
+     "r": "s. 107 mgr M.Kisiel- Spychała"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Rafał Czyżycki",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "p": "dr hab. prof. US Beata Sadowska",
+     "r": "s. 104"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Język angielski gr. 2 ul. cukrowa, s. 507 mgr a.hancewicz",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Rafał Czyżycki",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    },
+    {
+     "d": 3,
+     "s": 5,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "x": "Szczegółowy harmonogram na stronie Wydziału"
+    },
+    {
+     "d": 0,
+     "s": 6,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "p": "SWFiS",
+     "r": "Sala Sportowa"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c251a-i-c25b/",
+    "title": "GRUPA C251a i C25b",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Dnia 20.10.2026 zostaną odwołane zajęcia o godz. 10:00 i 12:00 z mgr Maciejem Lewandowskim. Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c251-40/",
+    "title": "GRUPA C251",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Dnia 28.10.2026 zostaje odwołane zajęcia z prof. Katarzyną Gadomską- Lila. Termin odrobienia zajęć: 28.10.2026 godz. 8:15 s. SIL 323"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c251-39/",
+    "title": "GRUPA C251",
+    "ym": "2026-10",
+    "pub": "2026-10-14",
+    "text": "Dnia 15.10.2026 o godz. 15:30 w sali SIL 315 odbędzie się odrabianie zajęć dr hab. prof. US Katarzyną Gadomska-Lila z dnia 20.10.2026 r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c251-38/",
+    "title": "GRUPA C251",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Dnia 20.10.2026 zostaje odwołane zajęcia z prof. Katarzyną Gadomską- Lila. Termin odrobienia zajęć: 14.10.2026 godz. 13:45 s. 112"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c251-37/",
+    "title": "GRUPA C251",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Dnia 14.10.2026 o godz. 8:15-9:45 w sali 623 odbędzie się odrabianie zajęć z mgr Oliwią Zielińską."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c251-36/",
+    "title": "GRUPA C251",
+    "ym": "2026-10",
+    "pub": "2026-10-01",
+    "text": "Dnia 14.10.2026 zostają odwołane zajęcia z prof. Beatą Sadowską. Termin odrobienia zajęć: 28.10..2026 godz. 13:45 s. 104"
+   }
+  ],
+  "zmiany": {
+   "C251": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-14",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. 623",
+     "post": 4
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "12:00",
+     "pl": "Podstawy rachunkowości",
+     "post": 5,
+     "posts": [
+      5
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-14",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
+     "r": "s. 112",
+     "post": 3
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-15",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
+     "r": "s. SIL 315",
+     "post": 2
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "10:00",
+     "pl": "Badania marketingowe",
+     "g": "A",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "12:00",
+     "pl": "Zachowania organizacyjne",
+     "post": 2,
+     "posts": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-10-28",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-28",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Zachowania organizacyjne",
+     "k": "X",
+     "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
+     "r": "s. SIL 323",
+     "post": 1
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T20:38:59.947Z"
+ }
+}
