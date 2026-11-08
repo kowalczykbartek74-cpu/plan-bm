@@ -67,6 +67,9 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   znajduje grupy każdego kierunku i roku (z planu kierunku, a gdy go brak: z listy grup i wspólnych przedmiotów) i zapisuje brakujące
   `kierunki/<id>.json` (te same pola co z skrot-bm; plików ze Skrótu nie rusza). Raport: `docs/wefiz-wszystkie.md`. ≤ 1 zapytanie/s,
   raz w semestrze. `--lata 1` = tylko 1. rok, `--tylko "Logistyka"`, `--odswiez` = nadpisz własne pliki.
+  Gdy strona kierunku nie podaje numerów grup, a formularz nie ma ich listy (np. Marketing II st.), skrypt przegląda numery
+  `C100–C499` i `M100–M499` (`--skan-litery`, `--skan-zakres`) i przypisuje rok po wspólnych przedmiotach; wynik zostaje
+  w `docs/wefiz-grupy.json`, więc do zmiany „Aktualizacja planu” kolejne przebiegi nie pytają uczelni drugi raz (pierwszy: ok. 15 min).
 - Ten sam kierunek I i II stopnia (np. Ekonomia) to dwie pozycje na liście kierunków („Ekonomia (II stopień)”).
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”
   albo w pliku brakuje grupy (`--wymus` = zawsze), z przerwą ≥ 1 s między zapytaniami. BM jak dotąd.

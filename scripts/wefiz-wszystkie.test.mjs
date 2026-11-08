@@ -131,3 +131,35 @@ test("codzienny automat: inne roczniki bez pobierania, gdy uczelnia nic nie zmie
   assert.strictEqual(bezZmianUczelni(K, null, "08.11.2026", []), false, "pierwszy raz → pobieramy");
   assert.strictEqual(bezZmianUczelni({ ...K, html: true }, old, "08.11.2026", []), false, "BM zawsze pobiera jak dotąd");
 });
+
+test("formularz bez listy grup (Marketing II st.): przegląd numerów, rok po przedmiotach, pamięć do następnego przebiegu", async () => {
+  const MKT = ["AI w marketingu (w)", "Zarządzanie marką (ćw)", "Public relations (w)", "Marketing zrównoważony (k)", "Badania jakościowe w marketingu (lb)"];
+  const BEZ_LISTY = `<select name="Kieruek"><option>Marketing (M)</option></select><p>Aktualizacja planu: 06.11.2026 11:48</p>`;
+  const S = {
+    "plan": BEZ_LISTY,
+    "planKierunek?Kieruek=Marketing+%28M%29&rok=1+rokII": kier(MKT),          // plan kierunku bez numerów grup
+    "planGrup?numerGrupy=C412": stronaGrupy("Marketing", MKT),
+    "planGrup?numerGrupy=C413": stronaGrupy("Marketing", MKT.slice(0, 4)),
+    "planGrup?numerGrupy=C411": stronaGrupy("Logistyka", LOG),
+  };
+  const log = [];
+  const get = async (p) => { log.push(p); return S[p] ?? null; };
+  const w = await znajdz(get, { skan: { litery: ["C", "M"], od: 410, do: 414 } });
+  assert.deepStrictEqual(w.map((x) => [x.nazwa, x.stopien, x.rok, x.grupy, x.zrodlo]), [["Marketing", 2, 1, ["C412", "C413"], "przegląd numerów, rok po przedmiotach"]]);
+  assert.strictEqual(log.filter((p) => p.startsWith("planGrup")).length, 10, "5 numerów × 2 litery, każdy raz");
+  const r = zapiszKonfiguracje(w, { dir: fs.mkdtempSync(path.join(os.tmpdir(), "wefiz-")), teraz: TERAZ });
+  assert.deepStrictEqual(r.nowe.map((x) => [x.id, x.kod]), [["wefiz-mkt-2-st-2026", "mktm26"]]);
+  // drugi przebieg z pamięcią, ta sama „Aktualizacja planu”: strony grup nie są pobierane drugi raz
+  const pam = JSON.parse(JSON.stringify(w.pamiec));
+  assert.deepStrictEqual(Object.keys(pam.grupy).sort(), ["C411", "C412", "C413"]);
+  assert.strictEqual(pam.puste.length, 7);
+  const log2 = [];
+  const w2 = await znajdz(async (p) => { log2.push(p); return S[p] ?? null; }, { skan: { litery: ["C", "M"], od: 410, do: 414 }, pamiec: pam });
+  assert.deepStrictEqual(w2[0].grupy, ["C412", "C413"]);
+  assert.strictEqual(log2.filter((p) => p.startsWith("planGrup")).length, 0);
+  // nowa „Aktualizacja planu” = pamięć nieważna
+  S.plan = BEZ_LISTY.replace("06.11.2026", "07.11.2026");
+  const log3 = [];
+  await znajdz(async (p) => { log3.push(p); return S[p] ?? null; }, { skan: { litery: ["C"], od: 410, do: 414 }, pamiec: pam });
+  assert.strictEqual(log3.filter((p) => p.startsWith("planGrup")).length, 5);
+});

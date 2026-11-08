@@ -13,11 +13,14 @@
 // Raport: docs/wefiz-wszystkie.md (co znalezione, czego nie, skąd wzięty rok).
 // Grupy: (1) nazwy grup z planu kierunku i roku (planKierunek), każda sprawdzona na stronie grupy (planGrup: ten sam kierunek, ≥ 5 zajęć);
 //        (2) jeśli strona kierunku nie podaje grup: lista grup z formularza uczelni, kierunek ze strony grupy, a rok = rok,
-//            którego plan ma najwięcej tych samych przedmiotów (co najmniej połowę), z dopiskiem „rok dopasowany po przedmiotach”.
+//            którego plan ma najwięcej tych samych przedmiotów (co najmniej połowę), z dopiskiem „rok dopasowany po przedmiotach”;
+//        (3) gdy formularz nie ma listy grup (numer wpisuje się ręcznie, np. Marketing II st.): przegląd numerów
+//            <litera kampusu><100–499> (domyślnie C i M, --skan-litery, --skan-zakres), dalej jak w (2). Wynik przeglądu zostaje
+//            w docs/wefiz-grupy.json i do zmiany „Aktualizacja planu” na stronie uczelni kolejne przebiegi nie pytają uczelni drugi raz.
 // Testy: node --test scripts/*.test.mjs
 import fs from "node:fs";
 import { pathToFileURL } from "node:url";
-import { parseGroupPage } from "./parse.mjs";
+import { parseGroupPage, parseUpdated } from "./parse.mjs";
 
 export const BASE = process.env.PLAN_BASE_URL || "https://planyzajec-efz.usz.edu.pl/";
 const UA = "plan-bm (projekt studencki, plany kierunkow WEFiZ, 1 zapytanie/s; skrotbm@outlook.com)";
@@ -102,12 +105,22 @@ export function konfiguracja({ nazwa, skrot, pelna }, stopien, rok, grupy, { ter
 export const zSkrotu = (c) => /skrot-bm/.test(c?.opis || "") && !/wefiz-wszystkie/.test(c?.opis || "");
 
 // ---------- przebieg (get = funkcja pobierająca stronę uczelni; w testach atrapa) ----------
-export async function znajdz(get, { lata = null, tylko = null, log = () => {} } = {}) {
+export const numeryDoSkanu = ({ litery = ["C", "M"], od = 100, do: doN = 499 } = {}) => litery.flatMap((l) => Array.from({ length: doN - od + 1 }, (_, i) => l + (od + i)));
+
+// pamiec: { aktualizacja, grupy: { X: { kierunek, n, przedmioty: [...] } } } z poprzedniego przebiegu (docs/wefiz-grupy.json)
+export async function znajdz(get, { lata = null, tylko = null, log = () => {}, skan = {}, pamiec = null } = {}) {
   const start = await get("plan");
   const kierunki = kierunkiZFormularza(start || "").filter((k) => !tylko || tylko.includes(k.nazwa));
   if (!kierunki.length) throw new Error("Nie znalazłem listy kierunków na stronie planów.");
-  const wszystkieGrupy = grupyZFormularza(start || "");
+  const aktualizacja = parseUpdated(start || "");
+  const zFormularza = grupyZFormularza(start || "");
   const strony = new Map();    // planGrup?numerGrupy=X → { kierunek, przedmioty, n }
+  // ta sama „Aktualizacja planu” co w poprzednim przebiegu: strony grup z pamięci, bez pytania uczelni
+  if (pamiec && aktualizacja && pamiec.aktualizacja === aktualizacja) {
+    for (const [g, s] of Object.entries(pamiec.grupy || {})) strony.set(g, { kierunek: s.kierunek, n: s.n, przedmioty: new Set(s.przedmioty || []) });
+    for (const g of pamiec.puste || []) strony.set(g, { kierunek: null, n: 0, przedmioty: new Set() });
+  }
+  const wszystkieGrupy = zFormularza.length ? zFormularza : null;   // null = lista dopiero z przeglądu numerów (3), gdy będzie potrzebna
   const grupa = async (g) => {
     if (!strony.has(g)) {
       const html = await get(`planGrup?numerGrupy=${encodeURIComponent(g)}`);
@@ -133,16 +146,18 @@ export async function znajdz(get, { lata = null, tylko = null, log = () => {} } 
       }
       L.grupy = grupy; L.zrodlo = grupy.length ? "plan kierunku" : null;
     }
-    // (2) brak grup w planie kierunku: grupy z formularza o tym kierunku, rok po przedmiotach
+    // (2) brak grup w planie kierunku: grupy z formularza o tym kierunku, rok po przedmiotach; (3) bez listy w formularzu: przegląd numerów
     const bez = lataK.filter((L) => !L.grupy.length);
-    if (bez.length && wszystkieGrupy.length) {
+    const lista = wszystkieGrupy || (bez.length ? numeryDoSkanu(skan) : []);
+    const zrodlo2 = wszystkieGrupy ? "rok dopasowany po przedmiotach" : "przegląd numerów, rok po przedmiotach";
+    if (bez.length && lista.length) {
       const zajete = new Set(lataK.flatMap((L) => L.grupy));
-      for (const g of wszystkieGrupy) {
+      for (const g of lista) {
         if (zajete.has(g)) continue;
         const s = await grupa(g);
         if (s.kierunek !== k.nazwa || s.n < MIN_ENTRIES) continue;
         const best = lataK.map((L) => [podobienstwo(s.przedmioty, L.przedmioty), L]).sort((a, b) => b[0] - a[0])[0];
-        if (best && best[0] >= 0.5 && bez.includes(best[1])) { best[1].grupy.push(g); best[1].zrodlo = "rok dopasowany po przedmiotach"; }
+        if (best && best[0] >= 0.5 && bez.includes(best[1])) { best[1].grupy.push(g); best[1].zrodlo = zrodlo2; }
       }
     }
     for (const L of lataK) {
@@ -151,6 +166,11 @@ export async function znajdz(get, { lata = null, tylko = null, log = () => {} } 
       log(`${k.pelna} · ${L.rokForm}: ${L.grupy.join(", ") || "brak grup"}${L.zrodlo ? " (" + L.zrodlo + ")" : ""}`);
     }
   }
+  // pamięć do następnego przebiegu: grupy z planem (kierunek, przedmioty) i numery bez planu („Brak planu!”)
+  const istn = [...strony].filter(([, s]) => s.kierunek && s.n);
+  const nowaPamiec = { aktualizacja, grupy: Object.fromEntries(istn.map(([g, s]) => [g, { kierunek: s.kierunek, n: s.n, przedmioty: [...s.przedmioty] }])),
+    puste: [...strony].filter(([, s]) => !(s.kierunek && s.n)).map(([g]) => g).sort() };
+  Object.defineProperty(wyniki, "pamiec", { value: nowaPamiec, enumerable: false });
   return wyniki;
 }
 
@@ -187,7 +207,10 @@ ${[...r.nowe, ...r.pominiete, ...r.bezGrup].map(wiersz).join("\n")}
 // ---------- uruchomienie ----------
 async function main(argv) {
   const naSucho = argv.includes("--na-sucho");
-  const li = argv.indexOf("--lata"), ti = argv.indexOf("--tylko");
+  const li = argv.indexOf("--lata"), ti = argv.indexOf("--tylko"), sl = argv.indexOf("--skan-litery"), sz = argv.indexOf("--skan-zakres");
+  const skan = { ...(sl >= 0 ? { litery: argv[sl + 1].split(",") } : {}), ...(sz >= 0 ? { od: +argv[sz + 1].split("-")[0], do: +argv[sz + 1].split("-")[1] } : {}) };
+  const PAM = "docs/wefiz-grupy.json";
+  const pamiec = fs.existsSync(PAM) ? JSON.parse(fs.readFileSync(PAM, "utf8")) : null;
   const lata = li >= 0 ? argv[li + 1].split(",").map(Number) : null;
   const tylko = ti >= 0 ? argv[ti + 1].split(",").map((s) => s.trim()) : null;
   const pauza = () => new Promise((r) => setTimeout(r, 1100));
@@ -203,7 +226,9 @@ async function main(argv) {
     }
     throw new Error("brak odpowiedzi: " + path);
   };
-  const wyniki = await znajdz(get, { lata, tylko, log: (s) => console.log(s) });
+  const wyniki = await znajdz(get, { lata, tylko, skan, pamiec, log: (s) => console.log(s) });
+  fs.mkdirSync("docs", { recursive: true });
+  fs.writeFileSync(PAM, JSON.stringify(wyniki.pamiec, null, 1) + "\n");   // też przy --na-sucho: drugi przebieg nie pyta uczelni drugi raz
   const r = zapiszKonfiguracje(wyniki, { odswiez: argv.includes("--odswiez"), naSucho });
   const md = raportMd(r);
   if (!naSucho) { fs.mkdirSync("docs", { recursive: true }); fs.writeFileSync("docs/wefiz-wszystkie.md", md); }
