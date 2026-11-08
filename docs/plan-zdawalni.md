@@ -19,11 +19,11 @@ Przygotowane 8.11.2026. Gałęzie `plan-zdawalni` w repo `plan-bm` i `skrot-bm`.
 
 ## Krok A — teraz, nic nie psuje (ok. 10 min)
 
-**A1. ŚwiatDomen24 → zdawalni.pl → DNS** → dodaj rekord:
+**A1. (zrobione 8.11) ŚwiatDomen24 → zdawalni.pl → DNS** → dodaj rekord:
 - Typ `CNAME`, nazwa `plan`, wartość `kowalczykbartek74-cpu.github.io.` (z kropką na końcu, jeśli panel jej wymaga), TTL `300`.
 - Nic więcej nie ruszaj (rekordy `A`, `www`, `matura` zostają).
 
-**A2. GitHub → New repository**: nazwa `plan-skrotbm-przekierowanie`, **Public**, bez README / .gitignore / licencji (puste). Daj znać Claude'owi, wrzuci zawartość (albo: wgraj pliki z `plan-bm/docs/plan-skrotbm-przekierowanie/`, razem z `.github/` i `.nojekyll`).
+**A2. (zrobione 8.11, pliki wrzucone) GitHub → New repository**: nazwa `plan-skrotbm-przekierowanie`, **Public**, bez README / .gitignore / licencji (puste). Daj znać Claude'owi, wrzuci zawartość (albo: wgraj pliki z `plan-bm/docs/plan-skrotbm-przekierowanie/`, razem z `.github/` i `.nojekyll`).
 
 **A3. W nowym repo:** Settings → Pages → Source: **Deploy from a branch**, branch `main`, folder `/ (root)` → Save. **Domeny jeszcze nie wpisuj.** Zakładka Actions → jeśli jest przycisk „I understand… enable”, kliknij.
 

@@ -9,6 +9,7 @@ Stary adres planu zajęć. Plan jest teraz w repo [plan-bm](https://github.com/k
   Studenci BM mają w telefonach subskrypcje `plan.skrotbm.pl/kalendarz/C112.ics`; aplikacje kalendarza nie przechodzą
   przez przekierowanie strony, więc te pliki muszą tu leżeć naprawdę. UID-y wydarzeń są te same co na plan.zdawalni.pl,
   więc nic się nie dubluje.
+- Domena `plan.skrotbm.pl` jest ustawiona w Settings → Pages (GitHub sam dopisuje wtedy plik `CNAME`).
 - Zawartość tego repo powstaje w plan-bm: `docs/plan-skrotbm-przekierowanie/`. Tam ją zmieniaj.
 
 Domenę skrotbm.pl opłacaj tak długo, jak ktoś może mieć starą subskrypcję kalendarza (co najmniej do końca roku akademickiego 2026/27).
