@@ -11,8 +11,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:02:48.239Z",
- "checkedAt": "2026-11-08T21:02:48.239Z",
+ "changedAt": "2026-11-08T21:11:06.564Z",
+ "checkedAt": "2026-11-08T21:11:06.564Z",
  "groups": {
   "MWS3": {
    "odd": [
@@ -284,7 +284,7 @@
      "k": "S",
      "p": "dr hab. Jerzy Eider, prof. US",
      "r": "s. 120",
-     "pg": "gr1",
+     "pg": "sem1",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -315,7 +315,7 @@
      "k": "S",
      "p": "dr Małgorzata Paczyńska-Jędrycka",
      "r": "s. 26",
-     "pg": "gr2",
+     "pg": "sem2",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -437,7 +437,7 @@
      "k": "S",
      "p": "dr Daria Buczkowska",
      "r": "s. 26",
-     "pg": "gr3"
+     "pg": "sem3"
     }
    ],
    "even": [
@@ -709,7 +709,7 @@
      "k": "S",
      "p": "dr hab. Jerzy Eider, prof. US",
      "r": "s. 120",
-     "pg": "gr1",
+     "pg": "sem1",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -740,7 +740,7 @@
      "k": "S",
      "p": "dr Małgorzata Paczyńska-Jędrycka",
      "r": "s. 26",
-     "pg": "gr2",
+     "pg": "sem2",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -862,7 +862,7 @@
      "k": "S",
      "p": "dr Daria Buczkowska",
      "r": "s. 26",
-     "pg": "gr3"
+     "pg": "sem3"
     }
    ]
   }

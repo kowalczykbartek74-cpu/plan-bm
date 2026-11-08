@@ -16,7 +16,7 @@ import { kodStrony } from "../kierunki.mjs";
 export const API = "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php";
 export const APLIKACJA = "https://planyzajec-kfz.usz.edu.pl/index.html";
 const RODZAJ = { "Wykład": "W", "Ćwiczenia": "CW", "Ćwiczenia specjalistyczne": "CW", "Laboratorium": "LAB", "Konwersatoria": "K", "Seminarium": "S", "Zajęcia terenowe": "X", "Zajęcia": "X" };
-const PG = { "ćs": "ćs", lb: "lb", "ć": "ć", "ćw": "ć", k: "k", zt: "zt", gr: "gr" };
+const PG = { "ćs": "ćs", lb: "lb", "ć": "ć", "ćw": "ć", k: "k", zt: "zt", gr: "sem" };
 
 const iso = (r, m, d) => `${r}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
 const rok = (yy, m, start) => (yy ? (String(yy).length === 2 ? 2000 + +yy : +yy) : rokDla(m, start));

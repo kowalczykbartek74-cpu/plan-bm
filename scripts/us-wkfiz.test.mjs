@@ -29,7 +29,7 @@ test("wpis: prawdziwa godzina z nazwy, podgrupa, rodzaj, sala", () => {
   assert.deepEqual(w.wpis, { d: 0, time: ["08:00", "09:30"], pl: "teoria i metodyka lekkiej atletyki", k: "CW", p: "mgr Justyna Pyrgiel", r: "stadion lekkoatletyczny ul.Litewska 20", pg: "ćs1" });
   assert.equal(w.daty.length, 16);
   const s = wpis({ subject: "seminarium magisterskie 30h, [4gr]", type: "Seminarium", teacher: "dr X,", day: "Wtorek", startTime: "10:00", endTime: "11:30", room: "sala 313" });
-  assert.deepEqual([s.wpis.pg, s.wpis.k, s.wpis.p, s.wpis.r, s.daty], ["gr4", "S", "dr X", "s. 313", null]);
+  assert.deepEqual([s.wpis.pg, s.wpis.k, s.wpis.p, s.wpis.r, s.daty], ["sem4", "S", "dr X", "s. 313", null]);
   const c = wpis({ subject: "kurs na wychowacę wypoczynku 20h, w (3,10,17,24.11; 1,8,15,22.12; 12,19.01.27)", type: "Wykład", day: "Wtorek", startTime: "15:15", endTime: "16:45" });
   assert.equal(c.wpis.pg, undefined, "„w” = cały rok"); assert.equal(c.daty.length, 10);
 });

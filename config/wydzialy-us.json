@@ -35,6 +35,9 @@
       "kod": "wh", "skrot": "WH", "pl": "Wydział Humanistyczny", "en": "Faculty of Humanities",
       "oferta": "Wydział Humanistyczny",
       "parser": "wh",
+      "importer": "wh-xlsx.mjs",
+      "tylkoKierunki": ["HIST", "FA"],
+      "_tylkoKierunki": "pilot Etapu 4 (8.11.2026): tylko te kierunki; po zatwierdzeniu pilota usuń pole, a importer weźmie wszystkie pliki",
       "strony": [
         { "url": "https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "xlsx" },
         { "url": "https://hum.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", "tryb": "nst", "format": "xlsx" }

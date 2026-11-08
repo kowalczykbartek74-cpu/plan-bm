@@ -288,3 +288,39 @@ export function zapiszPlan(plik, groups, meta, { teraz = new Date().toISOString(
   if (!naSucho) { fs.mkdirSync(path.dirname(plik), { recursive: true }); fs.writeFileSync(plik, JSON.stringify(dane, null, 1) + "\n"); }
   return { ...wynik, status: !stary ? "nowy" : zmiana ? "zmiana" : "bez zmian" };
 }
+
+// ---------- XLSX: arkusze z komórkami i scaleniami (Etap 4, bez zależności) ----------
+// → [{ nazwa, komorki: { "B5": "tekst" }, scalenia: [[c0,r0,c1,r1]] (kolumny i wiersze od 0), wiersze, kolumny, kolory: { "B5": "FFRRGGBB" } }]
+export const kolumna = (lit) => [...lit].reduce((n, ch) => n * 26 + ch.charCodeAt(0) - 64, 0) - 1;
+export const adres = (ref) => { const m = /^([A-Z]+)(\d+)$/.exec(ref); return m ? [kolumna(m[1]), +m[2] - 1] : null; };
+export const nazwaKomorki = (c, r) => { let s = "", n = c + 1; while (n) { const x = (n - 1) % 26; s = String.fromCharCode(65 + x) + s; n = (n - 1 - x) / 26; } return s + (r + 1); };
+export function xlsxArkuszeDane(buf) {
+  const z = zip(buf);
+  const tekstPliku = (n) => (z[n] ? z[n]().toString("utf8") : "");
+  const wspolne = xlsxNapisy(buf);
+  const rels = Object.fromEntries([...tekstPliku("xl/_rels/workbook.xml.rels").matchAll(/<Relationship\b[^>]*Id="([^"]+)"[^>]*Target="([^"]+)"/g)].map((m) => [m[1], m[2]]));
+  // kolory wypełnienia (styl komórki → fill → fgColor rgb); motyw/indeks pomijamy
+  const st = tekstPliku("xl/styles.xml");
+  const fills = [...(st.match(/<fills[\s\S]*?<\/fills>/)?.[0] || "").matchAll(/<fill>([\s\S]*?)<\/fill>/g)].map((m) => /fgColor[^>]*rgb="([0-9A-F]{8})"/i.exec(m[1])?.[1] || null);
+  const xfs = [...(st.match(/<cellXfs[\s\S]*?<\/cellXfs>/)?.[0] || "").matchAll(/<xf\b([^>]*)/g)].map((m) => +(/fillId="(\d+)"/.exec(m[1])?.[1] || 0));
+  const out = [];
+  for (const m of tekstPliku("xl/workbook.xml").matchAll(/<sheet\b[^>]*name="([^"]+)"[^>]*r:id="([^"]+)"[^>]*\/?>/g)) {
+    const cel = rels[m[2]]; if (!cel) continue;
+    const x = tekstPliku("xl/" + cel.replace(/^\/?xl\//, ""));
+    const komorki = {}, kolory = {};
+    let wiersze = 0, kolumny = 0;
+    for (const c of x.matchAll(/<c\b([^>]*?)(?:\/>|>([\s\S]*?)<\/c>)/g)) {
+      const r = /r="([A-Z]+\d+)"/.exec(c[1])?.[1]; if (!r) continue;
+      const t = /t="([^"]+)"/.exec(c[1])?.[1], s = +(/s="(\d+)"/.exec(c[1])?.[1] || 0);
+      const v = /<v>([\s\S]*?)<\/v>/.exec(c[2] || "")?.[1];
+      const is = /<is>([\s\S]*?)<\/is>/.exec(c[2] || "")?.[1];
+      let wart = t === "s" ? wspolne[+v] : t === "inlineStr" ? encje([...(is || "").matchAll(/<t[^>]*>([\s\S]*?)<\/t>/g)].map((q) => q[1]).join("")) : v != null ? encje(v) : null;
+      const [ci, ri] = adres(r);
+      const kol = fills[xfs[s]]; if (kol && kol !== "FFFFFFFF") kolory[r] = kol;
+      if (wart != null && String(wart).trim() !== "") { komorki[r] = String(wart).replace(/\s+/g, " ").trim(); wiersze = Math.max(wiersze, ri + 1); kolumny = Math.max(kolumny, ci + 1); }
+    }
+    const scalenia = [...x.matchAll(/<mergeCell ref="([A-Z]+\d+):([A-Z]+\d+)"/g)].map((q) => [...adres(q[1]), ...adres(q[2])]);
+    out.push({ nazwa: encje(m[1]).trim(), komorki, scalenia, wiersze, kolumny, kolory });
+  }
+  return out;
+}

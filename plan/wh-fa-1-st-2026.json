@@ -1,0 +1,1580 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+ "wersja": "2026-11-03",
+ "sha256": "b8041b045edaaa657ffdca7b1caf8cdbbf96aa62f615c68928f00c03836e74f6",
+ "kierunek": "Filologia angielska",
+ "kierunekEn": "English Philology",
+ "id": "wh-fa-1-st-2026",
+ "kod": "fa26",
+ "wydzial": "WH",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:16:27.233Z",
+ "checkedAt": "2026-11-08T21:16:27.233Z",
+ "groups": {
+  "FA1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "10:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "mgr P. Kucharski",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "mgr Grzegorz Biskowski",
+     "r": "Wielkopolska 15, s. 208",
+     "pg": "gr:6"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Ivzhenko Liubov",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:2",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "mgr Paweł Kucharski",
+     "r": "Wielkopolska 15, s. 207",
+     "pg": "gr:7",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Ivzhenko Liubov",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:3",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Mateusz Paczwa",
+     "r": "WNŚiP, s. 325*",
+     "pg": "gr:8"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Historia Wysp Brytyjskich",
+     "k": "W",
+     "p": "dr Joanna Witkowska",
+     "r": "ul. Wielkopolska 15, s. 116 (aula)"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Wstęp do językoznawstwa",
+     "k": "W",
+     "p": "dr hab. Sylwester Jaworski, prof. US",
+     "r": "ul. Wielkopolska 15, s. 116 (aula)",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Ivzhenko Liubov",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:4",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:15",
+      "18:45"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Hanna Ostręga",
+     "r": "s. 201 WH",
+     "pg": "lab:C",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Hanna Ostręga",
+     "r": "s. 201 WH",
+     "pg": "lab:C",
+     "dates": [
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Ivzhenko Liubov",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:5",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "dr Maria Brenda",
+     "r": "s. 215 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Wstęp do językoznawstwa",
+     "k": "CW",
+     "p": "dr Oksana Kondratieva",
+     "r": "s. 319 WH",
+     "pg": "ćw:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "dr Maria Brenda",
+     "r": "s. 215 WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "mgr Diana Ismail",
+     "r": "s. 319 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "dr Adriana Goldman",
+     "r": "s. 213 WH",
+     "pg": "lab:E"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "mgr Anna Heppner",
+     "r": "s. 16 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "mgr Diana Ismail",
+     "r": "s. 319WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "mgr inż. Magdalena Skrzyńska",
+     "r": "s. 218WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wstęp do językoznawstwa",
+     "k": "CW",
+     "p": "dr M. Brenda",
+     "r": "s. 113WH",
+     "pg": "ćw:3"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "dr Adriana Goldman",
+     "r": "s. 213WH",
+     "pg": "lab:F"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA:gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr Diana Ismail",
+     "r": "s. 319WH",
+     "pg": "lab:E"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr M. Stępień",
+     "r": "WNŚiP, s. 116 (aula)",
+     "dates": [
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Anna Ronewicz",
+     "r": "s. 213 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "dr Joanna Witkowska",
+     "r": "s. 217 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "dr Joanna Witkowska",
+     "r": "s. 217 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Wstęp do językoznawstwa",
+     "k": "CW",
+     "p": "dr hab. Sylwester Jaworski, prof. US",
+     "r": "s. 213 WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "mgr Becca Borton",
+     "r": "s. 120 WH",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "dr Andrew Tomlinson",
+     "r": "s. 217 WH",
+     "pg": "lab:F"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Mateusz Dudek",
+     "r": "s. 113 WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "mgr Becca Borton",
+     "r": "s. 120 WH",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Mateusz Dudek",
+     "r": "s. 113 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "dr Jacqueline Woroniec",
+     "r": "s. 219 WH",
+     "n": "odrabianie",
+     "pg": "lab:F",
+     "dates": [
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "dr Jacqueline Woroniec",
+     "r": "s. 219 WH",
+     "pg": "lab:F",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "dr M. Szymczak - Kordulasińska",
+     "r": "s. 310 WH",
+     "pg": "lab:E"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "dr Andrew Tomlinson",
+     "r": "s. 217 WH",
+     "pg": "lab:E"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "dr M. Szymczak - Kordulasińska",
+     "r": "s. 310 WH",
+     "pg": "lab:F"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s. 113 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:F"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s. 113 WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:E"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "10:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "mgr P. Kucharski",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "mgr Grzegorz Biskowski",
+     "r": "Wielkopolska 15, s. 208",
+     "pg": "gr:6"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Ivzhenko Liubov",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:2",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "mgr Paweł Kucharski",
+     "r": "Wielkopolska 15, s. 207",
+     "pg": "gr:7",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Ivzhenko Liubov",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:3",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Mateusz Paczwa",
+     "r": "WNŚiP, s. 325*",
+     "pg": "gr:8"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Historia Wysp Brytyjskich",
+     "k": "W",
+     "p": "dr Joanna Witkowska",
+     "r": "ul. Wielkopolska 15, s. 116 (aula)"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Wstęp do językoznawstwa",
+     "k": "W",
+     "p": "dr hab. Sylwester Jaworski, prof. US",
+     "r": "ul. Wielkopolska 15, s. 116 (aula)",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Ivzhenko Liubov",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:4",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:15",
+      "18:45"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Hanna Ostręga",
+     "r": "s. 201 WH",
+     "pg": "lab:C",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Hanna Ostręga",
+     "r": "s. 201 WH",
+     "pg": "lab:C",
+     "dates": [
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Ivzhenko Liubov",
+     "r": "WNŚiP, s. 207*",
+     "pg": "gr:5",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "dr Maria Brenda",
+     "r": "s. 215 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Wstęp do językoznawstwa",
+     "k": "CW",
+     "p": "dr Oksana Kondratieva",
+     "r": "s. 319 WH",
+     "pg": "ćw:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "dr Maria Brenda",
+     "r": "s. 215 WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "mgr Diana Ismail",
+     "r": "s. 319 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "dr Adriana Goldman",
+     "r": "s. 213 WH",
+     "pg": "lab:E"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "mgr Anna Heppner",
+     "r": "s. 16 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "mgr Diana Ismail",
+     "r": "s. 319WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "mgr inż. Magdalena Skrzyńska",
+     "r": "s. 218WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wstęp do językoznawstwa",
+     "k": "CW",
+     "p": "dr M. Brenda",
+     "r": "s. 113WH",
+     "pg": "ćw:3"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: Fonetyka",
+     "k": "LAB",
+     "p": "dr Adriana Goldman",
+     "r": "s. 213WH",
+     "pg": "lab:F"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA:gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr Diana Ismail",
+     "r": "s. 319WH",
+     "pg": "lab:E"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr M. Stępień",
+     "r": "WNŚiP, s. 116 (aula)",
+     "dates": [
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Anna Ronewicz",
+     "r": "s. 213 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "dr Joanna Witkowska",
+     "r": "s. 217 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "dr Joanna Witkowska",
+     "r": "s. 217 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Wstęp do językoznawstwa",
+     "k": "CW",
+     "p": "dr hab. Sylwester Jaworski, prof. US",
+     "r": "s. 213 WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "mgr Becca Borton",
+     "r": "s. 120 WH",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "dr Andrew Tomlinson",
+     "r": "s. 217 WH",
+     "pg": "lab:F"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Mateusz Dudek",
+     "r": "s. 113 WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "mgr Becca Borton",
+     "r": "s. 120 WH",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Mateusz Dudek",
+     "r": "s. 113 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "dr Jacqueline Woroniec",
+     "r": "s. 219 WH",
+     "n": "odrabianie",
+     "pg": "lab:F",
+     "dates": [
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "dr Jacqueline Woroniec",
+     "r": "s. 219 WH",
+     "pg": "lab:F",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "dr M. Szymczak - Kordulasińska",
+     "r": "s. 310 WH",
+     "pg": "lab:E"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Konwersacje",
+     "k": "LAB",
+     "p": "dr Andrew Tomlinson",
+     "r": "s. 217 WH",
+     "pg": "lab:E"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "dr M. Szymczak - Kordulasińska",
+     "r": "s. 310 WH",
+     "pg": "lab:F"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s. 113 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:F"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: Gram. Prakt.",
+     "k": "LAB",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s. 113 WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:D"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Iryna Penza",
+     "r": "s. 201 WH",
+     "pg": "lab:E"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

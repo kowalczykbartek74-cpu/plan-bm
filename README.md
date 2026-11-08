@@ -89,6 +89,14 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   (np. `"ćs1"`) i terminy („8.10-25.01.27”, „3,10.11; 1.12”) → `dates`. Na stronie wiersz „Twoje podgrupy” (wybór dla każdego
   rodzaju, zapamiętany dla rocznika); plany bez `pg` (WEFiZ, BM) wyglądają jak dotąd. Grupa „ERASMUS +” jest pomijana.
   Terminy, których nie da się dopasować do dnia tygodnia (błąd w danych uczelni), zostają jako notka.
+- **Wydział Humanistyczny (Etap 4, pilot HIST i FA):** `scripts/us/wh-xlsx.mjs` czyta pliki XLSX ze strony wydziału (bez
+  zależności: `scripts/us/wspolne.mjs → xlsxArkuszeDane`). Arkusz = rocznik, dzień = pas kolumn pod nagłówkiem dnia, godziny
+  z kolumny godzin (albo z tekstu, np. „od 8.15-10.30”), grupa z nagłówka kolumny („GRUPA A”, „1 gr”) albo z tekstu („gr lab A”,
+  „grupa ćw 2”, „GRUPA 1a”, „specj. transl.”, nagłówek „SPECJALNOŚĆ …”) → `pg` („lab:A”, „ćw:2”, „spec:translatoryczna”).
+  Terminy („od 12.10-16.11”, „I poł. sem. do 30 XI”, „terminy: 01, 08 grudnia”, „oprócz 16.11”) → `dates`. Dopiski
+  („zajęcia łączone z …”) idą do notki. Opis układu plików w nagłówku skryptu. Pilot: pole `tylkoKierunki` w
+  `config/wydzialy-us.json` (usuń je, żeby importować wszystkie pliki WH). Raport pilota: `docs/wh-pilot.md`
+  (`node scripts/us/wh-pilot.mjs`, 10 losowych zajęć plik ↔ plan, zrzuty w `docs/wh-pilot/`).
 - Komunikaty DOS: grupy C i M, numery 1xx–6xx (wszystkie lata i II stopień); rocznik z grupami „M…” bierze sekcję DOS
   Mickiewicza (także z pliku `kierunki/` bez pola `dos`).
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”

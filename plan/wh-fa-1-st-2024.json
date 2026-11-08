@@ -1,0 +1,1018 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+ "wersja": "2026-11-03",
+ "sha256": "b8041b045edaaa657ffdca7b1caf8cdbbf96aa62f615c68928f00c03836e74f6",
+ "kierunek": "Filologia angielska",
+ "kierunekEn": "English Philology",
+ "id": "wh-fa-1-st-2024",
+ "kod": "fa24",
+ "wydzial": "WH",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:16:27.233Z",
+ "checkedAt": "2026-11-08T21:16:27.233Z",
+ "groups": {
+  "FA3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "Tłumaczenia pisemne (ang-pol, pol-ang)",
+     "k": "X",
+     "p": "dr Alina Szwajczuk",
+     "r": "s. 14 WH",
+     "pg": "spec:translatoryczna 2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "Tłumaczenia pisemne (ang-pol, pol-ang)",
+     "k": "X",
+     "p": "dr Alina Szwajczuk",
+     "r": "s. 14 WH",
+     "pg": "spec:translatoryczna 1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "(co 2 tyg.) Literatura Ameryki Północnej ewentualnie Wielkopolska (",
+     "k": "W",
+     "p": "dr Krystian Grądz",
+     "r": "s. 310, aula)*",
+     "dates": [
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr Ł. Muniowski",
+     "r": "s. 213 WH",
+     "pg": "lab:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr Oksana Kondratieva",
+     "r": "s. 319 WH",
+     "pg": "lab:4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr Alina Szwajczuk",
+     "r": "s. 214 WH",
+     "pg": "lab:5"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr Łukasz Muniowski",
+     "r": "s. 310a WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr Jacqueline Woroniec",
+     "r": "s. 201 WH",
+     "pg": "ćw:3",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "lektorat historia + SM + /WH – język rosyjski",
+     "k": "CW",
+     "p": "mgr L. Smędzik",
+     "r": "s. 214 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "lektorat język włoski",
+     "k": "CW",
+     "p": "mgr Anna Kowalik",
+     "r": "s. 16 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr Ewa Glapka",
+     "r": "s. 310a WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "do wyboru (co 2 tyg.) Methodologies of Cultural Studies: From Text to Image",
+     "k": "W",
+     "p": "dr Krystian Grądz",
+     "r": "s. 310a WH",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-12-15",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "do wyboru History of the Gothic",
+     "k": "W",
+     "p": "dr Barbara Braid",
+     "r": "s. 201 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr Joanna Majewska-Paul",
+     "r": "s. 216 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "lektorat j. niemiecki",
+     "k": "CW",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 215 WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Wojciech Klisz",
+     "r": "s. 319 WH",
+     "pg": "lab:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Wojciech Klisz",
+     "r": "s. 319 WH",
+     "pg": "lab:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr Maria Brenda",
+     "r": "s. 201 WH",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "X",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s. 310a WH",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej (lab 1)",
+     "k": "LAB",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s. 15 WH",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej (lab 2)",
+     "k": "LAB",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s.15 WH",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Piotr Kasprzak",
+     "r": "s. 216 WH",
+     "pg": "lab:5"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Piotr Kasprzak",
+     "r": "s. 16 WH",
+     "pg": "lab:4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Piotr Kasprzak",
+     "r": "s. 16 WH",
+     "pg": "lab:3"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 114 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "lektorat język hiszpański – ACKJ od grudnia w bud. Nr 6",
+     "k": "CW",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 6*, s. 221",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr Jacqueline Woroniec",
+     "r": "s. 219 WH",
+     "n": "odrabianie",
+     "pg": "ćw:3",
+     "dates": [
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr Magdalena Dziurzyńska",
+     "r": "s. 15 WH",
+     "pg": "ćw:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr Antoni Górny",
+     "r": "s. 213 WH",
+     "pg": "lab:3"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Sem. dyplomowe tylko 5 i budynek nr 6",
+     "k": "S",
+     "p": "dr Justyna Sypiańska",
+     "r": "s. 215, s. 201",
+     "pg": "lab:4",
+     "dates": [
+      "2026-11-12"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "ONLINE z dziedziny nauk społecznych",
+     "k": "W",
+     "n": "zgodnie z wyborem"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "Tłumaczenia pisemne (ang-pol, pol-ang)",
+     "k": "X",
+     "p": "dr Alina Szwajczuk",
+     "r": "s. 14 WH",
+     "pg": "spec:translatoryczna 2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "Tłumaczenia pisemne (ang-pol, pol-ang)",
+     "k": "X",
+     "p": "dr Alina Szwajczuk",
+     "r": "s. 14 WH",
+     "pg": "spec:translatoryczna 1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "(co 2 tyg.) Literatura Ameryki Północnej ewentualnie Wielkopolska (",
+     "k": "W",
+     "p": "dr Krystian Grądz",
+     "r": "s. 310, aula)*",
+     "dates": [
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr Ł. Muniowski",
+     "r": "s. 213 WH",
+     "pg": "lab:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr Oksana Kondratieva",
+     "r": "s. 319 WH",
+     "pg": "lab:4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr Alina Szwajczuk",
+     "r": "s. 214 WH",
+     "pg": "lab:5"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr Łukasz Muniowski",
+     "r": "s. 310a WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr Jacqueline Woroniec",
+     "r": "s. 201 WH",
+     "pg": "ćw:3",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "lektorat historia + SM + /WH – język rosyjski",
+     "k": "CW",
+     "p": "mgr L. Smędzik",
+     "r": "s. 214 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "lektorat język włoski",
+     "k": "CW",
+     "p": "mgr Anna Kowalik",
+     "r": "s. 16 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr Ewa Glapka",
+     "r": "s. 310a WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "do wyboru (co 2 tyg.) Methodologies of Cultural Studies: From Text to Image",
+     "k": "W",
+     "p": "dr Krystian Grądz",
+     "r": "s. 310a WH",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-12-15",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "do wyboru History of the Gothic",
+     "k": "W",
+     "p": "dr Barbara Braid",
+     "r": "s. 201 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr Joanna Majewska-Paul",
+     "r": "s. 216 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "lektorat j. niemiecki",
+     "k": "CW",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 215 WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Wojciech Klisz",
+     "r": "s. 319 WH",
+     "pg": "lab:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Wojciech Klisz",
+     "r": "s. 319 WH",
+     "pg": "lab:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr Maria Brenda",
+     "r": "s. 201 WH",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "X",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s. 310a WH",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej (lab 1)",
+     "k": "LAB",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s. 15 WH",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej (lab 2)",
+     "k": "LAB",
+     "p": "mgr Wioletta Szóstak",
+     "r": "s.15 WH",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Piotr Kasprzak",
+     "r": "s. 216 WH",
+     "pg": "lab:5"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Piotr Kasprzak",
+     "r": "s. 16 WH",
+     "pg": "lab:4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA: Poprawność językowa",
+     "k": "LAB",
+     "p": "mgr Piotr Kasprzak",
+     "r": "s. 16 WH",
+     "pg": "lab:3"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 114 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "lektorat język hiszpański – ACKJ od grudnia w bud. Nr 6",
+     "k": "CW",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 6*, s. 221",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr Jacqueline Woroniec",
+     "r": "s. 219 WH",
+     "n": "odrabianie",
+     "pg": "ćw:3",
+     "dates": [
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr Magdalena Dziurzyńska",
+     "r": "s. 15 WH",
+     "pg": "ćw:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Sem. dyplomowe",
+     "k": "S",
+     "p": "dr Antoni Górny",
+     "r": "s. 213 WH",
+     "pg": "lab:3"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Sem. dyplomowe tylko 5 i budynek nr 6",
+     "k": "S",
+     "p": "dr Justyna Sypiańska",
+     "r": "s. 215, s. 201",
+     "pg": "lab:4",
+     "dates": [
+      "2026-11-12"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "ONLINE z dziedziny nauk społecznych",
+     "k": "W",
+     "n": "zgodnie z wyborem"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}
