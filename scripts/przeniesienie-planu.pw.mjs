@@ -51,11 +51,34 @@ const noweDane = (page) => page.evaluate(() => Object.fromEntries(Object.keys(lo
   await page.goto("https://plan.skrotbm.pl/");
   await czekajNaNowy(page);
   const d = await noweDane(page);
-  sprawdz("1a stary adres → plan.zdawalni.pl/", page.url() === "https://plan.zdawalni.pl/", page.url());
+  await page.waitForFunction(() => location.hash === "#/wefiz/bm/1/c113", null, { timeout: 10000 }).catch(() => {});
+  sprawdz("1a goły stary adres → plan BM z grupą (#/wefiz/bm/1/c113)", page.url() === "https://plan.zdawalni.pl/#/wefiz/bm/1/c113", page.url());
   sprawdz("1b grupa, podgrupa i motyw przeniesione", d["bm-group"] === "C113" && d["bm-sub"] === "B" && d["bm-theme"] === "dark", JSON.stringify(d));
   sprawdz("1c obcy klucz nie przeniesiony", !("obcy-klucz" in d));
   await page.waitForFunction(() => /C113/.test(document.getElementById("title")?.textContent || ""), null, { timeout: 10000 }).catch(() => {});
   sprawdz("1d plan otwiera się na C113", /C113/.test(await page.textContent("#title")), await page.textContent("#title"));
+  await ctx.close();
+}
+// 1e. ktoś wybrał na starym adresie inny kierunek: goły plan.skrotbm.pl i tak otwiera BM
+{
+  const ctx = await nowyKontekst(); const page = await ctx.newPage();
+  await ustawStare(page, { "plan-rocznik": "wefiz-zarz-1-st-2026", "plan-group:wefiz-zarz-1-st-2026": "C152" });
+  await page.goto("https://plan.skrotbm.pl/");
+  await czekajNaNowy(page);
+  await page.waitForFunction(() => /BM/.test(document.title), null, { timeout: 10000 }).catch(() => {});
+  sprawdz("1e inny kierunek zapamiętany → i tak BM", /#\/wefiz\/bm\/1/.test(page.url()) && /BM/.test(await page.title()), page.url() + " " + (await page.title()));
+  await page.goto("https://plan.zdawalni.pl/");
+  await page.waitForFunction(() => /BM/.test(document.title), null, { timeout: 10000 }).catch(() => {});
+  sprawdz("1f potem też goły plan.zdawalni.pl pokazuje BM", /BM/.test(await page.title()), await page.title());
+  await ctx.close();
+}
+// 1g. bez żadnych ustawień: goły stary adres → #/wefiz/bm/1
+{
+  const ctx = await nowyKontekst(); const page = await ctx.newPage();
+  await ustawStare(page, {});
+  await page.goto("https://plan.skrotbm.pl/");
+  await page.waitForURL((u) => u.host === "plan.zdawalni.pl", { timeout: 15000 });
+  sprawdz("1g bez ustawień → plan BM", /^https:\/\/plan\.zdawalni\.pl\/#\/wefiz\/bm\/1/.test(page.url()), page.url());
   await ctx.close();
 }
 // 2. adres po # i ?k= zachowane, ustawienie z innego kierunku przeniesione
@@ -80,6 +103,7 @@ const noweDane = (page) => page.evaluate(() => Object.fromEntries(Object.keys(lo
   await ustawStare(page, { "bm-group": "C113", "bm-sub": "A" });
   await page.goto("https://plan.skrotbm.pl/");
   await czekajNaNowy(page);
+  await page.waitForFunction(() => /C111/.test(document.getElementById("title")?.textContent || ""), null, { timeout: 10000 }).catch(() => {});
   const d = await noweDane(page);
   sprawdz("3a grupa z nowej domeny nienadpisana, brakujący klucz dopisany", d["bm-group"] === "C111" && d["bm-sub"] === "A", JSON.stringify(d));
   await ctx.close();

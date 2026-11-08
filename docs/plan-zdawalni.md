@@ -7,13 +7,13 @@ Przygotowane 8.11.2026. Gałęzie `plan-zdawalni` w repo `plan-bm` i `skrot-bm`.
 | Adres | Co pokazuje | Gdzie stoi |
 |---|---|---|
 | `plan.zdawalni.pl` | plan zajęć wszystkich kierunków + skrzynka | GitHub Pages, repo `plan-bm` |
-| `plan.skrotbm.pl` | przekierowanie na plan.zdawalni.pl (z grupą, kierunkiem, motywem) + **prawdziwe kopie** `kalendarz/*.ics`, `plan.json`, `plan/*.json` | GitHub Pages, nowe repo `plan-skrotbm-przekierowanie` |
+| `plan.skrotbm.pl` | przekierowanie na plan.zdawalni.pl: **goły adres zawsze na plan BM** (`#/wefiz/bm/1`, z Twoją grupą), linki do innych kierunków (`#/wefiz/zarz/…`, `?k=zarz26`) jak były; ustawienia (grupa, motyw, język) przeniesione + **prawdziwe kopie** `kalendarz/*.ics`, `plan.json`, `plan/*.json` | GitHub Pages, nowe repo `plan-skrotbm-przekierowanie` |
 
 **Kalendarze w telefonach BM działają dalej bez żadnej akcji studentów.** Aplikacja kalendarza pobiera `plan.skrotbm.pl/kalendarz/C112.ics`, a ten plik leży tam naprawdę (kopia odświeżana co 30 min z plan-bm). UID-y wydarzeń są te same, więc nic się nie dubluje. Nowe subskrypcje (przycisk „Dodaj do kalendarza”) idą już na plan.zdawalni.pl.
 
 ## Co zmieniłem w kodzie
 
-**plan-bm** (`plan-zdawalni`): `CNAME`, `CAL_HOST` w `index.html`, adres w opisie `.ics` (`scripts/ics.mjs`; UID i PRODID celowo `@plan.skrotbm.pl`), nagłówek i maile w `dziekanat.mjs`, `README.md`. Nowy `przenies.html` (przyjmuje ustawienia ze starej domeny, nie nadpisuje nowszych; publikowany przez workflow). `docs/plan-skrotbm-przekierowanie/` = zawartość nowego repo. Test: `node scripts/przeniesienie-planu.pw.mjs` (Playwright) → 17/17 OK.
+**plan-bm** (`plan-zdawalni`): `CNAME`, `CAL_HOST` w `index.html`, adres w opisie `.ics` (`scripts/ics.mjs`; UID i PRODID celowo `@plan.skrotbm.pl`), nagłówek i maile w `dziekanat.mjs`, `README.md`. Nowy `przenies.html` (przyjmuje ustawienia ze starej domeny, nie nadpisuje nowszych; publikowany przez workflow). `docs/plan-skrotbm-przekierowanie/` = zawartość nowego repo. Test: `node scripts/przeniesienie-planu.pw.mjs` (Playwright) → 20/20 OK.
 
 **skrot-bm** (`plan-zdawalni`): `rocznik.js`, `roczniki-dane.js`, `kierunki/wefiz-bm-1-st-2026.json`, `scripts/kierunek.mjs` (`PLAN_HOST`) → plan.zdawalni.pl. CSP wpuszcza oba hosty. Funkcja `kalendarz`: stary host zamienia na nowy. Funkcja `zapisz-sie`: dopuszcza plan.zdawalni.pl. **SQL v50** (`supabase/skrot-v50-plan-zdawalni.sql`): `plan_url` roczników na nowy host, wyzwalacz z v46 na nowy host. `plan.html`, `skrzynka.html` (stare przekierowania), regulamin i polityka prywatności (PL i EN: „plan.zdawalni.pl (wcześniej plan.skrotbm.pl)”, treść bez zmian), jeden tekst w panelu odwołań (+ EN), podbite `?v=`. Testy: `node --test tests/*.test.js` 337/337, PGlite z v50 OK.
 
@@ -40,7 +40,7 @@ Przygotowane 8.11.2026. Gałęzie `plan-zdawalni` w repo `plan-bm` i `skrot-bm`.
 ## Test po przełączeniu
 
 - [ ] `https://plan.zdawalni.pl` pokazuje plan BM, kłódka HTTPS; `#/wefiz/zarz/1/c151` pokazuje Zarządzanie.
-- [ ] `https://plan.skrotbm.pl` i `https://plan.skrotbm.pl/?k=zarz26` przechodzą na plan.zdawalni.pl; Twoja grupa (C112, lab A) jest wybrana sama.
+- [ ] `https://plan.skrotbm.pl` otwiera plan BM na plan.zdawalni.pl z Twoją grupą (C112, lab A); `https://plan.skrotbm.pl/?k=zarz26` otwiera Zarządzanie.
 - [ ] `https://plan.skrotbm.pl/kalendarz/C112.ics` pobiera plik kalendarza (nie stronę przekierowania).
 - [ ] Kalendarz w Twoim telefonie dalej się odświeża (bez podwójnych zajęć).
 - [ ] „Dodaj do kalendarza” na plan.zdawalni.pl daje link `plan.zdawalni.pl/kalendarz/…`.
