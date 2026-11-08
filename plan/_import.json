@@ -1,103 +1,168 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-08T18:54:53.444Z",
+ "at": "2026-11-08T20:55:41.748Z",
  "roczniki": [
   {
    "id": "wefiz-biwg-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 25
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-eaia-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 27
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-ek-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 21
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-fir-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 4,
-   "zajec": 92
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-gn-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 2,
-   "zajec": 57
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-gpi-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 23
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-iie-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 14
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-iwb-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 22
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-kipb-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 3,
-   "zajec": 74
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-li-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 23
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-log-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 2,
-   "zajec": 45
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-pii-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 23
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-tir-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 2,
-   "zajec": 45
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-zarz-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 3,
-   "zajec": 82
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-zloz-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 14
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   },
   {
    "id": "wefiz-zoze-1-st-2026",
-   "status": "bez zmian uczelni",
-   "grupy": 1,
-   "zajec": 28
+   "status": "błąd",
+   "blad": "brak odpowiedzi uczelni: plan"
   }
  ],
- "log": []
+ "log": [
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-biwg-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-eaia-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-ek-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-fir-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-gn-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-gpi-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-iie-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-iwb-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-kipb-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-li-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-log-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-pii-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-tir-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-zarz-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-zloz-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  },
+  {
+   "at": "2026-11-08T20:55:41.748Z",
+   "id": "wefiz-zoze-1-st-2026",
+   "blad": "brak odpowiedzi uczelni: plan"
+  }
+ ]
 }
