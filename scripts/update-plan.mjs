@@ -98,14 +98,31 @@ function diffGroups(oldG, newG) {
   return lines.join("\n\n");
 }
 
+// Strona główna planu raz na przebieg (przy --wszystkie wiele roczników czyta ten sam znacznik „Aktualizacja planu”).
+let PLAN_HTML = null;
+const pauza = () => new Promise(r => setTimeout(r, 1100));
+// Inne roczniki niż BM (może ich być kilkadziesiąt, optymalizacja nr 2): pełne pobranie tylko wtedy, gdy uczelnia zmieniła
+// znacznik „Aktualizacja planu” albo w pliku brakuje którejś wymaganej grupy; między zapytaniami ≥ 1 s. --wymus = zawsze.
+export function bezZmianUczelni(K, old, updated, argv = process.argv) {
+  return !K.html && !argv.includes("--wymus") && !!old && !!updated && old.updated === updated
+    && K.wymagane.every(g => old.groups && old.groups[g]);
+}
+
 async function main(K) {
-  const planHtml = await get("plan");
+  const planHtml = PLAN_HTML ?? (PLAN_HTML = await get("plan"));
   if (planHtml === null) throw new Error("Strona główna planu przekierowuje w inne miejsce");
   const updated = parseUpdated(planHtml);
+  const stary = fs.existsSync(K.plik) ? JSON.parse(fs.readFileSync(K.plik, "utf8")) : null;
+  if (bezZmianUczelni(K, stary, updated)) {
+    fs.writeFileSync(K.plik, JSON.stringify({ ...stary, checkedAt: new Date().toISOString() }, null, 1) + "\n");
+    console.log(`Bez zmian na stronie uczelni (Aktualizacja planu: ${updated}), plan ${K.opis} bez pobierania grup.`);
+    return false;
+  }
 
   const groups = {};
   let meta = {};
   for (const g of K.kandydaci) {
+    if (!K.html) await pauza();
     const html = await get(`planGrup?numerGrupy=${g}`);
     if (html === null) continue;   // uczelnia nie ma takiej grupy (przekierowanie)
     const page = parseGroupPage(html);

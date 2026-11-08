@@ -63,6 +63,13 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   rodzaj → `k`, grupa → `g`, godziny → `h`. Dopisek budynku w sali („Cuk.8”, „Mic.64”) znika.
 - `scripts/kalendarz.mjs` dokłada kalendarz roku także do `plan/*.json`; `scripts/kierunki.mjs` wstawia listę roczników do `index.html`.
 - Pliki do kalendarza w telefonie (`kalendarz/*.ics`) są na razie tylko dla BM; inne roczniki mają osobisty kalendarz w aplikacji.
+- **Cały wydział naraz:** `node scripts/wefiz-wszystkie.mjs --na-sucho` (potem bez `--na-sucho`) czyta listę kierunków z formularza uczelni,
+  znajduje grupy każdego kierunku i roku (z planu kierunku, a gdy go brak: z listy grup i wspólnych przedmiotów) i zapisuje brakujące
+  `kierunki/<id>.json` (te same pola co z skrot-bm; plików ze Skrótu nie rusza). Raport: `docs/wefiz-wszystkie.md`. ≤ 1 zapytanie/s,
+  raz w semestrze. `--lata 1` = tylko 1. rok, `--tylko "Logistyka"`, `--odswiez` = nadpisz własne pliki.
+- Ten sam kierunek I i II stopnia (np. Ekonomia) to dwie pozycje na liście kierunków („Ekonomia (II stopień)”).
+- Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”
+  albo w pliku brakuje grupy (`--wymus` = zawsze), z przerwą ≥ 1 s między zapytaniami. BM jak dotąd.
 - Test: `node --test scripts/*.test.mjs`.
 - **Workflow do podmiany ręcznie:** `docs/aktualizacja-planu-kierunki.yml` to nowa wersja `.github/workflows/aktualizacja-planu.yml` (kroki dla roczników, publikacja `plan/`). Token automatu nie może zmieniać workflow, więc wklej go na github.com (Edit file → wklej → Commit). Bez tego plan Zarządzania nie odświeża się sam i nie trafia na stronę.
 

@@ -10,7 +10,8 @@ export function lista(dir = "kierunki") {
   return pliki.map(f => {
     const c = JSON.parse(fs.readFileSync(`${dir}/${f}`, "utf8"));
     if (!c.id || !c.kod || !c.kierunek?.pl || !c.rok || c.plik !== `plan/${c.id}.json`) throw new Error(`${dir}/${f}: brak id, kod, kierunek.pl, rok albo plik ≠ plan/<id>.json`);
-    return { id: c.id, kod: c.kod, pl: c.kierunek.pl, en: c.kierunek.en || c.kierunek.pl, rok: c.rok, wydzial: c.wydzial?.kod || "", plik: c.plik };
+    // stopien: ten sam kierunek I i II stopnia (np. Ekonomia) to dwie pozycje na liście kierunków
+    return { id: c.id, kod: c.kod, pl: c.kierunek.pl, en: c.kierunek.en || c.kierunek.pl, rok: c.rok, stopien: c.stopien ?? 1, wydzial: c.wydzial?.kod || "", plik: c.plik };
   });
 }
 

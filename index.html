@@ -434,8 +434,8 @@ const store = { get(k){ try{return localStorage.getItem(k)}catch(e){return null}
    BM: plan.json i kopia zapasowa wyżej. Inne roczniki: plan/<id>.json; ich listę wstawia scripts/kierunki.mjs z plików kierunki/*.json
    (robi je skrot-bm/scripts/kierunek.mjs), więc w kodzie strony nie ma żadnego kierunku poza BM.
    Link dla roku: plan.skrotbm.pl/?k=<kod>, np. ?k=zarz26. */
-const ROCZNIK_BM = { id:"wefiz-bm-1-st-2026", kod:"bm", pl:"Business Management", en:"Business Management", rok:1, wydzial:"WEFiZ", plik:"plan.json" };
-const ROCZNIKI = [ROCZNIK_BM, .../*KIERUNKI_START*/[{"id":"wefiz-fir-1-st-2026","kod":"fir26","pl":"Finanse i Rachunkowość","en":"Finance and Accounting","rok":1,"wydzial":"WEFiZ","plik":"plan/wefiz-fir-1-st-2026.json"},{"id":"wefiz-zarz-1-st-2026","kod":"zarz26","pl":"Zarządzanie","en":"Management","rok":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zarz-1-st-2026.json"}]/*KIERUNKI_END*/];
+const ROCZNIK_BM = { id:"wefiz-bm-1-st-2026", kod:"bm", pl:"Business Management", en:"Business Management", rok:1, stopien:1, wydzial:"WEFiZ", plik:"plan.json" };
+const ROCZNIKI = [ROCZNIK_BM, .../*KIERUNKI_START*/[{"id":"wefiz-fir-1-st-2026","kod":"fir26","pl":"Finanse i Rachunkowość","en":"Finance and Accounting","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-fir-1-st-2026.json"},{"id":"wefiz-zarz-1-st-2026","kod":"zarz26","pl":"Zarządzanie","en":"Management","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zarz-1-st-2026.json"}]/*KIERUNKI_END*/];
 let BM_DATA = DATA;
 const R = (() => {
   const q = new URLSearchParams(location.search).get("k");
@@ -605,17 +605,20 @@ function renderNav(){
 }
 
 const ROK_RZ = ["","I","II","III","IV","V","VI"], ROK_EN = ["","1st","2nd","3rd","4th","5th","6th"];
-const nazwaK = r => L(r.pl, r.en || r.pl);
+// Ten sam kierunek I i II stopnia (np. Ekonomia) to dwie pozycje: klucz = nazwa + stopień, II stopień z dopiskiem
+const STOP_PL = { 0: " (jednolite magisterskie)", 2: " (II stopień)" }, STOP_EN = { 0: " (long-cycle master's)", 2: " (master's)" };
+const nazwaK = r => L(r.pl + (STOP_PL[r.stopien] || ""), (r.en || r.pl) + (STOP_EN[r.stopien] || ""));
+const kluczK = r => r.pl + "|" + (r.stopien ?? 1);
 function renderRocznik(){
   const bm = isBM();
   document.querySelectorAll(".bm-only").forEach(el => el.hidden = !bm);
   document.querySelectorAll(".k-only").forEach(el => el.hidden = bm);
   // Kierunek (jeden wpis na nazwę), potem rok tego kierunku, potem grupa
-  const kier = [...new Map(ROCZNIKI.map(r => [r.pl, r])).values()];
+  const kier = [...new Map(ROCZNIKI.map(r => [kluczK(r), r])).values()].sort((a, b) => nazwaK(a).localeCompare(nazwaK(b), isEN() ? "en" : "pl"));
   const sel = document.getElementById("kier");
-  sel.innerHTML = kier.map(r => `<option value="${esc(r.pl)}">${esc(nazwaK(r))}</option>`).join("");
-  sel.value = R.cur.pl;
-  const lata = ROCZNIKI.filter(r => r.pl === R.cur.pl).sort((a, b) => a.rok - b.rok);
+  sel.innerHTML = kier.map(r => `<option value="${esc(kluczK(r))}">${esc(nazwaK(r))}</option>`).join("");
+  sel.value = kluczK(R.cur);
+  const lata = ROCZNIKI.filter(r => kluczK(r) === kluczK(R.cur)).sort((a, b) => a.rok - b.rok);
   document.getElementById("roky").innerHTML = `<div class="year">${lata.map(r => `<button class="pill" data-r="${esc(r.id)}" aria-pressed="${r.id === R.cur.id}">${L(`${r.rok}. rok`, `${ROK_EN[r.rok] || r.rok} year`)}</button>`).join("")}</div>`;
   document.querySelectorAll("#roky .pill").forEach(b => b.onclick = () => setRocznik(b.dataset.r));
   if (bm) return;   // BM: nagłówek bez zmian (teksty w HTML i w EN)
@@ -642,7 +645,7 @@ function setRocznik(id){
   buildCalendar(); buildGroups(); render(); showMeta(); loadRemote();
 }
 document.getElementById("kier").onchange = ev => {
-  const lata = ROCZNIKI.filter(r => r.pl === ev.target.value).sort((a, b) => a.rok - b.rok);
+  const lata = ROCZNIKI.filter(r => kluczK(r) === ev.target.value).sort((a, b) => a.rok - b.rok);
   if (lata.length) setRocznik((lata.find(r => r.rok === R.cur.rok) || lata[0]).id);
 };
 
