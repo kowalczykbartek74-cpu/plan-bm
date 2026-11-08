@@ -12,7 +12,7 @@ on:
   workflow_dispatch:        # ręczne uruchomienie: zakładka Actions → Run workflow
   push:
     branches: [main]
-    paths: ["index.html", "skrzynka.html", "plan.json", "kalendarz.json", "kierunki/**", "plan/**", "scripts/**", ".github/workflows/**"]
+    paths: ["index.html", "skrzynka.html", "przenies.html", "plan.json", "kalendarz.json", "kierunki/**", "plan/**", "scripts/**", ".github/workflows/**"]
 
 permissions:
   contents: write
@@ -142,7 +142,7 @@ jobs:
         if: steps.decide.outputs.publish == 'true'
         run: |
           mkdir -p _site
-          cp index.html skrzynka.html plan.json kalendarz.json CNAME _site/
+          cp index.html skrzynka.html przenies.html plan.json kalendarz.json CNAME _site/
           cp -r kalendarz _site/
           if [ -d plan ]; then cp -r plan _site/; fi
           touch _site/.nojekyll

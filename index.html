@@ -433,7 +433,7 @@ const store = { get(k){ try{return localStorage.getItem(k)}catch(e){return null}
 /* ---------- Kierunek i rok (rocznik) ----------
    BM: plan.json i kopia zapasowa wyżej. Inne roczniki: plan/<id>.json; ich listę wstawia scripts/kierunki.mjs z plików kierunki/*.json
    (robi je skrot-bm/scripts/kierunek.mjs), więc w kodzie strony nie ma żadnego kierunku poza BM.
-   Adres planu: plan.skrotbm.pl/#/<wydział>/<kierunek>/<rok>/<grupa>, np. #/wefiz/zarz/1/c151 (hash, więc działa na GitHub Pages
+   Adres planu: plan.zdawalni.pl/#/<wydział>/<kierunek>/<rok>/<grupa>, np. #/wefiz/zarz/1/c151 (hash, więc działa na GitHub Pages
    bez 404.html). Stare linki ?k=<kod> (np. ?k=zarz26) działają dalej. BM bez adresu w linku wygląda i działa jak dotąd. */
 const ROCZNIK_BM = { id:"wefiz-bm-1-st-2026", kod:"bm", pl:"Business Management", en:"Business Management", rok:1, stopien:1, wydzial:"WEFiZ", plik:"plan.json" };
 const ROCZNIKI = [ROCZNIK_BM, .../*KIERUNKI_START*/[{"id":"wefiz-biwg-1-st-2026","kod":"biwg26","pl":"Business Intelligence w gospodarce","en":"Business Intelligence in Economy","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-biwg-1-st-2026.json"},{"id":"wefiz-eaia-1-st-2026","kod":"eaia26","pl":"Economics and IT Applications","en":"Economics and IT Applications","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-eaia-1-st-2026.json"},{"id":"wefiz-ek-1-st-2026","kod":"ek26","pl":"Ekonomia","en":"Economics","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-ek-1-st-2026.json"},{"id":"wefiz-fir-1-st-2026","kod":"fir26","pl":"Finanse i Rachunkowość","en":"Finance and Accounting","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-fir-1-st-2026.json"},{"id":"wefiz-gn-1-st-2026","kod":"gn26","pl":"Gospodarka Nieruchomościami","en":"Real Estate Management","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-gn-1-st-2026.json"},{"id":"wefiz-gpi-1-st-2026","kod":"gpi26","pl":"Gospodarka Przestrzenna inż.","en":"Spatial Management (Eng.)","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-gpi-1-st-2026.json"},{"id":"wefiz-iie-1-st-2026","kod":"iie26","pl":"Informatyka i Ekonometria","en":"Computer Science and Econometrics","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-iie-1-st-2026.json"},{"id":"wefiz-iwb-1-st-2026","kod":"iwb26","pl":"Informatyka w Biznesie","en":"IT in Business","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-iwb-1-st-2026.json"},{"id":"wefiz-kipb-1-st-2026","kod":"kipb26","pl":"Komunikacja i psychologia w biznesie","en":"Communication and Psychology in Business","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-kipb-1-st-2026.json"},{"id":"wefiz-li-1-st-2026","kod":"li26","pl":"Logistyka inż.","en":"Logistics (Eng.)","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-li-1-st-2026.json"},{"id":"wefiz-log-1-st-2026","kod":"log26","pl":"Logistyka","en":"Logistics","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-log-1-st-2026.json"},{"id":"wefiz-pii-1-st-2026","kod":"pii26","pl":"Przedsiębiorczość i Inwestycje","en":"Entrepreneurship and Investments","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-pii-1-st-2026.json"},{"id":"wefiz-tir-1-st-2026","kod":"tir26","pl":"Turystyka i Rekreacja","en":"Tourism and Recreation","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-tir-1-st-2026.json"},{"id":"wefiz-zarz-1-st-2026","kod":"zarz26","pl":"Zarządzanie","en":"Management","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zarz-1-st-2026.json"},{"id":"wefiz-zloz-1-st-2026","kod":"zloz26","pl":"Zarządzanie Logistyczne w Ochronie Zdrowia","en":"Logistics Management in Healthcare","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zloz-1-st-2026.json"},{"id":"wefiz-zoze-1-st-2026","kod":"zoze26","pl":"Zarządzanie odnawialnymi źródłami energii","en":"Renewable Energy Management","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zoze-1-st-2026.json"}]/*KIERUNKI_END*/];
@@ -660,7 +660,7 @@ document.getElementById("kier").onchange = ev => {
   if (lata.length) setRocznik((lata.find(r => r.rok === R.cur.rok) || lata[0]).id);
 };
 
-// Adres w pasku = otwarty plan (#/wefiz/zarz/1/c151). BM bez #/… w adresie zostaje pod czystym plan.skrotbm.pl, jak dotąd.
+// Adres w pasku = otwarty plan (#/wefiz/zarz/1/c151). BM bez #/… w adresie zostaje pod czystym plan.zdawalni.pl, jak dotąd.
 function pokazAdres(){
   if (isBM() && !/^#\//.test(location.hash)) return;
   const h = trasa(R.cur, !Object.keys(G()).length || G()[state.group] ? state.group : "");
@@ -749,7 +749,7 @@ document.querySelectorAll("#subs button").forEach(b => b.onclick = () => { state
 document.querySelectorAll("#modes button").forEach(b => b.onclick = () => { state.mode = b.dataset.mode; render(); });
 
 /* ---------- Dodaj do kalendarza: subskrypcja pliku .ics (kalendarz/GRUPA-PODGRUPA.ics, robi go scripts/ics.mjs) ---------- */
-const CAL_HOST = "plan.skrotbm.pl";
+const CAL_HOST = "plan.zdawalni.pl"; // stare subskrypcje plan.skrotbm.pl/kalendarz/*.ics dalej działają (repo plan-skrotbm-przekierowanie)
 function calFile(){ const g = state.group, sub = hasSubs(g) ? state.sub : ""; return { file: `kalendarz/${g}${sub ? "-" + sub : ""}.ics`, g, sub }; }
 function openCal(){
   const { file, g, sub } = calFile();
