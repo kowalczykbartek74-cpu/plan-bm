@@ -1,0 +1,1678 @@
+{
+ "aktualizacja": "06.11.2026 11:48",
+ "grupy": {
+  "M560": {
+   "kierunek": "Audyt finansowy",
+   "n": 24,
+   "przedmioty": [
+    "teoria, zasady i organizacja rachunkowości",
+    "ekonomia",
+    "metody ilościowe w audycie i controllingu",
+    "zarządzanie i kontrola wewnętrzna",
+    "prawo gospodarcze"
+   ],
+   "podgrupy": []
+  },
+  "M660": {
+   "kierunek": "Audyt finansowy",
+   "n": 31,
+   "przedmioty": [
+    "rachunkowość finansowa",
+    "finanse i rachunkowość instytucji finansowych",
+    "sprawozdawczość i analiza finansowa",
+    "raportowanie zrównoważonego rozwoju",
+    "seminarium magisterskie e- zajęcia"
+   ],
+   "podgrupy": []
+  },
+  "M100": {
+   "kierunek": "Business Intelligence w gospodarce",
+   "n": 25,
+   "przedmioty": [
+    "podstawy rachunkowości i sprawozdawczości",
+    "ekonomia",
+    "prawo gospodarcze",
+    "wprowadzenie do baz danych",
+    "wprowadzenie do business intelligence",
+    "komparatystyka finansów",
+    "ochrona własności intelektualnej",
+    "matematyka",
+    "procesy przetwarzania danych w excelu",
+    "zarządzanie procesami biznesowymi"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M200": {
+   "kierunek": "Business Intelligence w gospodarce",
+   "n": 30,
+   "przedmioty": [
+    "aplikacje finansowe",
+    "metodyka badań ekonomicznych",
+    "podstawy analiz rynku kapitałowego",
+    "monitoring finansowy",
+    "wprowadzenie do języka python na potrzeby business intelligence",
+    "planowanie i budżetowanie",
+    "ekonometria"
+   ],
+   "podgrupy": []
+  },
+  "M300": {
+   "kierunek": "Business Intelligence w gospodarce",
+   "n": 26,
+   "przedmioty": [
+    "analiza danych przestrzennych w biznesie",
+    "informatyczne wspomaganie decyzji finansowych",
+    "wykorzystanie platform handlowych w analizach giełdowych",
+    "bezpieczeństwo danych i informacji",
+    "analiza ryzyka na rynkach finansowych",
+    "raportowanie informacji finansowych",
+    "narzędzia business intelligence w praktyce"
+   ],
+   "podgrupy": []
+  },
+  "C111": {
+   "kierunek": "Business Management",
+   "n": 24,
+   "przedmioty": [],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C112": {
+   "kierunek": "Business Management",
+   "n": 24,
+   "przedmioty": [],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C113": {
+   "kierunek": "Business Management",
+   "n": 24,
+   "przedmioty": [],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C211": {
+   "kierunek": "Business Management",
+   "n": 48,
+   "przedmioty": [
+    "physical education",
+    "descriptive statistics",
+    "business promotion with information technology application",
+    "product and service design"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C212": {
+   "kierunek": "Business Management",
+   "n": 42,
+   "przedmioty": [
+    "physical education",
+    "business promotion with information technology application",
+    "product and service design",
+    "descriptive statistics"
+   ],
+   "podgrupy": []
+  },
+  "C311": {
+   "kierunek": "Business Management",
+   "n": 36,
+   "przedmioty": [
+    "diploma seminar",
+    "wykłady z dziedziny nauk humanistycznych"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C511": {
+   "kierunek": "Business Management",
+   "n": 15,
+   "przedmioty": [
+    "communication in the global business"
+   ],
+   "podgrupy": []
+  },
+  "C512": {
+   "kierunek": "Business Management",
+   "n": 15,
+   "przedmioty": [
+    "communication in the global business"
+   ],
+   "podgrupy": []
+  },
+  "C611": {
+   "kierunek": "Business Management",
+   "n": 34,
+   "przedmioty": [
+    "diploma seminar",
+    "wykłady z dziedziny nauk humanistycznych",
+    "computer simulation in bussiness management"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M540": {
+   "kierunek": "Data Science",
+   "n": 23,
+   "przedmioty": [
+    "matematyka w data science",
+    "metody statystyczne w data science",
+    "współczesna makroekonomia",
+    "podstawy programowania w data science",
+    "systemy zarządzania bazami danych",
+    "techniki prezentacji i upowszechniania wyników analiz danych",
+    "finanse stosowane"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M640": {
+   "kierunek": "Data Science",
+   "n": 37,
+   "przedmioty": [
+    "analiza i modelowanie popytu konsumpcyjnego",
+    "wybrane metody uczenia nienadzorowanego",
+    "analiza danych z rynku nieruchomości",
+    "drzewa regresyjne i klasyfikacyjne",
+    "statystyka przestrzenna",
+    "systemy informacji przestrzennej",
+    "sztuczna inteligencja w analizie danych"
+   ],
+   "podgrupy": []
+  },
+  "M641": {
+   "kierunek": "Data Science",
+   "n": 37,
+   "przedmioty": [
+    "analiza i modelowanie popytu konsumpcyjnego",
+    "statystyka przestrzenna",
+    "analiza danych z rynku nieruchomości",
+    "wybrane metody uczenia nienadzorowanego",
+    "systemy informacji przestrzennej",
+    "drzewa regresyjne i klasyfikacyjne",
+    "sztuczna inteligencja w analizie danych"
+   ],
+   "podgrupy": []
+  },
+  "M190": {
+   "kierunek": "Economics and IT Applications",
+   "n": 27,
+   "przedmioty": [],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M290": {
+   "kierunek": "Economics and IT Applications",
+   "n": 29,
+   "przedmioty": [],
+   "podgrupy": []
+  },
+  "M110": {
+   "kierunek": "Ekonomia",
+   "n": 21,
+   "przedmioty": [
+    "makroekonomia",
+    "matematyka",
+    "technologie informacyjne",
+    "polityka społeczna",
+    "badanie zachowań społecznych",
+    "warsztaty autoprezentacji",
+    "wstęp do zarządzania",
+    "ochrona własności intelektualnej",
+    "wprowadzenie do finansów"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M210": {
+   "kierunek": "Ekonomia",
+   "n": 30,
+   "przedmioty": [
+    "ekonomia zrównoważonego rozwoju",
+    "warsztaty it w ekonomii",
+    "język hiszpański",
+    "międzynarodowe stosunki gospodarcze",
+    "sprawozdawczość finansowa",
+    "metodyka badań ekonomicznych",
+    "ekonomia sektora publicznego",
+    "metody ilościowe w ekonomii",
+    "warsztaty badań ekonomicznych",
+    "ekonomia behawioralna"
+   ],
+   "podgrupy": []
+  },
+  "M310": {
+   "kierunek": "Ekonomia",
+   "n": 30,
+   "przedmioty": [
+    "zarządzanie finansami przedsiębiorstw",
+    "wycena małych przedsiębiorstw",
+    "polityka gospodarcza",
+    "gospodarka otwarta",
+    "planowanie i modelowanie finansowe",
+    "analiza portfela klientów",
+    "integracja gospodarcza",
+    "seminarium dyplomowe"
+   ],
+   "podgrupy": []
+  },
+  "M510": {
+   "kierunek": "Ekonomia",
+   "n": 17,
+   "przedmioty": [
+    "komunikacja i media społecznościowe",
+    "ekonomia społeczna",
+    "etyka biznesu",
+    "zastosowanie informatyki w przedsiębiorstwie",
+    "rynek finansowy",
+    "mikroekonomia 2",
+    "warsztaty umiejętności interpersonalnych",
+    "wnioskowanie statystyczne"
+   ],
+   "podgrupy": []
+  },
+  "M610": {
+   "kierunek": "Ekonomia",
+   "n": 27,
+   "przedmioty": [
+    "finanse i rozliczenia międzynarodowe",
+    "wycena przedsiębiorstw",
+    "współczesne nurty w ekonomii",
+    "wspomaganie decyzji menedżerskich",
+    "gry biznesowe",
+    "ekonometria i prognozowanie procesów ekonomicznych",
+    "seminarium magisterskie",
+    "współpraca podmiotów rynkowych"
+   ],
+   "podgrupy": []
+  },
+  "M120": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 23,
+   "przedmioty": [
+    "podstawy finansów",
+    "makroekonomia",
+    "podstawy rachunkowości",
+    "podstawy prawa",
+    "arkusz kalkulacyjny w finansach i rachunkowości",
+    "podstawy zarządzania",
+    "matematyka",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M121": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 23,
+   "przedmioty": [
+    "podstawy finansów",
+    "podstawy rachunkowości",
+    "makroekonomia",
+    "podstawy prawa",
+    "arkusz kalkulacyjny w finansach i rachunkowości",
+    "matematyka",
+    "podstawy zarządzania",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M122": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 23,
+   "przedmioty": [
+    "podstawy finansów",
+    "podstawy rachunkowości",
+    "podstawy zarządzania",
+    "arkusz kalkulacyjny w finansach i rachunkowości",
+    "podstawy prawa",
+    "matematyka",
+    "makroekonomia",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M123": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 23,
+   "przedmioty": [
+    "podstawy finansów",
+    "podstawy rachunkowości",
+    "arkusz kalkulacyjny w finansach i rachunkowości",
+    "podstawy prawa",
+    "makroekonomia",
+    "podstawy zarządzania",
+    "matematyka",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M220": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 43,
+   "przedmioty": [
+    "rachunek kosztów",
+    "statystyka",
+    "ewidencje podatkowe przedsiębiorstw",
+    "ubezpieczenia",
+    "finanse publiczne",
+    "systemy finansowo-księgowe",
+    "rozliczenia publicznoprawne przedsiębiorstw",
+    "kadry i płace"
+   ],
+   "podgrupy": []
+  },
+  "M221": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 35,
+   "przedmioty": [
+    "rachunek kosztów",
+    "statystyka",
+    "finanse publiczne",
+    "systemy finansowo-księgowe",
+    "ubezpieczenia",
+    "rozliczenia publicznoprawne przedsiębiorstw",
+    "ewidencje podatkowe przedsiębiorstw",
+    "kadry i płace"
+   ],
+   "podgrupy": []
+  },
+  "M222": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 42,
+   "przedmioty": [
+    "rachunek kosztów",
+    "ewidencje podatkowe przedsiębiorstw",
+    "systemy finansowo-księgowe",
+    "finanse publiczne",
+    "finanse sektora msp gr 222",
+    "statystyka",
+    "ubezpieczenia",
+    "ordynacja podatkowa i księgi podatkowe gr 222"
+   ],
+   "podgrupy": []
+  },
+  "M320": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 36,
+   "przedmioty": [
+    "rachunkowość instrumentów finansowych",
+    "rachunkowość instytucji finansowych",
+    "analiza finansowa",
+    "ekonometria",
+    "marketing usług finansowo-księgowych e-zajęcia",
+    "marketing usług finansowo-księgowych",
+    "ryzyko w finansach i rachunkowości e-zajęcia",
+    "seminarium dyplomowe e-zajęcia",
+    "international accouting",
+    "ryzyko w finansach i rachunkowości"
+   ],
+   "podgrupy": []
+  },
+  "M321": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 32,
+   "przedmioty": [
+    "rachunkowość instrumentów finansowych",
+    "ekonometria",
+    "rachunkowość instytucji finansowych",
+    "marketing usług finansowo-księgowych e-zajęcia",
+    "ryzyko w finansach i rachunkowości e-zajęcia",
+    "marketing usług finansowo-księgowych",
+    "analiza finansowa",
+    "seminarium dyplomowe e-zajęcia",
+    "ryzyko w finansach i rachunkowości",
+    "international accouting"
+   ],
+   "podgrupy": []
+  },
+  "M520": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 21,
+   "przedmioty": [
+    "rachunkowość zarządcza",
+    "finanse behawioralne",
+    "portfel inwestycyjny",
+    "teoria i zasady rachunkowości",
+    "polityka pieniężna",
+    "zarządzanie finansami publicznymi",
+    "strategie podatkowe",
+    "strategie podatkowe e-zajęcia",
+    "zarządzanie finansami publicznymi e- zajęcia",
+    "polityka pieniężna e-zajęcia",
+    "teoria i zasady rachunkowości e- zajęcia"
+   ],
+   "podgrupy": []
+  },
+  "M620": {
+   "kierunek": "Finanse i Rachunkowość",
+   "n": 39,
+   "przedmioty": [
+    "zarządzanie instytucjami kredytowymi",
+    "metody wyceny przedsiębiorstw",
+    "międzynarodowe standardy sprawozdawczości finansowej",
+    "technologie finansowe i finanse cyfrowe",
+    "sprawozdawczość banków",
+    "międzynarodowe standardy sprawozdawczości finansowej e-zajęcia",
+    "język hiszpański",
+    "seminarium magisterskie e-zajęcia"
+   ],
+   "podgrupy": []
+  },
+  "M150": {
+   "kierunek": "Gospodarka Nieruchomościami",
+   "n": 32,
+   "przedmioty": [
+    "mikroekonomia",
+    "matematyka",
+    "podstawy organizacji i zarządzania",
+    "informatyka ekonomiczna",
+    "ekonomika rynku nieruchomości",
+    "podstawy finansów publicznych",
+    "wstęp do gospodarki nieruchomościami",
+    "zastosowania informacji przestrzennej w gospodarce nieruchomościami",
+    "ochrona danych osobowych",
+    "podstawy prawa administracji",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M151": {
+   "kierunek": "Gospodarka Nieruchomościami",
+   "n": 25,
+   "przedmioty": [
+    "mikroekonomia",
+    "zastosowania informacji przestrzennej w gospodarce nieruchomościami",
+    "ekonomika rynku nieruchomości",
+    "podstawy organizacji i zarządzania",
+    "podstawy finansów publicznych",
+    "matematyka",
+    "informatyka ekonomiczna",
+    "ochrona danych osobowych",
+    "wstęp do gospodarki nieruchomościami",
+    "podstawy prawa administracji",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": []
+  },
+  "M250": {
+   "kierunek": "Gospodarka Nieruchomościami",
+   "n": 35,
+   "przedmioty": [
+    "statystyka matematyczna",
+    "matematyka finansowa",
+    "wstęp do pośrednictwa w obrocie nieruchomościami",
+    "demografia",
+    "metodyka wyceny nieruchomości",
+    "produkty ubezpieczeniowe w gospodarce nieruchomościami",
+    "inwestycje na rynku finansowym",
+    "warsztaty budowania zespołów"
+   ],
+   "podgrupy": []
+  },
+  "M251": {
+   "kierunek": "Gospodarka Nieruchomościami",
+   "n": 43,
+   "przedmioty": [
+    "statystyka matematyczna",
+    "produkty ubezpieczeniowe w gospodarce nieruchomościami",
+    "wstęp do pośrednictwa w obrocie nieruchomościami",
+    "demografia",
+    "matematyka finansowa",
+    "metodyka wyceny nieruchomości",
+    "inwestycje na rynku finansowym",
+    "warsztaty budowania zespołów"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M350": {
+   "kierunek": "Gospodarka Nieruchomościami",
+   "n": 43,
+   "przedmioty": [
+    "zastosowania pakietów obliczeniowych",
+    "zarządzanie nieruchomościami mieszkalnymi",
+    "analiza szeregów czasowych",
+    "projekt grupowy operat szacunkowy",
+    "zarządzanie nieruchomościami inwestycyjnymi"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M160": {
+   "kierunek": "Gospodarka Przestrzenna inż.",
+   "n": 23,
+   "przedmioty": [
+    "wprowadzenie do socjologii",
+    "systemy i techniki informatyczne",
+    "podstawy gospodarki przestrzennej",
+    "geografia gospodarcza",
+    "rysunek techniczny i planistyczny",
+    "ochrona i kształtowanie środowiska",
+    "matematyka",
+    "podstawy zarządzania",
+    "podstawy ekonomii",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": []
+  },
+  "M260": {
+   "kierunek": "Gospodarka Przestrzenna inż.",
+   "n": 30,
+   "przedmioty": [
+    "podstawy projektowania",
+    "gospodarka nieruchomościami",
+    "metody analizy przestrzennej",
+    "geografia osadnictwa",
+    "kartografia społeczno-gospodarcza",
+    "planowanie przestrzenne",
+    "samorząd terytorialny",
+    "ekonomika miast i regionów"
+   ],
+   "podgrupy": []
+  },
+  "M360": {
+   "kierunek": "Gospodarka Przestrzenna inż.",
+   "n": 25,
+   "przedmioty": [
+    "projektowanie przestrzennych baz danych",
+    "geostatystyka",
+    "infrastruktura danych przestrzennych w polsce",
+    "projektowanie urbanistyczne",
+    "atrakcyjność inwestycyjna miast i regionów",
+    "statystyka publiczna i rejestry urzędowe",
+    "regionalna polityka inwestycyjna"
+   ],
+   "podgrupy": []
+  },
+  "M460": {
+   "kierunek": "Gospodarka Przestrzenna inż.",
+   "n": 17,
+   "przedmioty": [
+    "gospodarka przestrzenna w strefie nadmorskiej",
+    "informacja w procesie inwestycyjnym",
+    "rozwój obszarów wiejskich",
+    "zagospodarowanie turystyczne",
+    "komunikacja marketingowa miast i regionów",
+    "dziedzictwo kulturowe w gospodarowaniu przestrzenią",
+    "gospodarka zielona i błękitna"
+   ],
+   "podgrupy": []
+  },
+  "M140": {
+   "kierunek": "Informatyka i Ekonometria",
+   "n": 14,
+   "przedmioty": [
+    "analiza matematyczna",
+    "technologie informacyjne",
+    "algorytmy i struktury danych",
+    "algebra liniowa",
+    "wprowadzenie do prawa",
+    "ochrona własności intelektualnej",
+    "makroekonomia"
+   ],
+   "podgrupy": []
+  },
+  "M240": {
+   "kierunek": "Informatyka i Ekonometria",
+   "n": 37,
+   "przedmioty": [
+    "matematyka finansowa",
+    "podstawy zarządzania",
+    "bazy danych",
+    "programowanie stron www",
+    "symulacja komputerowa systemów",
+    "analiza ekonomiczna",
+    "metodologia badań naukowych",
+    "rachunek prawdopodobieństwa i statystyka matematyczna"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M340": {
+   "kierunek": "Informatyka i Ekonometria",
+   "n": 29,
+   "przedmioty": [
+    "analiza szeregów czasowych",
+    "badania operacyjne",
+    "przetwarzanie i wizualizacja danych w języku r",
+    "podstawy e-biznesu",
+    "statystyka publiczna",
+    "symulacje obliczeniowe w biznesie",
+    "metody klasyfikacji",
+    "konstrukcja produktów ubezpieczeniowych",
+    "podstawy demografii",
+    "zakładanie i prowadzenie działalności gospodarczej"
+   ],
+   "podgrupy": []
+  },
+  "C171": {
+   "kierunek": "Informatyka w Biznesie",
+   "n": 22,
+   "przedmioty": [
+    "systemy operacyjne i technologie sieciowe w biznesie",
+    "ochrona własności intelektualnej",
+    "podstawy zarządzania",
+    "algorytmy i struktury danych",
+    "wstęp do informatyki w biznesie",
+    "wprowadzenie do e-biznesu",
+    "podstawy projektowania uniwersalnego",
+    "zarządzanie własnym rozwojem",
+    "przedsiębiorczość",
+    "podstawy mikroekonomii",
+    "logika"
+   ],
+   "podgrupy": []
+  },
+  "C271": {
+   "kierunek": "Informatyka w Biznesie",
+   "n": 41,
+   "przedmioty": [
+    "wychowanie fizyczne",
+    "statystyka",
+    "bazy danych",
+    "programowanie obiektowe",
+    "podstawy marketingu",
+    "technologie webowe w biznesie",
+    "sztuczna inteligencja"
+   ],
+   "podgrupy": []
+  },
+  "C371": {
+   "kierunek": "Informatyka w Biznesie",
+   "n": 38,
+   "przedmioty": [
+    "systemy analityki internetowej",
+    "seminarium dyplomowe",
+    "podstawy finansów",
+    "marketing w mediach społecznościowych",
+    "zarządzanie bezpieczeństwem informacji",
+    "systemy zarządzania treścią",
+    "programowanie serwisów internetowych",
+    "wykłady z dziedziny nauk humanistycznych"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C571": {
+   "kierunek": "Informatyka w Biznesie",
+   "n": 16,
+   "przedmioty": [
+    "nowe media w biznesie",
+    "uczenie maszynowe",
+    "technologie 3d w biznesie",
+    "zarządzanie wiedzą",
+    "administrowanie systemami środowiska linux",
+    "design thinking w it",
+    "e-marketing",
+    "gry menedżerskie"
+   ],
+   "podgrupy": []
+  },
+  "C671": {
+   "kierunek": "Informatyka w Biznesie",
+   "n": 28,
+   "przedmioty": [
+    "programowanie aplikacji biznesowych",
+    "business intelligence",
+    "architektura systemów erp",
+    "seminarium dyplomowe",
+    "programowanie baz danych",
+    "metody i techniki wdrażania systemów erp",
+    "wykłady z dziedziny nauk humanistycznych"
+   ],
+   "podgrupy": []
+  },
+  "C121": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 25,
+   "przedmioty": [
+    "podstawy psychologii",
+    "technologie informacyjne",
+    "podstawy ekonomii",
+    "relacje międzyludzkie w biznesie",
+    "podstawy zarządzania",
+    "ochrona własności intelektualnej",
+    "podstawy komunikacji",
+    "kultura organizacyjna",
+    "podstawy socjologii",
+    "przedsiębiorczość"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C122": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 24,
+   "przedmioty": [
+    "technologie informacyjne",
+    "podstawy psychologii",
+    "podstawy ekonomii",
+    "podstawy zarządzania",
+    "kultura organizacyjna",
+    "podstawy komunikacji",
+    "ochrona własności intelektualnej",
+    "podstawy socjologii",
+    "relacje międzyludzkie w biznesie",
+    "przedsiębiorczość"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C123": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 25,
+   "przedmioty": [
+    "relacje międzyludzkie w biznesie",
+    "podstawy psychologii",
+    "podstawy ekonomii",
+    "podstawy zarządzania",
+    "przedsiębiorczość",
+    "ochrona własności intelektualnej",
+    "kultura organizacyjna",
+    "technologie informacyjne",
+    "podstawy socjologii",
+    "podstawy komunikacji"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C221": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 43,
+   "przedmioty": [
+    "wychowanie fizyczne",
+    "public relations",
+    "globalne relacje biznesowe",
+    "mediacje i negocjacje w biznesie",
+    "podstawy badań marketingowych",
+    "komunikacja interpersonalna i autoprezentacja w biznesie",
+    "neuronauka poznawcza",
+    "ekonomia behawioralna",
+    "etyka zawodowa psychologa"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C222": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 43,
+   "przedmioty": [
+    "wychowanie fizyczne",
+    "public relations",
+    "neuronauka poznawcza",
+    "globalne relacje biznesowe",
+    "mediacje i negocjacje w biznesie",
+    "komunikacja interpersonalna i autoprezentacja w biznesie",
+    "podstawy badań marketingowych",
+    "ekonomia behawioralna",
+    "etyka zawodowa psychologa"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C321": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 47,
+   "przedmioty": [
+    "seminarium dyplomowe",
+    "psychologia konsumenta",
+    "psychologia emocji i motywacji",
+    "communication in e-business",
+    "planowanie marketingowe",
+    "psychologia w rekrutacji",
+    "user experience",
+    "psychologia relacji w sprzedaży",
+    "value co-creation",
+    "wykłady z dziedziny nauk humanistycznych",
+    "projektowanie i prowadzenie szkoleń",
+    "komunikacja w zespole"
+   ],
+   "podgrupy": []
+  },
+  "C322": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 47,
+   "przedmioty": [
+    "seminarium dyplomowe",
+    "psychologia konsumenta",
+    "planowanie marketingowe",
+    "communication in e-business",
+    "psychologia emocji i motywacji",
+    "psychologia w rekrutacji",
+    "user experience",
+    "komunikacja w zespole",
+    "psychologia relacji w sprzedaży",
+    "value co-creation",
+    "wykłady z dziedziny nauk humanistycznych",
+    "projektowanie i prowadzenie szkoleń"
+   ],
+   "podgrupy": []
+  },
+  "C521": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 19,
+   "przedmioty": [
+    "metody postępowania ze stresem",
+    "grywalizacja w motywowaniu pracowników i klientów",
+    "zarządzanie różnorodnością",
+    "zachowania organizacyjne",
+    "psychologia poznawcza",
+    "psychologia osobowości",
+    "komunikacja w zespołach rozproszonych"
+   ],
+   "podgrupy": []
+  },
+  "C522": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 18,
+   "przedmioty": [
+    "grywalizacja w motywowaniu pracowników i klientów",
+    "psychologia osobowości",
+    "metody postępowania ze stresem",
+    "zachowania organizacyjne",
+    "zarządzanie różnorodnością",
+    "psychologia poznawcza",
+    "komunikacja w zespołach rozproszonych"
+   ],
+   "podgrupy": []
+  },
+  "C621": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 36,
+   "przedmioty": [
+    "zarządzanie czasem własnym",
+    "kreowanie marki osobistej",
+    "seminarium dyplomowe",
+    "komputerowa analiza danych",
+    "psychologia reklamy",
+    "techniki psychofizjologiczne w projektowaniu produktów",
+    "psychologia uczenia się i rozwoju",
+    "wykłady z dziedziny nauk humanistycznych",
+    "design thinking"
+   ],
+   "podgrupy": []
+  },
+  "C622": {
+   "kierunek": "Komunikacja i psychologia w biznesie",
+   "n": 36,
+   "przedmioty": [
+    "kreowanie marki osobistej",
+    "komputerowa analiza danych",
+    "zarządzanie czasem własnym",
+    "seminarium dyplomowe",
+    "psychologia uczenia się i rozwoju",
+    "psychologia reklamy",
+    "techniki psychofizjologiczne w projektowaniu produktów",
+    "wykłady z dziedziny nauk humanistycznych",
+    "design thinking"
+   ],
+   "podgrupy": []
+  },
+  "C131": {
+   "kierunek": "Logistyka",
+   "n": 23,
+   "przedmioty": [
+    "podstawy projektowania uniwersalnego",
+    "podstawy logistyki",
+    "podstawy rachunkowości",
+    "technologie informatyczne",
+    "podstawy marketingu",
+    "podstawy zarządzania",
+    "podstawy ekonomii",
+    "ochrona własności intelektualnej i przemysłowej",
+    "towaroznawstwo",
+    "etyka zawodowa"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C132": {
+   "kierunek": "Logistyka",
+   "n": 22,
+   "przedmioty": [
+    "podstawy logistyki",
+    "podstawy ekonomii",
+    "podstawy marketingu",
+    "podstawy rachunkowości",
+    "etyka zawodowa",
+    "technologie informatyczne",
+    "podstawy projektowania uniwersalnego",
+    "towaroznawstwo",
+    "ochrona własności intelektualnej i przemysłowej",
+    "podstawy zarządzania"
+   ],
+   "podgrupy": []
+  },
+  "C231": {
+   "kierunek": "Logistyka",
+   "n": 39,
+   "przedmioty": [
+    "wychowanie fizyczne",
+    "logistyka dystrybucji",
+    "statystyka",
+    "logistyka miejska",
+    "nowe media w logistyce",
+    "gospodarka magazynowa",
+    "zarządzanie jakością w logistyce",
+    "transport w handlu międzynarodowym"
+   ],
+   "podgrupy": []
+  },
+  "C331": {
+   "kierunek": "Logistyka",
+   "n": 35,
+   "przedmioty": [
+    "industrial and organizational psychology",
+    "cybersecurit in logistics management",
+    "seminarium dyplomowe",
+    "zarządzanie usługami transportowo-logistycznymi",
+    "techniczno-ekonomiczne aspekty transportu morskiego",
+    "systemy informatyczne w transporcie ładunków",
+    "spedycja",
+    "wykłady z dziedziny nauk humanistycznych",
+    "logistyka zwrotna",
+    "techniczno-ekonomiczne aspekty transportu lotniczego"
+   ],
+   "podgrupy": []
+  },
+  "C332": {
+   "kierunek": "Logistyka",
+   "n": 34,
+   "przedmioty": [
+    "logistyka zwrotna",
+    "industrial and organizational psychology",
+    "cybersecurit in logistics management",
+    "spedycja",
+    "seminarium dyplomowe",
+    "neuronauka poznawcza w logistyce",
+    "inteligentne magazyny",
+    "zarządzanie usługami transportowo-logistycznymi",
+    "wykłady z dziedziny nauk humanistycznych",
+    "inteligentna fabryka"
+   ],
+   "podgrupy": []
+  },
+  "C531": {
+   "kierunek": "Logistyka",
+   "n": 21,
+   "przedmioty": [
+    "zarządzanie zasobami ludzkimi",
+    "rynek usług logistycznych",
+    "informatyka w logistyce",
+    "zarządzanie przedsiębiorstwem transportowym",
+    "zarządzanie procesami logistycznymi",
+    "zarządzanie strategiczne"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C532": {
+   "kierunek": "Logistyka",
+   "n": 16,
+   "przedmioty": [
+    "informatyka w logistyce",
+    "rynek usług logistycznych",
+    "zarządzanie procesami logistycznymi",
+    "zarządzanie przedsiębiorstwem transportowym",
+    "zarządzanie strategiczne",
+    "zarządzanie zasobami ludzkimi"
+   ],
+   "podgrupy": []
+  },
+  "C631": {
+   "kierunek": "Logistyka",
+   "n": 31,
+   "przedmioty": [
+    "seminarium dyplomowe",
+    "modele biznesowe w transporcie i handlu międzynarodowym",
+    "planowanie i sterowanie procesami logistycznymi",
+    "społeczna odpowiedzialność biznesu w tsl",
+    "wykłady z dziedziny nauk humanistycznych",
+    "analiza efektywności w logistyce",
+    "zarządzanie transportem w łańcuchach dostaw",
+    "zarządzanie infrastrukturą logistyczną",
+    "bi w logistyce"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C161": {
+   "kierunek": "Logistyka inż.",
+   "n": 23,
+   "przedmioty": [
+    "logistyka i zarządzanie łańcuchem dostaw",
+    "podstawy zarządzania",
+    "podstawy projektowania uniwersalnego",
+    "matematyka",
+    "elementy prawa",
+    "ładunkoznawstwo",
+    "technologie informatyczne",
+    "ochrona własności intelektualnej i przemysłowej",
+    "inżynieria systemów i analiza systemowa"
+   ],
+   "podgrupy": []
+  },
+  "C261": {
+   "kierunek": "Logistyka inż.",
+   "n": 36,
+   "przedmioty": [
+    "wychowanie fizyczne",
+    "podstawy elektroniki i elektrotechniki",
+    "inżynieria logistyki dystrybucji",
+    "statystyka",
+    "tworzenie aplikacji z wykorzystaniem low-code i no-code",
+    "technologie i procesy magazynowe",
+    "automatyka i robotyka",
+    "obsługa transportowa międzynarodowych przepływów towarowaych"
+   ],
+   "podgrupy": []
+  },
+  "C361": {
+   "kierunek": "Logistyka inż.",
+   "n": 30,
+   "przedmioty": [
+    "spedycja",
+    "seminarium dyplomowe",
+    "industrial and organizational psychology",
+    "cybersecurit in logistics management",
+    "inżynieria ruchu kolejowego",
+    "logistyka zwrotna",
+    "inżynieria ruchu drogowego",
+    "wykłady z dziedziny nauk humanistycznych",
+    "inteligentne systemy transportowe"
+   ],
+   "podgrupy": []
+  },
+  "C461": {
+   "kierunek": "Logistyka inż.",
+   "n": 19,
+   "przedmioty": [
+    "audytowanie i certyfikacja jakości w logistyce",
+    "transport zrównoważony",
+    "seminarium dyplomowe",
+    "smart logistics",
+    "rachunek kosztów dla inżynierów",
+    "zarządzanie mobilnością",
+    "modelowanie i prognozowanie ruchu"
+   ],
+   "podgrupy": []
+  },
+  "C591": {
+   "kierunek": "Marketing",
+   "n": 15,
+   "przedmioty": [
+    "content marketing i storytelling w social mediach",
+    "badania jakościowe w marketingu",
+    "współczesne trendy konsumenckie",
+    "marketing zrównoważony",
+    "ai w marketingu",
+    "zarządzanie marką",
+    "public relations",
+    "narzędzia analizy danych marketingowych",
+    "kształtowanie umiejętności pracy w zespole",
+    "psychologia reklamy i personalizacja przekazów reklamowych"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C592": {
+   "kierunek": "Marketing",
+   "n": 15,
+   "przedmioty": [
+    "marketing zrównoważony",
+    "współczesne trendy konsumenckie",
+    "content marketing i storytelling w social mediach",
+    "ai w marketingu",
+    "zarządzanie marką",
+    "narzędzia analizy danych marketingowych",
+    "badania jakościowe w marketingu",
+    "public relations",
+    "kształtowanie umiejętności pracy w zespole",
+    "psychologia reklamy i personalizacja przekazów reklamowych"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C593": {
+   "kierunek": "Marketing",
+   "n": 13,
+   "przedmioty": [
+    "content marketing i storytelling w social mediach",
+    "współczesne trendy konsumenckie",
+    "narzędzia analizy danych marketingowych",
+    "ai w marketingu",
+    "marketing zrównoważony",
+    "public relations",
+    "zarządzanie marką",
+    "badania jakościowe w marketingu",
+    "psychologia reklamy i personalizacja przekazów reklamowych",
+    "kształtowanie umiejętności pracy w zespole"
+   ],
+   "podgrupy": []
+  },
+  "C691": {
+   "kierunek": "Marketing",
+   "n": 29,
+   "przedmioty": [
+    "sztuka wystąpień publicznych",
+    "seminarium magisterskie",
+    "packaging design in 3d",
+    "projektowanie i zarządzanie kampanią medialną",
+    "warsztaty marketingowe",
+    "wykłady z dziedziny nauk humanistycznych",
+    "tworzenie własnej firmy - aspekty organizacyjne",
+    "marketing wartości",
+    "zarządzanie projektami",
+    "historie sukcesów marek"
+   ],
+   "podgrupy": []
+  },
+  "C692": {
+   "kierunek": "Marketing",
+   "n": 29,
+   "przedmioty": [
+    "sztuka wystąpień publicznych",
+    "marketing wartości",
+    "seminarium magisterskie",
+    "wykłady z dziedziny nauk humanistycznych",
+    "tworzenie własnej firmy - aspekty organizacyjne",
+    "historie sukcesów marek",
+    "zarządzanie projektami",
+    "packaging design in 3d",
+    "warsztaty marketingowe",
+    "projektowanie i zarządzanie kampanią medialną"
+   ],
+   "podgrupy": []
+  },
+  "M530": {
+   "kierunek": "Międzynarodowy biznes turystyczny",
+   "n": 15,
+   "przedmioty": [
+    "komunikacja międzykulturowa w biznesie turystycznym",
+    "marketing terytorialny",
+    "baza materialna turystyki",
+    "przedsiębiorstwo na międzynarodowym rynku turystycznym",
+    "działalność biznesowa w turystyce międzynarodowej",
+    "polityka turystyczna w ue",
+    "regiony turystyczne - europa",
+    "zarządzanie projektami turystycznymi"
+   ],
+   "podgrupy": []
+  },
+  "C181": {
+   "kierunek": "Przedsiębiorczość i Inwestycje",
+   "n": 23,
+   "przedmioty": [
+    "ochrona własności intelektualnej",
+    "problemy biznesu w praktyce",
+    "podstawy prawa dla ekonomistów",
+    "podstawy makroekonomii",
+    "metody twórczego rozwiązywania problemów",
+    "podstawy ekonomiki przedsiębiorstw",
+    "marketing w małej firmie",
+    "wyszukiwanie, ocena wiarygodności informacji i bazy danych",
+    "sztuka wystąpień publicznych",
+    "narzędzia informatyczne w małej firmie"
+   ],
+   "podgrupy": []
+  },
+  "C281": {
+   "kierunek": "Przedsiębiorczość i Inwestycje",
+   "n": 37,
+   "przedmioty": [
+    "wychowanie fizyczne",
+    "zarządzanie strategiczne małą firmą",
+    "tworzenie i funkcjonowanie małej firmy",
+    "funkcjonowanie klastrów",
+    "społeczna odpowiedzialność biznesu",
+    "zarządzanie procesami w małym przedsiębiorstwie",
+    "sprawozdawczość i analiza ekonomiczno-finansowa"
+   ],
+   "podgrupy": []
+  },
+  "C381": {
+   "kierunek": "Przedsiębiorczość i Inwestycje",
+   "n": 29,
+   "przedmioty": [
+    "wykorzystanie mediów społecznościowych w zarządzaniu małą firmą",
+    "przywództwo i kierowanie zespołem",
+    "planowanie w małym przedsiębiorstwie",
+    "problemy biznesu w praktyce",
+    "seminarium dyplomowe",
+    "wycena przedsiębiorstw",
+    "zarządzanie kapitałem trwałym",
+    "zarządzanie projektami w małym przedsiębiorstwie",
+    "wykłady z dziedziny nauk humanistycznych"
+   ],
+   "podgrupy": []
+  },
+  "M550": {
+   "kierunek": "Rynek Nieruchomości",
+   "n": 20,
+   "przedmioty": [
+    "techniczne utrzymanie obiektów",
+    "statystyczne metody analizy rynku nieruchomości",
+    "elementy finansów i bankowości na rynku nieruchomości",
+    "źródła informacji w gospodarce nieruchomościami",
+    "zarządzanie kapitałem ludzkim",
+    "ekonomiczno-prawne aspekty funkcjonowania rynku nieruchomości",
+    "teorie ekonomiczne na rynku nieruchomości",
+    "narzędzia informatyczne na rynku nieruchomości"
+   ],
+   "podgrupy": []
+  },
+  "M650": {
+   "kierunek": "Rynek Nieruchomości",
+   "n": 22,
+   "przedmioty": [
+    "szczególne cele wyceny",
+    "wycena nieruchomości specjalnych",
+    "project management na rynku nieruchomości",
+    "prognozowanie",
+    "zarządzanie kosztami utrzymania i najmem na rynku nieruchomości"
+   ],
+   "podgrupy": []
+  },
+  "M130": {
+   "kierunek": "Turystyka i Rekreacja",
+   "n": 24,
+   "przedmioty": [
+    "techniki informatyczne",
+    "podstawy socjologii",
+    "podstawy geografii turyzmu",
+    "geografia społeczno-ekonomiczna",
+    "podstawy turystyki i rekreacji",
+    "krajoznawstwo",
+    "ekologia i ochrona środowiska",
+    "podstawy ekonomii",
+    "podstawy projektowania uniwersalnego",
+    "historia architektury i sztuki",
+    "pedagogika czasu wolnego z elementami psychologii",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M131": {
+   "kierunek": "Turystyka i Rekreacja",
+   "n": 21,
+   "przedmioty": [
+    "techniki informatyczne",
+    "ekologia i ochrona środowiska",
+    "podstawy projektowania uniwersalnego",
+    "podstawy socjologii",
+    "krajoznawstwo",
+    "podstawy geografii turyzmu",
+    "geografia społeczno-ekonomiczna",
+    "podstawy turystyki i rekreacji",
+    "podstawy ekonomii",
+    "historia architektury i sztuki",
+    "pedagogika czasu wolnego z elementami psychologii",
+    "ochrona własności intelektualnej"
+   ],
+   "podgrupy": []
+  },
+  "M230": {
+   "kierunek": "Turystyka i Rekreacja",
+   "n": 35,
+   "przedmioty": [
+    "przygotowanie i transmisja wydarzeń w internecie",
+    "e-technologie w turystyce i rekreacji",
+    "gis w turystyce",
+    "metody ilościowe w turystyce i rekreacji",
+    "hotelarstwo",
+    "funkcjonowanie podmiotów turystycznych i rekreacyjnych",
+    "polityka społeczno-gospodarcza"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "M330": {
+   "kierunek": "Turystyka i Rekreacja",
+   "n": 39,
+   "przedmioty": [
+    "interpretacja dziedzictwa kulturowego na potrzeby turystyki",
+    "gastronomia w turystyce",
+    "metody i techniki obsługi grup turystycznych",
+    "turystyka na obszarach chronionych",
+    "enoturystyka",
+    "metodyka aktywności fizycznej",
+    "eventy na świecie",
+    "komunikacja interpersonalna w obsłudze grup turystycznych",
+    "współpraca i konkurencja w turystyce",
+    "planowanie marketingowe w turystyce i rekreacji",
+    "informacja turystyczna",
+    "formy turystyki wodnej",
+    "menedżer produktu turystycznego",
+    "tematyczne szlaki turystyczne na świecie",
+    "metodyka pracy rezydenta turystycznego"
+   ],
+   "podgrupy": []
+  },
+  "M331": {
+   "kierunek": "Turystyka i Rekreacja",
+   "n": 39,
+   "przedmioty": [
+    "gastronomia w turystyce",
+    "enoturystyka",
+    "turystyka na obszarach chronionych",
+    "eventy na świecie",
+    "metodyka aktywności fizycznej",
+    "metody i techniki obsługi grup turystycznych",
+    "planowanie marketingowe w turystyce i rekreacji",
+    "menedżer produktu turystycznego",
+    "informacja turystyczna",
+    "komunikacja interpersonalna w obsłudze grup turystycznych",
+    "formy turystyki wodnej",
+    "współpraca i konkurencja w turystyce",
+    "tematyczne szlaki turystyczne na świecie",
+    "metodyka pracy rezydenta turystycznego",
+    "interpretacja dziedzictwa kulturowego na potrzeby turystyki"
+   ],
+   "podgrupy": []
+  },
+  "C151": {
+   "kierunek": "Zarządzanie",
+   "n": 28,
+   "przedmioty": [
+    "podstawy zarządzania",
+    "technologie informacyjne",
+    "matematyka",
+    "nauka o przedsiębiorstwie",
+    "zarządzanie własnym rozwojem",
+    "podstawy finansów",
+    "podstawy ekonomii",
+    "ochrona własności intelektualnej",
+    "podstawy prawa",
+    "zachowania konsumentów"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C152": {
+   "kierunek": "Zarządzanie",
+   "n": 28,
+   "przedmioty": [
+    "nauka o przedsiębiorstwie",
+    "technologie informacyjne",
+    "podstawy zarządzania",
+    "podstawy finansów",
+    "zachowania konsumentów",
+    "matematyka",
+    "podstawy prawa",
+    "ochrona własności intelektualnej",
+    "podstawy ekonomii",
+    "zarządzanie własnym rozwojem"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C153": {
+   "kierunek": "Zarządzanie",
+   "n": 26,
+   "przedmioty": [
+    "technologie informacyjne",
+    "podstawy zarządzania",
+    "podstawy ekonomii",
+    "podstawy prawa",
+    "nauka o przedsiębiorstwie",
+    "matematyka",
+    "zarządzanie własnym rozwojem",
+    "podstawy finansów",
+    "ochrona własności intelektualnej",
+    "zachowania konsumentów"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C251": {
+   "kierunek": "Zarządzanie",
+   "n": 43,
+   "przedmioty": [
+    "wychowanie fizyczne",
+    "informatyka w zarządzaniu",
+    "badania marketingowe",
+    "zachowania organizacyjne",
+    "analiza ekonomiczna",
+    "gospodarowanie kapitałem ludzkim",
+    "zarządzanie produkcją",
+    "statystyka",
+    "podstawy rachunkowości"
+   ],
+   "podgrupy": [
+    "A",
+    "B"
+   ]
+  },
+  "C351": {
+   "kierunek": "Zarządzanie",
+   "n": 42,
+   "przedmioty": [
+    "metody i techniki heurystyczne",
+    "seminarium dyplomowe",
+    "zarządzanie relacjami z klientem",
+    "zarządzanie projektami",
+    "contemporary business models",
+    "zarządzanie pracą zespołową",
+    "obsługa klienta",
+    "zarządzanie kapitałem trwałym",
+    "zarządzanie sprzedażą",
+    "wykłady z dziedziny nauk humanistycznych",
+    "projektowanie organizacji",
+    "motywowanie pracowników",
+    "transfer technologii",
+    "rozwój pracowników",
+    "kształtowanie konkurencyjności przedsiębiorstw"
+   ],
+   "podgrupy": []
+  },
+  "C352": {
+   "kierunek": "Zarządzanie",
+   "n": 42,
+   "przedmioty": [
+    "seminarium dyplomowe",
+    "zarządzanie relacjami z klientem",
+    "contemporary business models",
+    "zarządzanie pracą zespołową",
+    "zarządzanie projektami",
+    "obsługa klienta",
+    "metody i techniki heurystyczne",
+    "zarządzanie sprzedażą",
+    "zarządzanie kapitałem trwałym",
+    "wykłady z dziedziny nauk humanistycznych",
+    "projektowanie organizacji",
+    "motywowanie pracowników",
+    "transfer technologii",
+    "rozwój pracowników",
+    "kształtowanie konkurencyjności przedsiębiorstw"
+   ],
+   "podgrupy": []
+  },
+  "C551": {
+   "kierunek": "Zarządzanie",
+   "n": 16,
+   "przedmioty": [
+    "metody zarządzania projektami",
+    "planowanie marketingowe",
+    "konsument w globalnej gospodarce",
+    "ekonomia menadżerska",
+    "koncepcje zarządzania",
+    "strategiczne zarządzanie kapitałem ludzkim"
+   ],
+   "podgrupy": []
+  },
+  "C552": {
+   "kierunek": "Zarządzanie",
+   "n": 16,
+   "przedmioty": [
+    "metody zarządzania projektami",
+    "konsument w globalnej gospodarce",
+    "ekonomia menadżerska",
+    "planowanie marketingowe",
+    "koncepcje zarządzania",
+    "strategiczne zarządzanie kapitałem ludzkim"
+   ],
+   "podgrupy": []
+  },
+  "C651": {
+   "kierunek": "Zarządzanie",
+   "n": 31,
+   "przedmioty": [
+    "zarządzanie relacjami w biznesie",
+    "nowoczesne koncepcje i metody zarządzania",
+    "strategie rozwoju przedsiębiorstw",
+    "seminarium dyplomowe",
+    "zarządzanie strategiczne",
+    "współczesne teorie firmy",
+    "zarządzanie marką",
+    "wykłady z dziedziny nauk humanistycznych",
+    "metody ilościowe w zarządzaniu",
+    "zarządzanie stresem",
+    "coaching i mentoring"
+   ],
+   "podgrupy": []
+  },
+  "C101": {
+   "kierunek": "Zarządzanie Logistyczne w Ochronie Zdrowia",
+   "n": 14,
+   "przedmioty": [
+    "podstawy zarządzania w ochronie zdrowia",
+    "podstawy zarządzania jakością w medycynie",
+    "podstawy logistyki w ochronie zdrowia",
+    "ekonomika zdrowia",
+    "ochrona własności intelektualnej i przemysłowej"
+   ],
+   "podgrupy": []
+  },
+  "C141": {
+   "kierunek": "Zarządzanie odnawialnymi źródłami energii",
+   "n": 28,
+   "przedmioty": [
+    "podstawy energetyki",
+    "matematyka w zarządzaniu",
+    "podstawy zrównoważonego rozwoju",
+    "funkcjonowanie rynku energii w polsce",
+    "ekonomia",
+    "technologie informatyczne",
+    "logistyka w energetyce",
+    "podstawy zarządzania",
+    "infrastruktura energetyczna",
+    "ochrona własności intelektualnej i przemysłowej",
+    "zarządzanie finansami przedsiębiorstwa",
+    "podstawy prawa",
+    "krajowy system elektroenergetyczny"
+   ],
+   "podgrupy": []
+  },
+  "C241": {
+   "kierunek": "Zarządzanie odnawialnymi źródłami energii",
+   "n": 43,
+   "przedmioty": [
+    "wychowanie fizyczne",
+    "zastosowanie odnawialnych źródeł energii w transporcie",
+    "statystyka",
+    "modelowanie procesów w energetyce",
+    "ochrona środowiska w energetyce",
+    "instrumenty wsparcia rozwoju odnawialnych źródeł energii",
+    "podstawy prawne funkcjonowania odnawialnych źródeł energii",
+    "analityka biznesowa rynku energii",
+    "systemy dystrybucji energii",
+    "efektywność energetyczna",
+    "polityka energetyczna polski i ue"
+   ],
+   "podgrupy": []
+  },
+  "C341": {
+   "kierunek": "Zarządzanie odnawialnymi źródłami energii",
+   "n": 25,
+   "przedmioty": [
+    "transport morski surowców i komponentów odnawialnych źródeł energii",
+    "procedury środowiskowe projektów w zakresie odnawialnych źróde energii",
+    "rozwój kompetencji zawodowych dla branży odnawialnych źródeł energii",
+    "seminarium dyplomowe",
+    "zarządzanie projektami oze",
+    "innowacyjne rozwiązania w energetyce",
+    "wykłady z dziedziny nauk humanistycznych",
+    "łańcuchy dostaw energii odnawialnej"
+   ],
+   "podgrupy": []
+  }
+ },
+ "puste": [
+  "C251a"
+ ]
+}

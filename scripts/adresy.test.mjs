@@ -18,7 +18,7 @@ test("każdy plan (rocznik × grupa) ma własny, unikalny adres i adres prowadzi
     for (const g of Object.keys(plan.groups)) {
       planow++;
       const h = trasa(r, g);
-      assert.match(h, /^#\/wefiz\/[a-z]+\/1\/[a-z]\d+$/, h);
+      assert.match(h, /^#\/wefiz\/[a-z]+\/[1-5]\/[a-z]\d+$/, h);
       assert.ok(!adresy.has(h), "powtórzony adres " + h); adresy.add(h);
       const t = czytajTrase(h);
       assert.strictEqual(t.r.id, r.id, h); assert.strictEqual(t.g, g, h);
@@ -38,4 +38,20 @@ test("przykłady z zadania i stare adresy", () => {
 test("BM w index.html: adres #/… tylko gdy był w linku; ?k= nadal działa", () => {
   assert.match(html, /if \(isBM\(\) && !\/\^#\\\/\/\.test\(location\.hash\)\) return;/);
   assert.match(html, /new URLSearchParams\(location\.search\)\.get\("k"\)/);
+});
+
+test("ten sam kierunek I i II stopnia, kilka lat: osobne adresy i osobne pozycje w wyborze", () => {
+  const rr = [
+    { id: "wefiz-ek-1-st-2026", kod: "ek26", pl: "Ekonomia", rok: 1, stopien: 1, wydzial: "WEFiZ" },
+    { id: "wefiz-ek-1-st-2025", kod: "ek25", pl: "Ekonomia", rok: 2, stopien: 1, wydzial: "WEFiZ" },
+    { id: "wefiz-ek-2-st-2026", kod: "ekm26", pl: "Ekonomia", rok: 1, stopien: 2, wydzial: "WEFiZ" },
+    { id: "wefiz-ek-2-st-2025", kod: "ekm25", pl: "Ekonomia", rok: 2, stopien: 2, wydzial: "WEFiZ" },
+  ];
+  const f = new Function("ROCZNIKI", kod + "; return { trasa, czytajTrase };")(rr);
+  const h = rr.map((r) => f.trasa(r, "M100"));
+  assert.deepStrictEqual(h, ["#/wefiz/ek/1/m100", "#/wefiz/ek/2/m100", "#/wefiz/ekm/1/m100", "#/wefiz/ekm/2/m100"]);
+  rr.forEach((r, i) => assert.strictEqual(f.czytajTrase(h[i]).r.id, r.id));
+  const kl = html.match(/const kluczK = (.*);/)[1];
+  const kluczK = new Function("r", "return (" + kl + ")(r)");
+  assert.strictEqual(new Set(rr.map(kluczK)).size, 2, "I i II stopień to dwie pozycje kierunku, lata w kroku Rok");
 });

@@ -33,14 +33,21 @@ export function budynek(plan) {
 
 export function roczniki({ dir = "kierunki", config = dir === "kierunki" ? "config/kierunki-1rok.json" : null } = {}) {
   const czytaj = (f) => JSON.parse(fs.readFileSync(f, "utf8"));
-  const zPlikow = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith(".json")).sort().map((f) => ({ ...czytaj(`${dir}/${f}`), _plik: `${dir}/${f}` })) : [];
+  // Sekcja DOS: pole „dos” z pliku; bez niego grupy „M…” (Kampus Mickiewicza wg „Zestawienia nazw grup” WEFiZ) → DOS Mickiewicza,
+  // a gdy grupy nie przesądzają – budynek z sal w planie. Cukrowa = adres wydziału (bez pola).
+  const zDos = (c) => {
+    if (c.dos) return c;
+    const g = c.grupy || [];
+    if (g.length && g.every((x) => /^M\d/i.test(x))) return { ...c, dos: DOS.mic };
+    if (g.length && g.every((x) => /^C\d/i.test(x))) return c;
+    const b = budynek(fs.existsSync(c.plik || "") ? czytaj(c.plik) : null);
+    return b ? { ...c, dos: DOS[b] } : c;
+  };
+  const zPlikow = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith(".json")).sort().map((f) => zDos({ ...czytaj(`${dir}/${f}`), _plik: `${dir}/${f}` })) : [];
   const ids = new Set(zPlikow.map((c) => c.id));
   const cfg = config && fs.existsSync(config) ? czytaj(config) : { kierunki: [] };
   const zCfg = cfg.kierunki.filter((k) => k.maPlan && k.grupy.length && k.id !== BM_ID && !ids.has(k.id)).map((k) => {
-    const c = { ...zConfigu(k, cfg), _plik: config };
-    const plan = fs.existsSync(c.plik) ? czytaj(c.plik) : null;
-    const b = budynek(plan);
-    return b ? { ...c, dos: DOS[b] } : c;
+    return zDos({ ...zConfigu(k, cfg), _plik: config });
   });
   return [...zPlikow, ...zCfg].sort((a, b) => a.id.localeCompare(b.id));
 }

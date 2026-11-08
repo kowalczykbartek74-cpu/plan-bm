@@ -127,11 +127,19 @@ const MONTHS = ["stycz", "lut", "mar", "kwie", "maj", "czerw", "lip", "sierp", "
 const pad = n => String(n).padStart(2, "0");
 
 // Grupy z tytułu: "GRUPA C111, C112, C113", "GRUPA C112a", "C111 i C113".
+// Grupy z tytułu wpisu: „GRUPA C111, C112”, „GRUPA C531,C532”, „M150, M151, M160”, „GRUPA C112a”.
+// Litera kampusu: C (Cukrowa) albo M (Mickiewicza); numer 1xx–6xx (rok i stopień). Numer bez litery liczy się tylko po
+// grupie z literą („C111, 112” → litera poprzedniej) albo zaraz po „grupa”/„gr.” (litera grupy z planu). Tylko grupy z planu.
 export function groupsOf(title, known) {
   const out = [];
-  for (const m of title.matchAll(/C?\s?(1\d\d)([ab])?\b/gi)) {
-    const g = "C" + m[1];
-    if (known.includes(g)) out.push({ g, sub: m[2] ? m[2].toUpperCase() : "" });
+  let litera = null;
+  for (const m of title.matchAll(/(?<![\w.])([CM])?\s?([1-6]\d\d)([ab])?(?![\w.])/gi)) {
+    if (m[1]) litera = m[1].toUpperCase();
+    else if (!litera && !/gr(upa|upy|\.)?\s*$/i.test(title.slice(0, m.index))) continue;   // „sala 211” to nie grupa
+    const l = m[1] ? m[1].toUpperCase() : litera || ["C", "M"].find((x) => known.includes(x + m[2]));
+    const g = (l || "C") + m[2];
+    litera = l || "C";
+    if (known.includes(g)) out.push({ g, sub: m[3] ? m[3].toUpperCase() : "" });
   }
   // "GRUPA C111, C112, C113" bez litery C przy kolejnych numerach też się trafia
   return out.filter((x, i) => out.findIndex(y => y.g === x.g && y.sub === x.sub) === i);
