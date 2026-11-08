@@ -33,7 +33,7 @@ const SLOTS = [["8:15","9:45"],["10:00","11:30"],["12:00","13:30"],["13:45","15:
 // ---------- pobieranie ----------
 function request(url) {
   return new Promise((resolve, reject) => {
-    const req = https.get(url, { headers: { "User-Agent": "plan-bm (projekt studencki starosty BM, plan.skrotbm.pl)" }, timeout: 45000 }, res => {
+    const req = https.get(url, { headers: { "User-Agent": "plan-bm (projekt studencki starosty BM, plan.zdawalni.pl)" }, timeout: 45000 }, res => {
       if (res.statusCode === 404) { res.resume(); return resolve(null); }
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) { res.resume(); return resolve(request(new URL(res.headers.location, url).href)); }
       if (res.statusCode !== 200) { res.resume(); return reject(new Error(`HTTP ${res.statusCode} (${url})`)); }
@@ -524,7 +524,7 @@ async function main(K = BM) {
   if (fresh.length) {
     const body = `Na stronie dziekanatu pojawiły się nowe komunikaty dla ${K.opis}.\n\n${lines.join("\n\n") || "_Nie udało się ich przypiąć do konkretnych zajęć, zajrzyj do wpisów._"}\n\n` +
       `Wpisy:\n${fresh.map(p => `- [${p.title}](${p.url}): ${short(p.text || "", 300)}`).join("\n")}\n\n` +
-      `Plan na plan.skrotbm.pl już to pokazuje. Sprawdź, czy dobrze to odczytał.`;
+      `Plan na plan.zdawalni.pl już to pokazuje. Sprawdź, czy dobrze to odczytał.`;
     if (K.html) fs.writeFileSync("dziekanat.md", body + "\n");
     else fs.appendFileSync("dziekanat.md", (fs.existsSync("dziekanat.md") ? "\n---\n\n" : "") + body + "\n");
   }
