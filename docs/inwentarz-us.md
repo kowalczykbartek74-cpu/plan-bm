@@ -158,7 +158,7 @@ Strony: [st](https://spr.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/). D
 |---|---|---|---|---|---|---|---|
 | Biologia | `BIOL` | biol | I/jm+II st | I | st | st I: 1,2,3 |  |
 | Biologiczne podstawy kryminalistyki | `BPK` | bpk | II st | II | st | st II: 2 |  |
-| Biotechnologia | **?** | biotech | I/jm+II st | I, II | st | st I: 1,3; II: 1 |  |
+| Biotechnologia | `BIOTEC` | biotech | I/jm+II st | I, II | st | st I: 1,3; II: 1 |  |
 | Eksploatacja zasobów naturalnych | `EZN` | ezn | — | I | st | st I: 4 | nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27) |
 | Fizyka | `FIZ` | fiz | I/jm+II st | I | st | st I: 2,3 |  |
 | Genetyka i biologia eksperymentalna | `GIBE` | gibe | I/jm st | I | st | st I: 1,2,3 |  |
@@ -204,8 +204,7 @@ Błędy pobierania: `Wychowanie-fizyczne-2026-27a.pdf`: brak pliku (404).
 4. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 5. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 6. WNS: „Pedagogika specjalna” – skrót ze źródła „PEDSPEC” ma 7 liter (kod musi mieć 2–6). Propozycja: PEDSPE?
-7. WNŚiP: „Biotechnologia” – skrót ze źródła „biotech” ma 7 liter (kod musi mieć 2–6). Propozycja: BIOTEC?
-8. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
-9. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
+7. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
+8. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
 
 Zapytania: sieć 0, HEAD 0, cache 191. Pliki: 180 (nowo pobrane 0, błędy 1).

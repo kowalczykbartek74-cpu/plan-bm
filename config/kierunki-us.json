@@ -3904,7 +3904,7 @@
      ]
     },
     {
-     "kod": null,
+     "kod": "BIOTEC",
      "pl": "Biotechnologia",
      "en": "Biotechnology",
      "stopnie": [
@@ -3929,9 +3929,10 @@
       "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/biotechnologia/"
      },
      "maZrodlo": true,
+     "zrodloKodu": "kod istniejący w Skrócie (nauka_kierunki)",
      "roczniki": [
       {
-       "id": null,
+       "id": "wnsip-biotec-1-st-2026",
        "stopien": 1,
        "tryb": "st",
        "rok": 1,
@@ -3939,7 +3940,7 @@
        "nabor": 2026
       },
       {
-       "id": null,
+       "id": "wnsip-biotec-1-st-2024",
        "stopien": 1,
        "tryb": "st",
        "rok": 3,
@@ -3947,7 +3948,7 @@
        "nabor": 2024
       },
       {
-       "id": null,
+       "id": "wnsip-biotec-2-st-2026",
        "stopien": 2,
        "tryb": "st",
        "rok": 1,

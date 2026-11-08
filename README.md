@@ -104,6 +104,10 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   z „[WP]” i legendy, grupy → `pg`, terminy → `dates`, wyjątki do notki). Wynik **zawsze idzie do kolejki zatwierdzeń**
   (`scripts/us/kolejka.mjs`, baza Skrótu v50 – instrukcja `docs/kolejka-pdf.md`); na stronę trafia dopiero plan zatwierdzony
   w zdawalni.pl → Importy. Pilot: `docs/wpia-pilot.md`. Bez PyMuPDF wydział jest pomijany (workflow: `docs/aktualizacja-planu-us.yml`).
+- **WNŚiP (Etap 5):** `scripts/us/wnsip-pdf.mjs` – ten sam szkielet siatki, ale komórki wyznaczają czarne linie (tło bywa
+  przypadkowe), dzień może mieć kolumny grup („gr. 1/2” → `pg`), rodzaj z „[w/30h]”, „[lecture/30h]”, godziny z pierwszej linii
+  (bloki :05/:50…) albo z położenia nazwy i sali. 38 plików, ~670 zajęć → kolejka zatwierdzeń. Pilot: `docs/wnsip-pilot.md`
+  (`node scripts/us/wpia-pilot.mjs --wydzial wnsip --plik mat_I-st.-1-rok-akt.-19.10.pdf`).
 - Komunikaty DOS: grupy C i M, numery 1xx–6xx (wszystkie lata i II stopień); rocznik z grupami „M…” bierze sekcję DOS
   Mickiewicza (także z pliku `kierunki/` bez pola `dos`).
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”

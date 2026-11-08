@@ -8,6 +8,8 @@
     "_opis": "Kody kierunków, które już istnieją w Skrócie (nauka_kierunki.kod) – mają pierwszeństwo przed skrótem z nazwy pliku.",
     "wpia": { "Prawo": "PRAWO", "Administracja": "ADM" },
     "_wpia": "ADM = propozycja (źródło podaje tylko „A”), do potwierdzenia przez Bartka",
+    "wnsip": { "Biotechnologia": "BIOTEC" },
+    "_wnsip": "BIOTEC = propozycja (skrót „biotech” ma 7 liter), do potwierdzenia przez Bartka",
     "wh": { "Filologia romańska z językiem obcym do wyboru": "FRZJO" },
     "_wh": "FRZJO = propozycja (skrót pliku FRZJOdW ma 7 liter), do potwierdzenia przez Bartka"
   },
@@ -60,6 +62,7 @@
       "kod": "wnsip", "skrot": "WNŚiP", "pl": "Wydział Nauk Ścisłych i Przyrodniczych", "en": "Faculty of Exact and Natural Sciences",
       "oferta": "Wydział Nauk Ścisłych i Przyrodniczych",
       "parser": "wnsip",
+      "importer": "wnsip-pdf.mjs",
       "strony": [
         { "url": "https://spr.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" }
       ],

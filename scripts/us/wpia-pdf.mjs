@@ -49,24 +49,35 @@ export function tekstW(slowa, r, pad = 1) {
 // ---------- siatka: dni, bloki godzin, komórki ----------
 export function siatka(strona) {
   const { slowa, prostokaty } = strona;
-  const nagl = slowa.filter((w) => DNI[w[4].replace(/[^A-ZĄĆĘŁŃÓŚŹŻ]/g, "")] != null);
-  if (!nagl.length) return { blad: "brak nagłówka dni" };
+  const dzien = (t) => DNI[String(t).toUpperCase().replace(/[^A-ZĄĆĘŁŃÓŚŹŻ]/g, "")];
+  // nagłówek = wiersz z największą liczbą nazw dni (nazwy dni bywają też w treści komórek: „Piątek, 12.12”)
+  const wszystkie = slowa.filter((w) => dzien(w[4]) != null);
+  const wiersze = new Map();
+  for (const w of wszystkie) { const k = Math.round(w[1] / 4); wiersze.set(k, [...(wiersze.get(k) || []), w]); }
+  const nagl = [...wiersze.values()].sort((a, b) => b.length - a.length)[0] || [];
+  if (nagl.length < 3) return { blad: "brak nagłówka dni" };
   const yN = Math.min(...nagl.map((w) => w[1])), yN1 = Math.max(...nagl.map((w) => w[3]));
-  const piony = [...new Set(prostokaty.filter((r) => czarny(r) && r[2] - r[0] < 2.5 && r[1] <= yN && r[3] >= yN1).map((r) => Math.round(r[0])))].sort((a, b) => a - b);
+  const piony = [...new Set(prostokaty.filter((r) => czarny(r) && r[2] - r[0] < 2.5 && r[1] <= yN + 2 && r[3] >= yN1 - 2).map((r) => Math.round(r[0])))].sort((a, b) => a - b);
   const dni = [];
   for (let i = 0; i + 1 < piony.length; i++) {
     const h = nagl.find((w) => w[0] >= piony[i] && w[2] <= piony[i + 1] + 1);
-    if (h) dni.push({ d: DNI[h[4].replace(/[^A-ZĄĆĘŁŃÓŚŹŻ]/g, "")], x0: piony[i], x1: piony[i + 1] });
+    if (h) dni.push({ d: dzien(h[4]), x0: piony[i], x1: piony[i + 1] });
   }
   const x0 = dni.length ? Math.min(...dni.map((d) => d.x0)) : 0;
-  const etyk = slowa.filter((w) => w[2] <= x0 + 1 && /^\d{1,2}:\d{2}-\d{1,2}:\d{2}$/.test(w[4])).sort((a, b) => a[1] - b[1]);
+  // etykiety godzin w pierwszej kolumnie: „8:15-9:00”, „8.15-9.00”, „8.15 - 9.00” (kilka słów) → linie po y
+  const lewe = slowa.filter((w) => w[2] <= x0 + 1 && w[1] >= yN1 - 1).sort((a, b) => a[1] - b[1] || a[0] - b[0]);
+  const linieL = [];
+  for (const w of lewe) { const yc = (w[1] + w[3]) / 2; const l = linieL.find((q) => Math.abs(q.yc - yc) < 2.2); if (l) { l.w.push(w); l.y0 = Math.min(l.y0, w[1]); l.y1 = Math.max(l.y1, w[3]); } else linieL.push({ yc, y0: w[1], y1: w[3], w: [w] }); }
+  const etyk = linieL.map((l) => ({ l, m: /^(\d{1,2})[:.](\d{2})\s*[-–]\s*(\d{1,2})[:.](\d{2})$/.exec(l.w.sort((a, b) => a[0] - b[0]).map((x) => x[4]).join(" ").replace(/\s*[-–]\s*/, "-")) }))
+    .filter((x) => x.m).map((x) => [0, x.l.y0, 0, x.l.y1, `${x.m[1]}:${x.m[2]}-${x.m[3]}:${x.m[4]}`]);
   const poziomeLewe = [...new Set(prostokaty.filter((r) => czarny(r) && r[3] - r[1] < 2.5 && r[2] <= x0 + 2 && r[2] - r[0] > 10).map((r) => Math.round(r[1])))].sort((a, b) => a - b);
   const bloki = etyk.map((w) => {
-    const yc = (w[1] + w[3]) / 2, [a, b] = w[4].split("-");
+    const yc = (w[1] + w[3]) / 2, [a, b] = w[4].replace(/\./g, ":").split("-");
     const g = poziomeLewe.filter((y) => y < yc).pop() ?? w[1] - 5, d = poziomeLewe.find((y) => y > yc) ?? w[3] + 5;
     return { y0: g, y1: d, od: hhmm(...a.split(":")), do: hhmm(...b.split(":")) };
   });
-  const dol = bloki.length ? bloki[bloki.length - 1].y1 : strona.h;
+  if (!bloki.length) return { blad: "brak etykiet godzin w pierwszej kolumnie" };
+  const dol = bloki[bloki.length - 1].y1;
   const linieH = prostokaty.filter((r) => czarny(r) && r[3] - r[1] < 2.5 && r[2] - r[0] > 8);
   // plasterki komórek: wypełnione kolorem (nie czarne, nie białe) w obszarze siatki
   const pl = prostokaty.filter((r) => r[4] && !czarny(r) && r[4] !== "#ffffff" && r[0] >= x0 - 1 && r[1] >= yN1 - 1 && r[1] < dol - 1 && r[2] - r[0] > 8 && r[3] - r[1] > 2)
