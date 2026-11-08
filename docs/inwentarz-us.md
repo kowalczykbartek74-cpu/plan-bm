@@ -142,7 +142,7 @@ Strony: [st](https://nsp.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/), [
 | Pedagogika opiekuńczo-wychowawcza | `POW` | POW | — | I | st | st I: 3 | nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27) |
 | Pedagogika przedszkolna i wczesnoszkolna | `PPIW` | PPIW | I/jm nst/st | jm | nst, st | st jm: 1,2,3,4,5 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
 | Pedagogika resocjalizacyjna | `RESO` | RESO, Reso | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
-| Pedagogika specjalna | **?** | PEDSPEC | I/jm nst/st | jm | nst, st | st jm: 1,2,3,4,5 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
+| Pedagogika specjalna | `PEDSP` | PEDSPEC | I/jm nst/st | jm | nst, st | st jm: 1,2,3,4,5 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
 | Politologia | `POL` | POL | I/jm+II st | I | st | st I: 1,2,3 |  |
 | Praca socjalna | `PS` | PS | I/jm nst/st | I | nst, st | st I: 1 | wspólny plik kilku kierunków; niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
 | Psychologia | `PSYCH` | Psych | I/jm st | jm | st | st jm: 1,2,3,4,5 |  |
@@ -203,8 +203,7 @@ Błędy pobierania: `Wychowanie-fizyczne-2026-27a.pdf`: brak pliku (404).
 3. WKFiZ: grupa „ERASMUS +” (30 zajęć) nie ma formy „<kierunek> <rok> rok <stopień>”
 4. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 5. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
-6. WNS: „Pedagogika specjalna” – skrót ze źródła „PEDSPEC” ma 7 liter (kod musi mieć 2–6). Propozycja: PEDSPE?
-7. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
-8. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
+6. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
+7. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
 
 Zapytania: sieć 0, HEAD 0, cache 191. Pliki: 180 (nowo pobrane 0, błędy 1).

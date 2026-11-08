@@ -11,7 +11,9 @@
     "wnsip": { "Biotechnologia": "BIOTEC" },
     "_wnsip": "BIOTEC = propozycja (skrót „biotech” ma 7 liter), do potwierdzenia przez Bartka",
     "wh": { "Filologia romańska z językiem obcym do wyboru": "FRZJO" },
-    "_wh": "FRZJO = propozycja (skrót pliku FRZJOdW ma 7 liter), do potwierdzenia przez Bartka"
+    "_wh": "FRZJO = propozycja (skrót pliku FRZJOdW ma 7 liter), do potwierdzenia przez Bartka",
+    "wns": { "Pedagogika specjalna": "PEDSP" },
+    "_wns": "PEDSP = propozycja (skrót pliku PEDSPEC ma 7 liter), do potwierdzenia przez Bartka"
   },
   "wydzialy": [
     {
@@ -51,6 +53,7 @@
       "kod": "wns", "skrot": "WNS", "pl": "Wydział Nauk Społecznych", "en": "Faculty of Social Sciences",
       "oferta": "Wydział Nauk Społecznych",
       "parser": "wns",
+      "importer": "wns-pdf.mjs",
       "strony": [
         { "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" },
         { "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", "tryb": "nst", "format": "pdf" }

@@ -35,6 +35,10 @@ Po najbliższym przebiegu (rano albo Actions → „Aktualizacja planu zajęć�
 Każda pozycja = jedne zajęcia (grupa, dzień, godziny, przedmiot, podgrupa, prowadzący, sala, daty). Tak / Popraw / Nie,
 a na końcu „Zatwierdź”. Następny przebieg wstawi zatwierdzony plan na stronę.
 
+Kolejne wydziały z PDF trafiają do tej samej kolejki: WNŚiP (38 szkiców, wydział „WNSiP”) i WNS (62 szkice – jeden na rocznik;
+plik WNS ma zwykle kilka roczników). Profile `importy/WNSiP.json` i `importy/WNS.json` są na tej samej gałęzi Skrótu
+(`importy/plan-bm-automat`, commit 2a94749) – bez nich panel nie pokaże szkicu.
+
 Kiedy wydział podmieni PDF: nowy szkic zastępuje stary niezatwierdzony; na stronie zostaje ostatnia zatwierdzona wersja.
 
 Sprawdzenie bez sieci: `node scripts/us/importuj.mjs --wydzial wpia --na-sucho` (szkice w `.cache/us/szkice/`),
