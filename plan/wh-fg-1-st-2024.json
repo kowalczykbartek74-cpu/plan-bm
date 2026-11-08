@@ -1,0 +1,558 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+ "wersja": "2026-10-26",
+ "sha256": "0b6e315634001ec5ffa057fd6e62c9fb192187b5f5ebfbecf31c33200bb1b3a4",
+ "kierunek": "Filologia germańska",
+ "kierunekEn": "German Philology",
+ "id": "wh-fg-1-st-2024",
+ "kod": "fg24",
+ "wydzial": "WH",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "FG3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Warsztaty pisania prac naukowych – językoznawstwo",
+     "k": "CW",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 222, bud. 6 WKFiZ",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "19.01.do 10.45 17.11- wyjątkowo w Sali 17 bud. 4 konwersatorium dyplomowe-językoznawstwo",
+     "k": "K",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 116, bud. 4 WH",
+     "dates": [
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Magdalena Lisiecka-Czop, prof. US",
+     "r": "s.116,bud. 4 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr Paulina Kaczocha",
+     "r": "s. 220 bud. 6 WKFiZ",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Konwersatorium dyplomowe – literaturoznawstwo",
+     "k": "K",
+     "p": "dr Joanna Sumbor",
+     "r": "s. 116, bud. 4 WH",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "warsztaty pisania prac naukowych (literaturoznawstwo) ĆW",
+     "k": "CW",
+     "p": "dr Ewa Hendryk",
+     "r": "s. 120, bud. 6 WKFiZ",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "tłumaczenia pisemne niemiecki-polski;polski-niemiecki) ĆW specjalność kształcenie translatorskie",
+     "k": "CW",
+     "p": "dr Emil Lesner",
+     "r": "s.116, bud. 4 WH"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "język angielski [ )",
+     "k": "CW",
+     "p": "mgr Stankiewicz-Rycielska Wydział Teologiczny",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 3 (język pisany )",
+     "k": "LAB",
+     "p": "dr Paulina Kaczocha",
+     "r": "s. 220, bud. 6 WKFiZ"
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole podstawowej ĆW + 3r)",
+     "k": "CW",
+     "p": "mgr Kamil Antczak",
+     "r": "s. 222, bud. 6 WKFiZ",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 3 (konwersacje/formy argumentacji )",
+     "k": "LAB",
+     "p": "dr Barbara Wróblewska",
+     "r": "s. 222, bud. 6"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "język hiszpański",
+     "k": "CW",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 113, bud. 4 WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "z dziedziny nauk społecznych",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Warsztaty pisania prac naukowych – językoznawstwo",
+     "k": "CW",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 222, bud. 6 WKFiZ",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "19.01.do 10.45 17.11- wyjątkowo w Sali 17 bud. 4 konwersatorium dyplomowe-językoznawstwo",
+     "k": "K",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 116, bud. 4 WH",
+     "dates": [
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Magdalena Lisiecka-Czop, prof. US",
+     "r": "s.116,bud. 4 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr Paulina Kaczocha",
+     "r": "s. 220 bud. 6 WKFiZ",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Konwersatorium dyplomowe – literaturoznawstwo",
+     "k": "K",
+     "p": "dr Joanna Sumbor",
+     "r": "s. 116, bud. 4 WH",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "warsztaty pisania prac naukowych (literaturoznawstwo) ĆW",
+     "k": "CW",
+     "p": "dr Ewa Hendryk",
+     "r": "s. 120, bud. 6 WKFiZ",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "tłumaczenia pisemne niemiecki-polski;polski-niemiecki) ĆW specjalność kształcenie translatorskie",
+     "k": "CW",
+     "p": "dr Emil Lesner",
+     "r": "s.116, bud. 4 WH"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "język angielski [ )",
+     "k": "CW",
+     "p": "mgr Stankiewicz-Rycielska Wydział Teologiczny",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 3 (język pisany )",
+     "k": "LAB",
+     "p": "dr Paulina Kaczocha",
+     "r": "s. 220, bud. 6 WKFiZ"
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole podstawowej ĆW + 3r)",
+     "k": "CW",
+     "p": "mgr Kamil Antczak",
+     "r": "s. 222, bud. 6 WKFiZ",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 3 (konwersacje/formy argumentacji )",
+     "k": "LAB",
+     "p": "dr Barbara Wróblewska",
+     "r": "s. 222, bud. 6"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "język hiszpański",
+     "k": "CW",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 113, bud. 4 WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "z dziedziny nauk społecznych",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

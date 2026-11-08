@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:16:27.233Z",
- "checkedAt": "2026-11-08T21:16:27.233Z",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
  "groups": {
   "HIST2": {
    "odd": [
@@ -60,7 +60,7 @@
      "k": "CW",
      "p": "dr M. Kasjanowicz-Szczepańska",
      "r": "al. Piastów 40b bud. nr 4 s. 17-19 (WH)",
-     "n": "zajęcia łączone z ARCH+ MiC + SM+ DiKS+ FILO + FP"
+     "n": "zajęcia łączone z ARCH+"
     },
     {
      "d": 0,
@@ -85,6 +85,7 @@
      "k": "CW",
      "p": "dr hab. A. Gut, prof. US",
      "r": "s. 069 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 09:00",
      "pg": "spec:archiwistyczna",
      "dates": [
       "2026-10-06",
@@ -144,7 +145,7 @@
      "k": "K",
      "p": "dr hab. A. Szudarek, prof. US",
      "r": "s.070 (IH)",
-     "n": "w dniach 01.XII. i 08.XII. zajęcia w godz. 12:00-13:30",
+     "n": "pierwsze zajęcia 1h od godz. 12:30; w dniach 01.XII. i 08.XII. zajęcia w godz. 12:00-13:30",
      "pg": "spec:archiwistyczna",
      "dates": [
       "2026-11-24",
@@ -169,6 +170,7 @@
      "k": "CW",
      "p": "dr E. Kopaczewska",
      "r": "al.Piastów 40b, bud. nr 4, s. 310 (WH)",
+     "n": "pierwsze zajęcia 1h od godz. 09:00",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-12-02",
@@ -204,6 +206,7 @@
      "k": "CW",
      "p": "mgr J. Znajdek",
      "r": "al.Piastów 40b, bud. nr 4, s. 319 (WH)",
+     "n": "pierwsze zajęcia 1h od godz. 10:45",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-12-02",
@@ -252,6 +255,7 @@
      "k": "W",
      "p": "dr K. Biały",
      "r": "s. 072 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 14:15",
      "pg": "spec:archiwistyczna",
      "dates": [
       "2026-10-07",
@@ -299,6 +303,7 @@
      "k": "W",
      "p": "prof. dr hab. R. Gaziński",
      "r": "s. 073 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 09:00",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -410,7 +415,7 @@
      "k": "CW",
      "p": "dr M. Kasjanowicz-Szczepańska",
      "r": "al. Piastów 40b bud. nr 4 s. 17-19 (WH)",
-     "n": "zajęcia łączone z ARCH+ MiC + SM+ DiKS+ FILO + FP"
+     "n": "zajęcia łączone z ARCH+"
     },
     {
      "d": 0,
@@ -435,6 +440,7 @@
      "k": "CW",
      "p": "dr hab. A. Gut, prof. US",
      "r": "s. 069 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 09:00",
      "pg": "spec:archiwistyczna",
      "dates": [
       "2026-10-06",
@@ -494,7 +500,7 @@
      "k": "K",
      "p": "dr hab. A. Szudarek, prof. US",
      "r": "s.070 (IH)",
-     "n": "w dniach 01.XII. i 08.XII. zajęcia w godz. 12:00-13:30",
+     "n": "pierwsze zajęcia 1h od godz. 12:30; w dniach 01.XII. i 08.XII. zajęcia w godz. 12:00-13:30",
      "pg": "spec:archiwistyczna",
      "dates": [
       "2026-11-24",
@@ -519,6 +525,7 @@
      "k": "CW",
      "p": "dr E. Kopaczewska",
      "r": "al.Piastów 40b, bud. nr 4, s. 310 (WH)",
+     "n": "pierwsze zajęcia 1h od godz. 09:00",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-12-02",
@@ -554,6 +561,7 @@
      "k": "CW",
      "p": "mgr J. Znajdek",
      "r": "al.Piastów 40b, bud. nr 4, s. 319 (WH)",
+     "n": "pierwsze zajęcia 1h od godz. 10:45",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-12-02",
@@ -602,6 +610,7 @@
      "k": "W",
      "p": "dr K. Biały",
      "r": "s. 072 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 14:15",
      "pg": "spec:archiwistyczna",
      "dates": [
       "2026-10-07",
@@ -649,6 +658,7 @@
      "k": "W",
      "p": "prof. dr hab. R. Gaziński",
      "r": "s. 073 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 09:00",
      "dates": [
       "2026-10-08",
       "2026-10-15",

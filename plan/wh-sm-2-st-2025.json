@@ -1,0 +1,848 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+ "wersja": "2026-11-06",
+ "sha256": "f00c957eb1beddd2c703619f1f860143d86e1cdc397df6c762f5fd1fe2e583ea",
+ "kierunek": "Stosunki międzynarodowe",
+ "kierunekEn": "International Relations",
+ "id": "wh-sm-2-st-2025",
+ "kod": "smm25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "SM2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "wykład monograficzny: procesy pojednawcze i normalizacyjne w Europie po 1945",
+     "k": "W",
+     "p": "dr hab. P. Weber, prof. US",
+     "r": "s. 069 (IH)",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "międzynarodowa ochrona środowiska – po )",
+     "k": "W",
+     "p": "prof. dr hab. H. Więcław",
+     "r": "s. 145 (IH)",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "międzynarodowe transakcje gospodarcze",
+     "k": "W",
+     "p": "dr J. Narękiewicz",
+     "r": "s.068 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 14:15",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "międzyregionalne kontakty gospodarcze",
+     "k": "CW",
+     "p": "dr L. Kłos",
+     "r": "s. 068 (IH)",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "procesy migracyjne w świecie: przeszłość, teraźniejszość, przyszłość",
+     "k": "W",
+     "p": "dr K. Szelest",
+     "r": "s.068 (IH)",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "procesy migracyjne w świecie: przeszłość, teraźniejszość, przyszłość",
+     "k": "CW",
+     "p": "dr K. Szelest",
+     "r": "s. 068 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 19:30",
+     "pg": "spec:r,s,p",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "kształtowanie prawa gospodarczego UE",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 134 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 10:45",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "k": "S",
+     "p": "prof. dr hab. R. Tomczyk",
+     "r": "gab. 228 (IH)",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr A. Pałgan",
+     "r": "s.069 (IH)",
+     "n": "zajęcia łączone z ARCH + HIST + +KK"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "foresight i zarządzanie przyszłością",
+     "k": "CW",
+     "p": "dr B. Patlewicz",
+     "r": "s. 072 (IH)",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "oral history w relacjach między narodami i grupami etnicznymi",
+     "k": "K",
+     "p": "dr K. Szelest",
+     "r": "s. 068 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 17:45",
+     "pg": "spec:r,s,p",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e- (kod: 1x1br3w) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "k": "S",
+     "p": "dr hab. A. Szczepańska-Dudziak, prof. US",
+     "r": "gab. 079 (IH)",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e- (kod: ezb1xw7) seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. R. Tomczyk",
+     "dates": [
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e- (kod: qdc0koy) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "k": "S",
+     "p": "prof. dr hab. H. Walczak",
+     "r": "gab.126 (IH)",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e- (kod: sy8hhfs) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "k": "S",
+     "p": "prof. dr hab. T. Sikorski",
+     "r": "gab. 125 (IH)",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "stereotypy w relacjach międzynarodowych i międzykulturowych",
+     "k": "CW",
+     "p": "dr hab. R. Gawarkiewicz, prof. US",
+     "r": "al. Piastów 40b bud. nr 4 s. 214 (WH)",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "wykład monograficzny: relacje polsko-żydowskie",
+     "k": "W",
+     "p": "dr hab. R. Ptaszyński, prof. US",
+     "r": "s.068 (IH)",
+     "n": "ostatnie zajęcia 1h do godz.16:15",
+     "pg": "spec:r,s,p",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk społecznych (e- )",
+     "k": "W",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "kształtowanie prawa gospodarczego UE",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 073 (IH)",
+     "n": "zajęcia w dniach: 27 XI- 4h; 11 XII. - 3h; 08.I; 22 I. - 4h",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "wykład monograficzny: procesy pojednawcze i normalizacyjne w Europie po 1945",
+     "k": "W",
+     "p": "dr hab. P. Weber, prof. US",
+     "r": "s. 069 (IH)",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "międzynarodowa ochrona środowiska – po )",
+     "k": "W",
+     "p": "prof. dr hab. H. Więcław",
+     "r": "s. 145 (IH)",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "międzynarodowe transakcje gospodarcze",
+     "k": "W",
+     "p": "dr J. Narękiewicz",
+     "r": "s.068 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 14:15",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "międzyregionalne kontakty gospodarcze",
+     "k": "CW",
+     "p": "dr L. Kłos",
+     "r": "s. 068 (IH)",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "procesy migracyjne w świecie: przeszłość, teraźniejszość, przyszłość",
+     "k": "W",
+     "p": "dr K. Szelest",
+     "r": "s.068 (IH)",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "procesy migracyjne w świecie: przeszłość, teraźniejszość, przyszłość",
+     "k": "CW",
+     "p": "dr K. Szelest",
+     "r": "s. 068 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 19:30",
+     "pg": "spec:r,s,p",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "kształtowanie prawa gospodarczego UE",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 134 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 10:45",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "k": "S",
+     "p": "prof. dr hab. R. Tomczyk",
+     "r": "gab. 228 (IH)",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr A. Pałgan",
+     "r": "s.069 (IH)",
+     "n": "zajęcia łączone z ARCH + HIST + +KK"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "foresight i zarządzanie przyszłością",
+     "k": "CW",
+     "p": "dr B. Patlewicz",
+     "r": "s. 072 (IH)",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "oral history w relacjach między narodami i grupami etnicznymi",
+     "k": "K",
+     "p": "dr K. Szelest",
+     "r": "s. 068 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 17:45",
+     "pg": "spec:r,s,p",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e- (kod: 1x1br3w) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "k": "S",
+     "p": "dr hab. A. Szczepańska-Dudziak, prof. US",
+     "r": "gab. 079 (IH)",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e- (kod: ezb1xw7) seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. R. Tomczyk",
+     "dates": [
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e- (kod: qdc0koy) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "k": "S",
+     "p": "prof. dr hab. H. Walczak",
+     "r": "gab.126 (IH)",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e- (kod: sy8hhfs) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "k": "S",
+     "p": "prof. dr hab. T. Sikorski",
+     "r": "gab. 125 (IH)",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "stereotypy w relacjach międzynarodowych i międzykulturowych",
+     "k": "CW",
+     "p": "dr hab. R. Gawarkiewicz, prof. US",
+     "r": "al. Piastów 40b bud. nr 4 s. 214 (WH)",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "wykład monograficzny: relacje polsko-żydowskie",
+     "k": "W",
+     "p": "dr hab. R. Ptaszyński, prof. US",
+     "r": "s.068 (IH)",
+     "n": "ostatnie zajęcia 1h do godz.16:15",
+     "pg": "spec:r,s,p",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykłady z dziedziny nauk społecznych (e- )",
+     "k": "W",
+     "pg": "spec:r,s,p"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "kształtowanie prawa gospodarczego UE",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 073 (IH)",
+     "n": "zajęcia w dniach: 27 XI- 4h; 11 XII. - 3h; 08.I; 22 I. - 4h",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

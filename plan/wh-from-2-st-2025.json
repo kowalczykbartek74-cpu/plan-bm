@@ -1,0 +1,740 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+ "wersja": "2026-10-15",
+ "sha256": "d8af5b209eb522cbd93b0fdfff9c93a5f3f480beacacb0927854347a2f922710",
+ "kierunek": "Filologia romańska",
+ "kierunekEn": "Romance Philology",
+ "id": "wh-from-2-st-2025",
+ "kod": "fromm25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "FROM2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "pisanie/lektura-język francuski",
+     "k": "LAB",
+     "p": "mgr M. Janusz",
+     "r": "s. 15, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "11:30"
+     ],
+     "pl": "gramatyka praktyczna-język francuski z – konwersacje i słuchanie-język francuski od 10:00 do 10:45",
+     "k": "LAB",
+     "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
+     "r": "s. 120, WH bud.4, s. 118, WH bud.4",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "pl": "gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
+     "k": "LAB",
+     "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
+     "r": "s. 120, WH bud. 4, s. 118, WH bud. 4",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Interdyscyplinarne badania literatury francuskiej",
+     "k": "W",
+     "p": "dr hab. M. Bajer, prof. US",
+     "r": "s. 120, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "W",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 18 z 48ćw",
+     "k": "LAB",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 30 z 48 ćw",
+     "k": "X",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "przekład specjalistyczny",
+     "k": "W",
+     "p": "dr A. Kamińska",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "laboratorium tłumaczeniowe",
+     "k": "LAB",
+     "p": "dr A. Kamińska",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "najnowsze tendencje językoznawcze i 2x2h z",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 16, WH bud. 4",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Emisja głosu, 10 ćw, +FA bud",
+     "k": "X",
+     "p": "dr M. Kabata From",
+     "r": "s. 215",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 114, WH bud. 4",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie i 2x2h z",
+     "k": "S",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 103 WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 103, WH bud. 4",
+     "dates": [
+      "2026-11-06",
+      "2026-11-20",
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 103 WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "najnowsze tendencje językoznawcze z",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 118, WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "pisanie/lektura-język francuski",
+     "k": "LAB",
+     "p": "mgr M. Janusz",
+     "r": "s. 15, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "11:30"
+     ],
+     "pl": "gramatyka praktyczna-język francuski z – konwersacje i słuchanie-język francuski od 10:00 do 10:45",
+     "k": "LAB",
+     "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
+     "r": "s. 120, WH bud.4, s. 118, WH bud.4",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "pl": "gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
+     "k": "LAB",
+     "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
+     "r": "s. 120, WH bud. 4, s. 118, WH bud. 4",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Interdyscyplinarne badania literatury francuskiej",
+     "k": "W",
+     "p": "dr hab. M. Bajer, prof. US",
+     "r": "s. 120, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "W",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 18 z 48ćw",
+     "k": "LAB",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 30 z 48 ćw",
+     "k": "X",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "przekład specjalistyczny",
+     "k": "W",
+     "p": "dr A. Kamińska",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "laboratorium tłumaczeniowe",
+     "k": "LAB",
+     "p": "dr A. Kamińska",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "najnowsze tendencje językoznawcze i 2x2h z",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 16, WH bud. 4",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Emisja głosu, 10 ćw, +FA bud",
+     "k": "X",
+     "p": "dr M. Kabata From",
+     "r": "s. 215",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 114, WH bud. 4",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie i 2x2h z",
+     "k": "S",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 103 WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 103, WH bud. 4",
+     "dates": [
+      "2026-11-06",
+      "2026-11-20",
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 103 WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "najnowsze tendencje językoznawcze z",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 118, WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

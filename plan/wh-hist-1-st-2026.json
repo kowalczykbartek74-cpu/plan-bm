@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:16:27.233Z",
- "checkedAt": "2026-11-08T21:16:27.233Z",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
  "groups": {
   "HIST1": {
    "odd": [
@@ -38,6 +38,7 @@
      "k": "W",
      "p": "prof. dr hab. J. Brejdak",
      "r": "s. 073 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 10:45",
      "dates": [
       "2026-10-05",
       "2026-10-12",
@@ -89,7 +90,7 @@
       "19:00",
       "20:30"
      ],
-     "pl": "ochrona własności intelektualnej ( w terminach: )",
+     "pl": "ochrona własności intelektualnej w terminach: )",
      "k": "W",
      "p": "dr M. Stępień",
      "r": "ul. Wielkopolska, s. 116 (aula)",
@@ -144,6 +145,7 @@
      "k": "K",
      "p": "dr K. Biały",
      "r": "s.068 (IH)",
+     "n": "pierwsze zajęcia 1h od godz.14:15",
      "dates": [
       "2026-12-02",
       "2026-12-09",
@@ -166,6 +168,7 @@
      "k": "W",
      "p": "dr W. Bryniewicz",
      "r": "s.070 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 16:00",
      "dates": [
       "2026-12-02",
       "2026-12-09",
@@ -225,6 +228,7 @@
      "k": "W",
      "p": "prof. dr hab. J. Brejdak",
      "r": "s. 073 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 10:45",
      "dates": [
       "2026-10-05",
       "2026-10-12",
@@ -276,7 +280,7 @@
       "19:00",
       "20:30"
      ],
-     "pl": "ochrona własności intelektualnej ( w terminach: )",
+     "pl": "ochrona własności intelektualnej w terminach: )",
      "k": "W",
      "p": "dr M. Stępień",
      "r": "ul. Wielkopolska, s. 116 (aula)",
@@ -331,6 +335,7 @@
      "k": "K",
      "p": "dr K. Biały",
      "r": "s.068 (IH)",
+     "n": "pierwsze zajęcia 1h od godz.14:15",
      "dates": [
       "2026-12-02",
       "2026-12-09",
@@ -353,6 +358,7 @@
      "k": "W",
      "p": "dr W. Bryniewicz",
      "r": "s.070 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 16:00",
      "dates": [
       "2026-12-02",
       "2026-12-09",

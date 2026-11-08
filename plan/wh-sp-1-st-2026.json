@@ -1,0 +1,742 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+ "wersja": "2026-10-20",
+ "sha256": "1173543a5026cbe303c1709386594552aec982729bb339f9b95b7fa545366f43",
+ "kierunek": "Studia pisarskie",
+ "kierunekEn": "Creative Writing",
+ "id": "wh-sp-1-st-2026",
+ "kod": "sp26",
+ "wydzial": "WH",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "SP1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "arcydzieła i eksperymenty",
+     "k": "W",
+     "p": "prof. dr hab. Jerzy Madejski",
+     "r": "s. 1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "opowieści lokalne",
+     "k": "K",
+     "p": "mgr Anna Aderek",
+     "r": "s. 220"
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "literatura i terapia",
+     "k": "K",
+     "p": "dr hab. Maciej Duda, prof. US",
+     "r": "s. 1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:00",
+      "16:30"
+     ],
+     "pl": "mikroformy narracyjne (literatura polska) od g.",
+     "k": "W",
+     "p": "dr hab. Arleta Galant, prof. US",
+     "r": "s. 314",
+     "dates": [
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "warsztaty pisarskie z",
+     "k": "K",
+     "p": "dr Barbara Elmanowska",
+     "r": "s. 314",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "ochrona własności intelektualnej w zaj.",
+     "k": "W",
+     "p": "dr Marcin Stepień",
+     "r": "aula 116 Wielkopolska 15 zajęcia w terminie: 06.10",
+     "n": "łączone z FP + FN + ITA",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "opowieści lokalne z",
+     "k": "W",
+     "p": "dr hab. Arleta Galant, prof. US",
+     "r": "s. 216",
+     "dates": [
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gatunki, konwencje, tematy literatury polskiej dr hab.",
+     "k": "K",
+     "p": "prof. Tatiana Czerska, prof. US, dr Mariusz Strzeżek",
+     "r": "s. 220",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "mikroformy narracyjne (literatura polska)",
+     "k": "K",
+     "p": "dr Mariusz Strzeżek",
+     "r": "s. 220"
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "opowieści lokalne z",
+     "k": "W",
+     "p": "dr hab. Arleta Galant, prof. US",
+     "r": "s. 314",
+     "dates": [
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "warsztaty pisarskie z",
+     "k": "K",
+     "p": "dr Barbara Elmanowska",
+     "r": "s. 314",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ślady poetów (literatura polska) (współprowadzenie )",
+     "k": "K",
+     "p": "prof. dr hab. Piotr Michałowski, dr hab. Piotr Krupiński, prof. US, mgr Marta Sobolewka",
+     "r": "s. 220",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "język a literatura",
+     "k": "K",
+     "p": "dr hab. Dorota Kozaryn",
+     "r": "s. 220"
+    },
+    {
+     "d": 3,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "warsztaty prozatorskie – małe formy narracyjne",
+     "k": "LAB",
+     "p": "mgr Jarosław Błahy",
+     "r": "s. 220"
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "technologie informacyjne (Wielkopolska 15) 23.10 – nie odbędą się",
+     "k": "CW",
+     "p": "dr Waldemar Staroń",
+     "r": "s. 208",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "technologie informacyjne z (Wielkopolska 15)",
+     "k": "CW",
+     "p": "dr Waldemar Staroń",
+     "r": "s. 208",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "arcydzieła i eksperymenty",
+     "k": "W",
+     "p": "prof. dr hab. Jerzy Madejski",
+     "r": "s. 1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "opowieści lokalne",
+     "k": "K",
+     "p": "mgr Anna Aderek",
+     "r": "s. 220"
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "literatura i terapia",
+     "k": "K",
+     "p": "dr hab. Maciej Duda, prof. US",
+     "r": "s. 1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:00",
+      "16:30"
+     ],
+     "pl": "mikroformy narracyjne (literatura polska) od g.",
+     "k": "W",
+     "p": "dr hab. Arleta Galant, prof. US",
+     "r": "s. 314",
+     "dates": [
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "warsztaty pisarskie z",
+     "k": "K",
+     "p": "dr Barbara Elmanowska",
+     "r": "s. 314",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "ochrona własności intelektualnej w zaj.",
+     "k": "W",
+     "p": "dr Marcin Stepień",
+     "r": "aula 116 Wielkopolska 15 zajęcia w terminie: 06.10",
+     "n": "łączone z FP + FN + ITA",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "opowieści lokalne z",
+     "k": "W",
+     "p": "dr hab. Arleta Galant, prof. US",
+     "r": "s. 216",
+     "dates": [
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gatunki, konwencje, tematy literatury polskiej dr hab.",
+     "k": "K",
+     "p": "prof. Tatiana Czerska, prof. US, dr Mariusz Strzeżek",
+     "r": "s. 220",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "mikroformy narracyjne (literatura polska)",
+     "k": "K",
+     "p": "dr Mariusz Strzeżek",
+     "r": "s. 220"
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "opowieści lokalne z",
+     "k": "W",
+     "p": "dr hab. Arleta Galant, prof. US",
+     "r": "s. 314",
+     "dates": [
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "warsztaty pisarskie z",
+     "k": "K",
+     "p": "dr Barbara Elmanowska",
+     "r": "s. 314",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ślady poetów (literatura polska) (współprowadzenie )",
+     "k": "K",
+     "p": "prof. dr hab. Piotr Michałowski, dr hab. Piotr Krupiński, prof. US, mgr Marta Sobolewka",
+     "r": "s. 220",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "język a literatura",
+     "k": "K",
+     "p": "dr hab. Dorota Kozaryn",
+     "r": "s. 220"
+    },
+    {
+     "d": 3,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "warsztaty prozatorskie – małe formy narracyjne",
+     "k": "LAB",
+     "p": "mgr Jarosław Błahy",
+     "r": "s. 220"
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "technologie informacyjne (Wielkopolska 15) 23.10 – nie odbędą się",
+     "k": "CW",
+     "p": "dr Waldemar Staroń",
+     "r": "s. 208",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "technologie informacyjne z (Wielkopolska 15)",
+     "k": "CW",
+     "p": "dr Waldemar Staroń",
+     "r": "s. 208",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

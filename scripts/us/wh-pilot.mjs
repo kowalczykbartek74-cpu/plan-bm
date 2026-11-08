@@ -1,13 +1,15 @@
 // Etap 4, pilot WH: 10 losowych zajęć z plików pilota porównanych z planem (docs/wh-pilot.md) i podgląd arkuszy jako HTML
 // (.cache/wh-pilot/<arkusz>.html) do zrzutu „plik obok strony”.
 //   node scripts/us/wh-pilot.mjs [--ziarno 42] [--ile 10]
+//   node scripts/us/wh-pilot.mjs --bez-pilota --ile 20 --wynik docs/wh-kontrola.md   kontrola pozostałych plików WH
 import fs from "node:fs";
 import path from "node:path";
 import { plikNaRoczniki, semestrZKalendarza } from "./wh-xlsx.mjs";
 import { xlsxArkuszeDane, nazwaKomorki, pobieracz } from "./wspolne.mjs";
 
 const arg = (n, d) => { const i = process.argv.indexOf(n); return i > 0 ? process.argv[i + 1] : d; };
-const ziarno = +arg("--ziarno", 42), ile = +arg("--ile", 10);
+const ziarno = +arg("--ziarno", 42), ile = +arg("--ile", 10), wynik = arg("--wynik", "docs/wh-pilot.md"), bezPilota = process.argv.includes("--bez-pilota");
+const PILOT = ["HIST", "FA"];
 let x = ziarno; const los = () => ((x = (x * 1103515245 + 12345) % 2147483648) / 2147483648);
 const DNI = ["pon.", "wt.", "śr.", "czw.", "pt.", "sob.", "niedz."];
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
@@ -19,7 +21,7 @@ const p = pobieracz({ log: () => {} });
 const sem = semestrZKalendarza();
 const wszystkie = [];
 fs.mkdirSync(".cache/wh-pilot", { recursive: true });
-for (const z of zr.filter((q) => q.typ === "plan" && q.format === "xlsx" && q.tryb === "st" && !q.pominiety && q.kierunki.some((k) => (cfg.tylkoKierunki || []).includes(k.kod)))) {
+for (const z of zr.filter((q) => q.typ === "plan" && q.format === "xlsx" && q.tryb === "st" && !q.pominiety && (bezPilota ? !q.kierunki.some((k) => PILOT.includes(k.kod)) : q.kierunki.some((k) => PILOT.includes(k.kod))))) {
   const f = await p.plik(z.url);
   const { roczniki } = plikNaRoczniki(f.buf, z, ku, { sem });
   for (const r of roczniki) for (const w of r.wpisy) wszystkie.push({ plik: z.plik, url: z.url, arkusz: r.arkusz, id: r.r.id, ...w });
@@ -43,13 +45,13 @@ for (const z of zr.filter((q) => q.typ === "plan" && q.format === "xlsx" && q.tr
 const wybrane = [];
 const pula = [...wszystkie];
 while (wybrane.length < ile && pula.length) wybrane.push(pula.splice(Math.floor(los() * pula.length), 1)[0]);
-const L = [`# Pilot WH (Etap 4): ${ile} losowych zajęć z pliku i z planu`, "",
-  `Wygenerowane ${new Date().toISOString().slice(0, 10)}: \`node scripts/us/wh-pilot.mjs --ziarno ${ziarno}\`. Kierunki pilota: ${(cfg.tylkoKierunki || []).join(", ")}. Wszystkich zajęć w pilocie: ${wszystkie.length}.`,
+const L = [bezPilota ? `# Kontrola WH (Etap 4): ${ile} losowych zajęć z pozostałych plików` : `# Pilot WH (Etap 4): ${ile} losowych zajęć z pliku i z planu`, "",
+  `Wygenerowane ${new Date().toISOString().slice(0, 10)}: \`node scripts/us/wh-pilot.mjs --ziarno ${ziarno}${bezPilota ? ` --bez-pilota --ile ${ile} --wynik ${wynik}` : ""}\`. ${bezPilota ? "Pliki poza pilotem (HIST, FA)" : "Kierunki pilota: " + PILOT.join(", ")}. Wszystkich zajęć: ${wszystkie.length}.`,
   "Kolumna „plik” = tekst komórki dokładnie jak w XLSX (arkusz, komórka); „plan” = to, co trafiło do plan/<id>.json i na stronę.", "",
-  "## Plik obok strony", "",
+  ...(bezPilota ? [] : ["## Plik obok strony", "",
   "Lewa strona: arkusz XLSX narysowany jako tabela ze scaleniami (czerwona ramka = komórki z porównania), prawa: plan na stronie w tygodniu 9–13.11 (11.11 – święto).", "",
-  "![FA 1. rok I st.](wh-pilot/fa.jpg)", "", "![Historia 1. rok II st.](wh-pilot/hist.jpg)", "",
-  "## Jakość odczytu całego pilota", "",
+  "![FA 1. rok I st.](wh-pilot/fa.jpg)", "", "![Historia 1. rok II st.](wh-pilot/hist.jpg)", ""]),
+  bezPilota ? "## Jakość odczytu pozostałych plików" : "## Jakość odczytu całego pilota", "",
   `| zajęcia | z notką (dopisek albo terminy nie do odczytania) | rodzaj nieznany (X) | bez prowadzącego | bez sali |`, "|---|---|---|---|---|",
   `| ${wszystkie.length} | ${wszystkie.filter((w) => w.n).length} | ${wszystkie.filter((w) => w.k === "X").length} | ${wszystkie.filter((w) => !w.p).length} | ${wszystkie.filter((w) => !w.r).length} |`, "",
   "Rodzaj „X” = plik nie podaje rodzaju (np. „Technologie informacyjne (15h)”); bez prowadzącego/sali = komórka ich nie ma (np. wykład ogólnouczelniany „zgodnie z wyborem”).", "",
@@ -60,6 +62,6 @@ wybrane.forEach((w, i) => {
     `| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |`, "|---|---|---|---|---|---|---|---|---|",
     `| ${DNI[w.d]} | ${w.time.join("–")} | ${w.pl} | ${w.k} | ${w.p || "—"} | ${w.r || "—"} | ${w.pg || "cały rok"} | ${w.daty ? `${w.daty.length} dat: ${w.daty.slice(0, 3).join(", ")}${w.daty.length > 3 ? " … " + w.daty.at(-1) : ""}` : "co tydzień"} | ${w.n || ""} |`, "");
 });
-fs.writeFileSync("docs/wh-pilot.md", L.join("\n"));
+fs.writeFileSync(wynik, L.join("\n"));
 fs.writeFileSync(".cache/wh-pilot/wybrane.json", JSON.stringify(wybrane.map((w) => ({ id: w.id, arkusz: w.arkusz, komorka: w.komorka, d: w.d })), null, 1));
 console.log(wybrane.map((w) => `${w.id} ${w.arkusz} ${w.komorka}`).join("\n"));

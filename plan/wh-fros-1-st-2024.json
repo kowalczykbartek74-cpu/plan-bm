@@ -1,0 +1,394 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+ "wersja": "2026-10-26",
+ "sha256": "098cc26f1a1b04e7d49131599411b58ea13c0598e2efbab3f0825b8035f1d9f8",
+ "kierunek": "Filologia rosyjska z dodatkowym językiem obcym",
+ "kierunekEn": "Russian Philology with an Additional Foreign Language",
+ "id": "wh-fros-1-st-2024",
+ "kod": "fros24",
+ "wydzial": "WH",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "FROS3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "ćwiczenia konwersacyjne 60 lab bud.",
+     "k": "CW",
+     "p": "dr A. Krzanowska, prof. US",
+     "r": "gab. 04",
+     "pg": "gr:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "praktyczna nauka języka-zintegrowane sprawności językowe: j. włoski +Fgdjo j.hiszpański +FroszDJo+Fgzdjo",
+     "k": "LAB",
+     "p": "mgr P. Przydatek Froszdjo, mgr A. Skalska Frzjodw",
+     "r": "s. 15, WH bud.4, s. 118, WH bud.4",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "ćwiczenia konwersacyjne 60 lab bud.",
+     "k": "CW",
+     "p": "dr A. Krzanowska, prof. US",
+     "r": "gab. 04",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gramatyka praktyczna 60 lab bud.",
+     "k": "LAB",
+     "p": "dr D. Dziadosz",
+     "r": "gab. 04",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "gramatyka konfrontatywna rosyjsko-polska",
+     "k": "W",
+     "p": "dr A. Krzanowska",
+     "r": "s. 116, WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "do wyboru – komunikacja międzyludzka a różnice kulturowe g. 04 bud.",
+     "k": "W",
+     "p": "dr K. Kondzioła-Pich"
+    },
+    {
+     "d": 3,
+     "time": [
+      "12:00",
+      "13:30"
+     ],
+     "pl": "szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS na ul. Krakowskiej",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury rosyjskiej",
+     "k": "W",
+     "p": "dr M. Pieczyński",
+     "r": "s. 116 WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia literatury rosyjskiej 30",
+     "k": "X",
+     "p": "dr M. Pieczyński",
+     "r": "s. 116 WH bud. 4",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "ćwiczenia konwersacyjne 60 lab bud.",
+     "k": "CW",
+     "p": "dr A. Krzanowska, prof. US",
+     "r": "gab. 04",
+     "pg": "gr:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "praktyczna nauka języka-zintegrowane sprawności językowe: j. włoski +Fgdjo j.hiszpański +FroszDJo+Fgzdjo",
+     "k": "LAB",
+     "p": "mgr P. Przydatek Froszdjo, mgr A. Skalska Frzjodw",
+     "r": "s. 15, WH bud.4, s. 118, WH bud.4",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "ćwiczenia konwersacyjne 60 lab bud.",
+     "k": "CW",
+     "p": "dr A. Krzanowska, prof. US",
+     "r": "gab. 04",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gramatyka praktyczna 60 lab bud.",
+     "k": "LAB",
+     "p": "dr D. Dziadosz",
+     "r": "gab. 04",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "gramatyka konfrontatywna rosyjsko-polska",
+     "k": "W",
+     "p": "dr A. Krzanowska",
+     "r": "s. 116, WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "do wyboru – komunikacja międzyludzka a różnice kulturowe g. 04 bud.",
+     "k": "W",
+     "p": "dr K. Kondzioła-Pich"
+    },
+    {
+     "d": 3,
+     "time": [
+      "12:00",
+      "13:30"
+     ],
+     "pl": "szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS na ul. Krakowskiej",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury rosyjskiej",
+     "k": "W",
+     "p": "dr M. Pieczyński",
+     "r": "s. 116 WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia literatury rosyjskiej 30",
+     "k": "X",
+     "p": "dr M. Pieczyński",
+     "r": "s. 116 WH bud. 4",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

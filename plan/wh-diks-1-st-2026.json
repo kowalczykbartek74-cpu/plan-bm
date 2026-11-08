@@ -1,0 +1,1012 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+ "wersja": "2026-11-03",
+ "sha256": "c6fd7eeb76611508314dd383a4f1581d3730adf9befaaeae28708619380a8d6b",
+ "kierunek": "Dziennikarstwo i komunikacja społeczna",
+ "kierunekEn": "Journalism and Social Communication",
+ "id": "wh-diks-1-st-2026",
+ "kod": "diks26",
+ "wydzial": "WH",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "DIKS1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "09:30",
+      "11:00"
+     ],
+     "pl": "historia filozofii .",
+     "k": "W",
+     "p": "dr Katarzyna Ciarcińska",
+     "r": "aula 116 Wielkopolska 15 zajęcia w terminie: 05.10 - 18.01 od g. 09:30 do 11:00",
+     "n": "wykład łączony z FH+DiKS+ITA",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "analiza i interpretacja tekstu",
+     "k": "CW",
+     "p": "dr Artur Trudzik",
+     "r": "s. 220",
+     "pg": "gr:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "analiza i interpretacja tekstu z (01.02 do g. 14:15)",
+     "k": "CW",
+     "p": "dr Artur Trudzik",
+     "r": "s. 304",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "analiza i interpretacja tekstu z (30.11 do g. 17:45)",
+     "k": "CW",
+     "p": "prof. dr hab. Jerzy Madejski",
+     "r": "s. 314",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "technologie informacyjne (Wielkopolska 15) gr. A",
+     "k": "CW",
+     "p": "dr Filip Prątnicki",
+     "r": "s. 325",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "lektorat prasy krajowej (ost.zaj. do g. 12:30)",
+     "k": "CW",
+     "p": "dr Mirosława Rudyk",
+     "r": "s. 17-19",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ortografia i interpunkcja (pierwsze zaj. 24.11 )",
+     "k": "W",
+     "p": "prof. dr hab. Ewa Kołodziejek",
+     "r": "s. 17-19",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "lektorat prasy krajowej (ost.zaj. do g. 14:15)",
+     "k": "CW",
+     "p": "dr Mirosława Rudyk",
+     "r": "s. 17-19",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "literatura faktu",
+     "k": "W",
+     "p": "dr Katarzyna Rembacka",
+     "r": "s. 17-19"
+    },
+    {
+     "d": 1,
+     "time": [
+      "19:00",
+      "20:30"
+     ],
+     "pl": "ochrona własności intelektualnej zaj.",
+     "k": "W",
+     "p": "dr Marcin Stępień",
+     "r": "aula Wielkopolska 15 terminy zajęć: 06.10",
+     "n": "łączone z FGzDJO+FGzJA+PGWSN",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "gatunki dziennikarskie – informacja (Kampus Krakowska)",
+     "k": "CW",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 007",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gatunki dziennikarskie – informacja (Kampus Krakowska)",
+     "k": "CW",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 007",
+     "pg": "gr:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metody badań medioznawczych",
+     "k": "K",
+     "p": "dr K. Flasiński",
+     "r": "s. 301"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia Polski XX i XXI wieku (Krakowska 71-79)",
+     "k": "W",
+     "p": "dr Katarzyna Rembacka",
+     "r": "s. 139"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "metody badań medioznawczych",
+     "k": "CW",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 219",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "metody badań medioznawczych",
+     "k": "CW",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 219",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne Wielkopolska połowa semestru",
+     "k": "X",
+     "p": "dr A. Kowalski",
+     "r": "s. 205",
+     "n": "technologie informacyjne dr A. Kowalski s. 205 Wielkopolska 15 I połowa semestru"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne Wielkopolska połowa semestru",
+     "k": "X",
+     "p": "dr A. Kowalski",
+     "r": "s. 208",
+     "n": "technologie informacyjne dr A. Kowalski s. 208 Wielkopolska 15 II połowa semestru"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "ortografia i interpunkcja (ost. zaj. do g. 10:45)",
+     "k": "K",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 220",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "polski system medialny",
+     "k": "CW",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 314",
+     "pg": "gr:2"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ortografia i interpunkcja (ost. zaj. do g. 12:30)",
+     "k": "K",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 220",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "polski system medialny",
+     "k": "CW",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 314",
+     "pg": "gr:1"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne (Wielkopolska 15) – gr. C",
+     "k": "CW",
+     "p": "dr Waldemar Staroń",
+     "r": "s. 325",
+     "dates": [
+      "2026-11-20",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne (Wielkopolska 15) gr. B",
+     "k": "CW",
+     "p": "dr Waldemar Staroń",
+     "r": "s. 325",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:30",
+      "18:30"
+     ],
+     "pl": "podstawy prawa w po",
+     "k": "W",
+     "p": "dr Agnieszka Słomczyńska",
+     "r": "s. 15",
+     "dates": [
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "09:30",
+      "11:00"
+     ],
+     "pl": "historia filozofii .",
+     "k": "W",
+     "p": "dr Katarzyna Ciarcińska",
+     "r": "aula 116 Wielkopolska 15 zajęcia w terminie: 05.10 - 18.01 od g. 09:30 do 11:00",
+     "n": "wykład łączony z FH+DiKS+ITA",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "analiza i interpretacja tekstu",
+     "k": "CW",
+     "p": "dr Artur Trudzik",
+     "r": "s. 220",
+     "pg": "gr:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "analiza i interpretacja tekstu z (01.02 do g. 14:15)",
+     "k": "CW",
+     "p": "dr Artur Trudzik",
+     "r": "s. 304",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "analiza i interpretacja tekstu z (30.11 do g. 17:45)",
+     "k": "CW",
+     "p": "prof. dr hab. Jerzy Madejski",
+     "r": "s. 314",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "technologie informacyjne (Wielkopolska 15) gr. A",
+     "k": "CW",
+     "p": "dr Filip Prątnicki",
+     "r": "s. 325",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "lektorat prasy krajowej (ost.zaj. do g. 12:30)",
+     "k": "CW",
+     "p": "dr Mirosława Rudyk",
+     "r": "s. 17-19",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ortografia i interpunkcja (pierwsze zaj. 24.11 )",
+     "k": "W",
+     "p": "prof. dr hab. Ewa Kołodziejek",
+     "r": "s. 17-19",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "lektorat prasy krajowej (ost.zaj. do g. 14:15)",
+     "k": "CW",
+     "p": "dr Mirosława Rudyk",
+     "r": "s. 17-19",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "literatura faktu",
+     "k": "W",
+     "p": "dr Katarzyna Rembacka",
+     "r": "s. 17-19"
+    },
+    {
+     "d": 1,
+     "time": [
+      "19:00",
+      "20:30"
+     ],
+     "pl": "ochrona własności intelektualnej zaj.",
+     "k": "W",
+     "p": "dr Marcin Stępień",
+     "r": "aula Wielkopolska 15 terminy zajęć: 06.10",
+     "n": "łączone z FGzDJO+FGzJA+PGWSN",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "gatunki dziennikarskie – informacja (Kampus Krakowska)",
+     "k": "CW",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 007",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gatunki dziennikarskie – informacja (Kampus Krakowska)",
+     "k": "CW",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 007",
+     "pg": "gr:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metody badań medioznawczych",
+     "k": "K",
+     "p": "dr K. Flasiński",
+     "r": "s. 301"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia Polski XX i XXI wieku (Krakowska 71-79)",
+     "k": "W",
+     "p": "dr Katarzyna Rembacka",
+     "r": "s. 139"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "metody badań medioznawczych",
+     "k": "CW",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 219",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "metody badań medioznawczych",
+     "k": "CW",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 219",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne Wielkopolska połowa semestru",
+     "k": "X",
+     "p": "dr A. Kowalski",
+     "r": "s. 205",
+     "n": "technologie informacyjne dr A. Kowalski s. 205 Wielkopolska 15 I połowa semestru"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne Wielkopolska połowa semestru",
+     "k": "X",
+     "p": "dr A. Kowalski",
+     "r": "s. 208",
+     "n": "technologie informacyjne dr A. Kowalski s. 208 Wielkopolska 15 II połowa semestru"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "ortografia i interpunkcja (ost. zaj. do g. 10:45)",
+     "k": "K",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 220",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "polski system medialny",
+     "k": "CW",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 314",
+     "pg": "gr:2"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ortografia i interpunkcja (ost. zaj. do g. 12:30)",
+     "k": "K",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 220",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "polski system medialny",
+     "k": "CW",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 314",
+     "pg": "gr:1"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne (Wielkopolska 15) – gr. C",
+     "k": "CW",
+     "p": "dr Waldemar Staroń",
+     "r": "s. 325",
+     "dates": [
+      "2026-11-20",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne (Wielkopolska 15) gr. B",
+     "k": "CW",
+     "p": "dr Waldemar Staroń",
+     "r": "s. 325",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:30",
+      "18:30"
+     ],
+     "pl": "podstawy prawa w po",
+     "k": "W",
+     "p": "dr Agnieszka Słomczyńska",
+     "r": "s. 15",
+     "dates": [
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

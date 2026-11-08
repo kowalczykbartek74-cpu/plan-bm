@@ -1,0 +1,494 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+ "wersja": "2026-10-29",
+ "sha256": "ec69a28bd814bd9dbe8bcbcf89b0591e29f7fa1feb00934f237069321f2a8c8c",
+ "kierunek": "Kognitywistyka komunikacji",
+ "kierunekEn": "Cognitive Science of Communication",
+ "id": "wh-kk-1-st-2024",
+ "kod": "kk24",
+ "wydzial": "WH",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "KK3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Moduł: Człowiek i kultura – konwersatorium monograficzne II: Teorie szczęścia, dobrego życia i sensu życia w filozofii, psychologii i religii",
+     "k": "K",
+     "p": "dr hab. Krzysztof Saja, prof. US",
+     "r": "s. 030",
+     "n": "zajęcia łączone z FILO"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "badania rozwiązań internetowych – 30",
+     "k": "LAB",
+     "p": "dr hab. Krzysztof Saja, prof. US",
+     "r": "s. 009"
+    },
+    {
+     "d": 0,
+     "time": [
+      "12:00",
+      "13:30"
+     ],
+     "pl": "Moduł: Człowiek i kultura – konwersatorium monograficzne I: Technologie multimedialne",
+     "k": "K",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s.030"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Moduł: Procesy poznawcze – konwersatorium monograficzne I :Pamięć autobiograficzna",
+     "k": "K",
+     "p": "mgr Maria Ligocka",
+     "r": "s.030"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Moduł: Język i komunikacja wykład monograficzny II: Zaburzenia sprawności językowych i komunikacyjnych o podłożu neurologicznym w",
+     "k": "W",
+     "p": "dr Marta Wąsik",
+     "r": "s. 227"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr Tomasz Szubart",
+     "r": "gab. 089"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr hab. Adriana Schetz, prof. US",
+     "r": "gab. 220"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "prof. dr hab. Maciej Witek",
+     "r": "gab.223"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "laboratorium kognitywistyczne – 30 ICK",
+     "k": "LAB",
+     "p": "dr Marta Wąsik",
+     "r": "s. 121"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Moduł: Procesy poznawcze – wykład monograficzny III: Procesy uwagowe i ich zaburzenia w",
+     "k": "W",
+     "p": "dr hab. Adriana Schetz, prof. US",
+     "r": "s.105"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "język angielski ACKJ Wawrzyniaka",
+     "k": "CW",
+     "p": "dr Piotr Wahl, prof. US",
+     "r": "s. 9",
+     "n": "zajęcia łączone z FILO"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr Agata Wawrzyniak",
+     "r": "s.030"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe s ICK",
+     "k": "S",
+     "p": "dr Marta Wąsik",
+     "r": "s. 121"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "sztuczna inteligencja",
+     "k": "LAB",
+     "p": "dr Barbara Wąsikowska",
+     "r": "s. 112"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "z dziedziny nauk społecznych e",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Moduł: Człowiek i kultura – konwersatorium monograficzne II: Teorie szczęścia, dobrego życia i sensu życia w filozofii, psychologii i religii",
+     "k": "K",
+     "p": "dr hab. Krzysztof Saja, prof. US",
+     "r": "s. 030",
+     "n": "zajęcia łączone z FILO"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "badania rozwiązań internetowych – 30",
+     "k": "LAB",
+     "p": "dr hab. Krzysztof Saja, prof. US",
+     "r": "s. 009"
+    },
+    {
+     "d": 0,
+     "time": [
+      "12:00",
+      "13:30"
+     ],
+     "pl": "Moduł: Człowiek i kultura – konwersatorium monograficzne I: Technologie multimedialne",
+     "k": "K",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s.030"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Moduł: Procesy poznawcze – konwersatorium monograficzne I :Pamięć autobiograficzna",
+     "k": "K",
+     "p": "mgr Maria Ligocka",
+     "r": "s.030"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Moduł: Język i komunikacja wykład monograficzny II: Zaburzenia sprawności językowych i komunikacyjnych o podłożu neurologicznym w",
+     "k": "W",
+     "p": "dr Marta Wąsik",
+     "r": "s. 227"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr Tomasz Szubart",
+     "r": "gab. 089"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr hab. Adriana Schetz, prof. US",
+     "r": "gab. 220"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "prof. dr hab. Maciej Witek",
+     "r": "gab.223"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "laboratorium kognitywistyczne – 30 ICK",
+     "k": "LAB",
+     "p": "dr Marta Wąsik",
+     "r": "s. 121"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Moduł: Procesy poznawcze – wykład monograficzny III: Procesy uwagowe i ich zaburzenia w",
+     "k": "W",
+     "p": "dr hab. Adriana Schetz, prof. US",
+     "r": "s.105"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "język angielski ACKJ Wawrzyniaka",
+     "k": "CW",
+     "p": "dr Piotr Wahl, prof. US",
+     "r": "s. 9",
+     "n": "zajęcia łączone z FILO"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr Agata Wawrzyniak",
+     "r": "s.030"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe s ICK",
+     "k": "S",
+     "p": "dr Marta Wąsik",
+     "r": "s. 121"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "sztuczna inteligencja",
+     "k": "LAB",
+     "p": "dr Barbara Wąsikowska",
+     "r": "s. 112"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "z dziedziny nauk społecznych e",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

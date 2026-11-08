@@ -1,0 +1,756 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+ "wersja": "2026-10-13",
+ "sha256": "4266b3b4410a6a4ab526cd1645e47fd12127c6218fd62f947c0d99efc7a0f67b",
+ "kierunek": "Global Communication",
+ "kierunekEn": "Global Communication",
+ "id": "wh-gc-1-st-2025",
+ "kod": "gc25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "GC2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Academic Writing",
+     "k": "LAB",
+     "p": "mgr Marta Syczyńska",
+     "r": "room 217 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:00",
+      "11:15"
+     ],
+     "pl": "Russian I room: 209 ACKJ",
+     "k": "X",
+     "p": "mgr Lucyna Smędzik",
+     "pg": "lab:B"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "German I (building 6)",
+     "k": "X",
+     "p": "dr Barbara Witek",
+     "r": "room 221 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Spanish I",
+     "k": "X",
+     "p": "mgr Agata Szustak",
+     "r": "room 216 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "French II",
+     "k": "X",
+     "p": "mgr Ewa Frajtak",
+     "r": "room 217 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "German II",
+     "k": "X",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "room 215 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Spanish II",
+     "k": "X",
+     "p": "mgr Aleksandra Prokurat-Figiel",
+     "r": "room 314 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminar Research Workshop",
+     "k": "S",
+     "p": "dr Ewa Glapka",
+     "r": "room 113 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "seminar Research Workshop",
+     "k": "S",
+     "p": "dr Ewa Glapka",
+     "r": "room 113 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Chinese I",
+     "k": "X",
+     "p": "mgr Ding Duczek",
+     "r": "room 216 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "German I (building 6)",
+     "k": "X",
+     "p": "dr Barbara Wróblewska",
+     "r": "room 222 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "German I (building 6)",
+     "k": "X",
+     "p": "dr Barbara Wróblewska",
+     "r": "room 222 WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminar (k 20 hr) Discourse and society",
+     "k": "S",
+     "p": "dr Małgorzata Sokół",
+     "r": "room 301 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminar (k 30 hr) Language of Cultural Studies",
+     "k": "S",
+     "p": "dr Andrew Tomlinson",
+     "r": "room 217 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminar (k 30 hr) Language of Science and Technology",
+     "k": "S",
+     "p": "mgr Paweł Tuz",
+     "r": "room 16 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminar (k 20 hr) Discourse and society",
+     "k": "S",
+     "p": "dr Małgorzata Sokół",
+     "r": "room 301 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Ukrainian II",
+     "k": "X",
+     "p": "mgr Svitlana Drabant",
+     "r": "room 215 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminar (k 30 hr) Language of Digital Media",
+     "k": "S",
+     "p": "dr Małgorzata Sokół",
+     "r": "room 301 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminar Business English",
+     "k": "S",
+     "p": "mgr Paweł Tuz",
+     "r": "room 304 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminar (k 30 hr) Language of Digital Media",
+     "k": "S",
+     "p": "dr Małgorzata Sokół",
+     "r": "room 301 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminar Business English",
+     "k": "S",
+     "p": "mgr Paweł Tuz",
+     "r": "room 01 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "14:00",
+      "15:00"
+     ],
+     "pl": "Academic Writing",
+     "k": "LAB",
+     "p": "mgr Karol Pietrzyk",
+     "r": "room 314",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "II year GC UNIVERSITY-WIDE more info: https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "09:30",
+      "12:30"
+     ],
+     "pl": "PHYSICAL EDUCATION more info: https://swfis.usz.edu.pl/ -wychowania-fizycznego",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Academic Writing",
+     "k": "LAB",
+     "p": "mgr Karol Pietrzyk",
+     "r": "room 213 WH",
+     "pg": "lab:C"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Academic Writing",
+     "k": "LAB",
+     "p": "mgr Marta Syczyńska",
+     "r": "room 217 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:00",
+      "11:15"
+     ],
+     "pl": "Russian I room: 209 ACKJ",
+     "k": "X",
+     "p": "mgr Lucyna Smędzik",
+     "pg": "lab:B"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "German I (building 6)",
+     "k": "X",
+     "p": "dr Barbara Witek",
+     "r": "room 221 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Spanish I",
+     "k": "X",
+     "p": "mgr Agata Szustak",
+     "r": "room 216 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "French II",
+     "k": "X",
+     "p": "mgr Ewa Frajtak",
+     "r": "room 217 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "German II",
+     "k": "X",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "room 215 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Spanish II",
+     "k": "X",
+     "p": "mgr Aleksandra Prokurat-Figiel",
+     "r": "room 314 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminar Research Workshop",
+     "k": "S",
+     "p": "dr Ewa Glapka",
+     "r": "room 113 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "seminar Research Workshop",
+     "k": "S",
+     "p": "dr Ewa Glapka",
+     "r": "room 113 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Chinese I",
+     "k": "X",
+     "p": "mgr Ding Duczek",
+     "r": "room 216 WH",
+     "pg": "lab:C"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "German I (building 6)",
+     "k": "X",
+     "p": "dr Barbara Wróblewska",
+     "r": "room 222 WH",
+     "pg": "lab:A"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "German I (building 6)",
+     "k": "X",
+     "p": "dr Barbara Wróblewska",
+     "r": "room 222 WH",
+     "pg": "lab:B"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminar (k 20 hr) Discourse and society",
+     "k": "S",
+     "p": "dr Małgorzata Sokół",
+     "r": "room 301 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminar (k 30 hr) Language of Cultural Studies",
+     "k": "S",
+     "p": "dr Andrew Tomlinson",
+     "r": "room 217 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminar (k 30 hr) Language of Science and Technology",
+     "k": "S",
+     "p": "mgr Paweł Tuz",
+     "r": "room 16 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminar (k 20 hr) Discourse and society",
+     "k": "S",
+     "p": "dr Małgorzata Sokół",
+     "r": "room 301 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Ukrainian II",
+     "k": "X",
+     "p": "mgr Svitlana Drabant",
+     "r": "room 215 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminar (k 30 hr) Language of Digital Media",
+     "k": "S",
+     "p": "dr Małgorzata Sokół",
+     "r": "room 301 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminar Business English",
+     "k": "S",
+     "p": "mgr Paweł Tuz",
+     "r": "room 304 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminar (k 30 hr) Language of Digital Media",
+     "k": "S",
+     "p": "dr Małgorzata Sokół",
+     "r": "room 301 WH",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminar Business English",
+     "k": "S",
+     "p": "mgr Paweł Tuz",
+     "r": "room 01 WH",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "14:00",
+      "15:00"
+     ],
+     "pl": "Academic Writing",
+     "k": "LAB",
+     "p": "mgr Karol Pietrzyk",
+     "r": "room 314",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "II year GC UNIVERSITY-WIDE more info: https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "09:30",
+      "12:30"
+     ],
+     "pl": "PHYSICAL EDUCATION more info: https://swfis.usz.edu.pl/ -wychowania-fizycznego",
+     "k": "X"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Academic Writing",
+     "k": "LAB",
+     "p": "mgr Karol Pietrzyk",
+     "r": "room 213 WH",
+     "pg": "lab:C"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

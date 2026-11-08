@@ -1,0 +1,508 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+ "wersja": "2026-10-13",
+ "sha256": "44004842063fe83b7255d03daa37fe48f5e3608a49f846e40244c8c89ddc1263",
+ "kierunek": "Italianistyka",
+ "kierunekEn": "Italian Studies",
+ "id": "wh-ita-1-st-2024",
+ "kod": "ita24",
+ "wydzial": "WH",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "ITA3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "historia Włoch XVII-XVIII, WT",
+     "k": "W",
+     "p": "prof.US M. Balducci",
+     "r": "s. 301"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia literatury włoskiej: oświecenie i rewolucja w Europie, prof. .US A. Rella WT",
+     "k": "W",
+     "r": "s. 302"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "estetyka I WT",
+     "k": "W",
+     "p": "dr D. Del Mastro",
+     "r": "s. 304"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJW pisanie i tłumaczenie WT",
+     "k": "LAB",
+     "p": "dr A. Sollano",
+     "r": "s. 306"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "język niemiecki 30lk",
+     "k": "X",
+     "p": "dr F. Strauss",
+     "r": "s.115 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "język rosyjski 30lk",
+     "k": "X",
+     "p": "mgr L. Smędzik",
+     "r": "s.214 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJW gramatyka praktyczna WT",
+     "k": "LAB",
+     "p": "dr M. Lange-Heszke",
+     "r": "s. 401"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gramatyka opisowa języka włoskiego, WT",
+     "k": "CW",
+     "p": "dr E. Bocian",
+     "r": "s. 301"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "symbole śmierci i życia w Boskiej komedii Dantego WT",
+     "k": "W",
+     "p": "prof. US M. Balducci",
+     "r": "s. 301"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "jezyk angielski ITA+ 30lk, s .203 WT",
+     "k": "X",
+     "p": "mgr J. Stankiewicz-Rycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJW konwersacje WT",
+     "k": "LAB",
+     "p": "dr hab. A. Rella, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJW zintegrowane sprawności językowe, WT",
+     "k": "LAB",
+     "p": "dr M. Lange-Henszke",
+     "r": "s. 401"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium licencjackie: WT WT WT WT",
+     "k": "S",
+     "p": "dr hab. A. Rella, prof. US, dr hab. M. Balducci, prof. US, dr M. Lange Henszke, dr D. Del-Mastro",
+     "r": "s. 205, s. 401, s. 303, s. 501"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia języka włoskiego:język a kultura, WT kod teams:f40flh5",
+     "k": "W",
+     "p": "prof. S. Valerio",
+     "r": "s. 201"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "język hiszpański 30lk",
+     "k": "X",
+     "p": "mgr Agnieszka Jakubiak",
+     "r": "s. 113 WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "historia Włoch XVII-XVIII, WT",
+     "k": "W",
+     "p": "prof.US M. Balducci",
+     "r": "s. 301"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia literatury włoskiej: oświecenie i rewolucja w Europie, prof. .US A. Rella WT",
+     "k": "W",
+     "r": "s. 302"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "estetyka I WT",
+     "k": "W",
+     "p": "dr D. Del Mastro",
+     "r": "s. 304"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJW pisanie i tłumaczenie WT",
+     "k": "LAB",
+     "p": "dr A. Sollano",
+     "r": "s. 306"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "język niemiecki 30lk",
+     "k": "X",
+     "p": "dr F. Strauss",
+     "r": "s.115 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "język rosyjski 30lk",
+     "k": "X",
+     "p": "mgr L. Smędzik",
+     "r": "s.214 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJW gramatyka praktyczna WT",
+     "k": "LAB",
+     "p": "dr M. Lange-Heszke",
+     "r": "s. 401"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gramatyka opisowa języka włoskiego, WT",
+     "k": "CW",
+     "p": "dr E. Bocian",
+     "r": "s. 301"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "symbole śmierci i życia w Boskiej komedii Dantego WT",
+     "k": "W",
+     "p": "prof. US M. Balducci",
+     "r": "s. 301"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "jezyk angielski ITA+ 30lk, s .203 WT",
+     "k": "X",
+     "p": "mgr J. Stankiewicz-Rycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJW konwersacje WT",
+     "k": "LAB",
+     "p": "dr hab. A. Rella, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJW zintegrowane sprawności językowe, WT",
+     "k": "LAB",
+     "p": "dr M. Lange-Henszke",
+     "r": "s. 401"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium licencjackie: WT WT WT WT",
+     "k": "S",
+     "p": "dr hab. A. Rella, prof. US, dr hab. M. Balducci, prof. US, dr M. Lange Henszke, dr D. Del-Mastro",
+     "r": "s. 205, s. 401, s. 303, s. 501"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia języka włoskiego:język a kultura, WT kod teams:f40flh5",
+     "k": "W",
+     "p": "prof. S. Valerio",
+     "r": "s. 201"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "język hiszpański 30lk",
+     "k": "X",
+     "p": "mgr Agnieszka Jakubiak",
+     "r": "s. 113 WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

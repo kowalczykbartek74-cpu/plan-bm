@@ -10,7 +10,7 @@ Oferta rekrutacji US 2026/27 (kandydaci.usz.edu.pl): 75 kierunków I st. i jedno
 |---|---|---|---|---|---|---|
 | WEFiZ | 24 | 32 | 17 | 0 | 32 | html |
 | WKFiZ | 4 | 7 | 18 | 6 | 24 | json, html |
-| WH | 27 | 39 | 74 | 2 | 32 | xlsx |
+| WH | 28 | 41 | 85 | 2 | 32 | xlsx |
 | WNS | 16 | 23 | 62 | 0 | 72 | pdf |
 | WNŚiP | 16 | 20 | 38 | 0 | 38 | pdf |
 | WPiA | 5 | 8 | 22 | 11 | 33 | pdf |
@@ -62,7 +62,7 @@ Strony: [st](https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php), [nst](http
 
 **Skąd aplikacja bierze dane** (`planyzajec-kfz.usz.edu.pl/script.js` → `loadSchedule()`): jedno zapytanie GET
 `https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php` (publiczne, bez logowania) zwraca `{success, classes[], total, timestamp}` – wszystkie zajęcia stacjonarne naraz
-(467 zajęć, znacznik 2026-11-08 20:22:10); grupa = pole `group` („<skrót> <rok> rok <stopień> stopień”), tryb = `studyMode` (w danych tylko: stacjonarne).
+(467 zajęć, znacznik 2026-11-08 22:11:07); grupa = pole `group` („<skrót> <rok> rok <stopień> stopień”), tryb = `studyMode` (w danych tylko: stacjonarne).
 Filtry grupy i wykładowcy aplikacja liczy u siebie z tej listy. Gdy baza jest pusta, aplikacja woła `api/parse_xml.php`.
 Niestacjonarne: `https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php` = lista grup, plan grupy to HTML z `get_html_plans.php?group=<nazwa>`. Przykład zajęć:
 
@@ -96,7 +96,7 @@ Strony: [st](https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/), [
 
 | Kierunek | Kod | Skróty w źródłach | Oferta 2026/27 | Stopnie w źródłach | Tryby | Lata z planem | Uwagi |
 |---|---|---|---|---|---|---|---|
-| Archeologia | `ARCH` | ARCH | I/jm+II st | I, II | st | st I: 1,2; II: 1,2 | nazwa z treści pliku: „ARCHEOLOGIA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
+| Archeologia | `ARCH` | ARCH | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 | nazwa z treści pliku: „ARCHEOLOGIA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Bałtyckie studia kulturowe | `BSK` | BSK | II st | II | st | st II: 1,2 | nazwa z treści pliku: „BAŁTYCKIE STUDIA KULTUROWE 1 rok II stopień PONIEDZIAŁEK” |
 | Dziennikarstwo i komunikacja społeczna | `DIKS` | DiKS | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „DZIENNIKARSTWO I KOMUNIKACJA SPOŁECZNA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Dziennikarstwo i zarządzanie mediami | `DIZM` | DiZM | II st | II | st | st II: 1,2 | nazwa z treści pliku: „DZIENNIKARSTWO I ZARZĄDZANIE MEDIAMI 1 rok II st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
@@ -108,17 +108,18 @@ Strony: [st](https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/), [
 | Filologia norweska | `FN` | FN | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „FILOLOGIA NORWESKA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Filologia polska | `FP` | FP | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 | nazwa z treści pliku: „FILOLOGIA POLSKA 1 rok I stopień PONIEDZIAŁEK”; nazwa z treści pliku: „FILOLOGIA POLSKA 1 rok II stopień PONIEDZIAŁEK” |
 | Filologia romańska | `FROM` | FROM | II st | II | st | st II: 1,2 | nazwa z treści pliku: „FILOLOGIA ROMAŃSKA 1 ROK II ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
-| Filologia romańska z językiem obcym do wyboru | **?** | FRZJOdW | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „FILOLOGIA ROMAŃSKA Z JĘZYKIEM OBCYM DO WYBORU 3 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
+| Filologia romańska z językiem obcym do wyboru | `FRZJO` | FRZJOdW | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „FILOLOGIA ROMAŃSKA Z JĘZYKIEM OBCYM DO WYBORU 3 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Filologia rosyjska z dodatkowym językiem obcym | `FROS` | FROS | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „FILOLOGIA ROSYJSKA Z DODATKOWYM JĘZYKIEM OBCYM 1 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Filozofia | `FILO` | FILO | I/jm+II st | I, II | st | st I: 1,2,3; II: 1 | nazwa z treści pliku: „FILOZOFIA 1 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Germanistyczno-polonistyczne wspólne studia nauczycielskie | **?** | — | I/jm st | I | st | brak planu |  |
-| Global Communication | `GC` | GC | I/jm+II st | I, II | st | ? | nazwa z treści pliku: „Global Communication year I BA winter semester 2026/27 WTOREK” |
+| Global Communication | `GC` | GC | I/jm+II st | I, II | st | st I: 1,2,3; II: 1 | nazwa z treści pliku: „Global Communication year I BA winter semester 2026/27 WTOREK” |
 | Historia | `HIST` | HIST | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 | nazwa z treści pliku: „HISTORIA 1 rok IIst. WTOREK” |
 | Italianistyka | `ITA` | ITA | I/jm+II st | I, II | st | st I: 1,2,3; II: 1 | nazwa z treści pliku: „ITALIANISTYKA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Kognitywistyka komunikacji | `KK` | KK | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 | nazwa z treści pliku: „KOGNITYWISTYKA KOMUNIKACJI 1 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
-| Lingwistyka dla biznesu — tłumaczenia rosyjsko-polsko-niemieckie | `LDB` | LDB | I/jm st | I | st | ? | plik podaje tylko skrót LDB; nazwa = kierunek z oferty o tych inicjałach (do potwierdzenia) |
-| Media i cywilizacja | `MIC` | MiC | I/jm st | I | st | ? | nazwa z treści pliku: „MEDIA I CYWILIZACJA 1 rok PONIEDZIAŁEK” |
+| Lingwistyka dla biznesu — tłumaczenia rosyjsko-polsko-niemieckie | `LDB` | LDB | I/jm st | I | st | st I: 2 | plik podaje tylko skrót LDB; nazwa = kierunek z oferty o tych inicjałach (do potwierdzenia) |
+| Media i cywilizacja | `MIC` | MiC | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „MEDIA I CYWILIZACJA 1 rok PONIEDZIAŁEK” |
 | Menedżer dziedzictwa kulturowego | **?** | — | II st | II | st | brak planu |  |
+| Polonistyczno-germanistyczne wspólne studia nauczycielskie | `PGWSN` | P_GWSN | — | I, II | st | st I: 3; II: 2 | nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27); nazwa z nagłówka pliku: „POLONISTYCZNO-GERMANISTYCZNE WSPÓLNE STUDIA NAUCZYCIELSKIE III rok I stopień PONIEDZIAŁEK 2026/27 se” (brak w ofercie); nazwa z nagłówka pliku: „POLONISTYCZNO-GERMANISTYCZNE WSPÓLNE STUDIA NAUCZYCIELSKIE 2 rok II stopnia plan zajęć semestr zimow” (brak w ofercie) |
 | Przekład rosyjsko-polski | `PRP` | PRP | II st | II | st | st II: 1,2 | nazwa z treści pliku: „PRZEKŁAD ROSYJSKO-POLSKI 1 ROK II ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Stosunki międzynarodowe | `SM` | SM | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 | nazwa z treści pliku: „STOSUNKI MIĘDZYNARODOWE 1 rok Ist. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Studia anglistyczno-slawistyczne | **?** | — | I/jm st | I | st | brak planu |  |
@@ -200,13 +201,12 @@ Błędy pobierania: `Wychowanie-fizyczne-2026-27a.pdf`: brak pliku (404).
 1. WEFiZ: „Green Economy - zielona gospodarka (GE)” jest w systemie planów, ale nie ma go w ofercie rekrutacji 2026/27 – stopień nieznany
 2. WEFiZ: „Green Economy - zielona gospodarka” – źródło nie podaje stopnia/roku (plan)
 3. WKFiZ: grupa „ERASMUS +” (30 zajęć) nie ma formy „<kierunek> <rok> rok <stopień>”
-4. WH: skrót P_GWSN (P_GWSN-3r-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-IX-2026.xlsx) – plik nie podaje nazwy kierunku, a inicjały nie pasują do żadnego kierunku z oferty
-5. WH: skrót P_GWSN (P_GWSN-2r.-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx) – plik nie podaje nazwy kierunku, a inicjały nie pasują do żadnego kierunku z oferty
-6. WH: „Filologia romańska z językiem obcym do wyboru” – skrót ze źródła „FRZJOdW” ma 7 liter (kod musi mieć 2–6). Propozycja: FRZJOD?
-7. WNS: „Pedagogika specjalna” – skrót ze źródła „PEDSPEC” ma 7 liter (kod musi mieć 2–6). Propozycja: PEDSPE?
-8. WNŚiP: „Biotechnologia” – skrót ze źródła „biotech” ma 7 liter (kod musi mieć 2–6). Propozycja: BIOTEC?
-9. WPiA: „Administracja” – skrót ze źródła „A” ma 1 liter (kod musi mieć 2–6). Propozycja: AX?
-10. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
-11. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
+4. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
+5. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
+6. WNS: „Pedagogika specjalna” – skrót ze źródła „PEDSPEC” ma 7 liter (kod musi mieć 2–6). Propozycja: PEDSPE?
+7. WNŚiP: „Biotechnologia” – skrót ze źródła „biotech” ma 7 liter (kod musi mieć 2–6). Propozycja: BIOTEC?
+8. WPiA: „Administracja” – skrót ze źródła „A” ma 1 liter (kod musi mieć 2–6). Propozycja: AX?
+9. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
+10. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
 
 Zapytania: sieć 0, HEAD 0, cache 191. Pliki: 180 (nowo pobrane 0, błędy 1).

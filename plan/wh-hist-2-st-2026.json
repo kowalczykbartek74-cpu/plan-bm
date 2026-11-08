@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:16:27.233Z",
- "checkedAt": "2026-11-08T21:16:27.233Z",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
  "groups": {
   "HIST1": {
    "odd": [
@@ -172,6 +172,7 @@
      "k": "K",
      "p": "dr hab. E. Krasucki, prof. US",
      "r": "s.072 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 10:45",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -213,8 +214,19 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. D. Okoń, dr hab. R. Skrycki, prof. US",
-     "r": "gab. 083 (IH), gab. 123 (IH)",
+     "p": "prof. dr hab. D. Okoń",
+     "r": "gab. 083 (IH)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Skrycki, prof. US",
+     "r": "gab. 123 (IH)",
      "dates": [
       "2026-10-22",
       "2026-10-29",
@@ -243,6 +255,7 @@
      "k": "W",
      "p": "dr hab. D. Chojecki, prof. US",
      "r": "s. 070 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 09:00",
      "dates": [
       "2026-10-02",
       "2026-10-09",
@@ -461,6 +474,7 @@
      "k": "K",
      "p": "dr hab. E. Krasucki, prof. US",
      "r": "s.072 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 10:45",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -502,8 +516,19 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. D. Okoń, dr hab. R. Skrycki, prof. US",
-     "r": "gab. 083 (IH), gab. 123 (IH)",
+     "p": "prof. dr hab. D. Okoń",
+     "r": "gab. 083 (IH)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Skrycki, prof. US",
+     "r": "gab. 123 (IH)",
      "dates": [
       "2026-10-22",
       "2026-10-29",
@@ -532,6 +557,7 @@
      "k": "W",
      "p": "dr hab. D. Chojecki, prof. US",
      "r": "s. 070 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 09:00",
      "dates": [
       "2026-10-02",
       "2026-10-09",

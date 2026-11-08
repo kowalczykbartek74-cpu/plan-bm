@@ -1286,6 +1286,14 @@
        "nabor": 2025
       },
       {
+       "id": "wh-arch-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2024
+      },
+      {
        "id": "wh-arch-2-st-2026",
        "stopien": 2,
        "tryb": "st",
@@ -1954,7 +1962,7 @@
      ]
     },
     {
-     "kod": null,
+     "kod": "FRZJO",
      "pl": "Filologia romańska z językiem obcym do wyboru",
      "en": "Romance Philology with a Foreign Language of Choice",
      "stopnie": [
@@ -1977,12 +1985,13 @@
       "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-romanska-z-jezykiem-obcym-do-wyboru/"
      },
      "maZrodlo": true,
+     "zrodloKodu": "kod istniejący w Skrócie (nauka_kierunki)",
      "uwagi": [
       "nazwa z treści pliku: „FILOLOGIA ROMAŃSKA Z JĘZYKIEM OBCYM DO WYBORU 3 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
      ],
      "roczniki": [
       {
-       "id": null,
+       "id": "wh-frzjo-1-st-2026",
        "stopien": 1,
        "tryb": "st",
        "rok": 1,
@@ -1990,7 +1999,7 @@
        "nabor": 2026
       },
       {
-       "id": null,
+       "id": "wh-frzjo-1-st-2025",
        "stopien": 1,
        "tryb": "st",
        "rok": 2,
@@ -1998,7 +2007,7 @@
        "nabor": 2025
       },
       {
-       "id": null,
+       "id": "wh-frzjo-1-st-2024",
        "stopien": 1,
        "tryb": "st",
        "rok": 3,
@@ -2181,7 +2190,40 @@
      "uwagi": [
       "nazwa z treści pliku: „Global Communication year I BA winter semester 2026/27 WTOREK”"
      ],
-     "roczniki": []
+     "roczniki": [
+      {
+       "id": "wh-gc-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-gc-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-gc-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-gc-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+       "nabor": 2026
+      }
+     ]
     },
     {
      "kod": "HIST",
@@ -2422,7 +2464,16 @@
      "uwagi": [
       "plik podaje tylko skrót LDB; nazwa = kierunek z oferty o tych inicjałach (do potwierdzenia)"
      ],
-     "roczniki": []
+     "roczniki": [
+      {
+       "id": "wh-ldb-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/LDB-I-st.-plan-zajec-semestr-zimowy-2026-2027-zm.-12-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
     },
     {
      "kod": "MIC",
@@ -2452,7 +2503,32 @@
      "uwagi": [
       "nazwa z treści pliku: „MEDIA I CYWILIZACJA 1 rok PONIEDZIAŁEK”"
      ],
-     "roczniki": []
+     "roczniki": [
+      {
+       "id": "wh-mic-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-mic-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-mic-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2024
+      }
+     ]
     },
     {
      "kod": null,
@@ -2477,6 +2553,47 @@
      },
      "maZrodlo": false,
      "roczniki": []
+    },
+    {
+     "kod": "PGWSN",
+     "pl": "Polonistyczno-germanistyczne wspólne studia nauczycielskie",
+     "en": null,
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "P_GWSN"
+     ],
+     "wOfercie": false,
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „P_GWSN” ze źródła",
+     "uwagi": [
+      "nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27)",
+      "nazwa z nagłówka pliku: „POLONISTYCZNO-GERMANISTYCZNE WSPÓLNE STUDIA NAUCZYCIELSKIE III rok I stopień PONIEDZIAŁEK 2026/27 se” (brak w ofercie)",
+      "nazwa z nagłówka pliku: „POLONISTYCZNO-GERMANISTYCZNE WSPÓLNE STUDIA NAUCZYCIELSKIE 2 rok II stopnia plan zajęć semestr zimow” (brak w ofercie)"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-pgwsn-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/P_GWSN-3r-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-IX-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-pgwsn-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/P_GWSN-2r.-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
     },
     {
      "kod": "PRP",

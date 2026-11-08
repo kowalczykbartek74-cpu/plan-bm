@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:16:27.233Z",
- "checkedAt": "2026-11-08T21:16:27.233Z",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
  "groups": {
   "HIST3": {
    "odd": [
@@ -23,7 +23,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "informatyka archiwalna (komputerowa) (IH)",
+     "pl": "informatyka archiwalna (komputerowa)",
      "k": "CW",
      "p": "dr hab. P. Gut, prof. US",
      "r": "s.145",
@@ -189,7 +189,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej (komputerowa) (IH)",
+     "pl": "dydaktyka przedmiotu w szkole podstawowej (komputerowa)",
      "k": "CW",
      "p": "mgr A. Szparaga, dr hab. M. Machałek, prof. US",
      "r": "s.145",
@@ -205,6 +205,7 @@
      "k": "W",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s.069 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 12:30",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-10-07",
@@ -228,6 +229,7 @@
      "k": "K",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s. 069 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 12:30",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-12-02",
@@ -249,8 +251,44 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. A. Wątor, dr hab. E. Krasucki, prof. US, dr hab. P. Briks, prof. US, dr hab. R. Simiński",
-     "r": "gab.124 (IH), gab. 054 (IH), gab. 055 (IH), gab. 079 (IH)",
+     "p": "prof. dr hab. A. Wątor",
+     "r": "gab.124 (IH)",
+     "pg": "spec:kpdwzn"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. E. Krasucki, prof. US",
+     "r": "gab. 054 (IH)",
+     "pg": "spec:kpdwzn"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. P. Briks, prof. US",
+     "r": "gab. 055 (IH)",
+     "pg": "spec:kpdwzn"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Simiński",
+     "r": "gab. 079 (IH)",
      "pg": "spec:kpdwzn"
     },
     {
@@ -275,6 +313,7 @@
      "k": "K",
      "p": "dr K. Rembacka",
      "r": "s. 070 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 17:45",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-12-02",
@@ -294,10 +333,11 @@
       "17:00",
       "18:30"
      ],
-     "pl": "informatyka nauczycielska (komputerowa) (IH)",
+     "pl": "informatyka nauczycielska (komputerowa)",
      "k": "CW",
      "p": "dr D. Dziuba",
      "r": "s. 145",
+     "n": "ostatnie zajęcia 1h do godz. 17:45",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-10-07",
@@ -317,11 +357,11 @@
       "08:15",
       "09:45"
      ],
-     "pl": "historia Polski 1918-1945",
+     "pl": "historia Polski 1918-1945 – )",
      "k": "CW",
      "p": "dr hab. E. Krasucki, prof. US",
      "r": "s. 070 (IH)",
-     "n": "zajęcia do 14.I. - ostatnie zajęcia 1h do godz. 09:00",
+     "n": "ostatnie zajęcia 1h do godz. 09:00",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -359,8 +399,19 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. A. Makowski, prof. dr hab. D. Okoń",
-     "r": "gab. 130 (IH), gab. 083 (IH)"
+     "p": "prof. dr hab. A. Makowski",
+     "r": "gab. 130 (IH)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. D. Okoń",
+     "r": "gab. 083 (IH)"
     },
     {
      "d": 3,
@@ -372,7 +423,7 @@
      "k": "CW",
      "p": "mgr A. Jakóbiak",
      "r": "al. Piastów 40b bud. nr 4 s.113 (WH)",
-     "n": "zajęcia łączone z ARCH + MiC + SM+ FG+ ITA + SP"
+     "n": "zajęcia łączone z ARCH + MiC + SM+"
     },
     {
      "d": 3,
@@ -389,10 +440,11 @@
       "13:30",
       "15:00"
      ],
-     "pl": "monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
+     "pl": "wykład monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
      "k": "W",
      "p": "dr hab. P. Weber, prof. US",
      "r": "s. 070 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 14:15",
      "dates": [
       "2026-11-20",
       "2026-11-27",
@@ -415,7 +467,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "informatyka archiwalna (komputerowa) (IH)",
+     "pl": "informatyka archiwalna (komputerowa)",
      "k": "CW",
      "p": "dr hab. P. Gut, prof. US",
      "r": "s.145",
@@ -581,7 +633,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej (komputerowa) (IH)",
+     "pl": "dydaktyka przedmiotu w szkole podstawowej (komputerowa)",
      "k": "CW",
      "p": "mgr A. Szparaga, dr hab. M. Machałek, prof. US",
      "r": "s.145",
@@ -597,6 +649,7 @@
      "k": "W",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s.069 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 12:30",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-10-07",
@@ -620,6 +673,7 @@
      "k": "K",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s. 069 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 12:30",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-12-02",
@@ -641,8 +695,44 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. A. Wątor, dr hab. E. Krasucki, prof. US, dr hab. P. Briks, prof. US, dr hab. R. Simiński",
-     "r": "gab.124 (IH), gab. 054 (IH), gab. 055 (IH), gab. 079 (IH)",
+     "p": "prof. dr hab. A. Wątor",
+     "r": "gab.124 (IH)",
+     "pg": "spec:kpdwzn"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. E. Krasucki, prof. US",
+     "r": "gab. 054 (IH)",
+     "pg": "spec:kpdwzn"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. P. Briks, prof. US",
+     "r": "gab. 055 (IH)",
+     "pg": "spec:kpdwzn"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Simiński",
+     "r": "gab. 079 (IH)",
      "pg": "spec:kpdwzn"
     },
     {
@@ -667,6 +757,7 @@
      "k": "K",
      "p": "dr K. Rembacka",
      "r": "s. 070 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 17:45",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-12-02",
@@ -686,10 +777,11 @@
       "17:00",
       "18:30"
      ],
-     "pl": "informatyka nauczycielska (komputerowa) (IH)",
+     "pl": "informatyka nauczycielska (komputerowa)",
      "k": "CW",
      "p": "dr D. Dziuba",
      "r": "s. 145",
+     "n": "ostatnie zajęcia 1h do godz. 17:45",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-10-07",
@@ -709,11 +801,11 @@
       "08:15",
       "09:45"
      ],
-     "pl": "historia Polski 1918-1945",
+     "pl": "historia Polski 1918-1945 – )",
      "k": "CW",
      "p": "dr hab. E. Krasucki, prof. US",
      "r": "s. 070 (IH)",
-     "n": "zajęcia do 14.I. - ostatnie zajęcia 1h do godz. 09:00",
+     "n": "ostatnie zajęcia 1h do godz. 09:00",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -751,8 +843,19 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. A. Makowski, prof. dr hab. D. Okoń",
-     "r": "gab. 130 (IH), gab. 083 (IH)"
+     "p": "prof. dr hab. A. Makowski",
+     "r": "gab. 130 (IH)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. D. Okoń",
+     "r": "gab. 083 (IH)"
     },
     {
      "d": 3,
@@ -764,7 +867,7 @@
      "k": "CW",
      "p": "mgr A. Jakóbiak",
      "r": "al. Piastów 40b bud. nr 4 s.113 (WH)",
-     "n": "zajęcia łączone z ARCH + MiC + SM+ FG+ ITA + SP"
+     "n": "zajęcia łączone z ARCH + MiC + SM+"
     },
     {
      "d": 3,
@@ -781,10 +884,11 @@
       "13:30",
       "15:00"
      ],
-     "pl": "monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
+     "pl": "wykład monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
      "k": "W",
      "p": "dr hab. P. Weber, prof. US",
      "r": "s. 070 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 14:15",
      "dates": [
       "2026-11-20",
       "2026-11-27",

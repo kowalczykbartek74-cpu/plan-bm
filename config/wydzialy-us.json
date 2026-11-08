@@ -6,7 +6,9 @@
   ],
   "kody": {
     "_opis": "Kody kierunków, które już istnieją w Skrócie (nauka_kierunki.kod) – mają pierwszeństwo przed skrótem z nazwy pliku.",
-    "wpia": { "Prawo": "PRAWO" }
+    "wpia": { "Prawo": "PRAWO" },
+    "wh": { "Filologia romańska z językiem obcym do wyboru": "FRZJO" },
+    "_wh": "FRZJO = propozycja (skrót pliku FRZJOdW ma 7 liter), do potwierdzenia przez Bartka"
   },
   "wydzialy": [
     {
@@ -36,8 +38,6 @@
       "oferta": "Wydział Humanistyczny",
       "parser": "wh",
       "importer": "wh-xlsx.mjs",
-      "tylkoKierunki": ["HIST", "FA"],
-      "_tylkoKierunki": "pilot Etapu 4 (8.11.2026): tylko te kierunki; po zatwierdzeniu pilota usuń pole, a importer weźmie wszystkie pliki",
       "strony": [
         { "url": "https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "xlsx" },
         { "url": "https://hum.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", "tryb": "nst", "format": "xlsx" }

@@ -3,7 +3,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
-import { datyZTekstu, godzinaZTekstu, grupaZTekstu, rodzajZTekstu, rozbierz, plikNaRoczniki, rocznikArkusza, arkuszNaZajecia } from "./us/wh-xlsx.mjs";
+import { datyZTekstu, godzinaZTekstu, grupaZTekstu, rodzajZTekstu, rozbierz, plikNaRoczniki, rocznikArkusza, arkuszNaZajecia, czesciKomorki, przedmiot } from "./us/wh-xlsx.mjs";
 import { waliduj, dodaj, xlsxArkuszeDane } from "./us/wspolne.mjs";
 
 const sem = { od: "2026-10-01", do: "2027-02-01" };
@@ -95,4 +95,22 @@ test("plik bez nagłówków dni nie daje zajęć (ostrzeżenie zamiast zgadywani
   const bez = { ...a, komorki: Object.fromEntries(Object.entries(a.komorki).filter(([, v]) => !/PONIEDZIA|WTOREK|ŚRODA|CZWARTEK|PIĄTEK/.test(v))) };
   const r = arkuszNaZajecia(bez, { sem });
   assert.equal(r.wpisy.length, 0); assert.match(r.ostrzezenia[0], /brak nagłówków dni/);
+});
+
+test("pozostałe pliki WH: kilka zajęć w komórce, godziny „od … do …”, nagłówki GC i LDB, rodzaj przy godzinach", () => {
+  assert.equal(czesciKomorki("seminarium dyplomowe (s) (30) prof. dr hab. A. Wątor gab.124 (IH) / dr hab. E. Krasucki, prof. US gab. 054 (IH)").length, 2);
+  assert.equal(czesciKomorki("historia filozofii W-25h dr X s.227 ---------------------- zajęcia od 25.01 praktyczna nauka lb- 15h dr Y s.1").length, 2);
+  assert.equal(czesciKomorki("historia lit. – średniowiecze 15h w (zajęcia w terminie: 08.10 - 26.11) historia lit. – renesans 15h w (zajęcia w terminie: 26.11 - 28.01) dr Z").length, 2);
+  assert.equal(czesciKomorki("ochrona (w) dr M. Stępień s. 116 / aula").length, 1, "„/” bez drugiego prowadzącego nie dzieli");
+  assert.deepEqual(godzinaZTekstu("zajęcia od 17.45 do 19.15 wykład").time, ["17:45", "19:15"]);
+  assert.equal(godzinaZTekstu("od godz. 10:45 wstęp").start, "10:45");
+  assert.equal(godzinaZTekstu("podstawy prawa (ć)(15) (II poł. sem. od 24 XI. - pierwsze zajęcia 1h od godz. 10:45)"), null, "godzina z dopisku o pierwszych zajęciach to nie godzina zajęć");
+  assert.deepEqual(rocznikArkusza({ nazwa: "GC II rok", komorki: { A1: "Global Communication year II BA winter semester 2026/27 PONIEDZIAŁEK" } }), { rok: 2, stopien: 1 });
+  assert.deepEqual(rocznikArkusza({ nazwa: "GC 1 rok II st.", komorki: { A1: "Global Communication year I MA winter semester" } }), { rok: 1, stopien: 2 });
+  assert.deepEqual(rocznikArkusza({ nazwa: "LDB II", komorki: { A1: "LINGWISTYKA DLA BIZNESU I ST. 2 ROK PLAN ZAJĘĆ" } }), { rok: 2, stopien: 1 });
+  assert.deepEqual(["warsztaty redakcyjne 30h ć", "rhetorics of culture 20h k", "pragmatyka językowa 30k", "Intellectual property (lecture, 8 hrs)", "technologia ćw- 15h"].map(rodzajZTekstu), ["CW", "K", "K", "W", "CW"]);
+  assert.equal(grupaZTekstu("(specjalność język niemiecki w gospodarce i biznesie)").pg, "spec:język niemiecki w gospodarce i biznesie");
+  assert.equal(grupaZTekstu("specjalność: kształcenie przygotowujące do zawodu nauczyciela gatunki").pg, "spec:nauczycielska");
+  assert.deepEqual(rozbierz("I GC gr lab 1a (30 hr) English Phonetics dr Adriana Goldman room 214 WH").sale, ["room 214 WH"]);
+  assert.equal(przedmiot("systemy kancelaryjne w Polsce (ć) (15)"), "systemy kancelaryjne w Polsce");
 });

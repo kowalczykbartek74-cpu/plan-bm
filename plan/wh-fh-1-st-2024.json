@@ -1,0 +1,534 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+ "wersja": "2026-10-14",
+ "sha256": "ac7b7e74b45efda07848fa384c7a9b1754a53732ecaf80bc1a9ecb9f59843bd1",
+ "kierunek": "Filologia hiszpańska",
+ "kierunekEn": "Spanish Philology",
+ "id": "wh-fh-1-st-2024",
+ "kod": "fh24",
+ "wydzial": "WH",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "FH3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "język portugalski, 30lk, FH",
+     "k": "X",
+     "p": "mgr V.Furede",
+     "r": "s.119 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "język włoski, FH 30lk, język francuski, 30lk",
+     "k": "X",
+     "p": "mgr I. Płatek, mgr R. Ptak",
+     "r": "s.101 WH, s. 114 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "język włoski, 30lk",
+     "k": "X",
+     "p": "mgr I. Płatek",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "praktyczna nauka języka- zintegrowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr A.Vega",
+     "r": "s.119 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "praktyczna nauka języka- zintegrowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr A.Vega",
+     "r": "s.14 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "praktyczna nauka języka- zintegrowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr A.Vega",
+     "r": "s.14 WH"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "praktyczna nauka języka- zintegrowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr A.Vega",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "gramatyka historyczna języka hiszpańskiego z elementami historii języka, biblioteka międzywydziałowa",
+     "k": "W",
+     "p": "prof. dr hab.A. Zieliński"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "fakultatywny: Język hiszpański w Ameryce Łacińskiej (El idioma espanol en America Latina)",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "język hiszpański w turystyce i biznesie, 60ćw",
+     "k": "CW",
+     "p": "mgr A. Rogla",
+     "r": "s.119 WH"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "tłumaczenia pisemne (hiszpańsko-polskie, polsko-hiszpańskie) 60ćw",
+     "k": "CW",
+     "p": "mgr R. Kupiński",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "język hiszpański w turystyce i biznesie, 60ćw",
+     "k": "CW",
+     "p": "mgr A. Rogla",
+     "r": "s.119 WH"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "tłumaczenia pisemne (hiszpańsko-polskie, polsko-hiszpańskie), 60ćw",
+     "k": "CW",
+     "p": "mgr R.Kupiński",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury latynoamerykańskiej 9 15, )",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "s.13 WH",
+     "dates": [
+      "2026-10-30",
+      "2026-11-27",
+      "2026-12-04",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury latynoamerykańskiej, (9 /15, )",
+     "k": "CW",
+     "p": "dr N. Pielacińska",
+     "r": "s.13 WH",
+     "dates": [
+      "2026-10-30",
+      "2026-11-27",
+      "2026-12-04",
+      "2027-01-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "język portugalski, 30lk, FH",
+     "k": "X",
+     "p": "mgr V.Furede",
+     "r": "s.119 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "język włoski, FH 30lk, język francuski, 30lk",
+     "k": "X",
+     "p": "mgr I. Płatek, mgr R. Ptak",
+     "r": "s.101 WH, s. 114 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "język włoski, 30lk",
+     "k": "X",
+     "p": "mgr I. Płatek",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "praktyczna nauka języka- zintegrowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr A.Vega",
+     "r": "s.119 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "praktyczna nauka języka- zintegrowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr A.Vega",
+     "r": "s.14 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "praktyczna nauka języka- zintegrowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr A.Vega",
+     "r": "s.14 WH"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "praktyczna nauka języka- zintegrowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr A.Vega",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "gramatyka historyczna języka hiszpańskiego z elementami historii języka, biblioteka międzywydziałowa",
+     "k": "W",
+     "p": "prof. dr hab.A. Zieliński"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "fakultatywny: Język hiszpański w Ameryce Łacińskiej (El idioma espanol en America Latina)",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "język hiszpański w turystyce i biznesie, 60ćw",
+     "k": "CW",
+     "p": "mgr A. Rogla",
+     "r": "s.119 WH"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "tłumaczenia pisemne (hiszpańsko-polskie, polsko-hiszpańskie) 60ćw",
+     "k": "CW",
+     "p": "mgr R. Kupiński",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "język hiszpański w turystyce i biznesie, 60ćw",
+     "k": "CW",
+     "p": "mgr A. Rogla",
+     "r": "s.119 WH"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "tłumaczenia pisemne (hiszpańsko-polskie, polsko-hiszpańskie), 60ćw",
+     "k": "CW",
+     "p": "mgr R.Kupiński",
+     "r": "s.13 WH"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury latynoamerykańskiej 9 15, )",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "s.13 WH",
+     "dates": [
+      "2026-10-30",
+      "2026-11-27",
+      "2026-12-04",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury latynoamerykańskiej, (9 /15, )",
+     "k": "CW",
+     "p": "dr N. Pielacińska",
+     "r": "s.13 WH",
+     "dates": [
+      "2026-10-30",
+      "2026-11-27",
+      "2026-12-04",
+      "2027-01-22"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

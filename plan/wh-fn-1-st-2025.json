@@ -1,0 +1,672 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+ "wersja": "2026-10-30",
+ "sha256": "aefc54e219eb127fbec6f9c843e0fdd6f56274fe605b1cf48ea9d73a4c1d27ed",
+ "kierunek": "Filologia norweska",
+ "kierunekEn": "Norwegian Philology",
+ "id": "wh-fn-1-st-2025",
+ "kod": "fn25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "FN2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "polsko-norweskie związki kulturowo-ekonomiczne",
+     "k": "W",
+     "p": "dr Lubowicka",
+     "r": "s. 310 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "polsko-norweskie związki kulturowo-ekonomiczne",
+     "k": "CW",
+     "p": "dr Lubowicka",
+     "r": "s. 310 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ćwiczenia w pisaniu, co 2 tyg",
+     "k": "LAB",
+     "p": "mgr Sapiela",
+     "r": "s. 115 WH",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury norweskiej",
+     "k": "W",
+     "p": "dr Strauss",
+     "r": "s. 117 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "kultura i historia Norwegii",
+     "k": "W",
+     "p": "dr T.Duda",
+     "r": "s. 117 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "językowo-kulturowe aspekty przekładu",
+     "k": "W",
+     "p": "dr hab. T. Szutkowski, prof. US",
+     "r": "Wielkopolska 15 s. 116"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria przekładu",
+     "k": "W",
+     "p": "dr hab. T. Szutkowski, prof US",
+     "r": "Wielkopolska 15 s. 116"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "tłumaczenia pisemne, zaj w godz 12:10-13:40",
+     "k": "LAB",
+     "p": "mgr J.Radziwon",
+     "r": "s. 115 WH"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ustne sprawności językowe",
+     "k": "LAB",
+     "n": "VACAT 2, s. 101 WH zajęcia od 21.10",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "język angielski lk30",
+     "k": "X",
+     "p": "mgr P. Krywult",
+     "r": "s. 101 WH"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ustne sprawności językowe",
+     "k": "LAB",
+     "n": "VACAT 2, s. 101 WH zajęcia od 21.10",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "współczesne odmiany języka norweskiego",
+     "k": "W",
+     "p": "dr W.Awedyk",
+     "r": "s.310a WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "gramatyka opisowa języka norweskiego",
+     "k": "W",
+     "p": "dr W.Awedyk",
+     "r": "s.310a WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gramatyka praktyczna, co 2 tyg",
+     "k": "LAB",
+     "p": "mgr D. Ludwiczak",
+     "r": "s. 15 WH",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "negocjacje na pograniczu kultur i języków",
+     "k": "W",
+     "p": "dr K. Kondzioła-Pich",
+     "r": "gabinet 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "ogólnouczelniany (17:4519:15)",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "16:45"
+     ],
+     "pl": "WF",
+     "k": "X"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "polsko-norweskie związki kulturowo-ekonomiczne",
+     "k": "W",
+     "p": "dr Lubowicka",
+     "r": "s. 310 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "polsko-norweskie związki kulturowo-ekonomiczne",
+     "k": "CW",
+     "p": "dr Lubowicka",
+     "r": "s. 310 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ćwiczenia w pisaniu, co 2 tyg",
+     "k": "LAB",
+     "p": "mgr Sapiela",
+     "r": "s. 115 WH",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury norweskiej",
+     "k": "W",
+     "p": "dr Strauss",
+     "r": "s. 117 WH"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "kultura i historia Norwegii",
+     "k": "W",
+     "p": "dr T.Duda",
+     "r": "s. 117 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "językowo-kulturowe aspekty przekładu",
+     "k": "W",
+     "p": "dr hab. T. Szutkowski, prof. US",
+     "r": "Wielkopolska 15 s. 116"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria przekładu",
+     "k": "W",
+     "p": "dr hab. T. Szutkowski, prof US",
+     "r": "Wielkopolska 15 s. 116"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "tłumaczenia pisemne, zaj w godz 12:10-13:40",
+     "k": "LAB",
+     "p": "mgr J.Radziwon",
+     "r": "s. 115 WH"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ustne sprawności językowe",
+     "k": "LAB",
+     "n": "VACAT 2, s. 101 WH zajęcia od 21.10",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "język angielski lk30",
+     "k": "X",
+     "p": "mgr P. Krywult",
+     "r": "s. 101 WH"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ustne sprawności językowe",
+     "k": "LAB",
+     "n": "VACAT 2, s. 101 WH zajęcia od 21.10",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "współczesne odmiany języka norweskiego",
+     "k": "W",
+     "p": "dr W.Awedyk",
+     "r": "s.310a WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "gramatyka opisowa języka norweskiego",
+     "k": "W",
+     "p": "dr W.Awedyk",
+     "r": "s.310a WH"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gramatyka praktyczna, co 2 tyg",
+     "k": "LAB",
+     "p": "mgr D. Ludwiczak",
+     "r": "s. 15 WH",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "negocjacje na pograniczu kultur i języków",
+     "k": "W",
+     "p": "dr K. Kondzioła-Pich",
+     "r": "gabinet 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "ogólnouczelniany (17:4519:15)",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "16:45"
+     ],
+     "pl": "WF",
+     "k": "X"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

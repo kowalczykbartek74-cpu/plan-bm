@@ -1,0 +1,864 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+ "wersja": "2026-10-26",
+ "sha256": "9e97176e7bf6f708d1000366ce75f0acca56ad1f90bc9627c7753b58445c7a66",
+ "kierunek": "Filologia polska",
+ "kierunekEn": "Polish Philology",
+ "id": "wh-fp-1-st-2025",
+ "kod": "fp25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "FP2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "09:45",
+      "11:30"
+     ],
+     "pl": "gatunki wypowiedzi pisemnej edukacji polonistycznej",
+     "k": "K",
+     "p": "mgr Weronika Migowicz",
+     "r": "s. 218",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:30",
+      "13:15"
+     ],
+     "pl": "składnia współczesnego języka polskiego",
+     "k": "K",
+     "p": "dr hab. Piotr Wojdak",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "język niemiecki",
+     "k": "CW",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 17-19",
+     "n": "łączone z ARCH+HIST+SM+DiKS+FILO"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "psychologia ogólna",
+     "k": "W",
+     "p": "dr Elżbieta Pieńkowska",
+     "r": "s. 310",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "gramatyka historyczna języka polskiego",
+     "k": "K",
+     "p": "dr hab. Agnieszka Szczaus",
+     "r": "s. 220"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "poetyka",
+     "k": "K",
+     "p": "prof. dr hab. Piotr Michałowski",
+     "r": "s. 219"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "emisja głosu",
+     "k": "X",
+     "p": "prof. dr hab. Leonarda Mariak",
+     "r": "s. 220",
+     "n": "łączone z GPWSN",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza redakcja i adiustacja tekstu w edytorstwo tekstu",
+     "k": "W",
+     "p": "dr hab. Dorota Kozaryn, prof. US",
+     "r": "s. 304",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia literatury polskiej – romantyzm",
+     "k": "W",
+     "p": "dr Jędrzej Wijas",
+     "r": "s. 219"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "historia literatury polskiej – romantyzm",
+     "k": "K",
+     "p": "dr Jędrzej Wijas",
+     "r": "s. 219"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "psychologia ogólna 02.12 )",
+     "k": "CW",
+     "p": "mgr Jan Znajdek",
+     "r": "s. 319",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "pedagogika ogólna 02.12 )",
+     "k": "CW",
+     "p": "dr Edyta Kopaczewska",
+     "r": "s. 310",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pedagogika ogólna w",
+     "k": "W",
+     "p": "dr Edyta Kopaczewska",
+     "r": "s. 310",
+     "n": "łączone z FA+FRzJO+FG+HIST",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza ortografia w praktyce wydawniczej",
+     "k": "LAB",
+     "p": "dr Maria Kabata",
+     "r": "s. 314"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza redakcja i adiustacja tekstu",
+     "k": "LAB",
+     "p": "dr Beata Afeltowicz",
+     "r": "s. 304"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Przemysław Krywult",
+     "r": "s. 120"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze – antropologia literatury dawnej",
+     "k": "K",
+     "p": "prof. dr hab. Dariusz Śnieżko",
+     "r": "s. 220",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Motywy, wątki i tematy antyczne w literaturze i kulturze współczesnej",
+     "k": "K",
+     "p": "mgr Aleksandra Majewicz",
+     "r": "s. 304",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Retoryczność literatury, literackość retoryki",
+     "k": "K",
+     "p": "mgr Aleksandra Majewicz",
+     "r": "s. 304",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "16:15"
+     ],
+     "pl": "F g.",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "ogólnouczelniany w e",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "09:45",
+      "11:30"
+     ],
+     "pl": "gatunki wypowiedzi pisemnej edukacji polonistycznej",
+     "k": "K",
+     "p": "mgr Weronika Migowicz",
+     "r": "s. 218",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:30",
+      "13:15"
+     ],
+     "pl": "składnia współczesnego języka polskiego",
+     "k": "K",
+     "p": "dr hab. Piotr Wojdak",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "język niemiecki",
+     "k": "CW",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 17-19",
+     "n": "łączone z ARCH+HIST+SM+DiKS+FILO"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "psychologia ogólna",
+     "k": "W",
+     "p": "dr Elżbieta Pieńkowska",
+     "r": "s. 310",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "gramatyka historyczna języka polskiego",
+     "k": "K",
+     "p": "dr hab. Agnieszka Szczaus",
+     "r": "s. 220"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "poetyka",
+     "k": "K",
+     "p": "prof. dr hab. Piotr Michałowski",
+     "r": "s. 219"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "emisja głosu",
+     "k": "X",
+     "p": "prof. dr hab. Leonarda Mariak",
+     "r": "s. 220",
+     "n": "łączone z GPWSN",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza redakcja i adiustacja tekstu w edytorstwo tekstu",
+     "k": "W",
+     "p": "dr hab. Dorota Kozaryn, prof. US",
+     "r": "s. 304",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia literatury polskiej – romantyzm",
+     "k": "W",
+     "p": "dr Jędrzej Wijas",
+     "r": "s. 219"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "historia literatury polskiej – romantyzm",
+     "k": "K",
+     "p": "dr Jędrzej Wijas",
+     "r": "s. 219"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "psychologia ogólna 02.12 )",
+     "k": "CW",
+     "p": "mgr Jan Znajdek",
+     "r": "s. 319",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "pedagogika ogólna 02.12 )",
+     "k": "CW",
+     "p": "dr Edyta Kopaczewska",
+     "r": "s. 310",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pedagogika ogólna w",
+     "k": "W",
+     "p": "dr Edyta Kopaczewska",
+     "r": "s. 310",
+     "n": "łączone z FA+FRzJO+FG+HIST",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza ortografia w praktyce wydawniczej",
+     "k": "LAB",
+     "p": "dr Maria Kabata",
+     "r": "s. 314"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza redakcja i adiustacja tekstu",
+     "k": "LAB",
+     "p": "dr Beata Afeltowicz",
+     "r": "s. 304"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Przemysław Krywult",
+     "r": "s. 120"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze – antropologia literatury dawnej",
+     "k": "K",
+     "p": "prof. dr hab. Dariusz Śnieżko",
+     "r": "s. 220",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Motywy, wątki i tematy antyczne w literaturze i kulturze współczesnej",
+     "k": "K",
+     "p": "mgr Aleksandra Majewicz",
+     "r": "s. 304",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Retoryczność literatury, literackość retoryki",
+     "k": "K",
+     "p": "mgr Aleksandra Majewicz",
+     "r": "s. 304",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "16:15"
+     ],
+     "pl": "F g.",
+     "k": "X"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "ogólnouczelniany w e",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

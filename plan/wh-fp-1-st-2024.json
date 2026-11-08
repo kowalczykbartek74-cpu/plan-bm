@@ -1,0 +1,674 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+ "wersja": "2026-10-26",
+ "sha256": "9e97176e7bf6f708d1000366ce75f0acca56ad1f90bc9627c7753b58445c7a66",
+ "kierunek": "Filologia polska",
+ "kierunekEn": "Polish Philology",
+ "id": "wh-fp-1-st-2024",
+ "kod": "fp24",
+ "wydzial": "WH",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "FP3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza adiustacja tekstu",
+     "k": "K",
+     "p": "dr hab. Agnieszka Szczaus",
+     "r": "s. 304"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Polscy \"poeci przeklęci\"",
+     "k": "K",
+     "p": "prof. dr hab. Jerzy Madejski",
+     "r": "s. 1",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "kulturowa tożsamość płci",
+     "k": "W",
+     "p": "dr hab. Maciej Duda, prof. US",
+     "r": "s. 1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr Anna Szyntor-Bykowska",
+     "r": "s. 301",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole podstawowej lab + ć)",
+     "k": "LAB",
+     "p": "dr Anna Szyntor-Bykowska",
+     "r": "s. 301",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr hab. Dorota Kozaryn, prof. US",
+     "r": "gab. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Motyw szaleństwa w literaturze światowej",
+     "k": "K",
+     "p": "prof. dr hab. Marta Skwara",
+     "r": "s. 1",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "kultura języka",
+     "k": "W",
+     "p": "prof. dr hab. Ewa Kołodziejek",
+     "r": "s. 1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "kultura języka",
+     "k": "K",
+     "p": "prof. dr hab. Ewa Kołodziejek",
+     "r": "s. 1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr Aleksandra Grzemska, dr Barbara Popiel-Kobielska, dr Agnieszka Szlachta",
+     "r": "s. 115, gab. 303, gab. 412"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "literatura środkowoeuropejska",
+     "k": "W",
+     "p": "dr hab. Tatiana Czerska, prof. US",
+     "r": "s. 220"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza edytorstwo naukowe",
+     "k": "W",
+     "p": "dr hab. Dorota Kozaryn, prof. US",
+     "r": "s. 319"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:30",
+      "16:45"
+     ],
+     "pl": "uczeń ze specjalnymi potrzebami edukacyjnymi na lekcjach języka polskiego",
+     "k": "K",
+     "p": "mgr Magdalena Krupińska",
+     "r": "s. 215",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "HLP – dwudziestolecie międzywojenne",
+     "k": "W",
+     "p": "dr Aleksandra Grzemska",
+     "r": "s. 214"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:15",
+      "14:45"
+     ],
+     "pl": "HLP – dwudziestolecie międzywojenne od g.",
+     "k": "K",
+     "p": "dr Aleksandra Grzemska",
+     "r": "s. 118"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "język angielski ACKJ (Wawrzyniaka 15)",
+     "k": "CW",
+     "p": "mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 210",
+     "n": "łączone z SP"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "z dziedziny nauk społecznych g. e",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza adiustacja tekstu",
+     "k": "K",
+     "p": "dr hab. Agnieszka Szczaus",
+     "r": "s. 304"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Polscy \"poeci przeklęci\"",
+     "k": "K",
+     "p": "prof. dr hab. Jerzy Madejski",
+     "r": "s. 1",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "kulturowa tożsamość płci",
+     "k": "W",
+     "p": "dr hab. Maciej Duda, prof. US",
+     "r": "s. 1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr Anna Szyntor-Bykowska",
+     "r": "s. 301",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole podstawowej lab + ć)",
+     "k": "LAB",
+     "p": "dr Anna Szyntor-Bykowska",
+     "r": "s. 301",
+     "pg": "spec:nauczycielska"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr hab. Dorota Kozaryn, prof. US",
+     "r": "gab. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Motyw szaleństwa w literaturze światowej",
+     "k": "K",
+     "p": "prof. dr hab. Marta Skwara",
+     "r": "s. 1",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "kultura języka",
+     "k": "W",
+     "p": "prof. dr hab. Ewa Kołodziejek",
+     "r": "s. 1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "kultura języka",
+     "k": "K",
+     "p": "prof. dr hab. Ewa Kołodziejek",
+     "r": "s. 1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminarium dyplomowe s",
+     "k": "S",
+     "p": "dr Aleksandra Grzemska, dr Barbara Popiel-Kobielska, dr Agnieszka Szlachta",
+     "r": "s. 115, gab. 303, gab. 412"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "literatura środkowoeuropejska",
+     "k": "W",
+     "p": "dr hab. Tatiana Czerska, prof. US",
+     "r": "s. 220"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "specjalność: edytorsko-wydawnicza edytorstwo naukowe",
+     "k": "W",
+     "p": "dr hab. Dorota Kozaryn, prof. US",
+     "r": "s. 319"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:30",
+      "16:45"
+     ],
+     "pl": "uczeń ze specjalnymi potrzebami edukacyjnymi na lekcjach języka polskiego",
+     "k": "K",
+     "p": "mgr Magdalena Krupińska",
+     "r": "s. 215",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "HLP – dwudziestolecie międzywojenne",
+     "k": "W",
+     "p": "dr Aleksandra Grzemska",
+     "r": "s. 214"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:15",
+      "14:45"
+     ],
+     "pl": "HLP – dwudziestolecie międzywojenne od g.",
+     "k": "K",
+     "p": "dr Aleksandra Grzemska",
+     "r": "s. 118"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "język angielski ACKJ (Wawrzyniaka 15)",
+     "k": "CW",
+     "p": "mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 210",
+     "n": "łączone z SP"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "z dziedziny nauk społecznych g. e",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

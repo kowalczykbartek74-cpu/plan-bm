@@ -10,7 +10,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
-import { pobieracz, xlsxNapisy, xlsxArkusze } from "./wspolne.mjs";
+import { pobieracz, xlsxNapisy, xlsxArkusze, xlsxArkuszeDane, adres } from "./wspolne.mjs";
+import { rocznikArkusza } from "./wh-xlsx.mjs";
 import { zrodlaWH, zrodlaWNS, zrodlaWNSiP, zrodlaWPIA, zrodlaWT, zrodlaWKFiZ, ofertaUS } from "./zrodla.mjs";
 import { kierunkiZFormularza, kodZ, nabor, LATA } from "../wefiz-wszystkie.mjs";
 import { uczelnia } from "../uczelnia.mjs";
@@ -117,9 +118,16 @@ function wpisyZeZrodel(wydz, zrodla, ofertaW, tytuly) {
         const ini = unikalne(ofertaW).filter((x) => inicjaly(x.nazwa) === k.skrot.toUpperCase() && k.stopnie.every((st) => ofertaW.some((y) => y.nazwa === x.nazwa && y.stopien === st)));
         if (t) { w.nazwa = t.nazwa; w.potw = `nazwa z treści pliku: „${t.napis.slice(0, 120)}”`; }
         else if (ini.length === 1) { w.nazwa = ini[0].nazwa; w.potw = `plik podaje tylko skrót ${k.skrot}; nazwa = kierunek z oferty o tych inicjałach (do potwierdzenia)`; }
-        else { pytania.push(`WH: skrót ${k.skrot} (${z.plik}) – plik nie podaje nazwy kierunku, a inicjały nie pasują do żadnego kierunku z oferty`); continue; }
+        else if (tytuly[z.url]?._tytul && /\S/.test(tytuly[z.url]._tytul.replace(/\s+(?:\d|I{1,3})\s*rok\b.*$/i, ""))) {
+          // nazwa z nagłówka pliku (kierunek spoza oferty rekrutacji, np. Polonistyczno-germanistyczne wspólne studia nauczycielskie)
+          w.nazwa = ladna(tytuly[z.url]._tytul.replace(/\s+(?:\d|I{1,3}|IV)\s*rok\b.*$/i, "").trim());
+          w.potw = `nazwa z nagłówka pliku: „${tytuly[z.url]._tytul.slice(0, 100)}” (brak w ofercie)`;
+          pytania.push(`WH: ${k.skrot} – plik nazywa kierunek „${w.nazwa}”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?`);
+        } else { pytania.push(`WH: skrót ${k.skrot} (${z.plik}) – plik nie podaje nazwy kierunku, a inicjały nie pasują do żadnego kierunku z oferty`); continue; }
         // lata: z napisów „<skrót> <rok> rok <stopień> stopień” w arkuszach
-        const lw = tytuly[z.url]?._lata?.[norm(k.skrot)] || tytuly[z.url]?._lata?.[norm(w.nazwa)];
+        // lata: z arkuszy pliku (pewne), a gdy ich brak – z napisów „<skrót> <rok> rok <stopień>”
+        const zArk = z.tryb === "st" ? (tytuly[z.url]?._arkusze || []).filter((x) => k.stopnie.includes(x.stopien)) : [];   // nst: arkusze = zjazdy
+        const lw = zArk.length ? zArk : tytuly[z.url]?._lata?.[norm(k.skrot)] || tytuly[z.url]?._lata?.[norm(w.nazwa)];
         if (!k.lata && lw?.length) {
           for (const st of k.stopnie) { const l = lw.filter((x) => x.stopien === st).map((x) => x.rok).sort(); if (l.length) wpisy.push({ ...w, stopnie: undefined, stopien: st, lata: l }); else wpisy.push({ ...w, stopnie: [st] }); }
           continue;
@@ -249,7 +257,11 @@ export async function inwentarz({ offline = false, probki = false, log = console
           if (z.format === "xlsx") {
             const napisy = xlsxNapisy(f.buf);
             z.arkusze = xlsxArkusze(f.buf);
-            tytuly[z.url] = { ...tytulyWH(napisy, z.kierunki, ofW), _lata: lataWH(napisy) };
+            // lata i stopnie z arkuszy (arkusz = rocznik), tytuł pliku na wypadek nazwy spoza oferty
+            const ark = xlsxArkuszeDane(f.buf).filter((a) => Object.keys(a.komorki).length);
+            const roczn = ark.map(rocznikArkusza).filter(Boolean);
+            const tytulPliku = ark.flatMap((a) => Object.entries(a.komorki).filter(([r]) => adres(r)[1] < 2).map(([, v]) => v)).find((v) => /\brok\b/i.test(v));
+            tytuly[z.url] = { ...tytulyWH(napisy, z.kierunki, ofW), _lata: lataWH(napisy), _arkusze: roczn, _tytul: tytulPliku };
           }
         } catch (e) { z.blad = e.message; wynik.pliki.bledy.push(z.url); }
       }

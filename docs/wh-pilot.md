@@ -1,6 +1,6 @@
 # Pilot WH (Etap 4): 10 losowych zajęć z pliku i z planu
 
-Wygenerowane 2026-11-08: `node scripts/us/wh-pilot.mjs --ziarno 42`. Kierunki pilota: HIST, FA. Wszystkich zajęć w pilocie: 260.
+Wygenerowane 2026-11-08: `node scripts/us/wh-pilot.mjs --ziarno 42`. Kierunki pilota: HIST, FA. Wszystkich zajęć: 271.
 Kolumna „plik” = tekst komórki dokładnie jak w XLSX (arkusz, komórka); „plan” = to, co trafiło do plan/<id>.json i na stronę.
 
 ## Plik obok strony
@@ -15,75 +15,75 @@ Lewa strona: arkusz XLSX narysowany jako tabela ze scaleniami (czerwona ramka = 
 
 | zajęcia | z notką (dopisek albo terminy nie do odczytania) | rodzaj nieznany (X) | bez prowadzącego | bez sali |
 |---|---|---|---|---|
-| 260 | 23 | 18 | 9 | 10 |
+| 271 | 41 | 19 | 9 | 10 |
 
 Rodzaj „X” = plik nie podaje rodzaju (np. „Technologie informacyjne (15h)”); bez prowadzącego/sali = komórka ich nie ma (np. wykład ogólnouczelniany „zgodnie z wyborem”).
 
 ## Losowe zajęcia
 
-## 1. wh-fa-2-st-2025 · arkusz „FA 2 rok II st.” · komórka I11
+## 1. wh-fa-2-st-2025 · arkusz „FA 2 rok II st.” · komórka G31
 
-**Plik:** II rok MA specj. transl. gr lab 3 (30 hr): ćwiczenia translacyjne - tłumaczenia ustne, mgr A. Kotula -Empringham, s. 115 WH
-
-| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
-|---|---|---|---|---|---|---|---|---|
-| wt. | 10:00–11:30 | ćwiczenia translacyjne – tłumaczenia ustne (gr lab 3) | CW | mgr A. Kotula -Empringham | s. 115 WH | spec:translatoryczna | co tydzień |  |
-
-## 2. wh-fa-2-st-2026 · arkusz „FA 1 rok II st.” · komórka U13
-
-**Plik:** zajęcia od 20.10.2026r. I rok MA (22 hr) Seminarium mgr dr M. Dziurzyńska sala 114
+**Plik:** II rok MA specj. naucz. (30 w): Dydaktyka przedmiotu w szkole ponadpodstawowej, dr P. Kamińska, prof. US, s. 16 WH
 
 | dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
 |---|---|---|---|---|---|---|---|---|
-| czw. | 10:00–11:30 | Seminarium mgr | S | dr M. Dziurzyńska | s. 114 | lab:2 | 15 dat: 2026-10-22, 2026-10-29, 2026-11-05 … 2027-01-28 |  |
+| wt. | 17:00–18:30 | Dydaktyka przedmiotu w szkole ponadpodstawowej | W | dr P. Kamińska, prof. US | s. 16 WH | spec:nauczycielska | co tydzień |  |
 
-## 3. wh-hist-2-st-2026 · arkusz „Historia-II-1” · komórka S4
+## 2. wh-fa-2-st-2026 · arkusz „FA 1 rok II st.” · komórka T33
 
-**Plik:** historia cyfrowa (w) (15) dr hab. D. Chojecki, prof. US s. 070 (IH) (I poł. sem. do 20 XI. - ostatnie zajęcia 1h do godz. 09:00)
-
-| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
-|---|---|---|---|---|---|---|---|---|
-| pt. | 08:15–09:45 | historia cyfrowa | W | dr hab. D. Chojecki, prof. US | s. 070 (IH) | cały rok | 8 dat: 2026-10-02, 2026-10-09, 2026-10-16 … 2026-11-20 |  |
-
-## 4. wh-hist-1-st-2025 · arkusz „Historia-I-2” · komórka B8
-
-**Plik:** 09:45-11:15 historia nowożytna Polski (ć) (30) dr hab. R. Gałaj-Dempniak, prof. US s.070 (IH)
+**Plik:** I rok MA gr lab 1 (60h) PNJA: Podst. jęz. biznesu dr Antoni Górny sala 213 WH
 
 | dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
 |---|---|---|---|---|---|---|---|---|
-| pon. | 09:45–11:15 | historia nowożytna Polski | CW | dr hab. R. Gałaj-Dempniak, prof. US | s.070 (IH) | cały rok | co tydzień |  |
+| czw. | 17:00–20:15 | PNJA: Podst. jęz. biznesu | LAB | dr Antoni Górny | s. 213 WH | lab:1 | co tydzień |  |
 
-## 5. wh-hist-1-st-2025 · arkusz „Historia-I-2” · komórka K24
+## 3. wh-hist-2-st-2026 · arkusz „Historia-II-1” · komórka S14
 
-**Plik:** teksty kultury w edukacji historycznej (k) (30) dr hab. E. Krasucki, prof. US s.068 (IH)
-
-| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
-|---|---|---|---|---|---|---|---|---|
-| śr. | 15:15–16:45 | teksty kultury w edukacji historycznej | K | dr hab. E. Krasucki, prof. US | s.068 (IH) | spec:kpdwzn | co tydzień |  |
-
-## 6. wh-hist-1-st-2026 · arkusz „Historia-I-1” · komórka J23
-
-**Plik:** podstawy socjologii dla historyków (w) (15) dr W. Bryniewicz s.070 (IH) (II poł. sem. od 02 XII. - pierwsze zajęcia 1h od godz. 16:00)
+**Plik:** przemiany cywilizacyjne XIX i XX w. (ć) (30) dr M. Cichocka s. 070 (IH)
 
 | dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
 |---|---|---|---|---|---|---|---|---|
-| śr. | 15:15–16:45 | podstawy socjologii dla historyków | W | dr W. Bryniewicz | s.070 (IH) | cały rok | 9 dat: 2026-12-02, 2026-12-09, 2026-12-16 … 2027-01-27 |  |
+| pt. | 11:45–13:15 | przemiany cywilizacyjne XIX i XX w. | CW | dr M. Cichocka | s. 070 (IH) | cały rok | co tydzień |  |
 
-## 7. wh-fa-2-st-2026 · arkusz „FA 1 rok II st.” · komórka N33
+## 4. wh-hist-1-st-2025 · arkusz „Historia-I-2” · komórka F10
 
-**Plik:** I rok MA gr lab 1 (60h) PNJA: ZSJ dr Patrycja Kamińska, prof. US sala 218 WH
-
-| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
-|---|---|---|---|---|---|---|---|---|
-| śr. | 17:00–20:15 | PNJA: ZSJ | LAB | dr Patrycja Kamińska, prof. US | s. 218 WH | lab:1 | co tydzień |  |
-
-## 8. wh-fa-1-st-2026 · arkusz „FA I rok” · komórka AF30
-
-**Plik:** I rok lab E (30h) PNJA: Konwersacje dr Andrew Tomlinson sala 217 WH
+**Plik:** emisja głosu (ć) (20) prof. dr hab. L. Mariak al.Piastów 40b, bud. nr 4, s. 220 (WH) w terminie: 06.X. - 08.XII. (zajęcia łączone z matematyką)
 
 | dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
 |---|---|---|---|---|---|---|---|---|
-| czw. | 17:00–18:30 | PNJA: Konwersacje | LAB | dr Andrew Tomlinson | s. 217 WH | lab:E | co tydzień |  |
+| wt. | 10:00–11:30 | emisja głosu | CW | prof. dr hab. L. Mariak | al.Piastów 40b, bud. nr 4, s. 220 (WH) | spec:kpdwzn | 10 dat: 2026-10-06, 2026-10-13, 2026-10-20 … 2026-12-08 | zajęcia łączone z matematyką |
+
+## 5. wh-hist-1-st-2025 · arkusz „Historia-I-2” · komórka O28
+
+**Plik:** 17:45-19:30 wykład ogólnouczelniany [moduł] przedmiot do wyboru (w) (15) (e-zajęcia)
+
+| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
+|---|---|---|---|---|---|---|---|---|
+| czw. | 17:45–19:30 | ogólnouczelniany przedmiot do wyboru (e- ) | W | — | — | cały rok | co tydzień |  |
+
+## 6. wh-hist-1-st-2025 · arkusz „Historia-I-2” · komórka B13
+
+**Plik:** 11:30-13:00 język łaciński (lk) (30) dr M. Cieśluk s.070 (IH)
+
+| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
+|---|---|---|---|---|---|---|---|---|
+| pon. | 11:30–13:00 | język łaciński | CW | dr M. Cieśluk | s.070 (IH) | cały rok | co tydzień |  |
+
+## 7. wh-fa-2-st-2026 · arkusz „FA 1 rok II st.” · komórka T23
+
+**Plik:** I rok MA gr lab 1 (12h) od 05.11.2026 PNJA: Sztuka prezentacji mgr Irina Sklema, s. 217 WH
+
+| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
+|---|---|---|---|---|---|---|---|---|
+| czw. | 13:30–15:00 | PNJA: Sztuka prezentacji | LAB | mgr Irina Sklema | s. 217 WH | lab:1 | 13 dat: 2026-11-05, 2026-11-12, 2026-11-19 … 2027-01-28 |  |
+
+## 8. wh-fa-1-st-2026 · arkusz „FA I rok” · komórka AJ5
+
+**Plik:** I rok gr lab A (30h) PNJA: Gram. Prakt. mgr Wioletta Szóstak sala 113 WH
+
+| dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
+|---|---|---|---|---|---|---|---|---|
+| pt. | 08:15–09:45 | PNJA: Gram. Prakt. | LAB | mgr Wioletta Szóstak | s. 113 WH | lab:A | co tydzień |  |
 
 ## 9. wh-fa-1-st-2026 · arkusz „FA I rok” · komórka L5
 
@@ -93,10 +93,10 @@ Rodzaj „X” = plik nie podaje rodzaju (np. „Technologie informacyjne (15h)�
 |---|---|---|---|---|---|---|---|---|
 | wt. | 08:15–09:45 | PNJA: Fonetyka | LAB | dr Maria Brenda | s. 215 WH | lab:A | co tydzień |  |
 
-## 10. wh-fa-1-st-2025 · arkusz „FA II rok” · komórka M11
+## 10. wh-fa-1-st-2025 · arkusz „FA II rok” · komórka M26
 
-**Plik:** II rok specj. transl. wykład (30h) FA+FH+FG Teoria przekładu dr hab. Tomasz Szutkowski, prof. US WNŚiP, sala 116 (aula)*
+**Plik:** zajęcia od 15.15 - 17.45 (3 godz.) II rok lektorat (30h) GR 2 język hiszpański mgr Joanna Kurdelska sala 101 WH w dniach 20.10, 27.10, 10.11, 17.11, 24.11., 8.12., 15.12, 22.12., 19.01.,
 
 | dzień | godziny | przedmiot | rodzaj | prowadzący | sala | podgrupa | terminy | notka |
 |---|---|---|---|---|---|---|---|---|
-| wt. | 10:00–11:30 | Teoria przekładu | W | dr hab. Tomasz Szutkowski, prof. US | WNŚiP, s. 116 (aula) | spec:translatoryczna | co tydzień |  |
+| wt. | 15:15–17:45 | lektorat język hiszpański | CW | mgr Joanna Kurdelska | s. 101 WH | gr:2 | 9 dat: 2026-10-20, 2026-10-27, 2026-11-10 … 2027-01-19 |  |

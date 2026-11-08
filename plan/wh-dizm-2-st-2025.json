@@ -1,0 +1,564 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/DiZM-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-15-X-2026.xlsx",
+ "wersja": "2026-10-15",
+ "sha256": "5cdab0cde059df50d2d9b6c6fc4831b7e1025fb6807c75689795265e92008107",
+ "kierunek": "Dziennikarstwo i zarządzanie mediami",
+ "kierunekEn": "Journalism and Media Management",
+ "id": "wh-dizm-2-st-2025",
+ "kod": "dizmm25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "DIZM2": {
+   "odd": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "język angielski Kampus Krakowska Public/WNS",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 144",
+     "n": "łączone z Menegement",
+     "pg": "gr:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. Andrzej Skrendo",
+     "r": "gab. 210",
+     "pg": "gr:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "analiza dyskursu medialnego",
+     "k": "K",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 222, bud. 6",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "medialne formy ekspresji Cukrowa",
+     "k": "K",
+     "p": "dr Maria Kabata",
+     "r": "s. 047",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "zarządzanie informacją w mediach pok. 20 Kampus Mickiewicza",
+     "k": "LAB",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "główne nurty literatury światowej i polskiej XX i XXI wieku",
+     "k": "K",
+     "p": "dr Łukasz Świercz",
+     "r": "s. 1",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. 15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:15",
+      "18:30"
+     ],
+     "pl": "seminarium magisterskie z e- KOD TEAMS: 269ygph s stacjonarne Mickiewicza 64 e- KOD TEAMS: 49hvhrc",
+     "k": "S",
+     "p": "prof. dr hab. Andrzej Skrendo, dr hab. Tomasz Bernat, prof. US",
+     "r": "gab. 430",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "promocja",
+     "k": "K",
+     "p": "dr Monika Pettersen-Sobczyk",
+     "r": "s. 314",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "nadzór właścicielski w",
+     "k": "W",
+     "p": "dr hab. Agnieszka Preś-Perepeczo, prof. US",
+     "r": "s. 117"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "MF2: funkcjonowanie przedsiębiorstwa medialnego – krytyka literatury w mediach",
+     "k": "W",
+     "p": "dr hab. Sławomir Iwasiów, prof. US",
+     "r": "gab. 412"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Wykłady z dziedziny nauk społecznych (e- )",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "język angielski Kampus Krakowska Public/WNS",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 144",
+     "n": "łączone z Menegement",
+     "pg": "gr:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. Andrzej Skrendo",
+     "r": "gab. 210",
+     "pg": "gr:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "analiza dyskursu medialnego",
+     "k": "K",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 222, bud. 6",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "medialne formy ekspresji Cukrowa",
+     "k": "K",
+     "p": "dr Maria Kabata",
+     "r": "s. 047",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "zarządzanie informacją w mediach pok. 20 Kampus Mickiewicza",
+     "k": "LAB",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "główne nurty literatury światowej i polskiej XX i XXI wieku",
+     "k": "K",
+     "p": "dr Łukasz Świercz",
+     "r": "s. 1",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. 15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:15",
+      "18:30"
+     ],
+     "pl": "seminarium magisterskie z e- KOD TEAMS: 269ygph s stacjonarne Mickiewicza 64 e- KOD TEAMS: 49hvhrc",
+     "k": "S",
+     "p": "prof. dr hab. Andrzej Skrendo, dr hab. Tomasz Bernat, prof. US",
+     "r": "gab. 430",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "promocja",
+     "k": "K",
+     "p": "dr Monika Pettersen-Sobczyk",
+     "r": "s. 314",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "nadzór właścicielski w",
+     "k": "W",
+     "p": "dr hab. Agnieszka Preś-Perepeczo, prof. US",
+     "r": "s. 117"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "MF2: funkcjonowanie przedsiębiorstwa medialnego – krytyka literatury w mediach",
+     "k": "W",
+     "p": "dr hab. Sławomir Iwasiów, prof. US",
+     "r": "gab. 412"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Wykłady z dziedziny nauk społecznych (e- )",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

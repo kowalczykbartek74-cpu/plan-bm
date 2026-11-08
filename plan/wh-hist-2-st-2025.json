@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:16:27.233Z",
- "checkedAt": "2026-11-08T21:16:27.233Z",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
  "groups": {
   "HIST2": {
    "odd": [
@@ -23,11 +23,11 @@
       "08:15",
       "09:45"
      ],
-     "pl": "język niemiecki",
+     "pl": "język niemiecki i MIPPR)",
      "k": "CW",
      "p": "mgr J. Paśnicka-Stopa",
      "r": "s. 144 (WNS)",
-     "n": "zajęcia łączone z BW i MIPPR"
+     "n": "zajęcia łączone z BW"
     },
     {
      "d": 0,
@@ -74,6 +74,7 @@
      "k": "W",
      "p": "dr hab. R. Skrycki, prof. US",
      "r": "s. 073 (IH)",
+     "n": "ostatnie zajęcia 1h do godz.17:45",
      "pg": "spec:muzealnictwo",
      "dates": [
       "2026-10-05",
@@ -130,8 +131,30 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. A. Wątor, dr hab. R. Simiński, dr hab. R. Ptaszyński, prof. US",
-     "r": "gab.124 (IH), gab. 079 (IH), gab. 054 (IH)"
+     "p": "prof. dr hab. A. Wątor",
+     "r": "gab.124 (IH)"
+    },
+    {
+     "d": 2,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Simiński",
+     "r": "gab. 079 (IH)"
+    },
+    {
+     "d": 2,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Ptaszyński, prof. US",
+     "r": "gab. 054 (IH)"
     },
     {
      "d": 2,
@@ -139,11 +162,11 @@
       "11:45",
       "13:15"
      ],
-     "pl": "emisja głosu",
+     "pl": "emisja głosu FP )",
      "k": "CW",
      "p": "prof. dr hab. L. Mariak",
      "r": "al.Piastów 40b, bud. nr 4, s. 219 (WH)",
-     "n": "zajęcia łączone z FG+ FP w terminie: 07.X. - 04.XI",
+     "n": "zajęcia łączone z FG+",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-10-07",
@@ -159,7 +182,7 @@
       "13:45",
       "17:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej (komputerowa) (IH)",
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej (komputerowa)",
      "k": "CW",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s. 145",
@@ -207,10 +230,11 @@
       "13:30",
       "15:00"
      ],
-     "pl": "monograficzny: biografie wybitnych postaci jako przedmiot badań historycznych",
+     "pl": "wykład monograficzny: biografie wybitnych postaci jako przedmiot badań historycznych",
      "k": "W",
      "p": "prof. dr hab. A. Wątor",
      "r": "s. 073 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 14:15",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-10-08",
@@ -229,10 +253,11 @@
       "13:30",
       "15:00"
      ],
-     "pl": "monograficzny: Niemcy w średniowieczu",
+     "pl": "wykład monograficzny: Niemcy w średniowieczu",
      "k": "W",
      "p": "dr hab. R. Simiński",
      "r": "s. 073 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 14:15",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-11-26",
@@ -255,8 +280,20 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. A. Makowski, dr hab. R. Skrycki, prof. US",
-     "r": "gab. 130 (IH), gab. 123 (IH)",
+     "p": "prof. dr hab. A. Makowski",
+     "r": "gab. 130 (IH)",
+     "pg": "spec:kpdwzn"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Skrycki, prof. US",
+     "r": "gab. 123 (IH)",
      "pg": "spec:kpdwzn"
     },
     {
@@ -277,11 +314,11 @@
       "08:15",
       "09:45"
      ],
-     "pl": "język niemiecki",
+     "pl": "język niemiecki i MIPPR)",
      "k": "CW",
      "p": "mgr J. Paśnicka-Stopa",
      "r": "s. 144 (WNS)",
-     "n": "zajęcia łączone z BW i MIPPR"
+     "n": "zajęcia łączone z BW"
     },
     {
      "d": 0,
@@ -328,6 +365,7 @@
      "k": "W",
      "p": "dr hab. R. Skrycki, prof. US",
      "r": "s. 073 (IH)",
+     "n": "ostatnie zajęcia 1h do godz.17:45",
      "pg": "spec:muzealnictwo",
      "dates": [
       "2026-10-05",
@@ -384,8 +422,30 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. A. Wątor, dr hab. R. Simiński, dr hab. R. Ptaszyński, prof. US",
-     "r": "gab.124 (IH), gab. 079 (IH), gab. 054 (IH)"
+     "p": "prof. dr hab. A. Wątor",
+     "r": "gab.124 (IH)"
+    },
+    {
+     "d": 2,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Simiński",
+     "r": "gab. 079 (IH)"
+    },
+    {
+     "d": 2,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Ptaszyński, prof. US",
+     "r": "gab. 054 (IH)"
     },
     {
      "d": 2,
@@ -393,11 +453,11 @@
       "11:45",
       "13:15"
      ],
-     "pl": "emisja głosu",
+     "pl": "emisja głosu FP )",
      "k": "CW",
      "p": "prof. dr hab. L. Mariak",
      "r": "al.Piastów 40b, bud. nr 4, s. 219 (WH)",
-     "n": "zajęcia łączone z FG+ FP w terminie: 07.X. - 04.XI",
+     "n": "zajęcia łączone z FG+",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-10-07",
@@ -413,7 +473,7 @@
       "13:45",
       "17:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej (komputerowa) (IH)",
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej (komputerowa)",
      "k": "CW",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s. 145",
@@ -461,10 +521,11 @@
       "13:30",
       "15:00"
      ],
-     "pl": "monograficzny: biografie wybitnych postaci jako przedmiot badań historycznych",
+     "pl": "wykład monograficzny: biografie wybitnych postaci jako przedmiot badań historycznych",
      "k": "W",
      "p": "prof. dr hab. A. Wątor",
      "r": "s. 073 (IH)",
+     "n": "ostatnie zajęcia 1h do godz. 14:15",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-10-08",
@@ -483,10 +544,11 @@
       "13:30",
       "15:00"
      ],
-     "pl": "monograficzny: Niemcy w średniowieczu",
+     "pl": "wykład monograficzny: Niemcy w średniowieczu",
      "k": "W",
      "p": "dr hab. R. Simiński",
      "r": "s. 073 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 14:15",
      "pg": "spec:kpdwzn",
      "dates": [
       "2026-11-26",
@@ -509,8 +571,20 @@
      ],
      "pl": "seminarium dyplomowe",
      "k": "S",
-     "p": "prof. dr hab. A. Makowski, dr hab. R. Skrycki, prof. US",
-     "r": "gab. 130 (IH), gab. 123 (IH)",
+     "p": "prof. dr hab. A. Makowski",
+     "r": "gab. 130 (IH)",
+     "pg": "spec:kpdwzn"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. R. Skrycki, prof. US",
+     "r": "gab. 123 (IH)",
      "pg": "spec:kpdwzn"
     },
     {

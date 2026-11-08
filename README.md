@@ -95,8 +95,10 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   „grupa ćw 2”, „GRUPA 1a”, „specj. transl.”, nagłówek „SPECJALNOŚĆ …”) → `pg` („lab:A”, „ćw:2”, „spec:translatoryczna”).
   Terminy („od 12.10-16.11”, „I poł. sem. do 30 XI”, „terminy: 01, 08 grudnia”, „oprócz 16.11”) → `dates`. Dopiski
   („zajęcia łączone z …”) idą do notki. Opis układu plików w nagłówku skryptu. Pilot: pole `tylkoKierunki` w
-  `config/wydzialy-us.json` (usuń je, żeby importować wszystkie pliki WH). Raport pilota: `docs/wh-pilot.md`
-  (`node scripts/us/wh-pilot.mjs`, 10 losowych zajęć plik ↔ plan, zrzuty w `docs/wh-pilot/`).
+  `config/wydzialy-us.json` (od 8.11.2026 usunięte – importują się wszystkie pliki WH, 85 roczników). Raport pilota: `docs/wh-pilot.md`
+  (`node scripts/us/wh-pilot.mjs`, 10 losowych zajęć plik ↔ plan, zrzuty w `docs/wh-pilot/`), kontrola pozostałych plików:
+  `docs/wh-kontrola.md` (`--bez-pilota --ile 20`). Jedna komórka bywa kilkoma zajęciami (linia kresek, „ / ” między
+  prowadzącymi, dwa „(zajęcia w terminie: …)”) – importer je rozdziela. Lata roczników WH inwentarz bierze z arkuszy pliku.
 - Komunikaty DOS: grupy C i M, numery 1xx–6xx (wszystkie lata i II stopień); rocznik z grupami „M…” bierze sekcję DOS
   Mickiewicza (także z pliku `kierunki/` bez pola `dos`).
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”

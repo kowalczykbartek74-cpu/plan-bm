@@ -1,0 +1,726 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/DiZM-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-15-X-2026.xlsx",
+ "wersja": "2026-10-15",
+ "sha256": "5cdab0cde059df50d2d9b6c6fc4831b7e1025fb6807c75689795265e92008107",
+ "kierunek": "Dziennikarstwo i zarządzanie mediami",
+ "kierunekEn": "Journalism and Media Management",
+ "id": "wh-dizm-2-st-2026",
+ "kod": "dizmm26",
+ "wydzial": "WH",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-08T21:41:31.877Z",
+ "groups": {
+  "DIZM1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "pisarski warsztat dziennikarski od g.",
+     "k": "K",
+     "p": "mgr Robert Jurszo",
+     "r": "s. 17-19 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "statystyka od g.",
+     "k": "LAB",
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "s. 304 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "ekonomia sektora medialnego Cukrowa 8 po w terminach",
+     "k": "CW",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 623",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "nauka o organizacji w Cukrowa",
+     "k": "W",
+     "p": "dr hab. Katarzyna Kozioł-Nadolna, prof. US",
+     "r": "s. 623",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ekonomia sektora medialnego Cukrowa 8 po w terminach",
+     "k": "CW",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 623",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "nauka o organizacji Cukrowa",
+     "k": "K",
+     "p": "dr hab. Katarzyna Kozioł-Nadolna, prof. US",
+     "r": "s. 623",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "elementy zarządzania Cukrowa",
+     "k": "K",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 033",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "ekonomia sektora medialnego w co 2 tygodnie w terminach",
+     "k": "W",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 219 WH",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "propaganda i manipulacja w języku mediów",
+     "k": "CW",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 1 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "laboratorium analityczne informacji i publicystyki Cukrowa",
+     "k": "LAB",
+     "p": "dr Mirosława Rudyk",
+     "r": "s. 928",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "warsztaty cyfrowej humanistyki Cukrowa",
+     "k": "CW",
+     "p": "dr Mirosława Rudyk",
+     "r": "s. 928",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "komunikacja gospodarcza Mickiewicza 64 (WEFiZ) komunikacja gospodarcza K Mickiewicza 64 (WEFiZ)",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 104, s. 104"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "komunikacja gospodarcza K Mickiewicza 64 (WEFiZ) instrumentarium badawcze nauk ekonomicznych K Mickiewicza 64 (WEFiZ)",
+     "k": "K",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 104, s. 104",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dziennikarski warsztat krytyczny",
+     "k": "CW",
+     "p": "dr hab. Sławomir Iwasiów, prof. US",
+     "r": "gab. 412",
+     "pg": "gr:1"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "instrumentarium badawcze mediów (zaj. 20.11 )",
+     "k": "K",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 314 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "pisarski warsztat dziennikarski od g.",
+     "k": "K",
+     "p": "mgr Robert Jurszo",
+     "r": "s. 17-19 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "statystyka od g.",
+     "k": "LAB",
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "s. 304 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "ekonomia sektora medialnego Cukrowa 8 po w terminach",
+     "k": "CW",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 623",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "nauka o organizacji w Cukrowa",
+     "k": "W",
+     "p": "dr hab. Katarzyna Kozioł-Nadolna, prof. US",
+     "r": "s. 623",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ekonomia sektora medialnego Cukrowa 8 po w terminach",
+     "k": "CW",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 623",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "nauka o organizacji Cukrowa",
+     "k": "K",
+     "p": "dr hab. Katarzyna Kozioł-Nadolna, prof. US",
+     "r": "s. 623",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "elementy zarządzania Cukrowa",
+     "k": "K",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 033",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "ekonomia sektora medialnego w co 2 tygodnie w terminach",
+     "k": "W",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 219 WH",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "propaganda i manipulacja w języku mediów",
+     "k": "CW",
+     "p": "dr Rafał Sidorowicz",
+     "r": "s. 1 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "laboratorium analityczne informacji i publicystyki Cukrowa",
+     "k": "LAB",
+     "p": "dr Mirosława Rudyk",
+     "r": "s. 928",
+     "pg": "gr:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "warsztaty cyfrowej humanistyki Cukrowa",
+     "k": "CW",
+     "p": "dr Mirosława Rudyk",
+     "r": "s. 928",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "komunikacja gospodarcza Mickiewicza 64 (WEFiZ) komunikacja gospodarcza K Mickiewicza 64 (WEFiZ)",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 104, s. 104"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "komunikacja gospodarcza K Mickiewicza 64 (WEFiZ) instrumentarium badawcze nauk ekonomicznych K Mickiewicza 64 (WEFiZ)",
+     "k": "K",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 104, s. 104",
+     "pg": "gr:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dziennikarski warsztat krytyczny",
+     "k": "CW",
+     "p": "dr hab. Sławomir Iwasiów, prof. US",
+     "r": "gab. 412",
+     "pg": "gr:1"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "instrumentarium badawcze mediów (zaj. 20.11 )",
+     "k": "K",
+     "p": "dr Krzysztof Flasiński",
+     "r": "s. 314 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

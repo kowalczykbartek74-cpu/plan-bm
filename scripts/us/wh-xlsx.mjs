@@ -37,6 +37,12 @@ export function semestrZKalendarza(plik = "kalendarz.json") {
 // ---------- rocznik arkusza: „HISTORIA 1 rok Ist.”, „FA 1 rok II st.”, „Historia-I-1”, „… 1 rok I stopnia”, „I rok MA” ----------
 export function rocznikArkusza(ark) {
   const teksty = [ark.nazwa, ...Object.entries(ark.komorki).filter(([r]) => adres(r)[1] < 5).map(([, v]) => v)];
+  for (const t of teksty.slice(1)) {   // GC: „Global Communication year I BA/MA”
+    const e = /\byear\s+(I{1,3}|IV|V|\d)\s+(BA|MA)\b/i.exec(t);
+    if (e) return { rok: rzymska(e[1]) || +e[1], stopien: e[2].toUpperCase() === "MA" ? 2 : 1 };
+    const o = /\b(II|I)\s*ST\.?\s*(\d)\s*ROK\b/i.exec(t);   // LDB: „I ST. 2 ROK”
+    if (o) return { rok: +o[2], stopien: o[1].toUpperCase() === "II" ? 2 : 1 };
+  }
   for (const t of teksty) {
     const m = /(\d)\s*rok\s*(II|I)\s*(?:st|stop)/i.exec(t);
     if (m) return { rok: +m[1], stopien: m[2].toUpperCase() === "II" ? 2 : 1 };
@@ -51,13 +57,25 @@ export function rocznikArkusza(ark) {
 const czyGodzina = (h, m) => +h >= 7 && +h <= 21 && ["00", "15", "30", "45"].includes(m);
 // własna godzina zajęć z tekstu: „od 8.15-10.30”, „od godz. 13.15 - 14.45”, „[ 19.00-20.30]”, „19:00–20:30”, „13.30-17.45[5h]”
 export function godzinaZTekstu(t) {
-  for (const m of String(t).matchAll(/(\d{1,2})[:.](\d{2})\s*[-–]\s*(\d{1,2})[:.](\d{2})/g)) {
+  for (const m of String(t).matchAll(/(\d{1,2})[:.](\d{2})\s*(?:[-–]|\s+do\s+)\s*(\d{1,2})[:.](\d{2})/g)) {
     if (czyGodzina(m[1], m[2]) && czyGodzina(m[3], m[4])) {
       const g = godzinyZ(`${m[1]}:${m[2]}-${m[3]}:${m[4]}`);
       if (g) return { time: g, fragment: m[0] };
     }
   }
+  // sam początek: „od godz. 10:45”, „od g. 12:00”, „od 15:30” → koniec z bloku godzin
+  const bez = String(t).replace(/\[[^\]]*\]|\([^()]*\)/g, " ").replace(/(?:pierwsze|ostatnie)\s+zajęcia[^,;]*/gi, " ");
+  const p = /\bod\s+(?:godz\.?|g\.)?\s*(\d{1,2})[:.](\d{2})(?!\s*[-–.]\s*\d)/i.exec(bez);
+  if (p && czyGodzina(p[1], p[2])) return { start: `${p[1].padStart(2, "0")}:${p[2]}`, fragment: p[0] };
   return null;
+}
+// Kilka zajęć w jednej komórce: linia kresek („-------”), „ / ” między dwoma prowadzącymi,
+// albo dwa przedmioty, każdy z własnym „(zajęcia w terminie: …)” (FP: średniowiecze, potem renesans)
+export function czesciKomorki(v) {
+  let czesci = String(v).split(/\s*-{5,}\s*/);
+  czesci = czesci.flatMap((c) => { const q = c.split(/\s+\/\s+/); return q.length > 1 && q.every((x) => new RegExp(OSOBA_RE.source).test(x)) ? q : [c]; });
+  czesci = czesci.flatMap((c) => c.split(/(?<=\((?:zajęcia\s+)?w\s+terminie:?[^)]*\))\s+(?=[^()]*\d+\s*h\b)/i));
+  return czesci.map((c) => c.replace(/\.{2,}/g, ".").replace(/\bprof,\s*US\b/g, "prof. US").trim()).filter((c) => c.length > 3);
 }
 // „12.10”, „16.11..2026”, „30.11.26”, „5.X”, „30 XI”, „02 XII” → [m, d, rok|null]; null, gdy to nie data
 function data(s) {
@@ -87,12 +105,14 @@ export function datyZTekstu(t, d, sem, startRoku = 2026) {
     daty = [];
     for (const m of zakresy) {
       const b = data(m[2]), a = data(m[1]);
-      const ai = naIso(a), bi = naIso(b);
+      const ai = naIso(a);
+      let bi = naIso(b);
+      if (ai > bi && b[2]) bi = naIso([b[0], b[1], null]);   // „od 1.12.- 26.01.2026” (literówka roku) → 26.01 następnego roku
       if (ai > bi) continue;
       daty.push(...tydzien(ai, bi)); fragmenty.push(m[0]);
     }
   } else {
-    const od = new RegExp(String.raw`\bod\s+(${DATA_RE})`, "i").exec(tekst), dO = new RegExp(String.raw`\bdo\s+(${DATA_RE})`, "i").exec(tekst);
+    const od = new RegExp(String.raw`\bod\s+(?:dnia\s+)?(${DATA_RE})`, "i").exec(tekst), dO = new RegExp(String.raw`\bdo\s+(?:dnia\s+)?(${DATA_RE})`, "i").exec(tekst);
     const a = od && data(od[1]), b = dO && data(dO[1]);
     if (a || b) { daty = tydzien(a ? naIso(a) : sem.od, b ? naIso(b) : sem.do); fragmenty.push(...[od?.[0], dO?.[0]].filter(Boolean)); }
   }
@@ -121,21 +141,28 @@ export function datyZTekstu(t, d, sem, startRoku = 2026) {
 // ---------- tekst komórki: grupa, rodzaj, prowadzący, sala, przedmiot ----------
 const TYTUL = String.raw`(?:prof\.\s*(?:dr\s*)?(?:hab\.?\s*)?|dr\s+hab\.?\s*|dr\s*inż\.?\s*|dr\.?\s+|mgr\s*inż\.?\s*|mgr\.?\s+)`;
 const OSOBA_RE = new RegExp(String.raw`${TYTUL}(?:(?!(?:WNŚiP|WH|IH|WKFiZ|PNJA|ACKJ|Aula)\b)[A-ZŁŚŻŹĆŃÓ][\wąćęłńóśźżĄĆĘŁŃÓŚŹŻ'.-]*\.?\s*(?:-\s*)?){1,4}(?:,\s*prof\.?\s*US)?`, "g");
-const SALA_RE = /(?:al\.\s*Piastów\s*\d+[a-z]?\s*,?\s*(?:bud\.\s*(?:nr\s*)?\d+\s*,?\s*)?)?(?:(?:ul\.\s*)?(?:Wielkopolska|Wielkopolskiej|Krakowska)\s*\d*[-\d]*\s*,?\s*)?(?:\(?WNŚiP\)?\s*,?\s*)?(?:Aula[^,;]*|\bgab\.\s*\d+[A-Za-z]*(?:\s*\((?:IH|[A-ZŚ]{1,6})\))?|\bs(?:ala|\.)\s*\.?\s*[A-Z]?\d+(?:-\d+)?[A-Za-z0-9/*]*(?:\s*\((?:IH|[A-ZŚ]{1,6})\))?(?:\s*,?\s*bud\.\s*\d+\s*[A-Za-zŚ]*)?(?:\s*WH\b)?)/gi;
+const SALA_RE = /(?:Kampus\s+Piastów\s*(?:WH)?\s*,?\s*(?:bud\.\s*\d+\s*,?\s*)?)?(?:al\.\s*Piastów\s*\d+[a-z]?\s*,?\s*(?:bud\.\s*(?:nr\s*)?\d+\s*,?\s*)?)?(?:(?:ul\.?\s*)?(?:Wielkopolska|Wielkopolskiej|Krakowska)\s*\d*[-\d]*(?:\s*-\s*WNŚiP)?\s*,?\s*)?(?:\(?WNŚiP\)?\s*,?\s*)?(?:Aula[^,;]*|\broom\s+\d+[A-Za-z]*(?:\s*WH\b)?|\bgabinet\s+\d+(?:\s*,?\s*bud\.\s*\d+(?:\s*(?:WH|Wh|WKFiZ|WNS)\b)?)?|\bgab\.\s*\d+[A-Za-z]*(?:\s*\((?:IH|[A-ZŚ]{1,6})\))?|\bs(?:ala|\.)\s*\.?\s*[A-Z]?\d+(?:-\d+)?[A-Za-z0-9/*]*(?:\s*\((?:IH|[A-ZŚ]{1,6})\))?(?:\.?\s*,?\s*(?:WH\s*)?bud\.\s*\d+(?:\s*(?:WH|Wh|WKFiZ|WNS)\b)?)?(?:\s*WH\b)?)/gi;
 const SPEC = { transl: "translatoryczna", naucz: "nauczycielska" };
 export function grupaZTekstu(t) {
   const s = String(t);
   // specjalność: „specj. transl. gr specj. 1”, „specj. naucz. FA +FRzJO” → spec:translatoryczna 1 / spec:nauczycielska
   const sp = /specj\.?\s*(transl|naucz)\w*\.?(?:\s*gr\.?\s*specj\.?\s*(\d))?(?:\s*FA\s*\+\s*[A-Za-z]+)?/i.exec(s);
   if (sp) return { pg: "spec:" + SPEC[sp[1].toLowerCase()] + (sp[2] ? " " + sp[2] : ""), fragment: sp[0] };
+  // „(specjalność język niemiecki w gospodarce i biznesie)”, „specjalność: kształcenie przygotowujące do zawodu nauczyciela”
+  const sn = /\(\s*specjalność:?\s*([^()]*?nauczyciel\w*|[^()]+?)\s*\)|specjalność:?\s*kształcenie przygotowujące do (?:wykonywania )?zawodu nauczyciela/i.exec(s);
+  if (sn) { const n = /nauczyciel/i.test(sn[0]) ? "nauczycielska" : sn[1].trim().toLowerCase(); return { pg: "spec:" + n, fragment: sn[0] }; }
   let m = /\bgr(?:upa)?\.?\s*lab\.?\s*([A-Z0-9]{1,2})\b/i.exec(s) || /\blab\.?\s+([A-H])\b/.exec(s); if (m) return { pg: "lab:" + m[1].toUpperCase(), fragment: m[0] };
   m = /\bgr(?:upa)?\.?\s*ćw\.?\s*(\d{1,2})\b/i.exec(s); if (m) return { pg: "ćw:" + m[1], fragment: m[0] };
-  m = /\bGRUPA\s+(\d{1,2}[a-z]?)\b/i.exec(s) || /\bgr\.?\s*(\d{1,2}[a-z]?)(?:\s*IT)?\b/i.exec(s) || /\b(\d{1,2})\s*gr\b/i.exec(s);
+  m = /\bGRUPA\s+(\d{1,2}[a-z]?)\b/i.exec(s) || /\b(\d)\s*grupa\b/i.exec(s) || /\bgr\.?\s*(\d{1,2}[a-z]?)(?:\s*IT)?\b/i.exec(s) || /\b(\d{1,2})\s*gr\b/i.exec(s);
   if (m) return { pg: "gr:" + m[1], fragment: m[0] };
   return null;
 }
 export function rodzajZTekstu(t) {
   const s = " " + String(t) + " ";
+  // rodzaj przy liczbie godzin: „15h ć”, „30h W”, „W-25h”, „lb - 15h”, „ć- 30h”, „15w”, „30 w”, „15k”, „15 h LB”
+  const przyGodz = /\d+\s*h\s*(ćw|ć|w|k|lb|lab|lk|s)(?![\p{L}])|(?<![\p{L}])(ćw|ć|w|k|lb|lab|lk|s)\s*[-–]\s*\d+\s*h|(?<![\p{L}\d])\d+\s?(w|k|ć|lb|W|LB)(?![\p{L}])(?!\s*[.:]?\d)/iu.exec(s);
+  if (przyGodz) { const x = (przyGodz[1] || przyGodz[2] || przyGodz[3]).toLowerCase(); return { w: "W", k: "K", s: "S", lb: "LAB", lab: "LAB" }[x] || "CW"; }
+  if (/\blecture\b/i.test(s)) return "W";
   if (/\(w\)|\bwykład|\bW\s*-\s*\d|\sw\s*-?\s*\d+\s*h|\sw\s+\d+\s*h/i.test(s) && !/\(ć\)|\(lk\)/.test(s)) return "W";
   if (/\(lk\)|\blk\b|lektorat/i.test(s)) return "CW";
   if (/\(k\)|konwersator/i.test(s)) return "K";
@@ -147,10 +174,11 @@ export function rodzajZTekstu(t) {
 }
 export function rozbierz(tekst) {
   // „dr E, Kopaczewska” (literówka w pliku) → „dr E. Kopaczewska”
-  let s = String(tekst).replace(/\s+/g, " ").trim().replace(/\b((?:dr|mgr|prof\.)\s+[A-ZŁŚŻ]),\s+([A-ZŁŚŻŹĆ][a-ząćęłńóśźż])/g, "$1. $2");
+  let s = String(tekst).replace(/\s+/g, " ").trim().replace(/\.{2,}/g, ".").replace(/\bprof,\s*US\b/g, "prof. US").replace(/\b((?:dr|mgr|prof\.)\s+[A-ZŁŚŻ]),\s+([A-ZŁŚŻŹĆ][a-ząćęłńóśźż])/g, "$1. $2");
   const wyciete = [], uwagi = [];
   // dopiski w nawiasach: „(w dniach 01.XII. i 08.XII. zajęcia w godz. 12:00-13:30)”, „(zajęcia łączone z FG+FP)” → notka
-  s = s.replace(/\(([^()]*(?:w dniach|łączon|zgodnie z|wyborem|ostatnie zajęcia|pierwsze zajęcia)[^()]*)\)/gi, (x, w) => { if (!/poł\.?\s*sem/i.test(w)) uwagi.push(w.trim()); return /poł\.?\s*sem/i.test(w) ? x : " "; });
+  s = s.replace(/(?:ostatnie|pierwsze)\s+zajęcia\s+\d\s*h\s*[-–]?\s*(?:do|od)\s+godz\w*\.?\s*\d{1,2}[:.]\d{2}|kod do teams:?\s*\S+|\(?\s*e-learning:?\s*\)?|\bvacat\b.*$|(?:zajęcia\s+)?ł[aą]czone z\s+\S+(?:\s*\+\s*\S+)*/gi, (x) => { uwagi.push(x.replace(/[()]/g, "").trim()); return " "; });
+  s = s.replace(/\(([^()]*(?:w dniach|łączon|zgodnie z|wyborem|ostatnie zajęcia|pierwsze zajęcia|e-zajęć|stacjonarnie)[^()]*)\)/gi, (x, w) => { if (!/poł\.?\s*sem/i.test(w)) uwagi.push(w.trim()); return /poł\.?\s*sem/i.test(w) ? x : " "; });
   const wytnij = (re) => { s = s.replace(re, (x) => { wyciete.push(x); return " "; }); };
   const osoby = [...s.matchAll(OSOBA_RE)].map((m) => m[0].replace(/[\s,.-]+$/, "").trim());
   wytnij(OSOBA_RE);
@@ -169,10 +197,14 @@ export function przedmiot(reszta, wyciac = []) {
     .replace(/zajęcia\s+(?:w\s+\d\s+połowie\s+semestru|od\s+godz\.?|w dniach:?|dla całego roku)/gi, " ")
     .replace(/\bw\s+\d\s+połowie\s+semestru\b/gi, " ")
     .replace(/\b(?:terminy|zajęcia)\s*:?/gi, " ")
-    .replace(/\bwykład\b|\bI{1,3}\s+rok(?:\s+MA)?\b|\b\d\s*rok\b/gi, " ")
+    .replace(/\bwykład\b(?!\s+monograf)|\bI{1,3}\s+rok(?:\s+MA)?\b|\b\d\s*rok\b/gi, " ")
     .replace(/\((?:ćw|w|lab|lb)\s*\d+\s*(?:h|hr|godz)\.?\)|\(\s*\d+\s*(?:h|hr|godz)\.?\s*\)/gi, " ")
     .replace(/\(\s*\d+\s*h?r?\s*\)|[-–]?\s*\b\d+\s*h\b|\(\s*\d+\s*\)/gi, " ")
-    .replace(/\b(?:I|II)\s*poł\.?\s*sem\.?|\bprowadzący\b|\bw\s+terminie\b|\bterminie\b/gi, " ")
+    .replace(/\b(?:I|II)\s*poł\.?\s*sem\.?|\b(?:I|II|1|2)\s*połowa\s+semestru(?:\s+od\s+dnia)?|\bprowadzący\b|\bw\s+terminie:?|\bterminie:?|\bw\s+godzinach\b|\bod\s+(?:godz\.|g\.)\s*\d{1,2}[:.]\d{2}|\(\s*do\s+g\.?\s*\d{1,2}[:.]\d{2}\s*\)|\(\s*\d+h\s+do\s+g\.?\s*\d{1,2}[:.]\d{2}\s*\)/gi, " ")
+    .replace(/\b(?:I{1,3}|IV|\d)\s+(?:GC|BA|MA)\b|\(\s*lecture,?\s*\d+\s*hrs?\s*\)\s*:?|\(\s*\d+\s*hrs?\s*\)|\blecture\b/gi, " ")
+    .replace(/(?<![\p{L}\d])\d+\s*h\s*(?:ćw|ć|w|W|k|lb|LB|lab|lk|s)(?![\p{L}])|(?<![\p{L}\d])\d+\s?(?:w|k|ć|W|lb|LB)(?![\p{L}])(?!\s*[.:]?\d)|(?<![\p{L}])(?:ćw|ć|k|lb|LB|lab|w|W)\s*[-–]\s*\d+\s*-?\s*h(?![\p{L}])/gu, " ")
+    .replace(/,\s*\d{1,3}\s*(?=,)|\s\d{1,3}\s*$|(?<![\p{L}])(?:w|ć|k)\s*$|\(\s*\d+\s*h?\s*z\s+\d+\s*\w*\s*(?:stacjonarnie)?\s*,?/gu, " ")
+    .replace(/\bIFiK\b|\bIH\b|\bWNŚIP\b|\(\s*(?:FG|FP|FA|Hist|HIST|FRzJOdw|FRzJOdW|GPWSN|PGWSN|KK|FILO|ARCH|MiC|SM|DiKS|ITA|FH|FN)(?:\s*\+\s*\w+)+\s*\)|\(\s*\d{1,2}\.\d{1,2}\s+do\s+(?:godz\.?\s*)?\d{1,2}[.:]\d{2}\s*\)/g, " ")
     .replace(/\((?:w|ć|ćw|lk|k|s|lab|lb)\)/gi, " ")
     .replace(/(?:^|\s)(?:lb|ćw|lk)\s*(?=[-–]|\s|$)/g, " ")
     .replace(/(?:^|\s)[Ww]\s*(?=[-–]\s*\d|\d+\s*h)/g, " ")
@@ -180,12 +212,16 @@ export function przedmiot(reszta, wyciac = []) {
     .replace(/[-–]?\s*dla wszystkich\b|\bZAJĘCIA\b|\bgodz\.(?=\s|$)/gi, " ")
     .replace(/\b(?:FA|FG|FH|FP|FN|FRzJO\w*|FRoszDJO|FGzJA|FGzDJO|ARCH|MiC|PGWSN|DiKS)(?:\s*GR\s*\d)?(?:\s*\+\s*[A-Za-z]+(?:\s*GR\s*\d)?)+/g, " ")
     .replace(/\b(?:od|do|oprócz)\b\s*(?=[,.;-]|\s*$)/gi, " ")
-    .replace(/\bodrabianie\b|\bTYLKO\b|(?:^|\s)r\.(?=\s|$)|\b20\d\d\s*r\.?(?=\s|$)/g, " ")
+    .replace(/\bodrabianie\b|\bTYLKO\b|(?:^|\s)r\.(?=[\s,]|$)|\bw dniach:?(?=\s*[,.]|\s*$)|\b20\d\d\s*r\.?(?=\s|$)/g, " ")
     .replace(/(?:^|\s)(?:WNŚiP|WH|WKFiZ)(?=[\s,]|$)/g, " ")
     .replace(/\(\s*(?:w\s+)?(?:terminach|dniach)?\s*:?\s*\)/gi, " ")
     .replace(/\(\s*\)|\s+[,;:*]+(?=\s|$)|^[\s,;:*–-]+|\s[-–]\s*(?=[-–])/g, " ")
     .replace(/(?:\s*\/\s*)+(?=\s|$)|^\s*\/+/g, " ")
     .replace(/\s+-\s+/g, " – ")
+    .replace(/(?<![\p{L}])(?:zaj[eę]cia|W)(?![\p{L}.])/gu, " ")
+    .replace(/\bul\.?\s*(?:Wielkopolsk\w*|Krakowsk\w*)\s*[\d-]*(?:\s*-\s*WNŚiP)?/g, " ")
+    .replace(/(?<=\s|^)(?:ć|ćw|k|lb|LB)(?=\s|$)/gu, " ")
+    .replace(/\(\s*(?=[^)]*$)|\(\s*[–-]?\s*\)|\s\(\s*(?=\s|$)/g, " ")
     .replace(/\s{2,}/g, " ").trim()
     .replace(/^[,;:.\-–*\s]+|[,;:\-–*\s]+$/g, "");
   return s;
@@ -204,11 +240,16 @@ export function arkuszNaZajecia(ark, { sem = semestrZKalendarza(), startRoku = 2
     if (h.d == null || pasy.some((p) => p.d === h.d)) continue;
     // kolumna godzin: najwięcej komórek „08:15 - …” w pasie
     const kol = new Map();
-    for (const [r, v] of Object.entries(ark.komorki)) { const [c] = adres(r); if (c >= h.c0 && c <= h.c1 && GODZINY_RE.test(v)) kol.set(c, (kol.get(c) || 0) + 1); }
-    const ck = [...kol.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
+    // tylko krótkie komórki („08:15 - 09:00 09:00 - 9:45”); zajęcia też bywają zapisane od godziny („15:30-17:00 język francuski…”)
+    const czyBlok = (v) => GODZINY_RE.test(v) && v.length < 40;
+    for (const [r, v] of Object.entries(ark.komorki)) { const [c] = adres(r); if (c >= h.c0 && c <= h.c1 && czyBlok(v)) kol.set(c, (kol.get(c) || 0) + 1); }
+    let ck = [...kol.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
+    // DiKS 3: nagłówek dnia zaczyna się kolumnę za godzinami
+    if (ck == null && h.c0 > 0 && Object.entries(ark.komorki).filter(([r, v]) => adres(r)[0] === h.c0 - 1 && czyBlok(v)).length >= 3) { ck = h.c0 - 1; h.c0 = ck; }
     if (ck == null) { ostrzezenia.push(`${ark.nazwa}: dzień ${h.d} bez kolumny godzin`); continue; }
-    const bloki = Object.entries(ark.komorki).filter(([r, v]) => adres(r)[0] === ck && GODZINY_RE.test(v)).map(([r, v]) => { const z = zakres(r); return { r0: z[1], r1: z[3], time: godzinyZ(v) }; })
+    const bloki = Object.entries(ark.komorki).filter(([r, v]) => adres(r)[0] === ck && czyBlok(v)).map(([r, v]) => { const z = zakres(r); return { r0: z[1], r1: z[3], time: godzinyZ(v) }; })
       .filter((b) => b.time).sort((a, b) => a.r0 - b.r0);
+    if (!bloki.length) { ostrzezenia.push(`${ark.nazwa}: dzień ${h.d} bez godzin`); continue; }
     pasy.push({ ...h, ck, bloki });
   }
   if (!pasy.length) return { wpisy: [], ostrzezenia: [`${ark.nazwa}: brak nagłówków dni`] };
@@ -228,7 +269,16 @@ export function arkuszNaZajecia(ark, { sem = semestrZKalendarza(), startRoku = 2
     return g;
   };
   // 3) komórki zajęć; „SPECJALNOŚĆ X” w siatce = nagłówek specjalności dla komórek pod nim (te same kolumny)
-  const SPEC_RE = /^SPECJALNOŚĆ\s+(.+)$/i;
+  // nagłówek specjalności: „SPECJALNOŚĆ ARCHIWISTYCZNA” (wielkie litery, bez prowadzącego i godzin) – nie zajęcia
+  const SPEC_RE = /^SPECJALNOŚĆ\s+(?!.*\b(?:dr|mgr|prof)\b)(?!.*\d+\s*h\b)(.{2,50})$/;
+  // „specjalność dziennikarstwo internetowe teoria blogu 10h w dr …” (DiKS): nazwa specjalności = wspólny początek takich komórek
+  const zSpec = Object.values(ark.komorki).map((v) => /^specjalność\s+(?![:(])(.+)$/i.exec(v)?.[1]).filter(Boolean).map((v) => v.split(/\s+/));
+  const nazwySpec = [...new Set(zSpec.map((w) => w[0].toLowerCase()))].map((p0) => {
+    const g = zSpec.filter((w) => w[0].toLowerCase() === p0);
+    if (g.length < 2) return null;
+    let n = 0; while (g.every((w) => w[n] && w[n].toLowerCase() === g[0][n].toLowerCase())) n++;
+    return n ? g[0].slice(0, n).join(" ").toLowerCase() : null;
+  }).filter(Boolean);
   const specy = Object.entries(ark.komorki).filter(([, v]) => SPEC_RE.test(v)).map(([ref, v]) => { const z = zakres(ref); return { nazwa: SPEC_RE.exec(v)[1].trim(), c0: z[0], c1: z[2], r: z[3] }; });
   const specDla = (z) => specy.filter((h) => h.r < z[1] && z[0] >= h.c0 && z[2] <= h.c1).sort((a, b) => b.r - a.r)[0];
   const wpisy = [];
@@ -242,10 +292,13 @@ export function arkuszNaZajecia(ark, { sem = semestrZKalendarza(), startRoku = 2
       const z = zakres(ref);
       const b0 = p.bloki.find((b) => r >= b.r0 && r <= b.r1), b1 = p.bloki.find((b) => z[3] >= b.r0 && z[3] <= b.r1) || ostatni;
       if (!b0) continue;
-      const gt = godzinaZTekstu(v);
-      const time = gt ? gt.time : [b0.time[0], b1.time[1]];
-      const gr = grupaZTekstu(v);
-      const k = rodzajZTekstu(v);
+      const czesci = czesciKomorki(v), zKomorki = [];
+      for (const t of czesci) {
+      const gt = godzinaZTekstu(t);
+      const time = gt?.time || (gt?.start ? [gt.start, b1.time[1]] : [b0.time[0], b1.time[1]]);
+      const sw = nazwySpec.find((n) => t.toLowerCase().startsWith("specjalność " + n));
+      const gr = sw ? { pg: "spec:" + sw, fragment: t.slice(0, ("specjalność " + sw).length) } : grupaZTekstu(t);
+      const k = rodzajZTekstu(t);
       // grupy z kolumn: komórka na jedną grupę z nagłówka → ta grupa; na kilka albo na cały pas (albo wykład) → cały rok
       let pgi = gr ? [gr.pg] : [];
       const sp = !gr && specDla(zakres(ref));
@@ -257,18 +310,28 @@ export function arkuszNaZajecia(ark, { sem = semestrZKalendarza(), startRoku = 2
         else if (pasujace.length === 0) { const w = grupy.filter((g) => z[0] >= g.c0 && z[2] <= g.c1); if (w.length) pgi = [w.sort((a, b) => b.r - a.r)[0].pg]; }
         else if (kolTresci.length && pasujace.length && new Set(pasujace.map((g) => g.pg.split(":")[0])).size === 1 && pasujace.length < grupy.filter((g) => g.pg.split(":")[0] === pasujace[0].pg.split(":")[0]).length) pgi = pasujace.map((g) => g.pg);
       }
-      const dt = datyZTekstu(v, p.d, sem, startRoku);
-      const { osoby, sale, reszta, uwagi } = rozbierz(v);
+      const dt = datyZTekstu(t, p.d, sem, startRoku);
+      const { osoby, sale, reszta, uwagi } = rozbierz(t);
       // przy specjalności grupa z tekstu („gr lab 3”) zostaje w nazwie, w nawiasie na końcu
-      const grSpec = gr && gr.pg.startsWith("spec:") ? /\bgr(?:upa)?\.?\s*(?:lab|ćw)\.?\s*[A-Z0-9]{1,2}\b|\blab\.?\s+\d\b/i.exec(v)?.[0] : null;
+      const grSpec = gr && gr.pg.startsWith("spec:") ? /\bgr(?:upa)?\.?\s*(?:lab|ćw)\.?\s*[A-Z0-9]{1,2}\b|\blab\.?\s+\d\b/i.exec(t)?.[0] : null;
       let pl = przedmiot(reszta, [gt?.fragment, gr?.fragment, grSpec, ...dt.fragmenty]);
       if (grSpec && pl) pl += ` (${grSpec.replace(/^grupa/i, "gr").trim()})`;
       const sala = sale.join(", ").replace(/\(\s*(WNŚiP)\s*\)/g, "$1").replace(/\bsala\s+/gi, "s. ").replace(/\s+,/g, ",").replace(/,\s*,/g, ",").trim();
-      const e = { d: p.d, time, pl: pl || v.slice(0, 80), k, p: osoby.join(", "), r: sala };
-      if (dt.niejasne) e.n = v.length > 160 ? v.slice(0, 157) + "…" : v;
-      else if (uwagi.length || /odrabian/i.test(v)) e.n = [/odrabian/i.test(v) ? "odrabianie" : "", ...uwagi].filter(Boolean).join("; ");
-      if (!pl) ostrzezenia.push(`${ark.nazwa} ${ref}: nie odczytałem nazwy przedmiotu`);
-      for (const pg of pgi.length ? pgi : [null]) wpisy.push({ ...e, ...(pg ? { pg } : {}), daty: dt.daty, komorka: ref, tekst: v });
+      const e = { d: p.d, time, pl: pl || t.slice(0, 80), k, p: osoby.join(", "), r: sala };
+      if (dt.niejasne) e.n = t.length > 160 ? t.slice(0, 157) + "…" : t;
+      else if (uwagi.length || /odrabian/i.test(t)) e.n = [/odrabian/i.test(t) ? "odrabianie" : "", ...uwagi].filter(Boolean).join("; ");
+      zKomorki.push({ e, pgi, daty: dt.daty, bezNazwy: !pl, wlasnyCzas: !!gt });
+      }
+      // części jednej komórki bez prowadzącego/sali biorą je z sąsiedniej części (wspólny prowadzący na końcu komórki),
+      // a bez nazwy – nazwę, rodzaj i terminy z pierwszej części („seminarium dyplomowe (s) dr A gab. 1 / dr B gab. 2”)
+      const wzor = zKomorki.find((y) => !y.bezNazwy);
+      for (const x of zKomorki) {
+        if (x.bezNazwy && wzor) { if (!x.wlasnyCzas && wzor.wlasnyCzas) x.e.time = wzor.e.time; x.e.pl = wzor.e.pl; if (x.e.k === "X") x.e.k = wzor.e.k; x.daty = x.daty || wzor.daty; if (!x.pgi.length) x.pgi = wzor.pgi; x.bezNazwy = false; }
+        if (x.bezNazwy) ostrzezenia.push(`${ark.nazwa} ${ref}: nie odczytałem nazwy przedmiotu`);
+        if (!x.e.p) x.e.p = zKomorki.find((y) => y.e.p)?.e.p || "";
+        if (!x.e.r) x.e.r = zKomorki.find((y) => y.e.r)?.e.r || "";
+        for (const pg of x.pgi.length ? x.pgi : [null]) wpisy.push({ ...x.e, ...(pg ? { pg } : {}), daty: x.daty, komorka: ref, tekst: v });
+      }
     }
   }
   return { wpisy, ostrzezenia };
@@ -279,6 +342,7 @@ export function plikNaRoczniki(buf, zrodlo, kierunki, { sem, startRoku = 2026 } 
   const ark = xlsxArkuszeDane(buf);
   const out = [], ostrzezenia = [];
   for (const a of ark) {
+    if (!Object.keys(a.komorki).length) continue;   // pusty „Arkusz1”
     const rr = rocznikArkusza(a);
     if (!rr) { ostrzezenia.push(`${a.nazwa}: nie rozpoznaję roku i stopnia`); continue; }
     // kierunek: skrót z nazwy pliku dla tego stopnia (plik „FRZJOdW I st. i FROM II st.” ma dwa)
