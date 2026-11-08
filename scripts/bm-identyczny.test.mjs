@@ -30,7 +30,7 @@ test("plan.json i index.html BM: stary i nowy kod dają ten sam wynik", { skip: 
     const d = fs.mkdtempSync(path.join(os.tmpdir(), stary ? "bm-stary-" : "bm-nowy-"));
     fs.mkdirSync(path.join(d, "scripts"));
     if (stary) execFileSync("sh", ["-c", `git archive ${REF} scripts | tar -x -C "${d}"`]);
-    else for (const f of fs.readdirSync("scripts")) fs.copyFileSync(path.join("scripts", f), path.join(d, "scripts", f));
+    else fs.cpSync("scripts", path.join(d, "scripts"), { recursive: true }); // także podkatalogi (scripts/us, scripts/fixtures)
     for (const f of ["plan.json", "index.html"]) fs.copyFileSync(f, path.join(d, f));
     return new Promise((res, rej) => {
       import("node:child_process").then(({ execFile }) => execFile(process.execPath, ["scripts/update-plan.mjs", "--import-file", pusty],

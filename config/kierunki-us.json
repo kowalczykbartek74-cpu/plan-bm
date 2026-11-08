@@ -1,0 +1,4930 @@
+{
+ "opis": "Wygenerowane: node scripts/us/inwentarz.mjs. Oficjalna lista kierunków US (oferta 2026/27 + kierunki ze stron planów), kody z nazw plików/źródeł, id roczników <wydział>-<kod>-<stopień>-<tryb>-<nabór> (stopień 0 = jednolite). Nazwy EN: config/nazwy-en.json.",
+ "wygenerowano": "2026-11-08",
+ "wydzialy": {
+  "wefiz": {
+   "skrot": "WEFiZ",
+   "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+   "kierunki": [
+    {
+     "kod": "AF",
+     "pl": "Audyt finansowy",
+     "en": "Financial Audit",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "AF"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/audyt-finansowy/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „AF” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "BIWG",
+     "pl": "Business Intelligence w gospodarce",
+     "en": "Business Intelligence in Economy",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "BIwG"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/business-intelligence-w-gospodarce/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „BIWG” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-biwg-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "BM",
+     "pl": "Business Management",
+     "en": "Business Management",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "BM"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/business-management/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „BM” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-bm-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "DS",
+     "pl": "Data Science",
+     "en": "Data Science",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "DS"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/data-science/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „DS” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "EAIA",
+     "pl": "Economics and IT Applications",
+     "en": "Economics and IT Applications",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "EaIA"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/economics-and-it-applications/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „EAIA” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-eaia-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "EK",
+     "pl": "Ekonomia",
+     "en": "Economics",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "Ek"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/ekonomia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „EK” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-ek-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "EP",
+     "pl": "Ekonomiczno-prawny",
+     "en": "Economics and Law",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "E-P"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/ekonomiczno-prawny/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „EP” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ: 1. rok I st. bez planu",
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "FIR",
+     "pl": "Finanse i rachunkowość",
+     "en": "Finance and Accounting",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "FiR"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/finanse-i-rachunkowosc/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FIR” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-fir-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "GN",
+     "pl": "Gospodarka nieruchomościami",
+     "en": "Real Estate Management",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "GN"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/gospodarka-nieruchomosciami/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „GN” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-gn-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "GPI",
+     "pl": "Gospodarka przestrzenna",
+     "en": "Spatial Management",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "GPi"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/gospodarka-przestrzenna/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „GPI” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-gpi-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "GE",
+     "pl": "Green Economy - zielona gospodarka",
+     "en": "Green Economy",
+     "stopnie": [],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "GE"
+     ],
+     "wOfercie": false,
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „GE” ze źródła",
+     "uwagi": [
+      "nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27)",
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "IIE",
+     "pl": "Informatyka i ekonometria",
+     "en": "Computer Science and Econometrics",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "IiE"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/informatyka-i-ekonometria/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „IIE” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-iie-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "IWB",
+     "pl": "Informatyka w biznesie",
+     "en": "IT in Business",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "IwB"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/informatyka-w-biznesie/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „IWB” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-iwb-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "KIPB",
+     "pl": "Komunikacja i psychologia w biznesie",
+     "en": "Communication and Psychology in Business",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "KiPB"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/komunikacja-i-psychologia-w-biznesie/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „KIPB” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-kipb-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "LOG",
+     "pl": "Logistyka",
+     "en": "Logistics",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "L"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/logistyka/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „LOG” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-log-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "LI",
+     "pl": "Logistyka inż.",
+     "en": "Logistics (Eng.)",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "Li"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/logistyka-2/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „LI” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-li-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "MKT",
+     "pl": "Marketing",
+     "en": "Marketing",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "M"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/marketing/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „MKT” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "MBT",
+     "pl": "Międzynarodowy biznes turystyczny",
+     "en": "International Tourism Business",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "MBT"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/miedzynarodowy-biznes-turystyczny/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „MBT” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "PII",
+     "pl": "Przedsiębiorczość i inwestycje",
+     "en": "Entrepreneurship and Investments",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "PiI"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/przedsiebiorczosc-i-inwestycje/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „PII” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-pii-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "RN",
+     "pl": "Rynek nieruchomości",
+     "en": "Real Estate Market",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "RN"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/rynek-nieruchomosci/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „RN” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "TIR",
+     "pl": "Turystyka i rekreacja",
+     "en": "Tourism and Recreation",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "TiR"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/turystyka-i-rekreacja/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „TIR” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-tir-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "ZARZ",
+     "pl": "Zarządzanie",
+     "en": "Management",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "Z"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/zarzadzanie/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „ZARZ” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-zarz-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "ZLOZ",
+     "pl": "Zarządzanie logistyczne w ochronie zdrowia",
+     "en": "Logistics Management in Healthcare",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "ZLOZ"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/zarzadzanie-logistyczne-w-ochronie-zdrowia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „ZLOZ” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-zloz-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "ZOZE",
+     "pl": "Zarządzanie odnawialnymi źródłami energii",
+     "en": "Renewable Energy Management",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "ZOZE"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/zarzadzanie-odnawialnymi-zrodlami-energii/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „ZOZE” ze źródła",
+     "uwagi": [
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-zoze-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+       "nabor": 2026
+      }
+     ]
+    }
+   ]
+  },
+  "wkfiz": {
+   "skrot": "WKFiZ",
+   "pl": "Wydział Kultury Fizycznej i Zdrowia",
+   "kierunki": [
+    {
+     "kod": "DS",
+     "pl": "Diagnostyka sportowa",
+     "en": "Sports Diagnostics",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "DS"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/diagnostyka-sportowa/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „DS” ze źródła",
+     "uwagi": [
+      "skrót DS = inicjały nazwy z oferty (aplikacja nie podaje pełnej nazwy)"
+     ],
+     "roczniki": [
+      {
+       "id": "wkfiz-ds-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-ds-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2025
+      },
+      {
+       "id": "wkfiz-ds-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2024
+      },
+      {
+       "id": "wkfiz-ds-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-ds-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "MWS",
+     "pl": "Management w sporcie",
+     "en": "Sports Management",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "MwS"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/management-w-sporcie/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „MwS” ze źródła",
+     "uwagi": [
+      "skrót MwS = inicjały nazwy z oferty (aplikacja nie podaje pełnej nazwy)"
+     ],
+     "roczniki": [
+      {
+       "id": "wkfiz-mws-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-mws-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2025
+      },
+      {
+       "id": "wkfiz-mws-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "WF",
+     "pl": "Wychowanie fizyczne",
+     "en": "Physical Education",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "WF"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/wychowanie-fizyczne/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „WF” ze źródła",
+     "uwagi": [
+      "skrót WF = inicjały nazwy z oferty (aplikacja nie podaje pełnej nazwy)"
+     ],
+     "roczniki": [
+      {
+       "id": "wkfiz-wf-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%201%20rok%20I%20stopie%C5%84",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-wf-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%202%20rok%20I%20stopie%C5%84",
+       "nabor": 2025
+      },
+      {
+       "id": "wkfiz-wf-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%203%20rok%20I%20stopie%C5%84",
+       "nabor": 2024
+      },
+      {
+       "id": "wkfiz-wf-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-wf-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2025
+      },
+      {
+       "id": "wkfiz-wf-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2024
+      },
+      {
+       "id": "wkfiz-wf-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%201%20rok%20II%20stopie%C5%84",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-wf-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%202%20rok%20II%20stopie%C5%84",
+       "nabor": 2025
+      },
+      {
+       "id": "wkfiz-wf-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-wf-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "ZP",
+     "pl": "Zdrowie publiczne",
+     "en": "Public Health",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "ZP"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/zdrowie-publiczne/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „ZP” ze źródła",
+     "uwagi": [
+      "skrót ZP = inicjały nazwy z oferty (aplikacja nie podaje pełnej nazwy)"
+     ],
+     "roczniki": [
+      {
+       "id": "wkfiz-zp-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-zp-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2025
+      },
+      {
+       "id": "wkfiz-zp-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2024
+      },
+      {
+       "id": "wkfiz-zp-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=ZP%201%20rok%20II%20stopie%C5%84",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-zp-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2026
+      },
+      {
+       "id": "wkfiz-zp-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2025
+      }
+     ]
+    }
+   ]
+  },
+  "wh": {
+   "skrot": "WH",
+   "pl": "Wydział Humanistyczny",
+   "kierunki": [
+    {
+     "kod": "ARCH",
+     "pl": "Archeologia",
+     "en": "Archaeology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "ARCH"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/archeologia-2/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „ARCH” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „ARCHEOLOGIA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-arch-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-arch-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-arch-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-arch-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "BSK",
+     "pl": "Bałtyckie studia kulturowe",
+     "en": "Baltic Cultural Studies",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "BSK"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/baltyckie-studia-kulturowe/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „BSK” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „BAŁTYCKIE STUDIA KULTUROWE 1 rok II stopień PONIEDZIAŁEK”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-bsk-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-bsk-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "DIKS",
+     "pl": "Dziennikarstwo i komunikacja społeczna",
+     "en": "Journalism and Social Communication",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "DiKS"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/dziennikarstwo-i-komunikacja-spoleczna/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „DiKS” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „DZIENNIKARSTWO I KOMUNIKACJA SPOŁECZNA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-diks-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-diks-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-diks-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "DIZM",
+     "pl": "Dziennikarstwo i zarządzanie mediami",
+     "en": "Journalism and Media Management",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "DiZM"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/dziennikarstwo-i-zarzadzanie-mediami/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „DiZM” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „DZIENNIKARSTWO I ZARZĄDZANIE MEDIAMI 1 rok II st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-dizm-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiZM-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-15-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-dizm-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiZM-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-15-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "FA",
+     "pl": "Filologia angielska",
+     "en": "English Philology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "FA"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-angielska/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FA” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „FILOLOGIA ANGIELSKA 2 rok II st PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027 PONIEDZIAŁEK”",
+      "nazwa z treści pliku: „PLAN STUDIA NIESTACJONARNE, FILOLOGIA ANGIELSKA I I II STOPNIA SEMESTR ZIMOWY 2026/2027 ZJAZD I : 9-11.10.2026r.”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-fa-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fa-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fa-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-fa-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fa-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "FG",
+     "pl": "Filologia germańska",
+     "en": "German Philology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "FG"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/filologia-germanska/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FG” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „filologia germańska 2 rok I stopnia, plan zajęć semestr zimowy 2026/2027”",
+      "nazwa z treści pliku: „filologia germańska 1 rok II stopnia, plan zajęć semestr zimowy 2026/2027”",
+      "nazwa z treści pliku: „PLAN ZAJĘĆ -FILOLOGIA GERMAŃSKA- 2 ROK I st. – studia niestacjonarne -SEMESTR zimowy 2026/2027 zajęcia odbywaja się przy”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-fg-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fg-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fg-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-fg-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-28-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fg-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-28-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "FGZDJO",
+     "pl": "Filologia germańska z dodatkowym językiem obcym",
+     "en": "German Philology with an Additional Foreign Language",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "FGzDJO"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-germanska-z-dodatkowym-jezykiem-obcym/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FGzDJO” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „filologia germańska z dodatkowym językiem obcym 1 rok I stopnia, plan zajęć semestr zimowy 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-fgzdjo-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-04-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fgzdjo-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-04-XI-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fgzdjo-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-04-XI-2026.xlsx",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "FGZJA",
+     "pl": "Filologia germańska z językiem angielskim",
+     "en": "German Philology with English",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "FGzJA"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-germanska-z-jezykiem-angielskim/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FGzJA” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „filologia germańska z językiem angielskim 1 rok I stopnia, PLAN ZAJĘĆ semestr zimowy 2026/2027 plan zajęć po redukcji gr”",
+      "nazwa z treści pliku: „PLAN ZAJĘĆ -FILOLOGIA GERMAŃSKA z JĘZYKIEM ANGIELSKIM - 1 ROK I st. – studia niestacjonarne -SEMESTR zimowy 2026/2027 za”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-fgzja-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fgzja-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-plan-zajec-semestr-zimowy-2026_-2027-po-redukcji-grup-od-dnia-12.10.2026-r.xlsx",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "FH",
+     "pl": "Filologia hiszpańska",
+     "en": "Spanish Philology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "FH"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-hiszpanska/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FH” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „FILOLOGIA HISZPAŃSKA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”",
+      "nazwa z treści pliku: „FILOLOGIA HISZPAŃSKA I rok NIESTACJONARNE PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-fh-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fh-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fh-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-fh-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "FN",
+     "pl": "Filologia norweska",
+     "en": "Norwegian Philology",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "FN"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-norweska/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FN” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „FILOLOGIA NORWESKA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-fn-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fn-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fn-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "FP",
+     "pl": "Filologia polska",
+     "en": "Polish Philology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "FP"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-polska/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FP” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „FILOLOGIA POLSKA 1 rok I stopień PONIEDZIAŁEK”",
+      "nazwa z treści pliku: „FILOLOGIA POLSKA 1 rok II stopień PONIEDZIAŁEK”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-fp-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fp-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fp-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-fp-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-04-11-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fp-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-04-11-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "FROM",
+     "pl": "Filologia romańska",
+     "en": "Romance Philology",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "FROM"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/filologia-romanska/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FROM” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „FILOLOGIA ROMAŃSKA 1 ROK II ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-from-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-from-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": null,
+     "pl": "Filologia romańska z językiem obcym do wyboru",
+     "en": "Romance Philology with a Foreign Language of Choice",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "FRZJOdW"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-romanska-z-jezykiem-obcym-do-wyboru/"
+     },
+     "maZrodlo": true,
+     "uwagi": [
+      "nazwa z treści pliku: „FILOLOGIA ROMAŃSKA Z JĘZYKIEM OBCYM DO WYBORU 3 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "FROS",
+     "pl": "Filologia rosyjska z dodatkowym językiem obcym",
+     "en": "Russian Philology with an Additional Foreign Language",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "FROS"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filologia-rosyjska-z-dodatkowym-jezykiem-obcym/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FROS” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „FILOLOGIA ROSYJSKA Z DODATKOWYM JĘZYKIEM OBCYM 1 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-fros-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fros-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fros-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "FILO",
+     "pl": "Filozofia",
+     "en": "Philosophy",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "FILO"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/filozofia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „FILO” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „FILOZOFIA 1 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-filo-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-filo-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-filo-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-filo-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": null,
+     "pl": "Germanistyczno-polonistyczne wspólne studia nauczycielskie",
+     "en": "German and Polish Joint Teacher Studies",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/germanistyczno-polonistyczne-wspolne-studia-nauczycielskie/"
+     },
+     "maZrodlo": false,
+     "roczniki": []
+    },
+    {
+     "kod": "GC",
+     "pl": "Global Communication",
+     "en": "Global Communication",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "GC"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/global-communication/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „GC” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „Global Communication year I BA winter semester 2026/27 WTOREK”"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "HIST",
+     "pl": "Historia",
+     "en": "History",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "HIST"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/historia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „HIST” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „HISTORIA 1 rok IIst. WTOREK”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-hist-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-hist-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-hist-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-hist-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-hist-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "ITA",
+     "pl": "Italianistyka",
+     "en": "Italian Studies",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "ITA"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/italianistyka/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „ITA” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „ITALIANISTYKA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-ita-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-ita-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-ita-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-ita-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "KK",
+     "pl": "Kognitywistyka komunikacji",
+     "en": "Cognitive Science of Communication",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "KK"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/kognitywistyka-komunikacji/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „KK” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „KOGNITYWISTYKA KOMUNIKACJI 1 ROK I ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-kk-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-kk-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-kk-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-kk-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-kk-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "LDB",
+     "pl": "Lingwistyka dla biznesu — tłumaczenia rosyjsko-polsko-niemieckie",
+     "en": "Linguistics for Business – Russian-Polish-German Translation",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "LDB"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/lingwistyka-dla-biznesu-tlumaczenia-rosyjsko-polsko-niemieckie/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „LDB” ze źródła",
+     "uwagi": [
+      "plik podaje tylko skrót LDB; nazwa = kierunek z oferty o tych inicjałach (do potwierdzenia)"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": "MIC",
+     "pl": "Media i cywilizacja",
+     "en": "Media and Civilisation",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "MiC"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/media-i-cywilizacja/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „MiC” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „MEDIA I CYWILIZACJA 1 rok PONIEDZIAŁEK”"
+     ],
+     "roczniki": []
+    },
+    {
+     "kod": null,
+     "pl": "Menedżer dziedzictwa kulturowego",
+     "en": "Cultural Heritage Manager",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/menedzer-dziedzictwa-kulturowego/"
+     },
+     "maZrodlo": false,
+     "roczniki": []
+    },
+    {
+     "kod": "PRP",
+     "pl": "Przekład rosyjsko-polski",
+     "en": "Russian-Polish Translation",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "PRP"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/przeklad-rosyjsko-polski/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „PRP” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „PRZEKŁAD ROSYJSKO-POLSKI 1 ROK II ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-prp-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/PRP-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-06-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-prp-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/PRP-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-06-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "SM",
+     "pl": "Stosunki międzynarodowe",
+     "en": "International Relations",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "SM"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/stosunki-miedzynarodowe/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „SM” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „STOSUNKI MIĘDZYNARODOWE 1 rok Ist. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-sm-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-sm-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-sm-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-sm-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-sm-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": null,
+     "pl": "Studia anglistyczno-slawistyczne",
+     "en": "English and Slavic Studies",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/studia-anglistyczno-slawistyczne/"
+     },
+     "maZrodlo": false,
+     "roczniki": []
+    },
+    {
+     "kod": "SP",
+     "pl": "Studia pisarskie",
+     "en": "Creative Writing",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "SP"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/studia-pisarskie/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „SP” ze źródła",
+     "uwagi": [
+      "nazwa z treści pliku: „STUDIA PISARSKIE 1 rok I stopień PONIEDZIAŁEK”",
+      "nazwa z treści pliku: „STUDIA PISARSKIE 1 rok II stopień PONIEDZIAŁEK”"
+     ],
+     "roczniki": [
+      {
+       "id": "wh-sp-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-sp-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-sp-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+       "nabor": 2024
+      },
+      {
+       "id": "wh-sp-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-27-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-sp-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-27-X-2026.xlsx",
+       "nabor": 2025
+      }
+     ]
+    }
+   ]
+  },
+  "wns": {
+   "skrot": "WNS",
+   "pl": "Wydział Nauk Społecznych",
+   "kierunki": [
+    {
+     "kod": "AK",
+     "pl": "Animacja kultury",
+     "en": "Cultural Animation",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "AK"
+     ],
+     "wOfercie": false,
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „AK” ze źródła",
+     "uwagi": [
+      "nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-ak-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/AK-I-93.pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "BN",
+     "pl": "Bezpieczeństwo narodowe",
+     "en": "National Security",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "BN"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/bezpieczenstwo-narodowe/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „BN” ze źródła",
+     "uwagi": [
+      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-bn-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-I-62.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-bn-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-I-62.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-bn-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-I-62.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-bn-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-II-50.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-bn-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-II-50.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "BW",
+     "pl": "Bezpieczeństwo wewnętrzne",
+     "en": "Internal Security",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "BW"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/bezpieczenstwo-wewnetrzne/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „BW” ze źródła",
+     "uwagi": [
+      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-bw-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-bw-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-bw-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-bw-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-56.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-bw-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-56.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "EA",
+     "pl": "Edukacja artystyczna",
+     "en": "Art Education",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "EA"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/edukacja-artystyczna/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „EA” ze źródła",
+     "roczniki": [
+      {
+       "id": "wns-ea-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-125.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-ea-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-125.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-ea-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-125.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-ea-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-II-21.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-ea-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-II-21.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "MIPIPR",
+     "pl": "Management instytucji publicznych i Public Relations",
+     "en": "Public Institution Management and Public Relations",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "MIPiPR"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/management-instytucji-publicznych-i-public-relations/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „MIPiPR” ze źródła",
+     "uwagi": [
+      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-mipipr-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-I-66.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-mipipr-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-I-66.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-mipipr-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-I-66.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-mipipr-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-II-55.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-mipipr-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-II-55.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "PEDO",
+     "pl": "Pedagogika",
+     "en": "Pedagogy",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "PedO"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/pedagogika/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „PedO” ze źródła",
+     "uwagi": [
+      "wspólny plik kilku kierunków",
+      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-pedo-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-pedo-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-pedo-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-pedo-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-pedo-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "POW",
+     "pl": "Pedagogika opiekuńczo-wychowawcza",
+     "en": "Care and Educational Pedagogy",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "POW"
+     ],
+     "wOfercie": false,
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „POW” ze źródła",
+     "uwagi": [
+      "nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-pow-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/POW-I-82.pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "PPIW",
+     "pl": "Pedagogika przedszkolna i wczesnoszkolna",
+     "en": "Preschool and Early School Education",
+     "stopnie": [
+      0
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "PPIW"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/pedagogika-przedszkolna-i-wczesnoszkolna/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „PPIW” ze źródła",
+     "uwagi": [
+      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-ppiw-0-st-2026",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-ppiw-0-st-2025",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-ppiw-0-st-2024",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-ppiw-0-st-2023",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 4,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "nabor": 2023
+      },
+      {
+       "id": "wns-ppiw-0-st-2022",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 5,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "nabor": 2022
+      }
+     ]
+    },
+    {
+     "kod": "RESO",
+     "pl": "Pedagogika resocjalizacyjna",
+     "en": "Rehabilitation Pedagogy",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "RESO",
+      "Reso"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/pedagogika-resocjalizacyjna/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „RESO” ze źródła",
+     "uwagi": [
+      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-reso-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-reso-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-reso-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-reso-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Reso-II-14.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-reso-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Reso-II-14.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": null,
+     "pl": "Pedagogika specjalna",
+     "en": "Special Education",
+     "stopnie": [
+      0
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "PEDSPEC"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/pedagogika-specjalna/"
+     },
+     "maZrodlo": true,
+     "uwagi": [
+      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+     ],
+     "roczniki": [
+      {
+       "id": null,
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": null,
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": null,
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": null,
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 4,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+       "nabor": 2023
+      },
+      {
+       "id": null,
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 5,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+       "nabor": 2022
+      }
+     ]
+    },
+    {
+     "kod": "POL",
+     "pl": "Politologia",
+     "en": "Political Science",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "POL"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/politologia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „POL” ze źródła",
+     "roczniki": [
+      {
+       "id": "wns-pol-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-29.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-pol-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-29.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-pol-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-29.pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "PS",
+     "pl": "Praca socjalna",
+     "en": "Social Work",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "PS"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/praca-socjalna/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „PS” ze źródła",
+     "uwagi": [
+      "wspólny plik kilku kierunków",
+      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+     ],
+     "roczniki": [
+      {
+       "id": "wns-ps-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PS-I-41.pdf",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "PSYCH",
+     "pl": "Psychologia",
+     "en": "Psychology",
+     "stopnie": [
+      0
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "Psych"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/psychologia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „Psych” ze źródła",
+     "roczniki": [
+      {
+       "id": "wns-psych-0-st-2026",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-I-3-1.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-psych-0-st-2025",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-II-3-2.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-psych-0-st-2024",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-III-10.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-psych-0-st-2023",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 4,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-IV-1-1.pdf",
+       "nabor": 2023
+      },
+      {
+       "id": "wns-psych-0-st-2022",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 5,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-V-8.pdf",
+       "nabor": 2022
+      }
+     ]
+    },
+    {
+     "kod": "SS",
+     "pl": "Social Sciences",
+     "en": "Social Sciences",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "SS"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/social-sciences/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „SS” ze źródła",
+     "roczniki": [
+      {
+       "id": "wns-ss-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SS-1-50.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-ss-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SS-2-39.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-ss-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SS-3-36.pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "SOC",
+     "pl": "Socjologia",
+     "en": "Sociology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "SOC"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/socjologia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „SOC” ze źródła",
+     "roczniki": [
+      {
+       "id": "wns-soc-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-1-25.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-soc-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-2-32.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-soc-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-3-34.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-soc-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-1-II-stopien-13.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-soc-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-2-II-stopien-13.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "SIOS",
+     "pl": "Socjotechnika i oddziaływanie społeczne",
+     "en": "Social Engineering and Social Influence",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "SIOS"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/socjotechnika-i-oddzialywanie-spoleczne/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „SIOS” ze źródła",
+     "roczniki": [
+      {
+       "id": "wns-sios-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-1-20.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-sios-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-2-20.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-sios-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-3-18.pdf",
+       "nabor": 2024
+      }
+     ]
+    }
+   ]
+  },
+  "wnsip": {
+   "skrot": "WNŚiP",
+   "pl": "Wydział Nauk Ścisłych i Przyrodniczych",
+   "kierunki": [
+    {
+     "kod": "BIOL",
+     "pl": "Biologia",
+     "en": "Biology",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "biol"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/biologia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „biol” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-biol-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biol_1-rok-I-st.-akt.-30.10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-biol-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biol_2-rok-I-st.-akt.-05.10..pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-biol-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biol_3-rok-I-st.-akt.-20.10..pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "BPK",
+     "pl": "Biologiczne podstawy kryminalistyki",
+     "en": "Biological Foundations of Forensic Science",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "bpk"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/biologiczne-podstawy-kryminalistyki/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „bpk” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-bpk-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/bpk_2-rok-II-st.-5.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": null,
+     "pl": "Biotechnologia",
+     "en": "Biotechnology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "biotech"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/biotechnologia/"
+     },
+     "maZrodlo": true,
+     "roczniki": [
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biotech_1-rok-I-st.-akt.-19.10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biotech_3-rok-I-st.-akt.-28.10.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": null,
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biotech_1-rok-II-st.-akt.-19.10.pdf",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "EZN",
+     "pl": "Eksploatacja zasobów naturalnych",
+     "en": "Exploitation of Natural Resources",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "ezn"
+     ],
+     "wOfercie": false,
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „ezn” ze źródła",
+     "uwagi": [
+      "nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27)"
+     ],
+     "roczniki": [
+      {
+       "id": "wnsip-ezn-1-st-2023",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 4,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/EZN_4-rok-I-st.-1.pdf",
+       "nabor": 2023
+      }
+     ]
+    },
+    {
+     "kod": "FIZ",
+     "pl": "Fizyka",
+     "en": "Physics",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "fiz"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/fizyka/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „fiz” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-fiz-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/fiz_2-rok-I-st.-akt.-06.11.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-fiz-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/fiz_3-rok-I-st.-akt.-05.11.pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "GIBE",
+     "pl": "Genetyka i biologia eksperymentalna",
+     "en": "Genetics and Experimental Biology",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "gibe"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/genetyka-i-biologia-eksperymentalna/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „gibe” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-gibe-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/gibe_1-rok-I-st.-akt.-19.10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-gibe-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/gibe_2-rok-I-st.-akt.-02.10.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-gibe-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/gibe_3-rok-I-st.-akt.-28.10.pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "GEOG",
+     "pl": "Geografia",
+     "en": "Geography",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "geog"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/geografia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „geog” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-geog-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geografia-I-st.-1-rok-akt.-28.10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-geog-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geografia_2-rok-I-st.-akt.-02.10..pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "GEOL",
+     "pl": "Geologia",
+     "en": "Geology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "geol"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/geologia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „geol” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-geol-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geologia-I-st.-1-rok-akt.-28.10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-geol-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geologia_2-rok-I-st.-akt.-15.10..pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-geol-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geologia_3-rok-I-st.-akt.-05.10..pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wnsip-geol-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geologia_2-rok-II-st.-akt.-07.10.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "HYDRO",
+     "pl": "Hydrobiology",
+     "en": "Hydrobiology",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "hydro"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/hydrobiology/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „hydro” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-hydro-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_1-rok-I-st.-akt.-16.10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-hydro-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_2-rok-I-st.-akt.-21.10-1.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-hydro-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_3-rok-I-st.-akt.-02.10.pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": "KOSMO",
+     "pl": "Kosmologia",
+     "en": "Cosmology",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "kosmologia"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/kosmologia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „kosmo” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-kosmo-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/kosmo_1-rok-I-st.-akt.-13.10.pdf",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "MAT",
+     "pl": "Matematyka",
+     "en": "Mathematics",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "mat"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/matematyka/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „mat” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-mat-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-1-rok-akt.-19.10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-mat-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-2-rok-akt.-16.10.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-mat-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-3-rok-akt.-22.10-1.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wnsip-mat-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-1-rok-1.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-mat-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-2-rok-akt.-23.10.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "MIKR",
+     "pl": "Mikrobiologia",
+     "en": "Microbiology",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "mikrobiol"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/mikrobiologia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „mikr” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-mikr-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_1-rok-I-st.-akt.-12.10-1.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-mikr-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_2-rok-I-st.-akt.-13.10.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-mikr-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_3-rok-I-st.-akt.-03.11.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wnsip-mikr-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_1-rok-II-st.-akt.-23.10.pdf",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
+     "kod": "OCEAN",
+     "pl": "Oceanografia",
+     "en": "Oceanography",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "ocean"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/oceanografia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „ocean” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-ocean-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-1-rok-akt.-16.10-1.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-ocean-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-2-rok-akt.-06.11.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-ocean-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt-6.11.pdf",
+       "nabor": 2024
+      }
+     ]
+    },
+    {
+     "kod": null,
+     "pl": "Ochrona i inżynieria środowiska przyrodniczego",
+     "en": "Protection and Engineering of the Natural Environment",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/ochrona-i-inzynieria-srodowiska-przyrodniczego/"
+     },
+     "maZrodlo": false,
+     "roczniki": []
+    },
+    {
+     "kod": null,
+     "pl": "Ochrona środowiska",
+     "en": "Environmental Protection",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/ochrona-srodowiska/"
+     },
+     "maZrodlo": false,
+     "roczniki": []
+    },
+    {
+     "kod": "OPTYKA",
+     "pl": "Optyka okularowa",
+     "en": "Ophthalmic Optics",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "optyka"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/optyka-okularowa/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „optyka” ze źródła",
+     "roczniki": [
+      {
+       "id": "wnsip-optyka-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-1-rok-akt.-13.10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wnsip-optyka-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-2-rok-akt.-13.10.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wnsip-optyka-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-3-rok.pdf",
+       "nabor": 2024
+      }
+     ]
+    }
+   ]
+  },
+  "wpia": {
+   "skrot": "WPiA",
+   "pl": "Wydział Prawa i Administracji",
+   "kierunki": [
+    {
+     "kod": null,
+     "pl": "Administracja",
+     "en": "Administration",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "A"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/administracja/"
+     },
+     "maZrodlo": true,
+     "roczniki": [
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSA-I-st.-3.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSA-I-st.-9.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSA-I-st.-4.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSA-I-st.-12.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSA-I-st.-11.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": null,
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSA-I-st.-9.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": null,
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSA-II-st.-2.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": null,
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSA-II-st.-10.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": null,
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSA-II-st.-15.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "EP",
+     "pl": "Ekonomiczno-prawny",
+     "en": "Economics and Law",
+     "wlasciciel": "wefiz",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "EP"
+     ],
+     "wOfercie": false,
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „EP” ze źródła",
+     "uwagi": [
+      "w ofercie jako kierunek Wydział Ekonomii, Finansów i Zarządzania – jeden rocznik z id tego wydziału"
+     ],
+     "roczniki": [
+      {
+       "id": "wefiz-ep-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-EP-I-st.-18.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-ep-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-EP-I-st.-10.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wefiz-ep-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-EP-I-st.-9.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wefiz-ep-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-EP-II-st.-9.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-ep-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-EP-II-st.-13.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "IEBL",
+     "pl": "International and European Business Law",
+     "en": "International and European Business Law",
+     "stopnie": [
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "IEBL"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-ii-stopnia/international-and-european-business-law/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „IEBL” ze źródła",
+     "roczniki": [
+      {
+       "id": "wpia-iebl-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-IEBL-II-st.-14.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wpia-iebl-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-IEBL.pdf",
+       "nabor": 2025
+      }
+     ]
+    },
+    {
+     "kod": "PRAWO",
+     "pl": "Prawo",
+     "en": "Law",
+     "stopnie": [
+      0
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "P",
+      "N"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/prawo/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "kod istniejący w Skrócie (nauka_kierunki)",
+     "roczniki": [
+      {
+       "id": "wpia-prawo-0-nst-2026",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSP-8.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wpia-prawo-0-nst-2025",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSP-12.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wpia-prawo-0-nst-2024",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSP-5.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wpia-prawo-0-nst-2023",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 4,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/IV-NSP-7.pdf",
+       "nabor": 2023
+      },
+      {
+       "id": "wpia-prawo-0-nst-2022",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 5,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/V-NSP-6.pdf",
+       "nabor": 2022
+      },
+      {
+       "id": "wpia-prawo-0-st-2026",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSP-26.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wpia-prawo-0-st-2025",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSP-35.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wpia-prawo-0-st-2024",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSP-21.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wpia-prawo-0-st-2023",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 4,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/IV-SSP-17.pdf",
+       "nabor": 2023
+      },
+      {
+       "id": "wpia-prawo-0-st-2022",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 5,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/V-SSP-10.pdf",
+       "nabor": 2022
+      }
+     ]
+    },
+    {
+     "kod": "PSM",
+     "pl": "Prawo służb mundurowych",
+     "en": "Law for Uniformed Services",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "nst",
+      "st"
+     ],
+     "skroty": [
+      "PSM"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "nst",
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/prawo-sluzb-mundurowych/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „PSM” ze źródła",
+     "roczniki": [
+      {
+       "id": "wpia-psm-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-5.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wpia-psm-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-niestacjonarne-I-stopnia.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wpia-psm-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-PSM-I-st.-13.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wpia-psm-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-PSM-I-st.-17.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wpia-psm-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-stacjonarne-I-stopnia.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wpia-psm-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/PSM-II-st.-2026-2027-I-rok.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wpia-psm-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-PSM-II-st.-10.pdf",
+       "nabor": 2025
+      }
+     ]
+    }
+   ]
+  },
+  "wt": {
+   "skrot": "WT",
+   "pl": "Wydział Teologiczny",
+   "kierunki": [
+    {
+     "kod": "NOR",
+     "pl": "Nauki o rodzinie — doradztwo, coaching, mediacje",
+     "en": "Family Studies – Counselling, Coaching, Mediation",
+     "stopnie": [
+      1,
+      2
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "NOR"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1,
+       2
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/nauki-o-rodzinie-doradztwo-coaching-mediacje/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „NOR” ze źródła",
+     "roczniki": []
+    },
+    {
+     "kod": "TEO",
+     "pl": "Teologia",
+     "en": "Theology",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "TEO"
+     ],
+     "wOfercie": true,
+     "oferta": {
+      "stopnie": [
+       1
+      ],
+      "tryby": [
+       "st"
+      ],
+      "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/teologia/"
+     },
+     "maZrodlo": true,
+     "zrodloKodu": "skrót „TEO” ze źródła",
+     "roczniki": []
+    }
+   ]
+  }
+ }
+}

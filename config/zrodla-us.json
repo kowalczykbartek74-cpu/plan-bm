@@ -1,0 +1,5624 @@
+{
+ "opis": "Wygenerowane: node scripts/us/inwentarz.mjs. Nie edytuj ręcznie (wydziały i strony: config/wydzialy-us.json). Źródło = {url, plik, format, tryb, typ, kierunki:[{kod, stopien, lata}], wersja (data z nazwy pliku), sha256, rozmiar}.",
+ "wygenerowano": "2026-11-08",
+ "wydzialy": {
+  "wefiz": {
+   "skrot": "WEFiZ",
+   "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+   "en": "Faculty of Economics, Finance and Management",
+   "dos": [
+    "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+    "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/"
+   ],
+   "strony": [
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "tryb": "st",
+     "format": "html"
+    },
+    {
+     "url": "https://efz.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+     "tryb": "nst",
+     "format": "html"
+    }
+   ],
+   "zrodla": [
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Audyt finansowy (AF)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Audyt finansowy",
+       "skrot": "AF",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "AF"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Business Intelligence w gospodarce (BIwG)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Business Intelligence w gospodarce",
+       "skrot": "BIwG",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "BIWG"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Business Management (BM)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Business Management",
+       "skrot": "BM",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "BM"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Business Management (BM)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Business Management",
+       "skrot": "BM",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "BM"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Data Science (DS)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Data Science",
+       "skrot": "DS",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "DS"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Economics and IT Applications (EaIA)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Economics and IT Applications",
+       "skrot": "EaIA",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "EAIA"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Ekonomia (Ek)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomia",
+       "skrot": "Ek",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "EK"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Ekonomia (Ek)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomia",
+       "skrot": "Ek",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "EK"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Ekonomiczno-prawny (E-P)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomiczno-prawny",
+       "skrot": "E-P",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "EP"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": false
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Ekonomiczno-prawny (E-P)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomiczno-prawny",
+       "skrot": "E-P",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "EP"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Finanse i Rachunkowość (FiR)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Finanse i rachunkowość",
+       "skrot": "FiR",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "FIR"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Finanse i Rachunkowość (FiR)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Finanse i rachunkowość",
+       "skrot": "FiR",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "FIR"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Gospodarka Nieruchomościami (GN)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Gospodarka nieruchomościami",
+       "skrot": "GN",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "GN"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Gospodarka Przestrzenna inż. (GPi)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Gospodarka przestrzenna",
+       "skrot": "GPi",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "GPI"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Green Economy - zielona gospodarka (GE)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Green Economy - zielona gospodarka",
+       "skrot": "GE",
+       "stopien": null,
+       "lata": null,
+       "latyWFormularzu": true,
+       "kod": "GE"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Informatyka i Ekonometria (IiE)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Informatyka i ekonometria",
+       "skrot": "IiE",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "IIE"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Informatyka w Biznesie (IwB)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Informatyka w biznesie",
+       "skrot": "IwB",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "IWB"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Informatyka w Biznesie (IwB)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Informatyka w biznesie",
+       "skrot": "IwB",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "IWB"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Komunikacja i psychologia w biznesie (KiPB)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Komunikacja i psychologia w biznesie",
+       "skrot": "KiPB",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "KIPB"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Komunikacja i psychologia w biznesie (KiPB)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Komunikacja i psychologia w biznesie",
+       "skrot": "KiPB",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "KIPB"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Logistyka (L)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Logistyka",
+       "skrot": "L",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "LOG"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Logistyka (L)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Logistyka",
+       "skrot": "L",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "LOG"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Logistyka inż. (Li)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Logistyka inż.",
+       "skrot": "Li",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "LI"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Marketing (M)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Marketing",
+       "skrot": "M",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "MKT"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Międzynarodowy biznes turystyczny (MBT)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Międzynarodowy biznes turystyczny",
+       "skrot": "MBT",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "MBT"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Przedsiębiorczość i Inwestycje (PiI)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Przedsiębiorczość i inwestycje",
+       "skrot": "PiI",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "PII"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Rynek Nieruchomości (RN)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Rynek nieruchomości",
+       "skrot": "RN",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "RN"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Turystyka i Rekreacja (TiR)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Turystyka i rekreacja",
+       "skrot": "TiR",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "TIR"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Zarządzanie (Z)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Zarządzanie",
+       "skrot": "Z",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "ZARZ"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Zarządzanie (Z)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Zarządzanie",
+       "skrot": "Z",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "latyWFormularzu": true,
+       "kod": "ZARZ"
+      }
+     ],
+     "wersja": "06.11.2026 11:48"
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Zarządzanie Logistyczne w Ochronie Zdrowia (ZLOZ)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Zarządzanie logistyczne w ochronie zdrowia",
+       "skrot": "ZLOZ",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "ZLOZ"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://planyzajec-efz.usz.edu.pl/plan",
+     "plik": "plan",
+     "opis": "Zarządzanie odnawialnymi źródłami energii (ZOZE)",
+     "format": "html",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Zarządzanie odnawialnymi źródłami energii",
+       "skrot": "ZOZE",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3,
+        4
+       ],
+       "latyWFormularzu": true,
+       "kod": "ZOZE"
+      }
+     ],
+     "wersja": "06.11.2026 11:48",
+     "plan1rok": true
+    },
+    {
+     "url": "https://efz.usz.edu.pl/wp-content/uploads/Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+     "plik": "Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+     "opis": "Zestawienie nazw grup – plany zajęć i n-proDziekan – Kampus Mickiewicza",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "grupy",
+     "kierunki": [],
+     "wersja": null
+    },
+    {
+     "url": "https://efz.usz.edu.pl/wp-content/uploads/Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+     "plik": "Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+     "opis": "Zestawienie nazw grup – plany zajęć i n-proDziekan – Kampus Cukrowa",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "grupy",
+     "kierunki": [],
+     "wersja": null
+    }
+   ]
+  },
+  "wkfiz": {
+   "skrot": "WKFiZ",
+   "pl": "Wydział Kultury Fizycznej i Zdrowia",
+   "en": "Faculty of Physical Culture and Health",
+   "dos": [
+    "https://dos.usz.edu.pl/piastow/zajecia-piastow-wkfiz/"
+   ],
+   "strony": [
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "tryb": "st",
+     "format": "json"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php",
+     "tryb": "nst",
+     "format": "json"
+    }
+   ],
+   "tryby_w_danych": [
+    "stacjonarne"
+   ],
+   "zajec": 467,
+   "znacznik": "2026-11-08 20:22:10",
+   "przyklad": {
+    "id": 1,
+    "subject": "PDW: nowoczesne formy ruchowe 30h, 1zt (5.10-25.01.27)",
+    "type": "Zajęcia terenowe",
+    "teacher": "dr Marek Kolbowicz",
+    "day": "Poniedziałek",
+    "startTime": "08:15",
+    "endTime": "09:45",
+    "duration": 90,
+    "room": "sala 101",
+    "building": "Główny budynek",
+    "group": "MwS 2 rok I stopień",
+    "specialization": "MwS",
+    "year": 2,
+    "semester": 2,
+    "studyMode": "stacjonarne",
+    "description": "",
+    "color": "#14B8A6",
+    "startDate": null,
+    "endDate": null
+   },
+   "zrodla": [
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "MwS 2 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "MwS",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "MWS"
+      }
+     ],
+     "grupa": "MwS 2 rok I stopień",
+     "zajec": 24,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "WF 1 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 1 rok I stopień",
+     "zajec": 42,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "WF 2 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 2 rok I stopień",
+     "zajec": 46,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "WF 3 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 3 rok I stopień",
+     "zajec": 27,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "ZP 2 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "ZP",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "ZP"
+      }
+     ],
+     "grupa": "ZP 2 rok I stopień",
+     "zajec": 24,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "ZP 3 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "ZP",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "ZP"
+      }
+     ],
+     "grupa": "ZP 3 rok I stopień",
+     "zajec": 15,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "DS 1 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "DS",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "DS"
+      }
+     ],
+     "grupa": "DS 1 rok I stopień",
+     "zajec": 26,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "DS 2 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "DS",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "DS"
+      }
+     ],
+     "grupa": "DS 2 rok I stopień",
+     "zajec": 31,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "WF 2 rok II stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 2 rok II stopień",
+     "zajec": 28,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "ZP 1 rok II stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "ZP",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "ZP"
+      }
+     ],
+     "grupa": "ZP 1 rok II stopień",
+     "zajec": 22,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "ZP 2 rok II stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "ZP",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "ZP"
+      }
+     ],
+     "grupa": "ZP 2 rok II stopień",
+     "zajec": 12,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "DS 2 rok II stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "DS",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "DS"
+      }
+     ],
+     "grupa": "DS 2 rok II stopień",
+     "zajec": 15,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "ZP 1 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "ZP",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "ZP"
+      }
+     ],
+     "grupa": "ZP 1 rok I stopień",
+     "zajec": 20,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "DS 3 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "DS",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "DS"
+      }
+     ],
+     "grupa": "DS 3 rok I stopień",
+     "zajec": 33,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "MwS 1 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "MwS",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "MWS"
+      }
+     ],
+     "grupa": "MwS 1 rok I stopień",
+     "zajec": 23,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "DS 1 rok II stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "DS",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "DS"
+      }
+     ],
+     "grupa": "DS 1 rok II stopień",
+     "zajec": 16,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "WF 1 rok II stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 1 rok II stopień",
+     "zajec": 14,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+     "plik": "get_schedule.php",
+     "opis": "MwS 3 rok I stopień",
+     "format": "json",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "MwS",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "MWS"
+      }
+     ],
+     "grupa": "MwS 3 rok I stopień",
+     "zajec": 19,
+     "wersja": "2026-11-08 20:22:10"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%201%20rok%20I%20stopie%C5%84",
+     "plik": "get_html_plans.php",
+     "opis": "WF 1 rok I stopień",
+     "format": "html",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 1 rok I stopień",
+     "wersja": "2026-11-06 12:58:07"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%201%20rok%20II%20stopie%C5%84",
+     "plik": "get_html_plans.php",
+     "opis": "WF 1 rok II stopień",
+     "format": "html",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 1 rok II stopień",
+     "wersja": "2026-11-06 12:58:07"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%202%20rok%20I%20stopie%C5%84",
+     "plik": "get_html_plans.php",
+     "opis": "WF 2 rok I stopień",
+     "format": "html",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 2 rok I stopień",
+     "wersja": "2026-11-06 12:58:07"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%202%20rok%20II%20stopie%C5%84",
+     "plik": "get_html_plans.php",
+     "opis": "WF 2 rok II stopień",
+     "format": "html",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 2 rok II stopień",
+     "wersja": "2026-11-06 12:58:07"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%203%20rok%20I%20stopie%C5%84",
+     "plik": "get_html_plans.php",
+     "opis": "WF 3 rok I stopień",
+     "format": "html",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "WF",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "WF"
+      }
+     ],
+     "grupa": "WF 3 rok I stopień",
+     "wersja": "2026-11-06 12:58:07"
+    },
+    {
+     "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=ZP%201%20rok%20II%20stopie%C5%84",
+     "plik": "get_html_plans.php",
+     "opis": "ZP 1 rok II stopień",
+     "format": "html",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "ZP",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "ZP"
+      }
+     ],
+     "grupa": "ZP 1 rok II stopień",
+     "wersja": "2026-11-06 12:58:07"
+    }
+   ]
+  },
+  "wh": {
+   "skrot": "WH",
+   "pl": "Wydział Humanistyczny",
+   "en": "Faculty of Humanities",
+   "dos": [
+    "https://dos.usz.edu.pl/piastow/zajecia-piastow/"
+   ],
+   "strony": [
+    {
+     "url": "https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/",
+     "tryb": "st",
+     "format": "xlsx"
+    },
+    {
+     "url": "https://hum.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+     "tryb": "nst",
+     "format": "xlsx"
+    }
+   ],
+   "zrodla": [
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+     "plik": "ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+     "opis": "ARCH I i II st. – plan zajęć semestr zimowy 2026_2027 – zm. 05 XI 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "ARCH",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "ARCH"
+      }
+     ],
+     "wersja": "2026-11-05",
+     "sha256": "0cee4c2aa452e9528ef1324a0322ca4d7433b40fa964be28fb51bdcf8fff0c6e",
+     "rozmiar": 64112,
+     "arkusze": [
+      "ARCHEO-I-1",
+      "ARCHEO-I-2",
+      "ARCHEO-I-3 ",
+      "ARCHEO-II-1",
+      "ARCHEO-II-2",
+      "Arkusz1"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
+     "plik": "BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
+     "opis": "BSK-II-st.-plan-zajęć-semestr-zimowy-2026_27, zm. 1 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "BSK",
+       "stopien": null,
+       "stopnie": [
+        2
+       ],
+       "lata": null,
+       "kod": "BSK"
+      }
+     ],
+     "wersja": "2026-10-01",
+     "sha256": "a55d19629ae92bc930b8cf1d873b9cb709425886229b55d37a3129425f2928ba",
+     "rozmiar": 28587,
+     "arkusze": [
+      "BSK 1r.",
+      "BSK 2r."
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+     "plik": "DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+     "opis": "DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "DiKS",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "DIKS"
+      }
+     ],
+     "wersja": "2026-11-03",
+     "sha256": "c6fd7eeb76611508314dd383a4f1581d3730adf9befaaeae28708619380a8d6b",
+     "rozmiar": 36955,
+     "arkusze": [
+      "DiKS 1",
+      "DiKS 2",
+      "DiKS 3"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/DiZM-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-15-X-2026.xlsx",
+     "plik": "DiZM-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-15-X-2026.xlsx",
+     "opis": "DiZM II st. plan zajęć semestr zimowy – 2026_2027 zm. – 15 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "DiZM",
+       "stopien": null,
+       "stopnie": [
+        2
+       ],
+       "lata": null,
+       "kod": "DIZM"
+      }
+     ],
+     "wersja": "2026-10-15",
+     "sha256": "5cdab0cde059df50d2d9b6c6fc4831b7e1025fb6807c75689795265e92008107",
+     "rozmiar": 23628,
+     "arkusze": [
+      "DiZM 1",
+      "DiZM 2"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+     "plik": "FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+     "opis": "FA I i II st. – plan zajęć semestr zimowy 2026_2027 – zm. 03 XI 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FA",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "FA"
+      }
+     ],
+     "wersja": "2026-11-03",
+     "sha256": "b8041b045edaaa657ffdca7b1caf8cdbbf96aa62f615c68928f00c03836e74f6",
+     "rozmiar": 81197,
+     "arkusze": [
+      "FA I rok",
+      "FA II rok",
+      "FA III rok",
+      "FA 1 rok II st.",
+      "FA 2 rok II st."
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+     "plik": "FG-I-st.-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+     "opis": "FG I st. – plan zajęć semestr zimowy 2026_ 2027 – 26 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FG",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FG"
+      }
+     ],
+     "wersja": "2026-10-26",
+     "sha256": "0b6e315634001ec5ffa057fd6e62c9fb192187b5f5ebfbecf31c33200bb1b3a4",
+     "rozmiar": 32271,
+     "arkusze": [
+      "FG 2",
+      "FG 3"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-28-X-2026.xlsx",
+     "plik": "FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-28-X-2026.xlsx",
+     "opis": "FG II st. – plan zajęć semestr zimowy 2026_2027 – zm. 28 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FG",
+       "stopien": null,
+       "stopnie": [
+        2
+       ],
+       "lata": null,
+       "kod": "FG"
+      }
+     ],
+     "wersja": "2026-10-28",
+     "sha256": "1ee095a9369da1bbd92535ad24d155b9ad506e8e1966bc0bd7a496629fc45de5",
+     "rozmiar": 33393,
+     "arkusze": [
+      "FG 1 II",
+      "FG 2 II"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-04-XI-2026.xlsx",
+     "plik": "FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-04-XI-2026.xlsx",
+     "opis": "FGzDJO- I st. – plan zajęć semestr zimowy 2026_ 2027 – zm. 04 XI 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FGzDJO",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FGZDJO"
+      }
+     ],
+     "wersja": "2026-11-04",
+     "sha256": "1cbc34ba2ab8dd20b10ae9763652cb6b36b5e7e6a85bdd6fe223529e3357d6c1",
+     "rozmiar": 35313,
+     "arkusze": [
+      "FGzDJO 1",
+      "FGzDJO 2",
+      "FGzDJO 3"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-plan-zajec_-przed-redukja-grup-_semestr-zimowy-2026_-2027.xlsx",
+     "plik": "FGzJA-I-st.-plan-zajec_-przed-redukja-grup-_semestr-zimowy-2026_-2027.xlsx",
+     "opis": "FGzJA I st. – plan zajęć_ przed redukją grup _semestr zimowy 2026_ 2027",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FGzJA",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FGZJA"
+      }
+     ],
+     "wersja": null,
+     "wariant": "przed redukcją grup",
+     "pominiety": true,
+     "powod": "starsza wersja niż FGzJA-I-st.-plan-zajec-semestr-zimowy-2026_-2027-po-redukcji-grup-od-dnia-12.10.2026-r.xlsx"
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-plan-zajec-semestr-zimowy-2026_-2027-po-redukcji-grup-od-dnia-12.10.2026-r.xlsx",
+     "plik": "FGzJA-I-st.-plan-zajec-semestr-zimowy-2026_-2027-po-redukcji-grup-od-dnia-12.10.2026-r.xlsx",
+     "opis": "FGzJA I st. – plan zajęć semestr zimowy 2026_ 2027- po redukcji grup od dnia 12.10.2026 r.",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FGzJA",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FGZJA"
+      }
+     ],
+     "wersja": "2026-10-12",
+     "wariant": "po redukcji grup",
+     "sha256": "abfee83aaded68cf07f494f6c672296da6eb3241b836300e699608746911ea07",
+     "rozmiar": 21602,
+     "arkusze": [
+      "FGzJA 1"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+     "plik": "FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+     "opis": "FILO I i II st. – plan zajęć semestr zimowy 2026_2027 – zm. 08 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FILO",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "FILO"
+      }
+     ],
+     "wersja": "2026-10-08",
+     "sha256": "dfe70a8ffef4e4013650f1381b730d395a31cc177a4a5bc538f90a40035c4d8b",
+     "rozmiar": 48120,
+     "arkusze": [
+      "F 1",
+      "F 2",
+      "F 3",
+      "F 2 I "
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+     "plik": "FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+     "opis": "FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027 zm. 14 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FH",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "FH"
+      }
+     ],
+     "wersja": "2026-10-14",
+     "sha256": "ac7b7e74b45efda07848fa384c7a9b1754a53732ecaf80bc1a9ecb9f59843bd1",
+     "rozmiar": 50181,
+     "arkusze": [
+      "FH I rok",
+      "FH II rok",
+      "FH III rok",
+      "FH I rok II st"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+     "plik": "FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+     "opis": "FN-I-st.-plan-zajec-semestr-zimowy-2026_2027 zm. 30 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FN",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FN"
+      }
+     ],
+     "wersja": "2026-10-30",
+     "sha256": "aefc54e219eb127fbec6f9c843e0fdd6f56274fe605b1cf48ea9d73a4c1d27ed",
+     "rozmiar": 43084,
+     "arkusze": [
+      "FN I rok",
+      "FN II rok",
+      "FN III rok"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+     "plik": "FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+     "opis": "FP I st. plan zajęć semestr zimowy – 2026_2027 zm. 26 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FP",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FP"
+      }
+     ],
+     "wersja": "2026-10-26",
+     "sha256": "9e97176e7bf6f708d1000366ce75f0acca56ad1f90bc9627c7753b58445c7a66",
+     "rozmiar": 39613,
+     "arkusze": [
+      "FP 1",
+      "FP 2",
+      "FP 3"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-04-11-2026.xlsx",
+     "plik": "FP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-04-11-2026.xlsx",
+     "opis": "FP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-04-11-2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FP",
+       "stopien": null,
+       "stopnie": [
+        2
+       ],
+       "lata": null,
+       "kod": "FP"
+      }
+     ],
+     "wersja": "2026-11-04",
+     "sha256": "20f7c9daec409c8e0fd067cb91bb51d7a6b52c1c80bff10b62d118a8d3808191",
+     "rozmiar": 26536,
+     "arkusze": [
+      "FP 1",
+      "FP 2"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+     "plik": "FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+     "opis": "FROS-I-st.-plan-zajęć-semestr-zimowy 2026_27 zm. 26 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FROS",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FROS"
+      }
+     ],
+     "wersja": "2026-10-26",
+     "sha256": "098cc26f1a1b04e7d49131599411b58ea13c0598e2efbab3f0825b8035f1d9f8",
+     "rozmiar": 36079,
+     "arkusze": [
+      "FROS I",
+      "FROS II",
+      "FROS III"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+     "plik": "FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+     "opis": "FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27 zm.15 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FRZJOdW",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": null
+      },
+      {
+       "skrot": "FROM",
+       "stopien": null,
+       "stopnie": [
+        2
+       ],
+       "lata": null,
+       "kod": "FROM"
+      }
+     ],
+     "wersja": "2026-10-15",
+     "sha256": "d8af5b209eb522cbd93b0fdfff9c93a5f3f480beacacb0927854347a2f922710",
+     "rozmiar": 62903,
+     "arkusze": [
+      "FRzJOdW I",
+      "FRzJOdW II",
+      "FRzJOdW III",
+      "FROM I",
+      "FROM II"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+     "plik": "GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+     "opis": "GC I i II st. – plan zajęć semestr zimowy 2026_2027 – zm. nr 2 z 13 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "GC",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "GC"
+      }
+     ],
+     "wersja": "2026-10-13",
+     "sha256": "4266b3b4410a6a4ab526cd1645e47fd12127c6218fd62f947c0d99efc7a0f67b",
+     "rozmiar": 57943,
+     "arkusze": [
+      "GC I rok",
+      "GC II rok",
+      "GC III rok",
+      "GC 1 rok II st."
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+     "plik": "HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+     "opis": "HIST I i II st. – plan zajęć semestr zimowy 2026_2027 – zm. 09 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "HIST",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "HIST"
+      }
+     ],
+     "wersja": "2026-10-09",
+     "sha256": "0fd26eff6a6b2ba380f7124b961f3b4f95a42e706a003371406c3ae0da8f61aa",
+     "rozmiar": 61604,
+     "arkusze": [
+      "Historia-I-1",
+      "Historia-I-2",
+      "Historia-I-3 ",
+      "Historia-II-1 ",
+      "Historia-II-2 "
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+     "plik": "ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+     "opis": "ITA I i II st.-plan zajęć semestr zimowy 2026_2027 zm. 13 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "ITA",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "ITA"
+      }
+     ],
+     "wersja": "2026-10-13",
+     "sha256": "44004842063fe83b7255d03daa37fe48f5e3608a49f846e40244c8c89ddc1263",
+     "rozmiar": 45511,
+     "arkusze": [
+      "ITA I rok",
+      "ITA II rok",
+      "ITA III rok",
+      "ITA I rok II"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+     "plik": "KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+     "opis": "KK I i II st. – plan zajęć semestr zimowy 2026_2027 – zm. 29 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "KK",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "KK"
+      }
+     ],
+     "wersja": "2026-10-29",
+     "sha256": "ec69a28bd814bd9dbe8bcbcf89b0591e29f7fa1feb00934f237069321f2a8c8c",
+     "rozmiar": 48694,
+     "arkusze": [
+      "KK 1",
+      "KK 2",
+      "KK 3",
+      "KK 2 I ",
+      "KK 2 II"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/LDB-I-st.-plan-zajec-semestr-zimowy-2026-2027-zm.-12-X-2026.xlsx",
+     "plik": "LDB-I-st.-plan-zajec-semestr-zimowy-2026-2027-zm.-12-X-2026.xlsx",
+     "opis": "LDB-I-st.-plan-zajęć-semestr-zimowy 2026-2027 – zm. 12 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "LDB",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "LDB"
+      }
+     ],
+     "wersja": "2026-10-12",
+     "sha256": "3b53ecc627d1f7861837a603f041ec46eba92b63b190369b05cb7afeabdcf497",
+     "rozmiar": 24379,
+     "arkusze": [
+      "LDB II"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+     "plik": "MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+     "opis": "MiC I st. – plan zajęć semestr zimowy 2026_2027 – zm. 05 XI 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "MiC",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "MIC"
+      }
+     ],
+     "wersja": "2026-11-05",
+     "sha256": "f91bed97d476c54fdf309f358af907d95bbbbe796a2f3846e149f5a12b5e8ece",
+     "rozmiar": 43103,
+     "arkusze": [
+      "MIC-I-1",
+      "MIC-I-2",
+      "MIC-I-3"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/P_GWSN-3r-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-IX-2026.xlsx",
+     "plik": "P_GWSN-3r-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-IX-2026.xlsx",
+     "opis": "P_GWSN 3r I st. – plan zajęć semestr zimowy 2026_2027 – zm. 29 IX 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "P_GWSN",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": [
+        3
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": "2026-09-29",
+     "sha256": "c1bac64025d6238a12f7eb0eca08f64e83d84cde993551b721c32b53d3dbcebb",
+     "rozmiar": 18601,
+     "arkusze": [
+      "PGWSN 3"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/P_GWSN-2r.-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+     "plik": "P_GWSN-2r.-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+     "opis": "P_GWSN 2r. II st. -plan zajęć semestr zimowy 2026_2027 – zm. 09 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "P_GWSN",
+       "stopien": null,
+       "stopnie": [
+        2
+       ],
+       "lata": [
+        2
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": "2026-10-09",
+     "sha256": "249bf1d5bb0f308a11645f4dd110ebafb1020ba7c6b424fa95df113c987f69a5",
+     "rozmiar": 18051,
+     "arkusze": [
+      "PGWSN 2 rok II st"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/PRP-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-06-X-2026.xlsx",
+     "plik": "PRP-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-06-X-2026.xlsx",
+     "opis": "PRP-II-st.-plan-zajęć-semestr-zimowy 2026_27 zm. 06 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "PRP",
+       "stopien": null,
+       "stopnie": [
+        2
+       ],
+       "lata": null,
+       "kod": "PRP"
+      }
+     ],
+     "wersja": "2026-10-06",
+     "sha256": "14199959f1c20eb66964bc88fb50941b74543240d80b40102ba80fb5df4522c4",
+     "rozmiar": 31122,
+     "arkusze": [
+      "PRP 1",
+      "PRP 2"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+     "plik": "SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+     "opis": "SM I I II st. – plan zajęć semestr zimowy 2026_2027 – zm. 06 XI 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "SM",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "SM"
+      }
+     ],
+     "wersja": "2026-11-06",
+     "sha256": "f00c957eb1beddd2c703619f1f860143d86e1cdc397df6c762f5fd1fe2e583ea",
+     "rozmiar": 61366,
+     "arkusze": [
+      "SM-I-1",
+      "SM-I-2",
+      "SM-I-3 ",
+      "SM-II-1",
+      "SM-II-2 "
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+     "plik": "SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+     "opis": "SP I st. plan zajęć semestr zimowy – 2026_2027 zm. 2 – 20 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "SP",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "SP"
+      }
+     ],
+     "wersja": "2026-10-20",
+     "sha256": "1173543a5026cbe303c1709386594552aec982729bb339f9b95b7fa545366f43",
+     "rozmiar": 37865,
+     "arkusze": [
+      "SP 1",
+      "SP 2",
+      "SP 3"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-27-X-2026.xlsx",
+     "plik": "SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-27-X-2026.xlsx",
+     "opis": "SP II st. plan zajęć semestr zimowy – 2026_2027 zm. 27 X 2026",
+     "format": "xlsx",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "SP",
+       "stopien": null,
+       "stopnie": [
+        2
+       ],
+       "lata": null,
+       "kod": "SP"
+      }
+     ],
+     "wersja": "2026-10-27",
+     "sha256": "75db70d266bd7d425f59b1952d266734110df72c74dd463e53677e8b124eb0f0",
+     "rozmiar": 24596,
+     "arkusze": [
+      "SP 1",
+      "SP 2"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/Harmonogram-zjazdow-na-studiach-niestacjonarnych-na-Wydziale-Humanistycznym-w-r.a.-26_27.pdf",
+     "plik": "Harmonogram-zjazdow-na-studiach-niestacjonarnych-na-Wydziale-Humanistycznym-w-r.a.-26_27.pdf",
+     "opis": "Harmonogram zjazdów na studiach niestacjonarnych na Wydziale Humanistycznym w r.a. 26_27",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "harmonogram",
+     "kierunki": [],
+     "wersja": null,
+     "sha256": "e9f396b1a75a523434a06223da48831097a30e575b2a92cf4231a356d7aef64c",
+     "rozmiar": 161354
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+     "plik": "FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+     "opis": "FA I i II st.-niestacjonarne-plan zajęć semestr zimowy 2026_2027 – zm. nr 2 z 03 XI 2026",
+     "format": "xlsx",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FA",
+       "stopien": null,
+       "stopnie": [
+        1,
+        2
+       ],
+       "lata": null,
+       "kod": "FA"
+      }
+     ],
+     "wersja": "2026-11-03",
+     "sha256": "a25f42e510f78150252dc78089a44bced215566a1eeffc47ff7d8920bd35a63a",
+     "rozmiar": 90741,
+     "arkusze": [
+      "zjazd 1",
+      "zjazd 2",
+      "zjazd 3",
+      "zjazd 4",
+      "zjazd 5",
+      "zjazd 6",
+      "zjazd 7",
+      "zjazd 8",
+      "zjazd 9"
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+     "plik": "FG-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+     "opis": "FG I st.-niestacjonarne-plan zajęć semestr zimowy 2026_2027 – zm. 05 XI 2026",
+     "format": "xlsx",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FG",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FG"
+      }
+     ],
+     "wersja": "2026-11-05",
+     "sha256": "4132dfdfae98e9947a335f225bb4c76e823edc5fe41f19afa0277134496c4613",
+     "rozmiar": 22843,
+     "arkusze": [
+      "II rok I st."
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+     "plik": "FGzJA-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+     "opis": "FGzJA I st.-niestacjonarne-plan zajęć semestr zimowy 2026_ 2027 – 26 X 2026",
+     "format": "xlsx",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FGzJA",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FGZJA"
+      }
+     ],
+     "wersja": "2026-10-26",
+     "sha256": "e07851f9fad9bb0db764c8f5c0ab0a6ab3d8043918acf1b1b98b22358ae3fe4a",
+     "rozmiar": 33950,
+     "arkusze": [
+      " I rok I st."
+     ]
+    },
+    {
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+     "plik": "FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+     "opis": "FH I st. .-niestacjonarne-plan zajęć semestr zimowy 2026_2027 – zm. nr 2 z 08 X 2026",
+     "format": "xlsx",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "skrot": "FH",
+       "stopien": null,
+       "stopnie": [
+        1
+       ],
+       "lata": null,
+       "kod": "FH"
+      }
+     ],
+     "wersja": "2026-10-08",
+     "sha256": "af6bdb6865cef0e282568108a6921559d0fbf374aed4012702df1e2002c8d1bb",
+     "rozmiar": 27261,
+     "arkusze": [
+      "I rok",
+      "II rok",
+      "III rok"
+     ]
+    }
+   ]
+  },
+  "wns": {
+   "skrot": "WNS",
+   "pl": "Wydział Nauk Społecznych",
+   "en": "Faculty of Social Sciences",
+   "dos": [
+    "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/"
+   ],
+   "strony": [
+    {
+     "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/",
+     "tryb": "st",
+     "format": "pdf"
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+     "tryb": "nst",
+     "format": "pdf"
+    }
+   ],
+   "zrodla": [
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/AK-I-93.pdf",
+     "plik": "AK-I-93.pdf",
+     "opis": "ANIMACJA KULTURY: Studia pierwszego stopnia: ROK 3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "ANIMACJA KULTURY",
+       "skrot": "AK",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "AK"
+      }
+     ],
+     "wersja": null,
+     "sha256": "cf9fce0f372259e69c20e1ecd4d81ac23d452442e7d91fc454090b21d0a1bd3e",
+     "rozmiar": 168701
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BN-I-62.pdf",
+     "plik": "BN-I-62.pdf",
+     "opis": "BEZPIECZEŃSTWO NARODOWE: Studia pierwszego stopnia: ROK 1-3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO NARODOWE",
+       "skrot": "BN",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3
+       ],
+       "kod": "BN"
+      }
+     ],
+     "wersja": null,
+     "sha256": "b5a0ba5f97a3d6d82ed2111c09cc7bab0e9b142776dcc576e7d51a70b04d0aec",
+     "rozmiar": 171526
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BN-II-50.pdf",
+     "plik": "BN-II-50.pdf",
+     "opis": "BEZPIECZEŃSTWO NARODOWE: Studia drugiego stopnia: ROK 1-2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO NARODOWE",
+       "skrot": "BN",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "kod": "BN"
+      }
+     ],
+     "wersja": null,
+     "sha256": "59ca0dd694a5aba82d9d7a19356f8d2eb3f056007e3f322b17326b9e5e37309e",
+     "rozmiar": 99084
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
+     "plik": "BW-I-68.pdf",
+     "opis": "BEZPIECZEŃSTWO WEWNĘTRZNE: Studia pierwszego stopnia: ROK 1-3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO WEWNĘTRZNE",
+       "skrot": "BW",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3
+       ],
+       "kod": "BW"
+      }
+     ],
+     "wersja": null,
+     "sha256": "60d2ee3a5a0b2eec15037d1c2120e2374184c20b4df2ebd4df61e5bed4d0ce34",
+     "rozmiar": 203626
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-56.pdf",
+     "plik": "BW-II-56.pdf",
+     "opis": "BEZPIECZEŃSTWO WEWNĘTRZNE: Studia drugiego stopnia: ROK 1-2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO WEWNĘTRZNE",
+       "skrot": "BW",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "kod": "BW"
+      }
+     ],
+     "wersja": null,
+     "sha256": "49ea4640ae4ed993e28558fe7f03150de29adf235b033a27bcadadd711c5b6c5",
+     "rozmiar": 117531
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-125.pdf",
+     "plik": "EA-I-125.pdf",
+     "opis": "EDUKACJA ARTYSTYCZNA: Studia pierwszego stopnia: ROK 1-3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "EDUKACJA ARTYSTYCZNA",
+       "skrot": "EA",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3
+       ],
+       "kod": "EA"
+      }
+     ],
+     "wersja": null,
+     "sha256": "01707f463cd18b5890c89dd05e129a2841c4b8e2e5010bb723350b14e8382cc8",
+     "rozmiar": 271662
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/EA-II-21.pdf",
+     "plik": "EA-II-21.pdf",
+     "opis": "EDUKACJA ARTYSTYCZNA: Studia drugiego stopnia: ROK 1-2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "EDUKACJA ARTYSTYCZNA",
+       "skrot": "EA",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "kod": "EA"
+      }
+     ],
+     "wersja": null,
+     "sha256": "f9a1a2de8bb2907a1eabeb3ecfff06c79333212f7ef51a80292813dbfba85054",
+     "rozmiar": 169219
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-I-66.pdf",
+     "plik": "MIPiPR-I-66.pdf",
+     "opis": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS: Studia pierwszego stopnia: ROK 1-3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS",
+       "skrot": "MIPiPR",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3
+       ],
+       "kod": "MIPIPR"
+      }
+     ],
+     "wersja": null,
+     "sha256": "0537dc63826491565a6ecd6733b5e1ef2d676d59ce617862a649686a1684ed0a",
+     "rozmiar": 133012
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-II-55.pdf",
+     "plik": "MIPiPR-II-55.pdf",
+     "opis": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS: Studia drugiego stopnia: ROK 1-2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS",
+       "skrot": "MIPiPR",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "kod": "MIPIPR"
+      }
+     ],
+     "wersja": null,
+     "sha256": "51c48bc9c7367d5039058f38e30af57ee95d895861d95960d857934776522c72",
+     "rozmiar": 94069
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-29.pdf",
+     "plik": "POL-I-29.pdf",
+     "opis": "POLITOLOGIA: Studia pierwszego stopnia: ROK 1-3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "POLITOLOGIA",
+       "skrot": "POL",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3
+       ],
+       "kod": "POL"
+      }
+     ],
+     "wersja": null,
+     "sha256": "51b27d22396df35c2e6063eabde696a78cbf56e5fd5e7e7c00233e16daaf1c39",
+     "rozmiar": 118542
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
+     "plik": "PedO-I-128.pdf",
+     "opis": "PEDAGOGIKA: Studia pierwszego stopnia: ROK 1-3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA",
+       "skrot": "PedO",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3
+       ],
+       "kod": "PEDO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "16cade6edc3dcaf6ceed16ba9a8d93f2b287d3d39fd2fa4d7fab55b0cabd5fe2",
+     "rozmiar": 275020
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
+     "plik": "PedO-II-79.pdf",
+     "opis": "PEDAGOGIKA: Studia drugiego stopnia: ROK 1-2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA",
+       "skrot": "PedO",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "kod": "PEDO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "b6212bd0146bf1b02a5b81d77ba1fd5763d4923eba2c6a8559e90c58cc221886",
+     "rozmiar": 190996
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/POW-I-82.pdf",
+     "plik": "POW-I-82.pdf",
+     "opis": "PEDAGOGIKA OPIEKUŃCZO-WYCHOWAWCZA: Studia pierwszego stopnia: ROK 3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA OPIEKUŃCZO-WYCHOWAWCZA",
+       "skrot": "POW",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "POW"
+      }
+     ],
+     "wersja": null,
+     "sha256": "7796c8452f04ea74698b7a1b0c1c1572cd561d9837d79c42c9811960e5ee6f75",
+     "rozmiar": 149983
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+     "plik": "PPIW-15.pdf",
+     "opis": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA: Studia jednolite magisterskie: ROK 1-5",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA",
+       "skrot": "PPIW",
+       "stopien": 0,
+       "lata": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ],
+       "kod": "PPIW"
+      }
+     ],
+     "wersja": null,
+     "sha256": "14ab4c62d225708187f00486ebb32aacb536589b66acf7c7f623b5b18a42c4af",
+     "rozmiar": 358666
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
+     "plik": "RESO-I-95.pdf",
+     "opis": "PEDAGOGIKA RESOCJALIZACYJNA: Studia pierwszego stopnia: ROK 1-3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA RESOCJALIZACYJNA",
+       "skrot": "RESO",
+       "stopien": 1,
+       "lata": [
+        1,
+        2,
+        3
+       ],
+       "kod": "RESO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "69e87ae9abadea73993e7e4fbd83b854b87e01e95335bc83071a6ef19f38cdb7",
+     "rozmiar": 221086
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/Reso-II-14.pdf",
+     "plik": "Reso-II-14.pdf",
+     "opis": "PEDAGOGIKA RESOCJALIZACYJNA: Studia drugiego stopnia: ROK 1-2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA RESOCJALIZACYJNA",
+       "skrot": "Reso",
+       "stopien": 2,
+       "lata": [
+        1,
+        2
+       ],
+       "kod": "RESO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "35bc10046aa4d338a2502ebabb00b63cc9e8ced629b91ee7ef77e6a4832f65e9",
+     "rozmiar": 176874
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+     "plik": "PEDSPEC-JM-13.pdf",
+     "opis": "PEDAGOGIKA SPECJALNA: Studia jednolite magisterskie: ROK 1-5",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA SPECJALNA",
+       "skrot": "PEDSPEC",
+       "stopien": 0,
+       "lata": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "ff0c3c7979f4d4db7cc9ed72c155dbe3b6a81deebec2a7ff5dbc527bfbf4650c",
+     "rozmiar": 279783
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/PS-I-41.pdf",
+     "plik": "PS-I-41.pdf",
+     "opis": "PRACA SOCJALNA: Studia pierwszego stopnia: ROK 1",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PRACA SOCJALNA",
+       "skrot": "PS",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "PS"
+      }
+     ],
+     "wersja": null,
+     "sha256": "a2a0b34f40126a2b4d20e5b0ea675ce845ea92bf7102766fc598d7708f4dc41c",
+     "rozmiar": 190010
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-I-3-1.pdf",
+     "plik": "Psych-I-3-1.pdf",
+     "opis": "PSYCHOLOGIA – studia jednolite magisterskie: ROK 1",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PSYCHOLOGIA",
+       "skrot": "Psych",
+       "stopien": 0,
+       "lata": [
+        1
+       ],
+       "kod": "PSYCH"
+      }
+     ],
+     "wersja": null,
+     "sha256": "01586d6de0c1273f2262deaee71f127a85b54699691661f048c7f91113acf394",
+     "rozmiar": 219497
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-II-3-2.pdf",
+     "plik": "Psych-II-3-2.pdf",
+     "opis": "PSYCHOLOGIA – studia jednolite magisterskie: ROK 2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PSYCHOLOGIA",
+       "skrot": "Psych",
+       "stopien": 0,
+       "lata": [
+        2
+       ],
+       "kod": "PSYCH"
+      }
+     ],
+     "wersja": null,
+     "sha256": "c2e380ae52bc0a14d657e70a0c55be71b572c2c8fec813feb01c5302d1dde772",
+     "rozmiar": 241451
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-III-10.pdf",
+     "plik": "Psych-III-10.pdf",
+     "opis": "PSYCHOLOGIA – studia jednolite magisterskie: ROK 3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PSYCHOLOGIA",
+       "skrot": "Psych",
+       "stopien": 0,
+       "lata": [
+        3
+       ],
+       "kod": "PSYCH"
+      }
+     ],
+     "wersja": null,
+     "sha256": "b990e6ad0f393e92cd76aabdb39c8132b4ce891fafdcc9a018c23bd1d4765770",
+     "rozmiar": 202845
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-IV-1-1.pdf",
+     "plik": "Psych-IV-1-1.pdf",
+     "opis": "PSYCHOLOGIA – studia jednolite magisterskie: ROK 4",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PSYCHOLOGIA",
+       "skrot": "Psych",
+       "stopien": 0,
+       "lata": [
+        4
+       ],
+       "kod": "PSYCH"
+      }
+     ],
+     "wersja": null,
+     "sha256": "a03cc784e6ab0bb82a7086c5e683a1ea9a1cb3e91ccba305eac820547e7491bc",
+     "rozmiar": 196260
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-V-8.pdf",
+     "plik": "Psych-V-8.pdf",
+     "opis": "PSYCHOLOGIA – studia jednolite magisterskie: ROK 5",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PSYCHOLOGIA",
+       "skrot": "Psych",
+       "stopien": 0,
+       "lata": [
+        5
+       ],
+       "kod": "PSYCH"
+      }
+     ],
+     "wersja": null,
+     "sha256": "007494d78dc5cd98425ddcad2ca43a5f9784e92e4981669fa36202a1cb50132a",
+     "rozmiar": 190731
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-1-25.pdf",
+     "plik": "SOC-1-25.pdf",
+     "opis": "SOCJOLOGIA – studia pierwszego stopnia: ROK 1",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCJOLOGIA",
+       "skrot": "SOC",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "SOC"
+      }
+     ],
+     "wersja": null,
+     "sha256": "64215599e7d4f39245c10e8cda6cc281e42e0bff25df86cee78149a5240c735b",
+     "rozmiar": 128324
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-2-32.pdf",
+     "plik": "SOC-2-32.pdf",
+     "opis": "SOCJOLOGIA – studia pierwszego stopnia: ROK 2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCJOLOGIA",
+       "skrot": "SOC",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "SOC"
+      }
+     ],
+     "wersja": null,
+     "sha256": "2a659abd4112ce4703b102bafa7e2cbac031e61b014a6abb952283915431e905",
+     "rozmiar": 126032
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-3-34.pdf",
+     "plik": "SOC-3-34.pdf",
+     "opis": "SOCJOLOGIA – studia pierwszego stopnia: ROK 3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCJOLOGIA",
+       "skrot": "SOC",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "SOC"
+      }
+     ],
+     "wersja": null,
+     "sha256": "f015d3d8bb134c2c8f43bafae54f7265663476a37e2bd58919955bc09631555b",
+     "rozmiar": 127974
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-1-II-stopien-13.pdf",
+     "plik": "SOC-1-II-stopien-13.pdf",
+     "opis": "SOCJOLOGIA – studia drugiego stopnia: ROK 1",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCJOLOGIA",
+       "skrot": "SOC",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "SOC"
+      }
+     ],
+     "wersja": null,
+     "sha256": "8060692534e86b8daf34c98189403e8a3150b662d1c96db161b0693b9e785442",
+     "rozmiar": 120051
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-2-II-stopien-13.pdf",
+     "plik": "SOC-2-II-stopien-13.pdf",
+     "opis": "SOCJOLOGIA – studia drugiego stopnia: ROK 2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCJOLOGIA",
+       "skrot": "SOC",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "SOC"
+      }
+     ],
+     "wersja": null,
+     "sha256": "5bc738d637a86bab50fe4cb3850780717d229b6bbcb619b3aa9c7fe15ef7cda6",
+     "rozmiar": 118566
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-1-20.pdf",
+     "plik": "SIOS-1-20.pdf",
+     "opis": "SOCJOTECHNIKA I ODDZIAŁYWANIE SPOŁECZNE – studia pierwszego stopnia: ROK 1",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCJOTECHNIKA I ODDZIAŁYWANIE SPOŁECZNE",
+       "skrot": "SIOS",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "SIOS"
+      }
+     ],
+     "wersja": null,
+     "sha256": "bdcbb8cc787f4e09359d50bd1475c4afc0b90f9878de5d1944396f8d7ef72477",
+     "rozmiar": 122087
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-2-20.pdf",
+     "plik": "SIOS-2-20.pdf",
+     "opis": "SOCJOTECHNIKA I ODDZIAŁYWANIE SPOŁECZNE – studia pierwszego stopnia: ROK 2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCJOTECHNIKA I ODDZIAŁYWANIE SPOŁECZNE",
+       "skrot": "SIOS",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "SIOS"
+      }
+     ],
+     "wersja": null,
+     "sha256": "2c9e28f296847ea8b7b9853daf2b4c85bec15d5835cb13812ff9e5d7f3c6b070",
+     "rozmiar": 199042
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-3-18.pdf",
+     "plik": "SIOS-3-18.pdf",
+     "opis": "SOCJOTECHNIKA I ODDZIAŁYWANIE SPOŁECZNE – studia pierwszego stopnia: ROK 3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCJOTECHNIKA I ODDZIAŁYWANIE SPOŁECZNE",
+       "skrot": "SIOS",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "SIOS"
+      }
+     ],
+     "wersja": null,
+     "sha256": "6564198fd5ec848f23dc4ca5fa887b9952e0fc7319975400804f615869228730",
+     "rozmiar": 203362
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SS-1-50.pdf",
+     "plik": "SS-1-50.pdf",
+     "opis": "SOCIAL SCIENCES – studia pierwszego stopnia (studia w jęz. angielskim): ROK 1",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCIAL SCIENCES",
+       "skrot": "SS",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "SS"
+      }
+     ],
+     "wersja": null,
+     "sha256": "3cb63dbc0e22c17f1870dd9fe75c27116d2eaa6f566e2eb25c87eb86e22a4dc1",
+     "rozmiar": 176617
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SS-2-39.pdf",
+     "plik": "SS-2-39.pdf",
+     "opis": "SOCIAL SCIENCES – studia pierwszego stopnia (studia w jęz. angielskim): ROK 2",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCIAL SCIENCES",
+       "skrot": "SS",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "SS"
+      }
+     ],
+     "wersja": null,
+     "sha256": "61feff926f404606f8037f17c17b909d85432cb9afb9a7764dcdb381a849b3fb",
+     "rozmiar": 197001
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/SS-3-36.pdf",
+     "plik": "SS-3-36.pdf",
+     "opis": "SOCIAL SCIENCES – studia pierwszego stopnia (studia w jęz. angielskim): ROK 3",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "SOCIAL SCIENCES",
+       "skrot": "SS",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "SS"
+      }
+     ],
+     "wersja": null,
+     "sha256": "995593639c7a5f61bfccacb85fb83997f6e65afe3ce1639a95320d62e4a5cc08",
+     "rozmiar": 209392
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/MIPIPR-1-zjazd-2.pdf",
+     "plik": "MIPIPR-1-zjazd-2.pdf",
+     "opis": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS: Zjazd 1 9-11 X",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS",
+       "stopien": null,
+       "lata": null,
+       "kod": "MIPIPR"
+      }
+     ],
+     "zjazd": 1,
+     "termin": "9-11 X",
+     "wersja": null,
+     "sha256": "f4f55494884ea6e521f94405cc623f23a532a17137ade0bdbd8f0d0cae6e292a",
+     "rozmiar": 277902
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/MIPIPR-2-zjazd-3.pdf",
+     "plik": "MIPIPR-2-zjazd-3.pdf",
+     "opis": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS: Zjazd 2 23-25 X",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS",
+       "stopien": null,
+       "lata": null,
+       "kod": "MIPIPR"
+      }
+     ],
+     "zjazd": 2,
+     "termin": "23-25 X",
+     "wersja": null,
+     "sha256": "a768903229d11100e592c0691e87a4904a93cc7f0b1c80c3cff597cafdf2c544",
+     "rozmiar": 279014
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-3-zjazd-6.11.pdf",
+     "plik": "MIPiPR-3-zjazd-6.11.pdf",
+     "opis": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS: Zjazd 3 6-8 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS",
+       "stopien": null,
+       "lata": null,
+       "kod": "MIPIPR"
+      }
+     ],
+     "zjazd": 3,
+     "termin": "6-8 XI",
+     "wersja": null,
+     "sha256": "a52530003bb94fc2d9e7b6e418fc54ac059aea7c9639f67884981cd834706733",
+     "rozmiar": 178115
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/MIPIPR-4-zjazd-1.pdf",
+     "plik": "MIPIPR-4-zjazd-1.pdf",
+     "opis": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS: Zjazd 4 20-22 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS",
+       "stopien": null,
+       "lata": null,
+       "kod": "MIPIPR"
+      }
+     ],
+     "zjazd": 4,
+     "termin": "20-22 XI",
+     "wersja": null,
+     "sha256": "8911abc2bd01e8fe9cbfd49ce2546b983560b2fc5d745de21e8b7112890555c2",
+     "rozmiar": 283592
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/MIPIPR-5-zjazd.pdf",
+     "plik": "MIPIPR-5-zjazd.pdf",
+     "opis": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS: Zjazd 5 27-29 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS",
+       "stopien": null,
+       "lata": null,
+       "kod": "MIPIPR"
+      }
+     ],
+     "zjazd": 5,
+     "termin": "27-29 XI",
+     "wersja": null,
+     "sha256": "2b64428a377f56836c29bf2e25b0fa55b630b3d6a173a518d89439c64d42fae0",
+     "rozmiar": 281426
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/MIPIPR-6-zjazd.pdf",
+     "plik": "MIPIPR-6-zjazd.pdf",
+     "opis": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS: Zjazd 6 11-13 XII",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "MANAGEMENT INSTYTUCJI PUBLICZNYCH I PUBLIC RELATIONS",
+       "stopien": null,
+       "lata": null,
+       "kod": "MIPIPR"
+      }
+     ],
+     "zjazd": 6,
+     "termin": "11-13 XII",
+     "wersja": null,
+     "sha256": "6ee71f8a6349831f832d0c758a2fe4d3eee437b77562c926fdbe9fc35c164806",
+     "rozmiar": 281383
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-1-zjazd-2.pdf",
+     "plik": "BW-I-i-II-1-zjazd-2.pdf",
+     "opis": "BEZPIECZEŃSTWO WEWNĘTRZNE: Zjazd 1 9-11 X",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO WEWNĘTRZNE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BW"
+      }
+     ],
+     "zjazd": 1,
+     "termin": "9-11 X",
+     "wersja": null,
+     "sha256": "cf9ecb2d5d35beed47161a3b651234668c688ccae4349fc32bced8dbe52fcf38",
+     "rozmiar": 289932
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-2-zjazd-3.pdf",
+     "plik": "BW-I-i-II-2-zjazd-3.pdf",
+     "opis": "BEZPIECZEŃSTWO WEWNĘTRZNE: Zjazd 2 23-25 X",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO WEWNĘTRZNE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BW"
+      }
+     ],
+     "zjazd": 2,
+     "termin": "23-25 X",
+     "wersja": null,
+     "sha256": "2abeaec331daf3f3eb5a86d148782bc16b25922624bbd1bcc878730afcffedc5",
+     "rozmiar": 285080
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BW-3-zjazd-6.11.pdf",
+     "plik": "BW-3-zjazd-6.11.pdf",
+     "opis": "BEZPIECZEŃSTWO WEWNĘTRZNE: Zjazd 3 6-8 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO WEWNĘTRZNE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BW"
+      }
+     ],
+     "zjazd": 3,
+     "termin": "6-8 XI",
+     "wersja": null,
+     "sha256": "958a29b1deda31b0da4894510ba0ab5457beaf02b6bb46b7047fca9e8c29a7b6",
+     "rozmiar": 182621
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-4-zjazd-1.pdf",
+     "plik": "BW-I-i-II-4-zjazd-1.pdf",
+     "opis": "BEZPIECZEŃSTWO WEWNĘTRZNE: Zjazd 4 20-22 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO WEWNĘTRZNE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BW"
+      }
+     ],
+     "zjazd": 4,
+     "termin": "20-22 XI",
+     "wersja": null,
+     "sha256": "87e1d88eef7ae918bc313f91013d53f1028d6eba25c7e8d3b0735406cc13a9dc",
+     "rozmiar": 287080
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-5-zjazd-1.pdf",
+     "plik": "BW-I-i-II-5-zjazd-1.pdf",
+     "opis": "BEZPIECZEŃSTWO WEWNĘTRZNE: Zjazd 5 27-29 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO WEWNĘTRZNE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BW"
+      }
+     ],
+     "zjazd": 5,
+     "termin": "27-29 XI",
+     "wersja": null,
+     "sha256": "584fa1a36d4b8840463272c288a971bd661179b5f4ec88f328adf74ef7e7857c",
+     "rozmiar": 283495
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-6-zjazd-1.pdf",
+     "plik": "BW-I-i-II-6-zjazd-1.pdf",
+     "opis": "BEZPIECZEŃSTWO WEWNĘTRZNE: Zjazd 6 11-13 XII",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO WEWNĘTRZNE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BW"
+      }
+     ],
+     "zjazd": 6,
+     "termin": "11-13 XII",
+     "wersja": null,
+     "sha256": "d4260da222ba1c8f8095852f3c66f229adfe58a34523682e77d601f5162cb2e1",
+     "rozmiar": 284621
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BN-1-zjazd-3.pdf",
+     "plik": "BN-1-zjazd-3.pdf",
+     "opis": "BEZPIECZEŃSTWO NARODOWE: Zjazd 1 9-11 X",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO NARODOWE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BN"
+      }
+     ],
+     "zjazd": 1,
+     "termin": "9-11 X",
+     "wersja": null,
+     "sha256": "1167b9f49245c77acdcb47075b0f3aedd0b2576e807fa2d2860863502795d287",
+     "rozmiar": 175364
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BN-2-zjazd-4.pdf",
+     "plik": "BN-2-zjazd-4.pdf",
+     "opis": "BEZPIECZEŃSTWO NARODOWE: Zjazd 2 23-25 X",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO NARODOWE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BN"
+      }
+     ],
+     "zjazd": 2,
+     "termin": "23-25 X",
+     "wersja": null,
+     "sha256": "51c120de2b5912a05e65fa202767fb2478bb6debeac86e985fc45138b5374ce5",
+     "rozmiar": 176732
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BN-3-zjazd-6.11.pdf",
+     "plik": "BN-3-zjazd-6.11.pdf",
+     "opis": "BEZPIECZEŃSTWO NARODOWE: Zjazd 3 6-8 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO NARODOWE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BN"
+      }
+     ],
+     "zjazd": 3,
+     "termin": "6-8 XI",
+     "wersja": null,
+     "sha256": "4c1f99993bda23993995586669ad1b285398eb5d8eb527f8f894427ea8468166",
+     "rozmiar": 64594
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BN-4-zjazd-2.pdf",
+     "plik": "BN-4-zjazd-2.pdf",
+     "opis": "BEZPIECZEŃSTWO NARODOWE: Zjazd 4 20-22 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO NARODOWE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BN"
+      }
+     ],
+     "zjazd": 4,
+     "termin": "20-22 XI",
+     "wersja": null,
+     "sha256": "3dd117ccee082c5531444cd8c4c17821ccae464913fcbe3fd69982c75dfba985",
+     "rozmiar": 176529
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BN-5-zjazd-1.pdf",
+     "plik": "BN-5-zjazd-1.pdf",
+     "opis": "BEZPIECZEŃSTWO NARODOWE: Zjazd 5 27-29 XI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO NARODOWE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BN"
+      }
+     ],
+     "zjazd": 5,
+     "termin": "27-29 XI",
+     "wersja": null,
+     "sha256": "20526c46088ae18875c9ae99b58405d57a442f44e974829fa5e059093f632242",
+     "rozmiar": 177047
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/BN-6-zjazd-1.pdf",
+     "plik": "BN-6-zjazd-1.pdf",
+     "opis": "BEZPIECZEŃSTWO NARODOWE: Zjazd 6 11-13 XII",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "BEZPIECZEŃSTWO NARODOWE",
+       "stopien": null,
+       "lata": null,
+       "kod": "BN"
+      }
+     ],
+     "zjazd": 6,
+     "termin": "11-13 XII",
+     "wersja": null,
+     "sha256": "ad680a2f488121c8054c9835270dcf1a1554938e0029eec302d0be062a0c2e93",
+     "rozmiar": 175228
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/1-zjazd-Ped-O-PS-2.pdf",
+     "plik": "1-zjazd-Ped-O-PS-2.pdf",
+     "opis": "PEDAGOGIKA i PRACA SOCJALNA: 1 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA i PRACA SOCJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 1,
+     "wersja": null,
+     "sha256": "63e94b144164440dc87f44b1920ad1b8681accb734af57108775aface303b4df",
+     "rozmiar": 113714
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/2-zjazd-Ped-O-i-PS-2.pdf",
+     "plik": "2-zjazd-Ped-O-i-PS-2.pdf",
+     "opis": "PEDAGOGIKA i PRACA SOCJALNA: 2 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA i PRACA SOCJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 2,
+     "wersja": null,
+     "sha256": "e73a9e64517f8e17bdc3dd01405aa7da8d920b6569807d26bb16feab5f63bdfd",
+     "rozmiar": 207102
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/3-zjazd-Ped-O-i-PS-4.pdf",
+     "plik": "3-zjazd-Ped-O-i-PS-4.pdf",
+     "opis": "PEDAGOGIKA i PRACA SOCJALNA: 3 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA i PRACA SOCJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 3,
+     "wersja": null,
+     "sha256": "6bb67fb7539c0f853d4527f8ef8f4ea2e4cee44484fbd86bf17da3f22bcca8b7",
+     "rozmiar": 144239
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-i-PS-2.pdf",
+     "plik": "PedO-i-PS-2.pdf",
+     "opis": "PEDAGOGIKA i PRACA SOCJALNA: 4 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA i PRACA SOCJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 4,
+     "wersja": null,
+     "sha256": "b8db9c23edd89ad1f46539d252ee75303c757c5be05bbfd92431ee6b0a894b5f",
+     "rozmiar": 141363
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedO-i-PS.pdf",
+     "plik": "5-zjazd-PedO-i-PS.pdf",
+     "opis": "PEDAGOGIKA i PRACA SOCJALNA: 5 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA i PRACA SOCJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 5,
+     "wersja": null,
+     "sha256": "e3c9c52dd766d6cfbd31ea60e4fee7e72c7d04c98209c34cf21721157dd793a6",
+     "rozmiar": 139895
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/1-zjazd-RESO-1.pdf",
+     "plik": "1-zjazd-RESO-1.pdf",
+     "opis": "PEDAGOGIKA RESOCJALIZACYJNA: 1 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA RESOCJALIZACYJNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "RESO"
+      }
+     ],
+     "zjazd": 1,
+     "wersja": null,
+     "sha256": "cb42d87680a9cfd4220d3302dc69872728aac87e39d4282ff0b78361ef33a1da",
+     "rozmiar": 109817
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/2-zjazd-RESO-3.pdf",
+     "plik": "2-zjazd-RESO-3.pdf",
+     "opis": "PEDAGOGIKA RESOCJALIZACYJNA: 2 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA RESOCJALIZACYJNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "RESO"
+      }
+     ],
+     "zjazd": 2,
+     "wersja": null,
+     "sha256": "2286b9c40aa7e87009a0113236a1fe2a8db0e652d3442df49d40b7a8cae4ecb1",
+     "rozmiar": 205215
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/3-zjazd-RESO-4.pdf",
+     "plik": "3-zjazd-RESO-4.pdf",
+     "opis": "PEDAGOGIKA RESOCJALIZACYJNA: 3 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA RESOCJALIZACYJNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "RESO"
+      }
+     ],
+     "zjazd": 3,
+     "wersja": null,
+     "sha256": "c389301f28a1c67808688c7c0be07326240b1b6b1450af2d895a303c75e47dbd",
+     "rozmiar": 141530
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/4-zjazd-RESO.pdf",
+     "plik": "4-zjazd-RESO.pdf",
+     "opis": "PEDAGOGIKA RESOCJALIZACYJNA: 4 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA RESOCJALIZACYJNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "RESO"
+      }
+     ],
+     "zjazd": 4,
+     "wersja": null,
+     "sha256": "eee4c2d8d9b3a374c0319912bbec0ce80189fff8fba3116d4f1de6e807017120",
+     "rozmiar": 138301
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-RESO.pdf",
+     "plik": "5-zjazd-RESO.pdf",
+     "opis": "PEDAGOGIKA RESOCJALIZACYJNA: 5 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA RESOCJALIZACYJNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "RESO"
+      }
+     ],
+     "zjazd": 5,
+     "wersja": null,
+     "sha256": "8816ebd7c13e60c692f5a9f5b33423d123eecca9bf24a1cc8af611ae56a4297c",
+     "rozmiar": 140016
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/1-zjazd-PPiW-1.pdf",
+     "plik": "1-zjazd-PPiW-1.pdf",
+     "opis": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA: 1 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "PPIW"
+      }
+     ],
+     "zjazd": 1,
+     "wersja": null,
+     "sha256": "14989ec292d1309490b17c293ff078212befab5a655ee38011e49362f4bd2045",
+     "rozmiar": 114475
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/2-zjazd-PPiW-6.pdf",
+     "plik": "2-zjazd-PPiW-6.pdf",
+     "opis": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA: 2 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "PPIW"
+      }
+     ],
+     "zjazd": 2,
+     "wersja": null,
+     "sha256": "d09892af8968911c58cb820b9d6257f3406b6015ee9b3554139c16241e678c80",
+     "rozmiar": 207830
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/3-zjazd-PPiW-4.pdf",
+     "plik": "3-zjazd-PPiW-4.pdf",
+     "opis": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA: 3 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "PPIW"
+      }
+     ],
+     "zjazd": 3,
+     "wersja": null,
+     "sha256": "a3eb7aadc348286b858ae73c9837dedffc5e5c93e83dce91d90972fb9bfcdd6b",
+     "rozmiar": 146616
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/4-zjazd-PPiW.pdf",
+     "plik": "4-zjazd-PPiW.pdf",
+     "opis": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA: 4 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "PPIW"
+      }
+     ],
+     "zjazd": 4,
+     "wersja": null,
+     "sha256": "ef347c7d7cd71e511a9bf35c86aada5ed3fc8bbbb4c4a6e8d65cbe1d014cc04b",
+     "rozmiar": 146497
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PPiW.pdf",
+     "plik": "5-zjazd-PPiW.pdf",
+     "opis": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA: 5 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA",
+       "stopien": null,
+       "lata": null,
+       "kod": "PPIW"
+      }
+     ],
+     "zjazd": 5,
+     "wersja": null,
+     "sha256": "a3557b8a4a70b2a2c9297388455f464ba6be8341e29d119633d55fa441639965",
+     "rozmiar": 147611
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/1-zjazd-PedSpec-1.pdf",
+     "plik": "1-zjazd-PedSpec-1.pdf",
+     "opis": "PEDAGOGIKA SPECJALNA: 1 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA SPECJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 1,
+     "wersja": null,
+     "sha256": "389d9801486f1809f9c9e80b14d50e4ac95cf3e9c78746863775081d13f235fa",
+     "rozmiar": 114241
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/2-zjazd-Ped-SPec-1.pdf",
+     "plik": "2-zjazd-Ped-SPec-1.pdf",
+     "opis": "PEDAGOGIKA SPECJALNA: 2 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA SPECJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 2,
+     "wersja": null,
+     "sha256": "9009d3f6047f75887aee8cfdc2333c3dd06e9e7918fa287969fd20a0fc0538db",
+     "rozmiar": 115983
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/3-zjazd-Ped-Spec-5.pdf",
+     "plik": "3-zjazd-Ped-Spec-5.pdf",
+     "opis": "PEDAGOGIKA SPECJALNA: 3 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA SPECJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 3,
+     "wersja": null,
+     "sha256": "9befdd65bf5435f14c5ca6525f4b2cbf6b002634445befa4169c675d6515da7e",
+     "rozmiar": 143748
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/4-zjazd-PedSepc.pdf",
+     "plik": "4-zjazd-PedSepc.pdf",
+     "opis": "PEDAGOGIKA SPECJALNA: 4 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA SPECJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 4,
+     "wersja": null,
+     "sha256": "baec96db312c6679934b4bede29b02f5f454994e18a31e8f4d4ed58afdb38135",
+     "rozmiar": 139361
+    },
+    {
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedSpec.pdf",
+     "plik": "5-zjazd-PedSpec.pdf",
+     "opis": "PEDAGOGIKA SPECJALNA: 5 zjazd",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "PEDAGOGIKA SPECJALNA",
+       "stopien": null,
+       "lata": null,
+       "kod": null
+      }
+     ],
+     "zjazd": 5,
+     "wersja": null,
+     "sha256": "83551a644a1a2d16691427ec44a3ff91a4cb12025d062f2d5c14db89029b95fe",
+     "rozmiar": 142415
+    }
+   ]
+  },
+  "wnsip": {
+   "skrot": "WNŚiP",
+   "pl": "Wydział Nauk Ścisłych i Przyrodniczych",
+   "en": "Faculty of Exact and Natural Sciences",
+   "dos": [
+    "https://dos.usz.edu.pl/waska/zajecia-waska/"
+   ],
+   "strony": [
+    {
+     "url": "https://spr.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/",
+     "tryb": "st",
+     "format": "pdf"
+    }
+   ],
+   "zrodla": [
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/biol_1-rok-I-st.-akt.-30.10.pdf",
+     "plik": "biol_1-rok-I-st.-akt.-30.10.pdf",
+     "opis": "biol_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "biologia",
+       "skrot": "biol",
+       "skrotPliku": "biol",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "BIOL"
+      }
+     ],
+     "wersja": "2026-10-30",
+     "sha256": "5f071966fb929b8a4418ff16f29cd7bfdc608385aa014e780cda0d7f436d64cd",
+     "rozmiar": 511704
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/biol_2-rok-I-st.-akt.-05.10..pdf",
+     "plik": "biol_2-rok-I-st.-akt.-05.10..pdf",
+     "opis": "biol_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "biologia",
+       "skrot": "biol",
+       "skrotPliku": "biol",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "BIOL"
+      }
+     ],
+     "wersja": "2026-10-05",
+     "sha256": "c2d16b0127c29cd6da0cfd4c86e646482ee2b0fff3631359d07145d26fd09f3a",
+     "rozmiar": 587162
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/biol_3-rok-I-st.-akt.-20.10..pdf",
+     "plik": "biol_3-rok-I-st.-akt.-20.10..pdf",
+     "opis": "biol_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "biologia",
+       "skrot": "biol",
+       "skrotPliku": "biol",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "BIOL"
+      }
+     ],
+     "wersja": "2026-10-20",
+     "sha256": "cd4b578f198df45d46abbc6052fde205374e6ca44de8e2a5757a1f74625678a2",
+     "rozmiar": 619976
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/biotech_1-rok-I-st.-akt.-19.10.pdf",
+     "plik": "biotech_1-rok-I-st.-akt.-19.10.pdf",
+     "opis": "biotech_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "biotechnologia",
+       "skrot": "biotech",
+       "skrotPliku": "biotech",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": "2026-10-19",
+     "sha256": "1a01dbdfe6e7a05339a159371b119aea30fcec201ef79bfd64680734516738a5",
+     "rozmiar": 532403
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/biotech_3-rok-I-st.-akt.-28.10.pdf",
+     "plik": "biotech_3-rok-I-st.-akt.-28.10.pdf",
+     "opis": "biotech_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "biotechnologia",
+       "skrot": "biotech",
+       "skrotPliku": "biotech",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": "2026-10-28",
+     "sha256": "f2529db6cd20cf2c878a09716cafa8b01633c41ba0515aaa8de883f16e68f478",
+     "rozmiar": 546272
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/biotech_1-rok-II-st.-akt.-19.10.pdf",
+     "plik": "biotech_1-rok-II-st.-akt.-19.10.pdf",
+     "opis": "biotech_1 rok II st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "biotechnologia",
+       "skrot": "biotech",
+       "skrotPliku": "biotech",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": "2026-10-19",
+     "sha256": "faf0a2177d0165c9731d19ea95811cf5c31a83d5c7263e206146560ea9511e6a",
+     "rozmiar": 485989
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/bpk_2-rok-II-st.-5.pdf",
+     "plik": "bpk_2-rok-II-st.-5.pdf",
+     "opis": "bpk_2 rok II st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "biologiczne podstawy kryminalistyki",
+       "skrot": "bpk",
+       "skrotPliku": "bpk",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "BPK"
+      }
+     ],
+     "wersja": null,
+     "sha256": "fdb19102033f2b1c86262d3e1445aa53d3ec218fb6956f0b78201c49d2beaff7",
+     "rozmiar": 521523
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/EZN_4-rok-I-st.-1.pdf",
+     "plik": "EZN_4-rok-I-st.-1.pdf",
+     "opis": "ezn_4 rok I st .",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "eksploatacja zasobów naturalnych",
+       "skrot": "ezn",
+       "skrotPliku": "EZN",
+       "stopien": 1,
+       "lata": [
+        4
+       ],
+       "kod": "EZN"
+      }
+     ],
+     "wersja": null,
+     "sha256": "ee6df88c00e3643c37ed84959ca44c1317273ec4590ee9a9f363cf7569dad57f",
+     "rozmiar": 603946
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/fiz_2-rok-I-st.-akt.-06.11.pdf",
+     "plik": "fiz_2-rok-I-st.-akt.-06.11.pdf",
+     "opis": "fiz_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "fizyka",
+       "skrot": "fiz",
+       "skrotPliku": "fiz",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "FIZ"
+      }
+     ],
+     "wersja": "2026-11-06",
+     "sha256": "82a05f0c7bae88add1f383c37d2f049bd11eb1afc8f395f1592ab2e212fc48cc",
+     "rozmiar": 621091
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/fiz_3-rok-I-st.-akt.-05.11.pdf",
+     "plik": "fiz_3-rok-I-st.-akt.-05.11.pdf",
+     "opis": "fiz_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "fizyka",
+       "skrot": "fiz",
+       "skrotPliku": "fiz",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "FIZ"
+      }
+     ],
+     "wersja": "2026-11-05",
+     "sha256": "4402ca079a9b5bdf5c30d58d84299c7cf0c14904649b1490ac0bc51bdcb2b36b",
+     "rozmiar": 588205
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/gibe_1-rok-I-st.-akt.-19.10.pdf",
+     "plik": "gibe_1-rok-I-st.-akt.-19.10.pdf",
+     "opis": "gibe_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "genetyka i biologia eksperymentalna",
+       "skrot": "gibe",
+       "skrotPliku": "gibe",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "GIBE"
+      }
+     ],
+     "wersja": "2026-10-19",
+     "sha256": "4d44db86f5eee2e03bf1d558c71b3d0e74980d66d5d697d8bcdf2bd178e8020a",
+     "rozmiar": 573013
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/gibe_2-rok-I-st.-akt.-02.10.pdf",
+     "plik": "gibe_2-rok-I-st.-akt.-02.10.pdf",
+     "opis": "gibe_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "genetyka i biologia eksperymentalna",
+       "skrot": "gibe",
+       "skrotPliku": "gibe",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "GIBE"
+      }
+     ],
+     "wersja": "2026-10-02",
+     "sha256": "7a1a8955a4586493d1a4c458acce38ec627e831eef12069e9fed4f100a39e26a",
+     "rozmiar": 564469
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/gibe_3-rok-I-st.-akt.-28.10.pdf",
+     "plik": "gibe_3-rok-I-st.-akt.-28.10.pdf",
+     "opis": "gibe_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "genetyka i biologia eksperymentalna",
+       "skrot": "gibe",
+       "skrotPliku": "gibe",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "GIBE"
+      }
+     ],
+     "wersja": "2026-10-28",
+     "sha256": "d5304e8e8e898feeb2d5a21b476b28858978fcaa0d04a3a58d63f6ac7490ffb9",
+     "rozmiar": 548257
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/geografia-I-st.-1-rok-akt.-28.10.pdf",
+     "plik": "geografia-I-st.-1-rok-akt.-28.10.pdf",
+     "opis": "geog_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "geografia",
+       "skrot": "geog",
+       "skrotPliku": "geografia",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "GEOG"
+      }
+     ],
+     "wersja": "2026-10-28",
+     "sha256": "a5543d4e444fead2f11aefc3dca4bb7232b68b267f19c4e67c599b3b53870129",
+     "rozmiar": 519297
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/geografia_2-rok-I-st.-akt.-02.10..pdf",
+     "plik": "geografia_2-rok-I-st.-akt.-02.10..pdf",
+     "opis": "geog_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "geografia",
+       "skrot": "geog",
+       "skrotPliku": "geografia",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "GEOG"
+      }
+     ],
+     "wersja": "2026-10-02",
+     "sha256": "7b006b939fd2ffa643e6d63fce0ffd83bd53bd52e4db8cb62ea5d880149fd1d4",
+     "rozmiar": 670348
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/geologia-I-st.-1-rok-akt.-28.10.pdf",
+     "plik": "geologia-I-st.-1-rok-akt.-28.10.pdf",
+     "opis": "geol_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "geologia",
+       "skrot": "geol",
+       "skrotPliku": "geologia",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "GEOL"
+      }
+     ],
+     "wersja": "2026-10-28",
+     "sha256": "ada2d1a630fccde36a24a61a528502b69d6b3b4a3dfc29212fd39510ebb1fd12",
+     "rozmiar": 514368
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/geologia_2-rok-I-st.-akt.-15.10..pdf",
+     "plik": "geologia_2-rok-I-st.-akt.-15.10..pdf",
+     "opis": "geol_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "geologia",
+       "skrot": "geol",
+       "skrotPliku": "geologia",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "GEOL"
+      }
+     ],
+     "wersja": "2026-10-15",
+     "sha256": "87d4a797213720384fc823cb8a88e1140673c1a91047744370517a433c3bb4a7",
+     "rozmiar": 568569
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/geologia_3-rok-I-st.-akt.-05.10..pdf",
+     "plik": "geologia_3-rok-I-st.-akt.-05.10..pdf",
+     "opis": "geol_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "geologia",
+       "skrot": "geol",
+       "skrotPliku": "geologia",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "GEOL"
+      }
+     ],
+     "wersja": "2026-10-05",
+     "sha256": "a9a1d7f6c809a86a924fb60df2e171795649d740eac8444e8a852a081cac92f5",
+     "rozmiar": 615999
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/geologia_2-rok-II-st.-akt.-07.10.pdf",
+     "plik": "geologia_2-rok-II-st.-akt.-07.10.pdf",
+     "opis": "geol_2 rok II st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "geologia",
+       "skrot": "geol",
+       "skrotPliku": "geologia",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "GEOL"
+      }
+     ],
+     "wersja": "2026-10-07",
+     "sha256": "2ff2bc2b7911a561ad2c7d1c44a6d62cd31ffd5409fb8c4f7e257655098c6455",
+     "rozmiar": 620819
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_1-rok-I-st.-akt.-16.10.pdf",
+     "plik": "hydrobiol_1-rok-I-st.-akt.-16.10.pdf",
+     "opis": "hydro_1 ok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "hydrobiology",
+       "skrot": "hydro",
+       "skrotPliku": "hydrobiol",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "HYDRO"
+      }
+     ],
+     "wersja": "2026-10-16",
+     "sha256": "48a14e631003565b8fe2ed2d672b2dcd1dc1f4494da07d9f6da696011ed688e1",
+     "rozmiar": 534887
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_2-rok-I-st.-akt.-21.10-1.pdf",
+     "plik": "hydrobiol_2-rok-I-st.-akt.-21.10-1.pdf",
+     "opis": "hydro_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "hydrobiology",
+       "skrot": "hydro",
+       "skrotPliku": "hydrobiol",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "HYDRO"
+      }
+     ],
+     "wersja": "2026-10-21",
+     "sha256": "82fc4bfbda100e162fc5c473c7c2bbd2b6db1aa42d8196e049e0ece0ee718356",
+     "rozmiar": 535077
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_3-rok-I-st.-akt.-02.10.pdf",
+     "plik": "hydrobiol_3-rok-I-st.-akt.-02.10.pdf",
+     "opis": "hydro_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "hydrobiology",
+       "skrot": "hydro",
+       "skrotPliku": "hydrobiol",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "HYDRO"
+      }
+     ],
+     "wersja": "2026-10-02",
+     "sha256": "2f305779f8f0c37d9ecf40edf7680e08391c288d314aff5c3438c2e4182c2481",
+     "rozmiar": 481864
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/kosmo_1-rok-I-st.-akt.-13.10.pdf",
+     "plik": "kosmo_1-rok-I-st.-akt.-13.10.pdf",
+     "opis": "kosmologia_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "kosmologia",
+       "skrot": "kosmologia",
+       "skrotPliku": "kosmo",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "KOSMO"
+      }
+     ],
+     "wersja": "2026-10-13",
+     "sha256": "875669639ab9e941a5853fa5889481665c5737c112cc4c0f7a7f7e3567899074",
+     "rozmiar": 538482
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-1-rok-akt.-19.10.pdf",
+     "plik": "mat_I-st.-1-rok-akt.-19.10.pdf",
+     "opis": "mat_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "matematyka",
+       "skrot": "mat",
+       "skrotPliku": "mat",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "MAT"
+      }
+     ],
+     "wersja": "2026-10-19",
+     "sha256": "7f7f05db251e6a5aa93835a64b54418195a32e0235054d9cca172cc5960e3c72",
+     "rozmiar": 474301
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-2-rok-akt.-16.10.pdf",
+     "plik": "mat_I-st.-2-rok-akt.-16.10.pdf",
+     "opis": "mat_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "matematyka",
+       "skrot": "mat",
+       "skrotPliku": "mat",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "MAT"
+      }
+     ],
+     "wersja": "2026-10-16",
+     "sha256": "6efc1955d4196ae318c4d05b682fe9b864ac1766581efe6c898ee7b68a8999f2",
+     "rozmiar": 811888
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-3-rok-akt.-22.10-1.pdf",
+     "plik": "mat_I-st.-3-rok-akt.-22.10-1.pdf",
+     "opis": "mat_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "matematyka",
+       "skrot": "mat",
+       "skrotPliku": "mat",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "MAT"
+      }
+     ],
+     "wersja": "2026-10-22",
+     "sha256": "593c9cc7125521ae242d2a483361364d41930492225ec6c52fda3cfeb3bca8bf",
+     "rozmiar": 602493
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-1-rok-1.pdf",
+     "plik": "mat_II-st.-1-rok-1.pdf",
+     "opis": "mat_1 rok II st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "matematyka",
+       "skrot": "mat",
+       "skrotPliku": "mat",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "MAT"
+      }
+     ],
+     "wersja": null,
+     "sha256": "4bc628c975dfca18d9c6c85812f501275cb2eb9ac5ede91a9ca58ed9b8236522",
+     "rozmiar": 513882
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-2-rok-akt.-23.10.pdf",
+     "plik": "mat_II-st.-2-rok-akt.-23.10.pdf",
+     "opis": "mat_2 rok II st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "matematyka",
+       "skrot": "mat",
+       "skrotPliku": "mat",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "MAT"
+      }
+     ],
+     "wersja": "2026-10-23",
+     "sha256": "1cd4f0282ea581a4bbeb922e05679f9aaaff65a24678b1a781aac5d4ecafe5ce",
+     "rozmiar": 404586
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mikr_1-rok-I-st.-akt.-12.10-1.pdf",
+     "plik": "mikr_1-rok-I-st.-akt.-12.10-1.pdf",
+     "opis": "mikrobiol_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "mikrobiologia",
+       "skrot": "mikrobiol",
+       "skrotPliku": "mikr",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "MIKR"
+      }
+     ],
+     "wersja": "2026-10-12",
+     "sha256": "e6c1ea1ddaaafc058036014e0e24b2ab664669f41b5de17dc7dd4ac21a8ec0a5",
+     "rozmiar": 492244
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mikr_2-rok-I-st.-akt.-13.10.pdf",
+     "plik": "mikr_2-rok-I-st.-akt.-13.10.pdf",
+     "opis": "mikrobiol_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "mikrobiologia",
+       "skrot": "mikrobiol",
+       "skrotPliku": "mikr",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "MIKR"
+      }
+     ],
+     "wersja": "2026-10-13",
+     "sha256": "69d42782a89551481d31d49c51b0a91a657bc5920058aabb5b57b472bba3f7ae",
+     "rozmiar": 511410
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mikr_3-rok-I-st.-akt.-03.11.pdf",
+     "plik": "mikr_3-rok-I-st.-akt.-03.11.pdf",
+     "opis": "mikrobiol_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "mikrobiologia",
+       "skrot": "mikrobiol",
+       "skrotPliku": "mikr",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "MIKR"
+      }
+     ],
+     "wersja": "2026-11-03",
+     "sha256": "793199482d72f179e3039c0aae7d0c11e505617e47ae98019ee1bb405381b82b",
+     "rozmiar": 508342
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/mikr_1-rok-II-st.-akt.-23.10.pdf",
+     "plik": "mikr_1-rok-II-st.-akt.-23.10.pdf",
+     "opis": "mikrobiol_1 rok II st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "mikrobiologia",
+       "skrot": "mikrobiol",
+       "skrotPliku": "mikr",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "MIKR"
+      }
+     ],
+     "wersja": "2026-10-23",
+     "sha256": "25558a05630be50bfcfe014b5bb3be97ef5d1a3a4289282f3b73ca59f7ef64c6",
+     "rozmiar": 485345
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-1-rok-akt.-16.10-1.pdf",
+     "plik": "oceanografia-I-st.-1-rok-akt.-16.10-1.pdf",
+     "opis": "ocean_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "oceanografia",
+       "skrot": "ocean",
+       "skrotPliku": "oceanografia",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "OCEAN"
+      }
+     ],
+     "wersja": "2026-10-16",
+     "sha256": "519307df856ed7428ad0cce6e4006185fc2f5df9b52b08d5dc0508d919db86bc",
+     "rozmiar": 687116
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-2-rok-akt.-06.11.pdf",
+     "plik": "oceanografia-I-st.-2-rok-akt.-06.11.pdf",
+     "opis": "ocean_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "oceanografia",
+       "skrot": "ocean",
+       "skrotPliku": "oceanografia",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "OCEAN"
+      }
+     ],
+     "wersja": "2026-11-06",
+     "sha256": "83edd3624b404b5aefdddb688a298233c6ca1ddfe8f6b4dee616af2fc626b228",
+     "rozmiar": 578906
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt-6.11.pdf",
+     "plik": "oceanografia-I-st.-3-rok-akt-6.11.pdf",
+     "opis": "ocean_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "oceanografia",
+       "skrot": "ocean",
+       "skrotPliku": "oceanografia",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "OCEAN"
+      }
+     ],
+     "wersja": "2026-11-06",
+     "sha256": "be372fb5eb79547c116cb6076297b7b6cf6ce9e2e07a2068479e29e7fea7dc29",
+     "rozmiar": 618886
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-1-rok-akt.-13.10.pdf",
+     "plik": "optyka_I-st.-1-rok-akt.-13.10.pdf",
+     "opis": "optyka_1 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "optyka okularowa",
+       "skrot": "optyka",
+       "skrotPliku": "optyka",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "OPTYKA"
+      }
+     ],
+     "wersja": "2026-10-13",
+     "sha256": "0b03b674f49882345b2fa446744939cc3d5225d9a604270f018a186538598cb8",
+     "rozmiar": 582344
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-2-rok-akt.-13.10.pdf",
+     "plik": "optyka_I-st.-2-rok-akt.-13.10.pdf",
+     "opis": "optyka_2 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "optyka okularowa",
+       "skrot": "optyka",
+       "skrotPliku": "optyka",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "OPTYKA"
+      }
+     ],
+     "wersja": "2026-10-13",
+     "sha256": "3acc9784340815e8036c6237aa4be01208d4ad73b66ab3fb465f50067d3496d3",
+     "rozmiar": 542966
+    },
+    {
+     "url": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-3-rok.pdf",
+     "plik": "optyka_I-st.-3-rok.pdf",
+     "opis": "optyka_3 rok I st.",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "optyka okularowa",
+       "skrot": "optyka",
+       "skrotPliku": "optyka",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "OPTYKA"
+      }
+     ],
+     "wersja": null,
+     "sha256": "4f7c0d342f2831260bf0ca23ada22a4ac61025a8d8c7ad520999f7fc5ca1fe33",
+     "rozmiar": 629115
+    }
+   ]
+  },
+  "wpia": {
+   "skrot": "WPiA",
+   "pl": "Wydział Prawa i Administracji",
+   "en": "Faculty of Law and Administration",
+   "dos": [
+    "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/"
+   ],
+   "strony": [
+    {
+     "url": "https://wpia.usz.edu.pl/rozklady-zajec/",
+     "tryb": "st+nst",
+     "format": "pdf"
+    }
+   ],
+   "zrodla": [
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSP-26.pdf",
+     "plik": "I-SSP-26.pdf",
+     "opis": "I rok P-SJM",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "P",
+       "skrotPliku": "SSP",
+       "stopien": 0,
+       "lata": [
+        1
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "31b5f19642bcf38e1645bb2a36fad4fae2fe9235e10747c5fa222be569322341",
+     "rozmiar": 122708
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSP-35.pdf",
+     "plik": "II-SSP-35.pdf",
+     "opis": "II rok P-SJM",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "P",
+       "skrotPliku": "SSP",
+       "stopien": 0,
+       "lata": [
+        2
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "200dfd3b1e641afc5534cda43b1146c2b5fff6f2be410dd75cb29bcbed109d93",
+     "rozmiar": 135733
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSP-21.pdf",
+     "plik": "III-SSP-21.pdf",
+     "opis": "III rok P-SJM",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "P",
+       "skrotPliku": "SSP",
+       "stopien": 0,
+       "lata": [
+        3
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "610d1063dbe1e036ca87b1166d12eddbb4351d47e01956bb5a42b7e548c5908a",
+     "rozmiar": 118056
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/IV-SSP-17.pdf",
+     "plik": "IV-SSP-17.pdf",
+     "opis": "IV rok P-SJM",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "P",
+       "skrotPliku": "SSP",
+       "stopien": 0,
+       "lata": [
+        4
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "a4cdd76cedec4b8d5ab199f071fb58ea93711af42a1914693bf016ca8f0b1786",
+     "rozmiar": 186505
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/V-SSP-10.pdf",
+     "plik": "V-SSP-10.pdf",
+     "opis": "V rok P-SJM",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "P",
+       "skrotPliku": "SSP",
+       "stopien": 0,
+       "lata": [
+        5
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "1986cbcabbaf923e09b45ee59454a2286b046ad3f8976ae5b0bb28deec3c08d0",
+     "rozmiar": 118718
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSP-8.pdf",
+     "plik": "I-NSP-8.pdf",
+     "opis": "I rok N-PJM",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "N",
+       "skrotPliku": "NSP",
+       "stopien": 0,
+       "lata": [
+        1
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "513be31b73fe768fc77aeaf07feb82016c3b5152ee28eacfd97623b2e4a1b49d",
+     "rozmiar": 123670
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSP-12.pdf",
+     "plik": "II-NSP-12.pdf",
+     "opis": "II rok N-PJM",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "N",
+       "skrotPliku": "NSP",
+       "stopien": 0,
+       "lata": [
+        2
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "a563a35d2d281249b9197e61e8b5afd1048cfa870aa674c65464ff1ab5af8f50",
+     "rozmiar": 189916
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSP-5.pdf",
+     "plik": "III-NSP-5.pdf",
+     "opis": "III rok N-PJM",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "N",
+       "skrotPliku": "NSP",
+       "stopien": 0,
+       "lata": [
+        3
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "6a9df56baf3c9d26c9ff06d37a411b47a4ffcea21e540d0c66f575c82b9630a8",
+     "rozmiar": 155576
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/IV-NSP-7.pdf",
+     "plik": "IV-NSP-7.pdf",
+     "opis": "IV rok N-PJM",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "N",
+       "skrotPliku": "NSP",
+       "stopien": 0,
+       "lata": [
+        4
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "6c9713df1c9a9c3d11c2602ba2b70126ea0fde544d282fca6ebc6c727928f89a",
+     "rozmiar": 125891
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/V-NSP-6.pdf",
+     "plik": "V-NSP-6.pdf",
+     "opis": "V rok N-PJM",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo",
+       "skrot": "N",
+       "skrotPliku": "NSP",
+       "stopien": 0,
+       "lata": [
+        5
+       ],
+       "kod": "PRAWO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "5b485348b681f3210edb443298ee51acde49b80f96c3995edb7c96257d1dc8b6",
+     "rozmiar": 147795
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSA-I-st.-12.pdf",
+     "plik": "I-SSA-I-st.-12.pdf",
+     "opis": "I rok A-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "SSA",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "5b9a1889e00441489bcf3d60e81b8cee52a8d774ae025d91aee39f7ba7d84d48",
+     "rozmiar": 106997
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSA-I-st.-11.pdf",
+     "plik": "II-SSA-I-st.-11.pdf",
+     "opis": "II rok A-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "SSA",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "9abe65c2f6d5b32b10e87101ac66f735ec1686bd8a99e8fb2d0ebb01029cc6dc",
+     "rozmiar": 110109
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSA-I-st.-9.pdf",
+     "plik": "III-SSA-I-st.-9.pdf",
+     "opis": "III rok A-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "SSA",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "71141cf1dbb59e9704d639949f214c557e5789bfe517b2d5684bcb5952d04b45",
+     "rozmiar": 105242
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSA-I-st.-3.pdf",
+     "plik": "I-NSA-I-st.-3.pdf",
+     "opis": "I rok A-NI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "NSA",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "a535e046b6879794e79178d89274d426ba6072be7e73e010c467c28021533209",
+     "rozmiar": 143306
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSA-I-st.-9.pdf",
+     "plik": "II-NSA-I-st.-9.pdf",
+     "opis": "II rok A-NI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "NSA",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "217fa74ce3eee75fc57128b79bac028d0ae81d64df7d85fcf49b3eab0754e03f",
+     "rozmiar": 151309
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSA-I-st.-4.pdf",
+     "plik": "III-NSA-I-st.-4.pdf",
+     "opis": "III rok A-NI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "NSA",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "0f777fba6e88ab508dd732dc09b24887bf30d70cfa51a40b1a2e5bb99c3f8037",
+     "rozmiar": 146828
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSA-II-st.-10.pdf",
+     "plik": "I-SSA-II-st.-10.pdf",
+     "opis": "I rok A-SII",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "SSA",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "8f7326d32d443a14ff77b10dea805ed39e17453e8980ef3425a2bcf6c0599bf0",
+     "rozmiar": 109122
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSA-II-st.-15.pdf",
+     "plik": "II-SSA-II-st.-15.pdf",
+     "opis": "II rok A-SII",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "SSA",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "892230b7a3a79e15fa22836fca71c26e997a4b661366d7e6c007a81fa242df14",
+     "rozmiar": 106521
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSA-II-st.-2.pdf",
+     "plik": "I-NSA-II-st.-2.pdf",
+     "opis": "I rok A-NII",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Administracja",
+       "skrot": "A",
+       "skrotPliku": "NSA",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": null
+      }
+     ],
+     "wersja": null,
+     "sha256": "a86d898700c887f5a263503b2beb7f52efa7b22a08d442fe29fbf4d56a08138a",
+     "rozmiar": 141773
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-PSM-I-st.-13.pdf",
+     "plik": "I-PSM-I-st.-13.pdf",
+     "opis": "I rok PSM-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo służb mundurowych",
+       "skrot": "PSM",
+       "skrotPliku": "PSM",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "PSM"
+      }
+     ],
+     "wersja": null,
+     "sha256": "580dc5d89f028913303bcd95ee7f994d01c6974734b8768fc803980c34166429",
+     "rozmiar": 105962
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-PSM-I-st.-17.pdf",
+     "plik": "II-PSM-I-st.-17.pdf",
+     "opis": "II rok PSM-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo służb mundurowych",
+       "skrot": "PSM",
+       "skrotPliku": "PSM",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "PSM"
+      }
+     ],
+     "wersja": null,
+     "sha256": "2d3be9060cf82192567226e098d7f8cd29d41d0477cd9e85c08f05a5a4a78fad",
+     "rozmiar": 110938
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-stacjonarne-I-stopnia.pdf",
+     "plik": "III-prawo-służb-mundurowych-stacjonarne-I-stopnia.pdf",
+     "opis": "III rok PSM-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo służb mundurowych",
+       "skrot": "PSM",
+       "skrotPliku": null,
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "PSM"
+      }
+     ],
+     "wersja": null,
+     "sha256": "444c8268df6f0cc331720e7cfc9017196ceaa682b3334ed07a9325b5a2c33a81",
+     "rozmiar": 111114
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-5.pdf",
+     "plik": "I-NPSM-I-st.-5.pdf",
+     "opis": "I rok PSM-NI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo służb mundurowych",
+       "skrot": "PSM",
+       "skrotPliku": "NPSM",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "PSM"
+      }
+     ],
+     "wersja": null,
+     "sha256": "5d8a2b7fc746dd3a19c6885a83ed00231276ed3dc4bb2bf4d4f9bfe5a68bec73",
+     "rozmiar": 147497
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-niestacjonarne-I-stopnia.pdf",
+     "plik": "III-prawo-służb-mundurowych-niestacjonarne-I-stopnia.pdf",
+     "opis": "III rok PSM-NI",
+     "format": "pdf",
+     "tryb": "nst",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo służb mundurowych",
+       "skrot": "PSM",
+       "skrotPliku": null,
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "PSM"
+      }
+     ],
+     "wersja": null,
+     "sha256": "7b478393c8fbbf350fc54150b62ba928750a2c600847d314e289541b9b439dc7",
+     "rozmiar": 145638
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/PSM-II-st.-2026-2027-I-rok.pdf",
+     "plik": "PSM-II-st.-2026-2027-I-rok.pdf",
+     "opis": "I rok PSM-SII",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo służb mundurowych",
+       "skrot": "PSM",
+       "skrotPliku": "PSM",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "PSM"
+      }
+     ],
+     "wersja": null,
+     "sha256": "718adbac82d83ef15c2fe82b09c43a40c21ea9ead984704926a281d3c22adb70",
+     "rozmiar": 106071
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-PSM-II-st.-10.pdf",
+     "plik": "II-PSM-II-st.-10.pdf",
+     "opis": "II rok PSM-SII",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Prawo służb mundurowych",
+       "skrot": "PSM",
+       "skrotPliku": "PSM",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "PSM"
+      }
+     ],
+     "wersja": null,
+     "sha256": "e5324981cefb174d4276b45b451b60c5be04c0a53e25c825827bb3df963b883f",
+     "rozmiar": 171666
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-IEBL-II-st.-14.pdf",
+     "plik": "I-IEBL-II-st.-14.pdf",
+     "opis": "IEBL – 1 st year",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "International and European Business Law",
+       "skrot": "IEBL",
+       "skrotPliku": "IEBL",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "IEBL"
+      }
+     ],
+     "wersja": null,
+     "sha256": "76751d564ca4f833838e4e6b2b8a457d5d9513c85d3afea2cb2cc5852e80d3f5",
+     "rozmiar": 125387
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-IEBL.pdf",
+     "plik": "II-IEBL.pdf",
+     "opis": "IEBL – 2 nd year",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "International and European Business Law",
+       "skrot": "IEBL",
+       "skrotPliku": "IEBL",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "IEBL"
+      }
+     ],
+     "wersja": null,
+     "sha256": "e4910fd31a443d0543cd225add4da4ea509223248e3992b08912ed47e9a9b6e5",
+     "rozmiar": 131210
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-EP-I-st.-18.pdf",
+     "plik": "I-EP-I-st.-18.pdf",
+     "opis": "I rok EP-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomiczno-Prawny",
+       "skrot": "EP",
+       "skrotPliku": "EP",
+       "stopien": 1,
+       "lata": [
+        1
+       ],
+       "kod": "EP"
+      }
+     ],
+     "wersja": null,
+     "sha256": "3f511bbed55ce140e86e4a0be6492e06f3c7abb3301b88a32c9dab4766cd4dcd",
+     "rozmiar": 104317
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-EP-I-st.-10.pdf",
+     "plik": "II-EP-I-st.-10.pdf",
+     "opis": "II rok EP-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomiczno-Prawny",
+       "skrot": "EP",
+       "skrotPliku": "EP",
+       "stopien": 1,
+       "lata": [
+        2
+       ],
+       "kod": "EP"
+      }
+     ],
+     "wersja": null,
+     "sha256": "0a790aacf21dde4b3a71ac6add9cef392700f076ef8eae018c3fe7a8b72bf573",
+     "rozmiar": 102743
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-EP-I-st.-9.pdf",
+     "plik": "III-EP-I-st.-9.pdf",
+     "opis": "III rok EP-SI",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomiczno-Prawny",
+       "skrot": "EP",
+       "skrotPliku": "EP",
+       "stopien": 1,
+       "lata": [
+        3
+       ],
+       "kod": "EP"
+      }
+     ],
+     "wersja": null,
+     "sha256": "fd9fa513e58b24d3b8a152058bbdace86aa47919de3938aaac7254496d979c46",
+     "rozmiar": 105540
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/I-EP-II-st.-9.pdf",
+     "plik": "I-EP-II-st.-9.pdf",
+     "opis": "I rok EP-SII",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomiczno-Prawny",
+       "skrot": "EP",
+       "skrotPliku": "EP",
+       "stopien": 2,
+       "lata": [
+        1
+       ],
+       "kod": "EP"
+      }
+     ],
+     "wersja": null,
+     "sha256": "e8ea7e28023bb66eb48ebed83113595a7bd0e67b05b0bd8a479d476f6f46174a",
+     "rozmiar": 98622
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/II-EP-II-st.-13.pdf",
+     "plik": "II-EP-II-st.-13.pdf",
+     "opis": "II rok EP-SII",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "Ekonomiczno-Prawny",
+       "skrot": "EP",
+       "skrotPliku": "EP",
+       "stopien": 2,
+       "lata": [
+        2
+       ],
+       "kod": "EP"
+      }
+     ],
+     "wersja": null,
+     "sha256": "968ce75e4a3a6149ba260af1f249c117eb376ad327dac1f14bb6ab9dbc825e9d",
+     "rozmiar": 103671
+    },
+    {
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/opis-sal-wyk%C5%82adowych-i-%C4%87wiczeniowych-2025-2026.pdf",
+     "plik": "opis-sal-wykładowych-i-ćwiczeniowych-2025-2026.pdf",
+     "opis": "Informacja o salach wykładowych i ćwiczeniowych",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "sale",
+     "kierunki": [],
+     "wersja": null,
+     "sha256": "f13c682b5c7c6885c396f014fe47cb0c5ef06ed00a0549f233db97d1111bf5e3",
+     "rozmiar": 74411
+    }
+   ]
+  },
+  "wt": {
+   "skrot": "WT",
+   "pl": "Wydział Teologiczny",
+   "en": "Faculty of Theology",
+   "dos": [
+    "https://dos.usz.edu.pl/teologia/zajecia-teologia/"
+   ],
+   "strony": [
+    {
+     "url": "https://teo.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/",
+     "tryb": "st",
+     "format": "pdf"
+    }
+   ],
+   "zrodla": [
+    {
+     "url": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+     "plik": "Plan-TEO-2026-27a.pdf",
+     "opis": "TEOLOGIA",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "TEOLOGIA",
+       "pelna": "TEOLOGIA",
+       "skrot": "TEO",
+       "stopien": null,
+       "lata": null,
+       "kod": "TEO"
+      }
+     ],
+     "wersja": null,
+     "sha256": "7ad2606fbd54b80d80d1ec450b4e43535b427027938997d671422ff6fb47b854",
+     "rozmiar": 46732
+    },
+    {
+     "url": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+     "plik": "Plan-NOR-2026-27a.pdf",
+     "opis": "NAUKI O RODZINIE – doradztwo, coaching, mediacje",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "plan",
+     "kierunki": [
+      {
+       "nazwa": "NAUKI O RODZINIE",
+       "pelna": "NAUKI O RODZINIE – doradztwo, coaching, mediacje",
+       "skrot": "NOR",
+       "stopien": null,
+       "lata": null,
+       "kod": "NOR"
+      }
+     ],
+     "wersja": null,
+     "sha256": "26491ec1beead982d475b8148e7badea83ebe6451c0133b91332a33a498f7b42",
+     "rozmiar": 53009
+    },
+    {
+     "url": "https://teo.usz.edu.pl/wp-content/uploads/Wychowanie-fizyczne-2026-27a.pdf",
+     "plik": "Wychowanie-fizyczne-2026-27a.pdf",
+     "opis": "Zajęcia z wychowania fizycznego",
+     "format": "pdf",
+     "tryb": "st",
+     "typ": "wf",
+     "kierunki": [],
+     "wersja": null,
+     "blad": "brak pliku (404)"
+    }
+   ]
+  }
+ }
+}

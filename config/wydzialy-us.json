@@ -1,0 +1,82 @@
+{
+  "opis": "Wydziały US i strony, z których scripts/us/inwentarz.mjs czyta listy planów. Kody: z nauka_wydzialy w skrot-bm (WEFiZ, WPiA), pozostałe wg specyfikacji. Kierunków tu nie wpisujemy – inwentarz bierze je z oferty US i stron wydziałów.",
+  "oferta": [
+    { "url": "https://kandydaci.usz.edu.pl/kierunki-studiow/studia-i-stopnia-i-jednolite-magisterskie/", "stopien": 1 },
+    { "url": "https://kandydaci.usz.edu.pl/kierunki-studiow/studia-ii-stopnia/", "stopien": 2 }
+  ],
+  "kody": {
+    "_opis": "Kody kierunków, które już istnieją w Skrócie (nauka_kierunki.kod) – mają pierwszeństwo przed skrótem z nazwy pliku.",
+    "wpia": { "Prawo": "PRAWO" }
+  },
+  "wydzialy": [
+    {
+      "kod": "wefiz", "skrot": "WEFiZ", "pl": "Wydział Ekonomii, Finansów i Zarządzania", "en": "Faculty of Economics, Finance and Management",
+      "oferta": "Wydział Ekonomii, Finansów i Zarządzania",
+      "parser": "wefiz",
+      "strony": [
+        { "url": "https://planyzajec-efz.usz.edu.pl/plan", "tryb": "st", "format": "html" },
+        { "url": "https://efz.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", "tryb": "nst", "format": "html" }
+      ],
+      "dos": ["https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/", "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/"]
+    },
+    {
+      "kod": "wkfiz", "skrot": "WKFiZ", "pl": "Wydział Kultury Fizycznej i Zdrowia", "en": "Faculty of Physical Culture and Health",
+      "oferta": "Wydział Kultury Fizycznej i Zdrowia",
+      "parser": "wkfiz",
+      "strony": [
+        { "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php", "tryb": "st", "format": "json" },
+        { "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php", "tryb": "nst", "format": "json" }
+      ],
+      "aplikacja": "https://planyzajec-kfz.usz.edu.pl/index.html",
+      "dos": ["https://dos.usz.edu.pl/piastow/zajecia-piastow-wkfiz/"]
+    },
+    {
+      "kod": "wh", "skrot": "WH", "pl": "Wydział Humanistyczny", "en": "Faculty of Humanities",
+      "oferta": "Wydział Humanistyczny",
+      "parser": "wh",
+      "strony": [
+        { "url": "https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "xlsx" },
+        { "url": "https://hum.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", "tryb": "nst", "format": "xlsx" }
+      ],
+      "dos": ["https://dos.usz.edu.pl/piastow/zajecia-piastow/"]
+    },
+    {
+      "kod": "wns", "skrot": "WNS", "pl": "Wydział Nauk Społecznych", "en": "Faculty of Social Sciences",
+      "oferta": "Wydział Nauk Społecznych",
+      "parser": "wns",
+      "strony": [
+        { "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" },
+        { "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", "tryb": "nst", "format": "pdf" }
+      ],
+      "budynki": { "K": "ul. Krakowska 71-79", "O": "ul. Ogińskiego 16-17" },
+      "dos": ["https://dos.usz.edu.pl/krakowska/zajecia-krakowska/"]
+    },
+    {
+      "kod": "wnsip", "skrot": "WNŚiP", "pl": "Wydział Nauk Ścisłych i Przyrodniczych", "en": "Faculty of Exact and Natural Sciences",
+      "oferta": "Wydział Nauk Ścisłych i Przyrodniczych",
+      "parser": "wnsip",
+      "strony": [
+        { "url": "https://spr.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" }
+      ],
+      "dos": ["https://dos.usz.edu.pl/waska/zajecia-waska/"]
+    },
+    {
+      "kod": "wpia", "skrot": "WPiA", "pl": "Wydział Prawa i Administracji", "en": "Faculty of Law and Administration",
+      "oferta": "Wydział Prawa i Administracji",
+      "parser": "wpia",
+      "strony": [
+        { "url": "https://wpia.usz.edu.pl/rozklady-zajec/", "tryb": "st+nst", "format": "pdf" }
+      ],
+      "dos": ["https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/"]
+    },
+    {
+      "kod": "wt", "skrot": "WT", "pl": "Wydział Teologiczny", "en": "Faculty of Theology",
+      "oferta": "Wydział Teologiczny",
+      "parser": "wt",
+      "strony": [
+        { "url": "https://teo.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" }
+      ],
+      "dos": ["https://dos.usz.edu.pl/teologia/zajecia-teologia/"]
+    }
+  ]
+}
