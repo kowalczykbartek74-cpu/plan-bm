@@ -1,0 +1,34 @@
+{
+  "opis": "Wygenerowane w skrot-bm: node scripts/kierunek.mjs kierunki/wefiz-fir-1-st-2026.json. Nie edytuj ręcznie.",
+  "id": "wefiz-fir-1-st-2026",
+  "kod": "fir26",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "FIR",
+    "pl": "Finanse i Rachunkowość",
+    "en": "Finance and Accounting"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2026,
+  "rok": 1,
+  "system": {
+    "nazwa": "Finanse i Rachunkowość (FiR)",
+    "rok": "1 rokI"
+  },
+  "grupy": [
+    "M120",
+    "M121",
+    "M122",
+    "M123"
+  ],
+  "plik": "plan/wefiz-fir-1-st-2026.json",
+  "odwolania": [
+    "dos"
+  ],
+  "dos": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/"
+}

@@ -57,6 +57,10 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   `--kierunek kierunki/<id>.json` tylko jeden. Błąd jednego rocznika nie blokuje pozostałych.
 - Odwołane zajęcia: `node scripts/dziekanat.mjs --kierunki`, tylko komunikaty DOS (bez Teams). Adres sekcji DOS wydziału bierze z bazy
   Skrótu (`nauka_roczniki_lista` → `wydzial.dos_url`), a bez bazy z poprzedniego przebiegu.
+  Rocznik z zajęciami w innym budynku ma w konfiguracji pole `dos` (np. FiR: `https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/`) i wtedy
+  bierze komunikaty z tej sekcji; lista wpisów działa dla każdej sekcji DOS (`/<budynek>/<lista>/`).
+- Parser zna też nazwy z rodzajem, grupą labów i liczbą godzin w nawiasach („MAKROEKONOMIA (ĆW)(30)”, „(LAB GR. A)(15)”):
+  rodzaj → `k`, grupa → `g`, godziny → `h`. Dopisek budynku w sali („Cuk.8”, „Mic.64”) znika.
 - `scripts/kalendarz.mjs` dokłada kalendarz roku także do `plan/*.json`; `scripts/kierunki.mjs` wstawia listę roczników do `index.html`.
 - Pliki do kalendarza w telefonie (`kalendarz/*.ics`) są na razie tylko dla BM; inne roczniki mają osobisty kalendarz w aplikacji.
 - Test: `node --test scripts/*.test.mjs`.

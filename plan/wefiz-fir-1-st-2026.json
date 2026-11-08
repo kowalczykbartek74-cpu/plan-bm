@@ -1,0 +1,1050 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Finanse i Rachunkowość",
+ "id": "wefiz-fir-1-st-2026",
+ "kod": "fir26",
+ "kierunekEn": "Finance and Accounting",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T01:21:21.853Z",
+ "checkedAt": "2026-11-08T01:21:21.853Z",
+ "groups": {
+  "M120": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Podstawy finansów",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Makroekonomia",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0123"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "h": 30,
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0100"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab.prof.US Iwona Szymczak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "dr Dorota Skała",
+     "r": "s. S0101 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Joanna Rachuba",
+     "r": "s. S0204"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "h": 15,
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "s. S0203"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Makroekonomia",
+     "k": "W",
+     "h": 15,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Makroekonomia",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0123"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Matematyka",
+     "k": "W",
+     "h": 15,
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "h": 30,
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0100"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab.prof.US Iwona Szymczak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "dr Dorota Skała",
+     "r": "s. S0101 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Matematyka",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Anna Landowska",
+     "r": "s. N104"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "h": 8,
+     "p": "dr hab. prof. US Marek Kunasz",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    }
+   ]
+  },
+  "M121": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Podstawy finansów",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0201"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "h": 30,
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Makroekonomia",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0123"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab.prof.US Iwona Szymczak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy finansów",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Matematyka",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Anna Landowska",
+     "r": "s. S01"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "s. S0203"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "h": 15,
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "s. Aula Nowa"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Makroekonomia",
+     "k": "W",
+     "h": 15,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Matematyka",
+     "k": "W",
+     "h": 15,
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0201"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "h": 30,
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Makroekonomia",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0123"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab.prof.US Iwona Szymczak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "CW",
+     "h": 15,
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N020"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "h": 8,
+     "p": "dr hab. prof. US Marek Kunasz",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    }
+   ]
+  },
+  "M122": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Podstawy finansów",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0201"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "s. S0202"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "h": 30,
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab.prof.US Iwona Szymczak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Matematyka",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Anna Landowska",
+     "r": "s. S0204"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Makroekonomia",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A (lab)"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr Barbara Królikowska",
+     "r": "s. S0123B (lab)"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "h": 15,
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "s. Aula Nowa"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Makroekonomia",
+     "k": "W",
+     "h": 15,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Krystian Socik",
+     "r": "s. S0201"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Matematyka",
+     "k": "W",
+     "h": 15,
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "h": 30,
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Podstawy finansów",
+     "k": "CW",
+     "h": 15,
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0106/0107"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab.prof.US Iwona Szymczak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr Barbara Królikowska",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "dr Katarzyna Kwiatkowska",
+     "r": "s. N101/102 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Makroekonomia",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "h": 8,
+     "p": "dr hab. prof. US Marek Kunasz",
+     "r": "s. Aula Nowa"
+    }
+   ]
+  },
+  "M123": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Podstawy finansów",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "h": 30,
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N08e (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab.prof.US Iwona Szymczak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08d (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. N203 MBA"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy finansów",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Katarzyna Kwiatkowska",
+     "r": "s. N104"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Makroekonomia",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "h": 15,
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Makroekonomia",
+     "k": "W",
+     "h": 15,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Matematyka",
+     "k": "W",
+     "h": 15,
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "h": 30,
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N08e (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "W",
+     "h": 30,
+     "p": "dr hab.prof.US Iwona Szymczak",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Matematyka",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Anna Landowska",
+     "r": "s. S0123"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "h": 30,
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. N203 MBA"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "h": 8,
+     "p": "dr hab. prof. US Marek Kunasz",
+     "r": "s. Aula Nowa"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Podstawy finansów",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08d (lab)"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Makroekonomia",
+     "k": "CW",
+     "h": 30,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr hab. prof. US Jacek Cypryjański",
+     "r": "s. N019 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. S0105"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [],
+  "zmiany": {
+   "M120": [],
+   "M121": [],
+   "M122": [],
+   "M123": []
+  },
+  "updatedAt": "2026-11-08T01:22:34.090Z"
+ }
+}

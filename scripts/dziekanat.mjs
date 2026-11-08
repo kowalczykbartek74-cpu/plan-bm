@@ -17,7 +17,8 @@
 //
 // Inne roczniki (pliki kierunki/<id>.json z repo skrot-bm, scripts/kierunek.mjs):  node scripts/dziekanat.mjs --kierunki
 // Plan z plan/<id>.json, grupy z pliku kierunku, tylko komunikaty DOS (bez Teams, gdy plik tak mówi), adres sekcji DOS
-// z bazy Skrótu (nauka_roczniki_lista → wydzial.dos_url). Bez bazy: adres zapisany w planie przy poprzednim przebiegu.
+// z pliku kierunku ("dos", gdy zajęcia są w innym budynku) albo z bazy Skrótu (nauka_roczniki_lista → wydzial.dos_url).
+// Bez bazy: adres zapisany w planie przy poprzednim przebiegu.
 // Node 20+, bez zależności.
 import fs from "node:fs";
 import https from "node:https";
@@ -78,9 +79,12 @@ export function toText(html) {
 }
 
 // Lista wpisów ze strony z listą (motyw Divi: tytuł wpisu to link do /cukrowa/RRRR/MM/nazwa/).
-export function parseList(html) {
+// Sekcja DOS z adresu listy: https://dos.usz.edu.pl/<budynek>/<lista>/ (np. cukrowa/zajecia-cukrowa, mickiewicza/zajecia-mickiewicza)
+const esc = t => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+export function parseList(html, source = SOURCE) {
+  const [budynek = "cukrowa", lista = "zajecia-cukrowa"] = new URL(source).pathname.split("/").filter(Boolean);
   const out = [], seen = new Set();
-  const re = /<a\b[^>]*href="(https?:\/\/dos\.usz\.edu\.pl\/cukrowa\/(\d{4})\/(\d{2})\/[^"#?]+)"[^>]*>([\s\S]{1,300}?)<\/a>/gi;
+  const re = new RegExp(`<a\\b[^>]*href="(https?:\\/\\/dos\\.usz\\.edu\\.pl\\/${esc(budynek)}\\/(\\d{4})\\/(\\d{2})\\/[^"#?]+)"[^>]*>([\\s\\S]{1,300}?)<\\/a>`, "gi");
   let m;
   while ((m = re.exec(html))) {
     const url = m[1].replace(/\/?$/, "/");
@@ -89,7 +93,7 @@ export function parseList(html) {
     seen.add(url);
     out.push({ url, title, ym: `${m[2]}-${m[3]}` });
   }
-  const older = /href="([^"]*\/zajecia-cukrowa\/page\/\d+\/[^"]*)"[^>]*>[^<]*(Starsze|Older)/i.exec(html);
+  const older = new RegExp(`href="([^"]*\\/${esc(lista)}\\/page\\/\\d+\\/[^"]*)"[^>]*>[^<]*(Starsze|Older)`, "i").exec(html);
   return { posts: out, older: older ? decode(older[1]) : null };
 }
 
@@ -413,7 +417,7 @@ async function fetchPosts(known, old, source = SOURCE) {
   while (url && pages < MAX_PAGES) {
     const html = await get(url);
     if (html === null) break;
-    const { posts, older } = parseList(html);
+    const { posts, older } = parseList(html, url);
     pages++; total += posts.length;
     if (pages === 1 && posts.length < 3) throw new Error("Na stronie dziekanatu nie ma listy wpisów (zmienił się wygląd strony?)");
     for (const p of posts) if (p.ym >= KEEP_FROM && groupsOf(p.title, known).length) relevant.push(p);
@@ -475,7 +479,8 @@ export function zKonfiguracji(c) {
   if (!c?.id || c.plik !== `plan/${c.id}.json` || !Array.isArray(c.grupy)) throw new Error(`Zła konfiguracja kierunku ${c?.id || "?"}`);
   return {
     plik: c.plik, html: false, teams: (c.odwolania || []).includes("teams"), opis: `${c.rok ? c.rok + ". roku " : ""}${c.kierunek?.pl || c.id}`,
-    grupy: g => c.grupy.includes(g), source: old => dosUrl(c.wydzial?.kod, old),
+    // "dos" w konfiguracji: rocznik ma zajęcia w innym budynku niż reszta wydziału (własna sekcja DOS)
+    grupy: g => c.grupy.includes(g), source: old => /^https:\/\//.test(c.dos || "") ? Promise.resolve(c.dos) : dosUrl(c.wydzial?.kod, old),
   };
 }
 

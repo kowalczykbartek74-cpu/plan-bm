@@ -5,7 +5,7 @@ import assert from "node:assert";
 import fs from "node:fs";
 import { parseEntry } from "./parse.mjs";
 import { zKonfiguracji } from "./update-plan.mjs";
-import { zKonfiguracji as dzKonfiguracji } from "./dziekanat.mjs";
+import { zKonfiguracji as dzKonfiguracji, parseList, SOURCE } from "./dziekanat.mjs";
 import { lista, wstaw } from "./kierunki.mjs";
 
 const Y = [2026, 2027];
@@ -29,6 +29,38 @@ test("parser: wpisy BM (nazwa EN + PL) i ręczne bez typu jak dotąd", () => {
   const e = parseEntry(komorka("MACROECONOMICS (MAKROEKONOMIA) (ĆW)"), Y);
   assert.deepStrictEqual({ pl: e.pl, en: e.en, k: e.k }, { pl: "Makroekonomia", en: "Macroeconomics", k: "CW" });
   assert.strictEqual(parseEntry("Odrabianie zajęć \n17.11.2026\ndr D. Kordela\ngrupa B\nsala s. SIL 116 lab", Y).k, "X");
+});
+
+test("parser: rodzaj, grupa labów i godziny w nazwie (FiR: „MAKROEKONOMIA (ĆW)(30)”, „(LAB GR. A)(15)”)", () => {
+  const cw = parseEntry(komorka("makroekonomia (ćw)(30)", "dr Anna Kowalska", "s.S0123 Mic.64"), Y);
+  assert.deepStrictEqual({ pl: cw.pl, k: cw.k, g: cw.g, h: cw.h, r: cw.r }, { pl: "Makroekonomia", k: "CW", g: undefined, h: 30, r: "s. S0123" });
+  const lab = parseEntry(komorka("podstawy finansów (lab gr. B)(15)", "dr Jan Nowak", "s.N08d lab Mic.64"), Y);
+  assert.deepStrictEqual({ pl: lab.pl, k: lab.k, g: lab.g, h: lab.h, r: lab.r }, { pl: "Podstawy finansów", k: "LAB", g: "B", h: 15, r: "s. N08d (lab)" });
+  const w = parseEntry(komorka("ochrona własności intelektualnej (w)(8)", "dr Jan Nowak", "s.Aula Nowa Mic.64"), Y);
+  assert.deepStrictEqual({ k: w.k, h: w.h, r: w.r }, { k: "W", h: 8, r: "s. Aula Nowa" });
+});
+
+test("parser: wpis ręczny z kropką po dacie („08.10.2026.” i miejsce w następnej linii)", () => {
+  const e = parseEntry("szkolenie z obrony cywilnej \n08.10.2026. \nAula WNS ul Krakowska 71/79\n", Y);
+  assert.deepStrictEqual({ pl: e.pl, k: e.k, dates: e.dates, x: e.x }, { pl: "Szkolenie z obrony cywilnej", k: "X", dates: ["2026-10-08"], x: "Aula WNS ul Krakowska 71/79" });
+});
+
+test("dziekanat: lista wpisów z sekcji DOS dowolnego budynku, BM dalej z Cukrowej", () => {
+  const html = (b, l) => `<h2 class="entry-title"><a href="https://dos.usz.edu.pl/${b}/2026/10/m120-x/">M120- odwołanie zajęć</a></h2>
+    <h2 class="entry-title"><a href="https://dos.usz.edu.pl/cukrowa/2026/10/c111-y/">GRUPA C111</a></h2>
+    <a href="https://dos.usz.edu.pl/${b}/${l}/page/2/?et_blog">« Starsze wpisy</a>`;
+  const mic = parseList(html("mickiewicza", "zajecia-mickiewicza"), "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/");
+  assert.deepStrictEqual(mic.posts.map(p => p.title), ["M120- odwołanie zajęć"]);
+  assert.match(mic.older, /zajecia-mickiewicza\/page\/2/);
+  const cuk = parseList(html("cukrowa", "zajecia-cukrowa"));
+  assert.deepStrictEqual(cuk.posts.map(p => p.title), ["M120- odwołanie zajęć", "GRUPA C111"]);   // bez adresu: Cukrowa (BM)
+  assert.match(cuk.older, /zajecia-cukrowa\/page\/2/);
+  assert.strictEqual(SOURCE, "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/");
+});
+
+test("dziekanat: \"dos\" w konfiguracji rocznika ma pierwszeństwo przed adresem wydziału", async () => {
+  const K = dzKonfiguracji({ id: "wefiz-fir-1-st-2026", plik: "plan/wefiz-fir-1-st-2026.json", grupy: ["M120"], wydzial: { kod: "WEFiZ" }, odwolania: ["dos"], dos: "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/" });
+  assert.strictEqual(await K.source(null), "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/");
 });
 
 test("konfiguracja kierunku: grupy z pliku + 3 kolejne numery, plik plan/<id>.json, nazwa bez skrótu", () => {

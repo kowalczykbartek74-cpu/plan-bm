@@ -2,7 +2,7 @@
 // Czysty JavaScript bez zależności: działa w Node i w przeglądarce.
 
 export const SLOTS = ["8.15-9.45", "10.00-11.30", "12.00-13.30", "13.45-15.15", "15.30-17.00", "17.15-18.45", "19.00-20.30"];
-const TYPES = { "W": "W", "ĆW": "CW", "LB": "LAB", "K": "K", "S": "S" };
+const TYPES = { "W": "W", "ĆW": "CW", "LB": "LAB", "LAB": "LAB", "K": "K", "S": "S" };
 const ACRONYMS = new Set(["IT", "ICT", "HR", "HRM", "WNS", "CSR", "ESG", "AI", "UE", "EU", "IT/ICT", "SWFIS"]);
 const SMALL_EN = new Set(["a", "an", "and", "as", "at", "but", "by", "for", "in", "of", "on", "or", "the", "to", "with", "vs"]);
 
@@ -30,7 +30,8 @@ export function enCase(s) {
 
 export function cleanRoom(r) {
   return r.replace(/\s+/g, " ").trim()
-    .replace(/\s*Cuk\.\s*8$/i, "")
+    .replace(/\s*(?:Cuk\.\s*8|Mic\.\s*64)$/i, "")   // budynek wydziału (Cukrowa 8, Mickiewicza 64)
+    .replace(/^s\.(?=\S)/i, "s. ")
     .replace(/\s+lab\.?$/i, " (lab)")
     .replace(/\s+aula$/i, " (aula)")
     .trim();
@@ -66,7 +67,7 @@ function applyFreeRest(e, rest, years) {
   if (data) { dates = parseDates(data[1], years); r = r.slice(0, data.index); }
   else { dates = parseDates(r, years); r = r.replace(/\b\d{1,2}\.\d{1,2}(?:\.\d{4})?(?:\s*r\.?)?/g, " "); }
   if (dates.length) { e.dates = dates; e.n = datesNote(dates); }
-  r = r.replace(/\s+/g, " ").trim();
+  r = r.replace(/\s+/g, " ").trim().replace(/^[.,;:]+\s*/, "");   // kropka po dacie: „08.10.2026.”
   if (r) {
     const pr = r.match(/^(.*?)\s*((?:s\.|sala|gab\.)\s.+)$/i);
     if (pr) { if (pr[1].trim()) e.p = pr[1].trim(); e.r = e.r || cleanRoom(pr[2]); }
@@ -102,9 +103,15 @@ export function parseEntry(chunk, years) {
     let rest = lines.slice(1).join("\n");
     const cut = title.search(/\s\d{1,2}\.\d{1,2}(?:\.\d{4})?|\smiejsce:|\sGODZ\.|\sdata:/i);
     if (cut > 0) { rest = title.slice(cut) + "\n" + rest; title = title.slice(0, cut); }
-    // Kierunki z samą polską nazwą (np. Zarządzanie): „PODSTAWY FINANSÓW (LB) GRUPA A”, „OCHRONA … (W e-learning)”
-    const t = title.match(/^(.*?)\s*\((W|ĆW|LB|K|S)(?:\s+([^()]+?))?\)\s*(?:GRUPA\s+([A-Z]))?\s*$/);
-    if (t) { title = t[1]; e.k = TYPES[t[2]]; if (t[4]) e.g = t[4]; if (t[3]) e.tag = t[3]; } else e.k = "X";
+    // Kierunki z samą polską nazwą: „PODSTAWY FINANSÓW (LB) GRUPA A”, „OCHRONA … (W e-learning)” (Zarządzanie),
+    // „MAKROEKONOMIA (ĆW)(30)”, „PODSTAWY FINANSÓW (LAB GR. A)(15)” (FiR: rodzaj, grupa i liczba godzin w nazwie)
+    const t = title.match(/^(.*?)\s*\((W|ĆW|LB|LAB|K|S)(?:\s+GR\.?\s*([A-Z])|\s+([^()]+?))?\)\s*(?:\((\d+)\))?\s*(?:GRUPA\s+([A-Z]))?\s*$/iu);
+    if (t) {
+      title = t[1]; e.k = TYPES[t[2].toUpperCase()];
+      const g = t[3] || t[6]; if (g) e.g = g.toUpperCase();
+      if (t[4]) e.tag = t[4];
+      if (t[5]) e.h = +t[5];
+    } else e.k = "X";
     e.pl = plCase(title.trim());
     if (lect.length) e.p = lect.join(", ");
     if (rooms.length) e.r = rooms.join(", ");
@@ -116,7 +123,7 @@ export function parseEntry(chunk, years) {
 // Stała kolejność kluczy, żeby porównywanie wersji planu było pewne
 function ordered(e) {
   const o = {};
-  for (const k of ["d", "s", "time", "pl", "en", "k", "g", "p", "r", "tag", "dates", "n", "x"]) if (e[k] !== undefined && e[k] !== "") o[k] = e[k];
+  for (const k of ["d", "s", "time", "pl", "en", "k", "g", "h", "p", "r", "tag", "dates", "n", "x"]) if (e[k] !== undefined && e[k] !== "") o[k] = e[k];
   return o;
 }
 
