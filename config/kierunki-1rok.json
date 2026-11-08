@@ -1,6 +1,11 @@
 {
   "opis": "Wygenerowane: node scripts/kierunki-1rok.mjs (z systemu planów WEFiZ). Nie edytuj ręcznie, nazwy EN w config/nazwy-en.json.",
   "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
   "aktualizacja": "06.11.2026 11:48",
   "wygenerowano": "2026-11-08",
   "kierunki": [
@@ -39,7 +44,10 @@
       "grupy": [
         {
           "nazwa": "M100",
-          "podgrupy": []
+          "podgrupy": [
+            "A",
+            "B"
+          ]
         }
       ]
     },
@@ -230,7 +238,10 @@
       "grupy": [
         {
           "nazwa": "M150",
-          "podgrupy": []
+          "podgrupy": [
+            "A",
+            "B"
+          ]
         },
         {
           "nazwa": "M151",
@@ -502,7 +513,10 @@
       "grupy": [
         {
           "nazwa": "M130",
-          "podgrupy": []
+          "podgrupy": [
+            "A",
+            "B"
+          ]
         },
         {
           "nazwa": "M131",

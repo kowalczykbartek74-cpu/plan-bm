@@ -1,0 +1,511 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Przedsiębiorczość i Inwestycje",
+ "id": "wefiz-pii-1-st-2026",
+ "kod": "pii26",
+ "kierunekEn": "Entrepreneurship and Investments",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T18:37:45.349Z",
+ "checkedAt": "2026-11-08T18:39:38.062Z",
+ "groups": {
+  "C181": {
+   "odd": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr hab. prof. US Marek Kunasz",
+     "r": "s. SIL 316",
+     "dates": [
+      "2026-10-06",
+      "2026-10-20",
+      "2026-11-03",
+      "2026-11-17"
+     ],
+     "n": "Tylko: 6.10, 20.10, 3.11, 17.11"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Problemy biznesu w praktyce",
+     "k": "K",
+     "p": "dr hab. prof. US Adam Adamczyk",
+     "r": "s. 046"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Podstawy prawa dla ekonomistów",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. 112"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy makroekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "s. 046"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Metody twórczego rozwiązywania problemów",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 046"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Metody twórczego rozwiązywania problemów",
+     "k": "W",
+     "p": "dr Artur Łabuz",
+     "r": "s. 523"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Podstawy ekonomiki przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Julia Klimek",
+     "r": "s. 046"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Marketing w małej firmie",
+     "k": "CW",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 707"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Marketing w małej firmie",
+     "k": "W",
+     "p": "dr hab. prof. US Augustyna Burlita",
+     "r": "s. 607"
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Wyszukiwanie, ocena wiarygodności informacji i bazy danych",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Metody twórczego rozwiązywania problemów",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 046"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Sztuka wystąpień publicznych",
+     "k": "K",
+     "p": "dr Marta Sidorkiewicz",
+     "r": "s. 112"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Wyszukiwanie, ocena wiarygodności informacji i bazy danych",
+     "k": "W",
+     "p": "dr Barbara Królikowska",
+     "r": "s. 607"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy makroekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "s. 046"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Metody twórczego rozwiązywania problemów",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 046"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Podstawy ekonomiki przedsiębiorstw",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. 607"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Podstawy ekonomiki przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Julia Klimek",
+     "r": "s. 033"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Marketing w małej firmie",
+     "k": "LAB",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Marketing w małej firmie",
+     "k": "W",
+     "p": "dr hab. prof. US Augustyna Burlita",
+     "r": "s. 607"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Podstawy prawa dla ekonomistów",
+     "k": "CW",
+     "p": "mgr Marcin Podlewski",
+     "r": "s. 607"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Podstawy makroekonomii (w e-learning))",
+     "k": "X",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "MS Teams PiI I 1rok"
+    },
+    {
+     "d": 1,
+     "s": 5,
+     "pl": "Narzędzia informatyczne w małej firmie",
+     "k": "LAB",
+     "p": "dr Olga Pilipczuk",
+     "r": "s. SIL 126/127 (lab)"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c181-65/",
+    "title": "GRUPA C181",
+    "ym": "2026-10",
+    "pub": "2026-10-22",
+    "text": "Dnia 23.10.2026 zajęcia z przedmiotu Podstawy ekonomiki przedsiębiorstw (ćw) z mgr Julią Klimek odbędą się o godz. 10:00 w sali 046"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c181-64/",
+    "title": "GRUPA C181",
+    "ym": "2026-10",
+    "pub": "2026-10-21",
+    "text": "Dnia 23.10.2026 zostają odwołane zajęcia z dr Małgorzatą Zakrzewską-Grünwald. Termin odrobienia: 28.10.2026 godz. 8:15 sala 041"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c181-63/",
+    "title": "GRUPA C181",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Dnia 10.11.2026 zostają odwołane zajęcia z prof. Katarzyną Kozioł-Nadolna. Termin odrabiania zajęć: 15.10.2026 godz. 12:00 sala s. 607"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c181-62/",
+    "title": "GRUPA C181",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Dnia 14.10.2026 o godz. 13:45 w sali SIL 314 odbędzie się odrabianie zajęć z dr Małgorzatą Zakrzewska-Grünwald z dnia 02.10.2026 r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c181-61/",
+    "title": "GRUPA C181",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Dnia 16.10.2026 zostają odwołane zajęcia z dr Małgorzatą Zakrzewska-Grünwald Termin odrobienia zajęć: 14.10.2026 godz. 12:00 sala SIL 324"
+   }
+  ],
+  "zmiany": {
+   "C181": [
+    {
+     "type": "cancel",
+     "date": "2026-10-02",
+     "start": "10:00",
+     "pl": "Podstawy makroekonomii",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-14",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy makroekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "s. SIL 324",
+     "post": 4
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-14",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy makroekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "s. SIL 314",
+     "post": 3
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-15",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy ekonomiki przedsiębiorstw",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s",
+     "post": 2
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-16",
+     "start": "10:00",
+     "pl": "Podstawy makroekonomii",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "change",
+     "date": "2026-10-23",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Podstawy ekonomiki przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Julia Klimek",
+     "r": "s. 046",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-23",
+     "start": "10:00",
+     "pl": "Podstawy makroekonomii",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-23",
+     "start": "12:00",
+     "pl": "Podstawy ekonomiki przedsiębiorstw",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-28",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Podstawy makroekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "s. 041",
+     "post": 1
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-10",
+     "start": "12:00",
+     "pl": "Podstawy ekonomiki przedsiębiorstw",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T18:38:23.200Z"
+ }
+}

@@ -77,6 +77,12 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
 - **1. rok wszystkich kierunków (I st., stacjonarne):** `node scripts/kierunki-1rok.mjs` zapisuje `config/kierunki-1rok.json`
   (id, nazwa w systemie, PL/EN, grupy z podgrupami, czy system ma plan). Kierunki tylko z systemu uczelni, nazwy EN w `config/nazwy-en.json`.
   Odpowiedzi uczelni są w `.cache/efz/` (poza gitem) do zmiany „Aktualizacja planu”, więc kolejny przebieg to jedno zapytanie.
+- **Import wszystkich kierunków 1. roku:** `update-plan.mjs --wszystkie` bierze roczniki z `kierunki/*.json` (pierwszeństwo) i z
+  `config/kierunki-1rok.json` (`scripts/roczniki.mjs`), więc poranny automat obejmuje wszystkie bez zmian w workflow.
+  Przed zapisem: plan niepusty, każda grupa ma zajęcia, liczba zajęć nie spadła o ponad 30%. Inaczej zostaje stara wersja,
+  a błąd trafia do logu przebiegu i do `plan/_import.json` (stan każdego rocznika + ostatnie 200 błędów). `--tylko id1,id2` = próba na kilku.
+  Odwołane zajęcia: ten sam czytnik DOS; sekcja (Cukrowa / Mickiewicza) z sal w planie („S01”, „N104” = Mickiewicza).
+  Sprawdzenie skryptem: `node scripts/sprawdz-plany.mjs`. `scripts/bm-identyczny.test.mjs` porównuje `plan.json` BM ze starego i nowego kodu.
 - **Workflow do podmiany ręcznie:** `docs/aktualizacja-planu-kierunki.yml` to nowa wersja `.github/workflows/aktualizacja-planu.yml` (kroki dla roczników, publikacja `plan/`). Token automatu nie może zmieniać workflow, więc wklej go na github.com (Edit file → wklej → Commit). Bez tego plan Zarządzania nie odświeża się sam i nie trafia na stronę.
 
 ## Plan w kalendarzu telefonu

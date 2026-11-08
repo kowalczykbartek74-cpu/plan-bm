@@ -7,7 +7,7 @@
 // Odpowiedzi uczelni: .cache/efz/ (scripts/uczelnia.mjs), ≤ 1 zapytanie/s.
 import fs from "node:fs";
 import { pathToFileURL } from "node:url";
-import { znajdz, kodZ, nabor, idRocznika, prefiks } from "./wefiz-wszystkie.mjs";
+import { znajdz, kodZ, nabor, idRocznika, prefiks, WYDZIAL } from "./wefiz-wszystkie.mjs";
 import { uczelnia } from "./uczelnia.mjs";
 
 export function zbuduj(wyniki, bezPlanu, { en = {}, teraz = new Date(), aktualizacja = null } = {}) {
@@ -29,7 +29,7 @@ export function zbuduj(wyniki, bezPlanu, { en = {}, teraz = new Date(), aktualiz
   const kierunki = [...wyniki.map((w) => wpis(w, true)), ...bezPlanu.map((w) => wpis(w, false))]
     .sort((a, b) => a.pl.localeCompare(b.pl, "pl"));
   return { opis: "Wygenerowane: node scripts/kierunki-1rok.mjs (z systemu planów WEFiZ). Nie edytuj ręcznie, nazwy EN w config/nazwy-en.json.",
-    zrodlo: "https://planyzajec-efz.usz.edu.pl/plan", aktualizacja, wygenerowano: teraz.toISOString().slice(0, 10), kierunki };
+    zrodlo: "https://planyzajec-efz.usz.edu.pl/plan", wydzial: { ...WYDZIAL }, aktualizacja, wygenerowano: teraz.toISOString().slice(0, 10), kierunki };
 }
 
 export function tabela(cfg) {

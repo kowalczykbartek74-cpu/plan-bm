@@ -47,3 +47,32 @@ test("config: id, nazwy PL/EN, grupy z podgrupami, kierunek bez planu", () => {
   assert.equal(cfg.kierunki[1].system.nazwa, "Zarządzanie (Z)");
   assert.match(tabela(cfg), /\| Zarządzanie \(Z\) \| `wefiz-zarz-1-st-2026` \| C151 A\/B, C152 \| tak \|/);
 });
+
+test("walidacja importu: pusty plan, brak grupy, spadek o ponad 30%", async () => {
+  const { sprawdz } = await import("./update-plan.mjs");
+  const e = (n) => ({ odd: Array(n).fill({ d: 0 }), even: [] });
+  const K = { wymagane: ["C151", "C152"] };
+  assert.throws(() => sprawdz(K, { C151: e(10) }, null), /Brak grupy C152/);
+  assert.throws(() => sprawdz(K, { C151: e(6), C152: e(7) }, { groups: { C151: e(10), C152: e(10) } }), /spadła z 20 do 13/);
+  assert.equal(sprawdz(K, { C151: e(7), C152: e(7) }, { groups: { C151: e(10), C152: e(10) } }), 14);
+  assert.throws(() => sprawdz({ wymagane: [] }, {}, null), /pusty/);
+});
+
+test("roczniki: kierunki/ ma pierwszeństwo, BM i kierunki bez planu pominięte, budynek → DOS", async () => {
+  const { roczniki, budynek, DOS } = await import("./roczniki.mjs");
+  const d = fs.mkdtempSync(path.join(os.tmpdir(), "rocz-"));
+  fs.mkdirSync(path.join(d, "k"));
+  fs.writeFileSync(path.join(d, "k/wefiz-zarz-1-st-2026.json"), JSON.stringify({ id: "wefiz-zarz-1-st-2026", opis: "skrot-bm" }));
+  const k = (id, maPlan, grupy) => ({ id, kod: id.split("-")[1] + "26", kierunek: "X", pl: id, en: null, stopien: 1, rok: 1, tryb: "st", nabor: 2026,
+    system: { nazwa: id + " (X)", rok: "1 rokI" }, maPlan, grupy: grupy.map((nazwa) => ({ nazwa, podgrupy: [] })) });
+  fs.writeFileSync(path.join(d, "cfg.json"), JSON.stringify({ wydzial: { kod: "WEFiZ" }, kierunki: [k("wefiz-bm-1-st-2026", true, ["C111"]),
+    k("wefiz-zarz-1-st-2026", true, ["C151"]), k("wefiz-log-1-st-2026", true, ["C131"]), k("wefiz-ds-1-st-2026", false, [])] }));
+  const r = roczniki({ dir: path.join(d, "k"), config: path.join(d, "cfg.json") });
+  assert.deepEqual(r.map((c) => [c.id, c.opis === "skrot-bm"]), [["wefiz-log-1-st-2026", false], ["wefiz-zarz-1-st-2026", true]]);
+  assert.equal(r[0].plik, "plan/wefiz-log-1-st-2026.json"); assert.deepEqual(r[0].grupy, ["C131"]); assert.equal(r[0].kierunek.en, "wefiz-log-1-st-2026");
+  assert.equal(budynek({ groups: { M1: { odd: [{ r: "s. 104 Mic.64" }, { r: "s. 5 Mic.64" }], even: [{ r: "s. 1 Cuk.8" }] } } }), "mic");
+  assert.equal(budynek({ groups: { C1: { odd: [{ r: "s. 1 Cuk.8" }], even: [] } } }), null);
+  assert.equal(budynek({ groups: { M110: { odd: [{ r: "s. S03" }, { r: "s. N203 MBA" }, { r: "s. 607" }], even: [] } } }), "mic");
+  assert.equal(budynek({ groups: { C131: { odd: [{ r: "s. 607" }, { r: "s. SIL 315" }, { r: "s. N104" }], even: [] } } }), null);
+  assert.match(DOS.mic, /mickiewicza/);
+});

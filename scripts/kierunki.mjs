@@ -4,12 +4,14 @@
 //   node scripts/kierunki.mjs --sprawdz  kod 1, gdy index.html jest nieaktualny
 import fs from "node:fs";
 import { pathToFileURL } from "node:url";
+import { roczniki } from "./roczniki.mjs";
 
 export function lista(dir = "kierunki") {
-  const pliki = fs.existsSync(dir) ? fs.readdirSync(dir).filter(f => f.endsWith(".json")).sort() : [];
-  return pliki.map(f => {
-    const c = JSON.parse(fs.readFileSync(`${dir}/${f}`, "utf8"));
-    if (!c.id || !c.kod || !c.kierunek?.pl || !c.rok || c.plik !== `plan/${c.id}.json`) throw new Error(`${dir}/${f}: brak id, kod, kierunek.pl, rok albo plik ≠ plan/<id>.json`);
+  // kierunki/*.json i (dla katalogu kierunki/) config/kierunki-1rok.json, patrz scripts/roczniki.mjs
+  // na stronę tylko roczniki z planem (pierwszy import nieudany = nie ma pustej pozycji); pliki z kierunki/ zawsze, jak dotąd
+  return roczniki({ dir }).filter(c => c._plik.startsWith(dir + "/") || fs.existsSync(c.plik)).map(c => {
+    const f = c._plik;
+    if (!c.id || !c.kod || !c.kierunek?.pl || !c.rok || c.plik !== `plan/${c.id}.json`) throw new Error(`${f}: brak id, kod, kierunek.pl, rok albo plik ≠ plan/<id>.json`);
     // stopien: ten sam kierunek I i II stopnia (np. Ekonomia) to dwie pozycje na liście kierunków
     return { id: c.id, kod: c.kod, pl: c.kierunek.pl, en: c.kierunek.en || c.kierunek.pl, rok: c.rok, stopien: c.stopien ?? 1, wydzial: c.wydzial?.kod || "", plik: c.plik };
   });

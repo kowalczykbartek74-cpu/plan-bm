@@ -4,7 +4,8 @@
 //
 //   node scripts/update-plan.mjs                              Business Management (plan.json + kopia w index.html), jak dotąd
 //   node scripts/update-plan.mjs --kierunek kierunki/<id>.json  inny rocznik → plan/<id>.json (konfiguracja z pliku)
-//   node scripts/update-plan.mjs --wszystkie                   każdy plik z kierunki/ (bez BM)
+//   node scripts/update-plan.mjs --wszystkie                   każdy rocznik z kierunki/ i config/kierunki-1rok.json (bez BM),
+//                                                              stan przebiegu w plan/_import.json
 // Pliki kierunki/<id>.json robi skrypt kierunek.mjs w repo skrot-bm; w tym skrypcie nie ma żadnego kierunku poza BM.
 import fs from "node:fs";
 import path from "node:path";
@@ -13,6 +14,8 @@ import https from "node:https";
 import http from "node:http";
 import { parseGroupPage, parseUpdated, SLOTS } from "./parse.mjs";
 import { fetchImportPlan, mergeImportPlan } from "./import-plan.mjs";
+import { roczniki } from "./roczniki.mjs";
+import { uczelnia } from "./uczelnia.mjs";
 
 const BASE = process.env.PLAN_BASE_URL || "https://planyzajec-efz.usz.edu.pl/";
 // Business Management: grupy 1. roku; skrypt sprawdza też kolejne numery, gdyby uczelnia dodała grupę.
@@ -108,22 +111,38 @@ export function bezZmianUczelni(K, old, updated, argv = process.argv) {
     && K.wymagane.every(g => old.groups && old.groups[g]);
 }
 
+// Inne roczniki: strony uczelni przez cache .cache/efz/ (ważny do zmiany „Aktualizacja planu”) i ≤ 1 zapytanie/s.
+// BM jak dotąd: zawsze prosto ze strony uczelni.
+let CGET = null;
+const zRequest = async (url) => { const t = await request(url); return t === null ? { ok: false, status: 404 } : { ok: true, status: 200, text: async () => t }; };
+const pobierz = K => K.html ? get : (CGET ||= uczelnia({ fetchFn: zRequest }));
+export const liczbaZajec = groups => Object.values(groups || {}).reduce((n, g) => n + (g.odd?.length || 0) + (g.even?.length || 0), 0);
+// Walidacja przed zapisem: plan niepusty, każda wymagana grupa ma zajęcia, spadek liczby zajęć ≤ 30% względem poprzedniej wersji.
+export function sprawdz(K, groups, stary) {
+  for (const g of K.wymagane) if (!groups[g]) throw new Error(`Brak grupy ${g} w odpowiedzi uczelni. Nie nadpisuję planu.`);
+  const teraz = liczbaZajec(groups), przed = liczbaZajec(stary?.groups);
+  if (!teraz) throw new Error("Plan pusty. Nie nadpisuję planu.");
+  if (przed && teraz < przed * 0.7) throw new Error(`Liczba zajęć spadła z ${przed} do ${teraz} (o ponad 30%). Nie nadpisuję planu.`);
+  return teraz;
+}
+
 async function main(K) {
-  const planHtml = PLAN_HTML ?? (PLAN_HTML = await get("plan"));
+  const get_ = pobierz(K);
+  const planHtml = K.html ? (PLAN_HTML ?? (PLAN_HTML = await get("plan"))) : await get_("plan");
   if (planHtml === null) throw new Error("Strona główna planu przekierowuje w inne miejsce");
   const updated = parseUpdated(planHtml);
   const stary = fs.existsSync(K.plik) ? JSON.parse(fs.readFileSync(K.plik, "utf8")) : null;
   if (bezZmianUczelni(K, stary, updated)) {
     fs.writeFileSync(K.plik, JSON.stringify({ ...stary, checkedAt: new Date().toISOString() }, null, 1) + "\n");
     console.log(`Bez zmian na stronie uczelni (Aktualizacja planu: ${updated}), plan ${K.opis} bez pobierania grup.`);
+    K.wynik = { status: "bez zmian uczelni", grupy: Object.keys(stary.groups).length, zajec: liczbaZajec(stary.groups) };
     return false;
   }
 
   const groups = {};
   let meta = {};
   for (const g of K.kandydaci) {
-    if (!K.html) await pauza();
-    const html = await get(`planGrup?numerGrupy=${g}`);
+    const html = await get_(`planGrup?numerGrupy=${g}`);
     if (html === null) continue;   // uczelnia nie ma takiej grupy (przekierowanie)
     const page = parseGroupPage(html);
     if (page.empty || page.kierunek !== K.kierunek) continue;
@@ -138,9 +157,7 @@ async function main(K) {
   const imp = await fetchImportPlan({ file: fi > 0 ? process.argv[fi + 1] : null, ...(K.rocznik ? { rocznik: K.rocznik } : {}) });
   const zImportu = mergeImportPlan(groups, imp);
   if (zImportu.length) console.log(`Plan z importu (Skrót, zatwierdzony ${imp.zatwierdzony_at}): grupy ${zImportu.join(", ")}.`);
-  for (const g of K.wymagane) {
-    if (!groups[g]) throw new Error(`Brak grupy ${g} w odpowiedzi uczelni. Nie nadpisuję planu.`);
-  }
+  const zajec = sprawdz(K, groups, stary);
 
   const old = fs.existsSync(K.plik) ? JSON.parse(fs.readFileSync(K.plik, "utf8")) : null;
   const changed = !old || JSON.stringify(old.groups) !== JSON.stringify(groups);
@@ -183,6 +200,7 @@ async function main(K) {
     else fs.appendFileSync("zmiany.md", (fs.existsSync("zmiany.md") ? "\n---\n\n" : "") + summary + "\n");
   }
   console.log(changed ? (old ? "ZMIANA w planie:\n" + summary : "Pierwszy zapis planu.") : "Bez zmian w planie.");
+  K.wynik = { status: changed ? (old ? "zmiana" : "nowy") : "bez zmian", grupy: Object.keys(groups).length, zajec };
   return changed && !!old;
 }
 
@@ -192,19 +210,33 @@ const blad = err => {
   if (process.env.GITHUB_ACTIONS) console.log(`::error title=Nie udało się pobrać planu::${err.message}${cause}`);
 };
 
+// plan/_import.json: stan ostatniego przebiegu (rocznik, status, grupy, zajęcia, błąd) i log błędów (ostatnie 200 wpisów)
+export function zapiszStan(stan, plik = "plan/_import.json", teraz = new Date().toISOString()) {
+  const stary = fs.existsSync(plik) ? JSON.parse(fs.readFileSync(plik, "utf8")) : {};
+  const log = [...(stary.log || []), ...stan.filter(s => s.blad).map(s => ({ at: teraz, id: s.id, blad: s.blad }))].slice(-200);
+  fs.mkdirSync(path.dirname(plik), { recursive: true });
+  fs.writeFileSync(plik, JSON.stringify({ opis: "Stan importu planów (update-plan.mjs --wszystkie). Błąd = w plan/<id>.json zostaje poprzednia wersja.", at: teraz, roczniki: stan, log }, null, 1) + "\n");
+}
+
+// --tylko id1,id2: przy --wszystkie tylko te roczniki (sprawdzenie na kilku przed pełnym przebiegiem); stan zapisuje się tylko bez --tylko
+const ti = process.argv.indexOf("--tylko");
+const TYLKO = ti > 0 ? process.argv[ti + 1].split(",") : null;
 async function run() {
   const ki = process.argv.indexOf("--kierunek");
-  const pliki = ki > 0 ? [process.argv[ki + 1]]
-    : process.argv.includes("--wszystkie") ? (fs.existsSync("kierunki") ? fs.readdirSync("kierunki").filter(f => f.endsWith(".json")).sort().map(f => "kierunki/" + f) : [])
-    : null;
+  const pliki = ki > 0 ? [process.argv[ki + 1]] : null;
   let changed = false, failed = false;
-  if (!pliki) changed = await main(BM);
+  const konfiguracje = pliki ? pliki.map(f => JSON.parse(fs.readFileSync(f, "utf8"))) : process.argv.includes("--wszystkie") ? roczniki().filter(c => !TYLKO || TYLKO.includes(c.id)) : null;
+  const stan = [];
+  if (!konfiguracje) changed = await main(BM);
   // Każdy rocznik osobno: błąd jednego nie zatrzymuje pozostałych (ich plan zostaje z poprzedniego przebiegu).
-  else for (const f of pliki) {
-    console.log(`\n== ${f} ==`);
-    try { changed = (await main(zKonfiguracji(JSON.parse(fs.readFileSync(f, "utf8"))))) || changed; }
-    catch (e) { blad(e); failed = true; }
+  else for (const c of konfiguracje) {
+    console.log(`\n== ${c.id} ==`);
+    let K = null;
+    try { K = zKonfiguracji(c); changed = (await main(K)) || changed; stan.push({ id: c.id, ...K.wynik }); }
+    catch (e) { blad(e); failed = true; stan.push({ id: c.id, status: "błąd", blad: e.message }); }
   }
+  if (konfiguracje && process.argv.includes("--wszystkie") && !TYLKO) zapiszStan(stan);
+  if (stan.length) console.log("\n" + stan.map(s => `${s.id}: ${s.status}${s.grupy != null ? `, grup ${s.grupy}, zajęć ${s.zajec}` : ""}${s.blad ? " — " + s.blad : ""}`).join("\n"));
   if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `changed=${changed}\n`);
   if (failed) process.exit(1);
 }

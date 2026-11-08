@@ -28,7 +28,7 @@ const UA = "plan-bm (projekt studencki, plany kierunkow WEFiZ, 1 zapytanie/s; sk
 export const LATA = [["1 rokI", 1, 1], ["2 rokI", 1, 2], ["3 rokI", 1, 3], ["4 rokI", 1, 4], ["1 rokII", 2, 1], ["2 rokII", 2, 2]];
 const MIN_ENTRIES = 5;
 const MAX_KANDYDATOW = 30;
-const WYDZIAL = { kod: "WEFiZ", pl: "Wydział Ekonomii, Finansów i Zarządzania", en: "Faculty of Economics, Finance and Management" };
+export const WYDZIAL = { kod: "WEFiZ", pl: "Wydział Ekonomii, Finansów i Zarządzania", en: "Faculty of Economics, Finance and Management" };
 // Ten sam kod co skrot-bm/scripts/kierunki-wefiz.mjs (nauka_kierunki.kod): jednoliterowe skróty uczelni rozszerzone do 2–6 liter.
 const ROZSZERZ = { L: "LOG", M: "MKT", Z: "ZARZ" };
 export const kodZ = (s) => { const k = String(s).replace(/[^A-Za-z]/g, "").toUpperCase(); return ROZSZERZ[k] || k; };

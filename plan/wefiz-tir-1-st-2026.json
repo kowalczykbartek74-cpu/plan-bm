@@ -1,0 +1,597 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Turystyka i Rekreacja",
+ "id": "wefiz-tir-1-st-2026",
+ "kod": "tir26",
+ "kierunekEn": "Tourism and Recreation",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T18:39:38.285Z",
+ "checkedAt": "2026-11-08T18:39:38.285Z",
+ "groups": {
+  "M130": {
+   "odd": [
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr Rafał Czyżycki",
+     "r": "s. N08e (lab)"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr Rafał Czyżycki",
+     "r": "s. N08e (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy socjologii",
+     "k": "W",
+     "h": 15,
+     "p": "dr Żaneta Stasieniuk",
+     "r": "s. S019"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy geografii turyzmu",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Geografia społeczno-ekonomiczna",
+     "k": "W",
+     "h": 15,
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S019"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Geografia społeczno-ekonomiczna",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S07"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Podstawy geografii turyzmu",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Elżbieta Mydłowska",
+     "r": "s. S06"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "g": "A",
+     "h": 30,
+     "p": "dr Rafał Czyżycki",
+     "r": "s. N08e (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Krajoznawstwo",
+     "k": "LAB",
+     "g": "B",
+     "h": 15,
+     "p": "mgr Karina Tessar",
+     "r": "s. N101/102 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "W",
+     "h": 15,
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "CW",
+     "h": 15,
+     "p": "dr hab. prof. US Anna Drab-Kurowska",
+     "r": "s. S06"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "g": "B",
+     "h": 30,
+     "p": "dr Rafał Czyżycki",
+     "r": "s. N08e (lab)"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Krajoznawstwo",
+     "k": "LAB",
+     "g": "A",
+     "h": 15,
+     "p": "mgr Karina Tessar",
+     "r": "s. N021A (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "h": 15,
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S019"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Anna Drab-Kurowska",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy projektowania uniwersalnego (k) 15h od",
+     "k": "X",
+     "p": "dr Natalia Sypion",
+     "r": "s. S0205/0206",
+     "dates": [
+      "2026-10-28"
+     ],
+     "n": "Jednorazowo: 28.10.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Historia architektury i sztuki",
+     "k": "W",
+     "h": 15,
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S019"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Pedagogika czasu wolnego z elementami psychologii",
+     "k": "W",
+     "h": 15,
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Krajoznawstwo",
+     "k": "W",
+     "h": 15,
+     "p": "dr Barbara Osóch",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Historia architektury i sztuki",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S04/05"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "h": 8,
+     "p": "dr hab. prof. US Marek Kunasz",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 4,
+     "s": 4,
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S019"
+    }
+   ]
+  },
+  "M131": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr Piotr Ładny",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "CW",
+     "h": 15,
+     "p": "dr hab. prof. US Anna Drab-Kurowska",
+     "r": "s. S0103"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy projektowania uniwersalnego (k) 15h od",
+     "k": "X",
+     "p": "dr Natalia Sypion",
+     "r": "s. S04/05",
+     "dates": [
+      "2026-10-21"
+     ],
+     "n": "Jednorazowo: 21.10.2026"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy socjologii",
+     "k": "W",
+     "h": 15,
+     "p": "dr Żaneta Stasieniuk",
+     "r": "s. S019"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Krajoznawstwo",
+     "k": "LAB",
+     "h": 15,
+     "p": "mgr Karina Tessar",
+     "r": "s. N021A (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy geografii turyzmu",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "dates": [
+      "2026-10-08"
+     ],
+     "n": "Jednorazowo: 8.10.2026",
+     "x": "Aula WNS ul Krakowska 71/79"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Geografia społeczno-ekonomiczna",
+     "k": "W",
+     "h": 15,
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S019"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Podstawy geografii turyzmu",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Elżbieta Mydłowska",
+     "r": "s. P-7 Przybudowka"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Geografia społeczno-ekonomiczna",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S019"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "h": 30,
+     "p": "dr Piotr Ładny",
+     "r": "s. N08c (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "W",
+     "h": 15,
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "h": 15,
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S019"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "W",
+     "h": 15,
+     "p": "dr hab. prof. US Anna Drab-Kurowska",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0204"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Historia architektury i sztuki",
+     "k": "W",
+     "h": 15,
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S019"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Pedagogika czasu wolnego z elementami psychologii",
+     "k": "W",
+     "h": 15,
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Krajoznawstwo",
+     "k": "W",
+     "h": 15,
+     "p": "dr Barbara Osóch",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S019"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "h": 8,
+     "p": "dr hab. prof. US Marek Kunasz",
+     "r": "s. S0205/0206"
+    },
+    {
+     "d": 4,
+     "s": 4,
+     "pl": "Historia architektury i sztuki",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S04/05"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [],
+  "zmiany": {
+   "M130": [],
+   "M131": []
+  },
+  "updatedAt": "2026-11-08T18:38:23.204Z"
+ }
+}

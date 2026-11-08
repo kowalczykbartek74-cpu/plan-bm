@@ -1,0 +1,410 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Informatyka w Biznesie",
+ "id": "wefiz-iwb-1-st-2026",
+ "kod": "iwb26",
+ "kierunekEn": "IT in Business",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T18:37:35.477Z",
+ "checkedAt": "2026-11-08T18:39:37.351Z",
+ "groups": {
+  "C171": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Systemy operacyjne i technologie sieciowe w biznesie",
+     "k": "LAB",
+     "p": "dr hab. inż. prof. US Paweł Ziemba",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr hab. prof. US Marek Kunasz",
+     "r": "s. SIL 316",
+     "dates": [
+      "2026-10-06",
+      "2026-10-20",
+      "2026-11-03",
+      "2026-11-17"
+     ],
+     "n": "Tylko: 6.10, 20.10, 3.11, 17.11"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 112"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr Mikołaj Marciniak",
+     "r": "s. SIL 145/146 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Wstęp do informatyki w biznesie",
+     "k": "K",
+     "p": "dr Grzegorz Szyjewski",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "p": "dr hab. prof. US Karol Kuczera",
+     "r": "s. 104"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Wprowadzenie do e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. SIL 145/146 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. 112"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Systemy operacyjne i technologie sieciowe w biznesie",
+     "k": "LAB",
+     "p": "dr hab. inż. prof. US Paweł Ziemba",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Algorytmy i struktury danych",
+     "k": "W",
+     "p": "dr hab. prof. US Jakub Swacha",
+     "r": "s. 507"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Zarządzanie własnym rozwojem",
+     "k": "K",
+     "p": "dr Agnieszka Malkowska",
+     "r": "s. 112"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Systemy operacyjne i technologie sieciowe w biznesie",
+     "k": "W",
+     "p": "dr hab. inż. prof. US Paweł Ziemba",
+     "r": "s. 104"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Przedsiębiorczość",
+     "k": "W",
+     "p": "dr Marta Szaja",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Systemy operacyjne i technologie sieciowe w biznesie",
+     "k": "LAB",
+     "p": "dr hab. inż. prof. US Paweł Ziemba",
+     "r": "s. SIL 126/127 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Wstęp do informatyki w biznesie",
+     "k": "K",
+     "p": "dr Grzegorz Szyjewski",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Podstawy mikroekonomii",
+     "k": "W",
+     "p": "dr Agnieszka Łopatka",
+     "r": "s. 104"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Przedsiębiorczość",
+     "k": "CW",
+     "p": "dr Marta Szaja",
+     "r": "s. 507"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr Mikołaj Marciniak",
+     "r": "s. SIL 145/146 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy mikroekonomii",
+     "k": "CW",
+     "p": "dr Agnieszka Łopatka",
+     "r": "s. 112"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Logika",
+     "k": "CW",
+     "p": "mgr Krzysztof Heberlein",
+     "r": "s. 607"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wprowadzenie do e-biznesu",
+     "k": "W",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. 003"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c171-zmiana-w-planie/",
+    "title": "GRUPA C171 – ZMIANA W PLANIE",
+    "ym": "2026-10",
+    "pub": "2026-10-28",
+    "text": "Szanowni Studenci od listopada nastąpi zmiana w planie. Połączenie grup laboratoryjnych."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c171-26/",
+    "title": "GRUPA C171",
+    "ym": "2026-10",
+    "pub": "2026-10-01",
+    "text": "Dnia 21.10.2026 zostają odwołane zajęcia z dr Anną Ścibior-Butrym. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c171-25/",
+    "title": "GRUPA C171",
+    "ym": "2026-09",
+    "pub": "2026-09-30",
+    "text": "Dnia 07.10.2026 zostają odwołane zajęcia z dr Anną Ścibior-Butrym. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c171-23/",
+    "title": "GRUPA C171",
+    "ym": "2026-09",
+    "pub": "2026-09-28",
+    "text": "Dnia 06.10.2026 zostają odwołane zajęcia z dr Aleksandrą Werner. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C171": [
+    {
+     "type": "note",
+     "date": "2026-10-06",
+     "post": 3
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-07",
+     "start": "8:15",
+     "pl": "Podstawy zarządzania",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "8:15",
+     "pl": "Podstawy zarządzania",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T18:38:07.874Z"
+ }
+}

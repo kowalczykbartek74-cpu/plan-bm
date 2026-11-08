@@ -1,0 +1,481 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Logistyka inż.",
+ "id": "wefiz-li-1-st-2026",
+ "kod": "li26",
+ "kierunekEn": "Logistics (Eng.)",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T18:37:42.403Z",
+ "checkedAt": "2026-11-08T18:39:37.706Z",
+ "groups": {
+  "C161": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 109 dr inż. Tomasz Wiśniewski",
+     "dates": [
+      "2026-11-16"
+     ],
+     "n": "Jednorazowo: 16.11.2026"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Logistyka i zarządzanie łańcuchem dostaw",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 047"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 109 dr inż. Tomasz Wiśniewski",
+     "dates": [
+      "2026-11-16"
+     ],
+     "n": "Jednorazowo: 16.11.2026"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Malwina Szarek",
+     "r": "s. 034"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. 047"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Logistyka i zarządzanie łańcuchem dostaw",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "s. 046"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Matematyka",
+     "k": "W",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "s. 607"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Elementy prawa",
+     "k": "K",
+     "p": "mgr Bartosz Brożyński",
+     "r": "s. 507"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Ładunkoznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 046"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Matematyka",
+     "k": "CW",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "s. 607"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Olga Pilipczuk",
+     "r": "s. SIL 126/127 (lab)"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. SIL 323",
+     "dates": [
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-23"
+     ],
+     "n": "Tylko: 12.10, 26.10, 9.11, 23.11"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Logistyka i zarządzanie łańcuchem dostaw",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 047"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Inżynieria systemów i analiza systemowa",
+     "k": "W",
+     "p": "dr inż. Marcin Mastalerz",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "p": "dr Malwina Szarek",
+     "r": "s. 523"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Inżynieria systemów i analiza systemowa",
+     "k": "CW",
+     "p": "dr inż. Marcin Mastalerz",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Logistyka i zarządzanie łańcuchem dostaw",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "s. 046"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Matematyka",
+     "k": "W",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "s. 607"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Elementy prawa",
+     "k": "K",
+     "p": "mgr Bartosz Brożyński",
+     "r": "s. 507"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Ładunkoznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 046"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Matematyka",
+     "k": "CW",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "s. 607"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Olga Pilipczuk",
+     "r": "s. SIL 126/127 (lab)"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c161-53/",
+    "title": "GRUPA C161",
+    "ym": "2026-11",
+    "pub": "2026-11-06",
+    "text": "Dnia 18.11.2026 zostają odwołane zajęcia z dr inż. Tomaszem Wiśniewskim. Termin odrobienia zajęć: 16.11.2026 godz. 8:15 i 10:00 sala 109"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c161-zmiana-w-planie/",
+    "title": "GRUPA C161 – ZMIANA W PLANIE",
+    "ym": "2026-10",
+    "pub": "2026-10-28",
+    "text": "Szanowni Studenci od listopada nastąpi zmiana w planie. Połączenie grup laboratoryjnych."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c161-52/",
+    "title": "GRUPA C161",
+    "ym": "2026-09",
+    "pub": "2026-09-30",
+    "text": "Dnia 14.10.2026 zostają odwołane zajęcia z dr inż. Tomaszem Wiśniewskim Termin odrobienia zajęć: wykład 15.10.2026 godz. 10:00 sala 607 ćwiczenia 15.10.2026 godz. 12:00 sala 607"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c161-c132/",
+    "title": "GRUPA C161, C132",
+    "ym": "2026-09",
+    "pub": "2026-09-28",
+    "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Aleksandrą Werner. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C161": [
+    {
+     "type": "note",
+     "date": "2026-10-05",
+     "post": 3
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "12:00",
+     "pl": "Matematyka",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "13:45",
+     "pl": "Matematyka",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-15",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Matematyka",
+     "k": "X",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "s. 607",
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-15",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Matematyka",
+     "k": "X",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "s. 607",
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-16",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Matematyka",
+     "k": "X",
+     "p": "dr inż. Tomasz Wiśniewski",
+     "r": "s. 109",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "12:00",
+     "pl": "Matematyka",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "13:45",
+     "pl": "Matematyka",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T18:38:16.464Z"
+ }
+}

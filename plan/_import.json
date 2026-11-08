@@ -1,0 +1,103 @@
+{
+ "opis": "Stan importu planów (update-plan.mjs --wszystkie). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
+ "at": "2026-11-08T18:39:41.187Z",
+ "roczniki": [
+  {
+   "id": "wefiz-biwg-1-st-2026",
+   "status": "zmiana",
+   "grupy": 1,
+   "zajec": 25
+  },
+  {
+   "id": "wefiz-eaia-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 1,
+   "zajec": 27
+  },
+  {
+   "id": "wefiz-ek-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 1,
+   "zajec": 21
+  },
+  {
+   "id": "wefiz-fir-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 4,
+   "zajec": 92
+  },
+  {
+   "id": "wefiz-gn-1-st-2026",
+   "status": "zmiana",
+   "grupy": 2,
+   "zajec": 57
+  },
+  {
+   "id": "wefiz-gpi-1-st-2026",
+   "status": "zmiana",
+   "grupy": 1,
+   "zajec": 23
+  },
+  {
+   "id": "wefiz-iie-1-st-2026",
+   "status": "zmiana",
+   "grupy": 1,
+   "zajec": 14
+  },
+  {
+   "id": "wefiz-iwb-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 1,
+   "zajec": 22
+  },
+  {
+   "id": "wefiz-kipb-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 3,
+   "zajec": 74
+  },
+  {
+   "id": "wefiz-li-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 1,
+   "zajec": 23
+  },
+  {
+   "id": "wefiz-log-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 2,
+   "zajec": 45
+  },
+  {
+   "id": "wefiz-pii-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 1,
+   "zajec": 23
+  },
+  {
+   "id": "wefiz-tir-1-st-2026",
+   "status": "zmiana",
+   "grupy": 2,
+   "zajec": 45
+  },
+  {
+   "id": "wefiz-zarz-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 3,
+   "zajec": 82
+  },
+  {
+   "id": "wefiz-zloz-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 1,
+   "zajec": 14
+  },
+  {
+   "id": "wefiz-zoze-1-st-2026",
+   "status": "bez zmian",
+   "grupy": 1,
+   "zajec": 28
+  }
+ ],
+ "log": []
+}

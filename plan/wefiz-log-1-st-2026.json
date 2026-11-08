@@ -1,0 +1,792 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Logistyka",
+ "id": "wefiz-log-1-st-2026",
+ "kod": "log26",
+ "kierunekEn": "Logistics",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T18:35:57.622Z",
+ "checkedAt": "2026-11-08T18:39:37.872Z",
+ "groups": {
+  "C131": {
+   "odd": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. 607"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Podstawy logistyki",
+     "k": "W",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 003"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 623"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Podstawy logistyki",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 003"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 707"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. 044 (aula)"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 720"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 124/125 (lab)"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 044 (aula)",
+     "dates": [
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-23"
+     ],
+     "n": "Tylko: 12.10, 26.10, 9.11, 23.11"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Podstawy logistyki",
+     "k": "W",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "g": "A",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Podstawy logistyki",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Podstawy marketingu",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 307"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Towaroznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 104"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "g": "B",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 112"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "MS Teams L I 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Towaroznawstwo",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "Dr Agnieszka Smalec",
+     "r": "sala 003",
+     "dates": [
+      "2026-11-25"
+     ],
+     "n": "Jednorazowo: 25.11.2026"
+    }
+   ]
+  },
+  "C132": {
+   "odd": [
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Podstawy logistyki",
+     "k": "W",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 003"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 720"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "s. SIL 315"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 623"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. 044 (aula)"
+    },
+    {
+     "d": 1,
+     "s": 2,
+     "pl": "Etyka zawodowa",
+     "k": "K",
+     "p": "dr hab. prof. US Patrycja Zwiech",
+     "r": "s. 607"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. 523"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Podstawy logistyki",
+     "k": "CW",
+     "p": "mgr inż. Loran Nermend",
+     "r": "s. 507"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Towaroznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. SIL 323"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 044 (aula)",
+     "dates": [
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-23"
+     ],
+     "n": "Tylko: 12.10, 26.10, 9.11, 23.11"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Podstawy logistyki",
+     "k": "W",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 003"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy marketingu",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 307"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala SIL 126/127 dr Magdalena Kotnis",
+     "dates": [
+      "2026-10-30",
+      "2026-11-13"
+     ],
+     "n": "Tylko: 30.10, 13.11"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 523"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 1,
+     "s": 3,
+     "pl": "Podstawy logistyki",
+     "k": "CW",
+     "p": "mgr inż. Loran Nermend",
+     "r": "s. 507"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. SIL 324"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "MS Teams L I 1rok",
+     "tag": "e-learning"
+    },
+    {
+     "d": 1,
+     "s": 4,
+     "pl": "Towaroznawstwo",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 314"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "Dr Agnieszka Smalec",
+     "r": "sala 003",
+     "dates": [
+      "2026-11-25"
+     ],
+     "n": "Jednorazowo: 25.11.2026"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c132-28/",
+    "title": "GRUPA C132",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Dnia 16.10.2026 zostają odwołane zajęcia z dr Magdaleną Kotnis Termin odrobienia: 13.11.2026 godz. 10:00 sala SIL 126/127"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c101-c131-c132-c141/",
+    "title": "GRUPA C101, C131, C132, C141",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Zmiana sali na przedmiot Ochrona własności intelektualnej – nowa sala 044 Aula Cuk. 8"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c131b-3/",
+    "title": "GRUPA C131B",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Dnia 21.10.2026 o godz. 10:00 w sali SIL 124/125 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 05.10.2026r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c131a-2/",
+    "title": "GRUPA C131A",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Dnia 21.10.2026 o godz. 8:15 w sali SIL 116 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 05.10.2026r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c132-27/",
+    "title": "GRUPA C132",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Dnia 30.10.2026 o godz. 10:00 w sali SIL 126/127 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 02.10.2026r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c131132/",
+    "title": "GRUPA C131,132",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr Agnieszką Smalec Termin odrobienia: 25.11.2026 godz. 15:30 sala 003"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c122-c131a-c131b-c141-zajecia-z-dr-m-kotnis/",
+    "title": "GRUPA C122, C131A, C131B, C141 zajęcia z dr M. Kotnis",
+    "ym": "2026-10",
+    "pub": "2026-10-05",
+    "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Magdaleną Kotnis. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c161-c132/",
+    "title": "GRUPA C161, C132",
+    "ym": "2026-09",
+    "pub": "2026-09-28",
+    "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Aleksandrą Werner. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c131-34/",
+    "title": "GRUPA C131",
+    "ym": "2026-09",
+    "pub": "2026-09-28",
+    "text": "Dnia 06.10.2026 zostają odwołane zajęcia z dr Aleksandrą Werner. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C131": [
+    {
+     "type": "cancel",
+     "date": "2026-10-05",
+     "start": "10:00",
+     "pl": "Technologie informatyczne",
+     "g": "A",
+     "post": 3,
+     "posts": [
+      3,
+      6
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-05",
+     "start": "13:45",
+     "pl": "Technologie informatyczne",
+     "g": "B",
+     "post": 2,
+     "posts": [
+      2,
+      6
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-10-06",
+     "post": 8
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "10:00",
+     "pl": "Podstawy marketingu",
+     "post": 5,
+     "posts": [
+      5
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-21",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 116 lab",
+     "g": "A",
+     "post": 3
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-21",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 124/125 lab",
+     "g": "B",
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-25",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "s. 003",
+     "post": 5,
+     "dup": true
+    }
+   ],
+   "C132": [
+    {
+     "type": "cancel",
+     "date": "2026-10-02",
+     "start": "12:00",
+     "pl": "Technologie informatyczne",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-10-05",
+     "post": 7
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-16",
+     "start": "12:00",
+     "pl": "Technologie informatyczne",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "10:00",
+     "pl": "Podstawy marketingu",
+     "post": 5,
+     "posts": [
+      5
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-30",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 126/127 lab",
+     "post": 4,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-13",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 126/127",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-25",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "s. 003",
+     "post": 5,
+     "dup": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T18:36:28.240Z"
+ }
+}

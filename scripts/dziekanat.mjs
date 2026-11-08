@@ -20,6 +20,7 @@
 // z pliku kierunku ("dos", gdy zajęcia są w innym budynku) albo z bazy Skrótu (nauka_roczniki_lista → wydzial.dos_url).
 // Bez bazy: adres zapisany w planie przy poprzednim przebiegu.
 // Node 20+, bez zależności.
+import { roczniki } from "./roczniki.mjs";
 import fs from "node:fs";
 import https from "node:https";
 import { pathToFileURL } from "node:url";
@@ -543,9 +544,8 @@ async function run() {
   let wynik = { changed: false, fresh: false }, failed = false;
   if (!process.argv.includes("--kierunki")) wynik = await main(BM);
   else {
-    const pliki = fs.existsSync("kierunki") ? fs.readdirSync("kierunki").filter(f => f.endsWith(".json")).sort() : [];
-    for (const f of pliki) {
-      const c = JSON.parse(fs.readFileSync("kierunki/" + f, "utf8"));
+    // kierunki/*.json + config/kierunki-1rok.json (scripts/roczniki.mjs), ten sam czytnik DOS co dla BM
+    for (const c of roczniki()) {
       console.log(`\n== ${c.id} ==`);
       if (!fs.existsSync(c.plik)) { console.log(`Brak ${c.plik} (najpierw update-plan.mjs --wszystkie).`); continue; }
       try { const w = await main(zKonfiguracji(c)); wynik = { changed: wynik.changed || w.changed, fresh: wynik.fresh || w.fresh }; }

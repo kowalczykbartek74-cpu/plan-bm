@@ -1,0 +1,513 @@
+{
+ "source": "https://planyzajec-efz.usz.edu.pl/",
+ "kierunek": "Zarządzanie odnawialnymi źródłami energii",
+ "id": "wefiz-zoze-1-st-2026",
+ "kod": "zoze26",
+ "kierunekEn": "Renewable Energy Management",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "updated": "06.11.2026 11:48",
+ "changedAt": "2026-11-08T18:37:55.356Z",
+ "checkedAt": "2026-11-08T18:39:41.185Z",
+ "groups": {
+  "C141": {
+   "odd": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Podstawy energetyki",
+     "k": "W",
+     "p": "dr Marcin Rabe",
+     "r": "s. 042"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Matematyka w zarządzaniu",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. 720"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Matematyka w zarządzaniu",
+     "k": "W",
+     "p": "dr Barbara Batóg",
+     "r": "s. 112"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy zrównoważonego rozwoju",
+     "k": "K",
+     "p": "dr Ewa Puzio",
+     "r": "s. 042"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Funkcjonowanie rynku energii w polsce",
+     "k": "CW",
+     "p": "mgr inż. Krystian Redżeb",
+     "r": "s. SIL 316"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 720"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Logistyka w energetyce",
+     "k": "CW",
+     "p": "mgr inż. Krystian Redżeb",
+     "r": "s. 523"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "dates": [
+      "2026-12-17"
+     ],
+     "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 707"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Logistyka w energetyce",
+     "k": "W",
+     "p": "dr Marcin Rabe",
+     "r": "s. 041"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Infrastruktura energetyczna",
+     "k": "W",
+     "p": "dr Bartosz Pilecki",
+     "r": "s. 523"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajeć",
+     "k": "X",
+     "r": "sala SIL 124/125 lab dr Magdalena Kotnis",
+     "dates": [
+      "2026-10-22"
+     ],
+     "n": "Jednorazowo: 22.10.2026"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Infrastruktura energetyczna",
+     "k": "CW",
+     "p": "dr Bartosz Pilecki",
+     "r": "s. 523"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 044 (aula)",
+     "dates": [
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-23"
+     ],
+     "n": "Tylko: 12.10, 26.10, 9.11, 23.11"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Podstawy energetyki",
+     "k": "CW",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. 034"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Zarządzanie finansami przedsiębiorstwa",
+     "k": "CW",
+     "p": "mgr Karol Bulasiński",
+     "r": "s. 042"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Podstawy zarządzania",
+     "k": "W",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 707"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Podstawy prawa",
+     "k": "K",
+     "p": "mgr Bartosz Brożyński",
+     "r": "s. 507"
+    },
+    {
+     "d": 1,
+     "s": 1,
+     "pl": "Funkcjonowanie rynku energii w polsce",
+     "k": "W",
+     "p": "dr Marcin Rabe",
+     "r": "s. 046"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "pl": "Logistyka w energetyce",
+     "k": "CW",
+     "p": "mgr inż. Krystian Redżeb",
+     "r": "s. 507"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 104 dr Barbara Batóg",
+     "dates": [
+      "2026-11-26"
+     ],
+     "n": "Jednorazowo: 26.11.2026"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 707"
+    },
+    {
+     "d": 0,
+     "s": 2,
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 124/125 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 2,
+     "pl": "Krajowy system elektroenergetyczny",
+     "k": "CW",
+     "p": "dr Mateusz Lewiński",
+     "r": "s. 507"
+    },
+    {
+     "d": 4,
+     "s": 2,
+     "pl": "Ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 720"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "pl": "Krajowy system elektroenergetyczny",
+     "k": "W",
+     "p": "dr Magdalena Kogut-Jaworska",
+     "r": "s. 507"
+    },
+    {
+     "d": 4,
+     "s": 3,
+     "pl": "Zarządzanie finansami przedsiębiorstwa",
+     "k": "W",
+     "p": "dr Paweł Witkowski",
+     "r": "s. 720"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c141-72/",
+    "title": "GRUPA C141",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Dnia 23.10.2026 zostają odwołane zajęcia z dr Barbarą Batóg. Termin odrobienia zajęć: 26.11.2026 godz. 10:00 sala 104"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c141-71/",
+    "title": "GRUPA C141",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "Dnia 30.10.2026 zostają odwołane zajęcia z dr Magdaleną Ławicką. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c101-c131-c132-c141/",
+    "title": "GRUPA C101, C131, C132, C141",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Zmiana sali na przedmiot Ochrona własności intelektualnej – nowa sala 044 Aula Cuk. 8"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c141-70/",
+    "title": "GRUPA C141",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Dnia 22.10.2026 o godz. 13:45 w sali SIL 124/125 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 05.10.2026r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c122-c131a-c131b-c141-zajecia-z-dr-m-kotnis/",
+    "title": "GRUPA C122, C131A, C131B, C141 zajęcia z dr M. Kotnis",
+    "ym": "2026-10",
+    "pub": "2026-10-05",
+    "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Magdaleną Kotnis. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
+  "zmiany": {
+   "C141": [
+    {
+     "type": "cancel",
+     "date": "2026-10-05",
+     "start": "12:00",
+     "pl": "Technologie informatyczne",
+     "post": 3,
+     "posts": [
+      3,
+      4
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-22",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Magdalena Kotnis",
+     "r": "s. SIL 124/125 lab",
+     "post": 3,
+     "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-23",
+     "start": "8:15",
+     "pl": "Matematyka w zarządzaniu",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-30",
+     "start": "8:15",
+     "pl": "Podstawy zarządzania",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-30",
+     "start": "10:00",
+     "pl": "Podstawy zarządzania",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Matematyka w zarządzaniu",
+     "k": "W",
+     "p": "dr Barbara Batóg",
+     "r": "s. 104",
+     "post": 0,
+     "dup": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-08T18:38:29.001Z"
+ }
+}

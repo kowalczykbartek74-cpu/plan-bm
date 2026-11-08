@@ -105,12 +105,13 @@ export function parseEntry(chunk, years) {
     if (cut > 0) { rest = title.slice(cut) + "\n" + rest; title = title.slice(0, cut); }
     // Kierunki z samą polską nazwą: „PODSTAWY FINANSÓW (LB) GRUPA A”, „OCHRONA … (W e-learning)” (Zarządzanie),
     // „MAKROEKONOMIA (ĆW)(30)”, „PODSTAWY FINANSÓW (LAB GR. A)(15)” (FiR: rodzaj, grupa i liczba godzin w nazwie)
-    const t = title.match(/^(.*?)\s*\((W|ĆW|LB|LAB|K|S)(?:\s+GR\.?\s*([A-Z])|\s+([^()]+?))?\)\s*(?:\((\d+)\))?\s*(?:GRUPA\s+([A-Z]))?\s*$/iu);
+    // inne kierunki z Mickiewicza: „MIKROEKONOMIA (w) 15h”, „MATEMATYKA (lab a) 30h” (podgrupa bez „gr.”, godziny po nawiasie)
+    const t = title.match(/^(.*?)\s*\((W|ĆW|LB|LAB|K|S)(?:\s+GR\.?\s*([A-Z])|\s+([A-Z])(?=\))|\s+([^()]+?))?\)\s*(?:\((\d+)\)|(\d+)\s*h)?\s*(?:GRUPA\s+([A-Z]))?\s*$/iu);
     if (t) {
       title = t[1]; e.k = TYPES[t[2].toUpperCase()];
-      const g = t[3] || t[6]; if (g) e.g = g.toUpperCase();
-      if (t[4]) e.tag = t[4];
-      if (t[5]) e.h = +t[5];
+      const g = t[3] || t[4] || t[8]; if (g) e.g = g.toUpperCase();
+      if (t[5]) e.tag = t[5];
+      if (t[6] || t[7]) e.h = +(t[6] || t[7]);
     } else e.k = "X";
     e.pl = plCase(title.trim());
     if (lect.length) e.p = lect.join(", ");
