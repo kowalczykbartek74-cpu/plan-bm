@@ -83,6 +83,9 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   a błąd trafia do logu przebiegu i do `plan/_import.json` (stan każdego rocznika + ostatnie 200 błędów). `--tylko id1,id2` = próba na kilku.
   Odwołane zajęcia: ten sam czytnik DOS; sekcja (Cukrowa / Mickiewicza) z sal w planie („S01”, „N104” = Mickiewicza).
   Sprawdzenie skryptem: `node scripts/sprawdz-plany.mjs`. `scripts/bm-identyczny.test.mjs` porównuje `plan.json` BM ze starego i nowego kodu.
+- **Adres każdego planu:** `plan.skrotbm.pl/#/<wydział>/<kierunek>/<rok>/<grupa>`, np. `#/wefiz/zarz/1/c151` (hash, więc bez `404.html`).
+  Adres w pasku zmienia się razem z wyborem; wybór (rocznik, grupa, podgrupa) zostaje na urządzeniu. Stare linki `?k=zarz26` działają
+  i przechodzą na nowy adres. BM otwarty bez `#/…` zostaje pod czystym `plan.skrotbm.pl`, jak dotąd. Testy tras: `scripts/adresy.test.mjs`.
 - **Workflow do podmiany ręcznie:** `docs/aktualizacja-planu-kierunki.yml` to nowa wersja `.github/workflows/aktualizacja-planu.yml` (kroki dla roczników, publikacja `plan/`). Token automatu nie może zmieniać workflow, więc wklej go na github.com (Edit file → wklej → Commit). Bez tego plan Zarządzania nie odświeża się sam i nie trafia na stronę.
 
 ## Plan w kalendarzu telefonu

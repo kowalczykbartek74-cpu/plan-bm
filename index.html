@@ -433,14 +433,23 @@ const store = { get(k){ try{return localStorage.getItem(k)}catch(e){return null}
 /* ---------- Kierunek i rok (rocznik) ----------
    BM: plan.json i kopia zapasowa wyżej. Inne roczniki: plan/<id>.json; ich listę wstawia scripts/kierunki.mjs z plików kierunki/*.json
    (robi je skrot-bm/scripts/kierunek.mjs), więc w kodzie strony nie ma żadnego kierunku poza BM.
-   Link dla roku: plan.skrotbm.pl/?k=<kod>, np. ?k=zarz26. */
+   Adres planu: plan.skrotbm.pl/#/<wydział>/<kierunek>/<rok>/<grupa>, np. #/wefiz/zarz/1/c151 (hash, więc działa na GitHub Pages
+   bez 404.html). Stare linki ?k=<kod> (np. ?k=zarz26) działają dalej. BM bez adresu w linku wygląda i działa jak dotąd. */
 const ROCZNIK_BM = { id:"wefiz-bm-1-st-2026", kod:"bm", pl:"Business Management", en:"Business Management", rok:1, stopien:1, wydzial:"WEFiZ", plik:"plan.json" };
 const ROCZNIKI = [ROCZNIK_BM, .../*KIERUNKI_START*/[{"id":"wefiz-biwg-1-st-2026","kod":"biwg26","pl":"Business Intelligence w gospodarce","en":"Business Intelligence in Economy","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-biwg-1-st-2026.json"},{"id":"wefiz-eaia-1-st-2026","kod":"eaia26","pl":"Economics and IT Applications","en":"Economics and IT Applications","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-eaia-1-st-2026.json"},{"id":"wefiz-ek-1-st-2026","kod":"ek26","pl":"Ekonomia","en":"Economics","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-ek-1-st-2026.json"},{"id":"wefiz-fir-1-st-2026","kod":"fir26","pl":"Finanse i Rachunkowość","en":"Finance and Accounting","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-fir-1-st-2026.json"},{"id":"wefiz-gn-1-st-2026","kod":"gn26","pl":"Gospodarka Nieruchomościami","en":"Real Estate Management","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-gn-1-st-2026.json"},{"id":"wefiz-gpi-1-st-2026","kod":"gpi26","pl":"Gospodarka Przestrzenna inż.","en":"Spatial Management (Eng.)","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-gpi-1-st-2026.json"},{"id":"wefiz-iie-1-st-2026","kod":"iie26","pl":"Informatyka i Ekonometria","en":"Computer Science and Econometrics","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-iie-1-st-2026.json"},{"id":"wefiz-iwb-1-st-2026","kod":"iwb26","pl":"Informatyka w Biznesie","en":"IT in Business","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-iwb-1-st-2026.json"},{"id":"wefiz-kipb-1-st-2026","kod":"kipb26","pl":"Komunikacja i psychologia w biznesie","en":"Communication and Psychology in Business","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-kipb-1-st-2026.json"},{"id":"wefiz-li-1-st-2026","kod":"li26","pl":"Logistyka inż.","en":"Logistics (Eng.)","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-li-1-st-2026.json"},{"id":"wefiz-log-1-st-2026","kod":"log26","pl":"Logistyka","en":"Logistics","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-log-1-st-2026.json"},{"id":"wefiz-pii-1-st-2026","kod":"pii26","pl":"Przedsiębiorczość i Inwestycje","en":"Entrepreneurship and Investments","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-pii-1-st-2026.json"},{"id":"wefiz-tir-1-st-2026","kod":"tir26","pl":"Turystyka i Rekreacja","en":"Tourism and Recreation","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-tir-1-st-2026.json"},{"id":"wefiz-zarz-1-st-2026","kod":"zarz26","pl":"Zarządzanie","en":"Management","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zarz-1-st-2026.json"},{"id":"wefiz-zloz-1-st-2026","kod":"zloz26","pl":"Zarządzanie Logistyczne w Ochronie Zdrowia","en":"Logistics Management in Healthcare","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zloz-1-st-2026.json"},{"id":"wefiz-zoze-1-st-2026","kod":"zoze26","pl":"Zarządzanie odnawialnymi źródłami energii","en":"Renewable Energy Management","rok":1,"stopien":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zoze-1-st-2026.json"}]/*KIERUNKI_END*/];
 let BM_DATA = DATA;
+const kodBase = r => String(r.kod).replace(/\d+$/, "");
+const trasa = (r, g) => `#/${String(r.wydzial || "wefiz").toLowerCase()}/${kodBase(r)}/${r.rok}` + (g ? "/" + String(g).toLowerCase() : "");
+function czytajTrase(h){
+  const m = String(h || "").match(/^#\/([\w-]+)\/([\w-]+)\/(\d+)(?:\/([\w-]+))?\/?$/);
+  const r = m && ROCZNIKI.find(x => String(x.wydzial || "").toLowerCase() === m[1].toLowerCase() && kodBase(x) === m[2].toLowerCase() && String(x.rok) === m[3]);
+  return r ? { r, g: m[4] ? m[4].toUpperCase() : null } : null;
+}
+const ROUTE = czytajTrase(location.hash);
 const R = (() => {
   const q = new URLSearchParams(location.search).get("k");
-  const r = ROCZNIKI.find(x => q && (x.kod === q || x.id === q)) || ROCZNIKI.find(x => x.id === store.get("plan-rocznik")) || ROCZNIK_BM;
-  if (q && r.id !== ROCZNIK_BM.id) store.set("plan-rocznik", r.id);
+  const r = ROUTE?.r || ROCZNIKI.find(x => q && (x.kod === q || x.id === q)) || ROCZNIKI.find(x => x.id === store.get("plan-rocznik")) || ROCZNIK_BM;
+  if (ROUTE || (q && r.id !== ROCZNIK_BM.id)) store.set("plan-rocznik", r.id);
   return { cur: r };
 })();
 const isBM = () => R.cur.id === ROCZNIK_BM.id;
@@ -448,11 +457,12 @@ const groupKey = () => isBM() ? "bm-group" : "plan-group:" + R.cur.id;
 const subKey = () => isBM() ? "bm-sub" : "plan-sub:" + R.cur.id;
 if (!isBM()) DATA = { groups:{}, kalendarz: BM_DATA.kalendarz };
 const state = {
-  group: store.get(groupKey()) || "C112",
+  group: store.get(groupKey()) || (isBM() ? "C112" : ""),
   sub: ["","A","B"].includes(store.get(subKey())) ? store.get(subKey()) : "A",
   mode: "cal",
   week: null
 };
+if (ROUTE?.g) { state.group = ROUTE.g; store.set(groupKey(), ROUTE.g); }
 if (location.hash === "#nieparzysty") state.mode = "odd";
 if (location.hash === "#parzysty") state.mode = "even";
 
@@ -468,6 +478,7 @@ function defaultWeek(){
 state.week = defaultWeek();
 function ensureGroup(){
   const gs = Object.keys(G()).sort();
+  if (!gs.length) return;   // plan rocznika jeszcze się wczytuje: zostaje grupa z adresu albo zapamiętana
   if (!G()[state.group]) state.group = G().C112 ? "C112" : (gs[0] || "C112");
 }
 
@@ -637,7 +648,7 @@ function setRocznik(id){
   R.cur = r;
   store.set("plan-rocznik", r.id);
   const u = new URL(location.href);
-  if (isBM()) u.searchParams.delete("k"); else u.searchParams.set("k", r.kod);
+  u.searchParams.delete("k");   // adres planu jest w #/… (pokazAdres)
   history.replaceState(null, "", u.pathname + u.search + u.hash);
   DATA = isBM() ? BM_DATA : { groups:{}, kalendarz: BM_DATA.kalendarz };
   state.group = store.get(groupKey()) || "";
@@ -649,8 +660,24 @@ document.getElementById("kier").onchange = ev => {
   if (lata.length) setRocznik((lata.find(r => r.rok === R.cur.rok) || lata[0]).id);
 };
 
+// Adres w pasku = otwarty plan (#/wefiz/zarz/1/c151). BM bez #/… w adresie zostaje pod czystym plan.skrotbm.pl, jak dotąd.
+function pokazAdres(){
+  if (isBM() && !/^#\//.test(location.hash)) return;
+  const h = trasa(R.cur, !Object.keys(G()).length || G()[state.group] ? state.group : "");
+  const q = new URLSearchParams(location.search); q.delete("k");   // stary link ?k=… → adres #/…
+  const qs = q.toString() ? "?" + q : "";
+  if (location.hash !== h || location.search !== qs) history.replaceState(null, "", location.pathname + qs + h);
+}
+window.addEventListener("hashchange", () => {
+  const t = czytajTrase(location.hash);
+  if (!t) return;
+  if (t.g) store.set((t.r.id === ROCZNIK_BM.id ? "bm-group" : "plan-group:" + t.r.id), t.g);
+  if (t.r.id !== R.cur.id) setRocznik(t.r.id);
+  else if (t.g && t.g !== state.group) { state.group = t.g; render(); }
+});
 function render(){
   ensureGroup();
+  pokazAdres();
   const g = state.group;
   renderRocznik();
   document.getElementById("title").textContent = L(`Plan zajęć ${g}`, `Timetable ${g}`);
