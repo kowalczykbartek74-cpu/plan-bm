@@ -105,7 +105,7 @@ function build(group, sub) {
       ].filter(Boolean).join("\n");
       L.push(
         "BEGIN:VEVENT",
-        `UID:${k}-${group}-${e.extra ? "dz" + t0.replace(":", "") : e.s}-${e.g || "x"}-${hash((e.pl || "") + e.k)}@plan.skrotbm.pl`,
+        `UID:${k}-${group}-${e.extra ? "dz" + t0.replace(":", "") : e.s ?? "t" + t0.replace(":", "")}-${e.g || "x"}-${hash((e.pl || "") + e.k)}@plan.skrotbm.pl`,
         `DTSTAMP:${stamp}`,
         `DTSTART;TZID=Europe/Warsaw:${ymd(k)}T${hm(t0)}`,
         `DTEND;TZID=Europe/Warsaw:${ymd(k)}T${hm(t1)}`,

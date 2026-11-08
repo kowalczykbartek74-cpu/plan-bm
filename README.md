@@ -74,6 +74,15 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
 - Od 8.11.2026 w `kierunki/` są wszystkie lata WEFiZ (73 roczniki, raport `docs/wefiz-wszystkie.md`). Nazwy EN nowych plików
   skrypt bierze z `config/nazwy-en.json`. Kierunek tylko II stopnia (np. Audyt finansowy) `kierunki-1rok.mjs` zapisuje w
   `tylkoIIStopnia`, nie jako „1. rok bez planu”.
+- **Inne wydziały US (Etap 2, fundament):** importer wydziału to `scripts/us/<plik>` wskazany polem `importer` w `config/wydzialy-us.json`
+  (Etapy 3–5 dokładają je po kolei; bez importera wydział jest pomijany). `node scripts/us/importuj.mjs --wydzial <kod> [--tylko id] [--na-sucho]`,
+  a `update-plan.mjs --wszystkie` woła wszystkie (`--bez-us` = tylko WEFiZ). Plan zapisuje `scripts/us/wspolne.mjs → zapiszPlan`
+  w tym samym formacie (`time` zamiast `s`, `dates` dla konkretnych dni), z `source` = adres pliku wydziału i `wersja`; przy błędzie
+  albo spadku zajęć > 30% zostaje poprzednia wersja. Plany z PDF/AI mają status „czeka na zatwierdzenie” i nie trafiają na stronę.
+  `plan/_import.json`: `wydzial`, `zrodlo`, `wersja`, `status` (ok / bez zmian / czeka na zatwierdzenie / błąd), `szczegoly`.
+- Strona: krok **Wydział** pojawia się, gdy plany ma więcej niż jeden wydział; adres `#/<wydział bez ogonków>/<kod>/<rok>/<grupa>`
+  (np. `#/wnsip/mat/1/1`), kod niestacjonarnych z „n” (`bnn26`). Kierunki z `config/kierunki-us.json` bez planu są na liście
+  w grupie „Plan jeszcze niedostępny” (link do planów wydziału i lista oczekujących). `kierunki.mjs` wstawia też blok `US_START/US_END`.
 - Komunikaty DOS: grupy C i M, numery 1xx–6xx (wszystkie lata i II stopień); rocznik z grupami „M…” bierze sekcję DOS
   Mickiewicza (także z pliku `kierunki/` bez pola `dos`).
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”

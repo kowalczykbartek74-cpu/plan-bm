@@ -151,3 +151,140 @@ export function xlsxNapisy(buf) {
   return [...ss().toString("utf8").matchAll(/<si>([\s\S]*?)<\/si>/g)].map((m) => encje([...m[1].matchAll(/<t[^>]*>([\s\S]*?)<\/t>/g)].map((x) => x[1]).join("")).replace(/\s+/g, " ").trim());
 }
 export const xlsxArkusze = (buf) => { const w = zip(buf)["xl/workbook.xml"]; return w ? [...w().toString("utf8").matchAll(/<sheet\b[^>]*name="([^"]+)"/g)].map((m) => encje(m[1])) : []; };
+
+// =====================================================================================================
+// Etap 2: wspólne dla importerów planów z plików (XLSX, PDF, JSON) – wynik w formacie plan/<id>.json jak WEFiZ:
+//   groups: { <grupa>: { odd: [wpis], even: [wpis] } }, wpis = { d, time:[HH:MM,HH:MM] | s, pl, en?, k, p, r, g?, dates?, n? }
+// Zajęcia co tydzień = ten sam wpis w odd i even; tylko tygodnie nieparzyste/parzyste = jedna lista; konkretne daty → dates.
+// =====================================================================================================
+const DNI = [["pon", "pn", "mon"], ["wt", "tue"], ["śr", "sr", "wed"], ["czw", "cz", "thu"], ["pi", "pt", "fri"], ["so", "sb", "sat"], ["nie", "nd", "sun"]];
+// „Poniedziałek”, „PON.”, „wtorek”, „Śr”, „Monday” → 0–6 (0 = poniedziałek, jak w planach WEFiZ); null, gdy nie wiadomo
+export function dzienZ(s) {
+  const t = String(s || "").trim().toLowerCase();
+  if (!t) return null;
+  const i = DNI.findIndex((w) => w.some((p) => t.startsWith(p)));
+  return i < 0 ? null : i;
+}
+const hhmm = (h, m) => `${String(+h).padStart(2, "0")}:${String(m ?? "00").padStart(2, "0")}`;
+// „08:15-09:45”, „8.15 – 9.45”, „8:15 - 9:00 9:00 - 9:45” (dwie godziny lekcyjne), „10-11.30” → ["08:15","09:45"]; null, gdy brak
+export function godzinyZ(s) {
+  const t = [...String(s || "").matchAll(/(?<!\d)([01]?\d|2[0-3])(?:[:.](\d{2}))?(?!\d)/g)].filter((m) => m[2] != null || /[-–]/.test(String(s)));
+  const g = t.map((m) => hhmm(m[1], m[2]));
+  if (g.length < 2) return null;
+  const a = g[0], b = g[g.length - 1];
+  return a < b ? [a, b] : null;
+}
+// rodzaj zajęć → k: W (wykład), CW (ćwiczenia), LAB, K (konwersatorium), S (seminarium), X (inne/nieznane)
+export function rodzajZ(s) {
+  const t = String(s || "").trim().toLowerCase().replace(/\.$/, "");
+  if (!t) return "X";
+  if (/^(w|wyk|wykł|wykład\w*|lecture|lec)$/.test(t) || /^wykład/.test(t)) return "W";
+  if (/^(ć|c)w|^ćwicz|^cwicz|^class|^exercise|^tutorial/.test(t)) return "CW";
+  if (/^(lab|lb|l)$|^laborat/.test(t)) return "LAB";
+  if (/^(k|konw|kon)$|^konwersat/.test(t)) return "K";
+  if (/^(s|sem|sm)$|^seminar/.test(t)) return "S";
+  return "X";
+}
+// sala z budynkiem: („105”, „K”, {K:"ul. Krakowska 71-79"}) → „s. 105 (K)”; sala już z „s.” zostaje; budynek nieznany → bez dopisku
+export function salaZ(sala, budynek = null, budynki = {}) {
+  let r = String(sala || "").replace(/\s+/g, " ").trim();
+  if (!r) return "";
+  if (!/^(s\.|sala\b)/i.test(r) && /^[A-Z]?\d|^[A-Z]{1,4}\s*\d/.test(r)) r = "s. " + r;
+  r = r.replace(/^sala\s+/i, "s. ");
+  const b = budynek && String(budynek).trim();
+  return b && (budynki[b] || /^[A-Z]{1,3}$/.test(b)) && !r.includes(`(${b})`) ? `${r} (${b})` : r;
+}
+export const prowadzacyZ = (s) => String(s || "").replace(/\s+/g, " ").replace(/\s*,\s*/g, ", ").trim();
+// grupa i podgrupa: „gr. 1a”, „1 gr”, „C111 A”, „lab B” → { g: "1", sub: "A" }
+export function grupaZ(s) {
+  const t = String(s || "").trim();
+  const m = /(?:gr\.?\s*)?([A-Z]?\d{1,4})\s*([a-dA-D])?\b/i.exec(t.replace(/\bgr(?:upa)?\.?\s*/i, ""));
+  const lab = /\b(?:lab|gr\.?)\s*([A-D])\b/i.exec(t);
+  return { g: m ? m[1].toUpperCase() : null, sub: (m?.[2] || lab?.[1] || "").toUpperCase() || null };
+}
+
+// Tygodnie: „co tydzień” → odd+even; „tydzień nieparzysty/parzysty” (I/II, „n”/„p”) → jedna lista; daty → dates (YYYY-MM-DD).
+export function tydzienZ(s) {
+  const t = String(s || "").toLowerCase();
+  if (/nieparz|\btn\b|\bn\b|\(n\)/.test(t)) return "odd";
+  if (/parzyst|\btp\b|\bp\b|\(p\)/.test(t)) return "even";
+  return "both";
+}
+export function datyZ(s, startRoku = 2026) {
+  const out = [];
+  for (const m of String(s || "").matchAll(/(?<!\d)(\d{1,2})\.(\d{1,2})(?:\.(20\d\d))?(?!\d)/g)) {
+    const mies = +m[2], r = m[3] ? +m[3] : rokDla(mies, startRoku);
+    if (mies >= 1 && mies <= 12 && +m[1] >= 1 && +m[1] <= 31) out.push(`${r}-${String(mies).padStart(2, "0")}-${String(+m[1]).padStart(2, "0")}`);
+  }
+  return [...new Set(out)].sort();
+}
+// Wkłada wpis do grupy: tydzien "both" | "odd" | "even"; z datami → dates (i do obu list, bo daty same wybierają tydzień).
+export function dodaj(groups, grupa, wpis, { tydzien = "both", daty = null } = {}) {
+  const g = (groups[grupa] ||= { odd: [], even: [] });
+  const e = { ...wpis, ...(daty?.length ? { dates: daty } : {}) };
+  for (const k of Object.keys(e)) if (e[k] == null || e[k] === "") delete e[k];
+  const listy = daty?.length || tydzien === "both" ? ["odd", "even"] : [tydzien];
+  for (const l of listy) g[l].push({ ...e });
+  return groups;
+}
+const minuty = (e) => (e.time ? e.time[0] : String(e.s)).padStart(5, "0");
+export function porzadkuj(groups) {
+  const out = {};
+  for (const g of Object.keys(groups).sort((a, b) => a.localeCompare(b, "pl", { numeric: true }))) {
+    out[g] = {};
+    for (const l of ["odd", "even"]) out[g][l] = (groups[g][l] || []).slice().sort((a, b) => a.d - b.d || minuty(a).localeCompare(minuty(b)) || String(a.pl).localeCompare(String(b.pl), "pl"));
+  }
+  return out;
+}
+
+// Walidacja planu: lista błędów (pusta = dobry plan). Ten sam format co plany WEFiZ.
+export const RODZAJE = ["W", "CW", "LAB", "K", "S", "X"];
+export function waliduj(plan) {
+  const bledy = [];
+  const gr = plan?.groups;
+  if (!gr || !Object.keys(gr).length) return ["brak grup"];
+  for (const [g, w] of Object.entries(gr)) {
+    if (!Array.isArray(w.odd) || !Array.isArray(w.even)) { bledy.push(`${g}: brak list odd/even`); continue; }
+    if (!w.odd.length && !w.even.length) bledy.push(`${g}: brak zajęć`);
+    for (const e of [...w.odd, ...w.even]) {
+      const gdzie = `${g}: ${e.pl || "?"}`;
+      if (!(Number.isInteger(e.d) && e.d >= 0 && e.d <= 6)) bledy.push(`${gdzie}: dzień ${e.d}`);
+      if (e.time) { if (!(Array.isArray(e.time) && e.time.length === 2 && e.time.every((t) => /^\d{2}:\d{2}$/.test(t)) && e.time[0] < e.time[1])) bledy.push(`${gdzie}: godziny ${JSON.stringify(e.time)}`); }
+      else if (!(Number.isInteger(e.s) && e.s >= 0 && e.s <= 6)) bledy.push(`${gdzie}: brak godzin (time albo s)`);
+      if (!e.pl) bledy.push(`${g}: zajęcia bez nazwy`);
+      if (!RODZAJE.includes(e.k)) bledy.push(`${gdzie}: rodzaj ${e.k}`);
+      if (e.dates && !(Array.isArray(e.dates) && e.dates.every((d) => /^\d{4}-\d{2}-\d{2}$/.test(d)))) bledy.push(`${gdzie}: daty ${JSON.stringify(e.dates)}`);
+    }
+  }
+  return bledy;
+}
+export const liczbaZajecPlanu = (groups) => Object.values(groups || {}).reduce((s, g) => s + (g.odd?.length || 0) + (g.even?.length || 0), 0);
+
+// Zapis plan/<id>.json. „Zły plan jest gorszy niż brak planu”: przy błędzie walidacji albo spadku liczby zajęć > 30%
+// zostaje poprzednia wersja i wynik ma status „błąd”. Kalendarz i odwołania (dziekanat) z poprzedniej wersji zostają.
+// meta: { kierunek, kierunekEn, id, kod, wydzial, rok, rokAkademicki?, semestr?, source (adres pliku), wersja, sha256? }
+export function zapiszPlan(plik, groups, meta, { teraz = new Date().toISOString(), naSucho = false, czekaNaZatwierdzenie = false } = {}) {
+  const stary = fs.existsSync(plik) ? JSON.parse(fs.readFileSync(plik, "utf8")) : null;
+  const g = porzadkuj(groups);
+  const wynik = { status: null, grupy: Object.keys(g).length, zajec: liczbaZajecPlanu(g), zrodlo: meta.source || null, wersja: meta.wersja || null };
+  const bledy = waliduj({ groups: g });
+  if (bledy.length) return { ...wynik, status: "błąd", blad: `plan nie przeszedł sprawdzenia: ${bledy.slice(0, 3).join("; ")}${bledy.length > 3 ? ` (+${bledy.length - 3})` : ""}. Zostaje poprzednia wersja.` };
+  const przed = liczbaZajecPlanu(stary?.groups);
+  if (przed && wynik.zajec < przed * 0.7) return { ...wynik, status: "błąd", blad: `Liczba zajęć spadła z ${przed} do ${wynik.zajec} (o ponad 30%). Zostaje poprzednia wersja.` };
+  if (czekaNaZatwierdzenie) return { ...wynik, status: "czeka na zatwierdzenie" };
+  const zmiana = !stary || JSON.stringify(stary.groups) !== JSON.stringify(g);
+  if (!zmiana && stary.wersja === meta.wersja) {
+    if (!naSucho) fs.writeFileSync(plik, JSON.stringify({ ...stary, checkedAt: teraz }, null, 1) + "\n");
+    return { ...wynik, status: "bez zmian" };
+  }
+  const { source, wersja, sha256: sha, ...reszta } = meta;
+  const dane = {
+    source, wersja, ...(sha ? { sha256: sha } : {}), ...reszta,
+    changedAt: zmiana ? teraz : stary.changedAt, checkedAt: teraz,
+    groups: g,
+    ...(stary?.kalendarz ? { kalendarz: stary.kalendarz } : {}),
+    ...(stary?.dziekanat ? { dziekanat: stary.dziekanat } : {}),
+  };
+  if (!naSucho) { fs.mkdirSync(path.dirname(plik), { recursive: true }); fs.writeFileSync(plik, JSON.stringify(dane, null, 1) + "\n"); }
+  return { ...wynik, status: !stary ? "nowy" : zmiana ? "zmiana" : "bez zmian" };
+}

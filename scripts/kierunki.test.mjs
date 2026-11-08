@@ -6,7 +6,7 @@ import fs from "node:fs";
 import { parseEntry } from "./parse.mjs";
 import { zKonfiguracji } from "./update-plan.mjs";
 import { zKonfiguracji as dzKonfiguracji, parseList, SOURCE } from "./dziekanat.mjs";
-import { lista, wstaw } from "./kierunki.mjs";
+import { lista, wstaw, listaUS, daneUS, wstawUS } from "./kierunki.mjs";
 
 const Y = [2026, 2027];
 const komorka = (tytul, naucz = "dr Jan Nowak", sala = "s. 104 Cuk.8") =>
@@ -85,9 +85,10 @@ test("konfiguracja kierunku: grupy z pliku + 3 kolejne numery, plik plan/<id>.js
 
 test("lista roczników na stronie jest aktualna, a wstawienie drugi raz nic nie zmienia", () => {
   const html = fs.readFileSync("index.html", "utf8");
-  assert.strictEqual(wstaw(html, lista()), html, "node scripts/kierunki.mjs");
-  assert.strictEqual(wstaw(wstaw(html, lista()), lista()), html);
-  for (const r of lista()) assert.ok(fs.existsSync(r.plik), `brak ${r.plik}`);
+  const l = [...lista(), ...listaUS()], nowy = (h) => wstawUS(wstaw(h, l), daneUS(l));
+  assert.strictEqual(nowy(html), html, "node scripts/kierunki.mjs");
+  assert.strictEqual(nowy(nowy(html)), html);
+  for (const r of l) assert.ok(fs.existsSync(r.plik), `brak ${r.plik}`);
 });
 
 test("plan każdego rocznika ma format plan.json BM (groups → odd/even, kalendarz, dziekanat)", () => {

@@ -7,6 +7,7 @@
 //   node scripts/update-plan.mjs --wszystkie                   każdy rocznik z kierunki/ i config/kierunki-1rok.json (bez BM),
 //                                                              stan przebiegu w plan/_import.json
 // Pliki kierunki/<id>.json robi skrypt kierunek.mjs w repo skrot-bm; w tym skrypcie nie ma żadnego kierunku poza BM.
+import { importujWszystkie } from "./us/importuj.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
@@ -135,7 +136,7 @@ async function main(K) {
   if (bezZmianUczelni(K, stary, updated)) {
     fs.writeFileSync(K.plik, JSON.stringify({ ...stary, checkedAt: new Date().toISOString() }, null, 1) + "\n");
     console.log(`Bez zmian na stronie uczelni (Aktualizacja planu: ${updated}), plan ${K.opis} bez pobierania grup.`);
-    K.wynik = { status: "bez zmian uczelni", grupy: Object.keys(stary.groups).length, zajec: liczbaZajec(stary.groups) };
+    K.wynik = { status: "bez zmian", szczegoly: "bez zmian uczelni", wydzial: "wefiz", zrodlo: BASE, wersja: updated || null, grupy: Object.keys(stary.groups).length, zajec: liczbaZajec(stary.groups) };
     return false;
   }
 
@@ -200,7 +201,8 @@ async function main(K) {
     else fs.appendFileSync("zmiany.md", (fs.existsSync("zmiany.md") ? "\n---\n\n" : "") + summary + "\n");
   }
   console.log(changed ? (old ? "ZMIANA w planie:\n" + summary : "Pierwszy zapis planu.") : "Bez zmian w planie.");
-  K.wynik = { status: changed ? (old ? "zmiana" : "nowy") : "bez zmian", grupy: Object.keys(groups).length, zajec };
+  const szczegoly = changed ? (old ? "zmiana" : "nowy") : "bez zmian";
+  K.wynik = { status: changed ? "ok" : "bez zmian", szczegoly, wydzial: "wefiz", zrodlo: BASE, wersja: updated || null, grupy: Object.keys(groups).length, zajec };
   return changed && !!old;
 }
 
@@ -215,7 +217,7 @@ export function zapiszStan(stan, plik = "plan/_import.json", teraz = new Date().
   const stary = fs.existsSync(plik) ? JSON.parse(fs.readFileSync(plik, "utf8")) : {};
   const log = [...(stary.log || []), ...stan.filter(s => s.blad).map(s => ({ at: teraz, id: s.id, blad: s.blad }))].slice(-200);
   fs.mkdirSync(path.dirname(plik), { recursive: true });
-  fs.writeFileSync(plik, JSON.stringify({ opis: "Stan importu planów (update-plan.mjs --wszystkie). Błąd = w plan/<id>.json zostaje poprzednia wersja.", at: teraz, roczniki: stan, log }, null, 1) + "\n");
+  fs.writeFileSync(plik, JSON.stringify({ opis: "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.", at: teraz, roczniki: stan, log }, null, 1) + "\n");
 }
 
 // --tylko id1,id2: przy --wszystkie tylko te roczniki (sprawdzenie na kilku przed pełnym przebiegiem); stan zapisuje się tylko bez --tylko
@@ -233,10 +235,17 @@ async function run() {
     console.log(`\n== ${c.id} ==`);
     let K = null;
     try { K = zKonfiguracji(c); changed = (await main(K)) || changed; stan.push({ id: c.id, ...K.wynik }); }
-    catch (e) { blad(e); failed = true; stan.push({ id: c.id, status: "błąd", blad: e.message }); }
+    catch (e) { blad(e); failed = true; stan.push({ id: c.id, wydzial: "wefiz", zrodlo: BASE, status: "błąd", blad: e.message }); }
+  }
+  // Pozostałe wydziały US (config/zrodla-us.json → importer wydziału, scripts/us/importuj.mjs). Błąd jednego nie blokuje reszty.
+  if (konfiguracje && process.argv.includes("--wszystkie") && !process.argv.includes("--bez-us")) {
+    try {
+      const us = await importujWszystkie({ tylko: TYLKO });
+      for (const s of us) { if (s.status === "błąd") { failed = true; blad(new Error(`${s.id}: ${s.blad}`)); } stan.push(s); }
+    } catch (e) { blad(e); failed = true; }
   }
   if (konfiguracje && process.argv.includes("--wszystkie") && !TYLKO) zapiszStan(stan);
-  if (stan.length) console.log("\n" + stan.map(s => `${s.id}: ${s.status}${s.grupy != null ? `, grup ${s.grupy}, zajęć ${s.zajec}` : ""}${s.blad ? " — " + s.blad : ""}`).join("\n"));
+  if (stan.length) console.log("\n" + stan.map(s => `${s.id}: ${s.szczegoly || s.status}${s.grupy != null ? `, grup ${s.grupy}, zajęć ${s.zajec}` : ""}${s.blad ? " — " + s.blad : ""}`).join("\n"));
   if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `changed=${changed}\n`);
   if (failed) process.exit(1);
 }
