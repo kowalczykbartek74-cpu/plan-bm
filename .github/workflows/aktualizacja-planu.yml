@@ -12,7 +12,7 @@ on:
   workflow_dispatch:        # ręczne uruchomienie: zakładka Actions → Run workflow
   push:
     branches: [main]
-    paths: ["index.html", "skrzynka.html", "plan.json", "kalendarz.json", "scripts/**", ".github/workflows/**"]
+    paths: ["index.html", "skrzynka.html", "plan.json", "kalendarz.json", "kierunki/**", "plan/**", "scripts/**", ".github/workflows/**"]
 
 permissions:
   contents: write
@@ -44,6 +44,17 @@ jobs:
         timeout-minutes: 20
         run: node scripts/update-plan.mjs
 
+      # Inne roczniki: konfiguracja w kierunki/<id>.json (z repo skrot-bm), plan w plan/<id>.json. Błąd jednego nie blokuje BM.
+      - name: Pobierz plany pozostałych roczników (kierunki/*.json)
+        id: plank
+        if: github.event.schedule != '20 7-18 * * *'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: node scripts/update-plan.mjs --wszystkie
+
+      - name: Lista roczników na stronie (wybór kierunku)
+        run: node scripts/kierunki.mjs
+
       - name: Dołącz kalendarz roku (kalendarz.json)
         id: kalendarz
         run: node scripts/kalendarz.mjs
@@ -54,6 +65,12 @@ jobs:
         timeout-minutes: 15
         run: node scripts/dziekanat.mjs
 
+      - name: Komunikaty dziekanatu dla pozostałych roczników (tylko DOS)
+        id: dzk
+        continue-on-error: true
+        timeout-minutes: 15
+        run: node scripts/dziekanat.mjs --kierunki
+
       - name: Pliki do kalendarza w telefonie (kalendarz/*.ics)
         continue-on-error: true   # błąd w plikach kalendarza nie blokuje publikacji planu
         run: node scripts/ics.mjs
@@ -62,13 +79,13 @@ jobs:
         run: |
           git config user.name "plan-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add plan.json index.html kalendarz
+          git add plan.json index.html kalendarz plan
           if git diff --cached --quiet; then
             echo "Nic do zapisania."
           else
-            if [ "${{ steps.plan.outputs.changed }}" = "true" ]; then
+            if [ "${{ steps.plan.outputs.changed }}" = "true" ] || [ "${{ steps.plank.outputs.changed }}" = "true" ]; then
               git commit -m "Plan zajęć zmienił się na stronie uczelni"
-            elif [ "${{ steps.dz.outputs.changed }}" = "true" ]; then
+            elif [ "${{ steps.dz.outputs.changed }}" = "true" ] || [ "${{ steps.dzk.outputs.changed }}" = "true" ]; then
               git commit -m "Komunikaty dziekanatu: odwołania i odrabianie"
             elif [ "${{ steps.plan.outcome }}" = "failure" ]; then
               git commit -m "Kalendarz roku zaktualizowany"
@@ -80,7 +97,7 @@ jobs:
           fi
 
       - name: Powiadom o zmianie (mail z GitHuba)
-        if: steps.plan.outputs.changed == 'true'
+        if: steps.plan.outputs.changed == 'true' || steps.plank.outputs.changed == 'true'
         uses: actions/github-script@v7
         with:
           script: |
@@ -96,7 +113,7 @@ jobs:
             });
 
       - name: Powiadom o nowych komunikatach dziekanatu (mail z GitHuba)
-        if: steps.dz.outputs.fresh == 'true'
+        if: steps.dz.outputs.fresh == 'true' || steps.dzk.outputs.fresh == 'true'
         uses: actions/github-script@v7
         with:
           script: |
@@ -115,7 +132,7 @@ jobs:
         id: decide
         run: |
           # przebieg co godzinę publikuje tylko wtedy, gdy coś się zmieniło
-          if [ "${{ github.event.schedule }}" = "20 7-18 * * *" ] && [ "${{ steps.dz.outputs.changed }}" != "true" ]; then
+          if [ "${{ github.event.schedule }}" = "20 7-18 * * *" ] && [ "${{ steps.dz.outputs.changed }}" != "true" ] && [ "${{ steps.dzk.outputs.changed }}" != "true" ]; then
             echo "publish=false" >> "$GITHUB_OUTPUT"
           else
             echo "publish=true" >> "$GITHUB_OUTPUT"
@@ -127,6 +144,7 @@ jobs:
           mkdir -p _site
           cp index.html skrzynka.html plan.json kalendarz.json CNAME _site/
           cp -r kalendarz _site/
+          if [ -d plan ]; then cp -r plan _site/; fi
           touch _site/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
