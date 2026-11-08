@@ -108,7 +108,7 @@ export const zSkrotu = (c) => /skrot-bm/.test(c?.opis || "") && !/wefiz-wszystki
 export const numeryDoSkanu = ({ litery = ["C", "M"], od = 100, do: doN = 499 } = {}) => litery.flatMap((l) => Array.from({ length: doN - od + 1 }, (_, i) => l + (od + i)));
 
 // pamiec: { aktualizacja, grupy: { X: { kierunek, n, przedmioty: [...] } } } z poprzedniego przebiegu (docs/wefiz-grupy.json)
-export async function znajdz(get, { lata = null, tylko = null, log = () => {}, skan = {}, pamiec = null } = {}) {
+export async function znajdz(get, { lata = null, stopnie = null, tylko = null, log = () => {}, skan = {}, pamiec = null } = {}) {
   const start = await get("plan");
   const kierunki = kierunkiZFormularza(start || "").filter((k) => !tylko || tylko.includes(k.nazwa));
   if (!kierunki.length) throw new Error("Nie znalazłem listy kierunków na stronie planów.");
@@ -117,7 +117,7 @@ export async function znajdz(get, { lata = null, tylko = null, log = () => {}, s
   const strony = new Map();    // planGrup?numerGrupy=X → { kierunek, przedmioty, n }
   // ta sama „Aktualizacja planu” co w poprzednim przebiegu: strony grup z pamięci, bez pytania uczelni
   if (pamiec && aktualizacja && pamiec.aktualizacja === aktualizacja) {
-    for (const [g, s] of Object.entries(pamiec.grupy || {})) strony.set(g, { kierunek: s.kierunek, n: s.n, przedmioty: new Set(s.przedmioty || []) });
+    for (const [g, s] of Object.entries(pamiec.grupy || {})) strony.set(g, { kierunek: s.kierunek, n: s.n, przedmioty: new Set(s.przedmioty || []), podgrupy: s.podgrupy || [] });
     for (const g of pamiec.puste || []) strony.set(g, { kierunek: null, n: 0, przedmioty: new Set() });
   }
   const wszystkieGrupy = zFormularza.length ? zFormularza : null;   // null = lista dopiero z przeglądu numerów (3), gdy będzie potrzebna
@@ -125,17 +125,18 @@ export async function znajdz(get, { lata = null, tylko = null, log = () => {}, s
     if (!strony.has(g)) {
       const html = await get(`planGrup?numerGrupy=${encodeURIComponent(g)}`);
       const p = html ? parseGroupPage(html) : { empty: true };
-      strony.set(g, { kierunek: p.kierunek || null, n: p.empty ? 0 : p.odd.length + p.even.length, przedmioty: przedmiotyStrony(html || "") });
+      const pg = p.empty ? [] : [...new Set([...p.odd, ...p.even].map((e) => e.g).filter(Boolean))].sort();
+      strony.set(g, { kierunek: p.kierunek || null, n: p.empty ? 0 : p.odd.length + p.even.length, przedmioty: przedmiotyStrony(html || ""), podgrupy: pg });
     }
     return strony.get(g);
   };
-  const wyniki = [];
+  const wyniki = [], bezPlanu = [];
   for (const k of kierunki) {
     const lataK = [];
     for (const [rokForm, stopien, rok] of LATA) {
-      if (lata && !lata.includes(rok)) continue;
+      if ((lata && !lata.includes(rok)) || (stopnie && !stopnie.includes(stopien))) continue;
       const html = await get("planKierunek?" + new URLSearchParams({ Kieruek: k.pelna, rok: rokForm }));
-      if (liczbaZajec(html) < 3) continue;
+      if (liczbaZajec(html) < 3) { bezPlanu.push({ ...k, stopien, rok, zajec: liczbaZajec(html) }); continue; }
       lataK.push({ rokForm, stopien, rok, html, przedmioty: przedmiotyStrony(html) });
     }
     for (const L of lataK) {
@@ -162,15 +163,17 @@ export async function znajdz(get, { lata = null, tylko = null, log = () => {}, s
     }
     for (const L of lataK) {
       L.grupy.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
-      wyniki.push({ ...k, stopien: L.stopien, rok: L.rok, grupy: L.grupy, zrodlo: L.zrodlo });
+      wyniki.push({ ...k, stopien: L.stopien, rok: L.rok, grupy: L.grupy, zrodlo: L.zrodlo,
+        podgrupy: Object.fromEntries(L.grupy.map((g) => [g, strony.get(g).podgrupy || []])), zajecKierunku: liczbaZajec(L.html) });
       log(`${k.pelna} · ${L.rokForm}: ${L.grupy.join(", ") || "brak grup"}${L.zrodlo ? " (" + L.zrodlo + ")" : ""}`);
     }
   }
   // pamięć do następnego przebiegu: grupy z planem (kierunek, przedmioty) i numery bez planu („Brak planu!”)
   const istn = [...strony].filter(([, s]) => s.kierunek && s.n);
-  const nowaPamiec = { aktualizacja, grupy: Object.fromEntries(istn.map(([g, s]) => [g, { kierunek: s.kierunek, n: s.n, przedmioty: [...s.przedmioty] }])),
+  const nowaPamiec = { aktualizacja, grupy: Object.fromEntries(istn.map(([g, s]) => [g, { kierunek: s.kierunek, n: s.n, przedmioty: [...s.przedmioty], podgrupy: s.podgrupy || [] }])),
     puste: [...strony].filter(([, s]) => !(s.kierunek && s.n)).map(([g]) => g).sort() };
   Object.defineProperty(wyniki, "pamiec", { value: nowaPamiec, enumerable: false });
+  Object.defineProperty(wyniki, "bezPlanu", { value: bezPlanu, enumerable: false });
   return wyniki;
 }
 

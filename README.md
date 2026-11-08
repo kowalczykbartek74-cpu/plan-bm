@@ -74,6 +74,9 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”
   albo w pliku brakuje grupy (`--wymus` = zawsze), z przerwą ≥ 1 s między zapytaniami. BM jak dotąd.
 - Test: `node --test scripts/*.test.mjs`.
+- **1. rok wszystkich kierunków (I st., stacjonarne):** `node scripts/kierunki-1rok.mjs` zapisuje `config/kierunki-1rok.json`
+  (id, nazwa w systemie, PL/EN, grupy z podgrupami, czy system ma plan). Kierunki tylko z systemu uczelni, nazwy EN w `config/nazwy-en.json`.
+  Odpowiedzi uczelni są w `.cache/efz/` (poza gitem) do zmiany „Aktualizacja planu”, więc kolejny przebieg to jedno zapytanie.
 - **Workflow do podmiany ręcznie:** `docs/aktualizacja-planu-kierunki.yml` to nowa wersja `.github/workflows/aktualizacja-planu.yml` (kroki dla roczników, publikacja `plan/`). Token automatu nie może zmieniać workflow, więc wklej go na github.com (Edit file → wklej → Commit). Bez tego plan Zarządzania nie odświeża się sam i nie trafia na stronę.
 
 ## Plan w kalendarzu telefonu

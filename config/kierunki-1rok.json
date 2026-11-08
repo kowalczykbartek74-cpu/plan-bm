@@ -1,0 +1,597 @@
+{
+  "opis": "Wygenerowane: node scripts/kierunki-1rok.mjs (z systemu planów WEFiZ). Nie edytuj ręcznie, nazwy EN w config/nazwy-en.json.",
+  "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
+  "aktualizacja": "06.11.2026 11:48",
+  "wygenerowano": "2026-11-08",
+  "kierunki": [
+    {
+      "id": "wefiz-af-1-st-2026",
+      "kod": "af26",
+      "kierunek": "AF",
+      "system": {
+        "nazwa": "Audyt finansowy (AF)",
+        "rok": "1 rokI"
+      },
+      "pl": "Audyt finansowy",
+      "en": "Financial Audit",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": false,
+      "grupy": []
+    },
+    {
+      "id": "wefiz-biwg-1-st-2026",
+      "kod": "biwg26",
+      "kierunek": "BIWG",
+      "system": {
+        "nazwa": "Business Intelligence w gospodarce (BIwG)",
+        "rok": "1 rokI"
+      },
+      "pl": "Business Intelligence w gospodarce",
+      "en": "Business Intelligence in Economy",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "M100",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-bm-1-st-2026",
+      "kod": "bm26",
+      "kierunek": "BM",
+      "system": {
+        "nazwa": "Business Management (BM)",
+        "rok": "1 rokI"
+      },
+      "pl": "Business Management",
+      "en": "Business Management",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C111",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "C112",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "C113",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wefiz-ds-1-st-2026",
+      "kod": "ds26",
+      "kierunek": "DS",
+      "system": {
+        "nazwa": "Data Science (DS)",
+        "rok": "1 rokI"
+      },
+      "pl": "Data Science",
+      "en": "Data Science",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": false,
+      "grupy": []
+    },
+    {
+      "id": "wefiz-eaia-1-st-2026",
+      "kod": "eaia26",
+      "kierunek": "EAIA",
+      "system": {
+        "nazwa": "Economics and IT Applications (EaIA)",
+        "rok": "1 rokI"
+      },
+      "pl": "Economics and IT Applications",
+      "en": "Economics and IT Applications",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "M190",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wefiz-ek-1-st-2026",
+      "kod": "ek26",
+      "kierunek": "EK",
+      "system": {
+        "nazwa": "Ekonomia (Ek)",
+        "rok": "1 rokI"
+      },
+      "pl": "Ekonomia",
+      "en": "Economics",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "M110",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wefiz-ep-1-st-2026",
+      "kod": "ep26",
+      "kierunek": "EP",
+      "system": {
+        "nazwa": "Ekonomiczno-prawny (E-P)",
+        "rok": "1 rokI"
+      },
+      "pl": "Ekonomiczno-prawny",
+      "en": "Economics and Law",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": false,
+      "grupy": []
+    },
+    {
+      "id": "wefiz-fir-1-st-2026",
+      "kod": "fir26",
+      "kierunek": "FIR",
+      "system": {
+        "nazwa": "Finanse i Rachunkowość (FiR)",
+        "rok": "1 rokI"
+      },
+      "pl": "Finanse i Rachunkowość",
+      "en": "Finance and Accounting",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "M120",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "M121",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "M122",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "M123",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wefiz-gn-1-st-2026",
+      "kod": "gn26",
+      "kierunek": "GN",
+      "system": {
+        "nazwa": "Gospodarka Nieruchomościami (GN)",
+        "rok": "1 rokI"
+      },
+      "pl": "Gospodarka Nieruchomościami",
+      "en": "Real Estate Management",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "M150",
+          "podgrupy": []
+        },
+        {
+          "nazwa": "M151",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-gpi-1-st-2026",
+      "kod": "gpi26",
+      "kierunek": "GPI",
+      "system": {
+        "nazwa": "Gospodarka Przestrzenna inż. (GPi)",
+        "rok": "1 rokI"
+      },
+      "pl": "Gospodarka Przestrzenna inż.",
+      "en": "Spatial Management (Eng.)",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "M160",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-ge-1-st-2026",
+      "kod": "ge26",
+      "kierunek": "GE",
+      "system": {
+        "nazwa": "Green Economy - zielona gospodarka (GE)",
+        "rok": "1 rokI"
+      },
+      "pl": "Green Economy - zielona gospodarka",
+      "en": "Green Economy",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": false,
+      "grupy": []
+    },
+    {
+      "id": "wefiz-iie-1-st-2026",
+      "kod": "iie26",
+      "kierunek": "IIE",
+      "system": {
+        "nazwa": "Informatyka i Ekonometria (IiE)",
+        "rok": "1 rokI"
+      },
+      "pl": "Informatyka i Ekonometria",
+      "en": "Computer Science and Econometrics",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "M140",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-iwb-1-st-2026",
+      "kod": "iwb26",
+      "kierunek": "IWB",
+      "system": {
+        "nazwa": "Informatyka w Biznesie (IwB)",
+        "rok": "1 rokI"
+      },
+      "pl": "Informatyka w Biznesie",
+      "en": "IT in Business",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C171",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-kipb-1-st-2026",
+      "kod": "kipb26",
+      "kierunek": "KIPB",
+      "system": {
+        "nazwa": "Komunikacja i psychologia w biznesie (KiPB)",
+        "rok": "1 rokI"
+      },
+      "pl": "Komunikacja i psychologia w biznesie",
+      "en": "Communication and Psychology in Business",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C121",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "C122",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "C123",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wefiz-log-1-st-2026",
+      "kod": "log26",
+      "kierunek": "LOG",
+      "system": {
+        "nazwa": "Logistyka (L)",
+        "rok": "1 rokI"
+      },
+      "pl": "Logistyka",
+      "en": "Logistics",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C131",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "C132",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-li-1-st-2026",
+      "kod": "li26",
+      "kierunek": "LI",
+      "system": {
+        "nazwa": "Logistyka inż. (Li)",
+        "rok": "1 rokI"
+      },
+      "pl": "Logistyka inż.",
+      "en": "Logistics (Eng.)",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C161",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-mkt-1-st-2026",
+      "kod": "mkt26",
+      "kierunek": "MKT",
+      "system": {
+        "nazwa": "Marketing (M)",
+        "rok": "1 rokI"
+      },
+      "pl": "Marketing",
+      "en": "Marketing",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": false,
+      "grupy": []
+    },
+    {
+      "id": "wefiz-mbt-1-st-2026",
+      "kod": "mbt26",
+      "kierunek": "MBT",
+      "system": {
+        "nazwa": "Międzynarodowy biznes turystyczny (MBT)",
+        "rok": "1 rokI"
+      },
+      "pl": "Międzynarodowy biznes turystyczny",
+      "en": "International Tourism Business",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": false,
+      "grupy": []
+    },
+    {
+      "id": "wefiz-pii-1-st-2026",
+      "kod": "pii26",
+      "kierunek": "PII",
+      "system": {
+        "nazwa": "Przedsiębiorczość i Inwestycje (PiI)",
+        "rok": "1 rokI"
+      },
+      "pl": "Przedsiębiorczość i Inwestycje",
+      "en": "Entrepreneurship and Investments",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C181",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-rn-1-st-2026",
+      "kod": "rn26",
+      "kierunek": "RN",
+      "system": {
+        "nazwa": "Rynek Nieruchomości (RN)",
+        "rok": "1 rokI"
+      },
+      "pl": "Rynek Nieruchomości",
+      "en": "Real Estate Market",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": false,
+      "grupy": []
+    },
+    {
+      "id": "wefiz-tir-1-st-2026",
+      "kod": "tir26",
+      "kierunek": "TIR",
+      "system": {
+        "nazwa": "Turystyka i Rekreacja (TiR)",
+        "rok": "1 rokI"
+      },
+      "pl": "Turystyka i Rekreacja",
+      "en": "Tourism and Recreation",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "M130",
+          "podgrupy": []
+        },
+        {
+          "nazwa": "M131",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-zarz-1-st-2026",
+      "kod": "zarz26",
+      "kierunek": "ZARZ",
+      "system": {
+        "nazwa": "Zarządzanie (Z)",
+        "rok": "1 rokI"
+      },
+      "pl": "Zarządzanie",
+      "en": "Management",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C151",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "C152",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "nazwa": "C153",
+          "podgrupy": [
+            "A",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wefiz-zloz-1-st-2026",
+      "kod": "zloz26",
+      "kierunek": "ZLOZ",
+      "system": {
+        "nazwa": "Zarządzanie Logistyczne w Ochronie Zdrowia (ZLOZ)",
+        "rok": "1 rokI"
+      },
+      "pl": "Zarządzanie Logistyczne w Ochronie Zdrowia",
+      "en": "Logistics Management in Healthcare",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C101",
+          "podgrupy": []
+        }
+      ]
+    },
+    {
+      "id": "wefiz-zoze-1-st-2026",
+      "kod": "zoze26",
+      "kierunek": "ZOZE",
+      "system": {
+        "nazwa": "Zarządzanie odnawialnymi źródłami energii (ZOZE)",
+        "rok": "1 rokI"
+      },
+      "pl": "Zarządzanie odnawialnymi źródłami energii",
+      "en": "Renewable Energy Management",
+      "stopien": 1,
+      "rok": 1,
+      "tryb": "st",
+      "nabor": 2026,
+      "maPlan": true,
+      "grupy": [
+        {
+          "nazwa": "C141",
+          "podgrupy": []
+        }
+      ]
+    }
+  ]
+}
