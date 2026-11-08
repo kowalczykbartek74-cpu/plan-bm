@@ -25,12 +25,18 @@ const kal = JSON.parse(fs.readFileSync("kalendarz.json", "utf8"));
 check(kal);
 delete kal.opis;
 
-const plan = JSON.parse(fs.readFileSync("plan.json", "utf8"));
-if (JSON.stringify(plan.kalendarz) === JSON.stringify(kal)) {
-  console.log("Kalendarz w plan.json jest aktualny.");
-} else {
+// Kalendarz roku jest jeden dla całej uczelni, więc trafia też do planów pozostałych roczników (plan/<id>.json, bez index.html).
+const pliki = ["plan.json", ...(fs.existsSync("plan") ? fs.readdirSync("plan").filter(f => f.endsWith(".json")).sort().map(f => "plan/" + f) : [])];
+for (const f of pliki) {
+  const plan = JSON.parse(fs.readFileSync(f, "utf8"));
+  if (!plan.groups) continue;   // np. plan/kierunki.json (lista roczników)
+  if (JSON.stringify(plan.kalendarz) === JSON.stringify(kal)) {
+    console.log(`Kalendarz w ${f} jest aktualny.`);
+    continue;
+  }
   plan.kalendarz = kal;
-  fs.writeFileSync("plan.json", JSON.stringify(plan, null, 1) + "\n");
+  fs.writeFileSync(f, JSON.stringify(plan, null, 1) + "\n");
+  if (f !== "plan.json") { console.log(`Dołączono kalendarz do ${f}.`); continue; }
   const html = fs.readFileSync("index.html", "utf8");
   const start = "/*PLAN_DATA_START*/", end = "/*PLAN_DATA_END*/";
   const i = html.indexOf(start), j = html.indexOf(end);

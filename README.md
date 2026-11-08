@@ -46,6 +46,22 @@ W `plan.json` takie grupy są opisane w polu `zImportu`. Bez zatwierdzonego plan
 działa dokładnie jak dotąd (`scripts/import-plan.mjs`, test: `node --test scripts/import-plan.test.mjs`).
 Test bez internetu: `node scripts/update-plan.mjs --import-file odpowiedz.json` (odpowiedź funkcji bazy).
 
+## Inne kierunki (roczniki)
+
+Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez zmian), każdy inny rocznik ma plik
+`plan/<id rocznika>.json` w tym samym formacie. Link dla roku: `https://plan.skrotbm.pl/?k=<kod>`, np. **?k=zarz26** (Zarządzanie, 1. rok).
+
+- Konfiguracja rocznika to plik `kierunki/<id>.json` (nazwa w systemie planów uczelni, rok, grupy, plik wyjściowy). Robi go skrypt
+  `scripts/kierunek.mjs` w repozytorium skrot-bm; tutaj nie ma żadnego kierunku wpisanego w kod poza BM.
+- `node scripts/update-plan.mjs --wszystkie` pobiera plany wszystkich roczników z `kierunki/` (grupy z pliku + 3 kolejne numery),
+  `--kierunek kierunki/<id>.json` tylko jeden. Błąd jednego rocznika nie blokuje pozostałych.
+- Odwołane zajęcia: `node scripts/dziekanat.mjs --kierunki`, tylko komunikaty DOS (bez Teams). Adres sekcji DOS wydziału bierze z bazy
+  Skrótu (`nauka_roczniki_lista` → `wydzial.dos_url`), a bez bazy z poprzedniego przebiegu.
+- `scripts/kalendarz.mjs` dokłada kalendarz roku także do `plan/*.json`; `scripts/kierunki.mjs` wstawia listę roczników do `index.html`.
+- Pliki do kalendarza w telefonie (`kalendarz/*.ics`) są na razie tylko dla BM; inne roczniki mają osobisty kalendarz w aplikacji.
+- Test: `node --test scripts/*.test.mjs`.
+- **Workflow do podmiany ręcznie:** `docs/aktualizacja-planu-kierunki.yml` to nowa wersja `.github/workflows/aktualizacja-planu.yml` (kroki dla roczników, publikacja `plan/`). Token automatu nie może zmieniać workflow, więc wklej go na github.com (Edit file → wklej → Commit). Bez tego plan Zarządzania nie odświeża się sam i nie trafia na stronę.
+
 ## Plan w kalendarzu telefonu
 
 Przycisk „Dodaj plan do kalendarza w telefonie” daje link do subskrypcji w Google, Apple albo Outlooku.

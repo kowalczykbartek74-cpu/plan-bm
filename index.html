@@ -65,6 +65,9 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 .years{display:flex;flex-wrap:wrap;gap:8px 16px}
 .year{display:flex;align-items:center;gap:6px}
 .year span{font-size:12.5px;color:var(--muted)}
+[hidden]{display:none!important}
+.ksel{font:600 14px/1.2 var(--body);border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:10px;padding:10px 12px;min-height:44px;max-width:100%}
+.ksel:focus-visible{outline:2px solid var(--today);outline-offset:2px}
 .pill{font:600 14px/1 var(--body);border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:999px;padding:9px 13px;cursor:pointer;font-variant-numeric:tabular-nums}
 .pill:hover{border-color:var(--muted)}
 .pill[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
@@ -202,29 +205,30 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
   <div class="topbar">
     <nav class="tabs" aria-label="Zakładki" data-i18n-attr="aria-label=aTabs">
       <a href="./" aria-current="page" data-i18n="tabPlan">Plan zajęć</a>
-      <a href="skrzynka.html" data-i18n="tabBox">Skrzynka do opiekunki</a>
+      <a href="skrzynka.html" class="bm-only" data-i18n="tabBox">Skrzynka do opiekunki</a>
       <a href="https://zdawalni.pl" title="Skróty, fiszki i quizy do wszystkich przedmiotów">Skrót BM ↗</a>
     </nav>
     <button class="langbtn" id="langBtn" type="button"></button>
   </div>
   <header>
-    <div class="eyebrow" data-i18n="eyebrow">Uniwersytet Szczeciński · WEFiZ · Business Management · I rok · semestr zimowy 2026/27</div>
+    <div class="eyebrow" id="eyebrow" data-i18n="eyebrow">Uniwersytet Szczeciński · WEFiZ · Business Management · I rok · semestr zimowy 2026/27</div>
     <h1 id="title">Plan zajęć</h1>
-    <p class="sub" data-i18n="sub">Wybierz swoją grupę i podgrupę do laboratoriów. Kalendarz sam rozpoznaje tydzień parzysty i nieparzysty.</p>
+    <p class="sub" id="sub" data-i18n="sub">Wybierz swoją grupę i podgrupę do laboratoriów. Kalendarz sam rozpoznaje tydzień parzysty i nieparzysty.</p>
     <details class="help" id="help">
       <summary aria-label="Instrukcja obsługi" data-i18n-attr="aria-label=aHelp"><span class="q">?</span><span class="t" data-i18n="howto">Jak używać</span></summary>
       <div class="help-panel">
         <h3 data-i18n="helpH">Szybka instrukcja</h3>
         <ol>
-          <li data-i18n="h1"><b>Grupa:</b> kliknij swoją grupę: C111, C112 albo C113.</li>
-          <li data-i18n="h2"><b>Laby:</b> wybierz podgrupę A lub B. Od niej zależy termin laboratorium z Narzędzi IT. „Obie grupy” pokazuje oba terminy.</li>
+          <li class="k-only" data-i18n="hk1"><b>Grupa:</b> wybierz kierunek, rok i swoją grupę. Przy laboratoriach wybierz podgrupę A lub B, a „Obie grupy” pokaże oba terminy.</li>
+          <li class="bm-only" data-i18n="h1"><b>Grupa:</b> kliknij swoją grupę: C111, C112 albo C113.</li>
+          <li class="bm-only" data-i18n="h2"><b>Laby:</b> wybierz podgrupę A lub B. Od niej zależy termin laboratorium z Narzędzi IT. „Obie grupy” pokazuje oba terminy.</li>
           <li data-i18n="h3"><b>Kalendarz:</b> plan z prawdziwymi datami. Strzałkami ‹ › przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
           <li data-i18n="h10"><b>Odwołane zajęcia:</b> plan czyta komunikaty dziekanatu. Odwołane zajęcia są przekreślone z napisem „Odwołane”, a odrabianie i zmiany sal pojawiają się jako dodatkowe zajęcia w odpowiednim dniu.</li>
           <li data-i18n="h4"><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
           <li data-i18n="h5"><b>Motyw:</b> „Jasny” albo „Ciemny” ustawia kolory na stałe, a „Auto” dopasowuje je do ustawień telefonu.</li>
           <li data-i18n="h6"><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
-          <li data-i18n="h7"><b>Skrzynka do opiekunki:</b> druga zakładka u góry. Napiszesz tam sprawę do opiekunki roku, podpisaną albo anonimowo. Starosta zbiera wiadomości i przekazuje je dalej, a odpowiedź pojawia się przy wiadomości. Szczegóły są w „Jak używać” w tamtej zakładce.</li>
-          <li data-i18n="h9"><b>Twój kalendarz:</b> przycisk „Dodaj plan do kalendarza w telefonie” dodaje zajęcia Twojej grupy do Kalendarza Google, Apple albo Outlooka. Kalendarz aktualizuje się sam, gdy zmieni się plan.</li>
+          <li class="bm-only" data-i18n="h7"><b>Skrzynka do opiekunki:</b> druga zakładka u góry. Napiszesz tam sprawę do opiekunki roku, podpisaną albo anonimowo. Starosta zbiera wiadomości i przekazuje je dalej, a odpowiedź pojawia się przy wiadomości. Szczegóły są w „Jak używać” w tamtej zakładce.</li>
+          <li class="bm-only" data-i18n="h9"><b>Twój kalendarz:</b> przycisk „Dodaj plan do kalendarza w telefonie” dodaje zajęcia Twojej grupy do Kalendarza Google, Apple albo Outlooka. Kalendarz aktualizuje się sam, gdy zmieni się plan.</li>
           <li data-i18n="h8"><b>Język:</b> przycisk EN / PL u góry przełącza całą stronę między polskim a angielskim.</li>
         </ol>
         <div class="hint">
@@ -241,6 +245,14 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
   </header>
 
   <section class="controls" aria-label="Ustawienia" data-i18n-attr="aria-label=aSettings">
+    <div class="ctl">
+      <label class="ctl-label" for="kier" data-i18n="lKier">Kierunek</label>
+      <select class="ksel" id="kier"></select>
+    </div>
+    <div class="ctl">
+      <div class="ctl-label" data-i18n="lRok">Rok</div>
+      <div class="years" id="roky"></div>
+    </div>
     <div class="ctl">
       <div class="ctl-label" data-i18n="lGroup">Grupa</div>
       <div class="years" id="groups"></div>
@@ -261,7 +273,7 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
         <button id="mode-even" data-mode="even" aria-pressed="false" data-i18n="mEven">Parzysty</button>
       </div>
     </div>
-    <div class="ctl">
+    <div class="ctl bm-only">
       <div class="ctl-label" data-i18n="lCal">Twój kalendarz</div>
       <button class="calbtn" id="calBtn" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg><span data-i18n="calBtn">Dodaj plan do kalendarza w telefonie</span></button>
     </div>
@@ -294,7 +306,8 @@ h1{justify-self:start;align-self:flex-start;padding-bottom:8px;background:url("d
 <script>
 /* ---------- Język: PL / EN ---------- */
 const EN = {
-  aTabs:"Tabs", tabPlan:"Timetable", tabBox:"Year Tutor Mailbox",
+  aTabs:"Tabs", tabPlan:"Timetable", tabBox:"Year Tutor Mailbox", lKier:"Programme", lRok:"Year",
+  hk1:"<b>Group:</b> choose your programme, year and group. For labs choose subgroup A or B; “Both groups” shows both slots.",
   footZapis:"Studying another programme? Zdawalni for your programme: sign up ↗",
   eyebrow:"University of Szczecin · WEFiZ · Business Management · 1st year · winter semester 2026/27",
   sub:"Choose your group and lab subgroup. The calendar knows which weeks are odd and which are even.",
@@ -416,9 +429,27 @@ function dayInfo(k){
 
 /* ---------- State ---------- */
 const store = { get(k){ try{return localStorage.getItem(k)}catch(e){return null} }, set(k,v){ try{localStorage.setItem(k,v)}catch(e){} } };
+
+/* ---------- Kierunek i rok (rocznik) ----------
+   BM: plan.json i kopia zapasowa wyżej. Inne roczniki: plan/<id>.json; ich listę wstawia scripts/kierunki.mjs z plików kierunki/*.json
+   (robi je skrot-bm/scripts/kierunek.mjs), więc w kodzie strony nie ma żadnego kierunku poza BM.
+   Link dla roku: plan.skrotbm.pl/?k=<kod>, np. ?k=zarz26. */
+const ROCZNIK_BM = { id:"wefiz-bm-1-st-2026", kod:"bm", pl:"Business Management", en:"Business Management", rok:1, wydzial:"WEFiZ", plik:"plan.json" };
+const ROCZNIKI = [ROCZNIK_BM, .../*KIERUNKI_START*/[{"id":"wefiz-zarz-1-st-2026","kod":"zarz26","pl":"Zarządzanie","en":"Management","rok":1,"wydzial":"WEFiZ","plik":"plan/wefiz-zarz-1-st-2026.json"}]/*KIERUNKI_END*/];
+let BM_DATA = DATA;
+const R = (() => {
+  const q = new URLSearchParams(location.search).get("k");
+  const r = ROCZNIKI.find(x => q && (x.kod === q || x.id === q)) || ROCZNIKI.find(x => x.id === store.get("plan-rocznik")) || ROCZNIK_BM;
+  if (q && r.id !== ROCZNIK_BM.id) store.set("plan-rocznik", r.id);
+  return { cur: r };
+})();
+const isBM = () => R.cur.id === ROCZNIK_BM.id;
+const groupKey = () => isBM() ? "bm-group" : "plan-group:" + R.cur.id;
+const subKey = () => isBM() ? "bm-sub" : "plan-sub:" + R.cur.id;
+if (!isBM()) DATA = { groups:{}, kalendarz: BM_DATA.kalendarz };
 const state = {
-  group: store.get("bm-group") || "C112",
-  sub: ["","A","B"].includes(store.get("bm-sub")) ? store.get("bm-sub") : "A",
+  group: store.get(groupKey()) || "C112",
+  sub: ["","A","B"].includes(store.get(subKey())) ? store.get(subKey()) : "A",
   mode: "cal",
   week: null
 };
@@ -573,11 +604,54 @@ function renderNav(){
   const n = document.getElementById("now"); if (n) n.onclick = () => { state.week = thisWeek; render(); };
 }
 
+const ROK_RZ = ["","I","II","III","IV","V","VI"], ROK_EN = ["","1st","2nd","3rd","4th","5th","6th"];
+const nazwaK = r => L(r.pl, r.en || r.pl);
+function renderRocznik(){
+  const bm = isBM();
+  document.querySelectorAll(".bm-only").forEach(el => el.hidden = !bm);
+  document.querySelectorAll(".k-only").forEach(el => el.hidden = bm);
+  // Kierunek (jeden wpis na nazwę), potem rok tego kierunku, potem grupa
+  const kier = [...new Map(ROCZNIKI.map(r => [r.pl, r])).values()];
+  const sel = document.getElementById("kier");
+  sel.innerHTML = kier.map(r => `<option value="${esc(r.pl)}">${esc(nazwaK(r))}</option>`).join("");
+  sel.value = R.cur.pl;
+  const lata = ROCZNIKI.filter(r => r.pl === R.cur.pl).sort((a, b) => a.rok - b.rok);
+  document.getElementById("roky").innerHTML = `<div class="year">${lata.map(r => `<button class="pill" data-r="${esc(r.id)}" aria-pressed="${r.id === R.cur.id}">${L(`${r.rok}. rok`, `${ROK_EN[r.rok] || r.rok} year`)}</button>`).join("")}</div>`;
+  document.querySelectorAll("#roky .pill").forEach(b => b.onclick = () => setRocznik(b.dataset.r));
+  if (bm) return;   // BM: nagłówek bez zmian (teksty w HTML i w EN)
+  const sem = DATA.semestr === "zimowy" ? L("semestr zimowy", "winter semester") : DATA.semestr === "letni" ? L("semestr letni", "summer semester") : "";
+  const rokAk = DATA.rokAkademicki ? DATA.rokAkademicki.replace(/\/20/, "/") : "";
+  document.getElementById("eyebrow").textContent = [L("Uniwersytet Szczeciński", "University of Szczecin"), R.cur.wydzial, nazwaK(R.cur),
+    L(`${ROK_RZ[R.cur.rok] || R.cur.rok} rok`, `${ROK_EN[R.cur.rok] || R.cur.rok} year`), [sem, rokAk].filter(Boolean).join(" ")].filter(Boolean).join(" · ");
+  document.getElementById("sub").textContent = hasAnySubs()
+    ? L("Wybierz swoją grupę i podgrupę do laboratoriów. Kalendarz sam rozpoznaje tydzień parzysty i nieparzysty.", "Choose your group and lab subgroup. The calendar knows which weeks are odd and which are even.")
+    : L("Wybierz swoją grupę. Kalendarz sam rozpoznaje tydzień parzysty i nieparzysty.", "Choose your group. The calendar knows which weeks are odd and which are even.");
+}
+const hasAnySubs = () => Object.keys(G()).some(hasSubs);
+function setRocznik(id){
+  const r = ROCZNIKI.find(x => x.id === id);
+  if (!r || r.id === R.cur.id) return;
+  R.cur = r;
+  store.set("plan-rocznik", r.id);
+  const u = new URL(location.href);
+  if (isBM()) u.searchParams.delete("k"); else u.searchParams.set("k", r.kod);
+  history.replaceState(null, "", u.pathname + u.search + u.hash);
+  DATA = isBM() ? BM_DATA : { groups:{}, kalendarz: BM_DATA.kalendarz };
+  state.group = store.get(groupKey()) || "";
+  state.sub = ["","A","B"].includes(store.get(subKey())) ? store.get(subKey()) : "A";
+  buildCalendar(); buildGroups(); render(); showMeta(); loadRemote();
+}
+document.getElementById("kier").onchange = ev => {
+  const lata = ROCZNIKI.filter(r => r.pl === ev.target.value).sort((a, b) => a.rok - b.rok);
+  if (lata.length) setRocznik((lata.find(r => r.rok === R.cur.rok) || lata[0]).id);
+};
+
 function render(){
   ensureGroup();
   const g = state.group;
+  renderRocznik();
   document.getElementById("title").textContent = L(`Plan zajęć ${g}`, `Timetable ${g}`);
-  document.title = L("Plan zajęć BM", "BM Timetable");
+  document.title = isBM() ? L("Plan zajęć BM", "BM Timetable") : L(`Plan zajęć ${R.cur.pl}`, `${R.cur.en || R.cur.pl} Timetable`);
   document.querySelectorAll("#groups .pill").forEach(b => b.setAttribute("aria-pressed", b.dataset.g===g));
   const subs = hasSubs(g);
   document.getElementById("subRow").hidden = !subs;
@@ -587,6 +661,7 @@ function render(){
   renderNav();
 
   const el = document.getElementById("days");
+  if (!Object.keys(G()).length) { el.innerHTML = `<div class="free">${L("Wczytuję plan…", "Loading the timetable…")}</div>`; return; }
   if (state.mode !== "cal"){
     el.innerHTML = (isEN() ? DAYN_EN : DAYN_PL).map((dn,i) => dayCard(dn, "", entriesFor(state.mode,i,null), {fixed:true})).join("");
     return;
@@ -603,8 +678,9 @@ function render(){
 /* ---------- Controls ---------- */
 function buildGroups(){
   const gs = Object.keys(G()).sort();
+  if (!gs.length) { document.getElementById("groups").innerHTML = ""; return; }   // plan jeszcze się wczytuje
   document.getElementById("groups").innerHTML = `<div class="year">${gs.map(g => `<button class="pill" id="grp-${g}" data-g="${g}" aria-pressed="false">${g}</button>`).join("")}</div>`;
-  document.querySelectorAll("#groups .pill").forEach(b => b.onclick = () => { state.group = b.dataset.g; store.set("bm-group", state.group); render(); });
+  document.querySelectorAll("#groups .pill").forEach(b => b.onclick = () => { state.group = b.dataset.g; store.set(groupKey(), state.group); render(); });
 }
 buildGroups();
 
@@ -624,20 +700,22 @@ function showMeta(){
 let loading = false;
 async function loadRemote(){
   if (loading) return; loading = true;
+  const id = R.cur.id;
   try {
-    const r = await fetch("plan.json?t=" + Date.now(), {cache:"no-store"});
+    const r = await fetch(R.cur.plik + "?t=" + Date.now(), {cache:"no-store"});
     if (!r.ok) return;
     const j = await r.json();
-    if (!j || !j.groups || !Object.keys(j.groups).length) return;
+    if (!j || !j.groups || !Object.keys(j.groups).length || id !== R.cur.id) return;
+    if (isBM()) BM_DATA = j;
     const sameGroups = Object.keys(j.groups).sort().join() === Object.keys(G()).sort().join();
     DATA = j;
     buildCalendar();
     if (!sameGroups) buildGroups();
     render(); showMeta();
   } catch (e) { /* brak plan.json (np. podgląd lokalny) - zostaje kopia zapasowa */ }
-  finally { loading = false; }
+  finally { loading = false; if (id !== R.cur.id) loadRemote(); }
 }
-document.querySelectorAll("#subs button").forEach(b => b.onclick = () => { state.sub = b.dataset.sub; store.set("bm-sub", state.sub); render(); });
+document.querySelectorAll("#subs button").forEach(b => b.onclick = () => { state.sub = b.dataset.sub; store.set(subKey(), state.sub); render(); });
 document.querySelectorAll("#modes button").forEach(b => b.onclick = () => { state.mode = b.dataset.mode; render(); });
 
 /* ---------- Dodaj do kalendarza: subskrypcja pliku .ics (kalendarz/GRUPA-PODGRUPA.ics, robi go scripts/ics.mjs) ---------- */

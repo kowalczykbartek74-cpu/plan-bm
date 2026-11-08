@@ -14,6 +14,10 @@
 //
 // Gdy strona dziekanatu nie odpowiada, skrypt liczy zmiany z wpisów zapisanych przy poprzednim sprawdzeniu.
 // Uruchomienie lokalne bez internetu: node scripts/dziekanat.mjs --offline
+//
+// Inne roczniki (pliki kierunki/<id>.json z repo skrot-bm, scripts/kierunek.mjs):  node scripts/dziekanat.mjs --kierunki
+// Plan z plan/<id>.json, grupy z pliku kierunku, tylko komunikaty DOS (bez Teams, gdy plik tak mówi), adres sekcji DOS
+// z bazy Skrótu (nauka_roczniki_lista → wydzial.dos_url). Bez bazy: adres zapisany w planie przy poprzednim przebiegu.
 // Node 20+, bez zależności.
 import fs from "node:fs";
 import https from "node:https";
@@ -40,7 +44,13 @@ function request(url) {
     req.on("error", reject);
   });
 }
-async function get(url) {
+// W jednym przebiegu ta sama strona dziekanatu jest pobierana raz (kilka roczników z jednej sekcji DOS).
+const CACHE = new Map();
+function get(url) {
+  if (!CACHE.has(url)) CACHE.set(url, getNow(url).catch(e => { CACHE.delete(url); throw e; }));
+  return CACHE.get(url);
+}
+async function getNow(url) {
   let last;
   for (const wait of [0, 10, 30]) {
     if (wait) await new Promise(r => setTimeout(r, wait * 1000));
@@ -397,9 +407,9 @@ export function mergeTeams(posts, zmiany, teams) {
 }
 
 // ---------- główny przebieg ----------
-async function fetchPosts(known, old) {
+async function fetchPosts(known, old, source = SOURCE) {
   const relevant = [];
-  let url = SOURCE, pages = 0, total = 0;
+  let url = source, pages = 0, total = 0;
   while (url && pages < MAX_PAGES) {
     const html = await get(url);
     if (html === null) break;
@@ -428,8 +438,9 @@ async function fetchPosts(known, old) {
   return relevant;
 }
 
-function writeData(plan) {
-  fs.writeFileSync("plan.json", JSON.stringify(plan, null, 1) + "\n");
+function writeData(plan, K = BM) {
+  fs.writeFileSync(K.plik, JSON.stringify(plan, null, 1) + "\n");
+  if (!K.html) return;
   const html = fs.readFileSync("index.html", "utf8");
   const start = "/*PLAN_DATA_START*/", end = "/*PLAN_DATA_END*/";
   const i = html.indexOf(start), j = html.indexOf(end);
@@ -445,31 +456,55 @@ function describe(item, posts) {
   return `- ℹ️ ${d} komunikat: ${short(posts[item.post]?.text || posts[item.post]?.title || "", 160)}`;
 }
 
-async function main() {
+// Business Management: plan.json + kopia w index.html, sekcja DOS na Cukrowej, odwołania z Teams.
+const BM = { plik: "plan.json", html: true, teams: true, opis: "1. roku BM", grupy: g => /^C11\d$/.test(g), source: async () => SOURCE };
+
+// Adres sekcji DOS wydziału z bazy Skrótu (publiczna lista roczników, v31/v46).
+let ROCZNIKI_DB = null;
+async function dosUrl(wydzial, old) {
+  try {
+    ROCZNIKI_DB ||= await postJson(`${SKROT_DB.url}/rest/v1/rpc/nauka_roczniki_lista`, {}, { apikey: SKROT_DB.key, Authorization: `Bearer ${SKROT_DB.key}` });
+    const u = (ROCZNIKI_DB || []).map(r => r.wydzial).find(w => w?.kod === wydzial && /^https:\/\//.test(w.dos_url || ""))?.dos_url;
+    if (u) return u;
+    console.log(`Baza Skrótu nie zna sekcji DOS wydziału ${wydzial}.`);
+  } catch (e) { console.log(`Lista roczników z bazy Skrótu: ${e.message}.`); }
+  return old?.source || null;
+}
+
+export function zKonfiguracji(c) {
+  if (!c?.id || c.plik !== `plan/${c.id}.json` || !Array.isArray(c.grupy)) throw new Error(`Zła konfiguracja kierunku ${c?.id || "?"}`);
+  return {
+    plik: c.plik, html: false, teams: (c.odwolania || []).includes("teams"), opis: `${c.rok ? c.rok + ". roku " : ""}${c.kierunek?.pl || c.id}`,
+    grupy: g => c.grupy.includes(g), source: old => dosUrl(c.wydzial?.kod, old),
+  };
+}
+
+async function main(K = BM) {
   const offline = process.argv.includes("--offline");
-  const plan = JSON.parse(fs.readFileSync("plan.json", "utf8"));
-  const known = Object.keys(plan.groups || {}).filter(g => /^C11\d$/.test(g));
+  const plan = JSON.parse(fs.readFileSync(K.plik, "utf8"));
+  const known = Object.keys(plan.groups || {}).filter(K.grupy);
   const old = plan.dziekanat || null;
   // wpisy dziekanatu bez dopisanych odwołań z Teams (te liczymy osobno, niżej)
   const oldDz = old ? { ...old, posts: (old.posts || []).filter(p => p.src !== "teams") } : null;
   let posts, fetchError = null;
-  if (offline) posts = oldDz?.posts || [];
+  const source = offline ? old?.source || SOURCE : await K.source(oldDz);
+  if (offline || !source) posts = oldDz?.posts || [];
   else {
-    try { posts = await fetchPosts(known, oldDz); }
+    try { posts = await fetchPosts(known, oldDz, source); }
     catch (e) { fetchError = e; posts = oldDz?.posts || []; console.log(`Strona dziekanatu nie odpowiada (${e.message}). Liczę zmiany z zapisanych wpisów.`); }
   }
   posts = posts.map(({ url, title, ym, pub, text }) => ({ url, title, ym, ...(pub ? { pub } : {}), text: text || "" }));
   const zmiany = resolve(plan, posts);
-  const teams = await fetchTeams(old, offline);
+  const teams = K.teams ? await fetchTeams(old, offline) : [];
   const allPosts = mergeTeams(posts, zmiany, teams);
   if (teams.length) console.log(`Odwołania z Teams (zatwierdzone w Skrócie BM): ${teams.length}.`);
 
-  const next = { source: SOURCE, posts: allPosts, zmiany };
+  const next = { source: source || SOURCE, posts: allPosts, zmiany };
   const same = old && JSON.stringify({ ...old, updatedAt: undefined }) === JSON.stringify({ ...next, updatedAt: undefined });
   if (!same) {
     next.updatedAt = new Date().toISOString();
     plan.dziekanat = next;
-    writeData(plan);
+    writeData(plan, K);
   }
 
   // Nowe wpisy dla naszych grup → mail (Issue na GitHubie)
@@ -481,25 +516,43 @@ async function main() {
     if (items.length) lines.push(`### ${g}\n${items.map(it => describe(it, posts)).join("\n")}`);
   }
   if (fresh.length) {
-    const body = `Na stronie dziekanatu pojawiły się nowe komunikaty dla 1. roku BM.\n\n${lines.join("\n\n") || "_Nie udało się ich przypiąć do konkretnych zajęć, zajrzyj do wpisów._"}\n\n` +
+    const body = `Na stronie dziekanatu pojawiły się nowe komunikaty dla ${K.opis}.\n\n${lines.join("\n\n") || "_Nie udało się ich przypiąć do konkretnych zajęć, zajrzyj do wpisów._"}\n\n` +
       `Wpisy:\n${fresh.map(p => `- [${p.title}](${p.url}): ${short(p.text || "", 300)}`).join("\n")}\n\n` +
       `Plan na plan.skrotbm.pl już to pokazuje. Sprawdź, czy dobrze to odczytał.`;
-    fs.writeFileSync("dziekanat.md", body + "\n");
+    if (K.html) fs.writeFileSync("dziekanat.md", body + "\n");
+    else fs.appendFileSync("dziekanat.md", (fs.existsSync("dziekanat.md") ? "\n---\n\n" : "") + body + "\n");
   }
-  if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `changed=${!same}\nfresh=${fresh.length > 0}\n`);
 
   for (const g of Object.keys(zmiany)) {
     console.log(`\n${g}:`);
     for (const it of zmiany[g]) console.log("  " + describe(it, posts));
   }
-  console.log(same ? "\nBez zmian w komunikatach." : "\nZapisano komunikaty dziekanatu w plan.json.");
+  console.log(same ? "\nBez zmian w komunikatach." : `\nZapisano komunikaty dziekanatu w ${K.plik}.`);
   if (fetchError) {
     if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Strona dziekanatu nie odpowiada::${fetchError.message}`);
   }
+  return { changed: !same, fresh: fresh.length > 0 };
+}
+
+async function run() {
+  let wynik = { changed: false, fresh: false }, failed = false;
+  if (!process.argv.includes("--kierunki")) wynik = await main(BM);
+  else {
+    const pliki = fs.existsSync("kierunki") ? fs.readdirSync("kierunki").filter(f => f.endsWith(".json")).sort() : [];
+    for (const f of pliki) {
+      const c = JSON.parse(fs.readFileSync("kierunki/" + f, "utf8"));
+      console.log(`\n== ${c.id} ==`);
+      if (!fs.existsSync(c.plik)) { console.log(`Brak ${c.plik} (najpierw update-plan.mjs --wszystkie).`); continue; }
+      try { const w = await main(zKonfiguracji(c)); wynik = { changed: wynik.changed || w.changed, fresh: wynik.fresh || w.fresh }; }
+      catch (e) { console.error("BŁĄD:", c.id, e.message); failed = true; }
+    }
+  }
+  if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `changed=${wynik.changed}\nfresh=${wynik.fresh}\n`);
+  if (failed) throw new Error("Nie udało się odczytać komunikatów dla części roczników.");
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] || "").href) {
-  main().catch(err => {
+  run().catch(err => {
     console.error("BŁĄD:", err.message);
     if (process.env.GITHUB_ACTIONS) console.log(`::error title=Komunikaty dziekanatu::${err.message}`);
     process.exit(1);

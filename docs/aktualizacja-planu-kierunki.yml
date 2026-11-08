@@ -1,0 +1,170 @@
+name: Aktualizacja planu zajęć
+
+on:
+  schedule:
+    # GitHub liczy czas w UTC. 7:00 w Polsce to 5:00 UTC latem i 6:00 UTC zimą.
+    # Trzy poranne próby: gdy strona uczelni chwilowo nie odpowiada, kolejna to nadrobi.
+    - cron: "0 5 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 7 * * *"
+    # W ciągu dnia co godzinę tylko komunikaty dziekanatu (odwołane zajęcia, odrabianie): 8:20–19:20 zimą.
+    - cron: "20 7-18 * * *"
+  workflow_dispatch:        # ręczne uruchomienie: zakładka Actions → Run workflow
+  push:
+    branches: [main]
+    paths: ["index.html", "skrzynka.html", "plan.json", "kalendarz.json", "kierunki/**", "plan/**", "scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: aktualizacja-planu
+  cancel-in-progress: false
+
+jobs:
+  sprawdz-plan:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.plan.outputs.changed }}
+      publish: ${{ steps.decide.outputs.publish }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Pobierz plan ze strony uczelni
+        id: plan
+        if: github.event.schedule != '20 7-18 * * *'   # przebiegi co godzinę sprawdzają tylko dziekanat
+        continue-on-error: true   # awaria strony uczelni nie blokuje publikacji
+        timeout-minutes: 20
+        run: node scripts/update-plan.mjs
+
+      # Inne roczniki: konfiguracja w kierunki/<id>.json (z repo skrot-bm), plan w plan/<id>.json. Błąd jednego nie blokuje BM.
+      - name: Pobierz plany pozostałych roczników (kierunki/*.json)
+        id: plank
+        if: github.event.schedule != '20 7-18 * * *'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: node scripts/update-plan.mjs --wszystkie
+
+      - name: Lista roczników na stronie (wybór kierunku)
+        run: node scripts/kierunki.mjs
+
+      - name: Dołącz kalendarz roku (kalendarz.json)
+        id: kalendarz
+        run: node scripts/kalendarz.mjs
+
+      - name: Komunikaty dziekanatu (odwołania, odrabianie)
+        id: dz
+        continue-on-error: true   # awaria strony dziekanatu nie blokuje publikacji planu
+        timeout-minutes: 15
+        run: node scripts/dziekanat.mjs
+
+      - name: Komunikaty dziekanatu dla pozostałych roczników (tylko DOS)
+        id: dzk
+        continue-on-error: true
+        timeout-minutes: 15
+        run: node scripts/dziekanat.mjs --kierunki
+
+      - name: Pliki do kalendarza w telefonie (kalendarz/*.ics)
+        continue-on-error: true   # błąd w plikach kalendarza nie blokuje publikacji planu
+        run: node scripts/ics.mjs
+
+      - name: Zapisz nową wersję
+        run: |
+          git config user.name "plan-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add plan.json index.html kalendarz plan
+          if git diff --cached --quiet; then
+            echo "Nic do zapisania."
+          else
+            if [ "${{ steps.plan.outputs.changed }}" = "true" ] || [ "${{ steps.plank.outputs.changed }}" = "true" ]; then
+              git commit -m "Plan zajęć zmienił się na stronie uczelni"
+            elif [ "${{ steps.dz.outputs.changed }}" = "true" ] || [ "${{ steps.dzk.outputs.changed }}" = "true" ]; then
+              git commit -m "Komunikaty dziekanatu: odwołania i odrabianie"
+            elif [ "${{ steps.plan.outcome }}" = "failure" ]; then
+              git commit -m "Kalendarz roku zaktualizowany"
+            else
+              git commit -m "Sprawdzenie planu: bez zmian"
+            fi
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Powiadom o zmianie (mail z GitHuba)
+        if: steps.plan.outputs.changed == 'true' || steps.plank.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('zmiany.md', 'utf8');
+            const day = new Date().toLocaleDateString('pl-PL', { timeZone: 'Europe/Warsaw' });
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Plan zajęć się zmienił (${day})`,
+              body,
+              assignees: [context.repo.owner]
+            });
+
+      - name: Powiadom o nowych komunikatach dziekanatu (mail z GitHuba)
+        if: steps.dz.outputs.fresh == 'true' || steps.dzk.outputs.fresh == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('dziekanat.md', 'utf8');
+            const day = new Date().toLocaleDateString('pl-PL', { timeZone: 'Europe/Warsaw' });
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Dziekanat: nowe odwołania lub odrabianie (${day})`,
+              body,
+              assignees: [context.repo.owner]
+            });
+
+      - name: Czy publikować stronę
+        id: decide
+        run: |
+          # przebieg co godzinę publikuje tylko wtedy, gdy coś się zmieniło
+          if [ "${{ github.event.schedule }}" = "20 7-18 * * *" ] && [ "${{ steps.dz.outputs.changed }}" != "true" ] && [ "${{ steps.dzk.outputs.changed }}" != "true" ]; then
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Przygotuj stronę
+        if: steps.decide.outputs.publish == 'true'
+        run: |
+          mkdir -p _site
+          cp index.html skrzynka.html plan.json kalendarz.json CNAME _site/
+          cp -r kalendarz _site/
+          if [ -d plan ]; then cp -r plan _site/; fi
+          touch _site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.decide.outputs.publish == 'true'
+        with:
+          path: _site
+
+      - name: Zgłoś błąd pobierania planu
+        if: steps.plan.outcome == 'failure'
+        run: |
+          echo "::error title=Nie udało się pobrać planu z uczelni::Strona z planem działa na poprzednich danych. Kolejna próba przy następnym uruchomieniu."
+          exit 1
+
+  opublikuj:
+    needs: sprawdz-plan
+    if: ${{ !cancelled() && needs.sprawdz-plan.outputs.publish == 'true' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

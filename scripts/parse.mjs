@@ -61,7 +61,7 @@ function applyFreeRest(e, rest, years) {
   if (godz) { e.time = [`${+godz[1]}:${godz[2]}`, `${+godz[3]}:${godz[4]}`]; r = r.replace(godz[0], " "); }
   const miejsce = r.match(/miejsce:\s*([\s\S]+)$/i);
   if (miejsce) { e.r = miejsce[1].replace(/\s+/g, " ").trim(); r = r.slice(0, miejsce.index); }
-  const data = r.match(/data:\s*([\s\S]+)$/i);
+  const data = r.match(/(?:data|daty zajęć):\s*([\s\S]+)$/i);
   let dates = [];
   if (data) { dates = parseDates(data[1], years); r = r.slice(0, data.index); }
   else { dates = parseDates(r, years); r = r.replace(/\b\d{1,2}\.\d{1,2}(?:\.\d{4})?(?:\s*r\.?)?/g, " "); }
@@ -102,8 +102,9 @@ export function parseEntry(chunk, years) {
     let rest = lines.slice(1).join("\n");
     const cut = title.search(/\s\d{1,2}\.\d{1,2}(?:\.\d{4})?|\smiejsce:|\sGODZ\.|\sdata:/i);
     if (cut > 0) { rest = title.slice(cut) + "\n" + rest; title = title.slice(0, cut); }
-    const t = title.match(/^(.*?)\s*\((W|ĆW|LB|K|S)\)\s*$/);
-    if (t) { title = t[1]; e.k = TYPES[t[2]]; } else e.k = "X";
+    // Kierunki z samą polską nazwą (np. Zarządzanie): „PODSTAWY FINANSÓW (LB) GRUPA A”, „OCHRONA … (W e-learning)”
+    const t = title.match(/^(.*?)\s*\((W|ĆW|LB|K|S)(?:\s+([^()]+?))?\)\s*(?:GRUPA\s+([A-Z]))?\s*$/);
+    if (t) { title = t[1]; e.k = TYPES[t[2]]; if (t[4]) e.g = t[4]; if (t[3]) e.tag = t[3]; } else e.k = "X";
     e.pl = plCase(title.trim());
     if (lect.length) e.p = lect.join(", ");
     if (rooms.length) e.r = rooms.join(", ");
