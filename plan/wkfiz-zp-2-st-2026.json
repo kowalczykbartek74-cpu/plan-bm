@@ -1,0 +1,817 @@
+{
+ "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
+ "wersja": "dane-6787b84ffceb",
+ "kierunek": "Zdrowie publiczne",
+ "kierunekEn": "Public Health",
+ "id": "wkfiz-zp-2-st-2026",
+ "kod": "zpm26",
+ "wydzial": "WKFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:02:48.239Z",
+ "checkedAt": "2026-11-08T21:02:48.239Z",
+ "groups": {
+  "ZP1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "biologia człowieka",
+     "k": "W",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "biologia człowieka",
+     "k": "LAB",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "e-zdrowie",
+     "k": "CW",
+     "p": "dr Halina Budis",
+     "r": "s. 120",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "19:15"
+     ],
+     "pl": "prawo w ochronie zdrowia",
+     "k": "K",
+     "p": "dr Michał Białkowski",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-11-02"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "e-zdrowie",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "W",
+     "p": "dr hab n.med. Marek Bulsa, prof. US",
+     "r": "s. 201"
+    },
+    {
+     "d": 1,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s.1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia medycyny 20k, k",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 218"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 313"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 201"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "W",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 119",
+     "dates": [
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "W",
+     "p": "dr Joanna Furmańska",
+     "r": "ul.Krakowska 71-79, sala 108",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biostatystyka",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 127 komputerowa"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "biostatystyka",
+     "k": "LAB",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 127 komputerowa"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "bioetyka",
+     "k": "K",
+     "p": "dr hab. Ewa Rębacz-Maron, prof.US",
+     "r": "s. 26"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Iwona Bonisławska",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Iwona Bonisławska",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-13",
+      "2026-11-27",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "s. 101"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "biologia człowieka",
+     "k": "W",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "biologia człowieka",
+     "k": "LAB",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "e-zdrowie",
+     "k": "CW",
+     "p": "dr Halina Budis",
+     "r": "s. 120",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "19:15"
+     ],
+     "pl": "prawo w ochronie zdrowia",
+     "k": "K",
+     "p": "dr Michał Białkowski",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-11-02"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "e-zdrowie",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "W",
+     "p": "dr hab n.med. Marek Bulsa, prof. US",
+     "r": "s. 201"
+    },
+    {
+     "d": 1,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s.1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia medycyny 20k, k",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 218"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 313"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 201"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "W",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 119",
+     "dates": [
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "W",
+     "p": "dr Joanna Furmańska",
+     "r": "ul.Krakowska 71-79, sala 108",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biostatystyka",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 127 komputerowa"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "biostatystyka",
+     "k": "LAB",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 127 komputerowa"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "bioetyka",
+     "k": "K",
+     "p": "dr hab. Ewa Rębacz-Maron, prof.US",
+     "r": "s. 26"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Iwona Bonisławska",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Iwona Bonisławska",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-13",
+      "2026-11-27",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "s. 101"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

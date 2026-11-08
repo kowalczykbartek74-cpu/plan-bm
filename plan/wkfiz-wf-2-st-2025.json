@@ -1,0 +1,927 @@
+{
+ "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
+ "wersja": "dane-31be744f1495",
+ "kierunek": "Wychowanie fizyczne",
+ "kierunekEn": "Physical Education",
+ "id": "wkfiz-wf-2-st-2025",
+ "kod": "wfm25",
+ "wydzial": "WKFiZ",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:02:48.239Z",
+ "checkedAt": "2026-11-08T21:02:48.239Z",
+ "groups": {
+  "WF2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "07:00",
+      "08:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ   al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:45",
+      "10:15"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Katarzyna Kotarska, prof.US",
+     "r": "s. 201",
+     "pg": "gr4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotuw szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 120",
+     "pg": "ć1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 119",
+     "pg": "ćs1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 119",
+     "pg": "ćs2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "blok do wyboru B: brydż sportowy",
+     "k": "CW",
+     "p": "mgr Paweł Stężała",
+     "r": "ul. Mickiewicza 64, sala 005",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "blok do wyboru B: brydż sportowy",
+     "k": "CW",
+     "p": "mgr Paweł Stężała",
+     "r": "ul. Mickiewicza 64, sala 005,",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Teresa Zwierko",
+     "r": "laboratorium Kinezjologii, CBSFC ul.Narutowicza 17C, pokazy naukowe",
+     "pg": "gr1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "Szkoła ponadpodstawowa",
+     "pg": "lb1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "Szkoła ponadpodstawowa",
+     "pg": "lb2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "moduł do wyboru: aktywność fizyczna osób w starszym wieku",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "salka 13, hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotuw szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 218",
+     "pg": "ć1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 223",
+     "pg": "ć2",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 218",
+     "pg": "ć2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 119",
+     "pg": "ć1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "moduł do wyboru: aktywność fizyczna osób w starszym wieku",
+     "k": "W",
+     "p": "dr Joanna Ratajczak",
+     "r": "s. 119"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "język angielski",
+     "k": "X",
+     "p": "mgr Mirosław Mikołajczyk",
+     "r": "s. 1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "W",
+     "p": "dr Jarosław Muracki",
+     "r": "s. 313"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "język niemiecki",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ ul.Wawrzyniaka 15, sala 107"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Jerzy Eider, prof. US",
+     "r": "s. 120",
+     "pg": "gr3"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotuw szkole ponadpodstawowej",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 218"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 218",
+     "pg": "ć2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab Leonard Nowak",
+     "r": "s. 223",
+     "pg": "gr2"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "moduł: odnowa biologiczna w sporcie",
+     "k": "W",
+     "p": "dr Beata Buryta",
+     "r": "s. 328 masażu"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "moduł: odnowa biologiczna w sporcie",
+     "k": "CW",
+     "p": "dr Beata Buryta",
+     "r": "REHBET  ul.Cedyńska 3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "język angielski",
+     "k": "X",
+     "p": "mgr Mirosław Mikołajczyk",
+     "r": "s. 101"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "moduł: odnowa biologiczna w sporcie",
+     "k": "CW",
+     "p": "mgr Małgorzata Wall",
+     "r": "s. 328 masażu"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "07:00",
+      "08:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ   al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:45",
+      "10:15"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Katarzyna Kotarska, prof.US",
+     "r": "s. 201",
+     "pg": "gr4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotuw szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 120",
+     "pg": "ć1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 119",
+     "pg": "ćs1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 119",
+     "pg": "ćs2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "blok do wyboru B: brydż sportowy",
+     "k": "CW",
+     "p": "mgr Paweł Stężała",
+     "r": "ul. Mickiewicza 64, sala 005",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "blok do wyboru B: brydż sportowy",
+     "k": "CW",
+     "p": "mgr Paweł Stężała",
+     "r": "ul. Mickiewicza 64, sala 005,",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Teresa Zwierko",
+     "r": "laboratorium Kinezjologii, CBSFC ul.Narutowicza 17C, pokazy naukowe",
+     "pg": "gr1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "Szkoła ponadpodstawowa",
+     "pg": "lb1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "Szkoła ponadpodstawowa",
+     "pg": "lb2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "moduł do wyboru: aktywność fizyczna osób w starszym wieku",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "salka 13, hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotuw szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 218",
+     "pg": "ć1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 223",
+     "pg": "ć2",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 218",
+     "pg": "ć2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 119",
+     "pg": "ć1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "moduł do wyboru: aktywność fizyczna osób w starszym wieku",
+     "k": "W",
+     "p": "dr Joanna Ratajczak",
+     "r": "s. 119"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "język angielski",
+     "k": "X",
+     "p": "mgr Mirosław Mikołajczyk",
+     "r": "s. 1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "W",
+     "p": "dr Jarosław Muracki",
+     "r": "s. 313"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "język niemiecki",
+     "k": "X",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "ACKJ ul.Wawrzyniaka 15, sala 107"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Jerzy Eider, prof. US",
+     "r": "s. 120",
+     "pg": "gr3"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotuw szkole ponadpodstawowej",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 218"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "KPdWZN: dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 218",
+     "pg": "ć2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab Leonard Nowak",
+     "r": "s. 223",
+     "pg": "gr2"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "moduł: odnowa biologiczna w sporcie",
+     "k": "W",
+     "p": "dr Beata Buryta",
+     "r": "s. 328 masażu"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "moduł: odnowa biologiczna w sporcie",
+     "k": "CW",
+     "p": "dr Beata Buryta",
+     "r": "REHBET  ul.Cedyńska 3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "język angielski",
+     "k": "X",
+     "p": "mgr Mirosław Mikołajczyk",
+     "r": "s. 101"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "moduł: odnowa biologiczna w sporcie",
+     "k": "CW",
+     "p": "mgr Małgorzata Wall",
+     "r": "s. 328 masażu"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

@@ -83,6 +83,12 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
 - Strona: krok **Wydział** pojawia się, gdy plany ma więcej niż jeden wydział; adres `#/<wydział bez ogonków>/<kod>/<rok>/<grupa>`
   (np. `#/wnsip/mat/1/1`), kod niestacjonarnych z „n” (`bnn26`). Kierunki z `config/kierunki-us.json` bez planu są na liście
   w grupie „Plan jeszcze niedostępny” (link do planów wydziału i lista oczekujących). `kierunki.mjs` wstawia też blok `US_START/US_END`.
+- **WKFiZ (Etap 3):** `scripts/us/wkfiz.mjs` czyta jedno zapytanie `planyzajec-kfz.usz.edu.pl/api/get_schedule.php` (wszystkie zajęcia
+  stacjonarne). Grupa aplikacji („WF 1 rok I stopień”) = rocznik z `config/kierunki-us.json`, w planie jedna grupa („WF1”).
+  Z nazwy przedmiotu: prawdziwa godzina („8:00-9:30;”), podgrupa („1ćs”, „2lb”, „3ć”, „[4gr]”) → opcjonalne pole `pg`
+  (np. `"ćs1"`) i terminy („8.10-25.01.27”, „3,10.11; 1.12”) → `dates`. Na stronie wiersz „Twoje podgrupy” (wybór dla każdego
+  rodzaju, zapamiętany dla rocznika); plany bez `pg` (WEFiZ, BM) wyglądają jak dotąd. Grupa „ERASMUS +” jest pomijana.
+  Terminy, których nie da się dopasować do dnia tygodnia (błąd w danych uczelni), zostają jako notka.
 - Komunikaty DOS: grupy C i M, numery 1xx–6xx (wszystkie lata i II stopień); rocznik z grupami „M…” bierze sekcję DOS
   Mickiewicza (także z pliku `kierunki/` bez pola `dos`).
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”

@@ -23,6 +23,7 @@
       "kod": "wkfiz", "skrot": "WKFiZ", "pl": "Wydział Kultury Fizycznej i Zdrowia", "en": "Faculty of Physical Culture and Health",
       "oferta": "Wydział Kultury Fizycznej i Zdrowia",
       "parser": "wkfiz",
+      "importer": "wkfiz.mjs",
       "strony": [
         { "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php", "tryb": "st", "format": "json" },
         { "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php", "tryb": "nst", "format": "json" }
