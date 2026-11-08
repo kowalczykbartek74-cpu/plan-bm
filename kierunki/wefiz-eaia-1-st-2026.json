@@ -1,0 +1,31 @@
+{
+  "opis": "Wygenerowane w skrot-bm: node scripts/kierunek.mjs kierunki/wefiz-eaia-1-st-2026.json. Nie edytuj ręcznie.",
+  "id": "wefiz-eaia-1-st-2026",
+  "kod": "eaia26",
+  "wydzial": {
+    "kod": "WEFiZ",
+    "pl": "Wydział Ekonomii, Finansów i Zarządzania",
+    "en": "Faculty of Economics, Finance and Management"
+  },
+  "kierunek": {
+    "kod": "EAIA",
+    "pl": "Economics and IT Applications",
+    "en": "Economics and IT Applications"
+  },
+  "stopien": 1,
+  "tryb": "st",
+  "nabor": 2026,
+  "rok": 1,
+  "system": {
+    "nazwa": "Economics and IT Applications (EaIA)",
+    "rok": "1 rokI"
+  },
+  "grupy": [
+    "M190"
+  ],
+  "plik": "plan/wefiz-eaia-1-st-2026.json",
+  "odwolania": [
+    "dos"
+  ],
+  "dos": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/"
+}
