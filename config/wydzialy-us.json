@@ -6,7 +6,8 @@
   ],
   "kody": {
     "_opis": "Kody kierunków, które już istnieją w Skrócie (nauka_kierunki.kod) – mają pierwszeństwo przed skrótem z nazwy pliku.",
-    "wpia": { "Prawo": "PRAWO" },
+    "wpia": { "Prawo": "PRAWO", "Administracja": "ADM" },
+    "_wpia": "ADM = propozycja (źródło podaje tylko „A”), do potwierdzenia przez Bartka",
     "wh": { "Filologia romańska z językiem obcym do wyboru": "FRZJO" },
     "_wh": "FRZJO = propozycja (skrót pliku FRZJOdW ma 7 liter), do potwierdzenia przez Bartka"
   },
@@ -68,6 +69,7 @@
       "kod": "wpia", "skrot": "WPiA", "pl": "Wydział Prawa i Administracji", "en": "Faculty of Law and Administration",
       "oferta": "Wydział Prawa i Administracji",
       "parser": "wpia",
+      "importer": "wpia-pdf.mjs",
       "strony": [
         { "url": "https://wpia.usz.edu.pl/rozklady-zajec/", "tryb": "st+nst", "format": "pdf" }
       ],

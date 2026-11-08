@@ -99,6 +99,11 @@ Strona ma wybór **Kierunek → Rok → Grupa**. BM zostaje pod `plan.json` (bez
   (`node scripts/us/wh-pilot.mjs`, 10 losowych zajęć plik ↔ plan, zrzuty w `docs/wh-pilot/`), kontrola pozostałych plików:
   `docs/wh-kontrola.md` (`--bez-pilota --ile 20`). Jedna komórka bywa kilkoma zajęciami (linia kresek, „ / ” między
   prowadzącymi, dwa „(zajęcia w terminie: …)”) – importer je rozdziela. Lata roczników WH inwentarz bierze z arkuszy pliku.
+- **Plany z PDF (Etap 5, WPiA):** `scripts/us/pdf_tekst.py` (PyMuPDF) daje słowa z pozycjami i prostokąty, `scripts/us/wpia-pdf.mjs`
+  składa z nich siatkę (dni z linii przy nagłówku, bloki godzin, kolorowe komórki pocięte czarnymi liniami) i zajęcia (skróty
+  z „[WP]” i legendy, grupy → `pg`, terminy → `dates`, wyjątki do notki). Wynik **zawsze idzie do kolejki zatwierdzeń**
+  (`scripts/us/kolejka.mjs`, baza Skrótu v50 – instrukcja `docs/kolejka-pdf.md`); na stronę trafia dopiero plan zatwierdzony
+  w zdawalni.pl → Importy. Pilot: `docs/wpia-pilot.md`. Bez PyMuPDF wydział jest pomijany (workflow: `docs/aktualizacja-planu-us.yml`).
 - Komunikaty DOS: grupy C i M, numery 1xx–6xx (wszystkie lata i II stopień); rocznik z grupami „M…” bierze sekcję DOS
   Mickiewicza (także z pliku `kierunki/` bez pola `dos`).
 - Codzienny automat przy innych rocznikach niż BM pobiera grupy tylko wtedy, gdy uczelnia zmieniła „Aktualizacja planu”

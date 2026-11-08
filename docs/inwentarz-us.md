@@ -179,7 +179,7 @@ Strony: [st+nst](https://wpia.usz.edu.pl/rozklady-zajec/). DOS: [narutowicza](ht
 
 | Kierunek | Kod | Skróty w źródłach | Oferta 2026/27 | Stopnie w źródłach | Tryby | Lata z planem | Uwagi |
 |---|---|---|---|---|---|---|---|
-| Administracja | **?** | A | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 · nst I: 1,2,3; II: 1 |  |
+| Administracja | `ADM` | A | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 · nst I: 1,2,3; II: 1 |  |
 | Ekonomiczno-prawny | `EP` | EP | — | I, II | st | st I: 1,2,3; II: 1,2 | w ofercie jako kierunek Wydział Ekonomii, Finansów i Zarządzania – jeden rocznik z id tego wydziału |
 | International and European Business Law | `IEBL` | IEBL | II st | II | st | st II: 1,2 |  |
 | Prawo | `PRAWO` | P, N | I/jm nst/st | jm | nst, st | st jm: 1,2,3,4,5 · nst jm: 1,2,3,4,5 |  |
@@ -205,8 +205,7 @@ Błędy pobierania: `Wychowanie-fizyczne-2026-27a.pdf`: brak pliku (404).
 5. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 6. WNS: „Pedagogika specjalna” – skrót ze źródła „PEDSPEC” ma 7 liter (kod musi mieć 2–6). Propozycja: PEDSPE?
 7. WNŚiP: „Biotechnologia” – skrót ze źródła „biotech” ma 7 liter (kod musi mieć 2–6). Propozycja: BIOTEC?
-8. WPiA: „Administracja” – skrót ze źródła „A” ma 1 liter (kod musi mieć 2–6). Propozycja: AX?
-9. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
-10. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
+8. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
+9. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
 
 Zapytania: sieć 0, HEAD 0, cache 191. Pliki: 180 (nowo pobrane 0, błędy 1).

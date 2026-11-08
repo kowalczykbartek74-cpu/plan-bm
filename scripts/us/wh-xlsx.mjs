@@ -54,7 +54,7 @@ export function rocznikArkusza(ark) {
 }
 
 // ---------- godzina i daty z tekstu ----------
-const czyGodzina = (h, m) => +h >= 7 && +h <= 21 && ["00", "15", "30", "45"].includes(m);
+export const czyGodzina = (h, m) => +h >= 7 && +h <= 21 && ["00", "15", "30", "45"].includes(m);
 // własna godzina zajęć z tekstu: „od 8.15-10.30”, „od godz. 13.15 - 14.45”, „[ 19.00-20.30]”, „19:00–20:30”, „13.30-17.45[5h]”
 export function godzinaZTekstu(t) {
   for (const m of String(t).matchAll(/(\d{1,2})[:.](\d{2})\s*(?:[-–]|\s+do\s+)\s*(\d{1,2})[:.](\d{2})/g)) {
@@ -140,7 +140,7 @@ export function datyZTekstu(t, d, sem, startRoku = 2026) {
 
 // ---------- tekst komórki: grupa, rodzaj, prowadzący, sala, przedmiot ----------
 const TYTUL = String.raw`(?:prof\.\s*(?:dr\s*)?(?:hab\.?\s*)?|dr\s+hab\.?\s*|dr\s*inż\.?\s*|dr\.?\s+|mgr\s*inż\.?\s*|mgr\.?\s+)`;
-const OSOBA_RE = new RegExp(String.raw`${TYTUL}(?:(?!(?:WNŚiP|WH|IH|WKFiZ|PNJA|ACKJ|Aula)\b)[A-ZŁŚŻŹĆŃÓ][\wąćęłńóśźżĄĆĘŁŃÓŚŹŻ'.-]*\.?\s*(?:-\s*)?){1,4}(?:,\s*prof\.?\s*US)?`, "g");
+export const OSOBA_RE = new RegExp(String.raw`${TYTUL}(?:(?!(?:WNŚiP|WH|IH|WKFiZ|PNJA|ACKJ|Aula)\b)[A-ZŁŚŻŹĆŃÓ][\wąćęłńóśźżĄĆĘŁŃÓŚŹŻ'.-]*\.?\s*(?:-\s*)?){1,4}(?:,\s*prof\.?\s*US)?`, "g");
 const SALA_RE = /(?:Kampus\s+Piastów\s*(?:WH)?\s*,?\s*(?:bud\.\s*\d+\s*,?\s*)?)?(?:al\.\s*Piastów\s*\d+[a-z]?\s*,?\s*(?:bud\.\s*(?:nr\s*)?\d+\s*,?\s*)?)?(?:(?:ul\.?\s*)?(?:Wielkopolska|Wielkopolskiej|Krakowska)\s*\d*[-\d]*(?:\s*-\s*WNŚiP)?\s*,?\s*)?(?:\(?WNŚiP\)?\s*,?\s*)?(?:Aula[^,;]*|\broom\s+\d+[A-Za-z]*(?:\s*WH\b)?|\bgabinet\s+\d+(?:\s*,?\s*bud\.\s*\d+(?:\s*(?:WH|Wh|WKFiZ|WNS)\b)?)?|\bgab\.\s*\d+[A-Za-z]*(?:\s*\((?:IH|[A-ZŚ]{1,6})\))?|\bs(?:ala|\.)\s*\.?\s*[A-Z]?\d+(?:-\d+)?[A-Za-z0-9/*]*(?:\s*\((?:IH|[A-ZŚ]{1,6})\))?(?:\.?\s*,?\s*(?:WH\s*)?bud\.\s*\d+(?:\s*(?:WH|Wh|WKFiZ|WNS)\b)?)?(?:\s*WH\b)?)/gi;
 const SPEC = { transl: "translatoryczna", naucz: "nauczycielska" };
 export function grupaZTekstu(t) {

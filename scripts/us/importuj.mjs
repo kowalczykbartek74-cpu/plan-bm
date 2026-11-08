@@ -48,7 +48,8 @@ export async function importujWydzial(kod, { tylko = null, naSucho = false, log 
         id: r.id, kod: r.kod, wydzial: w.skrot, rok: r.rok, stopien: r.stopien, tryb: r.tryb,
         ...(r.rokAkademicki ? { rokAkademicki: r.rokAkademicki } : {}), ...(r.semestr ? { semestr: r.semestr } : {}) };
       const z = zapiszPlan(path.join(planDir, `${r.id}.json`), r.groups, meta, { teraz, naSucho, czekaNaZatwierdzenie: !!r.zatwierdzenie });
-      stan.push({ ...wpis, status: statusOgolny(z.status), szczegoly: z.status, grupy: z.grupy, zajec: z.zajec, ...(z.blad ? { blad: z.blad } : {}) });
+      stan.push({ ...wpis, status: statusOgolny(z.status), szczegoly: z.status, grupy: z.grupy, zajec: z.zajec, ...(z.blad ? { blad: z.blad } : {}),
+        ...(r.kolejka ? { kolejka: r.kolejka } : {}) });
     } catch (e) { stan.push({ ...wpis, status: "błąd", blad: e.message }); }
   }
   return { wydzial: kod, stan };
@@ -72,7 +73,7 @@ async function main(argv) {
   const stan = argv.includes("--wszystkie") ? await importujWszystkie({ tylko, naSucho })
     : wi >= 0 ? (await importujWydzial(argv[wi + 1], { tylko, naSucho })).stan : null;
   if (!stan) { console.error("Użycie: node scripts/us/importuj.mjs --wydzial <kod> [--tylko id,id] [--na-sucho] | --wszystkie"); process.exit(2); }
-  for (const s of stan) console.log(`${s.id}: ${s.status}${s.szczegoly && s.szczegoly !== s.status ? ` (${s.szczegoly})` : ""}${s.grupy != null ? `, grup ${s.grupy}, zajęć ${s.zajec}` : ""}${s.blad ? " — " + s.blad : ""}`);
+  for (const s of stan) console.log(`${s.id}: ${s.status}${s.szczegoly && s.szczegoly !== s.status ? ` (${s.szczegoly})` : ""}${s.grupy != null ? `, grup ${s.grupy}, zajęć ${s.zajec}` : ""}${s.kolejka ? `, do decyzji ${s.kolejka.doDecyzji}/${s.kolejka.pozycji}${s.kolejka.wyslany ? ", wysłany do kolejki" : s.kolejka.blad ? ", kolejka: " + s.kolejka.blad : ", szkic lokalnie (bez PLAN_IMPORT_TOKEN)"}` : ""}${s.blad ? " — " + s.blad : ""}`);
   if (naSucho) console.log("Na sucho: nic nie zapisane.");
   if (stan.some((s) => s.status === "błąd")) process.exit(1);
 }

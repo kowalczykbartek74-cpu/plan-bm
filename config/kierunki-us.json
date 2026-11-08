@@ -4570,7 +4570,7 @@
    "pl": "Wydział Prawa i Administracji",
    "kierunki": [
     {
-     "kod": null,
+     "kod": "ADM",
      "pl": "Administracja",
      "en": "Administration",
      "stopnie": [
@@ -4597,9 +4597,10 @@
       "url": "https://kandydaci.usz.edu.pl/studia-i-stopnia-i-j/administracja/"
      },
      "maZrodlo": true,
+     "zrodloKodu": "kod istniejący w Skrócie (nauka_kierunki)",
      "roczniki": [
       {
-       "id": null,
+       "id": "wpia-adm-1-nst-2026",
        "stopien": 1,
        "tryb": "nst",
        "rok": 1,
@@ -4607,7 +4608,7 @@
        "nabor": 2026
       },
       {
-       "id": null,
+       "id": "wpia-adm-1-nst-2025",
        "stopien": 1,
        "tryb": "nst",
        "rok": 2,
@@ -4615,7 +4616,7 @@
        "nabor": 2025
       },
       {
-       "id": null,
+       "id": "wpia-adm-1-nst-2024",
        "stopien": 1,
        "tryb": "nst",
        "rok": 3,
@@ -4623,7 +4624,7 @@
        "nabor": 2024
       },
       {
-       "id": null,
+       "id": "wpia-adm-1-st-2026",
        "stopien": 1,
        "tryb": "st",
        "rok": 1,
@@ -4631,7 +4632,7 @@
        "nabor": 2026
       },
       {
-       "id": null,
+       "id": "wpia-adm-1-st-2025",
        "stopien": 1,
        "tryb": "st",
        "rok": 2,
@@ -4639,7 +4640,7 @@
        "nabor": 2025
       },
       {
-       "id": null,
+       "id": "wpia-adm-1-st-2024",
        "stopien": 1,
        "tryb": "st",
        "rok": 3,
@@ -4647,7 +4648,7 @@
        "nabor": 2024
       },
       {
-       "id": null,
+       "id": "wpia-adm-2-nst-2026",
        "stopien": 2,
        "tryb": "nst",
        "rok": 1,
@@ -4655,7 +4656,7 @@
        "nabor": 2026
       },
       {
-       "id": null,
+       "id": "wpia-adm-2-st-2026",
        "stopien": 2,
        "tryb": "st",
        "rok": 1,
@@ -4663,7 +4664,7 @@
        "nabor": 2026
       },
       {
-       "id": null,
+       "id": "wpia-adm-2-st-2025",
        "stopien": 2,
        "tryb": "st",
        "rok": 2,
