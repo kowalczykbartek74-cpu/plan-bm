@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-09T20:16:42.315Z",
+ "at": "2026-11-09T20:29:51.522Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -3216,8 +3216,8 @@
    "kolejka": {
     "pozycji": 44,
     "doDecyzji": 44,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3232,8 +3232,8 @@
    "kolejka": {
     "pozycji": 34,
     "doDecyzji": 34,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3248,8 +3248,8 @@
    "kolejka": {
     "pozycji": 33,
     "doDecyzji": 33,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3264,8 +3264,8 @@
    "kolejka": {
     "pozycji": 43,
     "doDecyzji": 43,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3280,8 +3280,8 @@
    "kolejka": {
     "pozycji": 37,
     "doDecyzji": 37,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3296,8 +3296,8 @@
    "kolejka": {
     "pozycji": 31,
     "doDecyzji": 31,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3312,8 +3312,8 @@
    "kolejka": {
     "pozycji": 34,
     "doDecyzji": 34,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3328,8 +3328,8 @@
    "kolejka": {
     "pozycji": 27,
     "doDecyzji": 27,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3344,8 +3344,8 @@
    "kolejka": {
     "pozycji": 45,
     "doDecyzji": 45,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3360,8 +3360,8 @@
    "kolejka": {
     "pozycji": 37,
     "doDecyzji": 37,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3376,8 +3376,8 @@
    "kolejka": {
     "pozycji": 42,
     "doDecyzji": 42,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3392,8 +3392,8 @@
    "kolejka": {
     "pozycji": 21,
     "doDecyzji": 21,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3408,8 +3408,8 @@
    "kolejka": {
     "pozycji": 27,
     "doDecyzji": 27,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3424,8 +3424,8 @@
    "kolejka": {
     "pozycji": 25,
     "doDecyzji": 25,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3440,8 +3440,8 @@
    "kolejka": {
     "pozycji": 27,
     "doDecyzji": 27,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3456,8 +3456,8 @@
    "kolejka": {
     "pozycji": 23,
     "doDecyzji": 23,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3472,8 +3472,8 @@
    "kolejka": {
     "pozycji": 26,
     "doDecyzji": 26,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3488,8 +3488,8 @@
    "kolejka": {
     "pozycji": 33,
     "doDecyzji": 33,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3504,8 +3504,8 @@
    "kolejka": {
     "pozycji": 31,
     "doDecyzji": 31,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3520,8 +3520,8 @@
    "kolejka": {
     "pozycji": 34,
     "doDecyzji": 34,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3536,8 +3536,8 @@
    "kolejka": {
     "pozycji": 24,
     "doDecyzji": 24,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3552,8 +3552,8 @@
    "kolejka": {
     "pozycji": 13,
     "doDecyzji": 13,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3568,8 +3568,8 @@
    "kolejka": {
     "pozycji": 29,
     "doDecyzji": 29,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3584,8 +3584,8 @@
    "kolejka": {
     "pozycji": 23,
     "doDecyzji": 23,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3600,8 +3600,8 @@
    "kolejka": {
     "pozycji": 27,
     "doDecyzji": 27,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3616,8 +3616,8 @@
    "kolejka": {
     "pozycji": 23,
     "doDecyzji": 23,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
@@ -3632,8 +3632,8 @@
    "kolejka": {
     "pozycji": 25,
     "doDecyzji": 25,
-    "wyslany": false,
-    "blad": "bad_sha"
+    "wyslany": true,
+    "blad": null
    }
   },
   {
