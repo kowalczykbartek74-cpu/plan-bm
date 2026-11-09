@@ -317,6 +317,9 @@ export async function importujNst({ zrodla, kierunki, pobieracz, log = () => {} 
       if (!lista?.length) { wyniki.push({ id: r.id, kierunek: { pl: k.pl }, blad: `${z.plik}: brak zajęć ${r.stopien} st. ${r.rok} roku` }); continue; }
       // arkusz z datami spoza harmonogramu (np. zeszłoroczny) – zły plan jest gorszy niż brak planu
       const daty = [...new Set(lista.flatMap((x) => x.daty))], poza = zjazdy.length ? daty.filter((d) => !dzienZjazdu(zjazdy, d)) : [];
+      // bez harmonogramu (albo z nim) – daty poza bieżącym semestrem z kalendarz.json też odrzucają rocznik (plik z innego semestru)
+      const pozaSem = daty.filter((d) => d < sem.od || d > sem.do);
+      if (pozaSem.length > daty.length / 2) { wyniki.push({ id: r.id, kierunek: { pl: k.pl }, blad: `${z.plik}: ${pozaSem.length} z ${daty.length} dni poza semestrem ${sem.nazwa} (${sem.od}–${sem.do}) – plik z innego semestru?` }); continue; }
       if (poza.length > daty.length / 2) { wyniki.push({ id: r.id, kierunek: { pl: k.pl }, blad: `${z.plik}: ${poza.length} z ${daty.length} dni poza harmonogramem zjazdów (np. ${poza.slice(0, 2).join(", ")}) – arkusz z innego roku?` }); continue; }
       if (poza.length) log(`WH nst ${r.id}: ${poza.length} dni poza harmonogramem (${poza.join(", ")}) – zostają`);
       const groups = {}, g = (k.kod || "").toUpperCase() + r.rok;

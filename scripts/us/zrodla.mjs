@@ -3,6 +3,7 @@
 //   { url, plik, opis, format, tryb, typ: "plan"|"harmonogram"|"wf"|"sale",
 //     kierunki: [{ nazwa?, skrot?, stopien|null, lata: [..]|null }], wersja (data z nazwy pliku albo null), wariant?, zjazd? }
 // Stopień: 1, 2, 0 = jednolite. Nic tu nie zgadujemy: czego strona nie mówi, zostaje null.
+import { semestrZKalendarza } from "./wh-xlsx.mjs";
 import { sekwencja, nazwaPliku, dataZNazwy, rzymska } from "./wspolne.mjs";
 
 const stopienZ = (s) => {
@@ -17,13 +18,17 @@ const pdf = (u) => /\.pdf(\?|$)/i.test(u), xlsx = (u) => /\.xlsx?(\?|$)/i.test(u
 
 // Wiele wersji jednego pliku (np. FGzJA „przed” i „po redukcji grup”): obowiązuje najnowsza data w nazwie,
 // starsze dostają pominiety + powód (raport). Klucz = kierunki + stopnie + tryb + rok.
-export function obowiazujace(lista) {
+// semestr z nazwy pliku („…semestr-letni-2026_2027…”, „…semestr zimowy…”) – null, gdy nazwa go nie podaje
+export const semestrPliku = (plik) => (/letni|summer/i.test(plik) ? "letni" : /zimow|winter/i.test(plik) ? "zimowy" : null);
+// Etap 8: z kilku plików tego samego kierunku obowiązuje plik bieżącego semestru (kalendarz.json), potem najnowsza wersja
+export function obowiazujace(lista, { semestr = semestrZKalendarza().nazwa } = {}) {
   const kl = (z) => z.tryb + "|" + z.typ + "|" + z.kierunki.map((k) => `${k.skrot || k.nazwa}/${k.stopien}/${(k.stopnie || []).join(",")}/${(k.lata || []).join(",")}`).join("+") + "|" + (z.zjazd ?? "");
   const grupy = new Map();
   for (const z of lista) { const k = kl(z); grupy.set(k, [...(grupy.get(k) || []), z]); }
   for (const g of grupy.values()) {
     if (g.length < 2) continue;
-    g.sort((a, b) => String(a.wersja || "").localeCompare(String(b.wersja || "")) || (/przed/i.test(a.wariant || "") ? -1 : 0));
+    const sem = (z) => (semestrPliku(z.plik) === semestr ? 2 : semestrPliku(z.plik) ? 0 : 1);
+    g.sort((a, b) => sem(a) - sem(b) || String(a.wersja || "").localeCompare(String(b.wersja || "")) || (/przed/i.test(a.wariant || "") ? -1 : 0));
     const nowy = g[g.length - 1];
     for (const z of g.slice(0, -1)) { z.pominiety = true; z.powod = `starsza wersja niż ${nowy.plik}`; }
   }

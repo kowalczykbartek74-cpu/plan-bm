@@ -63,7 +63,7 @@ h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);lin
 .ctl{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px}
 .ctl-label{font-size:14px;color:var(--ink);font-weight:700;min-width:74px}
 .years{display:flex;flex-wrap:wrap;gap:8px 16px}
-.year{display:flex;align-items:center;gap:6px}
+.year{display:flex;flex-wrap:wrap;align-items:center;gap:6px;min-width:0}
 .year span{font-size:12.5px;color:var(--muted)}
 [hidden]{display:none!important}
 .ksel{font:600 14px/1.2 var(--body);border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:10px;padding:10px 12px;min-height:44px;max-width:100%}
@@ -787,6 +787,15 @@ window.addEventListener("hashchange", () => {
   if (t.r.id !== R.cur.id) setRocznik(t.r.id);
   else if (t.g && t.g !== state.group) { state.group = t.g; render(); }
 });
+// Etap 8: adres kanoniczny i opis dla wyszukiwarek – rocznik = ?k=<kod> (jak w sitemap.xml); BM bez zmian (strona główna)
+function seoRocznika(){
+  const head = document.head, kan = head.querySelector('link[rel="canonical"]') || head.appendChild(Object.assign(document.createElement("link"), { rel: "canonical" }));
+  kan.href = isBM() ? "https://plan.skrotbm.pl/" : `https://plan.skrotbm.pl/?k=${encodeURIComponent(R.cur.kod)}`;
+  if (isBM()) return;
+  const st = R.cur.stopien === 0 ? "jednolite magisterskie" : R.cur.stopien === 2 ? "II stopnia" : "I stopnia";
+  const opis = `Plan zajęć: ${R.cur.pl}, ${R.cur.rok}. rok, studia ${st}${R.cur.tryb === "nst" ? " niestacjonarne" : ""}, Uniwersytet Szczeciński (${R.cur.wydzial}). Kalendarz z datami, odwołane zajęcia.`;
+  const m = head.querySelector('meta[name="description"]'); if (m) m.setAttribute("content", opis);
+}
 function render(){
   ensureGroup();
   pokazAdres();
@@ -795,6 +804,7 @@ function render(){
   // grupa bez litery („1”, „2” – plany z plików wydziałów): „Plan zajęć – grupa 1”; BM i WEFiZ jak dotąd („Plan zajęć C112”)
   document.getElementById("title").textContent = /^\d+$/.test(g) ? L(`Plan zajęć – grupa ${g}`, `Timetable – group ${g}`) : L(`Plan zajęć ${g}`, `Timetable ${g}`);
   document.title = isBM() ? L("Plan zajęć BM", "BM Timetable") : L(`Plan zajęć ${R.cur.pl}`, `${R.cur.en || R.cur.pl} Timetable`);
+  seoRocznika();
   document.querySelectorAll("#groups .pill").forEach(b => b.setAttribute("aria-pressed", b.dataset.g===g));
   const subs = hasSubs(g);
   document.getElementById("subRow").hidden = !subs;

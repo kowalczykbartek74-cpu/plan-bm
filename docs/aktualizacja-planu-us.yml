@@ -66,6 +66,11 @@ jobs:
       - name: Lista roczników na stronie (wybór kierunku)
         run: node scripts/kierunki.mjs
 
+      # Etap 8: adresy roczników dla wyszukiwarek (?k=<kod>)
+      - name: Mapa strony (sitemap.xml, robots.txt)
+        continue-on-error: true
+        run: node scripts/sitemap.mjs
+
       - name: Dołącz kalendarz roku (kalendarz.json)
         id: kalendarz
         run: node scripts/kalendarz.mjs
@@ -87,11 +92,16 @@ jobs:
         continue-on-error: true   # błąd w plikach kalendarza nie blokuje publikacji planu
         run: node scripts/ics.mjs
 
+      # Etap 8: stan wszystkich roczników (źródło, ostatni import, liczba zajęć, status) – stan.html na stronie, docs/stan-planow.md
+      - name: Stan planów (stan.html, docs/stan-planow.md)
+        continue-on-error: true
+        run: node scripts/stan-planow.mjs
+
       - name: Zapisz nową wersję
         run: |
           git config user.name "plan-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add plan.json index.html kalendarz plan
+          git add plan.json index.html kalendarz plan stan.html sitemap.xml robots.txt docs/stan-planow.md
           if git diff --cached --quiet; then
             echo "Nic do zapisania."
           else
@@ -154,7 +164,7 @@ jobs:
         if: steps.decide.outputs.publish == 'true'
         run: |
           mkdir -p _site
-          cp index.html skrzynka.html plan.json kalendarz.json CNAME _site/
+          cp index.html skrzynka.html plan.json kalendarz.json CNAME stan.html sitemap.xml robots.txt _site/
           cp -r kalendarz _site/
           if [ -d plan ]; then cp -r plan _site/; fi
           touch _site/.nojekyll

@@ -30,7 +30,8 @@ const plusDni = (s, n) => { const t = new Date(s + "T12:00:00Z"); t.setUTCDate(t
 // ---------- semestr (z kalendarz.json: pierwszy i ostatni dzień tygodni zajęć) ----------
 // Etap 8: kalendarz.json może mieć tygodnie obu semestrów – semestry = ciągi tygodni rozdzielone przerwą > 3 tygodni
 // (święta to 2 tygodnie, sesja z przerwą ~4). Bieżący = pierwszy, który nie skończył się dawniej niż 3 tygodnie temu.
-export function semestrZKalendarza(plik = "kalendarz.json", { teraz = new Date() } = {}) {
+// PLAN_TERAZ=2027-03-01 – próba przebiegu tak, jakby był już ten dzień (docs/semestr-letni.md)
+export function semestrZKalendarza(plik = "kalendarz.json", { teraz = process.env.PLAN_TERAZ ? new Date(process.env.PLAN_TERAZ) : new Date() } = {}) {
   const k = fs.existsSync(plik) ? JSON.parse(fs.readFileSync(plik, "utf8")) : null;
   const t = (k?.tygodnie || []).slice().sort((a, b) => a[0].localeCompare(b[0]));
   if (!t.length) return { od: "2026-10-01", do: "2027-01-31", nazwa: "zimowy" };
