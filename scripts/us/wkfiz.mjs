@@ -7,7 +7,9 @@
 // Podgrupy mają osobną numerację dla każdego rodzaju zajęć (ćs = ćw. specjalistyczne, lb = laboratoria, ć = ćwiczenia,
 // k = konwersatoria, zt = zajęcia terenowe, [Ngr] = seminarium N) → pole „pg” (np. "ćs1", "lb3"); strona ma wybór podgrup.
 // Bez numeru („w”, „ć”) = cały rok. Terminy → „dates” (YYYY-MM-DD); gdy terminów nie da się odczytać, zostają jako notka „n”.
-// Tylko studia stacjonarne (niestacjonarne w aplikacji to HTML na grupę – Etap 7).
+// Studia niestacjonarne (Etap 7): api/get_html_plans.php?group=… → { plan: { file_content } } = tabela HTML na grupę:
+// kolumny = dni zjazdów („10.10.2026<br>Sob”), wiersze = bloki („1.<br>8:15-9:45”), komórka = „przedmiot 10h ćs 1gr<br>prowadzący<br>sala”.
+// Ta sama komórka w kolejnych blokach = jedne zajęcia (godziny od–do). Zajęcia zawsze z „dates” (konkretne dni zjazdów).
 import crypto from "node:crypto";
 import { dzienZ, godzinyZ, rodzajZ, prowadzacyZ, dodaj, rokDla } from "./wspolne.mjs";
 import { grupaWKFiZ } from "./zrodla.mjs";
@@ -132,5 +134,97 @@ export async function importuj({ zrodla, kierunki, pobieracz, log = () => {} }) 
   if (!dane.success) throw new Error("aplikacja WKFiZ: success=false " + (dane.message || ""));
   const { wyniki, pominiete } = zbuduj(dane, kierunki);
   for (const q of pominiete) log("WKFiZ: pominięta grupa " + q);
+  // niestacjonarne: plan HTML na grupę (Etap 7); błąd nst nie blokuje stacjonarnych
+  try { wyniki.push(...await importujNst({ zrodla, kierunki, pobieracz, log })); } catch (e) { log("WKFiZ nst: " + e.message); }
+  return wyniki;
+}
+
+// ---------- studia niestacjonarne (Etap 7) ----------
+const encjeH = (t) => String(t).replace(/&nbsp;?/g, " ").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n));
+const hh = (h, m) => `${String(+h).padStart(2, "0")}:${m}`;
+const SL = (x) => new RegExp(`(?<![\\p{L}])(?:${x})(?![\\p{L}])`, "iu");   // całe słowo (też „ćs”, „ć”)
+const RODZ_NST = [[SL("ćwiczenia specjalistyczne|ćs"), "CW", "ćs"], [SL("laboratori(?:a|um)|lb"), "LAB", "lb"], [SL("konwersatori(?:a|um)|k"), "K", "k"],
+  [SL("zajęcia terenowe|zt"), "X", "zt"], [SL("seminarium"), "S", "sem"], [SL("ćwiczenia|ć"), "CW", "ć"], [SL("wykład|w"), "W", null], [SL("lektorat"), "CW", null]];
+// pierwsza linia komórki → { pl, k, pg?, time? }
+export function komorkaNst(linia) {
+  let t = encjeH(linia).replace(/\s+/g, " ").trim(), time = null;
+  const g = /(\d{1,2})\s*[:.]\s*(\d{2})\s*[-–]\s*(\d{1,2})\s*[:.]\s*(\d{2})/.exec(t);
+  if (g) { time = [hh(g[1], g[2]), hh(g[3], g[4])]; t = (t.slice(0, g.index) + " " + t.slice(g.index + g[0].length)).trim(); }
+  let nr = null;
+  const gr = /(?<![\p{L}\d])(\d{1,2})\s*gr\b|\bgr\.?\s*(\d{1,2})\b/iu.exec(t);
+  if (gr) { nr = gr[1] || gr[2]; t = (t.slice(0, gr.index) + " " + t.slice(gr.index + gr[0].length)).trim(); }
+  t = t.replace(/(?<![\p{L}\d])\d+\s*h\b/gu, " ").replace(/\s+/g, " ").trim();
+  let k = "X", pre = null;
+  for (const [re, kk, p] of RODZ_NST) {
+    const m = re.exec(t);
+    if (!m) continue;
+    k = kk; pre = p;
+    // słowo rodzaju na końcu albo skrót – usuwamy z nazwy; „seminarium magisterskie”, „język angielski lektorat” zostają w nazwie (bez „lektorat”)
+    // słowo rodzaju w środku/na końcu usuwamy z nazwy; na początku zostaje („wykład ogólnouczelniany”), „seminarium magisterskie” też
+    if (kk !== "S" && m.index > 0) t = (t.slice(0, m.index) + " " + t.slice(m.index + m[0].length)).replace(/\s+/g, " ").trim();
+    break;
+  }
+  let pl = t.replace(/[,;:\s]+$/, "").trim(), n = null;
+  const wou = /^(wykład ogólnouczelniany)\s+(.+)$/i.exec(pl);
+  if (wou) { pl = "Wykład ogólnouczelniany"; n = wou[2]; }
+  return { pl, k, ...(n ? { n } : {}), ...(nr && pre ? { pg: pre + nr } : nr ? { pg: "gr" + nr } : {}), ...(time ? { time } : {}) };
+}
+
+// tabela HTML planu zjazdów → [{ wpis, daty }] (jedne zajęcia w wielu zjazdach = jeden wpis z listą dat)
+export function zHtmlNst(html) {
+  const wiersze = [...String(html).matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)].map((m) => [...m[1].matchAll(/<td[^>]*>([\s\S]*?)<\/td>/gi)].map((c) => c[1]));
+  if (wiersze.length < 2) throw new Error("plan niestacjonarny bez tabeli");
+  const linie = (c) => encjeH(c).split(/<br\s*\/?>/i).map((x) => x.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim());
+  const daty = wiersze[0].map((c) => { const m = /(\d{2})\.(\d{2})\.(\d{4})/.exec(linie(c).join(" ")); return m ? `${m[3]}-${m[2]}-${m[1]}` : null; });
+  const bloki = wiersze.slice(1).map((w) => { const m = /(\d{1,2})[:.](\d{2})\s*-\s*(\d{1,2})[:.](\d{2})/.exec(linie(w[0]).join(" ")); return m ? [hh(m[1], m[2]), hh(m[3], m[4])] : null; });
+  const zajecia = [];
+  for (let c = 1; c < daty.length; c++) {
+    if (!daty[c]) continue;
+    let prev = null;
+    for (let r = 1; r < wiersze.length; r++) {
+      const raw = wiersze[r][c] ?? "", l = linie(raw), blok = bloki[r - 1];
+      while (l.length && !l[l.length - 1]) l.pop();
+      const klucz = l.join(" | ");
+      if (!l.length || !l[0] || !blok) { prev = null; continue; }
+      if (prev && prev.klucz === klucz && !prev.wlasnaGodz) { for (const z of prev.czesci) z.do = blok[1]; continue; }
+      // komórka z kilkoma zajęciami (dwie podgrupy naraz): nowa część od linii z liczbą godzin („… 10h ćs 2gr”)
+      const starty = l.map((x, i) => (i === 0 || /(?<![\p{L}\d])\d+\s*h\b/u.test(x) ? i : -1)).filter((i) => i >= 0);
+      const czesci = starty.map((a, n) => {
+        const cz = l.slice(a, starty[n + 1] ?? l.length), k = komorkaNst(cz[0]);
+        const sala = cz.slice(2).filter(Boolean).join(", ").replace(/^sala\s+/i, "s. ").trim();
+        return { data: daty[c], od: k.time ? k.time[0] : blok[0], do: k.time ? k.time[1] : blok[1], pl: k.pl, k: k.k, pg: k.pg, n: k.n, p: prowadzacyZ(cz[1] || "").replace(/,$/, ""), r: sala, wlasna: !!k.time };
+      });
+      prev = { klucz, czesci, wlasnaGodz: czesci.some((z) => z.wlasna) };
+      zajecia.push(...czesci);
+    }
+  }
+  const wg = new Map();
+  for (const z of zajecia) {
+    const d = dzienTyg(z.data);
+    const e = { d, time: [z.od, z.do], pl: z.pl, k: z.k, p: z.p, r: z.r, ...(z.pg ? { pg: z.pg } : {}), ...(z.n ? { n: z.n } : {}) };
+    const key = JSON.stringify(e);
+    (wg.get(key) || wg.set(key, { wpis: e, daty: [] }).get(key)).daty.push(z.data);
+  }
+  return [...wg.values()].map((x) => ({ ...x, daty: [...new Set(x.daty)].sort() }));
+}
+
+export async function importujNst({ zrodla, kierunki, pobieracz, log = () => {}, teraz = new Date() }) {
+  const wyniki = [];
+  for (const z of zrodla.filter((x) => x.tryb === "nst" && /get_html_plans/.test(x.url))) {
+    const kz = z.kierunki[0];
+    const k = kierunki.find((x) => x.kod === kz?.kod);
+    const r = k?.roczniki?.find((x) => x.tryb === "nst" && x.stopien === kz.stopien && x.rok === kz.lata?.[0]);
+    if (!r) { wyniki.push({ id: `wkfiz-nst-${z.grupa}`, kierunek: { pl: z.grupa }, blad: `brak rocznika niestacjonarnego w config/kierunki-us.json (${z.grupa})` }); continue; }
+    const t = await pobieracz.strona(z.url);
+    const j = t ? JSON.parse(t) : null;
+    if (!j?.success || !j.plan?.file_content) { wyniki.push({ id: r.id, kierunek: { pl: k.pl }, blad: `aplikacja WKFiZ: brak planu ${z.grupa}` }); continue; }
+    const nazwa = kz.skrot.toUpperCase() + r.rok;
+    const groups = {};
+    const lista = zHtmlNst(j.plan.file_content);
+    for (const { wpis: e, daty } of lista) dodaj(groups, nazwa, e, { daty });
+    log(`WKFiZ nst ${z.grupa}: ${lista.length} zajęć`);
+    wyniki.push({ id: r.id, kod: kodStrony(k.kod, r.stopien, r.tryb, r.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: r.stopien, tryb: r.tryb, rok: r.rok,
+      groups, source: APLIKACJA, wersja: `${j.plan.file_name || "plan"} ${j.plan.last_modified || ""}`.trim(), ...semestr(teraz), grupaAplikacji: z.grupa });
+  }
   return wyniki;
 }

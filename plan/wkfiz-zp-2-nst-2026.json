@@ -1,0 +1,1444 @@
+{
+ "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
+ "wersja": "o1.html 2026-11-06 12:58:07",
+ "kierunek": "Zdrowie publiczne",
+ "kierunekEn": "Public Health",
+ "id": "wkfiz-zp-2-nst-2026",
+ "kod": "zpmn26",
+ "wydzial": "WKFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:14:45.623Z",
+ "checkedAt": "2026-11-09T09:16:29.044Z",
+ "groups": {
+  "ZP1": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "biologia człowieka",
+     "k": "W",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 217 anatomia",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "e-zdrowie",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-05",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "W",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 119",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "W",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "W",
+     "p": "dr Joanna Furmańska",
+     "r": "s. 26",
+     "dates": [
+      "2027-01-09",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "salka 13, hala WKFiZ",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "biologia człowieka",
+     "k": "CW",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 217 anatomia",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "biostatystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "DNI ADAPTACYJNE",
+     "k": "X",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "e-zdrowie",
+     "k": "CW",
+     "p": "dr Halina Budis",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-05",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia medycyny",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-12",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 119",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "biostatystyka",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "biostatystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-17",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "W",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "rekreacja ruchowa osób różnym wieku w",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-07",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "W",
+     "p": "dr hab. Marek Bulsa, prof.US",
+     "r": "s. 26",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia medycyny",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-17",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "prawo w ochronie zdrowia",
+     "k": "K",
+     "p": "dr Michał Białkowski",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "prawo w ochronie zdrowia",
+     "k": "K",
+     "p": "dr Michał Białkowski",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "salka 13, hala WKFiZ",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "bioetyka",
+     "k": "K",
+     "p": "dr Lucyna Kirczuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "bioetyka",
+     "k": "K",
+     "p": "dr Lucyna Kirczuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-19",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biologia człowieka",
+     "k": "CW",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 217 anatomia",
+     "dates": [
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-17",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e-zdrowie",
+     "k": "CW",
+     "p": "dr Halina Budis",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "historia medycyny",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "bioetyka",
+     "k": "K",
+     "p": "dr Lucyna Kirczuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia medycyny",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "W",
+     "p": "dr hab. Marek Bulsa, prof.US",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biostatystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "prawo w ochronie zdrowia",
+     "k": "K",
+     "p": "dr Michał Białkowski",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "biologia człowieka",
+     "k": "W",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 217 anatomia",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "e-zdrowie",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-05",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "W",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 119",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "W",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "W",
+     "p": "dr Joanna Furmańska",
+     "r": "s. 26",
+     "dates": [
+      "2027-01-09",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "salka 13, hala WKFiZ",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "biologia człowieka",
+     "k": "CW",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 217 anatomia",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "biostatystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "DNI ADAPTACYJNE",
+     "k": "X",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "e-zdrowie",
+     "k": "CW",
+     "p": "dr Halina Budis",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-05",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia medycyny",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-12",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 119",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "CW",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "biostatystyka",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "biostatystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-17",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "promocja zdrowia i edukacja zdrowotna",
+     "k": "W",
+     "p": "dr Katarzyna Maciejewska",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "rekreacja ruchowa osób różnym wieku w",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-07",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "W",
+     "p": "dr hab. Marek Bulsa, prof.US",
+     "r": "s. 26",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia medycyny",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-17",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "prawo w ochronie zdrowia",
+     "k": "K",
+     "p": "dr Michał Białkowski",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "prawo w ochronie zdrowia",
+     "k": "K",
+     "p": "dr Michał Białkowski",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "salka 13, hala WKFiZ",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "bioetyka",
+     "k": "K",
+     "p": "dr Lucyna Kirczuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "bioetyka",
+     "k": "K",
+     "p": "dr Lucyna Kirczuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-12-19",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biologia człowieka",
+     "k": "CW",
+     "p": "dr Katarzyna Romaniuk",
+     "r": "s. 217 anatomia",
+     "dates": [
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-17",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "e-zdrowie",
+     "k": "CW",
+     "p": "dr Halina Budis",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "ekonomia zdrowia i opieki zdrowotnej",
+     "k": "W",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "historia medycyny",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "komunikacja medialna",
+     "k": "CW",
+     "p": "dr Magdalena Soboń",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "rekreacja ruchowa osób w różnym wieku",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "bioetyka",
+     "k": "K",
+     "p": "dr Lucyna Kirczuk",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia medycyny",
+     "k": "K",
+     "p": "dr Ryszard Stefanik",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "W",
+     "p": "dr hab. Marek Bulsa, prof.US",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "psychologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 26",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "socjologia zdrowia",
+     "k": "CW",
+     "p": "mgr Szymon Kucharski",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biostatystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "prawo w ochronie zdrowia",
+     "k": "K",
+     "p": "dr Michał Białkowski",
+     "r": "s. 26",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

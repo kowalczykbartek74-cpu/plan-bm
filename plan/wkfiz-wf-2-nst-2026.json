@@ -1,0 +1,1428 @@
+{
+ "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
+ "wersja": "o5.html 2026-11-06 12:58:07",
+ "kierunek": "Wychowanie fizyczne",
+ "kierunekEn": "Physical Education",
+ "id": "wkfiz-wf-2-nst-2026",
+ "kod": "wfmn26",
+ "wydzial": "WKFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:14:45.623Z",
+ "checkedAt": "2026-11-09T09:16:29.044Z",
+ "groups": {
+  "WF1": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "kulturystyka i fitness",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "dates": [
+      "2026-12-18",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: gimnastyka",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "dates": [
+      "2026-10-23",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "kulturystyka i fitness",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: gimnastyka",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "dates": [
+      "2026-10-16",
+      "2027-01-08",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-07",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: pływanie",
+     "k": "CW",
+     "p": "dr Wioletta Łubkowska, prof. US",
+     "r": "7:45-9:15 pływalnia Politechniki Morskiej",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-17",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "11:00"
+     ],
+     "pl": "DNI ADAPTACYJNE",
+     "k": "X",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "statystyka",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: pływanie",
+     "k": "CW",
+     "p": "dr Wioletta Łubkowska, prof. US",
+     "r": "9:15-11:05 pływalnia Politechniki Morskiej",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-24",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: pływanie",
+     "k": "CW",
+     "p": "dr Wioletta Łubkowska, prof. US",
+     "r": "9:15-11:05 pływalnia Politechniki Morskiej",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-21",
+      "2026-12-05",
+      "2026-12-12",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-21",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "W",
+     "p": "dr hab. Joanna Kruk, prof. US",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-17",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metodologia badań naukowych",
+     "k": "K",
+     "p": "prof. dr hab Leonard Nowak",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-21",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-19",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "W",
+     "p": "dr hab. Joanna Kruk, prof. US",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "statystyka",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-05",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "W",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-07",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-22",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "W",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "kulturystyka i fitness",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "dates": [
+      "2026-12-18",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: gimnastyka",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "dates": [
+      "2026-10-23",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "kulturystyka i fitness",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: gimnastyka",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "dates": [
+      "2026-10-16",
+      "2027-01-08",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-07",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: pływanie",
+     "k": "CW",
+     "p": "dr Wioletta Łubkowska, prof. US",
+     "r": "7:45-9:15 pływalnia Politechniki Morskiej",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-17",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "11:00"
+     ],
+     "pl": "DNI ADAPTACYJNE",
+     "k": "X",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "statystyka",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: pływanie",
+     "k": "CW",
+     "p": "dr Wioletta Łubkowska, prof. US",
+     "r": "9:15-11:05 pływalnia Politechniki Morskiej",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-24",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: pływanie",
+     "k": "CW",
+     "p": "dr Wioletta Łubkowska, prof. US",
+     "r": "9:15-11:05 pływalnia Politechniki Morskiej",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-21",
+      "2026-12-05",
+      "2026-12-12",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-21",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "W",
+     "p": "dr hab. Joanna Kruk, prof. US",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-17",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metodologia badań naukowych",
+     "k": "K",
+     "p": "prof. dr hab Leonard Nowak",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-21",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-19",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "W",
+     "p": "dr hab. Joanna Kruk, prof. US",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "statystyka",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-05",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "W",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-07",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-22",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "W",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "wychowanie fizyczne specjalne",
+     "k": "CW",
+     "p": "mgr Radosław Sroka",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "metodyka edukacji zdrowotnej",
+     "k": "LAB",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "turystyka szkolna i ekologia",
+     "k": "CW",
+     "p": "dr Michał Tarnowski",
+     "r": "s. 218",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}

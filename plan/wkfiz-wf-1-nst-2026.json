@@ -1,0 +1,2768 @@
+{
+ "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
+ "wersja": "o2.html 2026-11-06 12:58:07",
+ "kierunek": "Wychowanie fizyczne",
+ "kierunekEn": "Physical Education",
+ "id": "wkfiz-wf-1-nst-2026",
+ "kod": "wfn26",
+ "wydzial": "WKFiZ",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:16:29.044Z",
+ "checkedAt": "2026-11-09T09:16:29.044Z",
+ "groups": {
+  "WF1": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-16"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "pierwsza pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-12",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-28",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "11:00"
+     ],
+     "pl": "DNI ADAPTACYJNE",
+     "k": "X",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-21",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "CW",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Przemysław Katner",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Przemysław Katner",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "CW",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb1",
+     "dates": [
+      "2027-01-09",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-09",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "anatomia",
+     "k": "W",
+     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "CW",
+     "p": "mgr Justyna Pyrgiel",
+     "r": "8:00-9:30 stadion lekkoatletyczny ul.Litewska 20",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "CW",
+     "p": "mgr Justyna Pyrgiel",
+     "r": "8:00-9:30 stadion lekkoatletyczny ul.Litewska 20",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "anatomia",
+     "k": "W",
+     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "CW",
+     "p": "mgr Justyna Pyrgiel",
+     "r": "9:30-11:00 stadion lekkoatletyczny",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-22",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "CW",
+     "p": "mgr Justyna Pyrgiel",
+     "r": "9:30-11:00 stadion lekkoatletyczny",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "anatomia",
+     "k": "W",
+     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pierwsza pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb1",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "W",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "pierwsza pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-10-11",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "W",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "CW",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-22",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "pierwsza pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-06"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-16"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "pierwsza pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-12",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-28",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "11:00"
+     ],
+     "pl": "DNI ADAPTACYJNE",
+     "k": "X",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "W",
+     "p": "dr Jarosław Nadobnik",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-21",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "CW",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Przemysław Katner",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Przemysław Katner",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "CW",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb1",
+     "dates": [
+      "2027-01-09",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-09",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "anatomia",
+     "k": "W",
+     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "CW",
+     "p": "mgr Justyna Pyrgiel",
+     "r": "8:00-9:30 stadion lekkoatletyczny ul.Litewska 20",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "CW",
+     "p": "mgr Justyna Pyrgiel",
+     "r": "8:00-9:30 stadion lekkoatletyczny ul.Litewska 20",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "anatomia",
+     "k": "W",
+     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "CW",
+     "p": "mgr Justyna Pyrgiel",
+     "r": "9:30-11:00 stadion lekkoatletyczny",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-22",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka lekkiej atletyki",
+     "k": "CW",
+     "p": "mgr Justyna Pyrgiel",
+     "r": "9:30-11:00 stadion lekkoatletyczny",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "anatomia",
+     "k": "W",
+     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pierwsza pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb1",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka gimnastyki",
+     "k": "CW",
+     "p": "dr Krzysztof Wilk",
+     "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "W",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "pierwsza pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "technologia informacyjna",
+     "k": "LAB",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-10-11",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "anatomia",
+     "k": "LAB",
+     "p": "dr hab. Katarzyna Leźnicka, prof. US",
+     "r": "s. 217 anatomia",
+     "pg": "lb2",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "W",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "biologiczne podstawy wysiłku",
+     "k": "CW",
+     "p": "dr Maciej Buryta",
+     "r": "s. 223",
+     "dates": [
+      "2026-11-22",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "pierwsza pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb1",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka piłki nożnej",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka piłki ręcznej",
+     "k": "CW",
+     "p": "dr Wojciech Jedziniak",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs2",
+     "dates": [
+      "2026-12-06"
+     ]
+    }
+   ]
+  }
+ }
+}

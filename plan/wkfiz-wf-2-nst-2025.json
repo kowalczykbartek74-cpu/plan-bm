@@ -1,0 +1,1202 @@
+{
+ "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
+ "wersja": "o6.html 2026-11-06 12:58:07",
+ "kierunek": "Wychowanie fizyczne",
+ "kierunekEn": "Physical Education",
+ "id": "wkfiz-wf-2-nst-2025",
+ "kod": "wfmn25",
+ "wydzial": "WKFiZ",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:16:29.044Z",
+ "checkedAt": "2026-11-09T09:16:29.044Z",
+ "groups": {
+  "WF2": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "wykład z dziedziny nauk humanistycznych lub społecznych kod do zajęć zgodnie z wybranym wykładem",
+     "k": "W",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "moduł B: brydż sportowy",
+     "k": "X",
+     "p": "mgr Paweł Stężała",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab Leonard Nowak",
+     "r": "s. 101",
+     "pg": "sem2",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Oleksandr Pryimakov",
+     "r": "s. 119",
+     "pg": "sem1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab Leonard Nowak",
+     "r": "s. 101",
+     "pg": "sem2",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28",
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Oleksandr Pryimakov",
+     "r": "s. 119",
+     "pg": "sem1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-28",
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Oleksandr Pryimakov",
+     "r": "s. 1",
+     "pg": "sem1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "W",
+     "p": "dr Jarosław Muracki",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28",
+      "2026-12-05",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-09",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28",
+      "2026-12-05",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 101",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "W",
+     "p": "dr Jarosław Muracki",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "W",
+     "p": "dr Maciej Zawadzki",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-11",
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Mirosław Mikołajczyk",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Mirosław Mikołajczyk",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-11",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-12-20",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-11",
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-08",
+      "2026-11-22",
+      "2026-11-29",
+      "2026-12-06",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-11-29",
+      "2026-12-06",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "moduł B: brydż sportowy",
+     "k": "X",
+     "p": "mgr Paweł Stężała",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-22",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "W",
+     "p": "dr Jarosław Muracki",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-10"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "wykład z dziedziny nauk humanistycznych lub społecznych kod do zajęć zgodnie z wybranym wykładem",
+     "k": "W",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "moduł B: brydż sportowy",
+     "k": "X",
+     "p": "mgr Paweł Stężała",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab Leonard Nowak",
+     "r": "s. 101",
+     "pg": "sem2",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Oleksandr Pryimakov",
+     "r": "s. 119",
+     "pg": "sem1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab Leonard Nowak",
+     "r": "s. 101",
+     "pg": "sem2",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28",
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Oleksandr Pryimakov",
+     "r": "s. 119",
+     "pg": "sem1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-28",
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Oleksandr Pryimakov",
+     "r": "s. 1",
+     "pg": "sem1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "W",
+     "p": "dr Jarosław Muracki",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28",
+      "2026-12-05",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-09",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28",
+      "2026-12-05",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 101",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "W",
+     "p": "dr Jarosław Muracki",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "W",
+     "p": "dr Maciej Zawadzki",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-11",
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Mirosław Mikołajczyk",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Mirosław Mikołajczyk",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "rekreacja ruchowa",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-10-11",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "CW",
+     "p": "mgr Adrian Struzik",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-12-20",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2026-10-11",
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-08",
+      "2026-11-22",
+      "2026-11-29",
+      "2026-12-06",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "team building",
+     "k": "CW",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "k": "CW",
+     "p": "mgr Kacper Cieśluk",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-11-29",
+      "2026-12-06",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "moduł B: brydż sportowy",
+     "k": "X",
+     "p": "mgr Paweł Stężała",
+     "r": "s. 101",
+     "dates": [
+      "2026-11-22",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "teoria i metodyka treningu sportowego",
+     "k": "W",
+     "p": "dr Jarosław Muracki",
+     "r": "s. 101",
+     "dates": [
+      "2027-01-10"
+     ]
+    }
+   ]
+  }
+ }
+}
