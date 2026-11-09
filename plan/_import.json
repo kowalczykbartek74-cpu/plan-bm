@@ -1,86 +1,4936 @@
 {
- "opis": "Stan importu planów (update-plan.mjs --wszystkie). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-09T17:14:20.439Z",
+ "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
+ "at": "2026-11-09T18:01:26.899Z",
  "roczniki": [
   {
+   "id": "wefiz-af-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 31
+  },
+  {
+   "id": "wefiz-af-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wefiz-biwg-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wefiz-biwg-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
    "id": "wefiz-biwg-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 25
+  },
+  {
+   "id": "wefiz-bm-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 36
+  },
+  {
+   "id": "wefiz-bm-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 90
+  },
+  {
+   "id": "wefiz-bm-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wefiz-bm-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 30
+  },
+  {
+   "id": "wefiz-ds-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 74
+  },
+  {
+   "id": "wefiz-ds-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 23
+  },
+  {
+   "id": "wefiz-eaia-1-st-2025",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 29
   },
   {
    "id": "wefiz-eaia-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 27
+  },
+  {
+   "id": "wefiz-ek-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wefiz-ek-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 30
   },
   {
    "id": "wefiz-ek-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 21
+  },
+  {
+   "id": "wefiz-ek-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 27
+  },
+  {
+   "id": "wefiz-ek-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 17
+  },
+  {
+   "id": "wefiz-fir-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 68
+  },
+  {
+   "id": "wefiz-fir-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 3,
+   "zajec": 120
   },
   {
    "id": "wefiz-fir-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 4,
+   "zajec": 92
+  },
+  {
+   "id": "wefiz-fir-2-st-2025",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 39
+  },
+  {
+   "id": "wefiz-fir-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 21
+  },
+  {
+   "id": "wefiz-gn-1-st-2024",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 43
+  },
+  {
+   "id": "wefiz-gn-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 78
   },
   {
    "id": "wefiz-gn-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 57
+  },
+  {
+   "id": "wefiz-gpi-1-st-2023",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 17
+  },
+  {
+   "id": "wefiz-gpi-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 25
+  },
+  {
+   "id": "wefiz-gpi-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 30
   },
   {
    "id": "wefiz-gpi-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 23
+  },
+  {
+   "id": "wefiz-iie-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 29
+  },
+  {
+   "id": "wefiz-iie-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 37
   },
   {
    "id": "wefiz-iie-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 14
+  },
+  {
+   "id": "wefiz-iwb-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 38
+  },
+  {
+   "id": "wefiz-iwb-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 41
   },
   {
    "id": "wefiz-iwb-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 22
+  },
+  {
+   "id": "wefiz-iwb-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 28
+  },
+  {
+   "id": "wefiz-iwb-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 16
+  },
+  {
+   "id": "wefiz-kipb-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 94
+  },
+  {
+   "id": "wefiz-kipb-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 86
   },
   {
    "id": "wefiz-kipb-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 3,
+   "zajec": 74
+  },
+  {
+   "id": "wefiz-kipb-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 72
+  },
+  {
+   "id": "wefiz-kipb-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 37
+  },
+  {
+   "id": "wefiz-li-1-st-2023",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 19
+  },
+  {
+   "id": "wefiz-li-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wefiz-li-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 36
   },
   {
    "id": "wefiz-li-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 23
+  },
+  {
+   "id": "wefiz-log-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 69
+  },
+  {
+   "id": "wefiz-log-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 39
   },
   {
    "id": "wefiz-log-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 45
+  },
+  {
+   "id": "wefiz-log-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 31
+  },
+  {
+   "id": "wefiz-log-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 37
+  },
+  {
+   "id": "wefiz-mbt-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 15
+  },
+  {
+   "id": "wefiz-mkt-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 58
+  },
+  {
+   "id": "wefiz-mkt-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 3,
+   "zajec": 43
+  },
+  {
+   "id": "wefiz-pii-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 29
+  },
+  {
+   "id": "wefiz-pii-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 37
   },
   {
    "id": "wefiz-pii-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 25
+  },
+  {
+   "id": "wefiz-rn-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 22
+  },
+  {
+   "id": "wefiz-rn-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 20
+  },
+  {
+   "id": "wefiz-tir-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 78
+  },
+  {
+   "id": "wefiz-tir-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 35
   },
   {
    "id": "wefiz-tir-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 45
+  },
+  {
+   "id": "wefiz-zarz-1-st-2024",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 84
+  },
+  {
+   "id": "wefiz-zarz-1-st-2025",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 44
   },
   {
    "id": "wefiz-zarz-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 3,
+   "zajec": 82
+  },
+  {
+   "id": "wefiz-zarz-2-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 31
+  },
+  {
+   "id": "wefiz-zarz-2-st-2026",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 2,
+   "zajec": 32
   },
   {
    "id": "wefiz-zloz-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wefiz-zoze-1-st-2024",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 25
+  },
+  {
+   "id": "wefiz-zoze-1-st-2025",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 43
   },
   {
    "id": "wefiz-zoze-1-st-2026",
-   "status": "błąd",
-   "blad": "brak odpowiedzi uczelni: plan"
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
+   "wydzial": "wefiz",
+   "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
+   "wersja": "09.11.2026 14:35",
+   "grupy": 1,
+   "zajec": 28
+  },
+  {
+   "id": "wefiz-af-2-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "grupy": 2,
+   "zajec": 184
+  },
+  {
+   "id": "wefiz-af-2-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 2,
+   "zajec": 210
+  },
+  {
+   "id": "wefiz-ds-2-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 128
+  },
+  {
+   "id": "wefiz-ds-2-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 144
+  },
+  {
+   "id": "wefiz-ek-1-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 94
+  },
+  {
+   "id": "wefiz-ek-1-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 92
+  },
+  {
+   "id": "wefiz-ek-1-nst-2024",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 90
+  },
+  {
+   "id": "wefiz-fir-1-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 2,
+   "zajec": 212
+  },
+  {
+   "id": "wefiz-fir-1-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 2,
+   "zajec": 214
+  },
+  {
+   "id": "wefiz-fir-1-nst-2024",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 104
+  },
+  {
+   "id": "wefiz-fir-2-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 94
+  },
+  {
+   "id": "wefiz-fir-2-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "grupy": 1,
+   "zajec": 116
+  },
+  {
+   "id": "wefiz-iie-1-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 68
+  },
+  {
+   "id": "wefiz-iie-1-nst-2024",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 130
+  },
+  {
+   "id": "wefiz-log-1-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 124
+  },
+  {
+   "id": "wefiz-log-1-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 110
+  },
+  {
+   "id": "wefiz-log-1-nst-2024",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 116
+  },
+  {
+   "id": "wefiz-log-2-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 76
+  },
+  {
+   "id": "wefiz-log-2-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 94
+  },
+  {
+   "id": "wefiz-li-1-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 104
+  },
+  {
+   "id": "wefiz-li-1-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 100
+  },
+  {
+   "id": "wefiz-li-1-nst-2024",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 106
+  },
+  {
+   "id": "wefiz-li-1-nst-2023",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "grupy": 1,
+   "zajec": 92
+  },
+  {
+   "id": "wefiz-mkt-2-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 80
+  },
+  {
+   "id": "wefiz-mkt-2-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 62
+  },
+  {
+   "id": "wefiz-tir-1-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 104
+  },
+  {
+   "id": "wefiz-zarz-1-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 130
+  },
+  {
+   "id": "wefiz-zarz-1-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "grupy": 1,
+   "zajec": 100
+  },
+  {
+   "id": "wefiz-zarz-1-nst-2024",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 122
+  },
+  {
+   "id": "wefiz-zarz-2-nst-2026",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 84
+  },
+  {
+   "id": "wefiz-zarz-2-nst-2025",
+   "wydzial": "wefiz",
+   "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+   "wersja": "planynst-4a3a791142a9",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 96
+  },
+  {
+   "id": "wkfiz-mws-1-st-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-d27152480d67",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 48
+  },
+  {
+   "id": "wkfiz-wf-1-st-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-81661f8646c6",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 84
+  },
+  {
+   "id": "wkfiz-wf-1-st-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-647c756c64f8",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 92
+  },
+  {
+   "id": "wkfiz-wf-1-st-2024",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-613a1656db10",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 54
+  },
+  {
+   "id": "wkfiz-zp-1-st-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-fffbc9e3648e",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 48
+  },
+  {
+   "id": "wkfiz-zp-1-st-2024",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-a2941e12f886",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wkfiz-ds-1-st-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-924b9df4e2d2",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 52
+  },
+  {
+   "id": "wkfiz-ds-1-st-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-497d2611177b",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 62
+  },
+  {
+   "id": "wkfiz-wf-2-st-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-31be744f1495",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 56
+  },
+  {
+   "id": "wkfiz-zp-2-st-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-6787b84ffceb",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 44
+  },
+  {
+   "id": "wkfiz-zp-2-st-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-56a5197405c5",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wkfiz-ds-2-st-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-cc8d4b2ec219",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wkfiz-zp-1-st-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-e08a8d7fb9de",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 40
+  },
+  {
+   "id": "wkfiz-ds-1-st-2024",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-1da8057b35ac",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 66
+  },
+  {
+   "id": "wkfiz-mws-1-st-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-2907d91081d5",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 46
+  },
+  {
+   "id": "wkfiz-ds-2-st-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-e406de772c73",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 32
+  },
+  {
+   "id": "wkfiz-wf-2-st-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-376ce634d7f5",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 28
+  },
+  {
+   "id": "wkfiz-mws-1-st-2024",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "dane-cb792fc05952",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 38
+  },
+  {
+   "id": "wkfiz-wf-1-nst-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "o2.html 2026-11-06 12:58:07",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 184
+  },
+  {
+   "id": "wkfiz-wf-2-nst-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "o5.html 2026-11-06 12:58:07",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 96
+  },
+  {
+   "id": "wkfiz-wf-1-nst-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "o3.html 2026-11-06 12:58:07",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 180
+  },
+  {
+   "id": "wkfiz-wf-2-nst-2025",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "o6.html 2026-11-06 12:58:07",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 76
+  },
+  {
+   "id": "wkfiz-wf-1-nst-2024",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "o4.html 2026-11-06 12:58:07",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 102
+  },
+  {
+   "id": "wkfiz-zp-2-nst-2026",
+   "wydzial": "wkfiz",
+   "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
+   "wersja": "o1.html 2026-11-06 12:58:07",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 100
+  },
+  {
+   "id": "wh-arch-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 22
+  },
+  {
+   "id": "wh-arch-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 38
+  },
+  {
+   "id": "wh-arch-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wh-arch-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 28
+  },
+  {
+   "id": "wh-arch-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wh-bsk-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
+   "wersja": "2026-10-01",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wh-bsk-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
+   "wersja": "2026-10-01",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 20
+  },
+  {
+   "id": "wh-diks-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 50
+  },
+  {
+   "id": "wh-diks-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 54
+  },
+  {
+   "id": "wh-diks-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 40
+  },
+  {
+   "id": "wh-dizm-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiZM-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-15-X-2026.xlsx",
+   "wersja": "2026-10-15",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wh-dizm-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiZM-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-15-X-2026.xlsx",
+   "wersja": "2026-10-15",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wh-fa-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 92
+  },
+  {
+   "id": "wh-fa-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 94
+  },
+  {
+   "id": "wh-fa-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 62
+  },
+  {
+   "id": "wh-fa-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 46
+  },
+  {
+   "id": "wh-fa-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 46
+  },
+  {
+   "id": "wh-fg-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 50
+  },
+  {
+   "id": "wh-fg-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wh-fg-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-28-X-2026.xlsx",
+   "wersja": "2026-10-28",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wh-fg-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-28-X-2026.xlsx",
+   "wersja": "2026-10-28",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 32
+  },
+  {
+   "id": "wh-fgzdjo-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-04-XI-2026.xlsx",
+   "wersja": "2026-11-04",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 66
+  },
+  {
+   "id": "wh-fgzdjo-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-04-XI-2026.xlsx",
+   "wersja": "2026-11-04",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 36
+  },
+  {
+   "id": "wh-fgzdjo-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-04-XI-2026.xlsx",
+   "wersja": "2026-11-04",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wh-fgzja-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-plan-zajec-semestr-zimowy-2026_-2027-po-redukcji-grup-od-dnia-12.10.2026-r.xlsx",
+   "wersja": "2026-10-12",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wh-filo-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+   "wersja": "2026-10-08",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 22
+  },
+  {
+   "id": "wh-filo-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+   "wersja": "2026-10-08",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wh-filo-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+   "wersja": "2026-10-08",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 28
+  },
+  {
+   "id": "wh-filo-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FILO-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-08-X-2026.xlsx",
+   "wersja": "2026-10-08",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wh-fh-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+   "wersja": "2026-10-14",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 52
+  },
+  {
+   "id": "wh-fh-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+   "wersja": "2026-10-14",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 50
+  },
+  {
+   "id": "wh-fh-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+   "wersja": "2026-10-14",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 32
+  },
+  {
+   "id": "wh-fh-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
+   "wersja": "2026-10-14",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 16
+  },
+  {
+   "id": "wh-fn-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+   "wersja": "2026-10-30",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 42
+  },
+  {
+   "id": "wh-fn-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+   "wersja": "2026-10-30",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wh-fn-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+   "wersja": "2026-10-30",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wh-fp-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 28
+  },
+  {
+   "id": "wh-fp-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 42
+  },
+  {
+   "id": "wh-fp-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wh-fp-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-04-11-2026.xlsx",
+   "wersja": "2026-11-04",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 14
+  },
+  {
+   "id": "wh-fp-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-04-11-2026.xlsx",
+   "wersja": "2026-11-04",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 40
+  },
+  {
+   "id": "wh-fros-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wh-fros-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 20
+  },
+  {
+   "id": "wh-fros-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FROS-I-st.-plan-zajec-semestr-zimowy-2026_27-zm.-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 20
+  },
+  {
+   "id": "wh-frzjo-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+   "wersja": "2026-10-15",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wh-frzjo-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+   "wersja": "2026-10-15",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 32
+  },
+  {
+   "id": "wh-frzjo-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+   "wersja": "2026-10-15",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wh-from-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+   "wersja": "2026-10-15",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 18
+  },
+  {
+   "id": "wh-from-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+   "wersja": "2026-10-15",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wh-gc-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+   "wersja": "2026-10-13",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 94
+  },
+  {
+   "id": "wh-gc-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+   "wersja": "2026-10-13",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 50
+  },
+  {
+   "id": "wh-gc-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+   "wersja": "2026-10-13",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 48
+  },
+  {
+   "id": "wh-gc-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
+   "wersja": "2026-10-13",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 16
+  },
+  {
+   "id": "wh-hist-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+   "wersja": "2026-10-09",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wh-hist-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+   "wersja": "2026-10-09",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 46
+  },
+  {
+   "id": "wh-hist-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+   "wersja": "2026-10-09",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 56
+  },
+  {
+   "id": "wh-hist-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+   "wersja": "2026-10-09",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 32
+  },
+  {
+   "id": "wh-hist-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+   "wersja": "2026-10-09",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 42
+  },
+  {
+   "id": "wh-ita-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+   "wersja": "2026-10-13",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 36
+  },
+  {
+   "id": "wh-ita-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+   "wersja": "2026-10-13",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 28
+  },
+  {
+   "id": "wh-ita-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+   "wersja": "2026-10-13",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 32
+  },
+  {
+   "id": "wh-ita-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+   "wersja": "2026-10-13",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 18
+  },
+  {
+   "id": "wh-kk-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+   "wersja": "2026-10-29",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wh-kk-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+   "wersja": "2026-10-29",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 22
+  },
+  {
+   "id": "wh-kk-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+   "wersja": "2026-10-29",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wh-kk-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+   "wersja": "2026-10-29",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 18
+  },
+  {
+   "id": "wh-kk-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/KK-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-X-2026.xlsx",
+   "wersja": "2026-10-29",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 22
+  },
+  {
+   "id": "wh-ldb-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/LDB-I-st.-plan-zajec-semestr-zimowy-2026-2027-zm.-12-X-2026.xlsx",
+   "wersja": "2026-10-12",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 26
+  },
+  {
+   "id": "wh-mic-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wh-mic-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 38
+  },
+  {
+   "id": "wh-mic-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 40
+  },
+  {
+   "id": "wh-pgwsn-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/P_GWSN-3r-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-29-IX-2026.xlsx",
+   "wersja": "2026-09-29",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 36
+  },
+  {
+   "id": "wh-pgwsn-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/P_GWSN-2r.-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
+   "wersja": "2026-10-09",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 34
+  },
+  {
+   "id": "wh-prp-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/PRP-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-06-X-2026.xlsx",
+   "wersja": "2026-10-06",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 18
+  },
+  {
+   "id": "wh-prp-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/PRP-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-06-X-2026.xlsx",
+   "wersja": "2026-10-06",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 20
+  },
+  {
+   "id": "wh-sm-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+   "wersja": "2026-11-06",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 42
+  },
+  {
+   "id": "wh-sm-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+   "wersja": "2026-11-06",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 42
+  },
+  {
+   "id": "wh-sm-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+   "wersja": "2026-11-06",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 42
+  },
+  {
+   "id": "wh-sm-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+   "wersja": "2026-11-06",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 30
+  },
+  {
+   "id": "wh-sm-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-06-XI-2026.xlsx",
+   "wersja": "2026-11-06",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 38
+  },
+  {
+   "id": "wh-sp-1-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+   "wersja": "2026-10-20",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 32
+  },
+  {
+   "id": "wh-sp-1-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+   "wersja": "2026-10-20",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 24
+  },
+  {
+   "id": "wh-sp-1-st-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-20-X-2026.xlsx",
+   "wersja": "2026-10-20",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 36
+  },
+  {
+   "id": "wh-sp-2-st-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-27-X-2026.xlsx",
+   "wersja": "2026-10-27",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 16
+  },
+  {
+   "id": "wh-sp-2-st-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-27-X-2026.xlsx",
+   "wersja": "2026-10-27",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 20
+  },
+  {
+   "id": "wh-fa-1-nst-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 264
+  },
+  {
+   "id": "wh-fa-1-nst-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 280
+  },
+  {
+   "id": "wh-fa-1-nst-2024",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 178
+  },
+  {
+   "id": "wh-fa-2-nst-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 108
+  },
+  {
+   "id": "wh-fa-2-nst-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+   "wersja": "2026-11-03",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 134
+  },
+  {
+   "id": "wh-fg-1-nst-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+   "wersja": "2026-11-05",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 114
+  },
+  {
+   "id": "wh-fgzja-1-nst-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+   "wersja": "2026-10-26",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 108
+  },
+  {
+   "id": "wh-fh-1-nst-2026",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+   "wersja": "2026-10-08",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 100
+  },
+  {
+   "id": "wh-fh-1-nst-2025",
+   "wydzial": "wh",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+   "wersja": "2026-10-08",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
+   "grupy": 1,
+   "zajec": 82
+  },
+  {
+   "id": "wns-ak-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/AK-I-93.pdf",
+   "wersja": "AK-I-93.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bn-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-I-62.pdf",
+   "wersja": "BN-I-62.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 60,
+   "kolejka": {
+    "pozycji": 30,
+    "doDecyzji": 30,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bn-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-I-62.pdf",
+   "wersja": "BN-I-62.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 62,
+   "kolejka": {
+    "pozycji": 31,
+    "doDecyzji": 31,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bn-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-I-62.pdf",
+   "wersja": "BN-I-62.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 50,
+   "kolejka": {
+    "pozycji": 25,
+    "doDecyzji": 25,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bn-2-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-II-50.pdf",
+   "wersja": "BN-II-50.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bn-2-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-II-50.pdf",
+   "wersja": "BN-II-50.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 34,
+   "kolejka": {
+    "pozycji": 17,
+    "doDecyzji": 17,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
+   "wersja": "BW-I-68.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 90,
+   "kolejka": {
+    "pozycji": 45,
+    "doDecyzji": 45,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
+   "wersja": "BW-I-68.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 72,
+   "kolejka": {
+    "pozycji": 36,
+    "doDecyzji": 36,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
+   "wersja": "BW-I-68.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 44,
+   "kolejka": {
+    "pozycji": 22,
+    "doDecyzji": 22,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-2-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-56.pdf",
+   "wersja": "BW-II-56.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 42,
+   "kolejka": {
+    "pozycji": 21,
+    "doDecyzji": 21,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-2-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-56.pdf",
+   "wersja": "BW-II-56.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 42,
+   "kolejka": {
+    "pozycji": 21,
+    "doDecyzji": 21,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ea-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-125.pdf",
+   "wersja": "EA-I-125.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 58,
+   "kolejka": {
+    "pozycji": 29,
+    "doDecyzji": 29,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ea-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-125.pdf",
+   "wersja": "EA-I-125.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 62,
+   "kolejka": {
+    "pozycji": 31,
+    "doDecyzji": 31,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ea-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-125.pdf",
+   "wersja": "EA-I-125.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 38,
+   "kolejka": {
+    "pozycji": 19,
+    "doDecyzji": 19,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ea-2-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-II-21.pdf",
+   "wersja": "EA-II-21.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 20,
+   "kolejka": {
+    "pozycji": 10,
+    "doDecyzji": 10,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ea-2-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-II-21.pdf",
+   "wersja": "EA-II-21.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-mipipr-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-I-66.pdf",
+   "wersja": "MIPiPR-I-66.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 44,
+   "kolejka": {
+    "pozycji": 22,
+    "doDecyzji": 22,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-mipipr-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-I-66.pdf",
+   "wersja": "MIPiPR-I-66.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-mipipr-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-I-66.pdf",
+   "wersja": "MIPiPR-I-66.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-mipipr-2-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-II-55.pdf",
+   "wersja": "MIPiPR-II-55.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 20,
+   "kolejka": {
+    "pozycji": 10,
+    "doDecyzji": 10,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-mipipr-2-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPiPR-II-55.pdf",
+   "wersja": "MIPiPR-II-55.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pol-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-29.pdf",
+   "wersja": "POL-I-29.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 28,
+   "kolejka": {
+    "pozycji": 14,
+    "doDecyzji": 14,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pol-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-29.pdf",
+   "wersja": "POL-I-29.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 34,
+   "kolejka": {
+    "pozycji": 17,
+    "doDecyzji": 17,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pol-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-29.pdf",
+   "wersja": "POL-I-29.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 28,
+   "kolejka": {
+    "pozycji": 14,
+    "doDecyzji": 14,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedo-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
+   "wersja": "PedO-I-128.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 24,
+   "kolejka": {
+    "pozycji": 12,
+    "doDecyzji": 12,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedo-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
+   "wersja": "PedO-I-128.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 40,
+   "kolejka": {
+    "pozycji": 20,
+    "doDecyzji": 20,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedo-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
+   "wersja": "PedO-I-128.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 24,
+   "kolejka": {
+    "pozycji": 12,
+    "doDecyzji": 12,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedo-2-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
+   "wersja": "PedO-II-79.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedo-2-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
+   "wersja": "PedO-II-79.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pow-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/POW-I-82.pdf",
+   "wersja": "POW-I-82.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+   "wersja": "PPIW-15.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 50,
+   "kolejka": {
+    "pozycji": 25,
+    "doDecyzji": 25,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+   "wersja": "PPIW-15.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 58,
+   "kolejka": {
+    "pozycji": 29,
+    "doDecyzji": 29,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+   "wersja": "PPIW-15.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-st-2023",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+   "wersja": "PPIW-15.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-st-2022",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+   "wersja": "PPIW-15.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
+   "wersja": "RESO-I-95.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 46,
+   "kolejka": {
+    "pozycji": 23,
+    "doDecyzji": 23,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
+   "wersja": "RESO-I-95.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
+   "wersja": "RESO-I-95.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-2-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Reso-II-14.pdf",
+   "wersja": "Reso-II-14.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 12,
+   "kolejka": {
+    "pozycji": 6,
+    "doDecyzji": 6,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-2-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Reso-II-14.pdf",
+   "wersja": "Reso-II-14.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+   "wersja": "PEDSPEC-JM-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 58,
+   "kolejka": {
+    "pozycji": 29,
+    "doDecyzji": 29,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+   "wersja": "PEDSPEC-JM-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+   "wersja": "PEDSPEC-JM-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-st-2023",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+   "wersja": "PEDSPEC-JM-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-st-2022",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+   "wersja": "PEDSPEC-JM-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 16,
+   "kolejka": {
+    "pozycji": 8,
+    "doDecyzji": 8,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ps-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PS-I-41.pdf",
+   "wersja": "PS-I-41.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-psych-0-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-I-3-1.pdf",
+   "wersja": "Psych-I-3-1.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 68,
+   "kolejka": {
+    "pozycji": 34,
+    "doDecyzji": 34,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-psych-0-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-II-3-2.pdf",
+   "wersja": "Psych-II-3-2.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 82,
+   "kolejka": {
+    "pozycji": 41,
+    "doDecyzji": 41,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-psych-0-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-III-10.pdf",
+   "wersja": "Psych-III-10.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 48,
+   "kolejka": {
+    "pozycji": 24,
+    "doDecyzji": 24,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-psych-0-st-2023",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-IV-1-1.pdf",
+   "wersja": "Psych-IV-1-1.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 64,
+   "kolejka": {
+    "pozycji": 32,
+    "doDecyzji": 32,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-psych-0-st-2022",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-V-8.pdf",
+   "wersja": "Psych-V-8.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 42,
+   "kolejka": {
+    "pozycji": 21,
+    "doDecyzji": 21,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-soc-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-1-25.pdf",
+   "wersja": "SOC-1-25.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-soc-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-2-32.pdf",
+   "wersja": "SOC-2-32.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-soc-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-3-34.pdf",
+   "wersja": "SOC-3-34.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-soc-2-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-1-II-stopien-13.pdf",
+   "wersja": "SOC-1-II-stopien-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 24,
+   "kolejka": {
+    "pozycji": 12,
+    "doDecyzji": 12,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-soc-2-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-2-II-stopien-13.pdf",
+   "wersja": "SOC-2-II-stopien-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-sios-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-1-20.pdf",
+   "wersja": "SIOS-1-20.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-sios-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-2-20.pdf",
+   "wersja": "SIOS-2-20.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-sios-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SIOS-3-18.pdf",
+   "wersja": "SIOS-3-18.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ss-1-st-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SS-1-50.pdf",
+   "wersja": "SS-1-50.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 44,
+   "kolejka": {
+    "pozycji": 22,
+    "doDecyzji": 22,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ss-1-st-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SS-2-39.pdf",
+   "wersja": "SS-2-39.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 28,
+   "kolejka": {
+    "pozycji": 14,
+    "doDecyzji": 14,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ss-1-st-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/SS-3-36.pdf",
+   "wersja": "SS-3-36.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 56,
+   "kolejka": {
+    "pozycji": 28,
+    "doDecyzji": 28,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bn-1-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (16 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 88,
+   "kolejka": {
+    "pozycji": 44,
+    "doDecyzji": 44,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bn-1-nst-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (18 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 68,
+   "kolejka": {
+    "pozycji": 34,
+    "doDecyzji": 34,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bn-1-nst-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (18 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 66,
+   "kolejka": {
+    "pozycji": 33,
+    "doDecyzji": 33,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-1-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (16 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 86,
+   "kolejka": {
+    "pozycji": 43,
+    "doDecyzji": 43,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-1-nst-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (18 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 74,
+   "kolejka": {
+    "pozycji": 37,
+    "doDecyzji": 37,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-1-nst-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (17 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 62,
+   "kolejka": {
+    "pozycji": 31,
+    "doDecyzji": 31,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-2-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (15 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 68,
+   "kolejka": {
+    "pozycji": 34,
+    "doDecyzji": 34,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-bw-2-nst-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (17 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 54,
+   "kolejka": {
+    "pozycji": 27,
+    "doDecyzji": 27,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-mipipr-1-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (17 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 90,
+   "kolejka": {
+    "pozycji": 45,
+    "doDecyzji": 45,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-mipipr-1-nst-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (17 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 74,
+   "kolejka": {
+    "pozycji": 37,
+    "doDecyzji": 37,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-mipipr-1-nst-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (18 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 84,
+   "kolejka": {
+    "pozycji": 42,
+    "doDecyzji": 42,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedo-1-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (12 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 42,
+   "kolejka": {
+    "pozycji": 21,
+    "doDecyzji": 21,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedo-1-nst-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (13 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 54,
+   "kolejka": {
+    "pozycji": 27,
+    "doDecyzji": 27,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (13 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 50,
+   "kolejka": {
+    "pozycji": 25,
+    "doDecyzji": 25,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-nst-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (12 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 54,
+   "kolejka": {
+    "pozycji": 27,
+    "doDecyzji": 27,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-nst-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (13 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 46,
+   "kolejka": {
+    "pozycji": 23,
+    "doDecyzji": 23,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-nst-2023",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (12 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 52,
+   "kolejka": {
+    "pozycji": 26,
+    "doDecyzji": 26,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ppiw-0-nst-2022",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (10 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 66,
+   "kolejka": {
+    "pozycji": 33,
+    "doDecyzji": 33,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-1-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (14 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 62,
+   "kolejka": {
+    "pozycji": 31,
+    "doDecyzji": 31,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-1-nst-2025",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (13 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 68,
+   "kolejka": {
+    "pozycji": 34,
+    "doDecyzji": 34,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-1-nst-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (13 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 48,
+   "kolejka": {
+    "pozycji": 24,
+    "doDecyzji": 24,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-reso-2-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (6 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (13 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 58,
+   "kolejka": {
+    "pozycji": 29,
+    "doDecyzji": 29,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-nst-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (13 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 46,
+   "kolejka": {
+    "pozycji": 23,
+    "doDecyzji": 23,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-nst-2023",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (14 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 54,
+   "kolejka": {
+    "pozycji": 27,
+    "doDecyzji": 27,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-pedsp-0-nst-2022",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (11 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 46,
+   "kolejka": {
+    "pozycji": 23,
+    "doDecyzji": 23,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wns-ps-1-nst-2024",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "38 plików zjazdów (13 dni)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 50,
+   "kolejka": {
+    "pozycji": 25,
+    "doDecyzji": 25,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-biol-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biol_1-rok-I-st.-akt.-30.10.pdf",
+   "wersja": "2026-10-30",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 40,
+   "kolejka": {
+    "pozycji": 20,
+    "doDecyzji": 20,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-biol-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biol_2-rok-I-st.-akt.-05.10..pdf",
+   "wersja": "2026-10-05",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 50,
+   "kolejka": {
+    "pozycji": 25,
+    "doDecyzji": 25,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-biol-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biol_3-rok-I-st.-akt.-20.10..pdf",
+   "wersja": "2026-10-20",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 46,
+   "kolejka": {
+    "pozycji": 23,
+    "doDecyzji": 23,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-biotec-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biotech_1-rok-I-st.-akt.-19.10.pdf",
+   "wersja": "2026-10-19",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 24,
+   "kolejka": {
+    "pozycji": 12,
+    "doDecyzji": 12,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-biotec-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biotech_3-rok-I-st.-akt.-28.10.pdf",
+   "wersja": "2026-10-28",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 42,
+   "kolejka": {
+    "pozycji": 21,
+    "doDecyzji": 21,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-biotec-2-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/biotech_1-rok-II-st.-akt.-19.10.pdf",
+   "wersja": "2026-10-19",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 18,
+   "kolejka": {
+    "pozycji": 9,
+    "doDecyzji": 9,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-bpk-2-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/bpk_2-rok-II-st.-5.pdf",
+   "wersja": "bpk_2-rok-II-st.-5.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 28,
+   "kolejka": {
+    "pozycji": 14,
+    "doDecyzji": 14,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-ezn-1-st-2023",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/EZN_4-rok-I-st.-1.pdf",
+   "wersja": "EZN_4-rok-I-st.-1.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-fiz-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/fiz_2-rok-I-st.-akt.-06.11.pdf",
+   "wersja": "2026-11-06",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-fiz-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/fiz_3-rok-I-st.-akt.-05.11.pdf",
+   "wersja": "2026-11-05",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-gibe-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/gibe_1-rok-I-st.-akt.-19.10.pdf",
+   "wersja": "2026-10-19",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 66,
+   "kolejka": {
+    "pozycji": 33,
+    "doDecyzji": 33,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-gibe-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/gibe_2-rok-I-st.-akt.-02.10.pdf",
+   "wersja": "2026-10-02",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 46,
+   "kolejka": {
+    "pozycji": 23,
+    "doDecyzji": 23,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-gibe-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/gibe_3-rok-I-st.-akt.-28.10.pdf",
+   "wersja": "2026-10-28",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 46,
+   "kolejka": {
+    "pozycji": 23,
+    "doDecyzji": 23,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-geog-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geografia-I-st.-1-rok-akt.-28.10.pdf",
+   "wersja": "2026-10-28",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 38,
+   "kolejka": {
+    "pozycji": 19,
+    "doDecyzji": 19,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-geog-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geografia_2-rok-I-st.-akt.-02.10..pdf",
+   "wersja": "2026-10-02",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 44,
+   "kolejka": {
+    "pozycji": 22,
+    "doDecyzji": 22,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-geol-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geologia-I-st.-1-rok-akt.-28.10.pdf",
+   "wersja": "2026-10-28",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-geol-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geologia_2-rok-I-st.-akt.-15.10..pdf",
+   "wersja": "2026-10-15",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 38,
+   "kolejka": {
+    "pozycji": 19,
+    "doDecyzji": 19,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-geol-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geologia_3-rok-I-st.-akt.-05.10..pdf",
+   "wersja": "2026-10-05",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-geol-2-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/geologia_2-rok-II-st.-akt.-07.10.pdf",
+   "wersja": "2026-10-07",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-hydro-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_1-rok-I-st.-akt.-16.10.pdf",
+   "wersja": "2026-10-16",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 28,
+   "kolejka": {
+    "pozycji": 14,
+    "doDecyzji": 14,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-hydro-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_2-rok-I-st.-akt.-21.10-1.pdf",
+   "wersja": "2026-10-21",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 44,
+   "kolejka": {
+    "pozycji": 22,
+    "doDecyzji": 22,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-hydro-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/hydrobiol_3-rok-I-st.-akt.-02.10.pdf",
+   "wersja": "2026-10-02",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 16,
+   "kolejka": {
+    "pozycji": 8,
+    "doDecyzji": 8,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-kosmo-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/kosmo_1-rok-I-st.-akt.-13.10.pdf",
+   "wersja": "2026-10-13",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 24,
+   "kolejka": {
+    "pozycji": 12,
+    "doDecyzji": 12,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mat-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-1-rok-akt.-19.10.pdf",
+   "wersja": "2026-10-19",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mat-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-2-rok-akt.-16.10.pdf",
+   "wersja": "2026-10-16",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 48,
+   "kolejka": {
+    "pozycji": 24,
+    "doDecyzji": 24,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mat-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-3-rok-akt.-22.10-1.pdf",
+   "wersja": "2026-10-22",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 40,
+   "kolejka": {
+    "pozycji": 20,
+    "doDecyzji": 20,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mat-2-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-1-rok-1.pdf",
+   "wersja": "mat_II-st.-1-rok-1.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 20,
+   "kolejka": {
+    "pozycji": 10,
+    "doDecyzji": 10,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mat-2-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-2-rok-akt.-23.10.pdf",
+   "wersja": "2026-10-23",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mikr-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_1-rok-I-st.-akt.-12.10-1.pdf",
+   "wersja": "2026-10-12",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 38,
+   "kolejka": {
+    "pozycji": 19,
+    "doDecyzji": 19,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mikr-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_2-rok-I-st.-akt.-13.10.pdf",
+   "wersja": "2026-10-13",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 50,
+   "kolejka": {
+    "pozycji": 25,
+    "doDecyzji": 25,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mikr-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_3-rok-I-st.-akt.-03.11.pdf",
+   "wersja": "2026-11-03",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 52,
+   "kolejka": {
+    "pozycji": 26,
+    "doDecyzji": 26,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-mikr-2-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_1-rok-II-st.-akt.-23.10.pdf",
+   "wersja": "2026-10-23",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 46,
+   "kolejka": {
+    "pozycji": 23,
+    "doDecyzji": 23,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-ocean-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-1-rok-akt.-16.10-1.pdf",
+   "wersja": "2026-10-16",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-ocean-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-2-rok-akt.-06.11.pdf",
+   "wersja": "2026-11-06",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-ocean-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt-6.11.pdf",
+   "wersja": "2026-11-06",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 38,
+   "kolejka": {
+    "pozycji": 19,
+    "doDecyzji": 19,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-optyka-1-st-2026",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-1-rok-akt.-13.10.pdf",
+   "wersja": "2026-10-13",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-optyka-1-st-2025",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-2-rok-akt.-13.10.pdf",
+   "wersja": "2026-10-13",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 28,
+   "kolejka": {
+    "pozycji": 14,
+    "doDecyzji": 14,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wnsip-optyka-1-st-2024",
+   "wydzial": "wnsip",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-3-rok.pdf",
+   "wersja": "optyka_I-st.-3-rok.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 16,
+   "kolejka": {
+    "pozycji": 8,
+    "doDecyzji": 8,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-st-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSP-26.pdf",
+   "wersja": "I-SSP-26.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 184,
+   "kolejka": {
+    "pozycji": 92,
+    "doDecyzji": 92,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-st-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSP-35.pdf",
+   "wersja": "II-SSP-35.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 114,
+   "kolejka": {
+    "pozycji": 57,
+    "doDecyzji": 57,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-st-2024",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSP-21.pdf",
+   "wersja": "III-SSP-21.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 148,
+   "kolejka": {
+    "pozycji": 74,
+    "doDecyzji": 74,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-st-2023",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/IV-SSP-17.pdf",
+   "wersja": "IV-SSP-17.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 132,
+   "kolejka": {
+    "pozycji": 66,
+    "doDecyzji": 66,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-st-2022",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/V-SSP-10.pdf",
+   "wersja": "V-SSP-10.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 36,
+   "kolejka": {
+    "pozycji": 18,
+    "doDecyzji": 18,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-1-st-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSA-I-st.-12.pdf",
+   "wersja": "I-SSA-I-st.-12.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 38,
+   "kolejka": {
+    "pozycji": 19,
+    "doDecyzji": 19,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-1-st-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSA-I-st.-11.pdf",
+   "wersja": "II-SSA-I-st.-11.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-1-st-2024",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSA-I-st.-9.pdf",
+   "wersja": "III-SSA-I-st.-9.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-2-st-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-SSA-II-st.-10.pdf",
+   "wersja": "I-SSA-II-st.-10.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 28,
+   "kolejka": {
+    "pozycji": 14,
+    "doDecyzji": 14,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-2-st-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSA-II-st.-15.pdf",
+   "wersja": "II-SSA-II-st.-15.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-psm-1-st-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-PSM-I-st.-13.pdf",
+   "wersja": "I-PSM-I-st.-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 34,
+   "kolejka": {
+    "pozycji": 17,
+    "doDecyzji": 17,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-psm-1-st-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-PSM-I-st.-17.pdf",
+   "wersja": "II-PSM-I-st.-17.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 30,
+   "kolejka": {
+    "pozycji": 15,
+    "doDecyzji": 15,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-psm-1-st-2024",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-stacjonarne-I-stopnia.pdf",
+   "wersja": "III-prawo-służb-mundurowych-stacjonarne-I-stopnia.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 32,
+   "kolejka": {
+    "pozycji": 16,
+    "doDecyzji": 16,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-psm-2-st-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/PSM-II-st.-2026-2027-I-rok.pdf",
+   "wersja": "PSM-II-st.-2026-2027-I-rok.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-psm-2-st-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-PSM-II-st.-10.pdf",
+   "wersja": "II-PSM-II-st.-10.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-iebl-2-st-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-IEBL-II-st.-14.pdf",
+   "wersja": "I-IEBL-II-st.-14.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 24,
+   "kolejka": {
+    "pozycji": 12,
+    "doDecyzji": 12,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-iebl-2-st-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-IEBL.pdf",
+   "wersja": "II-IEBL.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wefiz-ep-1-st-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-EP-I-st.-18.pdf",
+   "wersja": "I-EP-I-st.-18.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wefiz-ep-1-st-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-EP-I-st.-10.pdf",
+   "wersja": "II-EP-I-st.-10.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 16,
+   "kolejka": {
+    "pozycji": 8,
+    "doDecyzji": 8,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wefiz-ep-1-st-2024",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-EP-I-st.-9.pdf",
+   "wersja": "III-EP-I-st.-9.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 20,
+   "kolejka": {
+    "pozycji": 10,
+    "doDecyzji": 10,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wefiz-ep-2-st-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-EP-II-st.-9.pdf",
+   "wersja": "I-EP-II-st.-9.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 10,
+   "kolejka": {
+    "pozycji": 5,
+    "doDecyzji": 5,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wefiz-ep-2-st-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-EP-II-st.-13.pdf",
+   "wersja": "II-EP-II-st.-13.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-nst-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSP-8.pdf",
+   "wersja": "I-NSP-8.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 184,
+   "kolejka": {
+    "pozycji": 92,
+    "doDecyzji": 92,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-nst-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSP-12.pdf",
+   "wersja": "II-NSP-12.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 224,
+   "kolejka": {
+    "pozycji": 112,
+    "doDecyzji": 112,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-nst-2024",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSP-5.pdf",
+   "wersja": "III-NSP-5.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 206,
+   "kolejka": {
+    "pozycji": 103,
+    "doDecyzji": 103,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-nst-2023",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/IV-NSP-7.pdf",
+   "wersja": "IV-NSP-7.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 222,
+   "kolejka": {
+    "pozycji": 111,
+    "doDecyzji": 111,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-prawo-0-nst-2022",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/V-NSP-6.pdf",
+   "wersja": "V-NSP-6.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 92,
+   "kolejka": {
+    "pozycji": 46,
+    "doDecyzji": 46,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-1-nst-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSA-I-st.-3.pdf",
+   "wersja": "I-NSA-I-st.-3.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 90,
+   "kolejka": {
+    "pozycji": 45,
+    "doDecyzji": 45,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-1-nst-2025",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSA-I-st.-9.pdf",
+   "wersja": "II-NSA-I-st.-9.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 110,
+   "kolejka": {
+    "pozycji": 55,
+    "doDecyzji": 55,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-1-nst-2024",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSA-I-st.-4.pdf",
+   "wersja": "III-NSA-I-st.-4.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 94,
+   "kolejka": {
+    "pozycji": 47,
+    "doDecyzji": 47,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-adm-2-nst-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSA-II-st.-2.pdf",
+   "wersja": "I-NSA-II-st.-2.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 90,
+   "kolejka": {
+    "pozycji": 45,
+    "doDecyzji": 45,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-psm-1-nst-2026",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-5.pdf",
+   "wersja": "I-NPSM-I-st.-5.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 108,
+   "kolejka": {
+    "pozycji": 54,
+    "doDecyzji": 54,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wpia-psm-1-nst-2024",
+   "wydzial": "wpia",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-niestacjonarne-I-stopnia.pdf",
+   "wersja": "III-prawo-służb-mundurowych-niestacjonarne-I-stopnia.pdf",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 104,
+   "kolejka": {
+    "pozycji": 52,
+    "doDecyzji": 52,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-teo-0-st-2026",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+   "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 20,
+   "kolejka": {
+    "pozycji": 10,
+    "doDecyzji": 10,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-teo-0-st-2025",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+   "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 28,
+   "kolejka": {
+    "pozycji": 14,
+    "doDecyzji": 14,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-teo-0-st-2024",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+   "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-teo-0-st-2023",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+   "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 26,
+   "kolejka": {
+    "pozycji": 13,
+    "doDecyzji": 13,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-teo-0-st-2022",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+   "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-nor-1-st-2026",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 24,
+   "kolejka": {
+    "pozycji": 12,
+    "doDecyzji": 12,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-nor-1-st-2025",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-nor-1-st-2024",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-nor-2-st-2026",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 22,
+   "kolejka": {
+    "pozycji": 11,
+    "doDecyzji": 11,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
+  },
+  {
+   "id": "wt-nor-2-st-2025",
+   "wydzial": "wt",
+   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
+   "status": "czeka na zatwierdzenie",
+   "szczegoly": "czeka na zatwierdzenie",
+   "grupy": 1,
+   "zajec": 18,
+   "kolejka": {
+    "pozycji": 9,
+    "doDecyzji": 9,
+    "wyslany": false,
+    "blad": "bad_token"
+   }
   }
  ],
  "log": [

@@ -3,14 +3,14 @@
  "kierunek": "Audyt finansowy",
  "id": "wefiz-af-2-st-2026",
  "kod": "afm26",
- "kierunekEn": "Audyt finansowy",
+ "kierunekEn": "Financial Audit",
  "wydzial": "WEFiZ",
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:18:29.194Z",
- "checkedAt": "2026-11-08T20:18:29.194Z",
+ "checkedAt": "2026-11-09T17:49:20.785Z",
  "groups": {
   "M560": {
    "odd": [
@@ -435,10 +435,81 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/grupa-m560-3/",
+    "title": "Grupa M560",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Dnia 04.11.2026 r. wykład z przedmiotu zarządzanie i kontrola wewnętrzna z dr hab. prof. US Katarzyną Kozioł-Nadolną zostaje odwołany. Termin odrabiania zajęć: 12.10.2026 godzina 10:00 sala S0203"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/grupa-m560-2/",
+    "title": "Grupa M560",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Z ajęcia z dr. Hanną Czają-Cieszyńską w dniach 12-14.10.2026 r. nie odbędą się Termin odrabiania zajęć : teoria, zasady i organizacja rachunkowości wykład z dnia 12.10 .2026 odbędzie się 30.11.2026 godzina 8:15 s0106/0107 wykład z dnia 13.10.2026 odbędzie się 01.12.2026 godzina 8:15 s017 ćwiczenia z dnia 13.10.2026 odbędzie się 07.12.2026 godzina 10:00 s0106/0107"
+   }
+  ],
   "zmiany": {
-   "M560": []
+   "M560": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-12",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "S0203",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-11-04",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-30",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-07",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "post": 1
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:36:51.858Z"
+  "updatedAt": "2026-11-09T18:01:55.410Z"
  }
 }

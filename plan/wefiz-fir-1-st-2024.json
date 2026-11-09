@@ -3,14 +3,14 @@
  "kierunek": "Finanse i Rachunkowość",
  "id": "wefiz-fir-1-st-2024",
  "kod": "fir24",
- "kierunekEn": "Finanse i Rachunkowość",
+ "kierunekEn": "Finance and Accounting",
  "wydzial": "WEFiZ",
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:20:22.647Z",
- "checkedAt": "2026-11-08T20:20:22.647Z",
+ "checkedAt": "2026-11-09T17:50:27.176Z",
  "groups": {
   "M320": {
    "odd": [
@@ -768,11 +768,48 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-m320-m321-3/",
+    "title": "Grupa M320-M321",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "W dniu 06.11.2026 r. zajęcia z dr Joanną Kowalik nie odbędą się. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/grupa-m320-m321-2/",
+    "title": "Grupa M320-M321",
+    "ym": "2026-10",
+    "pub": "2026-10-23",
+    "text": "Dnia 28.10.2026 r. zostają odwołane zajęcia z dr Mirelą Romanowską Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
   "zmiany": {
-   "M320": [],
-   "M321": []
+   "M320": [
+    {
+     "type": "note",
+     "date": "2026-10-28",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-11-06",
+     "post": 0
+    }
+   ],
+   "M321": [
+    {
+     "type": "note",
+     "date": "2026-10-28",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-11-06",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:37:43.130Z"
+  "updatedAt": "2026-11-09T18:02:42.301Z"
  }
 }

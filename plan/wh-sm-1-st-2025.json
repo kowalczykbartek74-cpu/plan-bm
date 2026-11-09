@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "SM2": {
    "odd": [
@@ -790,5 +790,45 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-aleksander-poczewski-odwolanie-zajec/",
+    "title": "mgr Aleksander Poczewski- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Dzień dobry, informujemy, że pracownik Aleksander Poczewski zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Wydział Prawa i Administracji Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Prawa i Administracji Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-27 10:00 – – – SM-SI.25-2-US-DiSZ.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo stosunki międzynarodowe stacjonarne pierwszego stopnia 2 prawo dyplomatyczne i konsularne; ewolucja w ujęciu historycznym ćwiczenia – Przyczyna nieobecności inne Uzasadnienie Planowany urlop w pracy. Proponowana treść ogłoszenia dla studentów: Informujemy, że ćwiczenia z przedmiotu Prawo dyplomatyczne i konsularne (kierunek stosunki międzynarodowe II rok) w dniu 27.10.2026 r. nie odbędą się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-frithjof-strauss-zastepstwo-dla-lektoratu-dla-kierunkow-itaarchhistsmdiksfilo/",
+    "title": "dr Frithjof Strauss- zastępstwo dla lektoratu dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "Szanowni Państwo, w dniu 05.10.2026 lektorat dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO (godz. 15.15-16.45, s. 115, bud. 4) poprowadzi w zastępstwie za dr. Frithjofa Straussa dr Karolina Matuszewska."
+   }
+  ],
+  "zmiany": {
+   "SM2": [
+    {
+     "type": "note",
+     "date": "2026-10-05",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-27",
+     "start": "10:00",
+     "pl": "prawo dyplomatyczne i konsularne; ewolucja w ujęciu historycznym",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.822Z"
  }
 }

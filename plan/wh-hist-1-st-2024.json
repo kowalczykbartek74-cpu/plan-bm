@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "HIST3": {
    "odd": [
@@ -1044,5 +1044,48 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-hab-b-ochendowska-grzelak-odwolanie-zajec/",
+    "title": "dr hab. B. Ochendowska-Grzelak – odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "Uprzejmie informujemy, że zajęcia z przedmiotu zarys historii sztuki na 3 roku archeologii w dniu 06.X. zostają odwołane."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-frithjof-strauss-zastepstwo-dla-lektoratu-dla-kierunkow-itaarchhistsmdiksfilo/",
+    "title": "dr Frithjof Strauss- zastępstwo dla lektoratu dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "Szanowni Państwo, w dniu 05.10.2026 lektorat dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO (godz. 15.15-16.45, s. 115, bud. 4) poprowadzi w zastępstwie za dr. Frithjofa Straussa dr Karolina Matuszewska."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/09/dr-straus-przelozenie-zajec/",
+    "title": "dr Frithjof Strauß – przełożenie zajęć",
+    "ym": "2026-09",
+    "pub": "2026-09-30",
+    "text": "Szanowni Państwo, uprzejmie informujemy, że dr Frithjof Strauß jest w dniach 28.09.-12.10.26r. na zwolnieniu lekarskim. Zajęcia na filologii norweskiej z historii literatury norweskiej w tych dniach nie odbędą się."
+   }
+  ],
+  "zmiany": {
+   "HIST3": [
+    {
+     "type": "note",
+     "date": "2026-10-05",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 2,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.444Z"
  }
 }

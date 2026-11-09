@@ -3,14 +3,14 @@
  "kierunek": "Audyt finansowy",
  "id": "wefiz-af-2-st-2025",
  "kod": "afm25",
- "kierunekEn": "Audyt finansowy",
+ "kierunekEn": "Financial Audit",
  "wydzial": "WEFiZ",
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:18:23.661Z",
- "checkedAt": "2026-11-08T20:18:23.661Z",
+ "checkedAt": "2026-11-09T17:49:16.429Z",
  "groups": {
   "M660": {
    "odd": [
@@ -484,10 +484,43 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/grupa-m660-4/",
+    "title": "Grupa M660",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Zajęcia z dr. Hanną Czają-Cieszyńską w dniu 12.10.2026 r. nie odbędą się Termin odrobienia zajęć: 09.12.2026 godzina 13:45 w sali s02"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/09/grupa-m660-3/",
+    "title": "Grupa M660",
+    "ym": "2026-09",
+    "pub": "2026-09-30",
+    "text": "Zajęcia z dr. Michałem Hendrykiem w dn. 7.10.2026 z przedmiotu sprawozdawczość i analiza finansowa z grupą M660 nie odbędą się. Termin odrabiania zajęć zostanie wskazany na kolejnych zajęciach."
+   }
+  ],
   "zmiany": {
-   "M660": []
+   "M660": [
+    {
+     "type": "note",
+     "date": "2026-10-07",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-09",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Raportowanie zrównoważonego rozwoju",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s02",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:36:51.856Z"
+  "updatedAt": "2026-11-09T18:01:53.216Z"
  }
 }

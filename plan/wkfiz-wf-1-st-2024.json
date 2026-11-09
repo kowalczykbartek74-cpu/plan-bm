@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:11:06.564Z",
- "checkedAt": "2026-11-08T21:11:06.564Z",
+ "checkedAt": "2026-11-09T17:57:31.882Z",
  "groups": {
   "WF3": {
    "odd": [
@@ -1447,5 +1447,13 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow-wkfiz/",
+  "posts": [],
+  "zmiany": {
+   "WF3": []
+  },
+  "updatedAt": "2026-11-09T18:07:29.774Z"
  }
 }

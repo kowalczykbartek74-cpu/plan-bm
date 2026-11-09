@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "ARCH3": {
    "odd": [
@@ -672,5 +672,21 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-frithjof-strauss-zastepstwo-dla-lektoratu-dla-kierunkow-itaarchhistsmdiksfilo/",
+    "title": "dr Frithjof Strauss- zastępstwo dla lektoratu dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "Szanowni Państwo, w dniu 05.10.2026 lektorat dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO (godz. 15.15-16.45, s. 115, bud. 4) poprowadzi w zastępstwie za dr. Frithjofa Straussa dr Karolina Matuszewska."
+   }
+  ],
+  "zmiany": {
+   "ARCH3": []
+  },
+  "updatedAt": "2026-11-09T18:07:27.484Z"
  }
 }

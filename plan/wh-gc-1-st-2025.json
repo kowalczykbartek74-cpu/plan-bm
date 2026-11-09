@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "GC2": {
    "odd": [
@@ -752,5 +752,41 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-hab-prof-us-jolanta-mazurkiewicz-sokolowska-przelozenie-wykladu/",
+    "title": "dr hab. prof. US Jolanta Mazurkiewicz-Sokołowska- przełożenie wykładu",
+    "ym": "2026-10",
+    "pub": "2026-10-26",
+    "text": "Szanowni Państwo, w tym tygodniu, tj. w czwartek, 29.10.2026, mój wykład ogólnouczelniany How do meanings emerge odbędzie się wyjątkowo o godz. 10.00 rano. Termin został uzgodniony ze studentami. prof. Jolanta Mazurkiewicz-Sokołowska"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-malgorzata-sokol-odwolanie-zajec/",
+    "title": "dr Małgorzata Sokół- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Szanowni Studenci kierunku Global Communication w terminie 7-8.10.2026 ze względów zdrowotnych zostają odwołane zajęcia z dr Małgorzatą Sokół. Termin odrobienia zajęć zostanie ustalony ze studentami."
+   }
+  ],
+  "zmiany": {
+   "GC2": [
+    {
+     "type": "note",
+     "date": "2026-10-08",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-29",
+     "post": 0,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.403Z"
  }
 }

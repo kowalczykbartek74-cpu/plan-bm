@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "SP2": {
    "odd": [
@@ -442,5 +442,32 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-hab-prof-us-tatiana-czerska-przelozenie-zajec-2/",
+    "title": "dr hab. prof. US Tatiana Czerska- przełożenie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Dzień dobry, informujemy, że pracownik Tatiana Czerska zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-04 13:30 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia polska stacjonarne pierwszego stopnia 3 literatura środkowoeuropejska wykład – Przyczyna nieobecności inne Uzasadnienie Wizyta i badania w poradni specjalistycznej Proponowana treść ogłoszenia dla studentów: Studenci zostali poinformowani o mojej nieobecności Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-05 19:45 – – – – Proponowane zastępstwo Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo studia pisarskie stacjonarne pierwszego stopnia 2 powieść kobieca konwersatorium Do ustalenia Przyczyna nieobecności inne Uzasadnienie Wizyta i badania w poradni przyszpitalnej Proponowana treść ogłoszenia dla studentów: Studenci zostali poinformowani o zastępstwie – zajęcia poprowadzi mgr Joanna Miętki, doktorantka. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-11-05 15:15 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia polska stacjonarne drugiego stopnia 2 dyskursy późnej nowoczesności konwersatorium – Przyczyna nieobecności inne Uzasadnienie Wizyta i badania w poradni przyszpitalnej Proponowana treść ogłoszenia dla studentów: Studenci zostali poinformowani. Termin odrabiania zajęć zostanie ustalony"
+   }
+  ],
+  "zmiany": {
+   "SP2": [
+    {
+     "type": "cancel",
+     "date": "2026-11-05",
+     "start": "19:45",
+     "pl": "proza popularna i popkulturowa: powieść kobieca (współprowadzenie )",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.911Z"
  }
 }

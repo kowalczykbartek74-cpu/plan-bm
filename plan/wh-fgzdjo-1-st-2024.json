@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "FGZDJO3": {
    "odd": [
@@ -574,5 +574,21 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-emil-lesner-przelozenie-zajec/",
+    "title": "dr Emil Lesner- przełożenie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-21",
+    "text": "W związku z obecnością w Komitecie Organizacyjnym i wyjazdem na konferencję naukową do Szaflar nie będzie mnie na zajęciach w godzinach 17.00-20.15. Studenci zostali poinformowani o mojej nieobecności i potrzebie odrobienia zajęć w terminie późniejszym."
+   }
+  ],
+  "zmiany": {
+   "FGZDJO3": []
+  },
+  "updatedAt": "2026-11-09T18:07:27.881Z"
  }
 }

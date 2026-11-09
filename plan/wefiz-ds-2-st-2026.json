@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:19:50.319Z",
- "checkedAt": "2026-11-08T20:19:50.319Z",
+ "checkedAt": "2026-11-09T17:49:58.924Z",
  "groups": {
   "M540": {
    "odd": [
@@ -383,10 +383,51 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m540-termin-odrobienia-wykladu-z-dnia-04-11-26-r-z-dr-malgorzata-zakrzewska-grunwald/",
+    "title": "M540- termin odrobienia wykładu z dnia 04.11.26 r. z dr Małgorzatą Zakrzewską-Grünwald",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Zaległy wykład z dnia 04.11.2026 z przedmiotu „Współczesna makroekonomia” odbędzie się w dniu 17.11.2026 r. godz. 12:00, sala S03."
+   }
+  ],
   "zmiany": {
-   "M540": []
+   "M540": [
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "12:00",
+     "pl": "Współczesna makroekonomia",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "13:45",
+     "pl": "Współczesna makroekonomia",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "change",
+     "date": "2026-11-17",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Współczesna makroekonomia",
+     "k": "X",
+     "p": "dr Małgorzata Zakrzewska-Grünwald",
+     "r": "S03",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:37:42.324Z"
+  "updatedAt": "2026-11-09T18:02:32.424Z"
  }
 }

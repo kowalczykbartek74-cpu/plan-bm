@@ -3,14 +3,14 @@
  "kierunek": "Finanse i Rachunkowość",
  "id": "wefiz-fir-1-st-2025",
  "kod": "fir25",
- "kierunekEn": "Finanse i Rachunkowość",
+ "kierunekEn": "Finance and Accounting",
  "wydzial": "WEFiZ",
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:20:31.653Z",
- "checkedAt": "2026-11-08T20:20:31.653Z",
+ "checkedAt": "2026-11-09T17:50:33.442Z",
  "groups": {
   "M220": {
    "odd": [
@@ -1211,12 +1211,26 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/grupa-m222/",
+    "title": "Grupa M222",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Wykład z przedmiotu Ordynacja podatkowa i księgi podatkowego dla studentów kierunku Finanse i Rachunkowość specjalność finanse przedsiębiorstwa i podatki w dniu 14.10.2026 r. w godz. od 12 do 13:30 z prof. dr hab. Jolantą Iwin-Garzyńską zostaje odwołany. Zajęcia zostaną odpracowane w terminie ustalonym ze studentami."
+   }
+  ],
   "zmiany": {
    "M220": [],
    "M221": [],
-   "M222": []
+   "M222": [
+    {
+     "type": "note",
+     "date": "2026-10-14",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:37:43.132Z"
+  "updatedAt": "2026-11-09T18:02:43.436Z"
  }
 }

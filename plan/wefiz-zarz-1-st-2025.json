@@ -3,14 +3,14 @@
  "kierunek": "Zarządzanie",
  "id": "wefiz-zarz-1-st-2025",
  "kod": "zarz25",
- "kierunekEn": "Zarządzanie",
+ "kierunekEn": "Management",
  "wydzial": "WEFiZ",
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
- "changedAt": "2026-11-08T20:24:35.722Z",
- "checkedAt": "2026-11-08T20:24:35.722Z",
+ "updated": "09.11.2026 14:35",
+ "changedAt": "2026-11-09T17:53:20.539Z",
+ "checkedAt": "2026-11-09T17:53:20.539Z",
  "groups": {
   "C251": {
    "odd": [
@@ -356,6 +356,17 @@
      "r": "Sala Sportowa"
     },
     {
+     "d": 2,
+     "s": 4,
+     "pl": "Odrabianie zjęć grupa c251b",
+     "k": "X",
+     "r": "sala 423 LAB mgr Maciej Lewandowski",
+     "dates": [
+      "2026-12-09"
+     ],
+     "n": "Jednorazowo: 9.12.2026"
+    },
+    {
      "d": 0,
      "s": 5,
      "pl": "Wychowanie fizyczne",
@@ -528,6 +539,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c251b-2/",
+    "title": "GRUPA C251b",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Dnia 09.12.2026 o godz. 15:30 w sali 423lab Aula odbędzie się odrabianie zajęć z mgr Maciejem Lewandowskim"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c251a-i-c25b/",
     "title": "GRUPA C251a i C25b",
     "ym": "2026-10",
@@ -582,16 +600,16 @@
      "k": "CW",
      "p": "mgr Oliwia Zielińska",
      "r": "s. 623",
-     "post": 4
+     "post": 5
     },
     {
      "type": "cancel",
      "date": "2026-10-14",
      "start": "12:00",
      "pl": "Podstawy rachunkowości",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -604,7 +622,7 @@
      "k": "CW",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 112",
-     "post": 3
+     "post": 4
     },
     {
      "type": "extra",
@@ -616,7 +634,7 @@
      "k": "CW",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. SIL 315",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
@@ -624,9 +642,9 @@
      "start": "10:00",
      "pl": "Badania marketingowe",
      "g": "A",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -634,16 +652,16 @@
      "date": "2026-10-20",
      "start": "12:00",
      "pl": "Zachowania organizacyjne",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2,
-      3
+      3,
+      4
      ]
     },
     {
      "type": "note",
      "date": "2026-10-28",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -655,10 +673,24 @@
      "k": "X",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. SIL 323",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-09",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "p": "mgr Maciej Lewandowski",
+     "r": "s. 423lab",
+     "g": "B",
+     "post": 0,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:59.947Z"
+  "updatedAt": "2026-11-09T18:04:54.318Z"
  }
 }

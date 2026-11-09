@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "DIZM2": {
    "odd": [
@@ -560,5 +560,32 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-hab-agnieszka-pres-perepeczo-prof-us-komunikat-dla-2-roku-dizm/",
+    "title": "dr hab. Agnieszka Preś-Perepeczo, prof. US- Komunikat dla 2 roku DiZM",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Komunikat dla 2 roku DiZM – dr hab. Agnieszka Preś-Perepeczo, prof. US Uwaga studenci 2 roku kierunku dziennikarstwo i zarządzanie mediami – zajęcia z dr hab. Agnieszka Preś-Perepeczo, prof. US w dnu 15 października 2026 r. nie odbędą się, o terminie odrobienia zajęć zostaną Państwo powiadomieni w terminie późniejszym."
+   }
+  ],
+  "zmiany": {
+   "DIZM2": [
+    {
+     "type": "cancel",
+     "date": "2026-10-15",
+     "start": "13:30",
+     "pl": "nadzór właścicielski w",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:27.628Z"
  }
 }

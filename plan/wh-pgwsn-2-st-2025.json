@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "PGWSN2": {
    "odd": [
@@ -596,5 +596,28 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-hab-krzysztof-nerlicki-prof-us-odwolanie-zajec/",
+    "title": "dr hab. Krzysztof Nerlicki, prof. US- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "Uwaga, studenci FGzDJO 1 roku [akwizycja języka obcego] oraz FG 2 roku [Wprowadzenie do problematyki akwizycji języka ], – zajęcia z dr hab. K. Nerlickim, prof. US w dniu 7.10.br ( środa) zostają odwołane – zajęcia zostaną odrobione w późniejszym czasie."
+   }
+  ],
+  "zmiany": {
+   "PGWSN2": [
+    {
+     "type": "note",
+     "date": "2026-10-07",
+     "post": 0,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.781Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "GC1": {
    "odd": [
@@ -1272,5 +1272,54 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-malgorzata-dula-odwolanie-zajec-7/",
+    "title": "mgr Małgorzata Dula- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-29",
+    "text": "Uwaga Studenci filologia angielska II rok I stopnia oraz Global Communication I rok I stopnia, informujemy, iż zajęcia z mgr Małgorzatą Dulą w dniach 29 i 30 października nie odbędą się. Odrabianie zajęć rozpocznie się od przyszłego tygodnia. Za utrudnienia przepraszamy."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-malgorzata-dula-odwolanie-zajec-6/",
+    "title": "mgr Małgorzata Dula- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-22",
+    "text": "Szanowni Studenci Global Communication I rok I stopnia, informujemy, iż zajęcia z mgr Małgorzatą Dulą w dniu 23.10.2026 r . nie odbędą się. Termin odrobienia zajęć zostanie ustalony z Państwem na zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-malgorzata-dula-odwolanie-zajec-5/",
+    "title": "mgr Małgorzata Dula- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Uwaga Studenci filologii angielskiej oraz Global Communication, informujemy, iż zajęcia w dniu dzisiejszym 9.10.2026r. z mgr Małgorzatą Dulą nie odbędą się, o kolejnych nieobecnościach lub zastępstwach będziemy informować na bieżąco, za utrudnienia przepraszamy. Terminy odrabiania zajęć zostaną z Państwem ustalone ."
+   }
+  ],
+  "zmiany": {
+   "GC1": [
+    {
+     "type": "note",
+     "date": "2026-10-09",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-23",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-30",
+     "post": 0,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.419Z"
  }
 }

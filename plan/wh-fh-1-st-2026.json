@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "FH1": {
    "odd": [
@@ -834,5 +834,51 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/odwolane-zajecia-dr-k-ciarcinska/",
+    "title": "odwołane zajęcia- dr K. Ciarcińska",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Szanowni Państwo, w dniu dzisiejszym zostają odwołane zajęcia z przedmiotu historia filozofii o godz 9:30-11:00 z dr K Ciarcińską na Wielkopolskiej- kierunki (FH+Diks +ITA)"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-justyna-tomczak-boczko-odwolanie-zajec-2/",
+    "title": "dr Justyna Tomczak-Boczko- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Dzień dobry, informujemy, że pracownik Justyna Tomczak-Boczko zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Językoznawstwa Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-05 17:00 – – – FHI-SI.26-1-L.2 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia hiszpańska stacjonarne pierwszego stopnia 1 gramatyka praktyczna i słownictwo laboratorium – Przyczyna nieobecności inne Uzasadnienie sytuacja rodzinna Proponowana treść ogłoszenia dla studentów: Zajęcia z 5 listopada są odwołane, zostaną odrobione w terminie wspólnie ustalonym. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-05 18:30 – – – FHI-SI.26-1-L.2 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia hiszpańska stacjonarne pierwszego stopnia 1 gramatyka praktyczna i słownictwo laboratorium – Przyczyna nieobecności inne Uzasadnienie sytuacja rodzinna Proponowana treść ogłoszenia dla studentów: Zajęcia z 5 listopada są odwołane, zostaną odrobione w terminie wspólnie ustalonym. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-11-05 13:30 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia hiszpańska stacjonarne pierwszego stopnia 2 Mujer espanola en los siglos XX y XXI (kobieta hiszpańska w XX i XXI wieku) wykład – Przyczyna nieobecności inne Uzasadnienie sytuacja rodzinna Proponowana treść ogłoszenia dla studentów: Zajęcia z 5 listopada są odwołane, zostaną odrobione w terminie wspólnie ustalonym. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 4 2026-11-05 15:15 – – – FHI-SI.25-2-L.2 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia hiszpańska stacjonarne pierwszego stopnia 2 ćwiczenia w pisaniu laboratorium – Przyczyna nieobecności inne Uzasadnienie sytuacja rodzinna Proponowana treść ogłoszenia dla studentów: Zajęcia z 5 listopada są odwołane, zostaną odrobione w terminie wspólnie ustalonym."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-katarzyna-ciarcinska-odwolanie-zajec/",
+    "title": "dr Katarzyna Ciarcińska- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Z powodu choroby jestem zmuszona odwołać dzisiejsze zajęcia dydaktyczne (cztery wykłady z Historii filozofii). Bardzo proszę o przekazanie tej informacji studentom. Termin odrobienia zajęć ustalę w póżniejszym czasie. dr Katarzyna Ciarcińska"
+   }
+  ],
+  "zmiany": {
+   "FH1": [
+    {
+     "type": "note",
+     "date": "2026-11-05",
+     "post": 1
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-05",
+     "start": "17:00",
+     "pl": "PNJH – gramatyka praktyczna i słownictwo",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:27.998Z"
  }
 }

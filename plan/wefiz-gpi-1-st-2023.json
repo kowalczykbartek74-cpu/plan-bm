@@ -3,14 +3,14 @@
  "kierunek": "Gospodarka Przestrzenna inż.",
  "id": "wefiz-gpi-1-st-2023",
  "kod": "gpi23",
- "kierunekEn": "Gospodarka Przestrzenna inż.",
+ "kierunekEn": "Spatial Management (Eng.)",
  "wydzial": "WEFiZ",
  "rok": 4,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:20:59.741Z",
- "checkedAt": "2026-11-08T20:20:59.741Z",
+ "checkedAt": "2026-11-09T17:50:56.172Z",
  "groups": {
   "M460": {
    "odd": [
@@ -305,10 +305,31 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m460-odwolanie-zajec-z-drem-rafalem-szymanskim-w-dniu-17-11-2026-r/",
+    "title": "M460- odwołanie zajęć z drem Rafałem Szymańskim w dniu 17.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Zajęcia z dr. Rafałem Szymańskim w dniu 24.11.26 r. nie odbędą się. Termin odrobienia zajęć: 17.11, godz. 13.45, sala N15."
+   }
+  ],
   "zmiany": {
-   "M460": []
+   "M460": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-24",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Rafał Szymański",
+     "r": "N15",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:37:44.074Z"
+  "updatedAt": "2026-11-09T18:02:51.105Z"
  }
 }

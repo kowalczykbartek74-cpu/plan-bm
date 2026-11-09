@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T18:39:37.121Z",
- "checkedAt": "2026-11-09T15:37:21.094Z",
+ "checkedAt": "2026-11-09T17:51:13.837Z",
  "groups": {
   "M140": {
    "odd": [
@@ -288,10 +288,24 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m140-odwolanie-zajec-z-mgrem-krzysztofem-heberleinem-w-dniu-06-10-2026-r/",
+    "title": "M140- odwołanie zajęć z mgrem Krzysztofem Heberleinem w dniu 06.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-05",
+    "text": "Zajęcia z matematyki z mgrem Krzysztofem Heberleinem w dniu 06.10.2026r. nie odbędą się. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
   "zmiany": {
-   "M140": []
+   "M140": [
+    {
+     "type": "note",
+     "date": "2026-10-06",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T18:37:59.037Z"
+  "updatedAt": "2026-11-09T18:02:52.214Z"
  }
 }

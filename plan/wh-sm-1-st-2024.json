@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "SM3": {
    "odd": [
@@ -680,5 +680,40 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/zmiana-terminu-zajec-ptak-regina-mgr/",
+    "title": "zmiana terminu zajęć- Ptak Regina mgr",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Dzień dobry, informujemy, że pracownik Regina Ptak zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Zespół Języków Klasycznych, Neołacińskich i Słowiańskich Sekcja kształcenia wg jednostki zatrudnienia: Akademickie Centrum Kształcenia Językowego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-09 14:15 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo stosunki międzynarodowe stacjonarne pierwszego stopnia 3 język francuski lektorat – Przyczyna nieobecności inne Uzasadnienie Urlop na żądanie Proponowana treść ogłoszenia dla studentów: Z ważnych powodów osobistych zajęcia z mgr Reginą Ptak są przełożone na inny termin, który zostanie uzgodniony ze studentami. 2 2026-11-10 14:15 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo Global Communication stacjonarne pierwszego stopnia 3 French I (język francuski I) laboratorium – Przyczyna nieobecności inne Uzasadnienie Urlop na żądanie Proponowana treść ogłoszenia dla studentów: Z ważnych powodów osobistych zajęcia z mgr Reginą Ptak są przełożone na inny termin, który zostanie uzgodniony ze studentami."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-frithjof-strauss-zastepstwo-dla-lektoratu-dla-kierunkow-itaarchhistsmdiksfilo/",
+    "title": "dr Frithjof Strauss- zastępstwo dla lektoratu dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "Szanowni Państwo, w dniu 05.10.2026 lektorat dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO (godz. 15.15-16.45, s. 115, bud. 4) poprowadzi w zastępstwie za dr. Frithjofa Straussa dr Karolina Matuszewska."
+   }
+  ],
+  "zmiany": {
+   "SM3": [
+    {
+     "type": "note",
+     "date": "2026-10-05",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-09",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.809Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "BSK1": {
    "odd": [
@@ -618,5 +618,52 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-aleksandra-majewicz-odrobienie-zajec/",
+    "title": "mgr Aleksandra Majewicz-odrobienie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-06",
+    "text": "Dzień dobry, informujemy, że pracownik Aleksandra Majewicz zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Wydział Humanistyczny Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-09 15:15 2026-11-20 15:15 dowolna wolna SPI-SI.24-3-MD1.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo studia pisarskie stacjonarne pierwszego stopnia 3 przepisywanie baśni konwersatorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Podaję termin odrobienia zajęć zgodnie z ustaleniami. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-12 10:00 2026-11-16 13:30 dowolna wolna FPOL-SI.25-2-PW4.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia polska stacjonarne pierwszego stopnia 2 motywy, wątki i tematy antyczne w literaturze i kulturze współczesnej konwersatorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Podaję termin odrobienia zajęć zgodnie z ustaleniami. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-11-12 15:15 2026-11-26 11:45 319 FPOL-SI.26-11 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia polska stacjonarne pierwszego stopnia 1 historia literatury polskiej – średniowiecze konwersatorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Podaję termin odrobienia zajęć zgodnie z ustaleniami. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 4 2026-11-12 17:00 2026-11-19 18:45 304 BSK-SII.26-11 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo bałtyckie studia kulturowe stacjonarne drugiego stopnia 1 literackie antropologie życia codziennego konwersatorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Podaję termin odrobienia zajęć zgodnie z ustaleniami."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/wyklad-ogolnouczelniany-bioterrorism-zaplanowany-na-dzien-29-10-2026-r-nie-odbyl-sie-zajecia-zrealizowane-zostana-w-dn-26-11-2026-w-godz-1745-1915-w-trybie-zdalnym/",
+    "title": "wykład ogólnouczelniany Bioterrorism, zaplanowany na dzień 29.10.2026 r., nie odbył się. Zajęcia zrealizowane zostaną w dn. 26.11.2026, w godz. 17:45-19:15, w trybie zdalnym.",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Dzień dobry, uprzejmie informuję, że wykład ogólnouczelniany Bioterrorism , zaplanowany na dzień 29.10.2026 r., nie odbył się. Zajęcia zrealizowane zostaną w dn. 26.11.2026, w godz. 17:45-19:15, w trybie zdalnym. Ostatnie zajęcia w ramach przedmiotu zrealizowane zostaną w dn. 03.12.2026 r., w godz. 17:45-18:30."
+   }
+  ],
+  "zmiany": {
+   "BSK1": [
+    {
+     "type": "cancel",
+     "date": "2026-11-12",
+     "start": "17:00",
+     "pl": "literackie antropologie życia codziennego",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-19",
+     "start": "18:45",
+     "end": "20:15",
+     "pl": "literackie antropologie życia codziennego",
+     "k": "K",
+     "p": "mgr Aleksandra Majewicz",
+     "r": "s. 304",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:27.562Z"
  }
 }

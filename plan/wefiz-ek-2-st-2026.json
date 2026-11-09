@@ -3,14 +3,14 @@
  "kierunek": "Ekonomia",
  "id": "wefiz-ek-2-st-2026",
  "kod": "ekm26",
- "kierunekEn": "Ekonomia",
+ "kierunekEn": "Economics",
  "wydzial": "WEFiZ",
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:20:12.518Z",
- "checkedAt": "2026-11-08T20:20:12.518Z",
+ "checkedAt": "2026-11-09T17:50:20.956Z",
  "groups": {
   "M510": {
    "odd": [
@@ -315,10 +315,41 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-m510-6/",
+    "title": "Grupa M510",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Dnia 10.11.2026 r. zostają odwołane ćwiczenia z mikroekonomii 2 z dr Marcinem Prusinowskim Termin odrabiania zajęć: 17.11.2026 r godzina 15:30 sala S0100"
+   }
+  ],
   "zmiany": {
-   "M510": []
+   "M510": [
+    {
+     "type": "cancel",
+     "date": "2026-11-10",
+     "start": "12:00",
+     "pl": "Mikroekonomia 2",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-17",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Mikroekonomia 2",
+     "k": "CW",
+     "p": "dr Michał Prusinowski",
+     "r": "S0100",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:37:43.129Z"
+  "updatedAt": "2026-11-09T18:02:40.287Z"
  }
 }

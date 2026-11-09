@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T17:57:38.677Z",
  "groups": {
   "FN1": {
    "odd": [
@@ -694,5 +694,91 @@
     "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
    }
   ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-agata-michnowska-przelozenie-zajec/",
+    "title": "mgr Agata Michnowska- przełożenie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-05",
+    "text": "Dzień dobry, informujemy, że pracownik Agata Michnowska zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Językoznawstwa Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-05 10:00 2026-11-13 11:45 101 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia norweska stacjonarne pierwszego stopnia 1 gramatyka praktyczna laboratorium – Przyczyna nieobecności inne Uzasadnienie Choroba Proponowana treść ogłoszenia dla studentów: Zajęcia z GPJN przeniesione z powodu choroby Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-05 13:30 2026-11-13 8:15 101 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia norweska stacjonarne pierwszego stopnia 1 gramatyka praktyczna laboratorium – Przyczyna nieobecności inne Uzasadnienie Choroba Proponowana treść ogłoszenia dla studentów: Zajęcia z GPJN przeniesione z powodu choroby Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-11-05 15:15 2026-11-13 10:00 101 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia norweska stacjonarne pierwszego stopnia 1 gramatyka praktyczna laboratorium – Przyczyna nieobecności inne Uzasadnienie Choroba Proponowana treść ogłoszenia dla studentów: Zajęcia z GPJN przeniesione z powodu choroby"
+   }
+  ],
+  "zmiany": {
+   "FN1": [
+    {
+     "type": "cancel",
+     "date": "2026-11-05",
+     "start": "10:00",
+     "pl": "gramatyka praktyczna",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-05",
+     "start": "13:30",
+     "pl": "gramatyka praktyczna",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-05",
+     "start": "15:15",
+     "pl": "gramatyka praktyczna",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-13",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr A. Michnowska",
+     "r": "s. 101",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-13",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr A. Michnowska",
+     "r": "s. 101",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-13",
+     "start": "11:45",
+     "end": "13:15",
+     "pl": "gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr A. Michnowska",
+     "r": "s. 101",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.083Z"
  }
 }

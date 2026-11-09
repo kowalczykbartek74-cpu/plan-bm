@@ -8,16 +8,17 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
- "changedAt": "2026-11-08T20:19:54.476Z",
- "checkedAt": "2026-11-08T20:19:54.476Z",
+ "updated": "09.11.2026 14:35",
+ "changedAt": "2026-11-09T17:50:03.373Z",
+ "checkedAt": "2026-11-09T17:50:03.373Z",
  "groups": {
   "M290": {
    "odd": [
     {
      "d": 0,
      "s": 0,
-     "pl": "Wprowadzenie do sztucznej inteligencji (introduction to artificial intelligence)",
+     "pl": "Wprowadzenie do sztucznej inteligencji",
+     "en": "Introduction to Artificial Intelligence",
      "k": "W",
      "h": 15,
      "p": "dr inż. Marcin Gryczka",
@@ -26,7 +27,8 @@
     {
      "d": 2,
      "s": 0,
-     "pl": "Finanse publiczne (public finance)",
+     "pl": "Finanse publiczne",
+     "en": "Public Finance",
      "k": "W",
      "h": 30,
      "p": "dr Natalia Marska-Dzioba",
@@ -43,7 +45,8 @@
     {
      "d": 0,
      "s": 1,
-     "pl": "Podstawy programowania komputerów (introduction to computer programming)",
+     "pl": "Podstawy programowania komputerów",
+     "en": "Introduction to Computer Programming",
      "k": "LAB",
      "h": 30,
      "p": "dr Thomas Naprawski",
@@ -52,7 +55,8 @@
     {
      "d": 2,
      "s": 1,
-     "pl": "Matematyka finansowa i ubezpieczeniowa (financial and insurance mathematics)",
+     "pl": "Matematyka finansowa i ubezpieczeniowa",
+     "en": "Financial and Insurance Mathematics",
      "k": "CW",
      "h": 30,
      "p": "dr hab. prof. US Agnieszka Majewska",
@@ -61,7 +65,8 @@
     {
      "d": 0,
      "s": 2,
-     "pl": "Analiza ekonomiczna w przedsiębiorstwie (economic analysis in enterprise)",
+     "pl": "Analiza ekonomiczna w przedsiębiorstwie",
+     "en": "Economic Analysis in Enterprise",
      "k": "W",
      "h": 15,
      "p": "dr prof. US Mirela Romanowska",
@@ -70,7 +75,8 @@
     {
      "d": 1,
      "s": 2,
-     "pl": "Ekonometria (econometrics)",
+     "pl": "Ekonometria",
+     "en": "Econometrics",
      "k": "LAB",
      "h": 15,
      "p": "dr hab. prof. US Jacek Batóg",
@@ -79,7 +85,8 @@
     {
      "d": 2,
      "s": 2,
-     "pl": "Rachunkowość w przedsiębiorstwie (accounting in enterprise)",
+     "pl": "Rachunkowość w przedsiębiorstwie",
+     "en": "Accounting in Enterprise",
      "k": "W",
      "h": 15,
      "p": "dr Magdalena Janowicz",
@@ -99,7 +106,8 @@
     {
      "d": 1,
      "s": 3,
-     "pl": "Analiza ekonomiczna w przedsiębiorstwie (economic analysis in enterprise)",
+     "pl": "Analiza ekonomiczna w przedsiębiorstwie",
+     "en": "Economic Analysis in Enterprise",
      "k": "CW",
      "h": 30,
      "p": "dr Piotr Bartoszewski",
@@ -108,7 +116,8 @@
     {
      "d": 2,
      "s": 3,
-     "pl": "Informatyka ekonomiczna (economic informatics)",
+     "pl": "Informatyka ekonomiczna",
+     "en": "Economic Informatics",
      "k": "W",
      "h": 15,
      "p": "dr Olga Pilipczuk",
@@ -142,7 +151,8 @@
     {
      "d": 0,
      "s": 0,
-     "pl": "Matematyka finansowa i ubezpieczeniowa (financial and insurance mathematics)",
+     "pl": "Matematyka finansowa i ubezpieczeniowa",
+     "en": "Financial and Insurance Mathematics",
      "k": "W",
      "h": 15,
      "p": "dr hab. prof. US Agnieszka Majewska",
@@ -151,7 +161,8 @@
     {
      "d": 2,
      "s": 0,
-     "pl": "Finanse publiczne (public finance)",
+     "pl": "Finanse publiczne",
+     "en": "Public Finance",
      "k": "W",
      "h": 30,
      "p": "dr Natalia Marska-Dzioba",
@@ -168,7 +179,8 @@
     {
      "d": 0,
      "s": 1,
-     "pl": "Podstawy programowania komputerów (introduction to computer programming)",
+     "pl": "Podstawy programowania komputerów",
+     "en": "Introduction to Computer Programming",
      "k": "LAB",
      "h": 30,
      "p": "dr Thomas Naprawski",
@@ -177,7 +189,8 @@
     {
      "d": 1,
      "s": 1,
-     "pl": "Ekonometria (econometrics)",
+     "pl": "Ekonometria",
+     "en": "Econometrics",
      "k": "W",
      "h": 15,
      "p": "dr hab. prof. US Jacek Batóg",
@@ -186,7 +199,8 @@
     {
      "d": 2,
      "s": 1,
-     "pl": "Matematyka finansowa i ubezpieczeniowa (financial and insurance mathematics)",
+     "pl": "Matematyka finansowa i ubezpieczeniowa",
+     "en": "Financial and Insurance Mathematics",
      "k": "CW",
      "h": 30,
      "p": "dr hab. prof. US Agnieszka Majewska",
@@ -204,7 +218,8 @@
     {
      "d": 1,
      "s": 2,
-     "pl": "Ekonometria (econometrics)",
+     "pl": "Ekonometria",
+     "en": "Econometrics",
      "k": "CW",
      "h": 15,
      "p": "dr hab. prof. US Jacek Batóg",
@@ -213,7 +228,8 @@
     {
      "d": 2,
      "s": 2,
-     "pl": "Rachunkowość w przedsiębiorstwie (accounting in enterprise)",
+     "pl": "Rachunkowość w przedsiębiorstwie",
+     "en": "Accounting in Enterprise",
      "k": "CW",
      "h": 15,
      "p": "dr Magdalena Janowicz",
@@ -222,7 +238,8 @@
     {
      "d": 0,
      "s": 3,
-     "pl": "Podstawy programowania komputerów (introduction to computer programming)",
+     "pl": "Podstawy programowania komputerów",
+     "en": "Introduction to Computer Programming",
      "k": "W",
      "h": 15,
      "p": "dr hab. prof. US Jakub Swacha",
@@ -231,7 +248,8 @@
     {
      "d": 1,
      "s": 3,
-     "pl": "Analiza ekonomiczna w przedsiębiorstwie (economic analysis in enterprise)",
+     "pl": "Analiza ekonomiczna w przedsiębiorstwie",
+     "en": "Economic Analysis in Enterprise",
      "k": "CW",
      "h": 30,
      "p": "dr Piotr Bartoszewski",
@@ -240,7 +258,8 @@
     {
      "d": 2,
      "s": 3,
-     "pl": "Informatyka ekonomiczna (economic informatics)",
+     "pl": "Informatyka ekonomiczna",
+     "en": "Economic Informatics",
      "k": "LAB",
      "h": 15,
      "p": "dr Olga Pilipczuk",

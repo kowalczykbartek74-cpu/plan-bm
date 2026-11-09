@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T18:39:36.404Z",
- "checkedAt": "2026-11-09T15:37:21.093Z",
+ "checkedAt": "2026-11-09T17:50:52.153Z",
  "groups": {
   "M150": {
    "odd": [
@@ -697,11 +697,141 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m150-m151-m160-m240-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniach-03-04-11-2026-r/",
+    "title": "M150, M151, M160, M240- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Wszystkie zajęcia z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r. nie odbędą się. Terminy odrobienia zajęć: 1 rok GN, wykład- 05.11.2026 r., godz. 12.00, sala S017 M151, ćwiczenia- 05.11.2026 r., godz. 13.45, sala S017 M160, wykład- 10.11.2026 r., godz. 10.00, sala S07 M160, ćwiczenia- 10.11.2026 r., godz. 12.00, sala S103 M150, ćwiczenia- 12.11.2026 r. godz. 12.00, sala S08 M240, wykład i ćwiczenia- terminy odrobienia zostaną podane w terminie późniejszym"
+   }
+  ],
   "zmiany": {
-   "M150": [],
-   "M151": []
+   "M150": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-05",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M151",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-05",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-10",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S07 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-10",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S103 M150",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S08 M240",
+     "post": 0
+    }
+   ],
+   "M151": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-05",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M151",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-05",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-10",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S07 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-10",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S103 M150",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S08 M240",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T18:37:59.033Z"
+  "updatedAt": "2026-11-09T18:02:50.004Z"
  }
 }

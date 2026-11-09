@@ -3,14 +3,14 @@
  "kierunek": "Zarządzanie",
  "id": "wefiz-zarz-1-st-2024",
  "kod": "zarz24",
- "kierunekEn": "Zarządzanie",
+ "kierunekEn": "Management",
  "wydzial": "WEFiZ",
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
- "changedAt": "2026-11-08T20:24:30.713Z",
- "checkedAt": "2026-11-08T20:24:30.713Z",
+ "updated": "09.11.2026 14:35",
+ "changedAt": "2026-11-09T17:53:15.972Z",
+ "checkedAt": "2026-11-09T17:53:15.972Z",
  "groups": {
   "C351": {
    "odd": [
@@ -534,6 +534,17 @@
      "r": "s. 407"
     },
     {
+     "d": 0,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala s. 044 Aula godz. odrabiania:13:45 i 15:15 mgr Maciej Lewandowski",
+     "dates": [
+      "2026-11-30"
+     ],
+     "n": "Jednorazowo: 30.11.2026"
+    },
+    {
      "d": 1,
      "s": 4,
      "pl": "Odrabianie zajęć",
@@ -702,17 +713,6 @@
      "r": "s. 044 (aula)"
     },
     {
-     "d": 2,
-     "s": 4,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 046 mgr Maciej Lewandowski",
-     "dates": [
-      "2026-12-23"
-     ],
-     "n": "Jednorazowo: 23.12.2026"
-    },
-    {
      "d": 3,
      "s": 5,
      "time": [
@@ -869,6 +869,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c352-39/",
+    "title": "GRUPA C352",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Dnia 30.11.2026 o godz. 13:45 i 15:15 w sali 044 Aula odbędzie się odrabianie zajęć z mgr Maciejem Lewandowskim"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c352-41/",
     "title": "GRUPA C352",
     "ym": "2026-11",
@@ -916,13 +923,6 @@
     "ym": "2026-10",
     "pub": "2026-10-19",
     "text": "Dnia 19.10.2026 zostaną odwołane zajęcia o godz. 10:00 i 12:00 z mgr Maciejem Lewandowskim. Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c352-39/",
-    "title": "GRUPA C352",
-    "ym": "2026-10",
-    "pub": "2026-10-15",
-    "text": "Dnia 23.12.2026 o godz. 15:30 w sali 046 odbędzie się odrabianie zajęć z mgr Maciejem Lewandowskim"
    },
    {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c351352-3/",
@@ -1003,9 +1003,9 @@
      "date": "2026-10-19",
      "start": "12:00",
      "pl": "Zarządzanie relacjami z klientem",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6
+      7
      ]
     },
     {
@@ -1031,7 +1031,7 @@
     {
      "type": "note",
      "date": "2026-10-27",
-     "post": 4
+     "post": 5
     },
     {
      "type": "extra",
@@ -1050,9 +1050,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Contemporary business models",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -1077,7 +1077,7 @@
      "k": "CW",
      "p": "dr Hanna Soroka-Potrzebna",
      "r": "s. SIL 316",
-     "post": 1,
+     "post": 2,
      "dup": true
     },
     {
@@ -1090,7 +1090,7 @@
      "k": "CW",
      "p": "dr Karolina Beyer",
      "r": "s. 104",
-     "post": 5,
+     "post": 6,
      "dup": true
     },
     {
@@ -1098,10 +1098,10 @@
      "date": "2026-11-30",
      "start": "8:15",
      "pl": "Metody i techniki heurystyczne",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1,
-      3
+      2,
+      4
      ]
     }
    ],
@@ -1147,9 +1147,9 @@
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Zarządzanie relacjami z klientem",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6
+      7
      ]
     },
     {
@@ -1175,7 +1175,7 @@
     {
      "type": "note",
      "date": "2026-10-27",
-     "post": 4
+     "post": 5
     },
     {
      "type": "extra",
@@ -1194,9 +1194,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Contemporary business models",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -1221,7 +1221,7 @@
      "k": "CW",
      "p": "dr Karolina Beyer",
      "r": "s. 104",
-     "post": 5,
+     "post": 6,
      "dup": true
     },
     {
@@ -1234,35 +1234,34 @@
      "k": "CW",
      "p": "dr Hanna Soroka-Potrzebna",
      "r": "s. SIL 316",
-     "post": 0,
+     "post": 1,
      "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-30",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Zarządzanie relacjami z klientem",
+     "k": "CW",
+     "p": "mgr Maciej Lewandowski",
+     "r": "s. 044",
+     "post": 0
     },
     {
      "type": "cancel",
      "date": "2026-11-30",
      "start": "13:45",
      "pl": "Metody i techniki heurystyczne",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0,
-      2
+      1,
+      3
      ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-12-23",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Zarządzanie relacjami z klientem",
-     "k": "CW",
-     "p": "mgr Maciej Lewandowski",
-     "r": "s. 046",
-     "post": 7,
-     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:55.341Z"
+  "updatedAt": "2026-11-09T18:04:46.636Z"
  }
 }
