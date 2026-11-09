@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
- "changedAt": "2026-11-08T18:37:45.349Z",
- "checkedAt": "2026-11-08T22:39:21.454Z",
+ "updated": "09.11.2026 14:35",
+ "changedAt": "2026-11-09T13:43:42.109Z",
+ "checkedAt": "2026-11-09T13:43:42.109Z",
  "groups": {
   "C181": {
    "odd": [
@@ -103,9 +103,31 @@
      "k": "W",
      "p": "dr hab. prof. US Augustyna Burlita",
      "r": "s. 607"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 507 mgr Sebastian Matysik",
+     "dates": [
+      "2027-01-18"
+     ],
+     "n": "Jednorazowo: 18.01.2027"
     }
    ],
    "even": [
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 607 mgr Sebastian Matysik",
+     "dates": [
+      "2027-01-26"
+     ],
+     "n": "Jednorazowo: 26.01.2027"
+    },
     {
      "d": 4,
      "s": 0,
@@ -356,6 +378,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c181-66/",
+    "title": "GRUPA C181",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Dnia 11.01.2027 zostają odwołane zajęcia z mgr Sebastianem Matysikiem. Termin odrobienia zajęć: 18.01.2027 godz. 15:30 sala 507 26.01.2027 godz. 8:15 sala 607"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c181-65/",
     "title": "GRUPA C181",
     "ym": "2026-10",
@@ -398,9 +427,9 @@
      "date": "2026-10-02",
      "start": "10:00",
      "pl": "Podstawy makroekonomii",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -413,7 +442,7 @@
      "k": "CW",
      "p": "dr Małgorzata Zakrzewska-Grünwald",
      "r": "s. SIL 324",
-     "post": 4
+     "post": 5
     },
     {
      "type": "extra",
@@ -425,7 +454,7 @@
      "k": "CW",
      "p": "dr Małgorzata Zakrzewska-Grünwald",
      "r": "s. SIL 314",
-     "post": 3
+     "post": 4
     },
     {
      "type": "extra",
@@ -437,16 +466,16 @@
      "k": "W",
      "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
      "r": "s",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
      "date": "2026-10-16",
      "start": "10:00",
      "pl": "Podstawy makroekonomii",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -459,16 +488,16 @@
      "k": "CW",
      "p": "mgr Julia Klimek",
      "r": "s. 046",
-     "post": 0
+     "post": 1
     },
     {
      "type": "cancel",
      "date": "2026-10-23",
      "start": "10:00",
      "pl": "Podstawy makroekonomii",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -477,9 +506,9 @@
      "start": "12:00",
      "pl": "Podstawy ekonomiki przedsiębiorstw",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -492,20 +521,54 @@
      "k": "CW",
      "p": "dr Małgorzata Zakrzewska-Grünwald",
      "r": "s. 041",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
      "date": "2026-11-10",
      "start": "12:00",
      "pl": "Podstawy ekonomiki przedsiębiorstw",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
+    },
+    {
+     "type": "cancel",
+     "date": "2027-01-11",
+     "start": "12:00",
+     "pl": "Metody twórczego rozwiązywania problemów",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-18",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Metody twórczego rozwiązywania problemów",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 507",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-26",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Metody twórczego rozwiązywania problemów",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 607",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-08T18:38:23.200Z"
+  "updatedAt": "2026-11-09T13:44:34.446Z"
  }
 }

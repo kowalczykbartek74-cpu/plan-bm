@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T00:54:45.527Z",
- "checkedAt": "2026-11-08T22:39:21.454Z",
+ "checkedAt": "2026-11-09T13:43:54.215Z",
  "groups": {
   "C151": {
    "odd": [
@@ -946,13 +946,6 @@
     "ym": "2026-10",
     "pub": "2026-10-02",
     "text": "Dnia 06.10.2026 zostają odwołane zajęcia z dr hab. Moniką Różycką. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c151-c152-6/",
-    "title": "GRUPA C151 C152",
-    "ym": "2026-09",
-    "pub": "2026-09-29",
-    "text": "Grupy 151 i 152: zajęcia z dr Dominiką Kordelą dnia 09.10.2026 zostają odwołane. Zajęcia będą odrobione zgodnie z następującym harmonogramem: 152A – 06.10.2026 godz. 13:45 s. SIL134/136 152B- 06.10.2026 godz. 15:30 s. SIL134/136 151A – 20.10.2026 godz. 13:45 s. SIL134/136 151B- 20.10.2026 godz. 15:30 s. SIL134/136"
    }
   ],
   "zmiany": {
@@ -969,30 +962,6 @@
      ]
     },
     {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-06",
-     "start": "13:45",
-     "end": "15:15",
-     "pl": "Podstawy finansów",
-     "k": "LAB",
-     "p": "dr Dominika Kordela",
-     "r": "s. SIL134/136 152B-",
-     "post": 6
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-06",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Podstawy finansów",
-     "k": "LAB",
-     "p": "dr Dominika Kordela",
-     "r": "s. SIL134/136 151A –",
-     "post": 6
-    },
-    {
      "type": "cancel",
      "date": "2026-10-09",
      "start": "8:15",
@@ -1004,28 +973,6 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-09",
-     "start": "10:00",
-     "pl": "Podstawy finansów",
-     "g": "A",
-     "post": 6,
-     "posts": [
-      6
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-09",
-     "start": "12:00",
-     "pl": "Podstawy finansów",
-     "g": "B",
-     "post": 6,
-     "posts": [
-      6
-     ]
-    },
-    {
-     "type": "cancel",
      "date": "2026-10-20",
      "start": "12:00",
      "pl": "Nauka o przedsiębiorstwie",
@@ -1033,30 +980,6 @@
      "posts": [
       2
      ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-20",
-     "start": "13:45",
-     "end": "15:15",
-     "pl": "Podstawy finansów",
-     "k": "LAB",
-     "p": "dr Dominika Kordela",
-     "r": "s. SIL134/136 151B-",
-     "post": 6
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-20",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Podstawy finansów",
-     "k": "LAB",
-     "p": "dr Dominika Kordela",
-     "r": "s. SIL134/136",
-     "post": 6
     },
     {
      "type": "extra",
@@ -1146,30 +1069,6 @@
      ]
     },
     {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-06",
-     "start": "13:45",
-     "end": "15:15",
-     "pl": "Podstawy finansów",
-     "k": "LAB",
-     "p": "dr Dominika Kordela",
-     "r": "s. SIL134/136 152B-",
-     "post": 6
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-06",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Podstawy finansów",
-     "k": "LAB",
-     "p": "dr Dominika Kordela",
-     "r": "s. SIL134/136 151A –",
-     "post": 6
-    },
-    {
      "type": "cancel",
      "date": "2026-10-07",
      "start": "12:00",
@@ -1177,17 +1076,6 @@
      "post": 4,
      "posts": [
       4
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-09",
-     "start": "8:15",
-     "pl": "Podstawy finansów",
-     "g": "A",
-     "post": 6,
-     "posts": [
-      6
      ]
     },
     {
@@ -1202,17 +1090,6 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-09",
-     "start": "13:45",
-     "pl": "Podstawy finansów",
-     "g": "B",
-     "post": 6,
-     "posts": [
-      6
-     ]
-    },
-    {
-     "type": "cancel",
      "date": "2026-10-20",
      "start": "12:00",
      "pl": "Nauka o przedsiębiorstwie",
@@ -1220,30 +1097,6 @@
      "posts": [
       2
      ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-20",
-     "start": "13:45",
-     "end": "15:15",
-     "pl": "Podstawy finansów",
-     "k": "LAB",
-     "p": "dr Dominika Kordela",
-     "r": "s. SIL134/136 151B-",
-     "post": 6
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-20",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Podstawy finansów",
-     "k": "LAB",
-     "p": "dr Dominika Kordela",
-     "r": "s. SIL134/136",
-     "post": 6
     },
     {
      "type": "extra",
@@ -1380,6 +1233,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-08T00:54:53.857Z"
+  "updatedAt": "2026-11-09T13:44:37.048Z"
  }
 }

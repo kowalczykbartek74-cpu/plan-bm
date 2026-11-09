@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T18:35:57.622Z",
- "checkedAt": "2026-11-08T22:39:21.453Z",
+ "checkedAt": "2026-11-09T13:43:37.912Z",
  "groups": {
   "C131": {
    "odd": [
@@ -613,20 +613,6 @@
     "ym": "2026-10",
     "pub": "2026-10-05",
     "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Magdaleną Kotnis. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c161-c132/",
-    "title": "GRUPA C161, C132",
-    "ym": "2026-09",
-    "pub": "2026-09-28",
-    "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Aleksandrą Werner. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c131-34/",
-    "title": "GRUPA C131",
-    "ym": "2026-09",
-    "pub": "2026-09-28",
-    "text": "Dnia 06.10.2026 zostają odwołane zajęcia z dr Aleksandrą Werner. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -654,11 +640,6 @@
       2,
       6
      ]
-    },
-    {
-     "type": "note",
-     "date": "2026-10-06",
-     "post": 8
     },
     {
      "type": "cancel",
@@ -722,11 +703,6 @@
      ]
     },
     {
-     "type": "note",
-     "date": "2026-10-05",
-     "post": 7
-    },
-    {
      "type": "cancel",
      "date": "2026-10-16",
      "start": "12:00",
@@ -787,6 +763,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-08T18:36:28.240Z"
+  "updatedAt": "2026-11-09T13:44:31.990Z"
  }
 }

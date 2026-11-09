@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
- "changedAt": "2026-11-08T18:37:35.477Z",
- "checkedAt": "2026-11-08T22:39:21.451Z",
+ "updated": "09.11.2026 14:35",
+ "changedAt": "2026-11-09T13:43:21.330Z",
+ "checkedAt": "2026-11-09T13:43:21.330Z",
  "groups": {
   "C171": {
    "odd": [
@@ -95,6 +95,14 @@
       "2026-12-17"
      ],
      "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Wprowadzenie do e-biznesu",
+     "k": "W",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. SIL 145/146 (lab)"
     }
    ],
    "even": [
@@ -193,14 +201,6 @@
      "k": "CW",
      "p": "mgr Krzysztof Heberlein",
      "r": "s. 607"
-    },
-    {
-     "d": 0,
-     "s": 3,
-     "pl": "Wprowadzenie do e-biznesu",
-     "k": "W",
-     "p": "dr Zbigniew Stempnakowski",
-     "r": "s. 003"
     }
    ]
   }
@@ -348,6 +348,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c171-27/",
+    "title": "GRUPA C171",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Od dnia 16.11.2026 wykład z dr Zbigniewem Stempnakowskim będzie odbywał się w poniedziałki nieparzyste w godz. 13:45-15:15 w sali SIL 145/146 LAB"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c171-zmiana-w-planie/",
     "title": "GRUPA C171 – ZMIANA W PLANIE",
     "ym": "2026-10",
@@ -367,25 +374,23 @@
     "ym": "2026-09",
     "pub": "2026-09-30",
     "text": "Dnia 07.10.2026 zostają odwołane zajęcia z dr Anną Ścibior-Butrym. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c171-23/",
-    "title": "GRUPA C171",
-    "ym": "2026-09",
-    "pub": "2026-09-28",
-    "text": "Dnia 06.10.2026 zostają odwołane zajęcia z dr Aleksandrą Werner. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
    "C171": [
     {
-     "type": "note",
-     "date": "2026-10-06",
-     "post": 3
+     "type": "cancel",
+     "date": "2026-10-07",
+     "start": "8:15",
+     "pl": "Podstawy zarządzania",
+     "post": 3,
+     "posts": [
+      3
+     ]
     },
     {
      "type": "cancel",
-     "date": "2026-10-07",
+     "date": "2026-10-21",
      "start": "8:15",
      "pl": "Podstawy zarządzania",
      "post": 2,
@@ -394,17 +399,20 @@
      ]
     },
     {
-     "type": "cancel",
-     "date": "2026-10-21",
-     "start": "8:15",
-     "pl": "Podstawy zarządzania",
-     "post": 1,
-     "posts": [
-      1
-     ]
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-16",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Wprowadzenie do e-biznesu",
+     "k": "X",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. SIL 145/146 LAB",
+     "post": 0,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-08T18:38:07.874Z"
+  "updatedAt": "2026-11-09T13:44:23.888Z"
  }
 }
