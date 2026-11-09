@@ -37,6 +37,13 @@ jobs:
         with:
           node-version: 20
 
+      # Plany z PDF (WPiA i kolejne wydziały): tekst z pozycjami przez PyMuPDF (scripts/us/pdf_tekst.py)
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: PyMuPDF (odczyt PDF-ów wydziałów)
+        run: pip install pymupdf==1.28.2
+
       - name: Pobierz plan ze strony uczelni
         id: plan
         if: github.event.schedule != '20 7-18 * * *'   # przebiegi co godzinę sprawdzają tylko dziekanat
@@ -49,11 +56,20 @@ jobs:
         id: plank
         if: github.event.schedule != '20 7-18 * * *'
         continue-on-error: true
-        timeout-minutes: 20
+        # Etap 7: WEFiZ niestacjonarne = plany ok. 210 wykładowców (1 zapytanie/s, serwer bywa wolny)
+        timeout-minutes: 50
+        env:
+          # token automatu do kolejki zatwierdzeń Skrótu (skrot-bm v50); bez niego szkice planów z PDF zostają tylko w logu
+          PLAN_IMPORT_TOKEN: ${{ secrets.PLAN_IMPORT_TOKEN }}
         run: node scripts/update-plan.mjs --wszystkie
 
       - name: Lista roczników na stronie (wybór kierunku)
         run: node scripts/kierunki.mjs
+
+      # Etap 8: adresy roczników dla wyszukiwarek (?k=<kod>)
+      - name: Mapa strony (sitemap.xml, robots.txt)
+        continue-on-error: true
+        run: node scripts/sitemap.mjs
 
       - name: Dołącz kalendarz roku (kalendarz.json)
         id: kalendarz
@@ -68,18 +84,24 @@ jobs:
       - name: Komunikaty dziekanatu dla pozostałych roczników (tylko DOS)
         id: dzk
         continue-on-error: true
-        timeout-minutes: 15
+        # Etap 6: wszystkie 8 sekcji DOS; pierwszy przebieg czyta treść ok. 450 wpisów (1 zapytanie/s), potem plan/_dos-wpisy.json
+        timeout-minutes: 25
         run: node scripts/dziekanat.mjs --kierunki
 
       - name: Pliki do kalendarza w telefonie (kalendarz/*.ics)
         continue-on-error: true   # błąd w plikach kalendarza nie blokuje publikacji planu
         run: node scripts/ics.mjs
 
+      # Etap 8: stan wszystkich roczników (źródło, ostatni import, liczba zajęć, status) – stan.html na stronie, docs/stan-planow.md
+      - name: Stan planów (stan.html, docs/stan-planow.md)
+        continue-on-error: true
+        run: node scripts/stan-planow.mjs
+
       - name: Zapisz nową wersję
         run: |
           git config user.name "plan-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add plan.json index.html kalendarz plan
+          git add plan.json index.html kalendarz plan stan.html sitemap.xml robots.txt docs/stan-planow.md
           if git diff --cached --quiet; then
             echo "Nic do zapisania."
           else
@@ -142,7 +164,7 @@ jobs:
         if: steps.decide.outputs.publish == 'true'
         run: |
           mkdir -p _site
-          cp index.html skrzynka.html przenies.html plan.json kalendarz.json CNAME _site/
+          cp index.html skrzynka.html przenies.html plan.json kalendarz.json CNAME stan.html sitemap.xml robots.txt _site/
           cp -r kalendarz _site/
           if [ -d plan ]; then cp -r plan _site/; fi
           touch _site/.nojekyll
