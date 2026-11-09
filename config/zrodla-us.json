@@ -1,6 +1,6 @@
 {
  "opis": "Wygenerowane: node scripts/us/inwentarz.mjs. Nie edytuj ręcznie (wydziały i strony: config/wydzialy-us.json). Źródło = {url, plik, format, tryb, typ, kierunki:[{kod, stopien, lata}], wersja (data z nazwy pliku), sha256, rozmiar}.",
- "wygenerowano": "2026-11-08",
+ "wygenerowano": "2026-11-09",
  "wydzialy": {
   "wefiz": {
    "skrot": "WEFiZ",

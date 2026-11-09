@@ -85,6 +85,12 @@
       "kod": "wt", "skrot": "WT", "pl": "Wydział Teologiczny", "en": "Faculty of Theology",
       "oferta": "Wydział Teologiczny",
       "parser": "wt",
+      "importer": "wt-pdf.mjs",
+      "roczniki": {
+        "_opis": "Oba PDF-y WT to skany bez tekstu – stopień i lata z nagłówków kolumn (odczyt obrazu 9.11.2026). Teologia: ROK 1–5 + „seminaria magisterskie” = jednolite (stopień 0); oferta rekrutacji podaje ją wśród I st. i jednolitych.",
+        "Plan-TEO": [{ "stopien": 0, "lata": [1, 2, 3, 4, 5] }],
+        "Plan-NOR": [{ "stopien": 1, "lata": [1, 2, 3] }, { "stopien": 2, "lata": [1, 2] }]
+      },
       "strony": [
         { "url": "https://teo.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" }
       ],

@@ -138,6 +138,11 @@ function wpisyZeZrodel(wydz, zrodla, ofertaW, tytuly) {
         if (o.length === 1) { w.nazwa = o[0].nazwa; w.potw = `skrót ${k.skrot} = inicjały nazwy z oferty (aplikacja nie podaje pełnej nazwy)`; }
         else pytania.push(`WKFiZ: skrót grupy ${k.skrot} – ${o.length ? "kilka" : "żaden"} kierunek z oferty o tych inicjałach`);
       }
+      if (wydz.kod === "wt") {
+        // skany bez tekstu: stopień i lata z config/wydzialy-us.json („roczniki”: prefiks nazwy pliku → [{stopien, lata}])
+        const r = Object.entries(wydz.roczniki || {}).find(([p]) => !p.startsWith("_") && z.plik.startsWith(p))?.[1];
+        if (r) { for (const x of r) wpisy.push({ ...w, stopien: x.stopien, lata: x.lata, potw: "stopień i lata z nagłówków kolumn skanu (config/wydzialy-us.json → roczniki)" }); continue; }
+      }
       if (wydz.kod === "wnsip") w.kandydaciKodu = [k.skrot, k.skrotPliku];
       if (wydz.kod === "wpia") w.kandydaciKodu = [k.skrot, k.skrotPliku && k.skrotPliku.replace(/^(SS|NS|N)(?=[A-Z])/, "")];
       if (wydz.kod === "wns" && z.tryb === "nst" && !dopasuj(k.nazwa, ofertaW)) {

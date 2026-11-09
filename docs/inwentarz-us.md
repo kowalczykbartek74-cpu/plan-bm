@@ -1,6 +1,6 @@
 # Inwentarz źródeł planów US
 
-Wygenerowane 2026-11-08: `node scripts/us/inwentarz.mjs`. Dane: `config/zrodla-us.json`, `config/kierunki-us.json`.
+Wygenerowane 2026-11-09: `node scripts/us/inwentarz.mjs`. Dane: `config/zrodla-us.json`, `config/kierunki-us.json`.
 
 Oferta rekrutacji US 2026/27 (kandydaci.usz.edu.pl): 75 kierunków I st. i jednolitych, 55 II st.
 
@@ -14,7 +14,7 @@ Oferta rekrutacji US 2026/27 (kandydaci.usz.edu.pl): 75 kierunków I st. i jedno
 | WNS | 16 | 23 | 62 | 0 | 72 | pdf |
 | WNŚiP | 16 | 20 | 38 | 0 | 38 | pdf |
 | WPiA | 5 | 8 | 22 | 11 | 33 | pdf |
-| WT | 2 | 3 | 0 | 0 | 2 | pdf |
+| WT | 2 | 3 | 10 | 0 | 2 | pdf |
 
 „Roczniki z planem” = kierunek × stopień × rok, dla którego źródło wprost podaje rok. Pliki „I i II st.” (WH) i plany bez roku (WT) liczą się dopiero po odczycie treści (Etap 4/5).
 
@@ -191,8 +191,8 @@ Strony: [st](https://teo.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/). D
 
 | Kierunek | Kod | Skróty w źródłach | Oferta 2026/27 | Stopnie w źródłach | Tryby | Lata z planem | Uwagi |
 |---|---|---|---|---|---|---|---|
-| Nauki o rodzinie — doradztwo, coaching, mediacje | `NOR` | NOR | I/jm+II st | I, II | st | ? |  |
-| Teologia | `TEO` | TEO | I/jm st | I | st | ? |  |
+| Nauki o rodzinie — doradztwo, coaching, mediacje | `NOR` | NOR | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 | stopień i lata z nagłówków kolumn skanu (config/wydzialy-us.json → roczniki) |
+| Teologia | `TEO` | TEO | I/jm st | jm | st | st jm: 1,2,3,4,5 | stopień i lata z nagłówków kolumn skanu (config/wydzialy-us.json → roczniki) |
 
 Błędy pobierania: `Wychowanie-fizyczne-2026-27a.pdf`: brak pliku (404).
 
@@ -203,7 +203,5 @@ Błędy pobierania: `Wychowanie-fizyczne-2026-27a.pdf`: brak pliku (404).
 3. WKFiZ: grupa „ERASMUS +” (30 zajęć) nie ma formy „<kierunek> <rok> rok <stopień>”
 4. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 5. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
-6. WT: „Nauki o rodzinie — doradztwo, coaching, mediacje” – źródło nie podaje stopnia/roku (Plan-NOR-2026-27a.pdf)
-7. WT: „Teologia” – źródło nie podaje stopnia/roku (Plan-TEO-2026-27a.pdf)
 
 Zapytania: sieć 0, HEAD 0, cache 191. Pliki: 180 (nowo pobrane 0, błędy 1).

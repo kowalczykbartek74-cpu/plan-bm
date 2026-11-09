@@ -43,3 +43,13 @@ Kiedy wydział podmieni PDF: nowy szkic zastępuje stary niezatwierdzony; na str
 
 Sprawdzenie bez sieci: `node scripts/us/importuj.mjs --wydzial wpia --na-sucho` (szkice w `.cache/us/szkice/`),
 porównanie z PDF-em: `docs/wpia-pilot.md` (`node scripts/us/wpia-pilot.mjs`).
+
+## WT (Teologia, Nauki o rodzinie) – skany
+
+Oba PDF-y Wydziału Teologicznego to skany (obraz strony, bez tekstu), więc parser współrzędnych nie ma czego czytać. Plan pochodzi z **odczytu AI** zapisanego w `odczyty/wt/<plik>.json` (9.11.2026: Teologia 61 zajęć w 5 rocznikach jm, Nauki o rodzinie 54 zajęcia w I st. 1–3 i II st. 1–2). `scripts/us/wt-pdf.mjs` zamienia odczyt na plany i wysyła 10 szkiców do kolejki (wydział `WT`, profil `importy/WT.json` – skrot-bm, gałąź `importy/plan-bm-automat`, commit 4bf9ff4).
+
+Odczyt obowiązuje tylko dla pliku o tym samym sha256. Gdy wydział wrzuci nową wersję (np. `Plan-TEO-2026-27b.pdf`), automat **niczego nie zgaduje**: roczniki WT dostają w `plan/_import.json` błąd „skan bez odczytu”, na stronie zostaje ostatni zatwierdzony plan. Wtedy:
+1. zdawalni.pl → Narzędzia starosty → Importy → wgraj nowy PDF, profil **WT** (szkic AI z Twoim kluczem), albo
+2. poproś Claude Code o nowy odczyt `odczyty/wt/<nowy plik>.json` – przejdzie przez tę samą kolejkę.
+
+Pominięte w odczycie (terminy nieustalone w planie): NOR I st. 2 rok „Opieka paliatywno-hospicyjna” [4], NOR II st. 2 rok „Metody diagnozowania środowiska rodzinnego” (laboratorium) [5].

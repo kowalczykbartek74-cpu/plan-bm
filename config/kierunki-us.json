@@ -1,6 +1,6 @@
 {
  "opis": "Wygenerowane: node scripts/us/inwentarz.mjs. Oficjalna lista kierunków US (oferta 2026/27 + kierunki ze stron planów), kody z nazw plików/źródeł, id roczników <wydział>-<kod>-<stopień>-<tryb>-<nabór> (stopień 0 = jednolite). Nazwy EN: config/nazwy-en.json.",
- "wygenerowano": "2026-11-08",
+ "wygenerowano": "2026-11-09",
  "wydzialy": {
   "wefiz": {
    "skrot": "WEFiZ",
@@ -5015,14 +5015,58 @@
      },
      "maZrodlo": true,
      "zrodloKodu": "skrót „NOR” ze źródła",
-     "roczniki": []
+     "uwagi": [
+      "stopień i lata z nagłówków kolumn skanu (config/wydzialy-us.json → roczniki)"
+     ],
+     "roczniki": [
+      {
+       "id": "wt-nor-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wt-nor-1-st-2025",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wt-nor-1-st-2024",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wt-nor-2-st-2026",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wt-nor-2-st-2025",
+       "stopien": 2,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+       "nabor": 2025
+      }
+     ]
     },
     {
      "kod": "TEO",
      "pl": "Teologia",
      "en": "Theology",
      "stopnie": [
-      1
+      0
      ],
      "tryby": [
       "st"
@@ -5042,7 +5086,51 @@
      },
      "maZrodlo": true,
      "zrodloKodu": "skrót „TEO” ze źródła",
-     "roczniki": []
+     "uwagi": [
+      "stopień i lata z nagłówków kolumn skanu (config/wydzialy-us.json → roczniki)"
+     ],
+     "roczniki": [
+      {
+       "id": "wt-teo-0-st-2026",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wt-teo-0-st-2025",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 2,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wt-teo-0-st-2024",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 3,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wt-teo-0-st-2023",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 4,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+       "nabor": 2023
+      },
+      {
+       "id": "wt-teo-0-st-2022",
+       "stopien": 0,
+       "tryb": "st",
+       "rok": 5,
+       "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+       "nabor": 2022
+      }
+     ]
     }
    ]
   }
