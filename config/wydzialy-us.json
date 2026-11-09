@@ -56,6 +56,7 @@
       "oferta": "Wydział Nauk Społecznych",
       "parser": "wns",
       "importer": "wns-pdf.mjs",
+      "nstEtykiety": { "_opis": "Etap 7: etykiety kolumn w PDF-ach zjazdów (studia niestacjonarne) → kierunek", "BN": "Bezpieczeństwo narodowe", "BW": "Bezpieczeństwo wewnętrzne", "MIPiPR": "Management instytucji publicznych i Public Relations", "ped": "Pedagogika", "ps": "Praca socjalna", "reso": "Pedagogika resocjalizacyjna", "ppiw": "Pedagogika przedszkolna i wczesnoszkolna", "pedspec": "Pedagogika specjalna" },
       "strony": [
         { "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" },
         { "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", "tryb": "nst", "format": "pdf" }

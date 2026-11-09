@@ -3230,9 +3230,38 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „BN” ze źródła",
      "uwagi": [
-      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+      "nagłówki kolumn w PDF zjazdu (BN-1-zjazd-3.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BN-2-zjazd-4.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BN-3-zjazd-6.11.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BN-4-zjazd-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BN-5-zjazd-1.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BN-6-zjazd-1.pdf)"
      ],
      "roczniki": [
+      {
+       "id": "wns-bn-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-6-zjazd-1.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-bn-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-6-zjazd-1.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-bn-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BN-6-zjazd-1.pdf",
+       "nabor": 2024
+      },
       {
        "id": "wns-bn-1-st-2026",
        "stopien": 1,
@@ -3305,9 +3334,38 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „BW” ze źródła",
      "uwagi": [
-      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+      "nagłówki kolumn w PDF zjazdu (BW-I-i-II-1-zjazd-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BW-I-i-II-2-zjazd-3.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BW-3-zjazd-6.11.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BW-I-i-II-4-zjazd-1.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BW-I-i-II-5-zjazd-1.pdf)",
+      "nagłówki kolumn w PDF zjazdu (BW-I-i-II-6-zjazd-1.pdf)"
      ],
      "roczniki": [
+      {
+       "id": "wns-bw-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-6-zjazd-1.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-bw-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-6-zjazd-1.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-bw-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-6-zjazd-1.pdf",
+       "nabor": 2024
+      },
       {
        "id": "wns-bw-1-st-2026",
        "stopien": 1,
@@ -3331,6 +3389,22 @@
        "rok": 3,
        "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
        "nabor": 2024
+      },
+      {
+       "id": "wns-bw-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-6-zjazd-1.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-bw-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-i-II-6-zjazd-1.pdf",
+       "nabor": 2025
       },
       {
        "id": "wns-bw-2-st-2026",
@@ -3450,9 +3524,38 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „MIPiPR” ze źródła",
      "uwagi": [
-      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+      "nagłówki kolumn w PDF zjazdu (MIPIPR-1-zjazd-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (MIPIPR-2-zjazd-3.pdf)",
+      "nagłówki kolumn w PDF zjazdu (MIPiPR-3-zjazd-6.11.pdf)",
+      "nagłówki kolumn w PDF zjazdu (MIPIPR-4-zjazd-1.pdf)",
+      "nagłówki kolumn w PDF zjazdu (MIPIPR-5-zjazd.pdf)",
+      "nagłówki kolumn w PDF zjazdu (MIPIPR-6-zjazd.pdf)"
      ],
      "roczniki": [
+      {
+       "id": "wns-mipipr-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPIPR-6-zjazd.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-mipipr-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPIPR-6-zjazd.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-mipipr-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/MIPIPR-6-zjazd.pdf",
+       "nabor": 2024
+      },
       {
        "id": "wns-mipipr-1-st-2026",
        "stopien": 1,
@@ -3525,10 +3628,29 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „PedO” ze źródła",
      "uwagi": [
-      "wspólny plik kilku kierunków",
-      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+      "nagłówki kolumn w PDF zjazdu (1-zjazd-Ped-O-PS-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (2-zjazd-Ped-O-i-PS-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (3-zjazd-Ped-O-i-PS-4.pdf)",
+      "nagłówki kolumn w PDF zjazdu (PedO-i-PS-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (5-zjazd-PedO-i-PS.pdf)"
      ],
      "roczniki": [
+      {
+       "id": "wns-pedo-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedO-i-PS.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-pedo-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedO-i-PS.pdf",
+       "nabor": 2025
+      },
       {
        "id": "wns-pedo-1-st-2026",
        "stopien": 1,
@@ -3629,9 +3751,53 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „PPIW” ze źródła",
      "uwagi": [
-      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+      "nagłówki kolumn w PDF zjazdu (1-zjazd-PPiW-1.pdf)",
+      "nagłówki kolumn w PDF zjazdu (2-zjazd-PPiW-6.pdf)",
+      "nagłówki kolumn w PDF zjazdu (3-zjazd-PPiW-4.pdf)",
+      "nagłówki kolumn w PDF zjazdu (4-zjazd-PPiW.pdf)",
+      "nagłówki kolumn w PDF zjazdu (5-zjazd-PPiW.pdf)"
      ],
      "roczniki": [
+      {
+       "id": "wns-ppiw-0-nst-2026",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PPiW.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-ppiw-0-nst-2025",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PPiW.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-ppiw-0-nst-2024",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PPiW.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-ppiw-0-nst-2023",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 4,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PPiW.pdf",
+       "nabor": 2023
+      },
+      {
+       "id": "wns-ppiw-0-nst-2022",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 5,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PPiW.pdf",
+       "nabor": 2022
+      },
       {
        "id": "wns-ppiw-0-st-2026",
        "stopien": 0,
@@ -3705,9 +3871,37 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „RESO” ze źródła",
      "uwagi": [
-      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+      "nagłówki kolumn w PDF zjazdu (1-zjazd-RESO-1.pdf)",
+      "nagłówki kolumn w PDF zjazdu (2-zjazd-RESO-3.pdf)",
+      "nagłówki kolumn w PDF zjazdu (3-zjazd-RESO-4.pdf)",
+      "nagłówki kolumn w PDF zjazdu (4-zjazd-RESO.pdf)",
+      "nagłówki kolumn w PDF zjazdu (5-zjazd-RESO.pdf)"
      ],
      "roczniki": [
+      {
+       "id": "wns-reso-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-RESO.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-reso-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-RESO.pdf",
+       "nabor": 2025
+      },
+      {
+       "id": "wns-reso-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-RESO.pdf",
+       "nabor": 2024
+      },
       {
        "id": "wns-reso-1-st-2026",
        "stopien": 1,
@@ -3731,6 +3925,14 @@
        "rok": 3,
        "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
        "nabor": 2024
+      },
+      {
+       "id": "wns-reso-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-RESO.pdf",
+       "nabor": 2026
       },
       {
        "id": "wns-reso-2-st-2026",
@@ -3778,9 +3980,45 @@
      "maZrodlo": true,
      "zrodloKodu": "kod istniejący w Skrócie (nauka_kierunki)",
      "uwagi": [
-      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+      "nagłówki kolumn w PDF zjazdu (1-zjazd-PedSpec-1.pdf)",
+      "nagłówki kolumn w PDF zjazdu (2-zjazd-Ped-SPec-1.pdf)",
+      "nagłówki kolumn w PDF zjazdu (3-zjazd-Ped-Spec-5.pdf)",
+      "nagłówki kolumn w PDF zjazdu (4-zjazd-PedSepc.pdf)",
+      "nagłówki kolumn w PDF zjazdu (5-zjazd-PedSpec.pdf)"
      ],
      "roczniki": [
+      {
+       "id": "wns-pedsp-0-nst-2026",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedSpec.pdf",
+       "nabor": 2026
+      },
+      {
+       "id": "wns-pedsp-0-nst-2024",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedSpec.pdf",
+       "nabor": 2024
+      },
+      {
+       "id": "wns-pedsp-0-nst-2023",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 4,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedSpec.pdf",
+       "nabor": 2023
+      },
+      {
+       "id": "wns-pedsp-0-nst-2022",
+       "stopien": 0,
+       "tryb": "nst",
+       "rok": 5,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedSpec.pdf",
+       "nabor": 2022
+      },
       {
        "id": "wns-pedsp-0-st-2026",
        "stopien": 0,
@@ -3904,10 +4142,21 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „PS” ze źródła",
      "uwagi": [
-      "wspólny plik kilku kierunków",
-      "niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7)"
+      "nagłówki kolumn w PDF zjazdu (1-zjazd-Ped-O-PS-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (2-zjazd-Ped-O-i-PS-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (3-zjazd-Ped-O-i-PS-4.pdf)",
+      "nagłówki kolumn w PDF zjazdu (PedO-i-PS-2.pdf)",
+      "nagłówki kolumn w PDF zjazdu (5-zjazd-PedO-i-PS.pdf)"
      ],
      "roczniki": [
+      {
+       "id": "wns-ps-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/5-zjazd-PedO-i-PS.pdf",
+       "nabor": 2024
+      },
       {
        "id": "wns-ps-1-st-2026",
        "stopien": 1,

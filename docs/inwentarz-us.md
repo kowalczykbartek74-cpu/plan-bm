@@ -11,7 +11,7 @@ Oferta rekrutacji US 2026/27 (kandydaci.usz.edu.pl): 75 kierunków I st. i jedno
 | WEFiZ | 24 | 32 | 17 | 31 | 32 | html |
 | WKFiZ | 4 | 7 | 18 | 6 | 24 | json, html |
 | WH | 28 | 41 | 85 | 9 | 32 | xlsx |
-| WNS | 16 | 23 | 62 | 0 | 72 | pdf |
+| WNS | 16 | 23 | 62 | 27 | 72 | pdf |
 | WNŚiP | 16 | 20 | 38 | 0 | 38 | pdf |
 | WPiA | 5 | 8 | 22 | 11 | 33 | pdf |
 | WT | 2 | 3 | 10 | 0 | 2 | pdf |
@@ -134,17 +134,17 @@ Strony: [st](https://nsp.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/), [
 | Kierunek | Kod | Skróty w źródłach | Oferta 2026/27 | Stopnie w źródłach | Tryby | Lata z planem | Uwagi |
 |---|---|---|---|---|---|---|---|
 | Animacja kultury | `AK` | AK | — | I | st | st I: 3 | nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27) |
-| Bezpieczeństwo narodowe | `BN` | BN | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
-| Bezpieczeństwo wewnętrzne | `BW` | BW | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
+| Bezpieczeństwo narodowe | `BN` | BN | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 · nst I: 1,2,3 | nagłówki kolumn w PDF zjazdu (BN-1-zjazd-3.pdf); nagłówki kolumn w PDF zjazdu (BN-2-zjazd-4.pdf); nagłówki kolumn w PDF zjazdu (BN-3-zjazd-6.11.pdf); nagłówki kolumn w PDF zjazdu (BN-4-zjazd-2.pdf); nagłówki kolumn w PDF zjazdu (BN-5-zjazd-1.pdf); nagłówki kolumn w PDF zjazdu (BN-6-zjazd-1.pdf) |
+| Bezpieczeństwo wewnętrzne | `BW` | BW | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 · nst I: 1,2,3; II: 1,2 | nagłówki kolumn w PDF zjazdu (BW-I-i-II-1-zjazd-2.pdf); nagłówki kolumn w PDF zjazdu (BW-I-i-II-2-zjazd-3.pdf); nagłówki kolumn w PDF zjazdu (BW-3-zjazd-6.11.pdf); nagłówki kolumn w PDF zjazdu (BW-I-i-II-4-zjazd-1.pdf); nagłówki kolumn w PDF zjazdu (BW-I-i-II-5-zjazd-1.pdf); nagłówki kolumn w PDF zjazdu (BW-I-i-II-6-zjazd-1.pdf) |
 | Edukacja artystyczna | `EA` | EA | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 |  |
-| Management instytucji publicznych i Public Relations | `MIPIPR` | MIPiPR | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
-| Pedagogika | `PEDO` | PedO | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 | wspólny plik kilku kierunków; niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
+| Management instytucji publicznych i Public Relations | `MIPIPR` | MIPiPR | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 · nst I: 1,2,3 | nagłówki kolumn w PDF zjazdu (MIPIPR-1-zjazd-2.pdf); nagłówki kolumn w PDF zjazdu (MIPIPR-2-zjazd-3.pdf); nagłówki kolumn w PDF zjazdu (MIPiPR-3-zjazd-6.11.pdf); nagłówki kolumn w PDF zjazdu (MIPIPR-4-zjazd-1.pdf); nagłówki kolumn w PDF zjazdu (MIPIPR-5-zjazd.pdf); nagłówki kolumn w PDF zjazdu (MIPIPR-6-zjazd.pdf) |
+| Pedagogika | `PEDO` | PedO | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 · nst I: 1,2 | nagłówki kolumn w PDF zjazdu (1-zjazd-Ped-O-PS-2.pdf); nagłówki kolumn w PDF zjazdu (2-zjazd-Ped-O-i-PS-2.pdf); nagłówki kolumn w PDF zjazdu (3-zjazd-Ped-O-i-PS-4.pdf); nagłówki kolumn w PDF zjazdu (PedO-i-PS-2.pdf); nagłówki kolumn w PDF zjazdu (5-zjazd-PedO-i-PS.pdf) |
 | Pedagogika opiekuńczo-wychowawcza | `POW` | POW | — | I | st | st I: 3 | nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27) |
-| Pedagogika przedszkolna i wczesnoszkolna | `PPIW` | PPIW | I/jm nst/st | jm | nst, st | st jm: 1,2,3,4,5 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
-| Pedagogika resocjalizacyjna | `RESO` | RESO, Reso | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
-| Pedagogika specjalna | `PEDSP` | PEDSPEC | I/jm nst/st | jm | nst, st | st jm: 1,2,3,4,5 | niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
+| Pedagogika przedszkolna i wczesnoszkolna | `PPIW` | PPIW | I/jm nst/st | jm | nst, st | st jm: 1,2,3,4,5 · nst jm: 1,2,3,4,5 | nagłówki kolumn w PDF zjazdu (1-zjazd-PPiW-1.pdf); nagłówki kolumn w PDF zjazdu (2-zjazd-PPiW-6.pdf); nagłówki kolumn w PDF zjazdu (3-zjazd-PPiW-4.pdf); nagłówki kolumn w PDF zjazdu (4-zjazd-PPiW.pdf); nagłówki kolumn w PDF zjazdu (5-zjazd-PPiW.pdf) |
+| Pedagogika resocjalizacyjna | `RESO` | RESO, Reso | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 · nst I: 1,2,3; II: 1 | nagłówki kolumn w PDF zjazdu (1-zjazd-RESO-1.pdf); nagłówki kolumn w PDF zjazdu (2-zjazd-RESO-3.pdf); nagłówki kolumn w PDF zjazdu (3-zjazd-RESO-4.pdf); nagłówki kolumn w PDF zjazdu (4-zjazd-RESO.pdf); nagłówki kolumn w PDF zjazdu (5-zjazd-RESO.pdf) |
+| Pedagogika specjalna | `PEDSP` | PEDSPEC | I/jm nst/st | jm | nst, st | st jm: 1,2,3,4,5 · nst jm: 1,3,4,5 | nagłówki kolumn w PDF zjazdu (1-zjazd-PedSpec-1.pdf); nagłówki kolumn w PDF zjazdu (2-zjazd-Ped-SPec-1.pdf); nagłówki kolumn w PDF zjazdu (3-zjazd-Ped-Spec-5.pdf); nagłówki kolumn w PDF zjazdu (4-zjazd-PedSepc.pdf); nagłówki kolumn w PDF zjazdu (5-zjazd-PedSpec.pdf) |
 | Politologia | `POL` | POL | I/jm+II st | I | st | st I: 1,2,3 |  |
-| Praca socjalna | `PS` | PS | I/jm nst/st | I | nst, st | st I: 1 | wspólny plik kilku kierunków; niestacjonarne: stopień i rok tylko w treści plików zjazdowych (Etap 7) |
+| Praca socjalna | `PS` | PS | I/jm nst/st | I | nst, st | st I: 1 · nst I: 3 | nagłówki kolumn w PDF zjazdu (1-zjazd-Ped-O-PS-2.pdf); nagłówki kolumn w PDF zjazdu (2-zjazd-Ped-O-i-PS-2.pdf); nagłówki kolumn w PDF zjazdu (3-zjazd-Ped-O-i-PS-4.pdf); nagłówki kolumn w PDF zjazdu (PedO-i-PS-2.pdf); nagłówki kolumn w PDF zjazdu (5-zjazd-PedO-i-PS.pdf) |
 | Psychologia | `PSYCH` | Psych | I/jm st | jm | st | st jm: 1,2,3,4,5 |  |
 | Social Sciences | `SS` | SS | I/jm st | I | st | st I: 1,2,3 |  |
 | Socjologia | `SOC` | SOC | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 |  |

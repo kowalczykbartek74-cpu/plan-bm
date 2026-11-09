@@ -13,7 +13,8 @@ import { pathToFileURL } from "node:url";
 import { pobieracz, xlsxNapisy, xlsxArkusze, xlsxArkuszeDane, adres } from "./wspolne.mjs";
 import { rocznikArkusza } from "./wh-xlsx.mjs";
 import { plikNst, rocznikiPlikuNst } from "./wh-nst.mjs";
-import { pdfNaTekst } from "./wpia-pdf.mjs";
+import { pdfNaTekst, jestPyMuPDF } from "./wpia-pdf.mjs";
+import { plikNst as plikNstWNS, rocznikiPlikuNst as rocznikiWNS } from "./wns-nst.mjs";
 import { zrodlaWH, zrodlaWNS, zrodlaWNSiP, zrodlaWPIA, zrodlaWT, zrodlaWKFiZ, ofertaUS } from "./zrodla.mjs";
 import { kierunkiZFormularza, kodZ, nabor, LATA } from "../wefiz-wszystkie.mjs";
 import { uczelnia } from "../uczelnia.mjs";
@@ -162,6 +163,17 @@ function wpisyZeZrodel(wydz, zrodla, ofertaW, tytuly) {
       }
       if (wydz.kod === "wnsip") w.kandydaciKodu = [k.skrot, k.skrotPliku];
       if (wydz.kod === "wpia") w.kandydaciKodu = [k.skrot, k.skrotPliku && k.skrotPliku.replace(/^(SS|NS|N)(?=[A-Z])/, "")];
+      if (wydz.kod === "wns" && z.tryb === "nst" && tytuly[z.url]?._nstWNS) {
+        const et = wydz.nstEtykiety || {}, grp = {};
+        for (const r of tytuly[z.url]._nstWNS) {
+          const n = et[r.skrot];
+          if (!n) { pytania.push(`WNS: etykieta kolumny „${r.skrot}” (${z.plik}) bez kierunku w config/wydzialy-us.json → nstEtykiety`); continue; }
+          const g = (grp[`${n}|${r.stopien}`] ||= { nazwa: n, stopien: r.stopien, lata: [] });
+          if (!g.lata.includes(r.rok)) g.lata.push(r.rok);
+        }
+        for (const g of Object.values(grp)) wpisy.push({ ...w, nazwa: g.nazwa, kod: undefined, skrot: undefined, stopnie: undefined, stopien: g.stopien, lata: g.lata.sort(), potw: `nagłówki kolumn w PDF zjazdu (${z.plik})` });
+        continue;
+      }
       if (wydz.kod === "wns" && z.tryb === "nst" && !dopasuj(k.nazwa, ofertaW)) {
         // „PEDAGOGIKA i PRACA SOCJALNA” = wspólny plik dwóch kierunków
         const czesci = k.nazwa.split(/\s+i\s+/);
@@ -298,6 +310,8 @@ export async function inwentarz({ offline = false, probki = false, log = console
             const tytulPliku = ark.flatMap((a) => Object.entries(a.komorki).filter(([r]) => adres(r)[1] < 2).map(([, v]) => v)).find((v) => /\brok\b/i.test(v));
             tytuly[z.url] = { ...tytulyWH(napisy, z.kierunki, ofW), _lata: lataWH(napisy), _arkusze: roczn, _tytul: tytulPliku };
           }
+          // WNS nst: PDF na zjazd – roczniki z nagłówków kolumn („BN I° 2 rok”, „reso 1 II st”, „ppiw4”)
+          if (z.format === "pdf" && w.kod === "wns" && z.tryb === "nst" && jestPyMuPDF()) tytuly[z.url] = { _nstWNS: rocznikiWNS(plikNstWNS(pdfNaTekst(f.buf)).wpisy) };
         } catch (e) { z.blad = e.message; wynik.pliki.bledy.push(z.url); }
       }
       const r = wpisyZeZrodel(w, zrodla, ofW, tytuly);
