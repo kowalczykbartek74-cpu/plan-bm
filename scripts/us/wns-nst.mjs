@@ -173,7 +173,7 @@ export async function importujNst({ wydzial, zrodla, kierunki, pobieracz, log = 
     const zjazdy = [...new Set(lista.flatMap((x) => x.daty))].length;
     const r = { id: rr.id, kod: kodStrony(k.kod, rr.stopien, rr.tryb, rr.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: rr.stopien, tryb: rr.tryb, rok: rr.rok,
       groups, source: "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", wersja: `${pliki.length} plików zjazdów (${zjazdy} dni)`, sha256: pliki.map((p) => p.sha.slice(0, 8)).join(""),
-      rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" };
+      rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
     const q = await przezKolejke(r, { wydzial: "WNS", naSucho, log });
     const kolejka = { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad };
     if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups });

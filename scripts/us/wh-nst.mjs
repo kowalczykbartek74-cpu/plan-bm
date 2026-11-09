@@ -299,7 +299,7 @@ export async function importujNst({ zrodla, kierunki, pobieracz, log = () => {} 
   const h = zrodla.find((x) => x.typ === "harmonogram" && x.tryb === "nst");
   if (h) {
     const f = await pobieracz.plik(h.url);
-    try { if (f && !f.brak) zjazdy = harmonogramZjazdow(pdfNaTekst(f.buf).strony.map((s) => (s.slowa || s.words || []).map((x) => x.t ?? x.text ?? x[4]).join(" ")).join(" ")).zima; }
+    try { if (f && !f.brak) zjazdy = harmonogramZjazdow(pdfNaTekst(f.buf).strony.map((s) => (s.slowa || s.words || []).map((x) => x.t ?? x.text ?? x[4]).join(" ")).join(" "))[sem.nazwa === "letni" ? "lato" : "zima"]; }
     catch (e) { log(`WH nst: harmonogram nieczytelny (${e.message}) – daty tylko z arkuszy`); }
   }
   if (!zjazdy.length) log("WH nst: brak harmonogramu zjazdów – daty tylko z arkuszy (bez sprawdzenia)");
@@ -322,7 +322,7 @@ export async function importujNst({ zrodla, kierunki, pobieracz, log = () => {} 
       const groups = {}, g = (k.kod || "").toUpperCase() + r.rok;
       for (const { e, daty } of lista) dodaj(groups, g, e, { daty });
       wyniki.push({ id: r.id, kod: kodStrony(k.kod, r.stopien, r.tryb, r.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: r.stopien, tryb: r.tryb, rok: r.rok,
-        groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" });
+        groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" });
     }
   }
   return wyniki;

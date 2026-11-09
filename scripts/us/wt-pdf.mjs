@@ -101,7 +101,7 @@ export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () 
       const p = plany[`${rr.stopien}-${rr.rok}`];
       if (!p) { wyniki.push({ id: rr.id, kierunek: { pl: k.pl }, blad: `${z.plik}: odczyt nie ma kolumny ${rr.stopien === 0 ? "jm" : rr.stopien === 2 ? "II st." : "I st."} ${rr.rok}. rok` }); continue; }
       const r = { id: rr.id, kod: kodStrony(k.kod, rr.stopien, rr.tryb, rr.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: rr.stopien, tryb: rr.tryb, rok: rr.rok,
-        groups: p.groups, source: z.url, wersja: o.aktualizacja ? `${z.plik} (aktualizacja ${o.aktualizacja})` : z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" };
+        groups: p.groups, source: z.url, wersja: o.aktualizacja ? `${z.plik} (aktualizacja ${o.aktualizacja})` : z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
       const q = await przezKolejke(r, { wydzial: "WT", naSucho, log });
       const kolejka = { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad };
       if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups });

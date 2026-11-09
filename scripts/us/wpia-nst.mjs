@@ -12,6 +12,7 @@
 // Data zajęć = data kolumny (zawsze „dates”). Wynik idzie przez kolejkę zatwierdzeń jak każdy PDF (scripts/us/kolejka.mjs).
 import { pdfNaTekst, tekstW, skroty, czesciKomorki, czescNaZajecia, jestPyMuPDF } from "./wpia-pdf.mjs";
 import { dodaj } from "./wspolne.mjs";
+import { semestrZKalendarza } from "./wh-xlsx.mjs";
 import { kodStrony } from "../kierunki.mjs";
 import { przezKolejke } from "./kolejka.mjs";
 
@@ -148,7 +149,8 @@ export function plikNaPlanNst(buf, nazwaGrupy, { startRoku = 2026, tekst = null 
 // ---------- importer (wołany z wpia-pdf.mjs → importuj) ----------
 export async function importujNst({ wydzial, zrodla, kierunki, pobieracz, log = () => {}, naSucho = false }) {
   if (!jestPyMuPDF()) return [];
-  const startRoku = new Date().getMonth() >= 8 ? new Date().getFullYear() : new Date().getFullYear() - 1;
+  const sem = semestrZKalendarza();
+  const startRoku = +sem.od.slice(0, 4) - (+sem.od.slice(5, 7) < 9 ? 1 : 0);
   const wyniki = [];
   for (const z of zrodla.filter((x) => x.typ === "plan" && x.format === "pdf" && x.tryb === "nst")) {
     const kz = z.kierunki[0];
@@ -163,7 +165,7 @@ export async function importujNst({ wydzial, zrodla, kierunki, pobieracz, log = 
     for (const q of wynik.ostrzezenia) log(`WPiA nst ${z.plik}: ${q}`);
     if (!wynik.zajec) { wyniki.push({ id: rr.id, kierunek: { pl: k.pl }, blad: `${z.plik}: nie odczytałem żadnych zajęć (${wynik.ostrzezenia[0] || "inny układ pliku"})` }); continue; }
     const r = { id: rr.id, kod: kodStrony(k.kod, rr.stopien, rr.tryb, rr.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: rr.stopien, tryb: rr.tryb, rok: rr.rok,
-      groups: wynik.groups, source: z.url, wersja: z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" };
+      groups: wynik.groups, source: z.url, wersja: z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
     const q = await przezKolejke(r, { wydzial: wydzial.skrot, naSucho, log });
     const kolejka = { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad };
     if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups });

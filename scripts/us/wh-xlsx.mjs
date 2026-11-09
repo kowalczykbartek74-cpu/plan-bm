@@ -28,10 +28,18 @@ const dzienTyg = (s) => (new Date(s + "T12:00:00Z").getUTCDay() + 6) % 7;
 const plusDni = (s, n) => { const t = new Date(s + "T12:00:00Z"); t.setUTCDate(t.getUTCDate() + n); return t.toISOString().slice(0, 10); };
 
 // ---------- semestr (z kalendarz.json: pierwszy i ostatni dzień tygodni zajęć) ----------
-export function semestrZKalendarza(plik = "kalendarz.json") {
+// Etap 8: kalendarz.json może mieć tygodnie obu semestrów – semestry = ciągi tygodni rozdzielone przerwą > 3 tygodni
+// (święta to 2 tygodnie, sesja z przerwą ~4). Bieżący = pierwszy, który nie skończył się dawniej niż 3 tygodnie temu.
+export function semestrZKalendarza(plik = "kalendarz.json", { teraz = new Date() } = {}) {
   const k = fs.existsSync(plik) ? JSON.parse(fs.readFileSync(plik, "utf8")) : null;
-  const t = k?.tygodnie || [];
-  return { od: t[0]?.[0] || "2026-10-01", do: t[t.length - 1]?.[1] || "2027-01-31" };
+  const t = (k?.tygodnie || []).slice().sort((a, b) => a[0].localeCompare(b[0]));
+  if (!t.length) return { od: "2026-10-01", do: "2027-01-31", nazwa: "zimowy" };
+  const sem = [];
+  for (const w of t) { const s = sem[sem.length - 1]; if (s && (new Date(w[0]) - new Date(s.do)) / 864e5 <= 21) s.do = w[1]; else sem.push({ od: w[0], do: w[1] }); }
+  const dzis = (teraz instanceof Date ? teraz : new Date(teraz)).toISOString().slice(0, 10);
+  const s = sem.find((x) => plusDni(x.do, 21) >= dzis) || sem[sem.length - 1];
+  const m = +s.od.slice(5, 7);
+  return { od: s.od, do: s.do, nazwa: m >= 9 || m <= 1 ? "zimowy" : "letni" };
 }
 
 // ---------- rocznik arkusza: „HISTORIA 1 rok Ist.”, „FA 1 rok II st.”, „Historia-I-1”, „… 1 rok I stopnia”, „I rok MA” ----------
@@ -79,15 +87,18 @@ export function czesciKomorki(v) {
 }
 // „12.10”, „16.11..2026”, „30.11.26”, „5.X”, „30 XI”, „02 XII” → [m, d, rok|null]; null, gdy to nie data
 function data(s) {
-  const m = /^(\d{1,2})\s*[. ]\s*(\d{1,2}|XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I)(?![A-Za-z])(?:\s*\.+\s*(\d{2,4}))?/.exec(s.trim());
+  // miesiąc cyfrą tylko po kropce („12.10”); spacja tylko przed rzymskim („30 XI”) – „Wielkopolska 15 02.10” to nie 15.02.2010
+  const m = /^(\d{1,2})(?:\s*\.\s*(\d{1,2})|\s*[. ]\s*(XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I))(?![A-Za-z])(?:\.+\s*(\d{4})(?!\d)|\.+(\d{2})(?!\d))?/.exec(s.trim());   // rok: 4 cyfry (też po spacji) albo 2 cyfry tuż po kropce („30.11.26”) – nie „27.11. 11.12”
   if (!m) return null;
+  if (m[3]) m[2] = m[3];
   const mies = /^\d+$/.test(m[2]) ? +m[2] : rzymska(m[2]);
   if (/^\d+$/.test(m[2]) && czyGodzina(m[1], m[2].padStart(2, "0")) && m[2].length === 2 && +m[2] > 12) return null;
   if (!(mies >= 1 && mies <= 12 && +m[1] >= 1 && +m[1] <= 31)) return null;
-  const rok = m[3] ? (m[3].length === 2 ? 2000 + +m[3] : +m[3]) : null;
+  const rok = m[4] ? +m[4] : m[5] ? 2000 + +m[5] : null;
+  if (rok && (rok < 2020 || rok > 2100)) return null;
   return [mies, +m[1], rok];
 }
-const DATA_RE = String.raw`\d{1,2}\s*[. ]\s*(?:\d{1,2}|XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I)(?![\d:A-Za-z])(?:\s*\.+\s*\d{2,4})?\.?`;
+const DATA_RE = String.raw`\d{1,2}(?:\s*\.\s*\d{1,2}|\s*[. ]\s*(?:XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I))(?![\d:A-Za-z])(?:\.+\s*\d{4}(?!\d)|\.+\d{2}(?!\d))?\.?`;
 // Daty zajęć z tekstu komórki (dzień tygodnia d). → { daty: [...] | null, fragmenty: [...], niejasne: bool }
 export function datyZTekstu(t, d, sem, startRoku = 2026) {
   const tekst = String(t);
@@ -375,7 +386,7 @@ export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () 
       const groups = {}, g = grupaPlanu(k, r);
       for (const { daty, komorka, tekst, ...e } of wpisy) dodaj(groups, g, e, { daty });
       wyniki.push({ id: r.id, kod: kodStrony(k.kod, r.stopien, r.tryb, r.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: r.stopien, tryb: r.tryb, rok: r.rok,
-        groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" });
+        groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" });
     }
   }
   // Etap 7: studia niestacjonarne (zjazdy) – osobny parser

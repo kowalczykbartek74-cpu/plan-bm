@@ -173,7 +173,7 @@ export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () 
     const { groups, ostrzezenia } = plikNaPlan(f.buf, `${k.kod}${rr.rok}`, { sem, startRoku });
     for (const q of ostrzezenia) log(`WNŚiP ${z.plik}: ${q}`);
     const r = { id: rr.id, kod: kodStrony(k.kod, rr.stopien, rr.tryb, rr.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: rr.stopien, tryb: rr.tryb, rok: rr.rok,
-      groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" };
+      groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
     const q = await przezKolejke(r, { wydzial: wydzial.skrot.normalize("NFD").replace(/[^A-Za-z]/g, ""), naSucho, log });
     const kolejka = { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad };
     if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups });

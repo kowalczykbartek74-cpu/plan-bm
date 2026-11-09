@@ -451,7 +451,7 @@ export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () 
       if (!rr) { wyniki.push({ id: `wns-${k.kod}-${z.plik}-${rok}`, kierunek: { pl: k.pl }, blad: `brak rocznika ${rok} w config/kierunki-us.json` }); continue; }
       if (!lata[rok]) { wyniki.push({ id: rr.id, kierunek: { pl: k.pl }, blad: `${z.plik}: parser nie znalazł zajęć ${rok}. roku` }); continue; }
       const r = { id: rr.id, kod: kodStrony(k.kod, rr.stopien, rr.tryb, rr.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: rr.stopien, tryb: rr.tryb, rok: rr.rok,
-        groups: lata[rok].groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" };
+        groups: lata[rok].groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
       const q = await przezKolejke(r, { wydzial: "WNS", naSucho, log });
       const kolejka = { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad };
       if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups });

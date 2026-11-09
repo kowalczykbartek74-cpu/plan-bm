@@ -21,7 +21,7 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { OSOBA_RE, czyGodzina } from "./wh-xlsx.mjs";
+import { OSOBA_RE, czyGodzina, semestrZKalendarza } from "./wh-xlsx.mjs";
 import { rzymska, prowadzacyZ } from "./wspolne.mjs";
 
 const TU = path.dirname(fileURLToPath(import.meta.url));
@@ -250,7 +250,8 @@ export const jestPyMuPDF = () => { try { execFileSync("python3", ["-I", "-c", "i
 export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () => {}, naSucho = false }) {
   // bez PyMuPDF (stary workflow bez kroku pip) wydział jest pomijany, a nie zgłaszany jako błąd codziennego przebiegu
   if (!jestPyMuPDF()) { log("WPiA: brak PyMuPDF (pip install pymupdf==1.28.2, workflow docs/aktualizacja-planu-us.yml) – pomijam plany z PDF"); return []; }
-  const startRoku = new Date().getMonth() >= 8 ? new Date().getFullYear() : new Date().getFullYear() - 1;
+  const sem = semestrZKalendarza();
+  const startRoku = +sem.od.slice(0, 4) - (+sem.od.slice(5, 7) < 9 ? 1 : 0);
   const wyniki = [];
   for (const z of zrodla.filter((x) => x.typ === "plan" && x.format === "pdf" && x.tryb === "st")) {
     const kz = z.kierunki[0];
@@ -262,7 +263,7 @@ export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () 
     const { groups, ostrzezenia } = plikNaPlan(f.buf, `${k.kod}${rr.rok}`, { startRoku });
     for (const q of ostrzezenia) log(`WPiA ${z.plik}: ${q}`);
     const r = { id: rr.id, kod: kodStrony(k.kod, rr.stopien, rr.tryb, rr.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: rr.stopien, tryb: rr.tryb, rok: rr.rok,
-      groups, source: z.url, wersja: z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" };
+      groups, source: z.url, wersja: z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
     const q = await przezKolejke(r, { wydzial: wydzial.skrot, naSucho, log });
     if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups });
     else {

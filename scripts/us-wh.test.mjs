@@ -114,3 +114,12 @@ test("pozostałe pliki WH: kilka zajęć w komórce, godziny „od … do …”
   assert.deepEqual(rozbierz("I GC gr lab 1a (30 hr) English Phonetics dr Adriana Goldman room 214 WH").sale, ["room 214 WH"]);
   assert.equal(przedmiot("systemy kancelaryjne w Polsce (ć) (15)"), "systemy kancelaryjne w Polsce");
 });
+
+test("Etap 8: numer budynku przed datą to nie data („Wielkopolska 15 02.10 - 20.11”), rok tylko tuż po kropce", async () => {
+  const { datyZTekstu } = await import("./us/wh-xlsx.mjs");
+  const sem = { od: "2026-10-01", do: "2027-01-31" };
+  const a = datyZTekstu("technologie informacyjne, dr F. Prątnicki, 15 ćw sala 325, Wielkopolska 15 02.10 - 20.11", 4, sem);
+  assert.deepEqual([a.daty[0], a.daty.at(-1), a.daty.length], ["2026-10-02", "2026-11-20", 8]);
+  const b = datyZTekstu("terminy: 30.10, 13.11, 27.11. 11.12, 18.12, 8.01, 15.01, 22.01", 4, sem);
+  assert.deepEqual(b.daty, ["2026-10-30", "2026-11-13", "2026-11-27", "2026-12-11", "2026-12-18", "2027-01-08", "2027-01-15", "2027-01-22"]);
+});
