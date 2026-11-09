@@ -1,0 +1,1648 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Logistyka",
+ "kierunekEn": "Logistics",
+ "id": "wefiz-log-1-nst-2025",
+ "kod": "logn25",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "B31": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-10-10",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Troczyńska",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "09:50"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 003 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "logistyka miejska",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "s. 003 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Piotr Szklarz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "logistyka miejska",
+     "k": "LAB",
+     "p": "dr Ewa Puzio",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "logistyka miejska",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "CW",
+     "p": "dr Monika Klein",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-17",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "CW",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Piotr Szklarz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-06",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "logistyka miejska",
+     "k": "LAB",
+     "p": "dr Ewa Puzio",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "logistyka miejska",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "CW",
+     "p": "dr Monika Klein",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "CW",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-11-08",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "logistyka miejska",
+     "k": "LAB",
+     "p": "dr Ewa Puzio",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "logistyka miejska",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-12-06",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "CW",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "CW",
+     "p": "dr Monika Klein",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "s. 041 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Piotr Szklarz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11",
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 041 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-10-10",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Troczyńska",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "09:50"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 003 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "logistyka miejska",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "s. 003 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Piotr Szklarz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "logistyka miejska",
+     "k": "LAB",
+     "p": "dr Ewa Puzio",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "logistyka miejska",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "CW",
+     "p": "dr Monika Klein",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-17",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "CW",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Piotr Szklarz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-06",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "logistyka miejska",
+     "k": "LAB",
+     "p": "dr Ewa Puzio",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "logistyka miejska",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "CW",
+     "p": "dr Monika Klein",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "CW",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-11-08",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Gospodarka magazynowa",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "logistyka miejska",
+     "k": "LAB",
+     "p": "dr Ewa Puzio",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "logistyka miejska",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-12-06",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "CW",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Logistyka dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "CW",
+     "p": "dr Monika Klein",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Nowe media w logistyce",
+     "k": "W",
+     "p": "dr Monika Klein",
+     "r": "s. 041 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 041 Cuk.8",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Piotr Szklarz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11",
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 041 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    }
+   ]
+  }
+ }
+}

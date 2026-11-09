@@ -14,6 +14,7 @@
       2
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
@@ -33,9 +34,28 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „AF” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy AF-NII.26-1, AF-NII.26-1, AF-NII.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy AF-NII.25-2, AF-NII.25-2, AF-NII.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf"
      ],
-     "roczniki": []
+     "roczniki": [
+      {
+       "id": "wefiz-af-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-af-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
+      }
+     ]
     },
     {
      "kod": "BIWG",
@@ -125,10 +145,12 @@
       2
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
-      "DS"
+      "DS",
+      "DAT"
      ],
      "wOfercie": true,
      "oferta": {
@@ -144,9 +166,28 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „DS” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy DAT-NII.26-1, DAT-NII.26-1, DAT-NII.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy DAT-NII.25-2, DAT-NII.25-2, DAT-NII.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf"
      ],
-     "roczniki": []
+     "roczniki": [
+      {
+       "id": "wefiz-ds-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-ds-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
+      }
+     ]
     },
     {
      "kod": "EAIA",
@@ -196,10 +237,12 @@
       2
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
-      "Ek"
+      "Ek",
+      "E"
      ],
      "wOfercie": true,
      "oferta": {
@@ -216,9 +259,36 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „EK” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy E-NI.26-1, E-NI.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy E-NI.25-2, E-NI.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy E-NI.24-3, E-NI.24-3 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf"
      ],
      "roczniki": [
+      {
+       "id": "wefiz-ek-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-ek-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
+      },
+      {
+       "id": "wefiz-ek-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2024
+      },
       {
        "id": "wefiz-ek-1-st-2026",
        "stopien": 1,
@@ -271,6 +341,7 @@
       2
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
@@ -291,9 +362,38 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „FIR” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy FiR-NI.26-1, FiR-NI.26-1, FiR-NI.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy FiR-NI.25-2, FiR-NI.25-2, FiR-NI.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy FiR-NI.24-3, FiR-NI.24-3 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy FiR-NII.25-2, FiR-NII.25-2, FiR-NII.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy FiR-NII.26-1, FiR-NII.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf"
      ],
      "roczniki": [
+      {
+       "id": "wefiz-fir-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-fir-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
+      },
+      {
+       "id": "wefiz-fir-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2024
+      },
       {
        "id": "wefiz-fir-1-st-2026",
        "stopien": 1,
@@ -301,6 +401,22 @@
        "rok": 1,
        "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
        "nabor": 2026
+      },
+      {
+       "id": "wefiz-fir-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-fir-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
       }
      ]
     },
@@ -410,6 +526,7 @@
       1
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
@@ -429,9 +546,27 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „IIE” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy IiE-NI.26-1, IiE-NI.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf",
+      "niestacjonarne: grupy IiE-NI.24-3, IiE-NI.24-3 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf"
      ],
      "roczniki": [
+      {
+       "id": "wefiz-iie-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-iie-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2024
+      },
       {
        "id": "wefiz-iie-1-st-2026",
        "stopien": 1,
@@ -533,6 +668,7 @@
       2
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
@@ -553,9 +689,38 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „LOG” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy L-NI.26-1, L-NI.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy L-NI.25-2, L-NI.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy L-NI.24-3, L-NI.24-3 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy L-NII.26-1, L-NII.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy L-NII.26-2, L-NII.26-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf"
      ],
      "roczniki": [
+      {
+       "id": "wefiz-log-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-log-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
+      },
+      {
+       "id": "wefiz-log-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2024
+      },
       {
        "id": "wefiz-log-1-st-2026",
        "stopien": 1,
@@ -563,6 +728,22 @@
        "rok": 1,
        "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
        "nabor": 2026
+      },
+      {
+       "id": "wefiz-log-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-log-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
       }
      ]
     },
@@ -574,6 +755,7 @@
       1
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
@@ -593,9 +775,45 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „LI” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy Li-NI.26-1, Li-NI.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy Li-NI.25-2, Li-NI.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy Li-NI.24-3, Li-NI.24-3 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy Li-NI.23-4, Li-NI.23-4 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf"
      ],
      "roczniki": [
+      {
+       "id": "wefiz-li-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-li-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
+      },
+      {
+       "id": "wefiz-li-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2024
+      },
+      {
+       "id": "wefiz-li-1-nst-2023",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 4,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2023
+      },
       {
        "id": "wefiz-li-1-st-2026",
        "stopien": 1,
@@ -614,10 +832,12 @@
       2
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
-      "M"
+      "M",
+      "MAR"
      ],
      "wOfercie": true,
      "oferta": {
@@ -633,9 +853,28 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „MKT” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy MAR-NII.26-1, MAR-NII.26-1, MAR-NII.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy MAR-NII.25-2, MAR-NII.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf"
      ],
-     "roczniki": []
+     "roczniki": [
+      {
+       "id": "wefiz-mkt-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-mkt-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
+      }
+     ]
     },
     {
      "kod": "MBT",
@@ -745,6 +984,7 @@
       1
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
@@ -764,9 +1004,18 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „TIR” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy TiR-NI.26-1, TiR-NI.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf"
      ],
      "roczniki": [
+      {
+       "id": "wefiz-tir-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
       {
        "id": "wefiz-tir-1-st-2026",
        "stopien": 1,
@@ -786,6 +1035,7 @@
       2
      ],
      "tryby": [
+      "nst",
       "st"
      ],
      "skroty": [
@@ -806,9 +1056,38 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „ZARZ” ze źródła",
      "uwagi": [
-      "system planów WEFiZ (lata 2+ / II st.: Etap 1)"
+      "system planów WEFiZ (lata 2+ / II st.: Etap 1)",
+      "niestacjonarne: grupy Z-NI.26-1, Z-NI.26-1, Z-NI.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy Z-NI.25-2, Z-NI.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy Z-NI.24-3, Z-NI.24-3 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy Z-NII.26-1, Z-NII.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf",
+      "niestacjonarne: grupy Z-NII.25-2, Z-NII.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf"
      ],
      "roczniki": [
+      {
+       "id": "wefiz-zarz-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-zarz-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
+      },
+      {
+       "id": "wefiz-zarz-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2024
+      },
       {
        "id": "wefiz-zarz-1-st-2026",
        "stopien": 1,
@@ -816,6 +1095,22 @@
        "rok": 1,
        "zrodlo": "https://planyzajec-efz.usz.edu.pl/plan",
        "nabor": 2026
+      },
+      {
+       "id": "wefiz-zarz-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2026
+      },
+      {
+       "id": "wefiz-zarz-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+       "nabor": 2025
       }
      ]
     },

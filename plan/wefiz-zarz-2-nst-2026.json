@@ -1,0 +1,1206 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Zarządzanie",
+ "kierunekEn": "Management",
+ "id": "wefiz-zarz-2-nst-2026",
+ "kod": "zarzmn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "E51": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim(w)e-zaj",
+     "k": "X",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "MS Teams",
+     "dates": [
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "W",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "W",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "W",
+     "p": "dr Anna Szwajlik",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-11-28",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "W",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "CW",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "CW",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "W",
+     "p": "dr Anna Szwajlik",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "W",
+     "p": "dr Anna Szwajlik",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "CW",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "CW",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 116 lab. Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim(w)e-zaj",
+     "k": "X",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "MS Teams",
+     "dates": [
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "W",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "W",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "W",
+     "p": "dr Anna Szwajlik",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-11-28",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "W",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "CW",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "CW",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "W",
+     "p": "dr Anna Szwajlik",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "W",
+     "p": "dr Anna Szwajlik",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "CW",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Ekonomia menedżerska",
+     "k": "CW",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 116 lab. Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Planowanie marketingowe",
+     "k": "LAB",
+     "p": "dr Anna Szwajlik",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Koncepcje zarządzania",
+     "k": "CW",
+     "p": "dr Hubert Pachciarek",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Metody zarządzania projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ]
+  }
+ }
+}

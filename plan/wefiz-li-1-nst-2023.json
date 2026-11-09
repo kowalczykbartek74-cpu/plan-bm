@@ -1,0 +1,1338 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Logistyka inż.",
+ "kierunekEn": "Logistics (Eng.)",
+ "id": "wefiz-li-1-nst-2023",
+ "kod": "lin23",
+ "wydzial": "WEFiZ",
+ "rok": 4,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "D61": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "CW",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 116 lab. Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "gab. 319",
+     "dates": [
+      "2026-11-28",
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "gab. SIL 246",
+     "dates": [
+      "2026-11-28",
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Smart logistics",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-03",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "W",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-03",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 034 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Smart logistics",
+     "k": "LAB",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "gab. 319",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "gab. SIL 246",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "W",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-03",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "W",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "CW",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2027-01-10",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "W",
+     "p": "dr hab. Prof. US Beata Sadowska",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Smart logistics",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 034 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-15",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Smart logistics",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-04",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 034 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "W",
+     "p": "dr hab. Prof. US Beata Sadowska",
+     "r": "s. 034 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "gab. 319",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "gab. SIL 246",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Smart logistics",
+     "k": "LAB",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-15",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "gab. 319",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "gab. SIL 246",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Smart logistics",
+     "k": "LAB",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "CW",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 116 lab. Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "gab. 319",
+     "dates": [
+      "2026-11-28",
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "gab. SIL 246",
+     "dates": [
+      "2026-11-28",
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Smart logistics",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-03",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "W",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-03",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 034 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Smart logistics",
+     "k": "LAB",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "gab. 319",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "gab. SIL 246",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "W",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-03",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "W",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Audytowanie i certyfikacja jakości w logistyce",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "CW",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2027-01-10",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "W",
+     "p": "dr hab. Prof. US Beata Sadowska",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Smart logistics",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 034 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-15",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Smart logistics",
+     "k": "W",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2026-10-04",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 034 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Transport zrównoważony",
+     "k": "W",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 033 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Modelowanie i prognozowanie ruchu",
+     "k": "LAB",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Rachunek kosztów dla inżynierów",
+     "k": "W",
+     "p": "dr hab. Prof. US Beata Sadowska",
+     "r": "s. 034 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "gab. 319",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "gab. SIL 246",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Smart logistics",
+     "k": "LAB",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-15",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie mobilnością",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "gab. 319",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "gab. SIL 246",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Smart logistics",
+     "k": "LAB",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}

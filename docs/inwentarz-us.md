@@ -8,7 +8,7 @@ Oferta rekrutacji US 2026/27 (kandydaci.usz.edu.pl): 75 kierunków I st. i jedno
 
 | Wydział | Kierunki | Kierunek×stopień | Roczniki z planem (st) | Roczniki z planem (nst) | Źródła planów | Format |
 |---|---|---|---|---|---|---|
-| WEFiZ | 24 | 32 | 17 | 0 | 32 | html |
+| WEFiZ | 24 | 32 | 17 | 31 | 32 | html |
 | WKFiZ | 4 | 7 | 18 | 6 | 24 | json, html |
 | WH | 28 | 41 | 85 | 2 | 32 | xlsx |
 | WNS | 16 | 23 | 62 | 0 | 72 | pdf |
@@ -24,28 +24,28 @@ Strony: [st](https://planyzajec-efz.usz.edu.pl/plan), [nst](https://efz.usz.edu.
 
 | Kierunek | Kod | Skróty w źródłach | Oferta 2026/27 | Stopnie w źródłach | Tryby | Lata z planem | Uwagi |
 |---|---|---|---|---|---|---|---|
-| Audyt finansowy | `AF` | AF | II nst/st | II | st | ? | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
+| Audyt finansowy | `AF` | AF | II nst/st | II | nst, st | nst II: 1,2 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy AF-NII.26-1, AF-NII.26-1, AF-NII.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy AF-NII.25-2, AF-NII.25-2, AF-NII.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf |
 | Business Intelligence w gospodarce | `BIWG` | BIwG | I/jm st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
 | Business Management | `BM` | BM | I/jm+II st | I, II | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Data Science | `DS` | DS | II nst/st | II | st | ? | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
+| Data Science | `DS` | DS, DAT | II nst/st | II | nst, st | nst II: 1,2 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy DAT-NII.26-1, DAT-NII.26-1, DAT-NII.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy DAT-NII.25-2, DAT-NII.25-2, DAT-NII.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf |
 | Economics and IT Applications | `EAIA` | EaIA | I/jm st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Ekonomia | `EK` | Ek | I/jm+II nst/st | I, II | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
+| Ekonomia | `EK` | Ek, E | I/jm+II nst/st | I, II | nst, st | st I: 1 · nst I: 1,2,3 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy E-NI.26-1, E-NI.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy E-NI.25-2, E-NI.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy E-NI.24-3, E-NI.24-3 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf |
 | Ekonomiczno-prawny | `EP` | E-P | I/jm+II st | I, II | st | ? | system planów WEFiZ: 1. rok I st. bez planu; system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Finanse i rachunkowość | `FIR` | FiR | I/jm+II nst/st | I, II | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
+| Finanse i rachunkowość | `FIR` | FiR | I/jm+II nst/st | I, II | nst, st | st I: 1 · nst I: 1,2,3; II: 1,2 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy FiR-NI.26-1, FiR-NI.26-1, FiR-NI.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy FiR-NI.25-2, FiR-NI.25-2, FiR-NI.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy FiR-NI.24-3, FiR-NI.24-3 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy FiR-NII.25-2, FiR-NII.25-2, FiR-NII.25-2 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy FiR-NII.26-1, FiR-NII.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf |
 | Gospodarka nieruchomościami | `GN` | GN | I/jm st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
 | Gospodarka przestrzenna | `GPI` | GPi | I/jm st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
 | Green Economy - zielona gospodarka | `GE` | GE | — | ? | st | ? | nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27); system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Informatyka i ekonometria | `IIE` | IiE | I/jm nst/st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
+| Informatyka i ekonometria | `IIE` | IiE | I/jm nst/st | I | nst, st | st I: 1 · nst I: 1,3 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy IiE-NI.26-1, IiE-NI.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf; niestacjonarne: grupy IiE-NI.24-3, IiE-NI.24-3 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf |
 | Informatyka w biznesie | `IWB` | IwB | I/jm+II st | I, II | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
 | Komunikacja i psychologia w biznesie | `KIPB` | KiPB | I/jm+II st | I, II | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Logistyka | `LOG` | L | I/jm+II nst/st | I, II | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Logistyka inż. | `LI` | Li | I/jm nst/st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Marketing | `MKT` | M | II nst/st | II | st | ? | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
+| Logistyka | `LOG` | L | I/jm+II nst/st | I, II | nst, st | st I: 1 · nst I: 1,2,3; II: 1,2 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy L-NI.26-1, L-NI.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy L-NI.25-2, L-NI.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy L-NI.24-3, L-NI.24-3 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy L-NII.26-1, L-NII.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy L-NII.26-2, L-NII.26-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf |
+| Logistyka inż. | `LI` | Li | I/jm nst/st | I | nst, st | st I: 1 · nst I: 1,2,3,4 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy Li-NI.26-1, Li-NI.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy Li-NI.25-2, Li-NI.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy Li-NI.24-3, Li-NI.24-3 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy Li-NI.23-4, Li-NI.23-4 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf |
+| Marketing | `MKT` | M, MAR | II nst/st | II | nst, st | nst II: 1,2 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy MAR-NII.26-1, MAR-NII.26-1, MAR-NII.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy MAR-NII.25-2, MAR-NII.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf |
 | Międzynarodowy biznes turystyczny | `MBT` | MBT | II nst/st | II | st | ? | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
 | Przedsiębiorczość i inwestycje | `PII` | PiI | I/jm st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
 | Rynek nieruchomości | `RN` | RN | II st | II | st | ? | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Turystyka i rekreacja | `TIR` | TiR | I/jm nst/st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
-| Zarządzanie | `ZARZ` | Z | I/jm+II nst/st | I, II | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
+| Turystyka i rekreacja | `TIR` | TiR | I/jm nst/st | I | nst, st | st I: 1 · nst I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy TiR-NI.26-1, TiR-NI.26-1 w Wykaz_grup_Kampus_Mickiewicza_NZ.pdf |
+| Zarządzanie | `ZARZ` | Z | I/jm+II nst/st | I, II | nst, st | st I: 1 · nst I: 1,2,3; II: 1,2 | system planów WEFiZ (lata 2+ / II st.: Etap 1); niestacjonarne: grupy Z-NI.26-1, Z-NI.26-1, Z-NI.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy Z-NI.25-2, Z-NI.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy Z-NI.24-3, Z-NI.24-3 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy Z-NII.26-1, Z-NII.26-1 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf; niestacjonarne: grupy Z-NII.25-2, Z-NII.25-2 w Wykaz_grup_Kampus_Cukrowa_NZ.pdf |
 | Zarządzanie logistyczne w ochronie zdrowia | `ZLOZ` | ZLOZ | I/jm nst/st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
 | Zarządzanie odnawialnymi źródłami energii | `ZOZE` | ZOZE | I/jm nst/st | I | st | st I: 1 | system planów WEFiZ (lata 2+ / II st.: Etap 1) |
 
@@ -62,7 +62,7 @@ Strony: [st](https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php), [nst](http
 
 **Skąd aplikacja bierze dane** (`planyzajec-kfz.usz.edu.pl/script.js` → `loadSchedule()`): jedno zapytanie GET
 `https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php` (publiczne, bez logowania) zwraca `{success, classes[], total, timestamp}` – wszystkie zajęcia stacjonarne naraz
-(467 zajęć, znacznik 2026-11-08 22:11:07); grupa = pole `group` („<skrót> <rok> rok <stopień> stopień”), tryb = `studyMode` (w danych tylko: stacjonarne).
+(467 zajęć, znacznik 2026-11-09 10:16:29); grupa = pole `group` („<skrót> <rok> rok <stopień> stopień”), tryb = `studyMode` (w danych tylko: stacjonarne).
 Filtry grupy i wykładowcy aplikacja liczy u siebie z tej listy. Gdy baza jest pusta, aplikacja woła `api/parse_xml.php`.
 Niestacjonarne: `https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php` = lista grup, plan grupy to HTML z `get_html_plans.php?group=<nazwa>`. Przykład zajęć:
 
@@ -204,4 +204,4 @@ Błędy pobierania: `Wychowanie-fizyczne-2026-27a.pdf`: brak pliku (404).
 4. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 5. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 
-Zapytania: sieć 0, HEAD 0, cache 191. Pliki: 180 (nowo pobrane 0, błędy 1).
+Zapytania: sieć 0, HEAD 0, cache 193. Pliki: 180 (nowo pobrane 0, błędy 1).

@@ -1,0 +1,1436 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Zarządzanie",
+ "kierunekEn": "Management",
+ "id": "wefiz-zarz-1-nst-2025",
+ "kod": "zarzn25",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "B51": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Analiza ekonomiczna",
+     "k": "CW",
+     "p": "dr Mirela Romanowska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Augustyna Burlita",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "W",
+     "p": "dr hab. Prof. US Wojciech Jarecki",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. Prof. US Katarzyna Gadomska-Lila",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie produkcją",
+     "k": "CW",
+     "p": "dr Anna Bielawa",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Analiza ekonomiczna",
+     "k": "CW",
+     "p": "dr Mirela Romanowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Augustyna Burlita",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie produkcją",
+     "k": "CW",
+     "p": "dr Anna Bielawa",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Analiza ekonomiczna",
+     "k": "CW",
+     "p": "dr Mirela Romanowska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "W",
+     "p": "dr hab. Prof. US Wojciech Jarecki",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Augustyna Burlita",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 720 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "W",
+     "p": "dr hab. Prof. US Wojciech Jarecki",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. Prof. US Katarzyna Gadomska-Lila",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie produkcją",
+     "k": "CW",
+     "p": "dr Anna Bielawa",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "p": "dr hab. Prof. US Beata Sadowska",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "p": "dr hab. Prof. US Beata Sadowska",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Informatyka w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. Prof. US Katarzyna Gadomska-Lila",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Analiza ekonomiczna",
+     "k": "CW",
+     "p": "dr Mirela Romanowska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Augustyna Burlita",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "W",
+     "p": "dr hab. Prof. US Wojciech Jarecki",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. Prof. US Katarzyna Gadomska-Lila",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie produkcją",
+     "k": "CW",
+     "p": "dr Anna Bielawa",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Analiza ekonomiczna",
+     "k": "CW",
+     "p": "dr Mirela Romanowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Augustyna Burlita",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie produkcją",
+     "k": "CW",
+     "p": "dr Anna Bielawa",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Analiza ekonomiczna",
+     "k": "CW",
+     "p": "dr Mirela Romanowska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "W",
+     "p": "dr hab. Prof. US Wojciech Jarecki",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Augustyna Burlita",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 720 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "W",
+     "p": "dr hab. Prof. US Wojciech Jarecki",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. Prof. US Katarzyna Gadomska-Lila",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "CW",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie produkcją",
+     "k": "CW",
+     "p": "dr Anna Bielawa",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Gospodarowanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "p": "dr hab. Prof. US Beata Sadowska",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Podstawy rachunkowości",
+     "k": "W",
+     "p": "dr hab. Prof. US Beata Sadowska",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Badania marketingowe",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Informatyka w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zachowania organizacyjne",
+     "k": "W",
+     "p": "dr hab. Prof. US Katarzyna Gadomska-Lila",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ]
+  }
+ }
+}

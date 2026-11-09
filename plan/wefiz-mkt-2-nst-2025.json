@@ -1,0 +1,914 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Marketing",
+ "kierunekEn": "Marketing",
+ "id": "wefiz-mkt-2-nst-2025",
+ "kod": "mktmn25",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "F91": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Prof. US Augustyna Burlita, dr Urszula Chrąchol-Barczyk, dr Magdalena Kowalska, dr Sandra Misiak-Kwit",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-16",
+      "2026-12-04",
+      "2027-01-15",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Prof. US Augustyna Burlita, dr Magdalena Kowalska, dr Sandra Misiak-Kwit",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "historie sukcesów marek",
+     "k": "CW",
+     "p": "dr Sandra Misiak-Kwit",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Iwona Rokita-Lisiecka",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "projektowanie i zarządzanie kampanią medialną",
+     "k": "CW",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "historie sukcesów marek",
+     "k": "CW",
+     "p": "dr Sandra Misiak-Kwit",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "marketing wartości",
+     "k": "K",
+     "p": "dr Maciej Szulc",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "sztuka wystąpień publicznych",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "tworzenie własnej firmy - aspekty organizacyjne",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "marketing wartości",
+     "k": "K",
+     "p": "dr Maciej Szulc",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Prof. US Augustyna Burlita",
+     "r": "gab. 706",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "gab. SIL 024A",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr Sandra Misiak-Kwit",
+     "r": "gab. 721",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "sztuka wystąpień publicznych",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "tworzenie własnej firmy - aspekty organizacyjne",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Packaging design in 3D",
+     "k": "K",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Packaging design in 3D",
+     "k": "K",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "sztuka wystąpień publicznych",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Packaging design in 3D",
+     "k": "K",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. SIL 323 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "projektowanie i zarządzanie kampanią medialną",
+     "k": "CW",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "tworzenie własnej firmy - aspekty organizacyjne",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "warsztaty marketingowe",
+     "k": "CW",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "warsztaty marketingowe",
+     "k": "CW",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "historie sukcesów marek",
+     "k": "CW",
+     "p": "dr Sandra Misiak-Kwit",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "projektowanie i zarządzanie kampanią medialną",
+     "k": "CW",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "warsztaty marketingowe",
+     "k": "CW",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr Magdalena Kowalska",
+     "r": "gab. 721",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Prof. US Augustyna Burlita, dr Urszula Chrąchol-Barczyk, dr Magdalena Kowalska, dr Sandra Misiak-Kwit",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-16",
+      "2026-12-04",
+      "2027-01-15",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Prof. US Augustyna Burlita, dr Magdalena Kowalska, dr Sandra Misiak-Kwit",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "historie sukcesów marek",
+     "k": "CW",
+     "p": "dr Sandra Misiak-Kwit",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Iwona Rokita-Lisiecka",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "projektowanie i zarządzanie kampanią medialną",
+     "k": "CW",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "historie sukcesów marek",
+     "k": "CW",
+     "p": "dr Sandra Misiak-Kwit",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "marketing wartości",
+     "k": "K",
+     "p": "dr Maciej Szulc",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "sztuka wystąpień publicznych",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "tworzenie własnej firmy - aspekty organizacyjne",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "marketing wartości",
+     "k": "K",
+     "p": "dr Maciej Szulc",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. Prof. US Augustyna Burlita",
+     "r": "gab. 706",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "gab. SIL 024A",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr Sandra Misiak-Kwit",
+     "r": "gab. 721",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "sztuka wystąpień publicznych",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "tworzenie własnej firmy - aspekty organizacyjne",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Packaging design in 3D",
+     "k": "K",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Packaging design in 3D",
+     "k": "K",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "sztuka wystąpień publicznych",
+     "k": "CW",
+     "p": "dr Kamila Słupińska",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Packaging design in 3D",
+     "k": "K",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. SIL 323 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "projektowanie i zarządzanie kampanią medialną",
+     "k": "CW",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "tworzenie własnej firmy - aspekty organizacyjne",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "warsztaty marketingowe",
+     "k": "CW",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "warsztaty marketingowe",
+     "k": "CW",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "historie sukcesów marek",
+     "k": "CW",
+     "p": "dr Sandra Misiak-Kwit",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "projektowanie i zarządzanie kampanią medialną",
+     "k": "CW",
+     "p": "dr Urszula Chrąchol-Barczyk",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "warsztaty marketingowe",
+     "k": "CW",
+     "p": "dr Małgorzata Wiścicka-Fernando",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr Magdalena Kowalska",
+     "r": "gab. 721",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ]
+  }
+ }
+}

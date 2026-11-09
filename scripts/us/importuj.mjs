@@ -55,11 +55,12 @@ export async function importujWydzial(kod, { tylko = null, naSucho = false, log 
   return { wydzial: kod, stan };
 }
 
-// Wszystkie wydziały z config/zrodla-us.json (poza WEFiZ, który ma własny import w update-plan.mjs)
+// Wszystkie wydziały z config/zrodla-us.json. WEFiZ stacjonarne ma własny import w update-plan.mjs; importer WEFiZ
+// z config/wydzialy-us.json („wefiz-nst.mjs”, Etap 7) robi tylko studia niestacjonarne.
 export async function importujWszystkie(opcje = {}) {
   const zrodla = opcje.zrodla || czytaj("config/zrodla-us.json", { wydzialy: {} });
   const stan = [], log = opcje.log || console.log;
-  for (const kod of Object.keys(zrodla.wydzialy).filter((k) => k !== "wefiz")) {
+  for (const kod of Object.keys(zrodla.wydzialy)) {
     const r = await importujWydzial(kod, { ...opcje, zrodla });
     if (r.pominiety) { log(`${kod}: pominięty (${r.pominiety})`); continue; }
     stan.push(...r.stan);

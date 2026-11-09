@@ -1,0 +1,1566 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Finanse i rachunkowość",
+ "kierunekEn": "Finance and Accounting",
+ "id": "wefiz-fir-1-nst-2024",
+ "kod": "firn24",
+ "wydzial": "WEFiZ",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "C20": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący_",
+     "r": "online",
+     "n": "godz. 17.00-19.30; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący__",
+     "r": "online",
+     "n": "godz. 17.00-20.15; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Konrad Kochański, dr Joanna Rachuba",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-16"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "19:00",
+      "20:35"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Konrad Kochański, dr Joanna Rachuba",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "analiza finansowa",
+     "k": "CW",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ekonometria",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "ekonometria",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0201 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "W",
+     "p": "dr Paweł Stępień",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "CW",
+     "p": "mgr Kamil Bąkowski",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "analiza finansowa",
+     "k": "W",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Paweł Stępień",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "analiza finansowa",
+     "k": "W",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ekonometria",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "International Accouting",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S08 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "W",
+     "p": "dr Przemysław Mućko",
+     "r": "online",
+     "n": "e-zajęcia, sp. RiSF",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr Urszula Wawer",
+     "r": "s. S07 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-10",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S07 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S08 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S02 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Paweł Stępień",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "analiza finansowa",
+     "k": "W",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "analiza finansowa",
+     "k": "CW",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "ekonometria",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "International Accouting",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S01 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "W",
+     "p": "dr Przemysław Mućko",
+     "r": "online",
+     "n": "e-zajęcia, sp. RiSF",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S08 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "ekonometria",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "International Accouting",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S02 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S07 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "W",
+     "p": "dr Paweł Stępień",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Paweł Stępień",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "analiza finansowa",
+     "k": "CW",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S02 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "W",
+     "p": "dr Przemysław Mućko",
+     "r": "online",
+     "n": "e-zajęcia, sp. RiSF",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ekonometria",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S07 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr Urszula Wawer",
+     "r": "s. S02 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "CW",
+     "p": "mgr Kamil Bąkowski",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "CW",
+     "p": "mgr Kamil Bąkowski",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S08 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "W",
+     "p": "dr Paweł Stępień",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Konrad Kochański, dr Joanna Rachuba",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący_",
+     "r": "online",
+     "n": "godz. 17.00-19.30; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący__",
+     "r": "online",
+     "n": "godz. 17.00-20.15; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Konrad Kochański, dr Joanna Rachuba",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-16"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "19:00",
+      "20:35"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Konrad Kochański, dr Joanna Rachuba",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "analiza finansowa",
+     "k": "CW",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ekonometria",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "ekonometria",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0201 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "W",
+     "p": "dr Paweł Stępień",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "CW",
+     "p": "mgr Kamil Bąkowski",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "analiza finansowa",
+     "k": "W",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Paweł Stępień",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "analiza finansowa",
+     "k": "W",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ekonometria",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "International Accouting",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S08 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "W",
+     "p": "dr Przemysław Mućko",
+     "r": "online",
+     "n": "e-zajęcia, sp. RiSF",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr Urszula Wawer",
+     "r": "s. S07 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-10",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S07 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S08 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S02 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Paweł Stępień",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "analiza finansowa",
+     "k": "W",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "analiza finansowa",
+     "k": "CW",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "ekonometria",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "International Accouting",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S01 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "W",
+     "p": "dr Przemysław Mućko",
+     "r": "online",
+     "n": "e-zajęcia, sp. RiSF",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S08 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "ekonometria",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "International Accouting",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S02 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S07 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "W",
+     "p": "dr Paweł Stępień",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Paweł Stępień",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "analiza finansowa",
+     "k": "CW",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S02 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "W",
+     "p": "dr Przemysław Mućko",
+     "r": "online",
+     "n": "e-zajęcia, sp. RiSF",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "analiza finansowa",
+     "k": "LAB",
+     "p": "dr prof. US Mirela Romanowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ekonometria",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Urszula Wawer",
+     "r": "s. S07 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr Urszula Wawer",
+     "r": "s. S02 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "CW",
+     "p": "mgr Kamil Bąkowski",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "CW",
+     "p": "mgr Kamil Bąkowski",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "rachunkowość instrumentów finansowych",
+     "k": "CW",
+     "p": "dr Przemysław Mućko",
+     "r": "s. S08 Mic.64",
+     "n": "sp. RiSF",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "ryzyko w finansach i rachunkowości",
+     "k": "W",
+     "p": "dr Paweł Stępień",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "marketing usług finansowo-księgowych",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Konrad Kochański, dr Joanna Rachuba",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ]
+  }
+ }
+}

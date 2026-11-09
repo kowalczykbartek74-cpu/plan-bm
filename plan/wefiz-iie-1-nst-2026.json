@@ -1,0 +1,976 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Informatyka i ekonometria",
+ "kierunekEn": "Computer Science and Econometrics",
+ "id": "wefiz-iie-1-nst-2026",
+ "kod": "iien26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "A40": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0102 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "wprowadzenie do prawa",
+     "k": "W",
+     "p": "dr Joanna Szyjewska-Bagińska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "algebra liniowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "algebra liniowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "W",
+     "p": "dr Barbara Batóg",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "W",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "CW",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "algebra liniowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "15:20"
+     ],
+     "pl": "algebra liniowa",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "algebra liniowa",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "algebra liniowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "wprowadzenie do prawa",
+     "k": "W",
+     "p": "dr Joanna Szyjewska-Bagińska",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "algebra liniowa",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "wprowadzenie do prawa",
+     "k": "W",
+     "p": "dr Joanna Szyjewska-Bagińska",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "W",
+     "p": "dr Barbara Batóg",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "CW",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "CW",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "dr Olga Pilipczuk",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "CW",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0102 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "wprowadzenie do prawa",
+     "k": "W",
+     "p": "dr Joanna Szyjewska-Bagińska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "algebra liniowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "algebra liniowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "W",
+     "p": "dr Barbara Batóg",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "W",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "CW",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "algebra liniowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "15:20"
+     ],
+     "pl": "algebra liniowa",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "algebra liniowa",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "algebra liniowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "wprowadzenie do prawa",
+     "k": "W",
+     "p": "dr Joanna Szyjewska-Bagińska",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "algebra liniowa",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "wprowadzenie do prawa",
+     "k": "W",
+     "p": "dr Joanna Szyjewska-Bagińska",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "W",
+     "p": "dr Barbara Batóg",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "CW",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "CW",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "LAB",
+     "p": "dr Olga Pilipczuk",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "analiza matematyczna",
+     "k": "CW",
+     "p": "dr Barbara Batóg",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "algorytmy i struktury danych",
+     "k": "LAB",
+     "p": "dr inż. Jarosław Duda",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    }
+   ]
+  }
+ }
+}

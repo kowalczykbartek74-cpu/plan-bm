@@ -36,3 +36,41 @@ test("WKFiZ nst: tabela zjazdów → zajęcia z datami (pt/sob/nd), sklejone blo
   assert.deepEqual(waliduj({ groups }), []);
   assert.ok(groups.WF1.odd.every((e) => e.dates?.length), "zjazdy zawsze z dates");
 });
+
+// ---------- WEFiZ: system planynst (plan wykładowcy) ----------
+import { przedmiot, grupa, planWykladowcy, zloz, wykladowcy } from "./us/wefiz-nst.mjs";
+import { rocznikiNstWEFiZ } from "./us/inwentarz.mjs";
+
+test("WEFiZ nst: nazwa przedmiotu z dopiskami → nazwa, rodzaj, podgrupa, notka", () => {
+  const p = (t) => { const x = przedmiot(t); return [x.pl, x.k, x.pg || null, x.n || null]; };
+  assert.deepEqual(p("matematyka (8h)(w )"), ["matematyka", "W", null, null]);
+  assert.deepEqual(p("metody wyceny przedsiębiorstw (lab gr. B)(9h)"), ["metody wyceny przedsiębiorstw", "LAB", "lab:B", null]);
+  assert.deepEqual(p("Podstawy finansów (lb) gr.A"), ["Podstawy finansów", "LAB", "lab:A", null]);
+  assert.deepEqual(p("język angielski (lk)(15)(zo) gr.1"), ["język angielski", "CW", "gr:1", null]);
+  assert.deepEqual(p("finanse sektora MSP (9h)(ćw)(sp. FPiP)"), ["finanse sektora MSP", "CW", "spec:FPiP", null]);
+  assert.deepEqual(p("seminarium magisterskie (s) e-zajęcia"), ["seminarium magisterskie", "S", null, "e-zajęcia"]);
+  assert.deepEqual(p("Customer and user experience (doświadczenie klienta i użytkownika) (ćw)"), ["Customer and user experience (doświadczenie klienta i użytkownika)", "CW", null, null]);
+  assert.deepEqual(p("integracja gospodarcza (w US-EM)"), ["integracja gospodarcza", "W", null, "US-EM"]);
+  assert.deepEqual(grupa("A20: Finanse i Rachunkowość, stopień 1, rok 1"), { g: "A20", kierunek: "Finanse i Rachunkowość", stopien: 1, rok: 1 });
+});
+
+test("WEFiZ nst: plany wykładowców → plan rocznika po grupach, wspólne zajęcia raz, zawsze z dates", () => {
+  const k = planWykladowcy(fx("wefiz-nst/kuczynski.html")), h = planWykladowcy(fx("wefiz-nst/hendryk.html"));
+  assert.deepEqual(k[0], { data: "2026-10-10", time: ["14:35", "17:05"], pl: "matematyka", k: "W", r: "s. N020 Mic.64",
+    grupy: [{ g: "A20", kierunek: "Finanse i Rachunkowość", stopien: 1, rok: 1 }, { g: "A21", kierunek: "Finanse i Rachunkowość", stopien: 1, rok: 1 }] });
+  const z = zloz([{ p: "dr Michał Kuczyński", zajecia: k }, { p: "dr Michał Kuczyński", zajecia: k }, { p: "dr Michał Hendryk", zajecia: h }]);
+  const fir = z["finanse i rachunkowość|1|1"];
+  assert.deepEqual(Object.keys(fir.groups), ["A20", "A21"]);
+  const mat = fir.groups.A20.odd.filter((e) => e.pl === "matematyka");
+  assert.ok(mat.length && mat.every((e) => e.dates?.length && e.p === "dr Michał Kuczyński" && e.d >= 4), "ten sam plan dwa razy = bez dubli");
+  for (const r of Object.values(z)) assert.deepEqual(waliduj({ groups: r.groups }), []);
+  assert.ok(wykladowcy(`<a href='/wp-content/include-me/plany_mick/pracow_zajecia_xml.php?nazw=dr Michał&nazw1=Kuczyński' target='_blank'>dr Michał Kuczyński</a>`)[0].url.includes("pracow_zajecia_xml.php"));
+});
+
+test("WEFiZ nst: roczniki z kodów grup e-proDziekan w PDF-ie „Wykaz grup … NZ” (Cukrowa)", () => {
+  const mapa = { L: "Logistyka", Li: "Logistyka inż.", Z: "Zarządzanie", MAR: "Marketing" };
+  const r = rocznikiNstWEFiZ(JSON.parse(fx("wefiz-nst/wykaz-cukrowa.json")), mapa);
+  assert.deepEqual(r.nieznane, []);
+  assert.deepEqual(r.roczniki.map((x) => `${x.skrot}${x.stopien === 2 ? "-II" : ""}:${x.rok}`).sort(),
+    ["L-II:1", "L-II:2", "L:1", "L:2", "L:3", "Li:1", "Li:2", "Li:3", "Li:4", "MAR-II:1", "MAR-II:2", "Z-II:1", "Z-II:2", "Z:1", "Z:2", "Z:3"]);
+});

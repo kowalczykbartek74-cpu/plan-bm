@@ -20,6 +20,8 @@
       "kod": "wefiz", "skrot": "WEFiZ", "pl": "Wydział Ekonomii, Finansów i Zarządzania", "en": "Faculty of Economics, Finance and Management",
       "oferta": "Wydział Ekonomii, Finansów i Zarządzania",
       "parser": "wefiz",
+      "importer": "wefiz-nst.mjs",
+      "nstKierunki": { "_opis": "Etap 7: skrót kierunku w kodach grup e-proDziekan z PDF-ów „Wykaz grup … NZ” (np. FiR-NI.26-11) → nazwa kierunku z oferty", "E": "Ekonomia", "FiR": "Finanse i rachunkowość", "IiE": "Informatyka i ekonometria", "TiR": "Turystyka i rekreacja", "AF": "Audyt finansowy", "DAT": "Data Science", "L": "Logistyka", "Li": "Logistyka inż.", "Z": "Zarządzanie", "MAR": "Marketing" },
       "strony": [
         { "url": "https://planyzajec-efz.usz.edu.pl/plan", "tryb": "st", "format": "html" },
         { "url": "https://efz.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", "tryb": "nst", "format": "html" }

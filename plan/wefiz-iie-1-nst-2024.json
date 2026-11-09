@@ -1,0 +1,1946 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Informatyka i ekonometria",
+ "kierunekEn": "Computer Science and Econometrics",
+ "id": "wefiz-iie-1-nst-2024",
+ "kod": "iien24",
+ "wydzial": "WEFiZ",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "C40": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący_",
+     "r": "online",
+     "n": "godz. 17.00-19.30; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący__",
+     "r": "online",
+     "n": "godz. 17.00-20.15; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "pl": "badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N105 lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S07 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0201 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "W",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "W",
+     "p": "dr Monika Rozkrut",
+     "r": "online",
+     "n": "e-zajęcia, US-DS",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "09:50"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "W",
+     "p": "dr Monika Rozkrut",
+     "r": "s. S01 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "LAB",
+     "p": "dr Monika Rozkrut",
+     "r": "s. N021A lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "zakładanie i prowadzenie działalności gospodarczej",
+     "k": "W",
+     "p": "dr Wojciech Leoński",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08e lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia, US-DS",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S06 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "LAB",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. N105 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "W",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N021A lab Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "W",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. S0100 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "W",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. S01 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "LAB",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. N08c lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N019 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "13:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S01 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S01 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "LAB",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. N105 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy demografii",
+     "k": "W",
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "seminarium licencjackie",
+     "k": "S",
+     "p": "dr Paweł Baran",
+     "r": "gabinet",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "badania operacyjne",
+     "k": "W",
+     "p": "dr Paweł Baran",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "W",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "LAB",
+     "p": "dr Monika Rozkrut",
+     "r": "s. N021A lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0100 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08c lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N105 lab Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "podstawy demografii",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "podstawy demografii",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "LAB",
+     "p": "dr Monika Rozkrut",
+     "r": "s. N019 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "zakładanie i prowadzenie działalności gospodarczej",
+     "k": "W",
+     "p": "dr Wojciech Leoński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "LAB",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. N105 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N101/102 lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia, US-DS",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "W",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. S03 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "W",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. S06 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy demografii",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-11-15",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "zakładanie i prowadzenie działalności gospodarczej",
+     "k": "W",
+     "p": "dr Wojciech Leoński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "LAB",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. N021A lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "badania operacyjne",
+     "k": "W",
+     "p": "dr Paweł Baran",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S0102 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy demografii",
+     "k": "W",
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "W",
+     "p": "dr Monika Rozkrut",
+     "r": "online",
+     "n": "e-zajęcia, US-DS",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy demografii",
+     "k": "W",
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zakładanie i prowadzenie działalności gospodarczej",
+     "k": "W",
+     "p": "dr Wojciech Leoński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08c lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "seminarium licencjackie",
+     "k": "S",
+     "p": "dr Paweł Baran",
+     "r": "gabinet",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "LAB",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. N105 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "seminarium licencjackie",
+     "k": "S",
+     "p": "dr Paweł Baran",
+     "r": "gabinet",
+     "dates": [
+      "2026-11-29"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący_",
+     "r": "online",
+     "n": "godz. 17.00-19.30; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący__",
+     "r": "online",
+     "n": "godz. 17.00-20.15; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "pl": "badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N105 lab Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S07 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Mirosław Lichosik",
+     "r": "s. S0201 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Monika Matuszczyk",
+     "r": "s. S0200 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "W",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "W",
+     "p": "dr Monika Rozkrut",
+     "r": "online",
+     "n": "e-zajęcia, US-DS",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "09:50"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "W",
+     "p": "dr Monika Rozkrut",
+     "r": "s. S01 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "LAB",
+     "p": "dr Monika Rozkrut",
+     "r": "s. N021A lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "zakładanie i prowadzenie działalności gospodarczej",
+     "k": "W",
+     "p": "dr Wojciech Leoński",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0315 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08e lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia, US-DS",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S06 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "LAB",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. N105 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "W",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N021A lab Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "W",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. S0100 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "W",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. S01 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "LAB",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. N08c lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N019 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "13:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S01 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S01 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "LAB",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. N105 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy demografii",
+     "k": "W",
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "seminarium licencjackie",
+     "k": "S",
+     "p": "dr Paweł Baran",
+     "r": "gabinet",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "badania operacyjne",
+     "k": "W",
+     "p": "dr Paweł Baran",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "W",
+     "p": "prof. dr hab. Agnieszka Szewczyk",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "LAB",
+     "p": "dr Monika Rozkrut",
+     "r": "s. N021A lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "W",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0100 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08c lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N105 lab Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "podstawy demografii",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "podstawy demografii",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "LAB",
+     "p": "dr Monika Rozkrut",
+     "r": "s. N019 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "zakładanie i prowadzenie działalności gospodarczej",
+     "k": "W",
+     "p": "dr Wojciech Leoński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "LAB",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. N105 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N101/102 lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia, US-DS",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "W",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. S03 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "metody klasyfikacji?",
+     "k": "W",
+     "p": "dr hab. prof. US Christian Lis",
+     "r": "s. S06 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy demografii",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-11-15",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "zakładanie i prowadzenie działalności gospodarczej",
+     "k": "W",
+     "p": "dr Wojciech Leoński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "LAB",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. N021A lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "badania operacyjne",
+     "k": "W",
+     "p": "dr Paweł Baran",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "konstrukcja produktów ubezpieczeniowych",
+     "k": "CW",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S0102 Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy demografii",
+     "k": "W",
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N019 lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "przetwarzanie i wizualizacja danych w języku R",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "statystyka publiczna",
+     "k": "W",
+     "p": "dr Monika Rozkrut",
+     "r": "online",
+     "n": "e-zajęcia, US-DS",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy demografii",
+     "k": "W",
+     "p": "dr Magdalena Mojsiewicz",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy e-biznesu",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zakładanie i prowadzenie działalności gospodarczej",
+     "k": "W",
+     "p": "dr Wojciech Leoński",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "analiza szeregów czasowych",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08c lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "seminarium licencjackie",
+     "k": "S",
+     "p": "dr Paweł Baran",
+     "r": "gabinet",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "symulacje obliczeniowe w biznesie",
+     "k": "LAB",
+     "p": "dr Bartosz Wasilewski",
+     "r": "s. N105 lab Mic.64",
+     "n": "US-DS",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "seminarium licencjackie",
+     "k": "S",
+     "p": "dr Paweł Baran",
+     "r": "gabinet",
+     "dates": [
+      "2026-11-29"
+     ]
+    }
+   ]
+  }
+ }
+}

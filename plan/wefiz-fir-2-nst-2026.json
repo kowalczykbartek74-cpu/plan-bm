@@ -1,0 +1,1370 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Finanse i rachunkowość",
+ "kierunekEn": "Finance and Accounting",
+ "id": "wefiz-fir-2-nst-2026",
+ "kod": "firmn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "E20": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N101/102 lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "CW",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "W",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "CW",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. N104 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "CW",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "W",
+     "p": "dr Izabela Nawrolska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "W",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0123B Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "W",
+     "p": "dr hab. prof. US Adam Adamczyk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0123B Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "W",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N104 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "LAB",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S0123B Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "LAB",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S0123B Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "CW",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "W",
+     "p": "dr hab. prof. US Adam Adamczyk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "W",
+     "p": "dr Izabela Nawrolska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "CW",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "LAB",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. N08e lab Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "CW",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0123A Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "W",
+     "p": "dr hab. prof. US Adam Adamczyk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "W",
+     "p": "dr Izabela Nawrolska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N101/102 lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "CW",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "W",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "CW",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. N104 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "CW",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "W",
+     "p": "dr Izabela Nawrolska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "W",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0123B Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "W",
+     "p": "dr hab. prof. US Adam Adamczyk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0123B Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "W",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N104 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "finanse behawioralne",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "W",
+     "p": "dr Ilona Kędzierska-Bujak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "LAB",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S0123B Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "LAB",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S0123B Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "CW",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "W",
+     "p": "dr hab. prof. US Adam Adamczyk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "polityka pieniężna",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "rachunkowość zarządcza",
+     "k": "CW",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "teoria i zasady rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "W",
+     "p": "dr Izabela Nawrolska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "CW",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "LAB",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. N08e lab Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "CW",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "portfel inwestycyjny",
+     "k": "LAB",
+     "p": "dr Urszula Gierałtowska",
+     "r": "s. S0123A Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "strategie podatkowe",
+     "k": "W",
+     "p": "dr hab. prof. US Adam Adamczyk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zarządzanie finansami publicznymi",
+     "k": "W",
+     "p": "dr Izabela Nawrolska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}

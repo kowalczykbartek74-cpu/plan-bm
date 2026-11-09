@@ -1,0 +1,1486 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Turystyka i rekreacja",
+ "kierunekEn": "Tourism and Recreation",
+ "id": "wefiz-tir-1-nst-2026",
+ "kod": "tirn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "A30": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "W",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-14",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "CW",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "17:05"
+     ],
+     "pl": "Krajoznawstwo",
+     "k": "LAB",
+     "p": "dr Barbara Osóch",
+     "r": "zajęcia w terenie",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Krajoznawstwo",
+     "k": "W",
+     "p": "dr Barbara Osóch",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "W",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "W",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "16:15"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "W",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "Geografia społeczno-ekonomicznai",
+     "k": "CW",
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "W",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "CW",
+     "p": "dr Elżbieta Mydłowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "CW",
+     "p": "dr Elżbieta Mydłowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "W",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Geografia społeczno-ekonomicznai",
+     "k": "W",
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "CW",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "CW",
+     "p": "dr Elżbieta Mydłowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "W",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "W",
+     "p": "dr Żaneta Stasieniuk",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Pedagogika czasu wolnego z elementami psychologii",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "Pedagogika czasu wolnego z elementami psychologii",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "W",
+     "p": "dr Żaneta Stasieniuk",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "CW",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "CW",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "CW",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "W",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "CW",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Krajoznawstwo",
+     "k": "W",
+     "p": "dr Barbara Osóch",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "W",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "W",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Geografia społeczno-ekonomicznai",
+     "k": "W",
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "Geografia społeczno-ekonomicznai",
+     "k": "CW",
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Aleksandra Werner",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "Pedagogika czasu wolnego z elementami psychologii",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "W",
+     "p": "dr Żaneta Stasieniuk",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "W",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-14",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "CW",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "17:05"
+     ],
+     "pl": "Krajoznawstwo",
+     "k": "LAB",
+     "p": "dr Barbara Osóch",
+     "r": "zajęcia w terenie",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Krajoznawstwo",
+     "k": "W",
+     "p": "dr Barbara Osóch",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "W",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "W",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "16:15"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "W",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "Geografia społeczno-ekonomicznai",
+     "k": "CW",
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "W",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "CW",
+     "p": "dr Elżbieta Mydłowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "CW",
+     "p": "dr Elżbieta Mydłowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "W",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Geografia społeczno-ekonomicznai",
+     "k": "W",
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "CW",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "CW",
+     "p": "dr Elżbieta Mydłowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "W",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "W",
+     "p": "dr Żaneta Stasieniuk",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Pedagogika czasu wolnego z elementami psychologii",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "Pedagogika czasu wolnego z elementami psychologii",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "W",
+     "p": "dr Żaneta Stasieniuk",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "CW",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "CW",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "CW",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "W",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Historia architektury i sztuki",
+     "k": "CW",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Krajoznawstwo",
+     "k": "W",
+     "p": "dr Barbara Osóch",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Podstawy geografii turyzmu",
+     "k": "W",
+     "p": "dr hab. prof. US Zbigniew Głąbiński",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Ekologia i ochrona środowiska",
+     "k": "W",
+     "p": "dr hab. prof US Anna Drab-Kurowska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Podstawy ekonomii",
+     "k": "W",
+     "p": "dr Małgorzata Gorzałczyńska-Koczkodaj",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Geografia społeczno-ekonomicznai",
+     "k": "W",
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "Geografia społeczno-ekonomicznai",
+     "k": "CW",
+     "p": "dr Tomasz Rydzewski",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "CW",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Aleksandra Werner",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "Pedagogika czasu wolnego z elementami psychologii",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "W",
+     "p": "dr Żaneta Stasieniuk",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "Techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Leszek Gracz",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

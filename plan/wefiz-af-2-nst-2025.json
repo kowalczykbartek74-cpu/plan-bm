@@ -1,0 +1,3130 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Audyt finansowy",
+ "kierunekEn": "Financial Audit",
+ "id": "wefiz-af-2-nst-2025",
+ "kod": "afmn25",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "F60": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący,__",
+     "r": "online",
+     "n": "godz. 17.00-20.15; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący,__",
+     "r": "online",
+     "n": "godz. 17.00-19.30; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "rachunkowość finansowa-egzamin godz. 8.00",
+     "k": "X",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. S0205/0206 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Cypryjańska",
+     "r": "s. S0100 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0102 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. S0204 Mic.64",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Beata Filipiak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Beata Filipiak",
+     "r": "gabinet",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący,__",
+     "r": "online",
+     "n": "godz. 17.00-20.15; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący,__",
+     "r": "online",
+     "n": "godz. 17.00-19.30; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "rachunkowość finansowa-egzamin godz. 8.00",
+     "k": "X",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. S0205/0206 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Cypryjańska",
+     "r": "s. S0100 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0102 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. S0204 Mic.64",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Beata Filipiak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Dariusz Pauch",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Beata Filipiak",
+     "r": "gabinet",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  },
+  "F61": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący,__",
+     "r": "online",
+     "n": "godz. 17.00-20.15; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący,__",
+     "r": "online",
+     "n": "godz. 17.00-19.30; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "rachunkowość finansowa-egzamin godz. 8.00",
+     "k": "X",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. S0205/0206 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Cypryjańska",
+     "r": "s. S0100 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0102 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. S0204 Mic.64",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0101 lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. N105 lab Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Beata Filipiak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Beata Filipiak",
+     "r": "gabinet",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący,__",
+     "r": "online",
+     "n": "godz. 17.00-20.15; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "p": "prowadzący,__",
+     "r": "online",
+     "n": "godz. 17.00-19.30; szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "rachunkowość finansowa-egzamin godz. 8.00",
+     "k": "X",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "s. S0205/0206 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Cypryjańska",
+     "r": "s. S0100 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Ewa Stefanowska",
+     "r": "s. S0102 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr Magdalena Kisiel-Spychała",
+     "r": "s. S0204 Mic.64",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0101 lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. N105 lab Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "CW",
+     "p": "dr Magdalena Janowicz",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "LAB",
+     "p": "dr Marcin Sołtysik",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "W",
+     "p": "dr hab. prof. US Anna Bera",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Beata Filipiak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "sprawozdawczość finansowa i analiza finansowa",
+     "k": "W",
+     "p": "dr Michał Hendryk",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "finase i rachunkowość instytucji finansowych",
+     "k": "CW",
+     "p": "dr Izabela Nawrolska",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-18",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "CW",
+     "p": "dr hab. prof. US Stanisław Hońko",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "prof. dr hab. Beata Filipiak",
+     "r": "gabinet",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "rachunkowość finansowa",
+     "k": "W",
+     "p": "prof. dr hab. Waldemar Gos",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "seminarium magisterskie",
+     "k": "S",
+     "p": "dr hab. prof. US Katarzyna Byrka-Kita, prof. dr hab. Beata Filipiak, prof. dr hab. Waldemar Gos, prof. dr hab. Jolanta Iwin-Garzyńska, dr Konrad Kochański, dr hab. prof. US Tomasz Strąk, prof. dr hab. Magdalena Zioło",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "raportowanie zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

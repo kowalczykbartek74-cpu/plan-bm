@@ -1,0 +1,1344 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Ekonomia",
+ "kierunekEn": "Economics",
+ "id": "wefiz-ek-1-nst-2025",
+ "kod": "ekn25",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "B10": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "p": "prowadzący_",
+     "r": "online",
+     "n": "godz. 17.00-20.15 Szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "p": "prowadzący_",
+     "r": "online",
+     "n": "godz. 17.00-19.30 Szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "metodyka badań ekonomicznych",
+     "k": "W",
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-13",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "19:00",
+      "20:35"
+     ],
+     "pl": "metodyka badań ekonomicznych",
+     "k": "W",
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "W",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "K",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "W",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S0102 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "metodyka badań ekonomicznych",
+     "k": "W",
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S0123A Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "CW",
+     "p": "dr Joanna Kowalik",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0102 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "W",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "W",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "W",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "K",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. N104 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "CW",
+     "p": "dr Joanna Kowalik",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "W",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "LAB",
+     "p": "dr Joanna Kowalik",
+     "r": "s. N021A lab Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "K",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Hanna Basiak",
+     "r": "s. S0201 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0200 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "CW",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "warsztaty IT w ekonomii",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "CW",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "CW",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S0102 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "CW",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "warsztaty IT w ekonomii",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "CW",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "CW",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "LAB",
+     "p": "dr Joanna Kowalik",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "LAB",
+     "p": "dr Joanna Kowalik",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "warsztaty IT w ekonomii",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "p": "prowadzący_",
+     "r": "online",
+     "n": "godz. 17.00-20.15 Szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "X",
+     "p": "prowadzący_",
+     "r": "online",
+     "n": "godz. 17.00-19.30 Szczegółowy harmonogram na stronie Wydziału",
+     "dates": [
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "metodyka badań ekonomicznych",
+     "k": "W",
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-13",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "19:00",
+      "20:35"
+     ],
+     "pl": "metodyka badań ekonomicznych",
+     "k": "W",
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "W",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "K",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "W",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S0102 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "metodyka badań ekonomicznych",
+     "k": "W",
+     "p": "prof. dr hab. Iga Rudawska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S0123A Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "CW",
+     "p": "dr Joanna Kowalik",
+     "r": "s. S0105 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "CW",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0102 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "W",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "W",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "metody ilościowe w ekonomii",
+     "k": "W",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "K",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. N104 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "CW",
+     "p": "dr Joanna Kowalik",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "W",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "LAB",
+     "p": "dr Joanna Kowalik",
+     "r": "s. N021A lab Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "ekonomia sektora publicznego",
+     "k": "K",
+     "p": "dr hab. prof. US Danuta Miłaszewicz",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Hanna Basiak",
+     "r": "s. S0201 Mic.64",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Marta Zubek",
+     "r": "s. S0200 Mic.64",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "W",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "CW",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "warsztaty IT w ekonomii",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "CW",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "CW",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S0102 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "CW",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "warsztaty IT w ekonomii",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "W",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "ekonomia zrównoważonego rozwoju",
+     "k": "CW",
+     "p": "dr Izabela Szamrej-Baran",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "sprawozdawczość finansowa",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "ekonomia behawioralna",
+     "k": "CW",
+     "p": "dr hab. prof. US Piotr Szkudlarek",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "międzynarodowe stosunki gospodarcze",
+     "k": "CW",
+     "p": "dr Ewa Bilewicz",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "LAB",
+     "p": "dr Joanna Kowalik",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "warsztaty badań ekonomicznych",
+     "k": "LAB",
+     "p": "dr Joanna Kowalik",
+     "r": "s. N103 lab Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "warsztaty IT w ekonomii",
+     "k": "LAB",
+     "p": "dr Zbigniew Stempnakowski",
+     "r": "s. N08d lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    }
+   ]
+  }
+ }
+}

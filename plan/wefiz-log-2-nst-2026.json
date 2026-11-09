@@ -1,0 +1,1128 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Logistyka",
+ "kierunekEn": "Logistics",
+ "id": "wefiz-log-2-nst-2026",
+ "kod": "logmn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "E31": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "CW",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "CW",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-14",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "CW",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "W",
+     "p": "dr Jarosław Jaworski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "s. 003 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "CW",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "CW",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "W",
+     "p": "dr Jarosław Jaworski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "CW",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "CW",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "CW",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "CW",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "CW",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "CW",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-14",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "LAB",
+     "p": "dr inż. Piotr Gutowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "CW",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "W",
+     "p": "dr Jarosław Jaworski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Małgorzata Smolska",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "s. 003 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Informatyka w logistyce",
+     "k": "CW",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie przedsiębiorstwem transportowym",
+     "k": "CW",
+     "p": "dr Agnieszka Gozdek",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "CW",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "W",
+     "p": "dr Jarosław Jaworski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "CW",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Rynek usług logistycznych",
+     "k": "CW",
+     "p": "dr Jarosław Jaworski",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie procesami logistycznymi",
+     "k": "W",
+     "p": "dr Artur Pomianowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "CW",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie zasobami ludzkimi",
+     "k": "CW",
+     "p": "mgr Dominik Nocoń",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    }
+   ]
+  }
+ }
+}

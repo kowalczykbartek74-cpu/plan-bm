@@ -1,0 +1,1844 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Logistyka",
+ "kierunekEn": "Logistics",
+ "id": "wefiz-log-1-nst-2026",
+ "kod": "logn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "A31": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 003 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "s. 002 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-10",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 720 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. 523 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 720 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "15:20"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "s. 523 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 002 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 720 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "19:00",
+      "19:45"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. 002 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. 003 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "s. 002 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "pl": "Ochrona własności intelektualnej i przemysłowej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-10",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "CW",
+     "p": "mgr Paweł Miązek",
+     "r": "s. 720 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "towaroznawstwo",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy logistyki",
+     "k": "W",
+     "p": "dr Aleksandra Cholewa-Domanagić",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "dr Natalia Sypion",
+     "r": "s. 523 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. 720 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "15:20"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "W",
+     "p": "dr Agnieszka Smalec",
+     "r": "s. 523 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "etyka zawodowa",
+     "k": "K",
+     "p": "dr Marta Młokosiewicz",
+     "r": "s. 002 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy ekonomii",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy marketingu",
+     "k": "CW",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 720 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "dr Małgorzata Skweres-Kuchta",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "technologie informatyczne",
+     "k": "LAB",
+     "p": "dr Michał Nowakowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "19:00",
+      "19:45"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. 002 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}

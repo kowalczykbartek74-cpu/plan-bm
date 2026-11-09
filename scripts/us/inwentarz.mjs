@@ -12,6 +12,7 @@ import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { pobieracz, xlsxNapisy, xlsxArkusze, xlsxArkuszeDane, adres } from "./wspolne.mjs";
 import { rocznikArkusza } from "./wh-xlsx.mjs";
+import { pdfNaTekst } from "./wpia-pdf.mjs";
 import { zrodlaWH, zrodlaWNS, zrodlaWNSiP, zrodlaWPIA, zrodlaWT, zrodlaWKFiZ, ofertaUS } from "./zrodla.mjs";
 import { kierunkiZFormularza, kodZ, nabor, LATA } from "../wefiz-wszystkie.mjs";
 import { uczelnia } from "../uczelnia.mjs";
@@ -103,6 +104,21 @@ export function zlozKierunki(wydz, wpisy, oferta, { kody = {}, en = {}, teraz = 
   const kody2 = out.filter((k) => k.kod).map((k) => k.kod);
   for (const d of kody2.filter((c, i) => kody2.indexOf(c) !== i)) pytania.push(`${wydz.skrot}: kod ${d} powtarza się w wydziale`);
   return { kierunki: out.sort((a, b) => a.pl.localeCompare(b.pl, "pl")), pytania };
+}
+
+// ---------- WEFiZ niestacjonarne: kody grup e-proDziekan („FiR-NI.26-11”, „AF-NII.25-2-L.1”) → kierunek, stopień, rok ----------
+export function rocznikiNstWEFiZ(tekst, mapa) {
+  const t = (tekst.strony || []).flatMap((s) => (s.slowa || []).map((w) => w[4])).join(" ");
+  const out = new Map(), nieznane = new Set();
+  for (const m of t.matchAll(/(?<![\p{L}])([A-Za-z]{1,4})-N(II|I)\.(\d{2})-(\d)/gu)) {
+    const [, skrot, st, , rok] = m;
+    const nazwa = mapa[skrot];
+    if (!nazwa) { nieznane.add(skrot); continue; }
+    const k = `${skrot}|${st}|${rok}`;
+    const x = out.get(k) || out.set(k, { skrot, nazwa, stopien: st === "II" ? 2 : 1, rok: +rok, kody: [] }).get(k);
+    x.kody.push(m[0]);
+  }
+  return { roczniki: [...out.values()], nieznane: [...nieznane] };
 }
 
 // ---------- wpisy kierunków ze źródeł (per wydział) ----------
@@ -234,6 +250,18 @@ export async function inwentarz({ offline = false, probki = false, log = console
     let zrodla = [], wpisy = [], pytania = [], dodatkowe = {};
     if (w.parser === "wefiz") {
       ({ zrodla, wpisy, pytania } = await wefiz(w, p, oferta, { offline, log }));
+      // niestacjonarne (Etap 7): roczniki z kodów grup w PDF-ach „Wykaz grup … NZ”, plan z systemu planynst (scripts/us/wefiz-nst.mjs)
+      for (const z of zrodla.filter((x) => x.tryb === "nst" && x.typ === "grupy")) {
+        try {
+          const f = await p.plik(z.url);
+          if (!f || f.brak) { pytania.push(`WEFiZ: brak pliku ${z.plik}`); continue; }
+          z.sha256 = f.sha256; z.rozmiar = f.rozmiar;
+          const r = rocznikiNstWEFiZ(pdfNaTekst(f.buf), w.nstKierunki || {});
+          pytania.push(...r.nieznane.map((x) => `WEFiZ nst: skrót grupy „${x}” (${z.plik}) – brak w config/wydzialy-us.json → nstKierunki`));
+          for (const x of r.roczniki) wpisy.push({ nazwa: x.nazwa, skrot: x.skrot, stopien: x.stopien, lata: [x.rok], tryb: "nst", zrodlo: "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+            potw: `niestacjonarne: grupy ${x.kody.slice(0, 3).join(", ")} w ${z.plik}` });
+        } catch (e) { pytania.push(`WEFiZ: ${z.plik}: ${e.message}`); }
+      }
     } else if (w.parser === "wkfiz") {
       const st = await p.strona(w.strony[0].url), nst = await p.strona(w.strony[1].url);
       const r = zrodlaWKFiZ(JSON.parse(st || "{}"), JSON.parse(nst || "{}"), w.strony[0].url, w.strony[1].url);

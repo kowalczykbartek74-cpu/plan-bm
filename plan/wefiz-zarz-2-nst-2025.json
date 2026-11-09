@@ -1,0 +1,1394 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Zarządzanie",
+ "kierunekEn": "Management",
+ "id": "wefiz-zarz-2-nst-2025",
+ "kod": "zarzmn25",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "F51": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. Prof. US Krzysztof Błoński, dr Karolina Drela, dr Hubert Pachciarek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-13",
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-09",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "18:50"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Nowoczesne koncepcje i metody zarządzania",
+     "k": "CW",
+     "p": "dr hab. Prof. US Krzysztof Janasz",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Nowoczesne koncepcje i metody zarządzania",
+     "k": "CW",
+     "p": "dr hab. Prof. US Krzysztof Janasz",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. Prof. US Krzysztof Błoński",
+     "r": "gab. 713",
+     "dates": [
+      "2026-10-24",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Hubert Pachciarek",
+     "r": "gab. SIL 228",
+     "dates": [
+      "2026-10-24",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Strategie rozwoju przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Strategie rozwoju przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Troczyńska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Nowoczesne koncepcje i metody zarządzania",
+     "k": "CW",
+     "p": "dr hab. Prof. US Krzysztof Janasz",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie stresem",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Coaching i mentoring",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "s. 307 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Karolina Drela",
+     "r": "gab. 624",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Karolina Drela",
+     "r": "gab. 624",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Coaching i mentoring",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Strategie rozwoju przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "dr Marcin Janowski",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie relacjami w biznesie",
+     "k": "CW",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Coaching i mentoring",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "dr Marcin Janowski",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie relacjami w biznesie",
+     "k": "CW",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie stresem",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie stresem",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. Prof. US Krzysztof Błoński",
+     "r": "gab. 713",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Karolina Drela",
+     "r": "gab. 624",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Hubert Pachciarek",
+     "r": "gab. SIL 228",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie relacjami w biznesie",
+     "k": "CW",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. Prof. US Krzysztof Błoński, dr Karolina Drela, dr Hubert Pachciarek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-13",
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-09",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "18:50"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Nowoczesne koncepcje i metody zarządzania",
+     "k": "CW",
+     "p": "dr hab. Prof. US Krzysztof Janasz",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Nowoczesne koncepcje i metody zarządzania",
+     "k": "CW",
+     "p": "dr hab. Prof. US Krzysztof Janasz",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. Prof. US Krzysztof Błoński",
+     "r": "gab. 713",
+     "dates": [
+      "2026-10-24",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Hubert Pachciarek",
+     "r": "gab. SIL 228",
+     "dates": [
+      "2026-10-24",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Strategie rozwoju przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Strategie rozwoju przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Troczyńska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Nowoczesne koncepcje i metody zarządzania",
+     "k": "CW",
+     "p": "dr hab. Prof. US Krzysztof Janasz",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie stresem",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Coaching i mentoring",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "Współczesne teorie firmy",
+     "k": "W",
+     "p": "dr Karolina Drela",
+     "r": "s. 307 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Karolina Drela",
+     "r": "gab. 624",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Karolina Drela",
+     "r": "gab. 624",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Coaching i mentoring",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Strategie rozwoju przedsiębiorstw",
+     "k": "CW",
+     "p": "mgr Sebastian Matysik",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "dr Marcin Janowski",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie relacjami w biznesie",
+     "k": "CW",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "W",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Coaching i mentoring",
+     "k": "CW",
+     "p": "mgr Malwina Jankowska",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Metody ilościowe w zarządzaniu",
+     "k": "LAB",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "dr Marcin Janowski",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie relacjami w biznesie",
+     "k": "CW",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie stresem",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 607 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie stresem",
+     "k": "CW",
+     "p": "dr Karolina Drela",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. Prof. US Krzysztof Błoński",
+     "r": "gab. 713",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Karolina Drela",
+     "r": "gab. 624",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Hubert Pachciarek",
+     "r": "gab. SIL 228",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie relacjami w biznesie",
+     "k": "CW",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 623 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie strategiczne",
+     "k": "CW",
+     "p": "dr Magdalena Ławicka",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}

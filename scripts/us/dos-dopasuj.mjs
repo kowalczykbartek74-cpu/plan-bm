@@ -128,18 +128,20 @@ export function dopasowanie(r, plan) {
 // Roczniki US spoza WEFiZ (WEFiZ ma kierunki/*.json, scripts/roczniki.mjs) z planem w plan/<id>.json:
 // sekcja DOS = pierwszy adres „dos” wydziału z config/zrodla-us.json, kierunek/skróty/rok/stopień z config/kierunki-us.json.
 import fs from "node:fs";
+import { budynek, DOS } from "../roczniki.mjs";
 export function rocznikiUS({ kierunki = "config/kierunki-us.json", zrodla = "config/zrodla-us.json", wydzialy = "config/wydzialy-us.json", planDir = "plan" } = {}) {
   if (!fs.existsSync(kierunki) || !fs.existsSync(zrodla)) return [];
   const cfgW = fs.existsSync(wydzialy) ? JSON.parse(fs.readFileSync(wydzialy, "utf8")).wydzialy : [];
   const K = JSON.parse(fs.readFileSync(kierunki, "utf8")).wydzialy, Z = JSON.parse(fs.readFileSync(zrodla, "utf8")).wydzialy;
   const out = [];
   for (const [w, wd] of Object.entries(K)) {
-    if (w === "wefiz") continue;
-    const dos = (Z[w]?.dos || [])[0];
+    const dosW = (Z[w]?.dos || [])[0];
     const nazwyW = wd.kierunki.flatMap((k) => [k.pl, k.en].filter(Boolean));
     for (const k of wd.kierunki) for (const r of k.roczniki || []) {
       const plik = `${planDir}/${r.id}.json`;
-      if (!r.id || r.tryb !== "st" || !fs.existsSync(plik)) continue;
+      // WEFiZ stacjonarne: kierunki/ (scripts/roczniki.mjs); tu tylko niestacjonarne (Etap 7)
+      if (!r.id || (w === "wefiz" ? r.tryb !== "nst" : r.tryb !== "st") || !fs.existsSync(plik)) continue;
+      const dos = w === "wefiz" && budynek(JSON.parse(fs.readFileSync(plik, "utf8"))) === "mic" ? DOS.mic : dosW;
       const cw = cfgW.find((x) => x.kod === w) || {};
       out.push({ id: r.id, plik, dos, wydzial: { kod: wd.skrot }, kierunek: { pl: k.pl, en: k.en || null }, skroty: [...new Set([...(k.skroty || []), k.kod, ...((cw.dosSkroty || {})[k.kod] || [])].filter(Boolean))],
         rok: r.rok, stopien: r.stopien, tryb: r.tryb, nst: cw.dosNiestacjonarne || [], inne: nazwyW.filter((n) => n !== k.pl && n !== k.en),

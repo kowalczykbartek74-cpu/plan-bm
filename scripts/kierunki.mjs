@@ -29,8 +29,9 @@ export function listaUS({ plik = "config/kierunki-us.json", wydzialyPlik = "conf
   const skr = Object.fromEntries((fs.existsSync(wydzialyPlik) ? JSON.parse(fs.readFileSync(wydzialyPlik, "utf8")).wydzialy : []).map((w) => [w.kod, w.skrot]));
   const out = new Map();
   for (const [kod, w] of Object.entries(ku)) {
-    if (kod === "wefiz") continue;   // WEFiZ: kierunki/ i config/kierunki-1rok.json (lista())
+    // WEFiZ stacjonarne: kierunki/ i config/kierunki-1rok.json (lista()); tu tylko niestacjonarne z planynst (Etap 7)
     for (const k of w.kierunki) for (const r of k.roczniki || []) {
+      if (kod === "wefiz" && r.tryb !== "nst") continue;
       if (!r.id || !k.kod || !jest(`plan/${r.id}.json`)) continue;
       const wl = k.wlasciciel || kod;
       const e = out.get(r.id) || { id: r.id, kod: kodStrony(k.kod, r.stopien, r.tryb, r.nabor), pl: k.pl, en: k.en || k.pl, rok: r.rok, stopien: r.stopien,
@@ -77,9 +78,16 @@ export function wstaw(html, l) {
   return html.slice(0, i) + JSON.stringify(l) + html.slice(j);
 }
 
+// Wszystkie roczniki na stronę. Ta sama nazwa kierunku na wydziale w innej pisowni (WEFiZ nst z inwentarza „Finanse i rachunkowość”,
+// stacjonarne ze Skrótu „Finanse i Rachunkowość”) → jedna pisownia, żeby strona pokazała jeden kierunek z latami obu trybów.
+export function wszystkie() {
+  const l0 = lista(), nazwy = new Map(l0.map((r) => [`${r.wydzial}|${r.pl.toLowerCase()}`, r]));
+  return [...l0, ...listaUS().map((r) => { const t = nazwy.get(`${r.wydzial}|${r.pl.toLowerCase()}`); return t && t.pl !== r.pl ? { ...r, pl: t.pl, en: t.en || r.en } : r; })];
+}
+
 if (import.meta.url === pathToFileURL(process.argv[1] || "").href) {
   const html = fs.readFileSync("index.html", "utf8");
-  const l = [...lista(), ...listaUS()];
+  const l = wszystkie();
   const nowy = wstawUS(wstaw(html, l), daneUS(l));
   if (process.argv.includes("--sprawdz")) {
     if (nowy !== html) { console.error("index.html: lista roczników nieaktualna (node scripts/kierunki.mjs)"); process.exit(1); }

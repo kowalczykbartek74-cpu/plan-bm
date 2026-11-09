@@ -1,0 +1,1492 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Logistyka inż.",
+ "kierunekEn": "Logistics (Eng.)",
+ "id": "wefiz-li-1-nst-2025",
+ "kod": "lin25",
+ "wydzial": "WEFiZ",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "B61": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Troczyńska",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-10-10",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Tworzenie aplikacji z wykorzystaniem low-code i no-code",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-12-05",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "W",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "LAB",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-17",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:00"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. 047 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Tworzenie aplikacji z wykorzystaniem low-code i no-code",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "LAB",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "LAB",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Tworzenie aplikacji z wykorzystaniem low-code i no-code",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "W",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Tworzenie aplikacji z wykorzystaniem low-code i no-code",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "LAB",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:00"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Magdalena Troczyńska",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-10-10",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Tworzenie aplikacji z wykorzystaniem low-code i no-code",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-12-05",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "W",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "LAB",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-17",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:00"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. 047 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Tworzenie aplikacji z wykorzystaniem low-code i no-code",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "W",
+     "p": "dr Paweł Mieczan",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "LAB",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "LAB",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "W",
+     "p": "dr inż. Mariusz Sowa",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Tworzenie aplikacji z wykorzystaniem low-code i no-code",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "W",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-11",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-18",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Obsługa transportowa międzynarodowych przepływów towarowaych",
+     "k": "CW",
+     "p": "dr Paweł Mieczan",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Statystyka",
+     "k": "W",
+     "p": "dr Kamila Bednarz-Okrzyńska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "LAB",
+     "p": "dr inż. Magdalena Malinowska",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Tworzenie aplikacji z wykorzystaniem low-code i no-code",
+     "k": "LAB",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Automatyka i robotyka",
+     "k": "LAB",
+     "p": "dr inż. Wojciech Musiał",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "CW",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria logistyki dystrybucji",
+     "k": "W",
+     "p": "dr hab. Prof. US Marzena Frankowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "LAB",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "s. SIL 145/146 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:00"
+     ],
+     "pl": "Podstawy elektroniki i elektrotechniki",
+     "k": "W",
+     "p": "dr inż. Piotr Ogonowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Technologie i procesy magazynowe",
+     "k": "CW",
+     "p": "dr Agnieszka Pokorska",
+     "r": "s. 047 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ]
+  }
+ }
+}

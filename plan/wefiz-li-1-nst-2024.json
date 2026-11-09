@@ -1,0 +1,1598 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Logistyka inż.",
+ "kierunekEn": "Logistics (Eng.)",
+ "id": "wefiz-li-1-nst-2024",
+ "kod": "lin24",
+ "wydzial": "WEFiZ",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "C61": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski, dr inż. Wojciech Musiał",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-16",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski, dr inż. Wojciech Musiał",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Tomasz Kwarciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-11-14",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "CW",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "CW",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Tomasz Kwarciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Tomasz Kwarciński",
+     "r": "s. 002 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-11-14",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2027-01-10",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-11",
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-04",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Tomasz Kwarciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Język hiszpański II",
+     "k": "CW",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-04",
+      "2026-10-11",
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Język hiszpański II",
+     "k": "CW",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "CW",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski, dr inż. Wojciech Musiał",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-16",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Arkadiusz Drewnowski, dr inż. Wojciech Musiał",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Tomasz Kwarciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-11-14",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "CW",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "CW",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Tomasz Kwarciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Tomasz Kwarciński",
+     "r": "s. 002 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-11-14",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "W",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2027-01-10",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-11",
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-04",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "W",
+     "p": "dr hab. Prof. US Tomasz Kwarciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Język hiszpański II",
+     "k": "CW",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-04",
+      "2026-10-11",
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Język hiszpański II",
+     "k": "CW",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inteligentne systemy transportowe",
+     "k": "LAB",
+     "p": "mgr inż. Kacper Kuczera",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "CW",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżyieria ruchu kolejowego",
+     "k": "LAB",
+     "p": "dr inż. Arkadiusz Drewnowski",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 042 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "W",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ]
+  }
+ }
+}

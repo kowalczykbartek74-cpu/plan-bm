@@ -1,0 +1,2682 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-6f09fd809dad",
+ "kierunek": "Audyt finansowy",
+ "kierunekEn": "Financial Audit",
+ "id": "wefiz-af-2-nst-2026",
+ "kod": "afmn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T09:23:11.440Z",
+ "groups": {
+  "E60": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "ekonomia godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "09:50"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N101/102 lab Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. N103 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "ekonomia godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "09:50"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N101/102 lab Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Anna Rapacewicz",
+     "r": "s. N103 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "mgr Julia Ziółkowska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Oliwia Zielińska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    }
+   ]
+  },
+  "E61": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "ekonomia godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "09:50"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N101/102 lab Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. N08d lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. N021A lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "ekonomia godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "09:50"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. N101/102 lab Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. N08d lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna godz. 9.00-egzamin",
+     "k": "X",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "CW",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "LAB",
+     "p": "dr Wojciech Kuźmiński",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "metody ilościowe w audycie i controllingu",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Tarczyńska-Łuniewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "W",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "ekonomia",
+     "k": "CW",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "ekonomia",
+     "k": "W",
+     "p": "dr Andrei Tsimayeu",
+     "r": "s. Aula Nowa Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. N021A lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "CW",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "prawo gospodarcze",
+     "k": "W",
+     "p": "dr Małgorzata Szymszon",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "teoria, zasady i organizacja rachunkowości",
+     "k": "LAB",
+     "p": "mgr Damian Łazarczyk",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:15",
+      "20:35"
+     ],
+     "pl": "zarządzanie i kontrola wewnętrzna",
+     "k": "W",
+     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    }
+   ]
+  }
+ }
+}
