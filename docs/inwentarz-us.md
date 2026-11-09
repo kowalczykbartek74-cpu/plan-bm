@@ -10,7 +10,7 @@ Oferta rekrutacji US 2026/27 (kandydaci.usz.edu.pl): 75 kierunków I st. i jedno
 |---|---|---|---|---|---|---|
 | WEFiZ | 24 | 32 | 17 | 31 | 32 | html |
 | WKFiZ | 4 | 7 | 18 | 6 | 24 | json, html |
-| WH | 28 | 41 | 85 | 2 | 32 | xlsx |
+| WH | 28 | 41 | 85 | 9 | 32 | xlsx |
 | WNS | 16 | 23 | 62 | 0 | 72 | pdf |
 | WNŚiP | 16 | 20 | 38 | 0 | 38 | pdf |
 | WPiA | 5 | 8 | 22 | 11 | 33 | pdf |
@@ -100,11 +100,11 @@ Strony: [st](https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/), [
 | Bałtyckie studia kulturowe | `BSK` | BSK | II st | II | st | st II: 1,2 | nazwa z treści pliku: „BAŁTYCKIE STUDIA KULTUROWE 1 rok II stopień PONIEDZIAŁEK” |
 | Dziennikarstwo i komunikacja społeczna | `DIKS` | DiKS | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „DZIENNIKARSTWO I KOMUNIKACJA SPOŁECZNA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Dziennikarstwo i zarządzanie mediami | `DIZM` | DiZM | II st | II | st | st II: 1,2 | nazwa z treści pliku: „DZIENNIKARSTWO I ZARZĄDZANIE MEDIAMI 1 rok II st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
-| Filologia angielska | `FA` | FA | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 | nazwa z treści pliku: „FILOLOGIA ANGIELSKA 2 rok II st PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027 PONIEDZIAŁEK”; nazwa z treści pliku: „PLAN STUDIA NIESTACJONARNE, FILOLOGIA ANGIELSKA I I II STOPNIA SEMESTR ZIMOWY 2026/2027 ZJAZD I : 9-11.10.2026r.” |
+| Filologia angielska | `FA` | FA | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1,2 · nst I: 1,2,3; II: 1,2 | nazwa z treści pliku: „FILOLOGIA ANGIELSKA 2 rok II st PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027 PONIEDZIAŁEK”; nazwa z treści pliku: „PLAN STUDIA NIESTACJONARNE, FILOLOGIA ANGIELSKA I I II STOPNIA SEMESTR ZIMOWY 2026/2027 ZJAZD I : 9-11.10.2026r.” |
 | Filologia germańska | `FG` | FG | II nst/st | I, II | nst, st | st I: 2,3; II: 1,2 · nst I: 2 | nazwa z treści pliku: „filologia germańska 2 rok I stopnia, plan zajęć semestr zimowy 2026/2027”; nazwa z treści pliku: „filologia germańska 1 rok II stopnia, plan zajęć semestr zimowy 2026/2027”; nazwa z treści pliku: „PLAN ZAJĘĆ -FILOLOGIA GERMAŃSKA- 2 ROK I st. – studia niestacjonarne -SEMESTR zimowy 2026/2027 zajęcia odbywaja się przy” |
 | Filologia germańska z dodatkowym językiem obcym | `FGZDJO` | FGzDJO | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „filologia germańska z dodatkowym językiem obcym 1 rok I stopnia, plan zajęć semestr zimowy 2026/2027” |
 | Filologia germańska z językiem angielskim | `FGZJA` | FGzJA | I/jm nst/st | I | nst, st | st I: 1 · nst I: 1 | nazwa z treści pliku: „filologia germańska z językiem angielskim 1 rok I stopnia, PLAN ZAJĘĆ semestr zimowy 2026/2027 plan zajęć po redukcji gr”; nazwa z treści pliku: „PLAN ZAJĘĆ -FILOLOGIA GERMAŃSKA z JĘZYKIEM ANGIELSKIM - 1 ROK I st. – studia niestacjonarne -SEMESTR zimowy 2026/2027 za” |
-| Filologia hiszpańska | `FH` | FH | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1 | nazwa z treści pliku: „FILOLOGIA HISZPAŃSKA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”; nazwa z treści pliku: „FILOLOGIA HISZPAŃSKA I rok NIESTACJONARNE PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
+| Filologia hiszpańska | `FH` | FH | I/jm+II nst/st | I, II | nst, st | st I: 1,2,3; II: 1 · nst I: 1,2 | nazwa z treści pliku: „FILOLOGIA HISZPAŃSKA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”; nazwa z treści pliku: „FILOLOGIA HISZPAŃSKA I rok NIESTACJONARNE PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Filologia norweska | `FN` | FN | I/jm st | I | st | st I: 1,2,3 | nazwa z treści pliku: „FILOLOGIA NORWESKA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |
 | Filologia polska | `FP` | FP | I/jm+II st | I, II | st | st I: 1,2,3; II: 1,2 | nazwa z treści pliku: „FILOLOGIA POLSKA 1 rok I stopień PONIEDZIAŁEK”; nazwa z treści pliku: „FILOLOGIA POLSKA 1 rok II stopień PONIEDZIAŁEK” |
 | Filologia romańska | `FROM` | FROM | II st | II | st | st II: 1,2 | nazwa z treści pliku: „FILOLOGIA ROMAŃSKA 1 ROK II ST. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027” |

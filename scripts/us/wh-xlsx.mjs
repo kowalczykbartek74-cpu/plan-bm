@@ -378,5 +378,7 @@ export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () 
         groups, source: z.url, wersja: z.wersja || z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: "zimowy" });
     }
   }
+  // Etap 7: studia niestacjonarne (zjazdy) – osobny parser
+  if (!tylko) { const { importujNst } = await import("./wh-nst.mjs"); wyniki.push(...await importujNst({ zrodla, kierunki, pobieracz, log })); }
   return wyniki;
 }

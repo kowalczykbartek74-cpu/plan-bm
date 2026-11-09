@@ -1,0 +1,1237 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+ "wersja": "2026-10-08",
+ "sha256": "af6bdb6865cef0e282568108a6921559d0fbf374aed4012702df1e2002c8d1bb",
+ "kierunek": "Filologia hiszpańska",
+ "kierunekEn": "Spanish Philology",
+ "id": "wh-fh-1-nst-2025",
+ "kod": "fhn25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T15:10:14.411Z",
+ "checkedAt": "2026-11-09T15:10:14.411Z",
+ "groups": {
+  "FH2": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 101 WH",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 101 WH",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-11-06",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "s. 101 WH",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ii3r7ec",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Barwa we współczesnym języku hiszpańskim – aspekty językowo-kulturowe",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ngq789x",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "geografia turystyczna",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJH – rozumienie tekstu",
+     "k": "LAB",
+     "p": "dr B.Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "PNJH – rozumienie tekstu",
+     "k": "LAB",
+     "p": "dr B.Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-24",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "PNJH – rozumienie tekstu",
+     "k": "LAB",
+     "p": "dr B.Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "geografia turystyczna",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "geografia turystyczna",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-24",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "PNJH – ćwiczenia w pisaniu szustak",
+     "k": "LAB",
+     "p": "mgr A",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "PNJH – ćwiczenia w pisaniu szustak",
+     "k": "LAB",
+     "p": "mgr A",
+     "r": "s. 319 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ii3r7ec",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "Barwa we współczesnym języku hiszpańskim – aspekty językowo-kulturowe",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ngq789x",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "język hiszpański w turystyce i biznesie",
+     "k": "CW",
+     "p": "mgr A. Rogla",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "PNJH – gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr W. Kudyba",
+     "r": "s. 319 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ii3r7ec",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "X",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język włoski",
+     "k": "CW",
+     "p": "mgr I. Płatek",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Barwa we współczesnym języku hiszpańskim – aspekty językowo-kulturowe",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ngq789x",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "PNJH – ćwiczenia w pisaniu szustak",
+     "k": "LAB",
+     "p": "mgr A",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "pl": "język hiszpański w turystyce i biznesie",
+     "k": "CW",
+     "p": "mgr A. Rogla",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "Barwa we współczesnym języku hiszpańskim – aspekty językowo-kulturowe",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ngq789x",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJH – gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr W. Kudyba",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 101 WH",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 101 WH",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-11-06",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "s. 101 WH",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ii3r7ec",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Barwa we współczesnym języku hiszpańskim – aspekty językowo-kulturowe",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ngq789x",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "geografia turystyczna",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJH – rozumienie tekstu",
+     "k": "LAB",
+     "p": "dr B.Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "PNJH – rozumienie tekstu",
+     "k": "LAB",
+     "p": "dr B.Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-24",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "PNJH – rozumienie tekstu",
+     "k": "LAB",
+     "p": "dr B.Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "geografia turystyczna",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "geografia turystyczna",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-24",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "PNJH – ćwiczenia w pisaniu szustak",
+     "k": "LAB",
+     "p": "mgr A",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "PNJH – ćwiczenia w pisaniu szustak",
+     "k": "LAB",
+     "p": "mgr A",
+     "r": "s. 319 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ii3r7ec",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "Barwa we współczesnym języku hiszpańskim – aspekty językowo-kulturowe",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ngq789x",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "język hiszpański w turystyce i biznesie",
+     "k": "CW",
+     "p": "mgr A. Rogla",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "PNJH – gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr W. Kudyba",
+     "r": "s. 319 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "kultura i sztuka Hiszpanii",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ii3r7ec",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "X",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "k": "W",
+     "p": "dr hab. M. Lisowska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: x564cf5",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język włoski",
+     "k": "CW",
+     "p": "mgr I. Płatek",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "pl": "PNJH – ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr R.Kupiński",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "historia literatury hiszpańskiej",
+     "k": "W",
+     "p": "dr N. Pielacińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: oz5jeei",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Barwa we współczesnym języku hiszpańskim – aspekty językowo-kulturowe",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ngq789x",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "PNJH – ćwiczenia w pisaniu szustak",
+     "k": "LAB",
+     "p": "mgr A",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "pl": "język hiszpański w turystyce i biznesie",
+     "k": "CW",
+     "p": "mgr A. Rogla",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "Barwa we współczesnym języku hiszpańskim – aspekty językowo-kulturowe",
+     "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: ngq789x",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJH – gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr W. Kudyba",
+     "r": "s. 319 WH",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    }
+   ]
+  }
+ }
+}

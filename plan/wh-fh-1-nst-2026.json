@@ -1,0 +1,1519 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+ "wersja": "2026-10-08",
+ "sha256": "af6bdb6865cef0e282568108a6921559d0fbf374aed4012702df1e2002c8d1bb",
+ "kierunek": "Filologia hiszpańska",
+ "kierunekEn": "Spanish Philology",
+ "id": "wh-fh-1-nst-2026",
+ "kod": "fhn26",
+ "wydzial": "WH",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T15:10:14.411Z",
+ "checkedAt": "2026-11-09T15:10:14.411Z",
+ "groups": {
+  "FH1": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "łacina",
+     "k": "CW",
+     "p": "mgr J. Zabuska",
+     "r": "s. 301 WH",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "łacina",
+     "k": "CW",
+     "p": "mgr J. Zabuska",
+     "r": "s. 301 WH",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "k": "K",
+     "p": "dr K. Biały",
+     "r": "s. 301 WH",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "k": "K",
+     "p": "dr K. Biały",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "k": "K",
+     "p": "dr K. Biały",
+     "r": "s. 310 WH",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-07",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 301 WH",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Spotkanie organizacyjne (dzień adaptacyjny)",
+     "k": "X",
+     "n": "DZIEŃ ADAPTACYJNY 8.30 - 9.00 - spotkanie z przedstawicielami władz wydziału, osobami z dziekanatu - s. 17-19 9.00 - 9.45 - spotkania z opiekunem roku - s. 13 bud. 4",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr W. Staroń",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr W. Staroń",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr W. Staroń",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr W. Staroń",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 310a WH",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 310a WH",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "k": "K",
+     "p": "dr K. Biały",
+     "r": "s. 310a WH",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25",
+      "2026-11-08",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 310a WH",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 310a WH",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "19:00"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "S",
+     "p": "dr Marcin Stępień",
+     "r": "s. 17-19 WH",
+     "n": "razem z FA+FG+FH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "17:45"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "S",
+     "p": "dr Marcin Stępień",
+     "r": "s. 17-19 WH",
+     "n": "razem z FA+FG+FH",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "łacina",
+     "k": "CW",
+     "p": "mgr J. Zabuska",
+     "r": "s. 301 WH",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "łacina",
+     "k": "CW",
+     "p": "mgr J. Zabuska",
+     "r": "s. 301 WH",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "k": "K",
+     "p": "dr K. Biały",
+     "r": "s. 301 WH",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "k": "K",
+     "p": "dr K. Biały",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "k": "K",
+     "p": "dr K. Biały",
+     "r": "s. 310 WH",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-07",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 301 WH",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Spotkanie organizacyjne (dzień adaptacyjny)",
+     "k": "X",
+     "n": "DZIEŃ ADAPTACYJNY 8.30 - 9.00 - spotkanie z przedstawicielami władz wydziału, osobami z dziekanatu - s. 17-19 9.00 - 9.45 - spotkania z opiekunem roku - s. 13 bud. 4",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr W. Staroń",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr W. Staroń",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr W. Staroń",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr W. Staroń",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr J. Majewska-Paul",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 310a WH",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 310a WH",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "k": "K",
+     "p": "dr K. Biały",
+     "r": "s. 310a WH",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "ćwiczenia konwersacyjne",
+     "k": "LAB",
+     "p": "mgr A.Szustak",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr W.Kudyba",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25",
+      "2026-11-08",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka praktyczna i słownictwo",
+     "k": "LAB",
+     "p": "mgr J.Majewska-Paul",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 310a WH",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 13 WH",
+     "pg": "gr:A",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "ćwiczenia fonetyczne",
+     "k": "LAB",
+     "p": "mgr A.Rogla",
+     "r": "s. 101 WH",
+     "pg": "gr:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia filozofii",
+     "k": "W",
+     "p": "dr K. Ciarcińska",
+     "r": "s. 310a WH",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "19:00"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "S",
+     "p": "dr Marcin Stępień",
+     "r": "s. 17-19 WH",
+     "n": "razem z FA+FG+FH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "17:45"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "S",
+     "p": "dr Marcin Stępień",
+     "r": "s. 17-19 WH",
+     "n": "razem z FA+FG+FH",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}

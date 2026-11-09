@@ -1,0 +1,2551 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+ "wersja": "2026-11-03",
+ "sha256": "a25f42e510f78150252dc78089a44bced215566a1eeffc47ff7d8920bd35a63a",
+ "kierunek": "Filologia angielska",
+ "kierunekEn": "English Philology",
+ "id": "wh-fa-1-nst-2024",
+ "kod": "fan24",
+ "wydzial": "WH",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T15:10:14.411Z",
+ "checkedAt": "2026-11-09T15:10:14.411Z",
+ "groups": {
+  "FA3": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "Images of Britain and the British People in the Visual Arts (obrazy Brytanii i Brytyjczyków w sztukach wizualnych) (do wyboru)",
+     "k": "W",
+     "p": "dr hab. Ł. Neubauer",
+     "r": "e-zajęcia",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr A. Rogla Irun",
+     "r": "s. 216 WH",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 201 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład z dziedziny nauk społecznych",
+     "k": "W",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Images of Britain and the British People in the Visual Arts (obrazy Brytanii i Brytyjczyków w sztukach wizualnych) (do wyboru)",
+     "k": "W",
+     "p": "dr hab. Ł. Neubauer",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 201 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "r": "s. 215 WH",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "r": "s. 216 WH",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "r": "s. 217 WH",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: v3yul6c",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr M. Brenda",
+     "r": "s. 120 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr M. Brenda",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Images of Britain and the British People in the Visual Arts (obrazy Brytanii i Brytyjczyków w sztukach wizualnych) (do wyboru)",
+     "k": "W",
+     "p": "dr hab. Ł. Neubauer",
+     "r": "s. 201 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr A. Rogla Irun",
+     "r": "s. 120 WH",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "13:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "13:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "13:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 310 WH",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 304 WH",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "e-zajęcia",
+     "pg": "gr:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 2hip73c",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr M. Brenda",
+     "r": "s. 217 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Images of Britain and the British People in the Visual Arts (obrazy Brytanii i Brytyjczyków w sztukach wizualnych) (do wyboru)",
+     "k": "W",
+     "p": "dr hab. Ł. Neubauer",
+     "r": "s. 213 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr A. Rogla Irun",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr A. Rogla Irun",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "lektorat j.niemiecki",
+     "k": "CW",
+     "p": "dr Karolina Matuszewska",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "lektorat j.niemiecki",
+     "k": "CW",
+     "p": "dr Karolina Matuszewska",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "X",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vnbvgss",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "r": "s. 218 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "r": "s. 220 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "r": "s. 214 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "e-zajęcia",
+     "pg": "gr:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "r": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "r": "s. 16 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "r": "s. 120 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "X",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:2",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 218 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 304",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "LAB",
+     "p": "mgr W. Szóstak",
+     "r": "s. 16 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "LAB",
+     "p": "mgr W. Szóstak",
+     "r": "s. 120 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "r": "s. 120 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "X",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr M. Brenda",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 310 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:1",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 2hip73c",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "14:15"
+     ],
+     "pl": "lektorat j.niemiecki",
+     "k": "CW",
+     "p": "dr Karolina Matuszewska",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: v3yul6c",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "r": "s. 16 WH",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "16:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "r": "s. 217 WH",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "W",
+     "p": "dr Ł. Muniowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yap7zo4",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "r": "s. 120 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "r": "s. 16 WH",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 119 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:1",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vnbvgss",
+     "pg": "gr:2",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 213 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "lektorat j.niemiecki",
+     "k": "CW",
+     "p": "dr K. Matuszewska",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "W",
+     "p": "dr Ł. Muniowski",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "r": "s. 120 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:2",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 213 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "Images of Britain and the British People in the Visual Arts (obrazy Brytanii i Brytyjczyków w sztukach wizualnych) (do wyboru)",
+     "k": "W",
+     "p": "dr hab. Ł. Neubauer",
+     "r": "e-zajęcia",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr A. Rogla Irun",
+     "r": "s. 216 WH",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 201 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład z dziedziny nauk społecznych",
+     "k": "W",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Images of Britain and the British People in the Visual Arts (obrazy Brytanii i Brytyjczyków w sztukach wizualnych) (do wyboru)",
+     "k": "W",
+     "p": "dr hab. Ł. Neubauer",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 201 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "r": "s. 215 WH",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "r": "s. 216 WH",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "r": "s. 217 WH",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: v3yul6c",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr M. Brenda",
+     "r": "s. 120 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr M. Brenda",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Images of Britain and the British People in the Visual Arts (obrazy Brytanii i Brytyjczyków w sztukach wizualnych) (do wyboru)",
+     "k": "W",
+     "p": "dr hab. Ł. Neubauer",
+     "r": "s. 201 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr A. Rogla Irun",
+     "r": "s. 120 WH",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "13:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "13:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "13:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 310 WH",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 304 WH",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "e-zajęcia",
+     "pg": "gr:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 2hip73c",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr M. Brenda",
+     "r": "s. 217 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Images of Britain and the British People in the Visual Arts (obrazy Brytanii i Brytyjczyków w sztukach wizualnych) (do wyboru)",
+     "k": "W",
+     "p": "dr hab. Ł. Neubauer",
+     "r": "s. 213 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr A. Rogla Irun",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "lektorat j. hiszpański",
+     "k": "CW",
+     "p": "mgr A. Rogla Irun",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "lektorat j.niemiecki",
+     "k": "CW",
+     "p": "dr Karolina Matuszewska",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "lektorat j.niemiecki",
+     "k": "CW",
+     "p": "dr Karolina Matuszewska",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "X",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:2",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vnbvgss",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "r": "s. 218 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "r": "s. 220 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "r": "s. 214 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "e-zajęcia",
+     "pg": "gr:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "r": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr A. Górny",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr J. Witkowska",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr O. Kondratieva",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "r": "s. 16 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "r": "s. 120 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-12-12",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "X",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:2",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 218 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 304",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "LAB",
+     "p": "mgr W. Szóstak",
+     "r": "s. 16 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "LAB",
+     "p": "mgr W. Szóstak",
+     "r": "s. 120 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "r": "s. 120 WH",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "CW",
+     "p": "mgr W. Szóstak",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "X",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "W",
+     "p": "dr M. Brenda",
+     "pg": "spec:nauczycielska",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 310 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:1",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 2hip73c",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 301 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "14:15"
+     ],
+     "pl": "lektorat j.niemiecki",
+     "k": "CW",
+     "p": "dr Karolina Matuszewska",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne",
+     "k": "CW",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: v3yul6c",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "r": "s. 16 WH",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "16:45"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "r": "s. 217 WH",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "W",
+     "p": "dr Ł. Muniowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yap7zo4",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "r": "s. 120 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "r": "s. 16 WH",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Wstęp do pragmatyki",
+     "k": "W",
+     "p": "dr M. Skorasińska",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 119 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:1",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "CW",
+     "p": "dr M. Dziurzyńska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vnbvgss",
+     "pg": "gr:2",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 213 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "lektorat j.niemiecki",
+     "k": "CW",
+     "p": "dr K. Matuszewska",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Literatura Ameryki Północnej",
+     "k": "W",
+     "p": "dr Ł. Muniowski",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) (do wyboru)",
+     "k": "W",
+     "p": "dr K. Grądz",
+     "r": "s. 120 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "pg": "lab:2",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr K. Grądz",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA- poprawność językowa",
+     "k": "LAB",
+     "p": "dr A. Górny",
+     "r": "s. 213 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

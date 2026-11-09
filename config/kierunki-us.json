@@ -1790,6 +1790,30 @@
      ],
      "roczniki": [
       {
+       "id": "wh-fa-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fa-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+       "nabor": 2025
+      },
+      {
+       "id": "wh-fa-1-nst-2024",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 3,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+       "nabor": 2024
+      },
+      {
        "id": "wh-fa-1-st-2026",
        "stopien": 1,
        "tryb": "st",
@@ -1812,6 +1836,22 @@
        "rok": 3,
        "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
        "nabor": 2024
+      },
+      {
+       "id": "wh-fa-2-nst-2026",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fa-2-nst-2025",
+       "stopien": 2,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+       "nabor": 2025
       },
       {
        "id": "wh-fa-2-st-2026",
@@ -2046,6 +2086,22 @@
       "nazwa z treści pliku: „FILOLOGIA HISZPAŃSKA I rok NIESTACJONARNE PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
      ],
      "roczniki": [
+      {
+       "id": "wh-fh-1-nst-2026",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 1,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+       "nabor": 2026
+      },
+      {
+       "id": "wh-fh-1-nst-2025",
+       "stopien": 1,
+       "tryb": "nst",
+       "rok": 2,
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+       "nabor": 2025
+      },
       {
        "id": "wh-fh-1-st-2026",
        "stopien": 1,

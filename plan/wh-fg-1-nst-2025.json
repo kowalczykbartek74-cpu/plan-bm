@@ -1,0 +1,1695 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FG-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
+ "wersja": "2026-11-05",
+ "sha256": "4132dfdfae98e9947a335f225bb4c76e823edc5fe41f19afa0277134496c4613",
+ "kierunek": "Filologia germańska",
+ "kierunekEn": "German Philology",
+ "id": "wh-fg-1-nst-2025",
+ "kod": "fgn25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T15:10:14.411Z",
+ "checkedAt": "2026-11-09T15:10:14.411Z",
+ "groups": {
+  "FG2": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: fxgg23g",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "e-zajęcia",
+     "n": "kod Teams: g327bxn",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: fxgg23g",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "teoria przekładu",
+     "k": "W",
+     "p": "dr hab. Tomasz Szutkowski, prof. US",
+     "r": "s. 310a",
+     "n": "razem z FG+FA",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria przekładu",
+     "k": "W",
+     "p": "dr hab. Tomasz Szutkowski, prof. US",
+     "r": "s. 310a",
+     "n": "razem z FG+FA",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "pl": "zaliczenie przedmiotu teoria przekładu",
+     "k": "X",
+     "p": "dr hab. Tomasz Szutkowski, prof. US",
+     "r": "s. 310a",
+     "n": "razem z FG+FA",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 867e10q",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: mh88kdd",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: mh88kdd",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "18:30"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: mh88kdd",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 11c5dix",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "17:45"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "18:30"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: mh88kdd",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "19:30"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 11c5dix",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Nataila Ongoiba",
+     "r": "s. 120, bud. 6",
+     "n": "razem z FG+WF",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Natalia Ongoiba",
+     "r": "s. 120, bud. 6",
+     "n": "razem z FG+WH",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język hiszpański",
+     "k": "CW",
+     "p": "mgr Alejandro Rogla Irun",
+     "r": "s. 213, bud. 4",
+     "n": "razem z FG+FA",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język włoski",
+     "k": "CW",
+     "p": "mgr Izabela Płatek",
+     "r": "s. 216, bud. 4",
+     "n": "razem z FG+FH",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-11",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 867e10q",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 867e10q",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: fxgg23g",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 867e10q",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: fxgg23g",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "e-zajęcia",
+     "n": "kod Teams: g327bxn",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: fxgg23g",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "teoria przekładu",
+     "k": "W",
+     "p": "dr hab. Tomasz Szutkowski, prof. US",
+     "r": "s. 310a",
+     "n": "razem z FG+FA",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "teoria przekładu",
+     "k": "W",
+     "p": "dr hab. Tomasz Szutkowski, prof. US",
+     "r": "s. 310a",
+     "n": "razem z FG+FA",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "pl": "zaliczenie przedmiotu teoria przekładu",
+     "k": "X",
+     "p": "dr hab. Tomasz Szutkowski, prof. US",
+     "r": "s. 310a",
+     "n": "razem z FG+FA",
+     "pg": "spec:translatoryczna",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 867e10q",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: mh88kdd",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: mh88kdd",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "18:30"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: mh88kdd",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 2",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 11c5dix",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "17:45"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "18:30"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "CW",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: mh88kdd",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "19:30"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "wprowadzenie do problematyki akwizycji języka",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 11c5dix",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Nataila Ongoiba",
+     "r": "s. 120, bud. 6",
+     "n": "razem z FG+WF",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język angielski",
+     "k": "CW",
+     "p": "mgr Natalia Ongoiba",
+     "r": "s. 120, bud. 6",
+     "n": "razem z FG+WH",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język hiszpański",
+     "k": "CW",
+     "p": "mgr Alejandro Rogla Irun",
+     "r": "s. 213, bud. 4",
+     "n": "razem z FG+FA",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "pl": "język włoski",
+     "k": "CW",
+     "p": "mgr Izabela Płatek",
+     "r": "s. 216, bud. 4",
+     "n": "razem z FG+FH",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-11",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 867e10q",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 867e10q",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 2",
+     "k": "LAB",
+     "p": "dr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: fxgg23g",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 867e10q",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "W",
+     "p": "dr Alexander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "gramatyka opisowa języka niemieckiego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia literatury niemieckojęzycznej",
+     "k": "CW",
+     "p": "dr Alexander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Tłumaczenia pisemne (niemiecki-polski, polski-niemiecki)",
+     "k": "CW",
+     "p": "prof. dr hab. Piotr Sulikowski",
+     "r": "s. 221, bud. 6",
+     "dates": [
+      "2026-11-08",
+      "2027-01-10"
+     ]
+    }
+   ]
+  }
+ }
+}

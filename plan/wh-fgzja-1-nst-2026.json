@@ -1,0 +1,1583 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_-2027-26-X-2026.xlsx",
+ "wersja": "2026-10-26",
+ "sha256": "e07851f9fad9bb0db764c8f5c0ab0a6ab3d8043918acf1b1b98b22358ae3fe4a",
+ "kierunek": "Filologia germańska z językiem angielskim",
+ "kierunekEn": "German Philology with English",
+ "id": "wh-fgzja-1-nst-2026",
+ "kod": "fgzjan26",
+ "wydzial": "WH",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T15:10:14.411Z",
+ "checkedAt": "2026-11-09T15:10:14.411Z",
+ "groups": {
+  "FGZJA1": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "e-zajęcia",
+     "n": "kod Teams: lfawuad",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr hab. Małgorzata Makiewicz, prof. US",
+     "r": "ul. Wielkopolska 15, s. 208",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr hab. Małgorzata Makiewicz, prof. US",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: hyw0jxp",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr hab. Małgorzata Makiewicz, prof. US",
+     "r": "ul. Wielkopolska 15, s. 208",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-07",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – fonetyka i ortografia",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "e-zajęcia",
+     "n": "kod Teams: lfawuad",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "e-zajęcia",
+     "n": "kod Teams: grn5w2l",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Spotkanie organizacyjne (dzień adaptacyjny)",
+     "k": "X",
+     "n": "O godzinie 8:30 odbędzie się spotkanie z Władzami Wydziału w Sali 17-19/ o godz. 9.00 spotkanie organizacyjne z opiekunem roku - sala 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne lab",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – fonetyka i ortografia",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "14.15- ćwiczenia historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka Języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – fonetyka i ortografia",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – fonetyka i ortografia",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka1ęzyka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 11c5dix",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr Aleksander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr Aleksander Jakovljević",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr Aleksander Jakovljević",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "19:30"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab.Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 11c5dix",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "e-zajęcia",
+     "n": "kod Teams: lfawuad",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "13:15"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "e-zajęcia",
+     "n": "kod Teams: lfawuad",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: hyw0jxp",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr Aleksander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr Marcin Stępień",
+     "r": "s. 17-19 , bud. 4",
+     "n": "razem z FG+FA+FH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "17:45"
+     ],
+     "pl": "ochrona własności intelektualnej– zaliczenie",
+     "k": "W",
+     "p": "dr Marcin Stępień",
+     "r": "s. 17-19 , bud. 4",
+     "n": "razem z FG+FA+FH",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "e-zajęcia",
+     "n": "kod Teams: lfawuad",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr hab. Małgorzata Makiewicz, prof. US",
+     "r": "ul. Wielkopolska 15, s. 208",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr hab. Małgorzata Makiewicz, prof. US",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: hyw0jxp",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "technologie informacyjne",
+     "k": "CW",
+     "p": "dr hab. Małgorzata Makiewicz, prof. US",
+     "r": "ul. Wielkopolska 15, s. 208",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-07",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – fonetyka i ortografia",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "e-zajęcia",
+     "n": "kod Teams: lfawuad",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "e-zajęcia",
+     "n": "kod Teams: grn5w2l",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Spotkanie organizacyjne (dzień adaptacyjny)",
+     "k": "X",
+     "n": "O godzinie 8:30 odbędzie się spotkanie z Władzami Wydziału w Sali 17-19/ o godz. 9.00 spotkanie organizacyjne z opiekunem roku - sala 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne lab",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – fonetyka i ortografia",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "14.15- ćwiczenia historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka Języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – fonetyka i ortografia",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – fonetyka i ortografia",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Praktyczna nauka1ęzyka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 11c5dix",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr Aleksander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr Aleksander Jakovljević",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr Aleksander Jakovljević",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "19:30"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab.Krzysztof Nerlicki, prof. US",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "akwizycja języka obcego",
+     "k": "W",
+     "p": "dr hab. Krzysztof Nerlicki, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: 11c5dix",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "e-zajęcia",
+     "n": "kod Teams: lfawuad",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "13:15"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "k": "LAB",
+     "p": "mgr Monika Kasjanowicz-Szczepańska",
+     "r": "e-zajęcia",
+     "n": "kod Teams: jr9w3ap",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "dr Anna Borowska-Stankiewicz",
+     "r": "e-zajęcia",
+     "n": "kod Teams: lfawuad",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "W",
+     "p": "dr hab. Bartosz Wójcik, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: hyw0jxp",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr Aleksander Jakovljević",
+     "r": "e-zajęcia",
+     "n": "kod Teams: vvy3a18",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "s. 220, bud. 6",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr Marcin Stępień",
+     "r": "s. 17-19 , bud. 4",
+     "n": "razem z FG+FA+FH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "k": "LAB",
+     "p": "mgr Natalia Pieczyńska",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "17:45"
+     ],
+     "pl": "ochrona własności intelektualnej– zaliczenie",
+     "k": "W",
+     "p": "dr Marcin Stępień",
+     "r": "s. 17-19 , bud. 4",
+     "n": "razem z FG+FA+FH",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}

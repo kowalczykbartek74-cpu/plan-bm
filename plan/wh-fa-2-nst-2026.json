@@ -1,0 +1,1509 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
+ "wersja": "2026-11-03",
+ "sha256": "a25f42e510f78150252dc78089a44bced215566a1eeffc47ff7d8920bd35a63a",
+ "kierunek": "Filologia angielska",
+ "kierunekEn": "English Philology",
+ "id": "wh-fa-2-nst-2026",
+ "kod": "famn26",
+ "wydzial": "WH",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T15:10:14.411Z",
+ "checkedAt": "2026-11-09T15:10:14.411Z",
+ "groups": {
+  "FA1": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "r": "s. 218 WH",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yiv7ykw",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 115 WH",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA – pisanie akademickie",
+     "k": "LAB",
+     "p": "dr W. Konopka",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula, mgr A. Heppner",
+     "r": "e-zajęcia",
+     "n": "kod Teams: zcsl6cf; zastępstwo",
+     "dates": [
+      "2026-11-21",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 115 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "pl": "Spotkanie organizacyjne (dzień adaptacyjny)",
+     "k": "X",
+     "n": "DZIEŃ ADAPTACYJNY 8.30 - 9.00 - spotkanie łączone z przedstawicielami władz wydziału, osobami obsługującymi kierunek w dziekanacie (filologia angielska, studia I stopnia; filologia angielska, studi…",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "pl": "PNJA – pisanie akademickie",
+     "k": "LAB",
+     "p": "dr W. Konopka",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "r": "s. 314 WH",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "PNJA – pisanie akademickie",
+     "k": "LAB",
+     "p": "dr W. Konopka",
+     "r": "s. 304 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA- sztuka prezentacj",
+     "k": "LAB",
+     "p": "mgr I. Sklema",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "11:30"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "r": "s. 213 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "PNJA – pisanie akademickie",
+     "k": "LAB",
+     "p": "dr W. Konopka",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula, mgr A. Heppner",
+     "r": "s. 216 WH",
+     "n": "zastępstwo",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yiv7ykw",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 115 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA- sztuka prezentacj",
+     "k": "LAB",
+     "p": "mgr I. Sklema",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "r": "s. 16 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "pl": "PNJA- sztuka prezentacj",
+     "k": "LAB",
+     "p": "mgr I. Sklema",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "r": "s. 218 WH",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "r": "s. 16 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "r": "s. 201 WH",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula, mgr Agnieszka Kotula-Empringham",
+     "r": "s. 218 WH",
+     "n": "zastępstwo",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yiv7ykw",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula, mgr A. Heppner",
+     "r": "e-zajęcia",
+     "n": "kod Teams: zcsl6cf; zastępstwo",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yiv7ykw",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "r": "s. 218 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "r": "s. 118",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "r": "s. 120",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "r": "s. 218 WH",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yiv7ykw",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 115 WH",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA – pisanie akademickie",
+     "k": "LAB",
+     "p": "dr W. Konopka",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula, mgr A. Heppner",
+     "r": "e-zajęcia",
+     "n": "kod Teams: zcsl6cf; zastępstwo",
+     "dates": [
+      "2026-11-21",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 115 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "pl": "Spotkanie organizacyjne (dzień adaptacyjny)",
+     "k": "X",
+     "n": "DZIEŃ ADAPTACYJNY 8.30 - 9.00 - spotkanie łączone z przedstawicielami władz wydziału, osobami obsługującymi kierunek w dziekanacie (filologia angielska, studia I stopnia; filologia angielska, studi…",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "pl": "PNJA – pisanie akademickie",
+     "k": "LAB",
+     "p": "dr W. Konopka",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "r": "s. 314 WH",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "PNJA – pisanie akademickie",
+     "k": "LAB",
+     "p": "dr W. Konopka",
+     "r": "s. 304 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA- sztuka prezentacj",
+     "k": "LAB",
+     "p": "mgr I. Sklema",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "11:30"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "r": "s. 213 WH",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "pl": "PNJA – pisanie akademickie",
+     "k": "LAB",
+     "p": "dr W. Konopka",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula, mgr A. Heppner",
+     "r": "s. 216 WH",
+     "n": "zastępstwo",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yiv7ykw",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 115 WH",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA- sztuka prezentacj",
+     "k": "LAB",
+     "p": "mgr I. Sklema",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "r": "s. 16 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "pl": "PNJA- sztuka prezentacj",
+     "k": "LAB",
+     "p": "mgr I. Sklema",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "r": "s. 218 WH",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "r": "s. 16 WH",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr W. Suchacka",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "r": "s. 201 WH",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula, mgr Agnieszka Kotula-Empringham",
+     "r": "s. 218 WH",
+     "n": "zastępstwo",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yiv7ykw",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "prof. dr hab. P. Sulikowski",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula, mgr A. Heppner",
+     "r": "e-zajęcia",
+     "n": "kod Teams: zcsl6cf; zastępstwo",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA- zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr hab. H. Pułaczewska, prof. US",
+     "r": "e-zajęcia",
+     "n": "kod Teams: yiv7ykw",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "r": "s. 218 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "r": "s. 118",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "r": "s. 120",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr A. Łazuka-Banach",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula",
+     "r": "e-zajęcia",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr M. Skorasińska",
+     "r": "s. 310 WH",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "PNJA- Podstawy języka biznesu",
+     "k": "LAB",
+     "p": "mgr Małgorzata Dula",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}
