@@ -89,4 +89,8 @@ test("kolejka: pozycje panelu, „tak” dla niezmienionych, zatwierdzony plan t
   assert.equal(wysl.wyslany, true);
   const [, body] = wywolania.find(([n]) => n === "nauka_import_szkic_automat");
   assert.equal(body.p_rocznik, "wpia-prawo-0-st-2026"); assert.equal(body.p_pozycje.length, 92); assert.equal(body.p_wydzial, "WPiA");
+  // sekret wklejony ze spacją / nową linią / w cudzysłowie → do bazy idzie sam token
+  wywolania.length = 0;
+  await przezKolejke(r, { wydzial: "WPiA", katalog: fs.mkdtempSync("/tmp/szkice-"), token: ` "${"t".repeat(64)}"\n`, fetchFn: baza({ nauka_import_plan_publiczny: { ok: false }, nauka_import_szkic_automat: { ok: true, id: "y" } }) });
+  assert.equal(wywolania.find(([n]) => n === "nauka_import_szkic_automat")[1].p_token, "t".repeat(64));
 });

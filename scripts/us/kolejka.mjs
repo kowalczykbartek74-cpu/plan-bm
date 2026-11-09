@@ -78,6 +78,8 @@ export async function przezKolejke(r, { wydzial, token = process.env.PLAN_IMPORT
     fs.writeFileSync(path.join(katalog, `${r.id}.json`), JSON.stringify(szkic, null, 1));
   }
   let wyslany = false, blad = null;
+  // sekret wklejony ze spacją, nową linią albo w cudzysłowie → sam token (64 znaki hex z SQL v50)
+  token = String(token || "").trim().replace(/^["']|["']$/g, "").trim();
   if (token && !naSucho) {
     try {
       const w = await rpc("nauka_import_szkic_automat", { p_token: token, p_wydzial: wydzial, p_rocznik: r.id, p_opis: szkic.opis, p_sha: r.sha256, p_nazwa: szkic.nazwa, p_source: r.source, p_pozycje: pozycje }, { fetchFn });
