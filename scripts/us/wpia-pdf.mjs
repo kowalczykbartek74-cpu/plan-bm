@@ -272,5 +272,8 @@ export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () 
       else wyniki.push({ ...r, zatwierdzenie: true, kolejka });
     }
   }
+  // Etap 7: studia niestacjonarne (pasy piątek/sobota/niedziela, kolumny = zjazdy) – osobny parser, ta sama kolejka
+  const { importujNst } = await import("./wpia-nst.mjs");
+  wyniki.push(...await importujNst({ wydzial, zrodla, kierunki, pobieracz, log, naSucho }));
   return wyniki;
 }
