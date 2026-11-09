@@ -9,6 +9,7 @@
 //     potem dla każdego dnia wiersz z datą w każdej kolumnie (data może się różnić między kolumnami); wiersze godzin co 45 min.
 // Komórki z czarnych linii i tekst komórki – jak w planach stacjonarnych WNS (scripts/us/wns-pdf.mjs). Komórka przez kilka
 // kolumn = zajęcia każdego z tych roczników. Data zajęć = data dnia w kolumnie. Wynik idzie do kolejki zatwierdzeń.
+import crypto from "node:crypto";
 import { komorki, czesciKomorki, zajeciaZCzesci } from "./wns-pdf.mjs";
 import { pdfNaTekst, jestPyMuPDF } from "./wpia-pdf.mjs";
 import { semestrZKalendarza } from "./wh-xlsx.mjs";
@@ -172,7 +173,7 @@ export async function importujNst({ wydzial, zrodla, kierunki, pobieracz, log = 
     for (const { e, daty } of lista) dodaj(groups, g, e, { daty });
     const zjazdy = [...new Set(lista.flatMap((x) => x.daty))].length;
     const r = { id: rr.id, kod: kodStrony(k.kod, rr.stopien, rr.tryb, rr.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: rr.stopien, tryb: rr.tryb, rok: rr.rok,
-      groups, source: "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", wersja: `${pliki.length} plików zjazdów (${zjazdy} dni)`, sha256: pliki.map((p) => p.sha.slice(0, 8)).join(""),
+      groups, source: "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/", wersja: `${pliki.length} plików zjazdów (${zjazdy} dni)`, sha256: crypto.createHash("sha256").update(pliki.map((p) => p.sha).join("\n")).digest("hex"),   // jedna suma dla zestawu plików zjazdów (baza wymaga 64 znaków hex)
       rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
     const q = await przezKolejke(r, { wydzial: "WNS", naSucho, log });
     const kolejka = { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad };
