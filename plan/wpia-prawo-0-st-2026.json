@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-09T22:51:41.490Z",
+ "checkedAt": "2026-11-09T23:22:54.646Z",
  "groups": {
   "PRAWO1": {
    "odd": [
@@ -3603,5 +3603,488 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-i-gr-359-odrobienie-cwiczen-z-przedmiotu-prawo-konstytucyjne-zasady-i-zrodla-prawa-mgr-b-boryca/",
+    "title": "SSP I (gr. 3,5,9) – odrobienie ćwiczeń z przedmiotu Prawo konstytucyjne – zasady i źródła prawa (mgr B. Boryca)",
+    "ym": "2026-11",
+    "pub": "2026-11-08",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Prawo konstytucyjne – zasady i źródła prawa z mgr B. Borycą, które nie odbyły się dn. 29.10.2026 r. zostaną odrobione w następującym terminie: grupa 3 – 19.11.2026 godz. 15.15 – 16.45, s. 118 al. Piastów 40b; grupa 5 – 19.11.2026 godz. 10.00 – 11.30, s. 118 al. Piastów 40b; grupa 9 – 19.11.2026 godz. 13.30 – 15.00, s. 118 al. Piastów 40b."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/repetytorium-z-przedmiotu-logika-prawnicza-dotyczy-osob-ktore-maja-do-zaliczenia-przedmiot-w-semestrze-zimowym/",
+    "title": "Repetytorium z przedmiotu Logika prawnicza – dotyczy osób, które mają do zaliczenia przedmiot w semestrze zimowym",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Informujemy, że repetytorium z przedmiotu Logika prawnicza (dr B. Kanarek, prof. US) w dniu 12.11.2026 r. odbędzie się o godzinie 10.30, sala 112-114 al. Piastów 40b"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolany-dyzur-dydaktyczny-dr-b-kanarek-prof-us-w-dn-5-11-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny dr B. Kanarek, prof. US w dn. 5.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Informujemy, że dyżur dydaktyczny dr B. Kanarek, prof. US w dniu 5.11.2026 r. nie odbędzie się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-i-odwolane-cwiczenia-z-przedmiotu-wstep-do-prawoznawstwa-grupa-10-mgr-d-kaczynski/",
+    "title": "SSP I – odwołane ćwiczenia z przedmiotu Wstęp do prawoznawstwa – grupa 10 (mgr D. Kaczyński)",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Wstęp do prawoznawstwa dla grupy 10 w dniu 5.11.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie ustalony wkrótce."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-i-odwolane-cwiczenia-z-przedmiotu-prawo-konstytucyjne-zasady-i-zrodla-prawa-grupy-3-5-9-mgr-b-boryca/",
+    "title": "SSP I – odwołane ćwiczenia z przedmiotu Prawo konstytucyjne – zasady i źródła prawa (grupy 3, 5, 9) – mgr B. Boryca",
+    "ym": "2026-10",
+    "pub": "2026-10-29",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Prawo konstytucyjne – zasady i źródła prawa (grupy 3, 5, 9) w dniu 29.10.2026 nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-i-gr-7-odrobienie-cwiczen-z-przedmiotu-wstep-do-prawoznawstwa-ktore-nie-odbyly-sie-w-dniach-13-14-10-2026-r/",
+    "title": "SSP I (gr. 7) – odrobienie ćwiczeń z przedmiotu Wstęp do prawoznawstwa, które nie odbyły się w dniach 13-14.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-28",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Wstęp do prawoznawstwa dla grupy 7, które nie odbyły się w dniach 13-14.10.2026 r. zostaną odrobione w następujących terminach: 29.10.2026 r. – godz. 17.00 – 18.30, sala 222 Narutowicza 30.10.2026 r. – godz. 11.00 – 12.30, sala 104 al. Piastów 40b"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-i-zmiana-sali-w-dniu-22-10-2026-r-zajecia-z-przedmiotu-etos-i-savoir-vivre-akademicki/",
+    "title": "SSP I – zmiana sali w dniu 22.10.2026 r. – zajęcia z przedmiotu Etos i savoir vivre akademicki",
+    "ym": "2026-10",
+    "pub": "2026-10-21",
+    "text": "Informujemy, że zajęcia z przedmiotu Etos i savoir vivre akademicki w dniu 22.10.2026 r. odbędą się wyjątkowo w auli nr 112-114 al. Piastów 40b."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-i-gr-4-przelozenie-cwiczen-z-przedmiotu-wstep-do-prawoznawstwa-z-dnia-5-11-2026-r-mgr-p-kupis/",
+    "title": "SSP I (gr. 4) – przełożenie ćwiczeń z przedmiotu Wstęp do prawoznawstwa z dnia 5.11.2026 r. (mgr P. Kupis)",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Wstęp do prawoznawstwa dla grupy 4 z dnia 5.11.2026 r. zostają przełożone na dzień 9.12.2026 r. (środa) w godzinach 10.00 – 11.30, sala 119 Narutowicza."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-termin-egzaminu-z-przedmiotu-prawo-handlowe-ii-prof-z-kuniewicz-dla-osob-ktorym-przysluguje-przystapienie-do-egzaminu/",
+    "title": "SSP – termin egzaminu z przedmiotu Prawo handlowe II (prof. Z. Kuniewicz) dla osób, którym przysługuje przystąpienie do egzaminu",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Informujemy, że egzamin z przedmiotu Prawo handlowe II dla osób, którym przysługuje jeszcze przystąpienie do egzaminu (w tym dla osób, które mają usprawiedliwione nieobecności) odbędzie się dnia 29.10.2026 r. o godzinie 11.00, sala 118 Narutowicza."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-i-termin-odrobienia-cwiczen-gr-6-i-8-z-przedmiotu-wstep-do-prawoznawstwa/",
+    "title": "SSP I – termin odrobienia ćwiczeń (gr. 6 i 8) z przedmiotu Wstęp do prawoznawstwa",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Informujemy, że odrobienie ćwiczeń z przedmiotu Wstęp do prawoznawstwa dla grupy 6 i 8 odbędzie się w następujących terminach: ćwiczenia, które nie odbyły się w dniu 13.10.2026 r. zostaną odrobione w dniu 16.10.2026 r.(piątek) w godzinach: 11.45 – 13.15 (grupa 6), sala 220 Narutowicza i 13.30 – 15.00 (grupa 8), sala 220 Narutowicza; ćwiczenia, które nie odbyły się w dniu 14.10.2026 r. zostaną odrobione w dniu 20.10.2026 r. (wtorek) w godzinach: 8.15 – 9.45 (grupa 8), sala 215 Narutowicza i 10.00 – 11.30 (grupa 6), sala 222 Narutowicza"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-i-aktualizacja-rozkladu-zajec/",
+    "title": "SSP I – aktualizacja rozkładu zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-14",
+    "text": "Szanowni Państwo, uprzejmie informuję, że został zaktualizowany rozkład zajęć. Zmiana dotyczy ćwiczeń z mgr P. Nowotko. Proszę o zapoznanie się z zaktualizowanym rozkładem: Rozkłady zajęć – Wydział Prawa i Administracji Uniwersytetu Szczecińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-i-odwolanie-cwiczen-z-mgr-d-kaczynskim-wstep-do-prawoznawstwa-w-dniu-14-10-2026-r-gr-1-2-6-7-8/",
+    "title": "SSP I – odwołanie ćwiczeń z mgr D. Kaczyńskim [Wstęp do prawoznawstwa] w dniu 14.10.2026 r. (gr. 1, 2, 6, 7, 8)",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Informujemy, że ćwiczenia z mgr D. Kaczyńskim z przedmiotu Wstęp do prawoznawstwa – grupy 1, 2, 6, 7, 8 w dniu 14.10.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-i-odwolane-cwiczenia-z-przedmiotu-wstep-do-prawoznawstwa-w-dn-13-10-2026-mgr-d-kaczynski-gr-26-7-8-9/",
+    "title": "SSP I – odwołane ćwiczenia z przedmiotu Wstęp do prawoznawstwa w dn. 13.10.2026 (mgr D. Kaczyński) gr. 2,6, 7, 8, 9",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Wstęp do prawoznawstwa (mgr D. Kaczyński), grupy 2, 6, 7, 8, 9 w dniu 13.10.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/i-ssp-zmiana-godziny-wykladu-z-przedmiotu-wstep-do-prawoznawstwa-dr-beata-kanarek-prof-us/",
+    "title": "I SSP – zmiana godziny wykładu z przedmiotu wstęp do prawoznawstwa (dr Beata Kanarek, prof. US)",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Informujemy, że wykład z przedmiotu wstęp do prawoznawstwa w dniu 12.10.2026 r. odbędzie się w godzinach 10:45-13:15 aula 7-9 Al. Piastów 40b."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/i-ssp-zmiana-terminu-wykladu-z-przedmiotu-historia-prawa-i-mysli-polityczno-prawnych-dr-hab-m-tkaczuk-prof-us/",
+    "title": "I SSP – zmiana godziny wykładu z przedmiotu historia prawa i myśli polityczno-prawnych (dr hab. M. Tkaczuk, prof. US)",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Informujemy, że wykład z przedmiotu historia prawa i myśli polityczno-prawnych w dniu 12.10.2026 r. odbędzie się w godzinach 8:15-10:45 aula 7-9 Al. Piastów 40b."
+   }
+  ],
+  "zmiany": {
+   "PRAWO1": [
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 13,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 14,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 9
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "08:15",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 12,
+     "posts": [
+      12
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "10:00",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 12,
+     "posts": [
+      12
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "11:45",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 12,
+     "posts": [
+      12
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "13:30",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 12,
+     "posts": [
+      12
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "15:15",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 12,
+     "posts": [
+      12
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "08:15",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 11,
+     "posts": [
+      11
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "10:00",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 11,
+     "posts": [
+      11
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "11:45",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 11,
+     "posts": [
+      11
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "13:30",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 11,
+     "posts": [
+      11
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
+     "start": "15:15",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 11,
+     "posts": [
+      11
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-10-22",
+     "post": 6
+    },
+    {
+     "type": "note",
+     "date": "2026-10-29",
+     "post": 8,
+     "niska": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "17:00",
+     "end": "18:30",
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "X",
+     "p": "dr B. Kanarek, prof. US",
+     "r": "s. 222",
+     "post": 5
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-29",
+     "start": "10:00",
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-29",
+     "start": "13:30",
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-29",
+     "start": "15:15",
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-30",
+     "start": "11:00",
+     "end": "12:30",
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "X",
+     "p": "dr B. Kanarek, prof. US",
+     "r": "s. 104 al",
+     "post": 5
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-05",
+     "start": "10:00",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 3,
+     "posts": [
+      3,
+      7
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-19",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "mgr B. Boryca",
+     "r": "s. 118 al",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-19",
+     "start": "13:30",
+     "end": "15:00",
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "mgr B. Boryca",
+     "r": "s. 118 al",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-19",
+     "start": "15:15",
+     "end": "16:45",
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "mgr B. Boryca",
+     "r": "s. 118 al",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.544Z"
  }
 }

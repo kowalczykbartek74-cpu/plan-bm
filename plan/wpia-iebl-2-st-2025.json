@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T23:22:54.646Z",
  "groups": {
   "IEBL2": {
    "odd": [
@@ -487,5 +487,298 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/1-st-iebl-ma-studies-schedule-update/",
+    "title": "1 st. IEBL MA studies – schedule update",
+    "ym": "2026-11",
+    "pub": "2026-11-06",
+    "text": "We inform you that there has been an update in the class schedule – classes Basic Legal Knowledge (changes on 18.11 and 20.01) Rozkłady zajęć – Wydział Prawa i Administracji Uniwersytetu Szczecińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/iebl-2nd-year-cancellation-of-classes-on-4-11-2026/",
+    "title": "IEBL – 2nd year – cancellation of classes on 4.11.2026",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Environmental Law and Business class (dr A. Ogonowska) on November 4, 2026, will not take place."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/iebl-2nd-year-changed-class-schedule-spanish-language/",
+    "title": "IEBL – 2nd year – changed class schedule (Spanish language)",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "There has been a change in the class schedule – the updated schedule is on the website Rozkłady zajęć – Wydział Prawa i Administracji Uniwersytetu Szczecińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/2026/10/1-st-iebl-ma-studies-results-of-registration-for-elective-course-4/",
+    "title": "1 st. IEBL MA studies – results of registration for Elective course",
+    "ym": "2026-10",
+    "pub": "2026-10-28",
+    "text": "We would like to inform you that in the summer semester of 2026/2027 the subjects will be carried out for all students: European Competition Law (europejskie prawo konkurencji); Cybersecurity and Business (cyberbezpieczeństwo w biznesie)."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/iebl-2nd-year-make-up-session-for-the-diploma-seminar-dr-habil-k-niziol-prof-us/",
+    "title": "IEBL 2nd year -Make-up session for the diploma seminar (dr. habil. K. Nizioł, prof. US)",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "The sessions of the diploma seminar that did not take place on 13 October 2026 will be held on 17 November 2026 from 17:45 –8.15 pm in room 322, and on 24 November 2026 from 6.15 pm–7.00 pm in room 322."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/1st-iebl-ma-studies-change-of-class-schedule-basic-legal-knowledge/",
+    "title": "1st IEBL MA studies – change of class schedule (Basic Legal Knowledge)",
+    "ym": "2026-10",
+    "pub": "2026-10-21",
+    "text": "The Basic Legal Knowledge class on October 28 has been moved to December 9 from 1:30 PM to 4:45 PM, room 217 Narutowicza. Classes on 18.11 will take place from 1:30 PM to 3:00 PM. The date for completing the remaining 2 hours will be announced soon."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolane-konsultacje-dr-hab-a-kosinskiej-prof-us-w-dn-15-10-2026-r/",
+    "title": "Odwołane konsultacje dr hab. A. Kosińskiej, prof. US w dn. 15.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Informujemy, że konsultacje dr hab. A. Kosińskiej, prof. US w dniu 15.10.2026 r. nie odbędą się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/2026/10/1-st-iebl-ma-studies-registration-for-elective-subjects-15-10-20-10-2026/",
+    "title": "1 st IEBL MA studies – Registration for elective subjects (15.10 – 20.10.2026)",
+    "ym": "2026-10",
+    "pub": "2026-10-14",
+    "text": "Uprzejmie informujemy, że w dniach od 15 do 20 października 2026 r. zostaną uruchomione (poprzez system e-prodziekan) zapisy na przedmiot do wyboru 1 oraz 2 realizowane na pierwszym roku studiów w semestrze letnim (drugim) r.a. 2026/2027. Studenci dokonują wyboru jednego przedmiotu spośród każdego z modułów przedmiotu do wyboru. Elective course 1 (przedmiot do wyboru 1) [moduł]: Cybersecurity and Business (cyberbezpieczeństwo w biznesie), Employment Law (prawo pracy) ; Elective course 2 (przedmiot do wyboru 2) [moduł]: European Competition Law (europejskie prawo konkurencji) , European Private International Law (europejskie prawo prywatne międzynarodowe). Wyniki zapisów zostaną podane do wiadomości w formie ogłoszenia. We inform you that from 15 to 20 October 2026 , registrations for elective courses 1 and 2 , conducted in the first year of study in the summer semester (second) of the 2026/2027 academic year, will be launched. Students choose one course from each of the modules of the elective course. Elective course 1 (przedmiot do wyboru 1) [moduł]: Cybersecurity and Business (cyberbezpieczeństwo w biznesie), Employment Law (prawo pracy) ; Elective course 2 (przedmiot do wyboru 2) [moduł]: European Competition Law (europejskie prawo konkurencji) , European Private International Law (europejskie prawo prywatne międzynarodowe). The results of the registrations will be announced in the form of a notice."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/iebl-2-nd-year-absence-of-dr-habil-k-niziol-prof-us-on-13-10-2026-diploma-seminar/",
+    "title": "IEBL 2 nd year – Absence of Dr. habil. K. Nizioł, prof. US on 13.10.2026 (Diploma seminar)",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Dear Students, Please be informed that classes with Dr. habil. Krystyna Nizioł scheduled for 13–15 October this year have been cancelled. Information regarding the rescheduled classes will be provided at a later date."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/iebl-ma-studies-2-nd-international-trade-dispute-resolution-09-10-2026-dr-shihan-fernando/",
+    "title": "IEBL MA studies 2 nd. – International Trade Dispute Resolution 09.10.2026 – dr Shihan Fernando",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "The lecture on International Trade Dispute Resolution scheduled for 9 October 2026 will not take place. A date for the rescheduled lecture will be announced soon."
+   }
+  ],
+  "zmiany": {
+   "IEBL2": [
+    {
+     "type": "note",
+     "date": "2026-10-09",
+     "post": 9,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 8,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "17:00",
+     "pl": "Diploma seminar",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 7,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-20",
+     "post": 7,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-28",
+     "post": 5,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "17:00",
+     "pl": "Environmental Law and Business",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-18",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-18",
+     "post": 5,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-09",
+     "post": 5,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2027-01-20",
+     "post": 0,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.419Z"
  }
 }

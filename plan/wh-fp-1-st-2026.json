@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "FP1": {
    "odd": [
@@ -761,7 +761,7 @@
      "type": "cancel",
      "date": "2026-11-12",
      "start": "17:00",
-     "pl": "literatura biblijna i antyczna",
+     "pl": "Literatura biblijna i antyczna",
      "post": 3,
      "posts": [
       3
@@ -771,7 +771,7 @@
      "type": "cancel",
      "date": "2026-11-12",
      "start": "15:15",
-     "pl": "historia literatury polskiej – średniowiecze",
+     "pl": "Historia literatury polskiej – średniowiecze",
      "moved": true,
      "post": 2,
      "posts": [
@@ -784,7 +784,7 @@
      "date": "2026-11-26",
      "start": "11:45",
      "end": "13:15",
-     "pl": "historia literatury polskiej – średniowiecze",
+     "pl": "Historia literatury polskiej – średniowiecze",
      "k": "K",
      "p": "mgr Aleksandra Majewicz",
      "r": "s. 319",
@@ -792,6 +792,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.162Z"
+  "updatedAt": "2026-11-09T23:29:59.800Z"
  }
 }

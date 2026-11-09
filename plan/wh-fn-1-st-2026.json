@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "FN1": {
    "odd": [
@@ -712,7 +712,7 @@
      "type": "cancel",
      "date": "2026-11-05",
      "start": "10:00",
-     "pl": "gramatyka praktyczna",
+     "pl": "Gramatyka praktyczna",
      "moved": true,
      "post": 0,
      "posts": [
@@ -723,7 +723,7 @@
      "type": "cancel",
      "date": "2026-11-05",
      "start": "13:30",
-     "pl": "gramatyka praktyczna",
+     "pl": "Gramatyka praktyczna",
      "moved": true,
      "post": 0,
      "posts": [
@@ -734,7 +734,7 @@
      "type": "cancel",
      "date": "2026-11-05",
      "start": "15:15",
-     "pl": "gramatyka praktyczna",
+     "pl": "Gramatyka praktyczna",
      "moved": true,
      "post": 0,
      "posts": [
@@ -747,7 +747,7 @@
      "date": "2026-11-13",
      "start": "8:15",
      "end": "9:45",
-     "pl": "gramatyka praktyczna",
+     "pl": "Gramatyka praktyczna",
      "k": "LAB",
      "p": "mgr A. Michnowska",
      "r": "s. 101",
@@ -759,7 +759,7 @@
      "date": "2026-11-13",
      "start": "10:00",
      "end": "11:30",
-     "pl": "gramatyka praktyczna",
+     "pl": "Gramatyka praktyczna",
      "k": "LAB",
      "p": "mgr A. Michnowska",
      "r": "s. 101",
@@ -771,7 +771,7 @@
      "date": "2026-11-13",
      "start": "11:45",
      "end": "13:15",
-     "pl": "gramatyka praktyczna",
+     "pl": "Gramatyka praktyczna",
      "k": "LAB",
      "p": "mgr A. Michnowska",
      "r": "s. 101",
@@ -779,6 +779,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.083Z"
+  "updatedAt": "2026-11-09T23:29:59.738Z"
  }
 }

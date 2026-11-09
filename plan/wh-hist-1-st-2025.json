@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "HIST2": {
    "odd": [
@@ -911,7 +911,7 @@
      "type": "cancel",
      "date": "2026-10-07",
      "start": "10:00",
-     "pl": "archiwoznawstwo",
+     "pl": "Archiwoznawstwo",
      "post": 2,
      "posts": [
       2
@@ -921,7 +921,7 @@
      "type": "cancel",
      "date": "2026-10-07",
      "start": "11:45",
-     "pl": "historia ustroju administracyjnego",
+     "pl": "Historia ustroju administracyjnego",
      "post": 2,
      "posts": [
       2
@@ -943,7 +943,7 @@
      "type": "cancel",
      "date": "2026-11-12",
      "start": "08:15",
-     "pl": "nowożytne dzieje Pomorza",
+     "pl": "Nowożytne dzieje Pomorza",
      "post": 0,
      "posts": [
       0
@@ -953,7 +953,7 @@
      "type": "cancel",
      "date": "2026-11-12",
      "start": "10:00",
-     "pl": "historia powszechna XVI – XVIII w.",
+     "pl": "Historia powszechna XVI – XVIII w.",
      "post": 0,
      "posts": [
       0
@@ -963,7 +963,7 @@
      "type": "cancel",
      "date": "2026-11-18",
      "start": "10:00",
-     "pl": "archiwoznawstwo",
+     "pl": "Archiwoznawstwo",
      "moved": true,
      "post": 0,
      "posts": [
@@ -974,7 +974,7 @@
      "type": "cancel",
      "date": "2026-11-18",
      "start": "11:45",
-     "pl": "historia ustroju administracyjnego",
+     "pl": "Historia ustroju administracyjnego",
      "moved": true,
      "post": 0,
      "posts": [
@@ -985,7 +985,7 @@
      "type": "cancel",
      "date": "2026-11-19",
      "start": "08:15",
-     "pl": "nowożytne dzieje Pomorza",
+     "pl": "Nowożytne dzieje Pomorza",
      "post": 0,
      "posts": [
       0
@@ -997,7 +997,7 @@
      "date": "2026-11-25",
      "start": "15:15",
      "end": "16:45",
-     "pl": "archiwoznawstwo",
+     "pl": "Archiwoznawstwo",
      "k": "W",
      "p": "prof. dr hab. R. Gaziński",
      "r": "sala 134",
@@ -1015,7 +1015,7 @@
      "date": "2026-12-02",
      "start": "15:15",
      "end": "16:45",
-     "pl": "historia ustroju administracyjnego",
+     "pl": "Historia ustroju administracyjnego",
      "k": "W",
      "p": "prof. dr hab. R. Gaziński",
      "r": "sala 134",
@@ -1029,6 +1029,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.466Z"
+  "updatedAt": "2026-11-09T23:30:00.046Z"
  }
 }

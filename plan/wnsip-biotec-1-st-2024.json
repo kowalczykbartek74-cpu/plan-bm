@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-09T22:50:40.599Z",
+ "checkedAt": "2026-11-09T23:22:12.276Z",
  "groups": {
   "BIOTEC3": {
    "odd": [
@@ -867,5 +867,251 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/waska/2026/10/biotechnologia-i-st-3-rok-przelozone-zajecia-z-epigenetyki/",
+    "title": "Biotechnologia I st. 3 rok – przełożone zajęcia z epigenetyki z dr A. Kalinką",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Zajęcia laboratoryjne z epigenetyki zaplanowane na 23.12.2026 zostaną przełożone na 9.12.2026, na godzinę 11:45."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/2026/10/biotechnologia-i-st-3-rok-odwolany-wyklad-z-immunologii-w-dniu-27-10/",
+    "title": "Biotechnologia I st. 3 rok – odwołany wykład z immunologii w dniu 27.10",
+    "ym": "2026-10",
+    "pub": "2026-10-23",
+    "text": "W związku z wyjazdem na konferencję, zmuszona jestem odwołać wykład, za co bardzo przepraszam. Termin odrobienia ustalimy wspólnie. Prof dr hab. Paulina Niedźwiedzka-Rystwej"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/2026/10/biotechnologia-i-st-3-rok-odwolane-zajecia-z-dr-hab-z-sotek-prof-us-w-dniu-19-10/",
+    "title": "Biotechnologia I st. 3 rok – odwołane zajęcia z dr hab. Z. Sotek, prof US w dniu 19.10",
+    "ym": "2026-10",
+    "pub": "2026-10-18",
+    "text": "W poniedziałek 19.10 nie odbędą się zajęcia z dr hab. prof US Zofią Sotek (wykład i laboartorium). Odrobienie zajęć zaplanowano na 7.12.2026."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/2026/10/biotechnologia-i-st-3-rok-odwolany-wyklad-z-prof-dr-hab-p-niedzwiedzka-rystwej-w-dniu-20-10-2026/",
+    "title": "Biotechnologia I st. 3 rok – odwołany wykład z Prof. dr hab. P. Niedźwiedzką-Rystwej w dniu 20.10.2026",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "W związku z koniecznością uczestniczenia w posiedzeniu Rady Uczelni, wykład nie odbędzie się, a termin jego odrobienia ustalimy wspólnie na kolejnych zajęciach. Przepraszam za niedogodności. Prof dr hab. Paulina Niedźwiedzka-Rystwej"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/2026/10/biotechnologia-i-st-3-rok-zmiana-godziny-zajec-z-immunologii-w-dniu-29-10/",
+    "title": "Biotechnologia I st. 3 rok – zmiana godziny zajęć z immunologii w dniu 29.10",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Drodzy Studenci, w związku z innymi obowiązkami służbowymi, zajęcia laboratoryjne z przedmiotu immunologia w dniu 29.10.2026 rozpoczną się o godzinie 14:00. Filip Lewandowski"
+   }
+  ],
+  "zmiany": {
+   "BIOTEC3": [
+    {
+     "type": "cancel",
+     "date": "2026-10-19",
+     "start": "10:00",
+     "pl": "Zarys histologii i organografii roślin",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-19",
+     "start": "11:45",
+     "pl": "Zarys histologii i organografii roślin",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "10:00",
+     "pl": "Immunologia",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-27",
+     "start": "10:00",
+     "pl": "Immunologia",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "14:00",
+     "end": "15:30",
+     "pl": "Immunologia",
+     "k": "X",
+     "p": "Prof. P. Niedźwiedzka-Rystwej",
+     "post": 4
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-09",
+     "start": "11:45",
+     "end": "13:15",
+     "pl": "Epigenetyka",
+     "k": "LAB",
+     "p": "dr A. Kalinka",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.084Z"
  }
 }

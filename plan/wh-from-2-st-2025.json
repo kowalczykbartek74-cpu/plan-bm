@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "FROM2": {
    "odd": [
@@ -840,7 +840,7 @@
      "type": "cancel",
      "date": "2026-10-19",
      "start": "11:45",
-     "pl": "gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
+     "pl": "Gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
      "post": 3,
      "posts": [
       3,
@@ -851,7 +851,7 @@
      "type": "cancel",
      "date": "2026-10-21",
      "start": "17:00",
-     "pl": "laboratorium tłumaczeniowe",
+     "pl": "Laboratorium tłumaczeniowe",
      "post": 0,
      "posts": [
       0
@@ -861,7 +861,7 @@
      "type": "cancel",
      "date": "2026-10-21",
      "start": "15:15",
-     "pl": "przekład specjalistyczny",
+     "pl": "Przekład specjalistyczny",
      "post": 0,
      "posts": [
       0
@@ -889,6 +889,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.231Z"
+  "updatedAt": "2026-11-09T23:29:59.855Z"
  }
 }

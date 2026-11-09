@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "FP3": {
    "odd": [
@@ -709,7 +709,7 @@
      "type": "cancel",
      "date": "2026-10-27",
      "start": "11:45",
-     "pl": "kultura języka",
+     "pl": "Kultura języka",
      "moved": true,
      "post": 3,
      "posts": [
@@ -720,7 +720,7 @@
      "type": "cancel",
      "date": "2026-10-27",
      "start": "13:30",
-     "pl": "kultura języka",
+     "pl": "Kultura języka",
      "moved": true,
      "post": 3,
      "posts": [
@@ -733,7 +733,7 @@
      "date": "2026-10-28",
      "start": "10:00",
      "end": "11:30",
-     "pl": "kultura języka",
+     "pl": "Kultura języka",
      "k": "W",
      "p": "prof. dr hab. Ewa Kołodziejek",
      "r": "s. 206",
@@ -745,7 +745,7 @@
      "date": "2026-10-28",
      "start": "11:45",
      "end": "13:15",
-     "pl": "kultura języka",
+     "pl": "Kultura języka",
      "k": "K",
      "p": "prof. dr hab. Ewa Kołodziejek",
      "r": "s. 206",
@@ -755,7 +755,7 @@
      "type": "cancel",
      "date": "2026-11-04",
      "start": "13:30",
-     "pl": "literatura środkowoeuropejska",
+     "pl": "Literatura środkowoeuropejska",
      "post": 2,
      "posts": [
       2
@@ -765,7 +765,7 @@
      "type": "cancel",
      "date": "2026-11-10",
      "start": "15:15",
-     "pl": "seminarium dyplomowe s",
+     "pl": "Seminarium dyplomowe s",
      "post": 1,
      "posts": [
       1
@@ -773,6 +773,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.096Z"
+  "updatedAt": "2026-11-09T23:29:59.748Z"
  }
 }

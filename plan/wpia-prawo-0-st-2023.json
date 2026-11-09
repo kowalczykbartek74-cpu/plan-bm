@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T23:22:54.646Z",
  "groups": {
   "PRAWO4": {
    "odd": [
@@ -2491,5 +2491,417 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-przelozenie-zajec-dydaktycznych-z-przedmiotu-postepowanie-cywilne-i-gr-1-i-2-dr-m-wojdala/",
+    "title": "SSP IV – przełożenie zajęć dydaktycznych z przedmiotu Postępowanie cywilne I gr. 1 i 2 (dr M.Wojdała)",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Informujemy, że zajęcia z przedmiotu Postępowanie cywilne I z dnia 12.01.27 zostają przełożone na dzień 22.12.26. Grupa 2 w godzinach 11.45-13.30, grupa 1 w godzinach 13.30-15.00 (sala 218 ul. Narutowicza)."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-aktualizacja-sal-seminarium-dyplomowe-dr-hab-a-kosinska-prof-us/",
+    "title": "SSP IV – aktualizacja sal – seminarium dyplomowe dr hab. A. Kosińska, prof. US",
+    "ym": "2026-11",
+    "pub": "2026-11-05",
+    "text": "Prosimy o zapoznanie się z zaktualizowanym wykazem seminariów dyplomowych i przypisanymi salami (dot. seminariów dr hab. A. Kosińskiej, prof. US) Seminaria dyplomowe – Wydział Prawa i Administracji Uniwersytetu Szczecińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/repetytorium-z-przedmiotu-logika-prawnicza-dotyczy-osob-ktore-maja-do-zaliczenia-przedmiot-w-semestrze-zimowym/",
+    "title": "Repetytorium z przedmiotu Logika prawnicza – dotyczy osób, które mają do zaliczenia przedmiot w semestrze zimowym",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Informujemy, że repetytorium z przedmiotu Logika prawnicza (dr B. Kanarek, prof. US) w dniu 12.11.2026 r. odbędzie się o godzinie 10.30, sala 112-114 al. Piastów 40b"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-v-termin-odrobienia-seminarium-dyplomowego-z-dn-15-10-2026-r-dr-hab-e-cala-wacinkiewicz-prof-us/",
+    "title": "SSP IV, V – termin odrobienia seminarium dyplomowego z dn. 15.10.2026 r. (dr hab. E. Cała-Wacinkiewicz, prof. US)",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Informujemy, że seminarium dyplomowe dr hab. E. Cała-Wacinkiewicz, prof. US, które nie odbyło się dnia 15.10.2026 r. zostanie odrobione w dniu 5.11.2026 (czwartek) w godzinach: 13.30 – 16.45, rok IV, gab. 213 Narutowicza 17.00 – 20.15, rok V, gab. 213 Narutowicza"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-odwolanie-cwiczen-z-przedmiotu-prawo-rodzinne-w-dn-3-11-2026-r-gr-1-2-3-5-dr-a-tomczyk/",
+    "title": "SSP IV – odwołanie ćwiczeń z przedmiotu Prawo rodzinne w dn. 3.11.2026 r., gr. 1, 2, 3, 5 (dr A. Tomczyk)",
+    "ym": "2026-11",
+    "pub": "2026-11-02",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Prawo rodzinne (gr. 1, 2, 3, 5) z dr A. Tomczyk w dniu 3.11.2026 r. nie odbędą się i zostają przełożone na dzień 15.12.2026 r. wedle poniższego: grupa 1 – w godzinach 8.15 – 9.45, sala 218 Narutowicza; grupa 2 – w godzinach 13.30 – 15.00, sala 218 Narutowicza; grupa 3 – w godzinach 10.00 – 11.30, sala 218 Narutowicza; grupa 5 – w godzinach 11.45 – 13.15, sala 218 Narutowicza."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-iv-zmiana-sal-na-cwiczenia-dla-grup-1-3-4-5-i-7-zajecia-w-piatki-prawo-handlowe-i-i-prawo-spadkowe/",
+    "title": "SSP IV – zmiana sal na ćwiczenia dla grup 1, 3, 4, 5 i 7 (zajęcia w piątki) Prawo handlowe I i Prawo spadkowe",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Informujemy, że nastąpiła zmiana na salach przypisanych do zajęć w piątki: prawo handlowe I (gr. 1,4,5) – ćwiczenia odbywają się w sali 118 al. Piastów 40b prawo spadkowe (gr. 1, 3, 7) – ćwiczenia odbywają się w sali 7-9 al. Piastów 40b Zaktualizowany rozkład zajęć na stronie: Rozkłady zajęć – Wydział Prawa i Administracji Uniwersytetu Szczecińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-termin-egzaminu-z-przedmiotu-prawo-handlowe-ii-prof-z-kuniewicz-dla-osob-ktorym-przysluguje-przystapienie-do-egzaminu/",
+    "title": "SSP – termin egzaminu z przedmiotu Prawo handlowe II (prof. Z. Kuniewicz) dla osób, którym przysługuje przystąpienie do egzaminu",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Informujemy, że egzamin z przedmiotu Prawo handlowe II dla osób, którym przysługuje jeszcze przystąpienie do egzaminu (w tym dla osób, które mają usprawiedliwione nieobecności) odbędzie się dnia 29.10.2026 r. o godzinie 11.00, sala 118 Narutowicza."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-iv-zmiana-sali-cwiczenia-prawo-handlowe-i-gr-1-4-5/",
+    "title": "SSP IV – zmiana sali – ćwiczenia Prawo handlowe I (gr. 1, 4, 5)",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Informujemy, że wyjątkowo ćwiczenia z Prawa handlowego I (mgr P. Wesner) w dniu 16.10.2026 r. odbędą się w sali 118 al. Piastów 40b."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-iv-v-odwolanie-seminarium-dyplomowe-dr-hab-j-ciapaly-prof-us-w-dniu-15-10-2026-r/",
+    "title": "SSP IV/V – odwołanie seminarium dyplomowe dr hab. J. Ciapały, prof. US w dniu 15.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Informujemy, że seminaria dyplomowe dra hab. J. Ciapały, prof. US w dniu 15.10.2026 r. dla studentów IV i V roku SSP nie odbędą się. Terminy odrobienia seminariów zostaną podane do wiadomości wkrótce."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-iv-v-odwolane-seminaria-dyplomowe-dr-hab-e-cala-wacinkiewicz-prof-us-w-dn-15-10-2026-r/",
+    "title": "SSP IV, V – odwołane seminaria dyplomowe dr hab. E. Cała-Wacinkiewicz, prof. US w dn. 15.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Informujemy, że seminaria dyplomowe Pani dr hab. E. Cała-Wacinkiewicz, prof. US w dniu 15.10.2026 r. nie odbędą się. Termin odrobienia seminariów zostanie podany do wiadomości wkrótce."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-iv-zmiana-sali-warsztaty-prawnicze-z-pisania-pism-sadowych-i-urzedowych-gr-1-2-i-4-dr-p-mijal/",
+    "title": "SSP IV – zmiana sali – Warsztaty prawnicze z pisania pism sądowych i urzędowych (gr. 1, 2 i 4 dr P. Mijal)",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Informujemy, że nastąpiła zmiana sali na zajęcia z przedmiotu Warsztaty prawnicze z pisania pism sądowych i urzędowych (gr. 1, 2 i 4 dr P. Mijal). W dniu 12.X zajęcia odbędą się w sali 118 al. Piastów 40b, a od dnia 19.X zajęcia będą się odbywały w sali 215 Narutowicza. Uprzejmie proszę o zapoznanie się z zaktualizowanym rozkładem zajęć: Rozkłady zajęć – Wydział Prawa i Administracji Uniwersytetu Szczecińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-iv-zmiana-sali-cwiczenia-zaplanowane-na-wtorki-gr-1235-prawo-rodzinne/",
+    "title": "SSP IV – zmiana sali – ćwiczenia zaplanowane na wtorki gr. 1,2,3,5 (Prawo rodzinne)",
+    "ym": "2026-10",
+    "pub": "2026-10-11",
+    "text": "Informujemy, że nastąpiła zmiana sali dydaktycznej przypisanej na ćwiczenia z przedmiotu Prawo rodzinne (zajęcia zaplanowane na wtorki). Zaktualizowany rozkład zajęć znajduje się na stronie https://wpia.usz.edu.pl/rozklady-zajec/"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolany-dyzur-dydaktyczny-dr-hab-kingi-flagi-gieruszynskiej-w-dn-8-10-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny dr hab. Kingi Flagi-Gieruszyńskiej w dn. 8.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Informujemy, że dyżur dydaktyczny dr hab. Kingi Flagi-Gieruszyńskiej w dniu 8.10.2026 r. nie odbędzie się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/i-ssp-zmiana-godziny-wykladu-z-przedmiotu-wstep-do-prawoznawstwa-dr-beata-kanarek-prof-us/",
+    "title": "I SSP – zmiana godziny wykładu z przedmiotu wstęp do prawoznawstwa (dr Beata Kanarek, prof. US)",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Informujemy, że wykład z przedmiotu wstęp do prawoznawstwa w dniu 12.10.2026 r. odbędzie się w godzinach 10:45-13:15 aula 7-9 Al. Piastów 40b."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/i-ssp-zmiana-terminu-wykladu-z-przedmiotu-historia-prawa-i-mysli-polityczno-prawnych-dr-hab-m-tkaczuk-prof-us/",
+    "title": "I SSP – zmiana godziny wykładu z przedmiotu historia prawa i myśli polityczno-prawnych (dr hab. M. Tkaczuk, prof. US)",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Informujemy, że wykład z przedmiotu historia prawa i myśli polityczno-prawnych w dniu 12.10.2026 r. odbędzie się w godzinach 8:15-10:45 aula 7-9 Al. Piastów 40b."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/iv-r-ssp-podzial-na-grupy-modulowe/",
+    "title": "IV r. SSP – Podział na grupy modułowe",
+    "ym": "2026-10",
+    "pub": "2026-10-01",
+    "text": "Przedstawimy podział na grupy modułowe dla IV roku studiów stacjonarnych dla kierunku prawo (IV rok SSP). MODUŁ: Praktyczn e aspekty wykonywania zawodów prawniczych I 1. Warsztaty prawnicze z pisania pism sądowych i urzędowych gr. 1: A – Czyż, gr. 2: Ćw – Jaś, gr. 3: Jesi – Kubiak D, gr. 4 : Kubik – Mr, gr. 5: Mul – Rom, gr. 6: Ryb – Szydł, gr. 7: Szyn – Ż. 2. Rozprawa sądowa: gr. 1: B – Mak, gr. 2: Mal – Żuk."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/2026/09/ssp-iv-2025-2026-prawo-i-postepowanie-podatkowe-ii-termin-egzaminu-dla-osob-z-usprawiedliwiona-nieobecnoscia-prof-dr-hab-z-ofiarski/",
+    "title": "SSP IV (2025/2026) – Prawo i postępowanie podatkowe II – termin egzaminu dla osób z usprawiedliwioną nieobecnością (prof. dr hab. Z. Ofiarski)",
+    "ym": "2026-09",
+    "pub": "2026-09-23",
+    "text": "Informujemy, że egzamin z przedmiotu Prawo i postępowanie podatkowe II dla kierunku prawo (SSP) dla osób, które uzyskały zgodę Prodziekana ds. Studenckich na usprawiedliwienie nieobecności we wcześniejszych terminach odbędzie się 6 października 2026 r. (wtorek) o godz. 10.00, s. 220 (budynek ul. G. Narutowicza 17a)."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dr-a-tomczyk-w-dniu-10-09-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny dr A. Tomczyk w dniu 10.09.2026 r.",
+    "ym": "2026-09",
+    "pub": "2026-09-10",
+    "text": "Informujemy, że dyżur dydaktyczny dr A. Tomczyk w dniu 10.09.2026 r. nie odbędzie się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dra-p-manczyka-w-dn-10-09-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny dra P. Mańczyka w dn. 10.09.2026 r.",
+    "ym": "2026-09",
+    "pub": "2026-09-10",
+    "text": "Informujemy, że dyżur dydaktyczny dra P. Mańczyka w dniu 10.09.2026 r. nie odbędzie się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dr-hab-k-flagi-gieruszynskiej-prof-us-w-dniu-10-09-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny dr hab. K. Flagi-Gieruszyńskiej, prof. US w dniu 10.09.2026 r.",
+    "ym": "2026-09",
+    "pub": "2026-09-07",
+    "text": "Informujemy, że dyżur dydaktyczny dr hab. K. Flagi-Gieruszyńskiej, prof. US w dniu 10.09.2026 r. nie odbędzie się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dra-m-wojdaly-w-dn-10-09-2026/",
+    "title": "Odwołany dyżur dydaktyczny dra M. Wojdały w dn. 10.09.2026",
+    "ym": "2026-09",
+    "pub": "2026-09-01",
+    "text": "Informujemy, że dyżur dydaktyczny dra M. Wojdały w dn. 10.09.2026 r. nie odbędzie się."
+   }
+  ],
+  "zmiany": {
+   "PRAWO4": [
+    {
+     "type": "extra",
+     "kind": "change",
+     "date": "2026-10-06",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Ofiarski",
+     "r": "s. 220",
+     "post": 16,
+     "dup": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 10
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 13,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 14,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 3
+    },
+    {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 8
+    },
+    {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 9
+    },
+    {
+     "type": "note",
+     "date": "2026-10-16",
+     "post": 7
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "08:15",
+     "pl": "Prawo rodzinne",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "10:00",
+     "pl": "Prawo rodzinne",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "11:45",
+     "pl": "Prawo rodzinne",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-03",
+     "start": "13:30",
+     "pl": "Prawo rodzinne",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-12",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2027-01-12",
+     "start": "11:45",
+     "pl": "Postępowanie cywilne I",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2027-01-12",
+     "start": "13:30",
+     "pl": "Postępowanie cywilne I",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.475Z"
  }
 }

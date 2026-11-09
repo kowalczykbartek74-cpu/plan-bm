@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-09T22:49:09.359Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
  "groups": {
   "PSYCH1": {
    "odd": [
@@ -1265,5 +1265,181 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-terminu-realizacji-zajec-z-mgr-anna-lipinska-za-dzien19-x/",
+    "title": "Zmiana terminu realizacji zajęć z mgr Anna Lipińską (za dzień19 X )",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "Zajęcia z mgr Anna Lipińską „Biologiczne podstawy zachowań”, ćwiczenia, 1 rok Psychologii, grupa PSYC-SJM.26-13, 1 rok, zostają odwołane w dniu 19.10.26 godz. 13:30-15:00 Proponowany termin odrobienia ćwiczeń: 21.10.26 godz. 13:30-15:00, sala 023"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/termin-odrobienia-zajec-z-dr-hab-b-toszkiem-prof-us/",
+    "title": "Termin odrobienia zajęć z dr hab. B. Toszkiem, prof. US",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Zajęcia z Podstaw prawa (BW I st. I r.) w środę 14.10 w godz. 15.15-16.45 nie odbędą się. Odrobienie zajęć nastąpi 9.12 (śr.) w godz. 15.15 – 16.45."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-mgr-agnieszka-malinowska/",
+    "title": "Odwołanie zajęć z mgr Agnieszką Malinowską",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "Szanowni Studenci! Zajęcia w dniu 6 X 2026 z mgr Agnieszką Malinowską zostają odwołane . Termin odpracowania zajęć 8.10.2026r. o godz. 13:30 w sali 116."
+   }
+  ],
+  "zmiany": {
+   "PSYCH1": [
+    {
+     "type": "note",
+     "date": "2026-10-19",
+     "post": 0,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:31:06.881Z"
  }
 }

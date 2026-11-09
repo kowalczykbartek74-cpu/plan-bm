@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "FROM1": {
    "odd": [
@@ -461,7 +461,7 @@
      "type": "cancel",
      "date": "2026-10-20",
      "start": "15:15",
-     "pl": "pisanie/lektura-język francuski",
+     "pl": "Pisanie/lektura-język francuski",
      "post": 1,
      "posts": [
       1
@@ -471,7 +471,7 @@
      "type": "cancel",
      "date": "2026-11-10",
      "start": "13:30",
-     "pl": "historia literatury francuskiej (po 1945 r.)",
+     "pl": "Historia literatury francuskiej (po 1945 r.)",
      "post": 0,
      "posts": [
       0
@@ -479,6 +479,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.240Z"
+  "updatedAt": "2026-11-09T23:29:59.862Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "DIKS2": {
    "odd": [
@@ -1031,7 +1031,7 @@
      "type": "cancel",
      "date": "2026-11-10",
      "start": "10:00",
-     "pl": "retotyka i erystyka dziennikarska",
+     "pl": "Retotyka i erystyka dziennikarska",
      "post": 0,
      "posts": [
       0
@@ -1041,7 +1041,7 @@
      "type": "cancel",
      "date": "2026-11-10",
      "start": "11:45",
-     "pl": "retotyka i erystyka dziennikarska",
+     "pl": "Retotyka i erystyka dziennikarska",
      "post": 0,
      "posts": [
       0
@@ -1049,6 +1049,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:27.592Z"
+  "updatedAt": "2026-11-09T23:29:59.382Z"
  }
 }

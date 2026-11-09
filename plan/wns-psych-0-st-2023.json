@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-09T22:49:09.359Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
  "groups": {
   "PSYCH4": {
    "odd": [
@@ -977,5 +977,317 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-termu-realizacji-zajec-z-dr-sylwia-michalowska-w-dniu-21-xii/",
+    "title": "Zmiana termu realizacji zajęć z dr Sylwią Michałowska (w dniu 4 XII)",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "p. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-12-21 8:15 2026-12-04 8:15 108 PSYC-SJM.23-4-US-PSYCHKL.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 4 zachowania autodestrukcyjne ćwiczenia – Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, zajęcia w dniu 21.12.2026 na przedmiocie „Zachowania autodestrukcyjne”, godzina 8.15-9.45 zostaną odrobione w dniu 04.12.2026, w godzinach 8.15- 9.45. Na zajęcia zapraszamy do sali 108. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-12-21 10:00 2026-12-04 10:00 108 PSYC-SJM.23-4-US-PSYCHKL.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 4 zachowania autodestrukcyjne ćwiczenia Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, zajęcia w dniu 21.12.2026 na przedmiocie „Zachowania autodestrukcyjne”, godzina 10.00-11.30 zostaną odrobione w dniu 04.12.2026, w godzinach 10.00- 11.30. Na zajęcia zapraszamy do sali 108. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-12-21 11:45 2026-12-04 11:45 108 PSYC-SJM.23-4-US-PSYCHKL.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 4 psychopatologia i psychologia kliniczna dzieci i młodzieży ćwiczenia – Przyczyna nieobecności Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, zajęcia w dniu 21.12.2026 na przedmiocie „Psychologia kliniczna i psychopatologia dzieci i młodzieży”, godzina 11.45-15.00 zostaną odrobione w dniu 04.12.2026, w godzinach 11.45-15.00. Na zajęcia zapraszamy do sali 108."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-termu-realizacji-zajec-z-dr-sylwia-michalowska-20-xi/",
+    "title": "Zmiana termu realizacji zajęć z dr Sylwią Michałowska ( w dniu 20 XI)",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-12-14 8:15 2026-11-20 8:15 108 PSYC-SJM.23-4-US-PSYCHKL.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 4 zachowania autodestrukcyjne ćwiczenia – Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, zajęcia w dniu 14.12.2026 na przedmiocie „Zachowania autodestrukcyjne”, godzina 8.15-9.45 zostaną odrobione w dniu 20.11.2026, w godzinach 8.15-9.45. Na zajęcia zapraszamy do sali 108. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-12-14 10:00 2026-11-20 10:00 108 PSYC-SJM.23-4-US-PSYCHKL.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 4 zachowania autodestrukcyjne ćwiczenia Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, zajęcia w dniu 14.12.2026 na przedmiocie „Zachowania autodestrukcyjne”, godzina 10.00-11.30 zostaną odrobione w dniu 20.11.2026, w godzinach 10.00-11.30 . Na zajęcia zapraszamy do sali 108. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-12-14 11:45 2026-11-20 11:45 108 PSYC-SJM.23-4-US-PSYCHKL.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 4 psychopatologia i psychologia kliniczna dzieci i młodzieży ćwiczenia Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, zajęcia w dniu 14.12.2026 na przedmiocie „ psychopatologia i psychologia kliniczna dzieci i młodzieży „, godzina 11.45-15.00 zostaną odrobione w dniu 20.11.2026, w godzinach 11.45-15.00. Na zajęcia zapraszamy do sali 108."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odpracowanie-wykladu-ogolnouczelnianego-medytacja-teoria-i-praktyka-z-dr-magdalena-kerestey/",
+    "title": "Odpracowanie wykładu ogólnouczelnianego „Medytacja – teoria i praktyka” z dr Magdaleną Kerestey",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Szanowni Studenci! Odpracowanie wykładu ogólnouczelnianego „Medytacja – teoria i praktyka” z dr Magdaleną Kerestey za dzień 15.10.2026 odbędzie się w dniu 3.12.2026 o godzinie 17.45, sala 152."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-dr-magdalena-kerestey/",
+    "title": "Odwołanie zajęć z dr Magdaleną Kerestey",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Zajęcia z dr Magdaleną Kerestey zostają odwołane w dniu 15 X 2026 r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-terminu-zajec-dr-hab-m-kamoli-cieslik-prof-us/",
+    "title": "Zmiana terminu zajęć dr hab. M. Kamoli-Cieślik, prof. US",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Kierunek: BW, I rok, studia I stopnia Przedmiot: Nauka o państwie i prawie Pierwotny termin: 15.10.2026 r., godz. 13:30–15:00 Nowy termin: 16.11.2026 r., godz. 10:00–11:30, sala 153. Kierunek: MIPIPR, I rok, studia I stopnia Pierwotny termin: 15.10.2026 r., godz. 15:15–16:45 Nowy termin: 16.11.2026 r., godz. 11:45–13:45, sala 177. Kierunek: Politologia, I rok, studia I stopnia Pierwotny termin: 15.10.2026 r., godz. 17:00–18:30 Nowy termin: 16.11.2026 r., godz. 13:30–15:00, sala 177."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-terminu-realizacji-zajec-z-dr-n-med-i-n-o-zdr-daria-suchecka/",
+    "title": "Zmiana terminu realizacji zajęć z dr n. med. i n. o zdr. Darią Suchecką",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "Szanowni Studenci! ze względu na wyjazd na konferencję, zajęcia z przedmiotu „Podstawy pomocy psychologicznej” dla studentów II roku gr 1 psychologii z dnia 7 X i 14.X z godziny 11:45 (środa) zostają przełożone na dzień 26.X i 9.XI godzina 11:45-15:00, sala 108."
+   }
+  ],
+  "zmiany": {
+   "PSYCH4": [
+    {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 4,
+     "niska": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-20",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Zachowania autodestrukcyjne",
+     "k": "X",
+     "p": "dr S. Michałowska",
+     "r": "s. 108",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-20",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Zachowania autodestrukcyjne",
+     "k": "X",
+     "p": "dr S. Michałowska",
+     "r": "s. 108",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-20",
+     "start": "11:45",
+     "end": "15:00",
+     "pl": "Psychopatologia i psychologia kliniczna dzieci i młodzieży",
+     "k": "K",
+     "p": "dr S. Michałowska",
+     "r": "s. 108",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-04",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Zachowania autodestrukcyjne",
+     "k": "X",
+     "p": "dr S. Michałowska",
+     "r": "s. 108",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-04",
+     "start": "11:45",
+     "end": "15:00",
+     "pl": "Psychopatologia i psychologia kliniczna dzieci i młodzieży",
+     "k": "K",
+     "p": "dr S. Michałowska",
+     "r": "s. 108",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-14",
+     "start": "08:15",
+     "pl": "Zachowania autodestrukcyjne",
+     "moved": true,
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-14",
+     "start": "10:00",
+     "pl": "Zachowania autodestrukcyjne",
+     "moved": true,
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-14",
+     "start": "11:45",
+     "pl": "Psychopatologia i psychologia kliniczna dzieci i młodzieży",
+     "moved": true,
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-21",
+     "start": "10:00",
+     "pl": "Zachowania autodestrukcyjne",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-21",
+     "start": "11:45",
+     "pl": "Psychopatologia i psychologia kliniczna dzieci i młodzieży",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:31:06.834Z"
  }
 }

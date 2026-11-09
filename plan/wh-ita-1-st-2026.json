@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "ITA1": {
    "odd": [
@@ -734,7 +734,7 @@
      "type": "cancel",
      "date": "2026-10-14",
      "start": "10:00",
-     "pl": "geografia Włoch WT",
+     "pl": "Geografia Włoch WT",
      "moved": true,
      "post": 3,
      "posts": [
@@ -767,7 +767,7 @@
      "date": "2027-01-29",
      "start": "10:00",
      "end": "11:30",
-     "pl": "geografia Włoch WT",
+     "pl": "Geografia Włoch WT",
      "k": "W",
      "p": "dr hab. P. Goniszewski",
      "r": "s. 302",
@@ -775,6 +775,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.605Z"
+  "updatedAt": "2026-11-09T23:30:00.148Z"
  }
 }

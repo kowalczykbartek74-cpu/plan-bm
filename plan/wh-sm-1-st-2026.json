@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "SM1": {
    "odd": [
@@ -963,7 +963,7 @@
      "type": "cancel",
      "date": "2026-11-09",
      "start": "17:00",
-     "pl": "historia stosunków międzynarodowych 1815-1918",
+     "pl": "Historia stosunków międzynarodowych 1815-1918",
      "moved": true,
      "post": 1,
      "posts": [
@@ -974,7 +974,7 @@
      "type": "cancel",
      "date": "2026-11-09",
      "start": "18:45",
-     "pl": "historia stosunków międzynarodowych 1815-1918",
+     "pl": "Historia stosunków międzynarodowych 1815-1918",
      "moved": true,
      "post": 1,
      "posts": [
@@ -987,7 +987,7 @@
      "date": "2026-11-18",
      "start": "15:30",
      "end": "17:00",
-     "pl": "historia stosunków międzynarodowych 1815-1918",
+     "pl": "Historia stosunków międzynarodowych 1815-1918",
      "k": "CW",
      "p": "dr J. Morawska-Tołek",
      "r": "s. 071",
@@ -995,6 +995,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.840Z"
+  "updatedAt": "2026-11-09T23:30:00.329Z"
  }
 }

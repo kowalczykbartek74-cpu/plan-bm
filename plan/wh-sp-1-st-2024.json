@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "SP3": {
    "odd": [
@@ -741,7 +741,7 @@
      "date": "2026-11-06",
      "start": "17:00",
      "end": "18:30",
-     "pl": "postacie i konflikty dramatyczne (literatura powszechna)",
+     "pl": "Postacie i konflikty dramatyczne (literatura powszechna)",
      "k": "K",
      "p": "dr Krzysztof Popiołek",
      "r": "s. 220",
@@ -753,7 +753,7 @@
      "date": "2026-11-06",
      "start": "15:15",
      "end": "16:45",
-     "pl": "proza popularna i popkulturowa – wyobraźnia melodramatyczna",
+     "pl": "Proza popularna i popkulturowa – wyobraźnia melodramatyczna",
      "k": "K",
      "p": "dr Krzysztof Popiołek",
      "r": "s. 220",
@@ -763,7 +763,7 @@
      "type": "cancel",
      "date": "2026-11-09",
      "start": "15:15",
-     "pl": "fantastyka – przepisywanie baśni czytelnia filologiczna",
+     "pl": "Fantastyka – przepisywanie baśni czytelnia filologiczna",
      "moved": true,
      "post": 0,
      "posts": [
@@ -774,7 +774,7 @@
      "type": "cancel",
      "date": "2026-11-12",
      "start": "19:45",
-     "pl": "seminarium dyplomowe s",
+     "pl": "Seminarium dyplomowe s",
      "post": 1,
      "posts": [
       1
@@ -784,7 +784,7 @@
      "type": "cancel",
      "date": "2026-11-16",
      "start": "18:45",
-     "pl": "postacie i konflikty dramatyczne (literatura powszechna)",
+     "pl": "Postacie i konflikty dramatyczne (literatura powszechna)",
      "moved": true,
      "post": 2,
      "posts": [
@@ -795,7 +795,7 @@
      "type": "cancel",
      "date": "2026-11-16",
      "start": "15:15",
-     "pl": "proza popularna i popkulturowa – wyobraźnia melodramatyczna",
+     "pl": "Proza popularna i popkulturowa – wyobraźnia melodramatyczna",
      "moved": true,
      "post": 2,
      "posts": [
@@ -808,7 +808,7 @@
      "date": "2026-11-20",
      "start": "15:15",
      "end": "16:45",
-     "pl": "fantastyka – przepisywanie baśni czytelnia filologiczna",
+     "pl": "Fantastyka – przepisywanie baśni czytelnia filologiczna",
      "k": "K",
      "p": "mgr Aleksandra Majewicz Biblioteka Międzywydziałowa",
      "post": 0
@@ -833,6 +833,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.901Z"
+  "updatedAt": "2026-11-09T23:30:00.377Z"
  }
 }

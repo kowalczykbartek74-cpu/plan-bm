@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:50:40.599Z",
- "checkedAt": "2026-11-09T22:50:40.599Z",
+ "checkedAt": "2026-11-09T23:22:12.276Z",
  "groups": {
   "MIKR1": {
    "odd": [
@@ -1001,5 +1001,200 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-ii-st-1-rok-gr-2-odwolane-laboratorium-z-diagnostyki-bakteriologicznej-w-dniu-10-11/",
+    "title": "Mikrobiologia II st. 1 rok (Gr. 2) – odwołane laboratorium z diagnostyki bakteriologicznej w dniu 10.11",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Drodzy Studenci, ze względu na moją obecność na szczepieniu pracowniczym zajęcia w dniu jutrzejszym nie odbędą się. dr Dominika Bębnowska Odrobienie zajęć zaplanowano na 26.01.2027 r, godz. 8:30, sala 102F"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-ii-st-1-rok-gr-1-odwolane-zajecia-przedmiotu-epidemiologia-i-profilaktyka-chorob-zakaznych-w-dniu-4-11/",
+    "title": "Mikrobiologia II st. 1 rok (Gr.1) – odwołane zajęcia przedmiotu epidemiologia i profilaktyka chorób zakaźnych w dniu 4.11",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Odwołane zajęcia z przedmiotu epidemiologia i profilaktyka chorób zakaźnych dla kierunku mikrobiologia II st. 1 rok (gr.1) . Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami na następnych zajęciach. dr Rafał Hrynkiewicz"
+   }
+  ],
+  "zmiany": {
+   "MIKR1": [
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "09:00",
+     "pl": "Epidemiologia i profilaktyka chorób zakaźnych",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-10",
+     "start": "08:30",
+     "pl": "Diagnostyka bakteriologiczna",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-26",
+     "start": "8:30",
+     "end": "10:00",
+     "pl": "Diagnostyka bakteriologiczna",
+     "k": "LAB",
+     "p": "dr Dominika Bębnowska",
+     "r": "s. 102F",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.283Z"
  }
 }

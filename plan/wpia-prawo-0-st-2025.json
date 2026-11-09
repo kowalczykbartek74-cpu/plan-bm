@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T23:22:54.646Z",
  "groups": {
   "PRAWO2": {
    "odd": [
@@ -2091,5 +2091,317 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/repetytorium-z-przedmiotu-logika-prawnicza-dotyczy-osob-ktore-maja-do-zaliczenia-przedmiot-w-semestrze-zimowym/",
+    "title": "Repetytorium z przedmiotu Logika prawnicza – dotyczy osób, które mają do zaliczenia przedmiot w semestrze zimowym",
+    "ym": "2026-11",
+    "pub": "2026-11-04",
+    "text": "Informujemy, że repetytorium z przedmiotu Logika prawnicza (dr B. Kanarek, prof. US) w dniu 12.11.2026 r. odbędzie się o godzinie 10.30, sala 112-114 al. Piastów 40b"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-ii-odwolanie-cwiczen-z-przedmiotu-prawo-administracyjne-i-gr-3-i-6-w-dn-9-11-2026-mgr-w-brewka/",
+    "title": "SSP II – odwołanie ćwiczeń z przedmiotu Prawo administracyjne I (gr. 3 i 6) w dn. 9.11.2026 (mgr W. Brewka)",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Informujemy, że ćwiczenia dla grupy 3 i 6 z przedmiotu Prawo administracyjne I (mgr W. Brewka) w dn. 9.11.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie ustalony wkrótce."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolany-dyzur-dr-hab-e-cala-wacinkiewicz-prof-us-w-dn-5-11-2026-r/",
+    "title": "Odwołany dyżur dr hab. E. Cała-Wacinkiewicz, prof. US w dn. 5.11.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Informujemy, że dyżur dydaktyczny dr hab. E. Cała-Wacinkiewicz, prof. US w dn. 5.11.2026 r. nie odbędzie się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-ii-przelozenie-cwiczen-z-przedmiotu-miedzynarodowe-prawo-publiczne-gr-5-6-z-dn-30-10-2026-mgr-a-poczewski/",
+    "title": "SSP II – przełożenie ćwiczeń z przedmiotu Międzynarodowe prawo publiczne gr. 5, 6 z dn. 30.10.2026 (mgr A. Poczewski)",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Międzynarodowe prawo publiczne (gr. 5 i 6) z dnia 30.10.2026 zostają przełożone na nw. terminy: Grupa 5 – ćwiczenia odbędą się w terminie 11.01.2027 w godzinach 17.00 – 18.30, s.104 al.Piastów 40b Grupa 6- ćwiczenia odbędą się w terminie 25.01.2027 w godzinach 8.15 – 9.45, s. 104 al. Piastów 40b"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-termin-egzaminu-z-przedmiotu-prawo-handlowe-ii-prof-z-kuniewicz-dla-osob-ktorym-przysluguje-przystapienie-do-egzaminu/",
+    "title": "SSP – termin egzaminu z przedmiotu Prawo handlowe II (prof. Z. Kuniewicz) dla osób, którym przysługuje przystąpienie do egzaminu",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Informujemy, że egzamin z przedmiotu Prawo handlowe II dla osób, którym przysługuje jeszcze przystąpienie do egzaminu (w tym dla osób, które mają usprawiedliwione nieobecności) odbędzie się dnia 29.10.2026 r. o godzinie 11.00, sala 118 Narutowicza."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolane-konsultacje-dydaktyczne-dr-hab-e-cala-wacinkiewicz-prof-us-w-dniu-15-10-2026-r/",
+    "title": "Odwołane konsultacje dydaktyczne dr hab. E. Cała-Wacinkiewicz, prof. US w dniu 15.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Informujemy, że konsultacje dydaktyczne dr hab. E. Cała-Wacinkiewicz, prof. US w dniu 15.10.2026 r. nie odbędą się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolane-konsultacje-dr-a-pyrzynskiej-w-dniu-15-10-2026-r/",
+    "title": "Odwołane konsultacje dr A. Pyrzyńskiej w dniu 15.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Informujemy, że konsultacje dr A. Pyrzyńskiej w dniu 15.10.2026 r. nie odbędą się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssp-ii-zmiana-w-rozkladzie-zajec-w-dn-13-x-oraz-27-x/",
+    "title": "SSP II – zmiana w rozkładzie zajęć w dn. 13.X oraz 27.X",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Informujemy, że nastąpiła zmiana w rozkładzie zajęć (wtorek). Wykład z przedmiotu Prawo administracyjne I (prof. D. Wacinkiewicz) odbędzie się w dniu 27.X (zamiast 13.X) Konwersatorium z przedmiotu międzynarodowe prawo publiczne – wersja PBL (dr K. Słotwińska) odbędzie się dnia 13.X (zamiast 27.X) Zaktualizowany rozkład na stronie: Rozkłady zajęć – Wydział Prawa i Administracji Uniwersytetu Szczecińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolane-konsultacje-dra-hab-daniela-wacinkiewicza-prof-us-w-dn-08-10-2026-r/",
+    "title": "Odwołane konsultacje dra hab. Daniela Wacinkiewicza, prof. US w dn. 08.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Informujemy, że dyżur dydaktyczny dr hab. Daniela Wacinkiewicza, prof. US w dniu 08.10.2026 r. nie odbędzie się i zostanie odrobiony w dn. 29.10.2026 w godz. 11:45-13:15 w pok. 315 Narutowicza."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/i-ssp-zmiana-godziny-wykladu-z-przedmiotu-wstep-do-prawoznawstwa-dr-beata-kanarek-prof-us/",
+    "title": "I SSP – zmiana godziny wykładu z przedmiotu wstęp do prawoznawstwa (dr Beata Kanarek, prof. US)",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Informujemy, że wykład z przedmiotu wstęp do prawoznawstwa w dniu 12.10.2026 r. odbędzie się w godzinach 10:45-13:15 aula 7-9 Al. Piastów 40b."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/i-ssp-zmiana-terminu-wykladu-z-przedmiotu-historia-prawa-i-mysli-polityczno-prawnych-dr-hab-m-tkaczuk-prof-us/",
+    "title": "I SSP – zmiana godziny wykładu z przedmiotu historia prawa i myśli polityczno-prawnych (dr hab. M. Tkaczuk, prof. US)",
+    "ym": "2026-10",
+    "pub": "2026-10-07",
+    "text": "Informujemy, że wykład z przedmiotu historia prawa i myśli polityczno-prawnych w dniu 12.10.2026 r. odbędzie się w godzinach 8:15-10:45 aula 7-9 Al. Piastów 40b."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/ssp-ii-zmiana-terminu-wgladu-do-prac-z-przedmiotu-prawo-rzeczowe-dr-k-dadanska/",
+    "title": "SSP II – zmiana terminu wglądu do prac z przedmiotu Prawo rzeczowe (dr K. Dadańska)",
+    "ym": "2026-09",
+    "pub": "2026-09-14",
+    "text": "Informujemy, że zmianie uległ termin wglądu do prac z przedmiotu Prawo rzeczowe. Zmieniony harmonogram wglądu do prac dostępny jest na stronie: https://wpia.usz.edu.pl/harmonogramj-sesji-egzaminacyjnej/"
+   }
+  ],
+  "zmiany": {
+   "PRAWO2": [
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 9,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 10,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 7
+    },
+    {
+     "type": "note",
+     "date": "2026-10-29",
+     "post": 4,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-30",
+     "start": "17:00",
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-30",
+     "start": "13:30",
+     "pl": "Międzynarodowe prawo publiczne",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-30",
+     "start": "15:15",
+     "pl": "Międzynarodowe prawo publiczne",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-09",
+     "start": "17:00",
+     "pl": "Prawo administracyjne I",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-09",
+     "start": "15:15",
+     "pl": "Prawo administracyjne I",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-12",
+     "post": 0,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.516Z"
  }
 }

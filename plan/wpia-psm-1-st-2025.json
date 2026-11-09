@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T23:22:54.646Z",
  "groups": {
   "PSM2": {
    "odd": [
@@ -511,5 +511,234 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolanie-konsultacji-dydaktycznych-dr-m-jasinskiej-w-dniu-10-11-2026/",
+    "title": "Odwołanie konsultacji dydaktycznych dr M. Jasińskiej w dniu 10.11.2026",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Informujemy, że konsultacje dydaktyczne dr M. Jasińskiej w dniu 10.11.26 nie odbędą się i zostaną odrobione dnia 12.11.2026 r. w godzinach 10.00 – 10.45"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/2026/10/psm-i-st-ii-r-wyniki-zapisow-na-seminaria-dyplomowe-2/",
+    "title": "PSM I st. II r. – wyniki zapisów na seminaria dyplomowe",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Informujemy, że w wyniku przeprowadzonych zapisów na seminaria dyplomowe, realizowane od semestru letniego w roku akademickim 2026/2027, seminaria będą prowadzone u następujących promotorów: dr JASIŃSKA MARTA dr SKOCZYLAS DOMINIKA Zatwierdzony wybór danego promotora widoczny jest w systemie w menu Wybory i deklaracje rat (przy danym nazwisku zielony „check”) oraz w menu Student -> Tok studiów. Osoby, które nie wzięły udziału w zapisach z urzędu zostaną przypisane do promotora u którego są wolne miejsca."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/psm-i-st-ii-r-zmiana-terminu-realizacji-cwiczen-z-przedmiotu-ochrona-danych-osobowych-mgr-a-giedrys/",
+    "title": "PSM I st. II r. – zmiana terminu realizacji ćwiczeń z przedmiotu Ochrona danych osobowych (mgr A. Giedrys)",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Ochrona danych osobowych z dnia 24.11 oraz 1.12.2026 r. zostają przełożone na następujące terminy: 20.10.2026 r. (wtorek) godz. 15.15 – 16.45, sala 121 Narutowicza (zajęcia z 24.11) 21.10.2026 r. (środa) godz. 13.30 – 15.00, sala 119 Narutowicza (zajęcia z 1.12.)"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/2026/10/psm-i-st-ii-r-zapisy-na-seminaria-dyplomowe-2/",
+    "title": "PSM I st. II r. – zapisy na seminaria dyplomowe",
+    "ym": "2026-10",
+    "pub": "2026-10-14",
+    "text": "Uprzejmie informujemy, że w dniach od 15 do 20 października 2026 r. zostaną uruchomione (poprzez Platformę e-proDziekan) zapisy na seminaria dyplomowe, realizowane od czwartego semestru drugiego roku studiów w roku akademickim 2026/2027. Zapisy zakończą się 20 października o godzinie 23.59. Limit miejsc w grupie każdego z promotorów wynosi 12 osób. Student wybiera promotora z podanej poniżej listy, wpisując w polu „preferencje promotora” odpowiednią liczbę: 1 oznacza promotora, którego student wybiera w pierwszej kolejności, liczba najwyższa – promotora wybieranego w ostatniej kolejności. Student może w ten sposób dokonać wyboru kolejności wszystkich promotorów lub tylko niektórych. Przypisanie studenta kierunku prawo służb mundurowych pierwszego stopnia do określonego promotora jest wypadkową dwóch wartości: liczby przyporządkowanej przez studenta w polu „preferencja promotora”; średniej arytmetycznej ocen, obliczonej ze średniej rocznej za I rok studiów. W przypadku, gdy dwóch lub więcej studentów przypisze temu samemu promotorowi tę samą liczbę porządkową oraz będzie miało taką samą średnią arytmetyczną ocen, kryterium decydującym o przypisaniu do promotora będzie wyższa średnia za ostatni okres studiów (tj. albo średnia za II semestr, a jeżeli średnia za II semestr będzie taka sama – średnia za I semestr). Lista promotorów uprawnionych do prowadzenia seminarium dyplomowego w roku akademickim 2026/2027 w czwartym semestrze na drugim roku studiów na kierunku prawo służb mundurowych pierwszego stopnia, studia stacjonarne: dr JASIŃSKA MARTA dr SKOCZYLAS DOMINIKA STUDENCI, KTÓRZY DO CZASU ZAKOŃCZENIA ZAPISÓW NA SEMINARIA NIE ZAPISZĄ SIĘ DO ŻADNEGO PROMOTORA, ZOSTANĄ PO TYM TERMINIE ZAPISANI Z URZĘDU PRZEZ PRACOWNIKÓW SEKCJI DS. KSZTAŁCENIA DO TYCH PROMOTORÓW, U KTÓRYCH ZOSTANĄ WOLNE MIEJSCA. Wyboru należy dokonać w następujący sposób: Po zalogowaniu się do Platformy e-proDziekan, w lewym menu wybrać opcję -> „Wybory i deklaracja rat” -> PSM-I.26-2-4 sem-zapisy na Seminarium dyplomowe i zaznaczyć swój wybór/wybory."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolane-konsultacje-dr-a-pyrzynskiej-w-dniu-15-10-2026-r/",
+    "title": "Odwołane konsultacje dr A. Pyrzyńskiej w dniu 15.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Informujemy, że konsultacje dr A. Pyrzyńskiej w dniu 15.10.2026 r. nie odbędą się."
+   }
+  ],
+  "zmiany": {
+   "PSM2": [
+    {
+     "type": "note",
+     "date": "2026-10-20",
+     "post": 3
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-20",
+     "start": "15:15",
+     "end": "16:45",
+     "pl": "Ochrona danych osobowych",
+     "k": "CW",
+     "p": "mgr A. Giedrys",
+     "r": "s. 121",
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-21",
+     "start": "13:30",
+     "end": "15:00",
+     "pl": "Ochrona danych osobowych",
+     "k": "CW",
+     "p": "mgr A. Giedrys",
+     "r": "s. 119",
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2026-11-10",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "15:30",
+     "pl": "Ochrona danych osobowych",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.564Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-09T22:49:09.359Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
  "groups": {
   "MIPIPR1": {
    "odd": [
@@ -495,5 +495,220 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-zajec-z-drem-rafalem-miszczukiem/",
+    "title": "Zmiana terminu zajęć z drem Rafałem Miszczukiem",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-05 15:15 2026-12-10 13:30 110 MIP-SII.26-11 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo management instytucji publicznych i Public Relations stacjonarne drugiego stopnia 1 e-administracja wykład – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, przełożenie zajęć jest związane z moim udziałem w Kongresie LegalTech & Cyber 2026, organizowanym przez Krajową Izbę Radców Prawnych 5 listopada w Warszawie. Wydarzenie będzie poświęcone wykorzystaniu nowych technologii w prawie i administracji, w tym sztucznej inteligencji, cyberbezpieczeństwu oraz cyfryzacji usług publicznych. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-05 17:00 2026-12-10 15:15 110 MIP-SII.26-11 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo management instytucji publicznych i Public Relations stacjonarne drugiego stopnia 1 e-administracja konwersatorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, przełożenie zajęć jest związane z moim udziałem w Kongresie LegalTech & Cyber 2026, organizowanym przez Krajową Izbę Radców Prawnych 5 listopada w Warszawie. Wydarzenie będzie poświęcone wykorzystaniu nowych technologii w prawie i administracji, w tym sztucznej inteligencji, cyberbezpieczeństwu oraz cyfryzacji usług publicznych."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-terminu-realizacji-zajec-z-dr-hab-m-drzonkiem-prof-us/",
+    "title": "Zmiana terminu realizacji zajęć z dr hab. M. Drzonkiem, prof. US",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Kierunek Poziom Tryb studiów Rok Przedm. Forma Termin zajęć Termin po zmianie data/godzina/sala data/godzina/sala Sala MiPiPR II 2 sem sem Czw. 5 XI 13.30 gab. Czw. 15 x 15.00 Gab. MiPiPR II 1 sem sem Czw. 5 XI 10.00 gab. Śr. 21 X 15.00 Gab. MiPiPR I 1 IPWS k Czw. 5 XI 8.15 248 sr 14 X g. 15.00 248"
+   }
+  ],
+  "zmiany": {
+   "MIPIPR1": [
+    {
+     "type": "note",
+     "date": "2026-11-05",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-05",
+     "start": "17:00",
+     "pl": "E-administracja",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-05",
+     "start": "15:15",
+     "pl": "E-administracja",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "13:30",
+     "end": "15:00",
+     "pl": "E-administracja",
+     "k": "W",
+     "p": "dr R. Miszczuk",
+     "r": "s. 110",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "15:15",
+     "end": "16:45",
+     "pl": "E-administracja",
+     "k": "K",
+     "p": "dr R. Miszczuk",
+     "r": "s. 110",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:31:06.574Z"
  }
 }

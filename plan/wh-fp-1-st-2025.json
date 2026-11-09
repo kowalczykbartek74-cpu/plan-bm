@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "FP2": {
    "odd": [
@@ -910,7 +910,7 @@
      "type": "cancel",
      "date": "2026-11-12",
      "start": "10:00",
-     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Motywy, wątki i tematy antyczne w literaturze i kulturze współczesnej",
+     "pl": "Konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Motywy, wątki i tematy antyczne w literaturze i kulturze współczesnej",
      "moved": true,
      "post": 0,
      "posts": [
@@ -923,7 +923,7 @@
      "date": "2026-11-16",
      "start": "13:30",
      "end": "15:00",
-     "pl": "konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Motywy, wątki i tematy antyczne w literaturze i kulturze współczesnej",
+     "pl": "Konwersatoria z zakresu wiedzy o języku, literaturze i kulturze: Motywy, wątki i tematy antyczne w literaturze i kulturze współczesnej",
      "k": "K",
      "p": "mgr Aleksandra Majewicz",
      "post": 0
@@ -942,6 +942,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.137Z"
+  "updatedAt": "2026-11-09T23:29:59.781Z"
  }
 }

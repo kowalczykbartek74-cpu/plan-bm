@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-09T22:50:40.599Z",
+ "checkedAt": "2026-11-09T23:22:12.276Z",
  "groups": {
   "OPTYKA2": {
    "odd": [
@@ -469,5 +469,236 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/10/optyka-okularowa-i-st-2-rok-odwolane-zajecia-z-dr-marcinem-sleczka/",
+    "title": "Optyka okularowa I st. 2 rok – odwołane zajęcia z dr. Marcinem Ślęczką",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Zajęcia z przedmiotu laboratorium optyki [lb] prowadzone przez dr M. Ślęczkę zostają odwołane w dniach 03.11.2026 r. oraz 10.11.2026 r. Terminy odrobienia zajęć zostały ustalone na: 08.12.2026 r. godz. 09:00, s. 301 15.12.2026 r. godz. 09:00, s. 301"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/10/optyka-okularowa-i-st-2-rok-odwolane-wyklady-z-dr-a-maruszewska/",
+    "title": "Optyka okularowa I st. 2 rok – odwołane wykłady z dr A. Maruszewską",
+    "ym": "2026-10",
+    "pub": "2026-10-26",
+    "text": "W dniach 26.10.2026 r. oraz 02.11. 2026r. odwołane zostają wykłady z przemiotu: biochemia i patobiochemia narządu wzroku z dr Agnieszką Maruszewską. Terminy realizacji zajęć zostaną uzgodniony w porozumieniu ze Studentami po zakończeniu zwolnienia lekarskiego dr A. Maruszewskiej."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/10/optyka-okularowa-i-st-2-rok-odwolane-zajecia-z-mgr-k-manka-w-dniu-20-10-2026-r/",
+    "title": "Optyka okularowa I st. 2 rok – odwołane zajęcia z mgr K. Mańką w dniu 20.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "W dniu 20.10.2026 r. odwołane zostają zajęcia z panią mgr Katrzyną Mańką z przedmiotu anatomia i fizjologia oka [k]. Zajęcia zostana odrobione w piatek 30.10.2026 r., godz. 16:00, sala 35."
+   }
+  ],
+  "zmiany": {
+   "OPTYKA2": [
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "16:15",
+     "pl": "Anatomia i fizjologia oka",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-26",
+     "start": "09:40",
+     "pl": "Biochemia i patobiochemia narządu wzroku",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-30",
+     "start": "16:00",
+     "end": "17:30",
+     "pl": "Anatomia i fizjologia oka",
+     "k": "K",
+     "p": "mgr K. Mańka",
+     "r": "s. 35",
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2026-11-02",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "9:00",
+     "end": "10:30",
+     "pl": "Laboratorium optyki",
+     "k": "LAB",
+     "p": "dr M. Ślęczka",
+     "r": "s. 301",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-15",
+     "start": "9:00",
+     "end": "10:30",
+     "pl": "Laboratorium optyki",
+     "k": "LAB",
+     "p": "dr M. Ślęczka",
+     "r": "s. 301",
+     "post": 0
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.321Z"
  }
 }

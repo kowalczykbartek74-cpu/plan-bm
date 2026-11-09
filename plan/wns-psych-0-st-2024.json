@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-09T22:49:09.359Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
  "groups": {
   "PSYCH3": {
    "odd": [
@@ -695,5 +695,243 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odpracowanie-zajec-z-dr-magdalena-kerestey-kier-psychologia-3-rok/",
+    "title": "Odpracowanie zajęć z dr Magdaleną Kerestey, kier. psychologia, 3 rok",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": " Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-15 10:00 2026-10-29 9:00 108 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 3 medytacja – teoria i praktyka ćwiczenia – Uzasadnienie Zajęcia będą odrobione w dniu: 29.10.20216 od godziny 9.00 do 9.45 oraz 5.11.2026 również od godziny 9.00 do 9.45"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odpracowanie-wykladu-ogolnouczelnianego-medytacja-teoria-i-praktyka-z-dr-magdalena-kerestey/",
+    "title": "Odpracowanie wykładu ogólnouczelnianego „Medytacja – teoria i praktyka” z dr Magdaleną Kerestey",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Szanowni Studenci! Odpracowanie wykładu ogólnouczelnianego „Medytacja – teoria i praktyka” z dr Magdaleną Kerestey za dzień 15.10.2026 odbędzie się w dniu 3.12.2026 o godzinie 17.45, sala 152."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-dr-magdalena-kerestey/",
+    "title": "Odwołanie zajęć z dr Magdaleną Kerestey",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Zajęcia z dr Magdaleną Kerestey zostają odwołane w dniu 15 X 2026 r."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-termu-realizacji-zajec-z-drem-adamem-falewiczem/",
+    "title": "Zmiana termu realizacji zajęć z drem Adamem Falewiczem",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Szanowni Studenci! informacja dotyczy studentów z grup L1, L3 i L5 uczęszczających na zajęcia z przedmiotu „ Diagnoza sprawności poznawczych” . Zajęcia zaplanowane na 16 i 23 października zostaną odrobione w terminach wskazanych poniżej. Na czas odrabiania zajęć proszę o zapisanie się do jednej z trzech nowych grup za pośrednictwem pliku dostępnego do edycji w grupie przedmiotu na MS Teams. Podział ten obowiązuje wyłącznie na potrzeby odrabiania zajęć. Grupa 1: 12 października (poniedziałek), godz. 10.00–11.30, sala 152 – zamiast zajęć z 16 października. 26 października (poniedziałek), godz. 10.00–11.30, sala 21H – zamiast zajęć z 23 października. Grupa 2: 12 października (poniedziałek), godz. 11.45–13.15, sala 152 – zamiast zajęć z 16 października. 28 października (środa), godz. 17.00–18.30, sala 17H – zamiast zajęć z 23 października. Grupa 3: 12 października (poniedziałek), rozpoczęcie o godz. 13.30-15.00, sala 152 – zamiast zajęć z 16 października. 26 października (poniedziałek), rozpoczęcie o godz. 13.30-15.00, sala 21H – zamiast zajęć z 23 października. Jedna lista zapisów obowiązuje na oba odrabiane spotkania – zapis do wybranej grupy dotyczy obu przypisanych jej terminów. Proszę o wybór grupy tak, aby oba spotkania nie kolidowały z ćwiczeniami z „Psychologii osobowości” ani z zajęciami z języka angielskiego."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-drem-adamem-kucharskim-i-terminy-odpracowania-zajec/",
+    "title": "Odwołanie zajęć z drem Adamem Kucharskim i terminy odpracowania zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "Szanowni Studenci !! zajęcia z dr Adamem Kucharskim z przedmiotu: Psychologia rozwoju człowieka, na kier. Pedagogika Przedszkolna i Wczesnoszkolna I Rok, zostają odwołane w dniu 29.10.2026 (4 godziny) i 5 .11. 2026 (4 godziny). Terminy odpracowania zajęć: 26.11 2026 zajęcia od godziny 8:15. do 11:30 (odpracowane 2 godziny od 10.00 do 11.30) 03.12.2026 od 8:15 do 11:30 (odpracowane 4 godziny zajęć) 28.01 2027 od 10:00 do -11:30 (odpracowane 2 godziny zajęć )"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-mgr-agnieszka-malinowska/",
+    "title": "Odwołanie zajęć z mgr Agnieszką Malinowską",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "Szanowni Studenci! Zajęcia w dniu 6 X 2026 z mgr Agnieszką Malinowską zostają odwołane . Termin odpracowania zajęć 8.10.2026r. o godz. 13:30 w sali 116."
+   }
+  ],
+  "zmiany": {
+   "PSYCH3": [
+    {
+     "type": "note",
+     "date": "2026-10-06",
+     "post": 5,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-15",
+     "start": "10:00",
+     "pl": "Medytacja – teoria i praktyka",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-29",
+     "start": "9:00",
+     "end": "10:30",
+     "pl": "Medytacja – teoria i praktyka",
+     "k": "X",
+     "p": "dr M. Kerestey",
+     "r": "s. 108",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 1,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:31:06.851Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T23:20:00.191Z",
  "groups": {
   "FGZDJO1": {
    "odd": [
@@ -1406,7 +1406,7 @@
      "date": "2026-10-15",
      "start": "17:00",
      "end": "18:30",
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
      "r": "s. 221, bud. 6",
@@ -1418,7 +1418,7 @@
      "date": "2026-10-15",
      "start": "18:45",
      "end": "20:15",
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
      "r": "s. 221, bud. 6",
@@ -1428,7 +1428,7 @@
      "type": "cancel",
      "date": "2026-10-21",
      "start": "17:00",
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "moved": true,
      "post": 3,
      "posts": [
@@ -1439,7 +1439,7 @@
      "type": "cancel",
      "date": "2026-10-21",
      "start": "18:45",
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "moved": true,
      "post": 3,
      "posts": [
@@ -1448,6 +1448,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:27.920Z"
+  "updatedAt": "2026-11-09T23:29:59.630Z"
  }
 }

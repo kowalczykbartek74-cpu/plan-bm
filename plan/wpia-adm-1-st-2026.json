@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-09T22:51:41.490Z",
+ "checkedAt": "2026-11-09T23:22:54.646Z",
  "groups": {
   "ADM1": {
    "odd": [
@@ -803,5 +803,304 @@
     }
    ]
   }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ii-ssa-i-st-odrabianie-zajec-z-przedmiotu-instytucje-i-zrodla-prawa-ue-z-dnia-08-10-26-dr-k-slotwinska/",
+    "title": "II SSA I st. – Odrabianie zajęć z przedmiotu Instytucje i źródła prawa UE z dnia 08.10.26 (dr K. Słotwińska)",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Informujemy, że odrabianie zajęć z przedmiotu Instytucje i źródła prawa UE z dnia 08.10.26 odbędzie się dnia 19.01.27 w godzinach 10.45-12.30 sala 119 ul. Narutowicza."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-i-st-i-r-przelozenie-zajec-z-przedmiotu-mikroekonomia-dr-a-lopatka-z-dn-1-12-2026/",
+    "title": "SSA I st. I r. – przełożenie zajęć z przedmiotu Mikroekonomia (dr A. Łopatka) z dn. 1.12.2026",
+    "ym": "2026-11",
+    "pub": "2026-11-03",
+    "text": "Informujemy, że zajęcia z przedmiotu Mikroekonomia z dr A. Łopatką z dnia 1.12.2026 r. zostają przełożone na dzień 20.01.2027 r. (środa) w godzinach 14.00 – 17.15, sala 219 Narutowicza"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-i-st-i-r-grupa-3-odwolanie-cwiczen-z-przedmiotu-podstawy-prawoznawstwa-mgr-m-sowa-w-dn-4-11-2026-r/",
+    "title": "SSA I st. I r. (grupa 3) – odwołanie ćwiczeń z przedmiotu Podstawy prawoznawstwa (mgr M. Sowa) w dn. 4.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-02",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Podstawy prawoznawstwa (grupa 3) z mgr M. Sową w dniu 4.11.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie ustalony wkrótce."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-i-st-i-r-zmiana-sali-w-dn-3-11-2026-r-cwiczenia-z-przedmiotu-podstawy-prawoznawstwa-grupa-1/",
+    "title": "SSA I st. I r. – zmiana sali w dn. 3.11.2026 r. (ćwiczenia z przedmiotu Podstawy prawoznawstwa, grupa 1)",
+    "ym": "2026-10",
+    "pub": "2026-10-28",
+    "text": "Informujemy, że wyjątkowo ćwiczenia z przedmiotu Podstawy prawoznawstwa dla grupy 1 w dniu 3.11.2026 r. odbędą się w sali 222 Narutowicza."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-i-st-i-r-przelozenie-zajec-z-przedmiotu-informatyka-w-administracji-dr-m-szaja-z-dn-28-10-2026-r/",
+    "title": "SSA I st. I r. – przełożenie zajęć z przedmiotu Informatyka w administracji (dr M. Szaja) z dn. 28.10.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-27",
+    "text": "Informujemy, że zajęcia z przedmiotu Informatyka w administracji w dn. 28.10.2026 r. nie odbędą się i zostają przełożone na następujące terminy: grupa 1 – 19.11.2026 r. w godzinach 10.00 – 11.30, s. 17a Narutowicza (sala komputerowa) grupa 2 – 7.12.2026 r. w godzinach 11.00 – 12.30, s. 17a Narutowicza (sala komputerowa) grupa 3 – 19.11.2026 r. w godzinach 15.15 – 16.45, s. 17a Narutowicza (sala komputerowa)"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-i-st-i-r-zmiana-terminu-realizacji-zajec-z-przedmiotu-historia-administracji-dr-hab-m-tkaczuk-prof-us/",
+    "title": "SSA I st. I r. – zmiana terminu realizacji zajęć z przedmiotu Historia administracji (dr hab. M. Tkaczuk, prof. US)",
+    "ym": "2026-10",
+    "pub": "2026-10-01",
+    "text": "Informujemy, że wykład z przedmiotu Historia administracji wyjątkowo w dniu 13.10.2026 r. odbędzie się w bloku 1 godz. (w godzinach 8.15 – 9.00). Wykład w dniu 24.11.2026 r. odbędzie się w wymiarze 2 godzin w godzinach 8.15 – 9.45."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/ssa-i-st-i-r-25-26-termin-egzaminu-z-przedmiotu-elementy-logiki-praktycznej-dla-osob-z-usprawiedliwiona-nieobecnoscia-prof-w-patryas/",
+    "title": "SSA I st. I r. 25-26 termin egzaminu z przedmiotu Elementy logiki praktycznej dla osób z usprawiedliwioną nieobecnością (prof. W. Patryas)",
+    "ym": "2026-09",
+    "pub": "2026-09-18",
+    "text": "Informujemy, że egzamin z przedmiotu Elementy logiki praktycznej dla osób, które uzyskały zgodę na usprawiedliwienie nieobecności odbędzie się 25.09.2026 r. o godzinie 15.30, sala 217 Narutowicza"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/ssa-i-st-i-r-termin-egzaminu-z-przedmiotu-konstytucyjny-system-organow-panstwowych-dr-j-uniejewski-dla-osob-z-usprawiedliwiona-nieobecnoscia/",
+    "title": "SSA I st. I r. – termin egzaminu z przedmiotu Konstytucyjny system organów państwowych (dr J. Uniejewski) dla osób z usprawiedliwioną nieobecnością",
+    "ym": "2026-09",
+    "pub": "2026-09-10",
+    "text": "Informujemy, że osoby, które uzyskały zgodę na usprawiedliwienie terminu nieobecności na egzaminie z przedmiotu Konstytucyjny system organów państwowych mogą przystąpić do egzaminu w dniu 21.09.2026 r. o godzinie 14.00 w gabinecie 403 Narutowicza."
+   }
+  ],
+  "zmiany": {
+   "ADM1": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-09-21",
+     "start": "14:00",
+     "end": "15:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "s. 403",
+     "post": 7
+    },
+    {
+     "type": "extra",
+     "kind": "change",
+     "date": "2026-09-25",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "s. 217",
+     "post": 6
+    },
+    {
+     "type": "note",
+     "date": "2026-10-08",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 5
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-28",
+     "start": "08:15",
+     "pl": "Informatyka w administracji",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-28",
+     "start": "10:00",
+     "pl": "Informatyka w administracji",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-28",
+     "start": "11:45",
+     "pl": "Informatyka w administracji",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-03",
+     "post": 3
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "10:00",
+     "pl": "Podstawy prawoznawstwa",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "14:30",
+     "pl": "Mikroekonomia",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2027-01-19",
+     "post": 0,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:32:06.383Z"
  }
 }
