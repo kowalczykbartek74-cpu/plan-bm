@@ -78,7 +78,8 @@ jobs:
       - name: Komunikaty dziekanatu dla pozostałych roczników (tylko DOS)
         id: dzk
         continue-on-error: true
-        timeout-minutes: 15
+        # Etap 6: wszystkie 8 sekcji DOS; pierwszy przebieg czyta treść ok. 450 wpisów (1 zapytanie/s), potem plan/_dos-wpisy.json
+        timeout-minutes: 25
         run: node scripts/dziekanat.mjs --kierunki
 
       - name: Pliki do kalendarza w telefonie (kalendarz/*.ics)

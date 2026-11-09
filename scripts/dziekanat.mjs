@@ -15,12 +15,15 @@
 // Gdy strona dziekanatu nie odpowiada, skrypt liczy zmiany z wpisów zapisanych przy poprzednim sprawdzeniu.
 // Uruchomienie lokalne bez internetu: node scripts/dziekanat.mjs --offline
 //
+// Bez zapisu: --na-sucho. Roczniki pozostałych wydziałów US (plan/<id>.json z scripts/us/, Etap 6) też idą przy --kierunki:
+// sekcja DOS wydziału z config/zrodla-us.json, wpis → rocznik po kierunku, roku i prowadzącym (scripts/us/dos-dopasuj.mjs).
 // Inne roczniki (pliki kierunki/<id>.json z repo skrot-bm, scripts/kierunek.mjs):  node scripts/dziekanat.mjs --kierunki
 // Plan z plan/<id>.json, grupy z pliku kierunku, tylko komunikaty DOS (bez Teams, gdy plik tak mówi), adres sekcji DOS
 // z pliku kierunku ("dos", gdy zajęcia są w innym budynku) albo z bazy Skrótu (nauka_roczniki_lista → wydzial.dos_url).
 // Bez bazy: adres zapisany w planie przy poprzednim przebiegu.
 // Node 20+, bez zależności.
 import { roczniki } from "./roczniki.mjs";
+import { dopasowanie, rocznikiUS, formularz, formularzDla, nazwisko, norm } from "./us/dos-dopasuj.mjs";
 import fs from "node:fs";
 import https from "node:https";
 import { pathToFileURL } from "node:url";
@@ -31,11 +34,19 @@ const KEEP_FROM = "2026-09";         // starszych wpisów (rok-miesiąc z adresu
 const SLOTS = [["8:15","9:45"],["10:00","11:30"],["12:00","13:30"],["13:45","15:15"],["15:30","17:00"],["17:15","18:45"],["19:00","20:30"]];
 
 // ---------- pobieranie ----------
-function request(url) {
+// Grzeczność wobec uczelni (spec): ≤ 1 zapytanie/s, User-Agent z adresem kontaktowym.
+const UA = "plan-bm (projekt studencki, plany zajec US, 1 zapytanie/s; skrotbm@outlook.com)";
+let nastepne = 0;
+async function request(url) {
+  const czekaj = nastepne - Date.now(); nastepne = Math.max(Date.now(), nastepne) + 1100;
+  if (czekaj > 0) await new Promise(r => setTimeout(r, czekaj));
+  return requestNow(url);
+}
+function requestNow(url) {
   return new Promise((resolve, reject) => {
-    const req = https.get(url, { headers: { "User-Agent": "plan-bm (projekt studencki starosty BM, plan.skrotbm.pl)" }, timeout: 45000 }, res => {
+    const req = https.get(url, { headers: { "User-Agent": UA }, timeout: 45000 }, res => {
       if (res.statusCode === 404) { res.resume(); return resolve(null); }
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) { res.resume(); return resolve(request(new URL(res.headers.location, url).href)); }
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) { res.resume(); return resolve(requestNow(new URL(res.headers.location, url).href)); }
       if (res.statusCode !== 200) { res.resume(); return reject(new Error(`HTTP ${res.statusCode} (${url})`)); }
       let body = "";
       res.setEncoding("utf8");
@@ -85,7 +96,7 @@ const esc = t => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 export function parseList(html, source = SOURCE) {
   const [budynek = "cukrowa", lista = "zajecia-cukrowa"] = new URL(source).pathname.split("/").filter(Boolean);
   const out = [], seen = new Set();
-  const re = new RegExp(`<a\\b[^>]*href="(https?:\\/\\/dos\\.usz\\.edu\\.pl\\/${esc(budynek)}\\/(\\d{4})\\/(\\d{2})\\/[^"#?]+)"[^>]*>([\\s\\S]{1,300}?)<\\/a>`, "gi");
+  const re = new RegExp(`<a\\b[^>]*href="(https?:\\/\\/dos\\.usz\\.edu\\.pl\\/${esc(budynek)}\\/(?:[a-z0-9-]+\\/)?(\\d{4})\\/(\\d{2})\\/[^"#?]+)"[^>]*>([\\s\\S]{1,300}?)<\\/a>`, "gi");
   let m;
   while ((m = re.exec(html))) {
     const url = m[1].replace(/\/?$/, "/");
@@ -146,7 +157,11 @@ export function groupsOf(title, known) {
 }
 
 // Wszystkie daty w tekście (12.11.2026, 3.11.2026 r., 7 października 2026) z pozycjami.
-export function findDates(text, yearHint) {
+// rozsz (roczniki spoza WEFiZ, Etap 6): także „4.11”, „30.X”, „13 XI”, „5th November”, „Nov 3” – rok z roku akademickiego wpisu
+// (yearHint = rok z adresu wpisu, ymHint = miesiąc). BM i WEFiZ czytają daty jak dotąd.
+const RZYM = { I: 1, II: 2, III: 3, IV: 4, V: 5, VI: 6, VII: 7, VIII: 8, IX: 9, X: 10, XI: 11, XII: 12 };
+const EN_M = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+export function findDates(text, yearHint, { rozsz = false, mHint = 10 } = {}) {
   const out = [];
   const num = /(?<![\d.])(\d{1,2})\.(\d{1,2})\.(\d{4}|\d{2}(?!\d))(?:\s?r\.?)?/g;
   let m;
@@ -159,6 +174,16 @@ export function findDates(text, yearHint) {
     const mo = MONTHS.findIndex(p => m[2].toLowerCase().startsWith(p)) + 1;
     const y = m[3] ? +m[3] : yearHint;
     if (mo && y) out.push({ k: `${y}-${pad(mo)}-${pad(+m[1])}`, i: m.index, j: m.index + m[0].length });
+  }
+  if (rozsz) {
+    const start = mHint >= 9 ? yearHint : yearHint - 1, rokM = mo => (mo >= 9 ? start : start + 1);
+    const wolne = (i, j) => !out.some(x => i < x.j && j > x.i);
+    const dodaj = (d, mo, i, j) => { if (d >= 1 && d <= 31 && mo >= 1 && mo <= 12 && wolne(i, j)) out.push({ k: `${rokM(mo)}-${pad(mo)}-${pad(d)}`, i, j }); };
+    for (const m of text.matchAll(/(?<![\d.:])(\d{1,2})\s?\.?\s?(XII|XI|IX|X|VIII|VII|VI|IV|V|III|II|I)(?![\p{L}\d])/gu)) dodaj(+m[1], RZYM[m[2]], m.index, m.index + m[0].length);
+    for (const m of text.matchAll(/(?<![\d.:])(\d{1,2})\.(\d{1,2})\.?(?![\d.:])/g))
+      if (!/godz\S*\s*$|[-–]\s*$/i.test(text.slice(Math.max(0, m.index - 8), m.index))) dodaj(+m[1], +m[2], m.index, m.index + m[0].length);
+    for (const m of text.matchAll(/(?<!\d)(\d{1,2})(?:st|nd|rd|th)?\s+(?:of\s+)?(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\b/gi)) dodaj(+m[1], EN_M.indexOf(m[2].toLowerCase()) + 1, m.index, m.index + m[0].length);
+    for (const m of text.matchAll(/\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?\b/gi)) dodaj(+m[2], EN_M.indexOf(m[1].toLowerCase()) + 1, m.index, m.index + m[0].length);
   }
   return out.sort((a, b) => a.i - b.i);
 }
@@ -188,11 +213,11 @@ function roomIn(s) {
 }
 
 // Tekst komunikatu → lista zdarzeń (bez dopasowania do planu).
-export function readNotice(text, yearHint = 2026) {
-  const dates = findDates(text, yearHint);
+export function readNotice(text, yearHint = 2026, opcje = {}) {
+  const dates = findDates(text, yearHint, opcje);
   const events = [];
   const lower = text.toLowerCase();
-  const isChange = !/odwoł|odrab|odrob/.test(lower) && /odbęd/.test(lower);   // "zajęcia odbędą się o godz. 10:00 w sali 046"
+  const isChange = !/odwoł|odrab|odrob/.test(lower) && /odbęd/.test(lower) && !(opcje.rozsz && /nie\s+odbęd/.test(lower));   // "zajęcia odbędą się o godz. 10:00 w sali 046"
   dates.forEach((dt, n) => {
     // "Dnia 26.10.2026 i 27.10.2026 zostają odwołane…": data połączona spójnikiem z następną dzieli jej opis
     let m = n;
@@ -207,12 +232,14 @@ export function readNotice(text, yearHint = 2026) {
       events.push({ type: "cancel", date: dt.k, starts: allStarts(after.split(/\bna\b/)[0]) });
       return;
     }
-    if (/odwołan\w*\s+(w\s+dniu|dnia)\s*$/i.test(before) || /odwoł/i.test(head)) {
+    if (/odwołan\w*\s+(w\s+dniu|dnia)\s*$/i.test(before) || /odwoł/i.test(head) || (opcje.rozsz && /cancel|nie\s+odbęd|not\s+take\s+place/i.test(head + (/na\s+dzie|przełoż|odrob|odpracow|make-up|moved\s+to/i.test(before) ? "" : before)))) {
       events.push({ type: "cancel", date: dt.k, starts: allStarts(head) });
       return;
     }
     const t = firstTime(after);
-    if (t) {
+    // poza BM: kilka różnych godzin po dacie („grupa 1 – 8.15…, grupa 2 – 13.30…”) = nie zgadujemy jednego terminu odrabiania
+    const wiele = opcje.rozsz && new Set([...after.matchAll(/(\d{1,2})[:.](\d{2})\s*[-–—]\s*\d{1,2}[:.]\d{2}/g)].map(m => +m[1] * 60 + +m[2])).size > 1;
+    if (t && !wiele) {
       const tail = after.slice(t.at, t.at + 90);
       const sub = /grup[ayie]\s*C?\d{3}([ab])\b/i.exec(after.slice(t.at, t.at + 140));
       const subject = text.slice(Math.max(prevJ, dt.i - 90), dt.i);
@@ -263,7 +290,9 @@ function classesOn(plan, cal, group, date) {
 const short = (s, n = 260) => (s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…" : s);
 
 // Wpisy dziekanatu (z treścią) → zmiany dla każdej grupy.
-export function resolve(plan, posts) {
+// opcje (roczniki spoza WEFiZ, Etap 6): dopasuj(post, known) → [{ g, sub, nr?, niska?, prowadzacy? }] zamiast grup z tytułu,
+// rozsz → więcej zapisów dat (findDates). niska pewność = tylko komunikat pod dniem, w którym rocznik ma zajęcia tego prowadzącego.
+export function resolve(plan, posts, opcje = {}) {
   const cal = calendarOf(plan);
   const known = Object.keys(plan.groups || {});
   const out = Object.fromEntries(known.map(g => [g, []]));
@@ -276,10 +305,49 @@ export function resolve(plan, posts) {
   };
 
   posts.forEach((post, pi) => {
-    const text = post.text || post.title;
+    // poza BM tytuł często niesie datę i „odwołany” („BPK II st. 2 rok – odwołany wykład … w dniu 27.10 i 3.11”) → tytuł + treść
+    const text = opcje.rozsz ? `${post.title}. ${post.text || ""}` : post.text || post.title;
     const year = +(post.ym || "2026").slice(0, 4);
-    const events = readNotice(text, year);
-    for (const { g, sub: titleSub } of groupsOf(post.title, known)) {
+    const fd = { rozsz: !!opcje.rozsz, mHint: +(post.ym || "2026-10").slice(5, 7) || 10 };
+    const events = readNotice(text, year, fd);
+    // formularz nieobecności (system uczelni): pozycje z kierunkiem, rokiem, dniem i godziną – dokładnie, bez reszty odczytu
+    const form = opcje.formularz ? opcje.formularz(post) : null;
+    if (form) {
+      for (const g of known) for (const poz of form) {
+        let cands = classesOn(plan, cal, g, poz.zDnia).filter(e => toMin(startOf(e)) === toMin(poz.zGodz));
+        if (poz.nr) cands = cands.filter(e => !e.pg || e.pg.split(":").pop() === poz.nr);
+        // kilka zajęć o tej godzinie: ten sam przedmiot → prowadzący z tytułu wpisu → rodzaj; dalej niejasne = tylko notka
+        for (const zaw of [e => strip(e.pl).includes(strip(poz.przedmiot)) || strip(poz.przedmiot).includes(strip(e.pl)),
+          e => { const n = nazwisko(e.p); return !!n && norm(post.title).includes(n); }, e => e.k === poz.k]) {
+          if (cands.length <= 1) break;
+          const z = cands.filter(zaw); if (z.length) cands = z;
+        }
+        if (cands.length !== 1 && !(cands.length > 1 && cands.every(e => e.pl === cands[0].pl))) { add(g, { type: "note", date: poz.zDnia, post: pi }); continue; }
+        // kilka grup w jednej pozycji (np. „SM-SI.26-11,SM-SI.26-12” o 17:00), a plan ma je po kolei: te same zajęcia tego prowadzącego później tego dnia
+        if (poz.grupy.length > cands.length) {
+          const dalej = classesOn(plan, cal, g, poz.zDnia).filter(e => !cands.includes(e) && e.pl === cands[0].pl && e.p === cands[0].p && toMin(startOf(e)) > toMin(poz.zGodz))
+            .sort((a, b) => toMin(startOf(a)) - toMin(startOf(b)));
+          cands = [...cands, ...dalej.slice(0, poz.grupy.length - cands.length)];
+        }
+        for (const e of cands) add(g, { type: "cancel", date: poz.zDnia, start: startOf(e), pl: e.pl, ...(e.g ? { g: e.g } : {}), ...(poz.naDzien ? { moved: true } : {}), post: pi });
+        if (poz.naDzien) {
+          const e = cands[0], dl = toMin(endOf(e)) - toMin(startOf(e));
+          add(g, { type: "extra", kind: "makeup", date: poz.naDzien, start: plusMin(poz.naGodz, 0), end: plusMin(poz.naGodz, dl), pl: e.pl, ...(e.en ? { en: e.en } : {}), k: e.k || poz.k,
+            ...(e.p ? { p: e.p } : {}), ...(poz.sala ? { r: /^\d/.test(poz.sala) ? "s. " + poz.sala : poz.sala } : {}), ...(e.g ? { g: e.g } : {}), post: pi });
+        }
+      }
+      return;
+    }
+    const cele = opcje.dopasuj ? opcje.dopasuj(post, known) : groupsOf(post.title, known);
+    for (const { g, sub: titleSub, nr, niska, prowadzacy } of cele) {
+      if (niska) {
+        // nie zgadujemy zajęć: oryginał wpisu jako notka pod dniem, gdy tego dnia są zajęcia prowadzącego (albo jakiekolwiek, gdy wpis nie podaje prowadzącego)
+        for (const dt of findDates(text, year, fd)) {
+          const tego = classesOn(plan, cal, g, dt.k).filter(e => !prowadzacy?.length || prowadzacy.some(p => (e.p || "").includes(p)));
+          if (tego.length) add(g, { type: "note", date: dt.k, post: pi, niska: true });
+        }
+        continue;
+      }
       const all = ["odd", "even"].flatMap(w => plan.groups[g][w] || []);
       const lecturers = [...new Set(all.map(e => e.p).filter(Boolean))].filter(p => has(text, surnameStem(p)));
       const subjects = [...new Set(all.map(e => e.pl).filter(pl => pl && pl !== "Odrabianie zajęć"))]
@@ -289,7 +357,7 @@ export function resolve(plan, posts) {
 
       // Komunikat bez daty ("The classes are cancelled because I'm at the conference"):
       // odwołane są najbliższe zajęcia tego prowadzącego od dnia publikacji wpisu.
-      if (!findDates(text, year).length && post.pub && lecturers.length && /odwoł|cancel/i.test(text)) {
+      if (!findDates(text, year, fd).length && post.pub && lecturers.length && /odwoł|cancel/i.test(text)) {
         const onlyLecture = /\b(lecture|wykład)/i.test(text) && !/\bclasses\b|ćwicz|zajęcia/i.test(text);
         const start = new Date(post.pub + "T12:00:00Z");
         for (let i = 0; i <= 14; i++) {
@@ -305,6 +373,7 @@ export function resolve(plan, posts) {
       for (const ev of events.filter(e => e.type === "cancel")) {
         let cands = classesOn(plan, cal, g, ev.date).filter(e => e.k !== "X");
         if (titleSub) cands = cands.filter(e => !e.g || e.g === titleSub);
+        if (nr) cands = cands.filter(e => !e.pg || String(nr).split(",").includes(e.pg.split(":").pop()));
         if (ev.starts.length) cands = cands.filter(e => ev.starts.includes(startOf(e)));
         if (lecturers.length) cands = cands.filter(e => lecturers.includes(e.p));
         else if (subjects.length) cands = cands.filter(e => subjects.includes(e.pl));
@@ -349,7 +418,7 @@ export function resolve(plan, posts) {
       }
       // wpis dla grupy bez żadnej daty, którą umiemy przypiąć (np. "zmiana w planie od 26.10") → komunikat w tym dniu
       if (!matched.size) {
-        const ds = findDates(text, year);
+        const ds = findDates(text, year, fd);
         if (ds.length) add(g, { type: "note", date: ds[0].k, post: pi });
       }
     }
@@ -420,7 +489,19 @@ export function mergeTeams(posts, zmiany, teams) {
 }
 
 // ---------- główny przebieg ----------
-async function fetchPosts(known, old, source = SOURCE) {
+// Pamięć treści wpisów DOS dla roczników US (Etap 6): wpisy wszystkich sekcji od KEEP_FROM, odświeżane raz na PAMIEC_H godzin.
+const PAMIEC_PLIK = "plan/_dos-wpisy.json", PAMIEC_H = 24;
+const PAMIEC = { dane: {}, zmiana: false, wczytana: false };
+function wczytajPamiec() {
+  if (PAMIEC.wczytana) return; PAMIEC.wczytana = true;
+  try { PAMIEC.dane = JSON.parse(fs.readFileSync(PAMIEC_PLIK, "utf8")).wpisy || {}; } catch { PAMIEC.dane = {}; }
+}
+function zapiszPamiec() {
+  if (!PAMIEC.zmiana || NA_SUCHO) return;
+  const wpisy = Object.fromEntries(Object.entries(PAMIEC.dane).filter(([, v]) => v.ym >= KEEP_FROM).sort(([a], [b]) => a.localeCompare(b)));
+  fs.writeFileSync(PAMIEC_PLIK, JSON.stringify({ opis: "Treść wpisów DOS dla roczników US (scripts/dziekanat.mjs --kierunki): znany wpis pobierany ponownie raz na dobę, nie co godzinę.", wpisy }, null, 1) + "\n");
+}
+async function fetchPosts(known, old, source = SOURCE, K = BM) {
   const relevant = [];
   let url = source, pages = 0, total = 0;
   while (url && pages < MAX_PAGES) {
@@ -429,7 +510,7 @@ async function fetchPosts(known, old, source = SOURCE) {
     const { posts, older } = parseList(html, url);
     pages++; total += posts.length;
     if (pages === 1 && posts.length < 3) throw new Error("Na stronie dziekanatu nie ma listy wpisów (zmienił się wygląd strony?)");
-    for (const p of posts) if (p.ym >= KEEP_FROM && groupsOf(p.title, known).length) relevant.push(p);
+    for (const p of posts) if (p.ym >= KEEP_FROM && (K.wTytule ? K.wTytule(p) : groupsOf(p.title, known).length)) relevant.push(p);
     if (!posts.length || posts.every(p => p.ym < KEEP_FROM)) break;
     url = older ? new URL(older, url).href : null;
   }
@@ -437,6 +518,9 @@ async function fetchPosts(known, old, source = SOURCE) {
   const cache = new Map((old?.posts || []).map(p => [p.url, p]));
   for (const p of relevant) {
     const prev = cache.get(p.url);
+    // roczniki US: treść znanego wpisu z plan/_dos-wpisy.json, gdy sprawdzona w ciągu doby (co godzinę tylko listy i nowe wpisy)
+    const zap = K.pamiec ? PAMIEC.dane[p.url] : null;
+    if (zap && Date.now() - Date.parse(zap.t) < PAMIEC_H * 36e5) { p.text = zap.text; p.pub = zap.pub || null; continue; }
     try {
       const html = await get(p.url);
       p.text = html ? parsePost(html) : "";
@@ -447,6 +531,8 @@ async function fetchPosts(known, old, source = SOURCE) {
     }
     if (!p.pub && prev?.pub) p.pub = prev.pub;
     if (!p.text && prev?.text) p.text = prev.text;
+    if (!p.text && zap?.text) { p.text = zap.text; p.pub ||= zap.pub || null; }
+    if (K.pamiec && p.text) { PAMIEC.dane[p.url] = { ym: p.ym, ...(p.pub ? { pub: p.pub } : {}), t: new Date().toISOString(), text: p.text }; PAMIEC.zmiana = true; }
   }
   return relevant;
 }
@@ -493,6 +579,23 @@ export function zKonfiguracji(c) {
   };
 }
 
+// Rocznik US spoza WEFiZ (Etap 6): wszystkie grupy planu, sekcja DOS wydziału, dopasowanie po kierunku/roku/prowadzącym.
+export function zUS(c) {
+  if (!c?.id || c.plik !== `plan/${c.id}.json` || !/^https:\/\//.test(c.dos || "")) throw new Error(`Zła konfiguracja rocznika ${c?.id || "?"}`);
+  return {
+    plik: c.plik, html: false, teams: false, bezMaila: true, opis: `${c.rok}. roku ${c.kierunek.pl} (${c.wydzial.kod})`, grupy: () => true, source: () => Promise.resolve(c.dos),
+    zPlanem: plan => {
+      const m = dopasowanie(c, plan);
+      const dopasuj = (post, known) => { const x = m(post); return x ? known.map(g => ({ g, sub: "", ...(x.nr ? { nr: x.nr } : {}), niska: x.pewnosc === "niska", prowadzacy: x.prowadzacy })) : []; };
+      const naszFormularz = formularzDla(c);
+      const form = post => { const f = formularz(post.text); return f ? f.filter(naszFormularz) : null; };
+      // treść każdego wpisu sekcji (formularz nie ma kierunku w tytule); pobierana raz na sekcję (CACHE), w pliku rocznika tylko wpisy, które go dotyczą
+      return { pamiec: true, wTytule: () => true, istotny: p => { const f = form(p); return f ? f.length > 0 : !!m(p); }, opcje: { dopasuj, formularz: form, rozsz: true } };
+    },
+  };
+}
+
+const NA_SUCHO = process.argv.includes("--na-sucho");   // nic nie zapisuje (sprawdzenie na żywych danych)
 async function main(K = BM) {
   const offline = process.argv.includes("--offline");
   const plan = JSON.parse(fs.readFileSync(K.plik, "utf8"));
@@ -504,11 +607,16 @@ async function main(K = BM) {
   const source = offline ? old?.source || SOURCE : await K.source(oldDz);
   if (offline || !source) posts = oldDz?.posts || [];
   else {
-    try { posts = await fetchPosts(known, oldDz, source); }
+    try { posts = await fetchPosts(known, oldDz, source, K.zPlanem ? K.zPlanem(plan) : K); }
     catch (e) { fetchError = e; posts = oldDz?.posts || []; console.log(`Strona dziekanatu nie odpowiada (${e.message}). Liczę zmiany z zapisanych wpisów.`); }
   }
   posts = posts.map(({ url, title, ym, pub, text }) => ({ url, title, ym, ...(pub ? { pub } : {}), text: text || "" }));
-  const zmiany = resolve(plan, posts);
+  if (K.zPlanem) {
+    const zp = K.zPlanem(plan);
+    // treść zaczynająca się od nagłówka tabeli („Lp. Kierunek…”) → na stronie notka zaczyna się od tytułu wpisu
+    posts = posts.filter(zp.istotny).map(p => (/^\s*Lp\./.test(p.text) && !p.text.startsWith(p.title) ? { ...p, text: `${p.title} — ${p.text}` } : p));
+  }
+  const zmiany = resolve(plan, posts, K.zPlanem ? K.zPlanem(plan).opcje : {});
   const teams = K.teams ? await fetchTeams(old, offline) : [];
   const allPosts = mergeTeams(posts, zmiany, teams);
   if (teams.length) console.log(`Odwołania z Teams (zatwierdzone w Skrócie BM): ${teams.length}.`);
@@ -518,7 +626,7 @@ async function main(K = BM) {
   if (!same) {
     next.updatedAt = new Date().toISOString();
     plan.dziekanat = next;
-    writeData(plan, K);
+    if (!NA_SUCHO) writeData(plan, K);
   }
 
   // Nowe wpisy dla naszych grup → mail (Issue na GitHubie)
@@ -529,7 +637,7 @@ async function main(K = BM) {
     const items = zmiany[g].filter(it => fresh.includes(posts[it.post]));
     if (items.length) lines.push(`### ${g}\n${items.map(it => describe(it, posts)).join("\n")}`);
   }
-  if (fresh.length) {
+  if (fresh.length && !NA_SUCHO && !K.bezMaila) {   // roczniki US (Etap 6): komunikaty tylko na stronie, bez maila do starosty BM
     const body = `Na stronie dziekanatu pojawiły się nowe komunikaty dla ${K.opis}.\n\n${lines.join("\n\n") || "_Nie udało się ich przypiąć do konkretnych zajęć, zajrzyj do wpisów._"}\n\n` +
       `Wpisy:\n${fresh.map(p => `- [${p.title}](${p.url}): ${short(p.text || "", 300)}`).join("\n")}\n\n` +
       `Plan na plan.skrotbm.pl już to pokazuje. Sprawdź, czy dobrze to odczytał.`;
@@ -541,12 +649,17 @@ async function main(K = BM) {
     console.log(`\n${g}:`);
     for (const it of zmiany[g]) console.log("  " + describe(it, posts));
   }
-  console.log(same ? "\nBez zmian w komunikatach." : `\nZapisano komunikaty dziekanatu w ${K.plik}.`);
+  console.log(same ? "\nBez zmian w komunikatach." : NA_SUCHO ? `\nNa sucho: zmiany dla ${K.plik} nie zapisane.` : `\nZapisano komunikaty dziekanatu w ${K.plik}.`);
   if (fetchError) {
     if (process.env.GITHUB_ACTIONS) console.log(`::warning title=Strona dziekanatu nie odpowiada::${fetchError.message}`);
   }
   return { changed: !same, fresh: fresh.length > 0 };
 }
+
+export const mainDla = (K) => main(K);
+export const _wczytaj = () => wczytajPamiec(), _zapisz = () => zapiszPamiec(), _pobierz = (u) => get(u);   // testy i sprawdzenia ręczne
+// wszystkie wpisy sekcji od KEEP_FROM z treścią (próbki do testów, scripts/fixtures/dos/)
+export const wszystkiePosty = (source) => fetchPosts([], null, source, { wTytule: () => true });
 
 async function run() {
   let wynik = { changed: false, fresh: false }, failed = false;
@@ -559,6 +672,14 @@ async function run() {
       try { const w = await main(zKonfiguracji(c)); wynik = { changed: wynik.changed || w.changed, fresh: wynik.fresh || w.fresh }; }
       catch (e) { console.error("BŁĄD:", c.id, e.message); failed = true; }
     }
+    // pozostałe wydziały US (plan/<id>.json z importerów scripts/us/), Etap 6
+    wczytajPamiec();
+    for (const c of rocznikiUS()) {
+      console.log(`\n== ${c.id} ==`);
+      try { const w = await main(zUS(c)); wynik = { changed: wynik.changed || w.changed, fresh: wynik.fresh || w.fresh }; }
+      catch (e) { console.error("BŁĄD:", c.id, e.message); failed = true; }
+    }
+    zapiszPamiec();
   }
   if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `changed=${wynik.changed}\nfresh=${wynik.fresh}\n`);
   if (failed) throw new Error("Nie udało się odczytać komunikatów dla części roczników.");
