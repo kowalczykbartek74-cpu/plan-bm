@@ -265,7 +265,7 @@ export async function importuj({ wydzial, zrodla, kierunki, pobieracz, log = () 
     const r = { id: rr.id, kod: kodStrony(k.kod, rr.stopien, rr.tryb, rr.nabor), kierunek: { pl: k.pl, en: k.en || k.pl }, stopien: rr.stopien, tryb: rr.tryb, rok: rr.rok,
       groups, source: z.url, wersja: z.plik, sha256: f.sha256, rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
     const q = await przezKolejke(r, { wydzial: wydzial.skrot, naSucho, log });
-    if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups });
+    if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups, ...(q.odRazu ? { kolejka: { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad, odRazu: true } } : {}) });
     else {
       const kolejka = { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad };
       // nowa wersja czeka, a wcześniejsza jest zatwierdzona → na stronie zostaje zatwierdzona (z jej znacznikiem wersji)

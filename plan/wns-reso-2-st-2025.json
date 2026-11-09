@@ -1,0 +1,487 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/Reso-II-14.pdf",
+ "wersja": "Reso-II-14.pdf",
+ "sha256": "35bc10046aa4d338a2502ebabb00b63cc9e8ced629b91ee7ef77e6a4832f65e9",
+ "kierunek": "Pedagogika resocjalizacyjna",
+ "kierunekEn": "Rehabilitation Pedagogy",
+ "id": "wns-reso-2-st-2025",
+ "kod": "resom25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "RESO2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr E. Stefanowska",
+     "r": "s. 109 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "pl": "Komunikacja społeczna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Linka",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Koncepcje i metody kształcenia całożyciowego",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr P. Wężniejewska",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "n": "zaj w g. 11:45 – 15:45",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Projekt profilaktyczno-resocjalizacyjny",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:45",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Poradnictwo socjalne w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Linka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 12:35",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Systemy resocjalizacyjne w Polsce i na świecie",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr P. Popek",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Koncepcje i metody kształcenia całożyciowego",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr hab. J. Moroz",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 14:15",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr hab. H. Kupiec, prof."
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Superwizja i profilaktyka wypalenia zawodowego",
+     "k": "W",
+     "time": [
+      "13:25",
+      "16:50"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Arteterapia",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. dr hab. Z. Romańczuk",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Praktyka zawodowa",
+     "k": "X",
+     "time": [
+      "10:00",
+      "15:00"
+     ],
+     "p": "dr M. Zięciak"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr E. Stefanowska",
+     "r": "s. 109 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "pl": "Komunikacja społeczna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Linka",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Koncepcje i metody kształcenia całożyciowego",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr P. Wężniejewska",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "n": "zaj w g. 11:45 – 15:45",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Projekt profilaktyczno-resocjalizacyjny",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:45",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Poradnictwo socjalne w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Linka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 12:35",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Systemy resocjalizacyjne w Polsce i na świecie",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr P. Popek",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Koncepcje i metody kształcenia całożyciowego",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr hab. J. Moroz",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 14:15",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr hab. H. Kupiec, prof."
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Superwizja i profilaktyka wypalenia zawodowego",
+     "k": "W",
+     "time": [
+      "13:25",
+      "16:50"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Arteterapia",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. dr hab. Z. Romańczuk",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Praktyka zawodowa",
+     "k": "X",
+     "time": [
+      "10:00",
+      "15:00"
+     ],
+     "p": "dr M. Zięciak"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "source": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+ "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
+ "sha256": "26491ec1beead982d475b8148e7badea83ebe6451c0133b91332a33a498f7b42",
+ "kierunek": "Nauki o rodzinie — doradztwo, coaching, mediacje",
+ "kierunekEn": "Family Studies – Counselling, Coaching, Mediation",
+ "id": "wt-nor-2-st-2025",
+ "kod": "norm25",
+ "wydzial": "WT",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:39:50.382Z",
+ "checkedAt": "2026-11-09T22:52:36.003Z",
+ "groups": {
+  "NOR2": {
+   "odd": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Proces coachingu",
+     "k": "X",
+     "p": "Dr Dominika Muńko",
+     "r": "s. 306",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Proces coachingu",
+     "k": "X",
+     "p": "Dr Dominika Muńko",
+     "r": "s. 306"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wybrane elementy naprotechnologii",
+     "k": "X",
+     "p": "Dr Iwona Rawicka",
+     "r": "s. 201a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "Podstawy psychoterapii",
+     "k": "X",
+     "p": "Dr hab. Marta Komorowska-Pudło",
+     "r": "s. 307",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Mirosław Mikołajczyk",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Mediacje cywilne i rodzinne",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Łuszczek",
+     "r": "s. 301"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Etyka zawodu doradcy, coacha i mediatora",
+     "k": "X",
+     "p": "Dr Anna Janiszewska",
+     "r": "s. 201a",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Psychologiczne aspekty doradztwa… / Metody diagnozowania środowiska rodzinnego",
+     "k": "W",
+     "p": "Dr Igor Kozak",
+     "r": "s. 306",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "W",
+     "n": "zgodnie z dokonanym wyborem"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Proces coachingu",
+     "k": "X",
+     "p": "Dr Dominika Muńko",
+     "r": "s. 306",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Proces coachingu",
+     "k": "X",
+     "p": "Dr Dominika Muńko",
+     "r": "s. 306"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wybrane elementy naprotechnologii",
+     "k": "X",
+     "p": "Dr Iwona Rawicka",
+     "r": "s. 201a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "14:15"
+     ],
+     "pl": "Podstawy psychoterapii",
+     "k": "X",
+     "p": "Dr hab. Marta Komorowska-Pudło",
+     "r": "s. 307",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Mirosław Mikołajczyk",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Mediacje cywilne i rodzinne",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Łuszczek",
+     "r": "s. 301"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Etyka zawodu doradcy, coacha i mediatora",
+     "k": "X",
+     "p": "Dr Anna Janiszewska",
+     "r": "s. 201a",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Psychologiczne aspekty doradztwa… / Metody diagnozowania środowiska rodzinnego",
+     "k": "W",
+     "p": "Dr Igor Kozak",
+     "r": "s. 306",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "W",
+     "n": "zgodnie z dokonanym wyborem"
+    }
+   ]
+  }
+ }
+}

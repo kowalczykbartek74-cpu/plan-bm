@@ -1,0 +1,1267 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (16 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Bezpieczeństwo wewnętrzne",
+ "kierunekEn": "Internal Security",
+ "id": "wns-bw-1-nst-2026",
+ "kod": "bwn26",
+ "wydzial": "WNS",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "BW1": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Bezpieczeństwo i higiena pracy",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 1hj31zz",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Nauka o państwie i prawie",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: v8dlkra",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Nauka o państwie i prawie",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: v8dlkra",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Administracja publiczna",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr M. Szulc",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: wnkr1us",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Bezpieczeństwo i higiena pracy",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 1hj31zz",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Nauka o państwie i prawie",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: v8dlkra",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Socjologia",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr Ż. Stasieniuk",
+     "r": "s. 239",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "prof. I. Ramik-Mażewska",
+     "r": "s. 152",
+     "n": "9.00-9.30 - spotkanie z Dziekanem WNS prof. I. Ramik-Mażewska s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr R. Zych",
+     "r": "s. 114",
+     "n": "9.30-10.00 - spotkanie z opiekunem roku dr R. Zych s.114",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo a ochrona środowiska naturalnego człowieka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "prof. M. Myśliwy",
+     "r": "s. 153",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr M. Mastalerz",
+     "r": "s. 009",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Najnowsza historia polityczna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "prof. M. Siedziako",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Najnowsza historia polityczna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. M. Siedziako",
+     "r": "s. 114",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Socjologia",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr Ż. Stasieniuk",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Socjologia",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr Ż. Stasieniuk",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo a ochrona środowiska naturalnego człowieka",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "prof. M. Myśliwy",
+     "r": "s. 239",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo i higiena pracy",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 1hj31zz",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "pg": "gr:11",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr M. Mastalerz",
+     "r": "s. 009",
+     "pg": "gr:11",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo a ochrona środowiska naturalnego człowieka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. M. Myśliwy",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Nauka o państwie i prawie",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: v8dlkra",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "pg": "gr:11",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Najnowsza historia polityczna",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. M. Siedziako",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: n0no8rz",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Najnowsza historia polityczna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "prof. M. Siedziako",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Bezpieczeństwo i higiena pracy",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 1hj31zz",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Nauka o państwie i prawie",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: v8dlkra",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Nauka o państwie i prawie",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: v8dlkra",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Administracja publiczna",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr M. Szulc",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: wnkr1us",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Bezpieczeństwo i higiena pracy",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 1hj31zz",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Nauka o państwie i prawie",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: v8dlkra",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Socjologia",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr Ż. Stasieniuk",
+     "r": "s. 239",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "prof. I. Ramik-Mażewska",
+     "r": "s. 152",
+     "n": "9.00-9.30 - spotkanie z Dziekanem WNS prof. I. Ramik-Mażewska s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr R. Zych",
+     "r": "s. 114",
+     "n": "9.30-10.00 - spotkanie z opiekunem roku dr R. Zych s.114",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo a ochrona środowiska naturalnego człowieka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "prof. M. Myśliwy",
+     "r": "s. 153",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr M. Mastalerz",
+     "r": "s. 009",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Najnowsza historia polityczna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "prof. M. Siedziako",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Najnowsza historia polityczna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. M. Siedziako",
+     "r": "s. 114",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Socjologia",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr Ż. Stasieniuk",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Socjologia",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr Ż. Stasieniuk",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo a ochrona środowiska naturalnego człowieka",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "prof. M. Myśliwy",
+     "r": "s. 239",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo i higiena pracy",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 1hj31zz",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "pg": "gr:11",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr M. Mastalerz",
+     "r": "s. 009",
+     "pg": "gr:11",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo a ochrona środowiska naturalnego człowieka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. M. Myśliwy",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Nauka o państwie i prawie",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: v8dlkra",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "pg": "gr:11",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Najnowsza historia polityczna",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. M. Siedziako",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: n0no8rz",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Najnowsza historia polityczna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "prof. M. Siedziako",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

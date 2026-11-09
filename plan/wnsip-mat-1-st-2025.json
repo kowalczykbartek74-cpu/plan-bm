@@ -1,0 +1,747 @@
+{
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-2-rok-akt.-16.10.pdf",
+ "wersja": "2026-10-16",
+ "sha256": "6efc1955d4196ae318c4d05b682fe9b864ac1766581efe6c898ee7b68a8999f2",
+ "kierunek": "Matematyka",
+ "kierunekEn": "Mathematics",
+ "id": "wnsip-mat-1-st-2025",
+ "kod": "mat25",
+ "wydzial": "WNŚiP",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:37:44.669Z",
+ "checkedAt": "2026-11-09T22:50:40.599Z",
+ "groups": {
+  "MAT2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Analiza matematyczna 2",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. F. Prus-Wiśniowski, prof. US",
+     "r": "s. 210"
+    },
+    {
+     "d": 0,
+     "pl": "Geometria analityczna",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr D. Kędzierski",
+     "r": "s. 209"
+    },
+    {
+     "d": 0,
+     "pl": "Geometria analityczna",
+     "k": "K",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr D. Kędzierski",
+     "r": "s. 209"
+    },
+    {
+     "d": 0,
+     "pl": "Spec. MK Programowanie 1",
+     "k": "LAB",
+     "time": [
+      "14:20",
+      "16:50"
+     ],
+     "p": "mgr M. Słomiany",
+     "r": "s. 207",
+     "dates": [
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Spec. KPdWZN Emisja głosu",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "prof. dr hab. L. Mariak Kampus Piastów",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Analiza matematyczna 2",
+     "k": "K",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr A. Kowalski",
+     "r": "s. 305"
+    },
+    {
+     "d": 1,
+     "pl": "Spec. MK Programowanie liniowe i teoria gier",
+     "k": "W",
+     "time": [
+      "14:20",
+      "15:05"
+     ],
+     "p": "dr W. Bondarewicz",
+     "r": "s. 321"
+    },
+    {
+     "d": 1,
+     "pl": "Programowanie liniowe i teoria gier",
+     "k": "K",
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "p": "dr W. Bondarewicz",
+     "r": "s. 321"
+    },
+    {
+     "d": 1,
+     "pl": "Spec. KPdWZN 15:45 - 19:00 Psychologia ogólna",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:35"
+     ],
+     "p": "mgr M. Cieśluk",
+     "r": "s. 104 ul. Mickiewicza 16",
+     "n": "(ostatnie zajęcia 15:45 - 18:15)",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Spec. KPdWZN 15:45 - 20:30 Psychologia ogólna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "20:20"
+     ],
+     "p": "dr A. Chilman",
+     "r": "s. 104 ul. Mickiewicza 16",
+     "dates": [
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Spec. MK Programowanie 1",
+     "k": "LAB",
+     "time": [
+      "16:05",
+      "18:35"
+     ],
+     "p": "mgr M. Słomiany",
+     "r": "s. 207",
+     "dates": [
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Spec. KPdWZN Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr Z. Kuczyńska",
+     "r": "s. 210",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Rachunek prawdopodobieństwa",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr A. Wiśniewski",
+     "r": "s. 210"
+    },
+    {
+     "d": 2,
+     "pl": "Analiza matematyczna 2",
+     "k": "K",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr A. Kowalski",
+     "r": "s. 321"
+    },
+    {
+     "d": 2,
+     "pl": "Algebra 2",
+     "k": "W",
+     "time": [
+      "14:20",
+      "16:00"
+     ],
+     "p": "dr hab. O. Bogopolskiy, prof. US",
+     "r": "s. 210",
+     "dates": [
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Algebra 2",
+     "k": "K",
+     "time": [
+      "16:05",
+      "17:45"
+     ],
+     "p": "dr hab. O. Bogopolskiy, prof. US",
+     "r": "s. 210",
+     "dates": [
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Spec. KPdWZN Pedagogika ogólna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr Z. Kuczyńska",
+     "r": "s. 212"
+    },
+    {
+     "d": 3,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "p": "mgr I. Niedzielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "pl": "Język niemiecki",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "p": "mgr M.Kisiel - Spychała",
+     "r": "s. 107"
+    },
+    {
+     "d": 3,
+     "pl": "Algebra 2",
+     "k": "W",
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "p": "dr hab. O. Bogopolskiy, prof. US",
+     "r": "s. 212",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Algebra 2",
+     "k": "K",
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "p": "dr hab. O. Bogopolskiy, prof. US",
+     "r": "s. 212",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "time": [
+      "08:00",
+      "09:30"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Rachunek prawdopodobieństwa",
+     "k": "K",
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "p": "dr A. Wiśniewski",
+     "r": "s. 210"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Analiza matematyczna 2",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. F. Prus-Wiśniowski, prof. US",
+     "r": "s. 210"
+    },
+    {
+     "d": 0,
+     "pl": "Geometria analityczna",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr D. Kędzierski",
+     "r": "s. 209"
+    },
+    {
+     "d": 0,
+     "pl": "Geometria analityczna",
+     "k": "K",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr D. Kędzierski",
+     "r": "s. 209"
+    },
+    {
+     "d": 0,
+     "pl": "Spec. MK Programowanie 1",
+     "k": "LAB",
+     "time": [
+      "14:20",
+      "16:50"
+     ],
+     "p": "mgr M. Słomiany",
+     "r": "s. 207",
+     "dates": [
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Spec. KPdWZN Emisja głosu",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "prof. dr hab. L. Mariak Kampus Piastów",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Analiza matematyczna 2",
+     "k": "K",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr A. Kowalski",
+     "r": "s. 305"
+    },
+    {
+     "d": 1,
+     "pl": "Spec. MK Programowanie liniowe i teoria gier",
+     "k": "W",
+     "time": [
+      "14:20",
+      "15:05"
+     ],
+     "p": "dr W. Bondarewicz",
+     "r": "s. 321"
+    },
+    {
+     "d": 1,
+     "pl": "Programowanie liniowe i teoria gier",
+     "k": "K",
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "p": "dr W. Bondarewicz",
+     "r": "s. 321"
+    },
+    {
+     "d": 1,
+     "pl": "Spec. KPdWZN 15:45 - 19:00 Psychologia ogólna",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:35"
+     ],
+     "p": "mgr M. Cieśluk",
+     "r": "s. 104 ul. Mickiewicza 16",
+     "n": "(ostatnie zajęcia 15:45 - 18:15)",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Spec. KPdWZN 15:45 - 20:30 Psychologia ogólna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "20:20"
+     ],
+     "p": "dr A. Chilman",
+     "r": "s. 104 ul. Mickiewicza 16",
+     "dates": [
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Spec. MK Programowanie 1",
+     "k": "LAB",
+     "time": [
+      "16:05",
+      "18:35"
+     ],
+     "p": "mgr M. Słomiany",
+     "r": "s. 207",
+     "dates": [
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Spec. KPdWZN Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr Z. Kuczyńska",
+     "r": "s. 210",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Rachunek prawdopodobieństwa",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr A. Wiśniewski",
+     "r": "s. 210"
+    },
+    {
+     "d": 2,
+     "pl": "Analiza matematyczna 2",
+     "k": "K",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr A. Kowalski",
+     "r": "s. 321"
+    },
+    {
+     "d": 2,
+     "pl": "Algebra 2",
+     "k": "W",
+     "time": [
+      "14:20",
+      "16:00"
+     ],
+     "p": "dr hab. O. Bogopolskiy, prof. US",
+     "r": "s. 210",
+     "dates": [
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Algebra 2",
+     "k": "K",
+     "time": [
+      "16:05",
+      "17:45"
+     ],
+     "p": "dr hab. O. Bogopolskiy, prof. US",
+     "r": "s. 210",
+     "dates": [
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Spec. KPdWZN Pedagogika ogólna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr Z. Kuczyńska",
+     "r": "s. 212"
+    },
+    {
+     "d": 3,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "p": "mgr I. Niedzielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "pl": "Język niemiecki",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "p": "mgr M.Kisiel - Spychała",
+     "r": "s. 107"
+    },
+    {
+     "d": 3,
+     "pl": "Algebra 2",
+     "k": "W",
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "p": "dr hab. O. Bogopolskiy, prof. US",
+     "r": "s. 212",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Algebra 2",
+     "k": "K",
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "p": "dr hab. O. Bogopolskiy, prof. US",
+     "r": "s. 212",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "time": [
+      "08:00",
+      "09:30"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Rachunek prawdopodobieństwa",
+     "k": "K",
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "p": "dr A. Wiśniewski",
+     "r": "s. 210"
+    }
+   ]
+  }
+ }
+}

@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
- "wersja": "2026-11-03",
- "sha256": "c6fd7eeb76611508314dd383a4f1581d3730adf9befaaeae28708619380a8d6b",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-09-XI-2026.xlsx",
+ "wersja": "2026-11-09",
+ "sha256": "c0886a6c4c6d0e66586c8230a1d0ce7d8e0cc619dc454937f05705834414e311",
  "kierunek": "Dziennikarstwo i komunikacja społeczna",
  "kierunekEn": "Journalism and Social Communication",
  "id": "wh-diks-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "DIKS3": {
    "odd": [
@@ -23,7 +23,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "contemporary journalism workshop",
+     "pl": "Contemporary journalism workshop",
      "k": "CW",
      "p": "mgr Anna Ronewicz",
      "r": "s. 219",
@@ -35,7 +35,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dziennikarstwo muzyczne",
+     "pl": "Dziennikarstwo muzyczne",
      "k": "K",
      "p": "dr Artur Trudzik",
      "r": "s. 220",
@@ -69,7 +69,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Magdalena Schneider-Mikołajczyk",
      "r": "s. 218",
@@ -81,7 +81,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Justyna Stankiewicz-Rycielska",
      "r": "s. 219",
@@ -93,7 +93,7 @@
       "15:30",
       "16:45"
      ],
-     "pl": "język niemiecki zaj.",
+     "pl": "Język niemiecki zaj.",
      "k": "CW",
      "p": "dr Frithjof Strauss",
      "r": "s. 115",
@@ -105,7 +105,7 @@
       "17:15",
       "18:30"
      ],
-     "pl": "eseistyka – warsztaty",
+     "pl": "Eseistyka – warsztaty",
      "k": "K",
      "p": "prof. dr hab. Inga Iwasiów",
      "r": "s. 319",
@@ -117,7 +117,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "twórczość i odbiorca w sieci",
+     "pl": "Twórczość i odbiorca w sieci",
      "k": "CW",
      "p": "dr Rafał Sidorowicz",
      "r": "s. 1",
@@ -140,7 +140,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "teoria blogu",
+     "pl": "Teoria blogu",
      "k": "W",
      "p": "dr Rafał Sidorowicz",
      "r": "s. 219",
@@ -159,7 +159,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe s",
+     "pl": "Seminarium dyplomowe s",
      "k": "S",
      "p": "dr Barbara Popiel-Kobielska, prof. dr hab. Andrzej Skrendo",
      "r": "s. 301, gab. 210"
@@ -170,7 +170,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "etyczne i pragmatyczne aspekty krytyki",
+     "pl": "Etyczne i pragmatyczne aspekty krytyki",
      "k": "W",
      "p": "dr Damian Romaniak",
      "r": "s. 1 bud. 6",
@@ -182,10 +182,11 @@
       "13:30",
       "15:00"
      ],
-     "pl": "pozyskiwanie, analiza i wykorzystywani informacji w sieci Cukrowa",
+     "pl": "Pozyskiwanie, analiza i wykorzystywani informacji w sieci Cukrowa",
      "k": "CW",
      "p": "dr Mirosława Rudyk",
-     "r": "s. 928"
+     "r": "s. 928",
+     "pg": "spec:dziennikarstwo internetowe"
     },
     {
      "d": 2,
@@ -193,7 +194,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "socjologia w Krakowska WNS 21.10 nie odbedą się)",
+     "pl": "Socjologia w Krakowska WNS 21.10 nie odbedą się)",
      "k": "W",
      "p": "dr Anna Królikowska",
      "r": "s. 227",
@@ -216,7 +217,7 @@
       "17:15",
       "20:15"
      ],
-     "pl": "laboratorium badawcze krytyki i publicystyki lab ks. po",
+     "pl": "Laboratorium badawcze krytyki i publicystyki lab ks. po",
      "k": "LAB",
      "p": "dr hab. A.Draguła, prof. US",
      "r": "s. 310",
@@ -237,7 +238,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "podstawy ekonomii",
+     "pl": "Podstawy ekonomii",
      "k": "W",
      "p": "dr Lidia Kłos",
      "r": "s. 319",
@@ -260,7 +261,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "tworzenie i redagowanie blogów",
+     "pl": "Tworzenie i redagowanie blogów",
      "k": "CW",
      "p": "dr Mirosława Rudyk",
      "r": "s. 120, bud. 6",
@@ -284,7 +285,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminarium dyplomowe s",
+     "pl": "Seminarium dyplomowe s",
      "k": "S",
      "p": "dr hab. Anna Kapuścińska-Jawara, prof. US, dr Krzysztof Flasiński",
      "r": "s. 16, gab. 412"
@@ -295,7 +296,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "z dziedziny nauk społecznych g. e",
+     "pl": "Z dziedziny nauk społecznych g. e",
      "k": "W"
     },
     {
@@ -324,7 +325,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "contemporary journalism workshop",
+     "pl": "Contemporary journalism workshop",
      "k": "CW",
      "p": "mgr Anna Ronewicz",
      "r": "s. 219",
@@ -336,7 +337,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dziennikarstwo muzyczne",
+     "pl": "Dziennikarstwo muzyczne",
      "k": "K",
      "p": "dr Artur Trudzik",
      "r": "s. 220",
@@ -370,7 +371,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Magdalena Schneider-Mikołajczyk",
      "r": "s. 218",
@@ -382,7 +383,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Justyna Stankiewicz-Rycielska",
      "r": "s. 219",
@@ -394,7 +395,7 @@
       "15:30",
       "16:45"
      ],
-     "pl": "język niemiecki zaj.",
+     "pl": "Język niemiecki zaj.",
      "k": "CW",
      "p": "dr Frithjof Strauss",
      "r": "s. 115",
@@ -406,7 +407,7 @@
       "17:15",
       "18:30"
      ],
-     "pl": "eseistyka – warsztaty",
+     "pl": "Eseistyka – warsztaty",
      "k": "K",
      "p": "prof. dr hab. Inga Iwasiów",
      "r": "s. 319",
@@ -418,7 +419,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "twórczość i odbiorca w sieci",
+     "pl": "Twórczość i odbiorca w sieci",
      "k": "CW",
      "p": "dr Rafał Sidorowicz",
      "r": "s. 1",
@@ -441,7 +442,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "teoria blogu",
+     "pl": "Teoria blogu",
      "k": "W",
      "p": "dr Rafał Sidorowicz",
      "r": "s. 219",
@@ -460,7 +461,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe s",
+     "pl": "Seminarium dyplomowe s",
      "k": "S",
      "p": "dr Barbara Popiel-Kobielska, prof. dr hab. Andrzej Skrendo",
      "r": "s. 301, gab. 210"
@@ -471,7 +472,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "etyczne i pragmatyczne aspekty krytyki",
+     "pl": "Etyczne i pragmatyczne aspekty krytyki",
      "k": "W",
      "p": "dr Damian Romaniak",
      "r": "s. 1 bud. 6",
@@ -483,10 +484,11 @@
       "13:30",
       "15:00"
      ],
-     "pl": "pozyskiwanie, analiza i wykorzystywani informacji w sieci Cukrowa",
+     "pl": "Pozyskiwanie, analiza i wykorzystywani informacji w sieci Cukrowa",
      "k": "CW",
      "p": "dr Mirosława Rudyk",
-     "r": "s. 928"
+     "r": "s. 928",
+     "pg": "spec:dziennikarstwo internetowe"
     },
     {
      "d": 2,
@@ -494,7 +496,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "socjologia w Krakowska WNS 21.10 nie odbedą się)",
+     "pl": "Socjologia w Krakowska WNS 21.10 nie odbedą się)",
      "k": "W",
      "p": "dr Anna Królikowska",
      "r": "s. 227",
@@ -517,7 +519,7 @@
       "17:15",
       "20:15"
      ],
-     "pl": "laboratorium badawcze krytyki i publicystyki lab ks. po",
+     "pl": "Laboratorium badawcze krytyki i publicystyki lab ks. po",
      "k": "LAB",
      "p": "dr hab. A.Draguła, prof. US",
      "r": "s. 310",
@@ -538,7 +540,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "podstawy ekonomii",
+     "pl": "Podstawy ekonomii",
      "k": "W",
      "p": "dr Lidia Kłos",
      "r": "s. 319",
@@ -561,7 +563,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "tworzenie i redagowanie blogów",
+     "pl": "Tworzenie i redagowanie blogów",
      "k": "CW",
      "p": "dr Mirosława Rudyk",
      "r": "s. 120, bud. 6",
@@ -585,7 +587,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminarium dyplomowe s",
+     "pl": "Seminarium dyplomowe s",
      "k": "S",
      "p": "dr hab. Anna Kapuścińska-Jawara, prof. US, dr Krzysztof Flasiński",
      "r": "s. 16, gab. 412"
@@ -596,7 +598,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "z dziedziny nauk społecznych g. e",
+     "pl": "Z dziedziny nauk społecznych g. e",
      "k": "W"
     },
     {

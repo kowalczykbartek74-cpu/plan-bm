@@ -1,0 +1,333 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-2-II-stopien-13.pdf",
+ "wersja": "SOC-2-II-stopien-13.pdf",
+ "sha256": "5bc738d637a86bab50fe4cb3850780717d229b6bbcb619b3aa9c7fe15ef7cda6",
+ "kierunek": "Socjologia",
+ "kierunekEn": "Sociology",
+ "id": "wns-soc-2-st-2025",
+ "kod": "socm25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "SOC2": {
+   "odd": [
+    {
+     "d": 1,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr A. Pałgan",
+     "r": "s. 246"
+    },
+    {
+     "d": 1,
+     "pl": "Globalne procesy społeczne",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr Ż.Stasieniuk",
+     "r": "s. 246",
+     "n": "24 XI w godz. 10.45-11.30",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Socjologia medycyny",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Bulsa",
+     "r": "s. 052",
+     "n": "24 XI w godz. 10-10.45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Globalne procesy społeczne",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr Ż.Stasieniuk",
+     "r": "s. 247",
+     "n": "24 XI w godz. 11.45- 12.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Pomiar uczestnictwa w kulturze",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. K. Izdebska",
+     "r": "s. 12H"
+    },
+    {
+     "d": 2,
+     "pl": "Protest obywatelski: teorie i podejście badawcze",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 247"
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Kowalewski, prof. K. Izdebska",
+     "r": "s. 173"
+    },
+    {
+     "d": 3,
+     "pl": "Globalne procesy społeczne",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr W. Bryniewicz"
+    },
+    {
+     "d": 3,
+     "pl": "ICKiBS 117/120 Społeczny kontekst prowadzenia badań socjologicznych",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. O. Kozlova",
+     "r": "s. 106"
+    },
+    {
+     "d": 3,
+     "pl": "Metodologia badań rynku i opinii",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. A. Kołodziej",
+     "r": "s. 247"
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr A. Pałgan",
+     "r": "s. 246"
+    },
+    {
+     "d": 1,
+     "pl": "Globalne procesy społeczne",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr Ż.Stasieniuk",
+     "r": "s. 246",
+     "n": "24 XI w godz. 10.45-11.30",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Socjologia medycyny",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Bulsa",
+     "r": "s. 052",
+     "n": "24 XI w godz. 10-10.45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Globalne procesy społeczne",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr Ż.Stasieniuk",
+     "r": "s. 247",
+     "n": "24 XI w godz. 11.45- 12.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Pomiar uczestnictwa w kulturze",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. K. Izdebska",
+     "r": "s. 12H"
+    },
+    {
+     "d": 2,
+     "pl": "Protest obywatelski: teorie i podejście badawcze",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 247"
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Kowalewski, prof. K. Izdebska",
+     "r": "s. 173"
+    },
+    {
+     "d": 3,
+     "pl": "Globalne procesy społeczne",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr W. Bryniewicz"
+    },
+    {
+     "d": 3,
+     "pl": "ICKiBS 117/120 Społeczny kontekst prowadzenia badań socjologicznych",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. O. Kozlova",
+     "r": "s. 106"
+    },
+    {
+     "d": 3,
+     "pl": "Metodologia badań rynku i opinii",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. A. Kołodziej",
+     "r": "s. 247"
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału"
+    }
+   ]
+  }
+ }
+}

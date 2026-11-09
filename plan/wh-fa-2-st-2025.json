@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FA2": {
    "odd": [
@@ -99,7 +99,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "ćw/lab (48+12 hr): Dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Ćw/lab (48+12 hr): Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "LAB",
      "p": "mgr A. Heppner",
      "r": "s. 213 WH",
@@ -111,7 +111,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "ćw/lab (48+12 hr): Dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Ćw/lab (48+12 hr): Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "LAB",
      "p": "mgr A. Heppner",
      "r": "s. 213 WH",
@@ -123,7 +123,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "ćwiczenia translacyjne – tłumaczenia ustne (gr lab 2)",
+     "pl": "Ćwiczenia translacyjne – tłumaczenia ustne (gr lab 2)",
      "k": "CW",
      "p": "mgr A. Kotula -Empringham",
      "r": "s. 115 WH",
@@ -135,7 +135,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "ćwiczenia translacyjne – tłumaczenia ustne (gr lab 3)",
+     "pl": "Ćwiczenia translacyjne – tłumaczenia ustne (gr lab 3)",
      "k": "CW",
      "p": "mgr A. Kotula -Empringham",
      "r": "s. 115 WH",
@@ -291,7 +291,8 @@
       "18:30"
      ],
      "pl": "Seminaria magisterskie ONLINE -wszyscy promotorzy (dokładne zostaną ustalone przez promotora na I ch)",
-     "k": "S"
+     "k": "S",
+     "r": "online"
     },
     {
      "d": 3,
@@ -454,7 +455,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "ćw/lab (48+12 hr): Dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Ćw/lab (48+12 hr): Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "LAB",
      "p": "mgr A. Heppner",
      "r": "s. 213 WH",
@@ -466,7 +467,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "ćw/lab (48+12 hr): Dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Ćw/lab (48+12 hr): Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "LAB",
      "p": "mgr A. Heppner",
      "r": "s. 213 WH",
@@ -478,7 +479,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "ćwiczenia translacyjne – tłumaczenia ustne (gr lab 2)",
+     "pl": "Ćwiczenia translacyjne – tłumaczenia ustne (gr lab 2)",
      "k": "CW",
      "p": "mgr A. Kotula -Empringham",
      "r": "s. 115 WH",
@@ -490,7 +491,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "ćwiczenia translacyjne – tłumaczenia ustne (gr lab 3)",
+     "pl": "Ćwiczenia translacyjne – tłumaczenia ustne (gr lab 3)",
      "k": "CW",
      "p": "mgr A. Kotula -Empringham",
      "r": "s. 115 WH",
@@ -646,7 +647,8 @@
       "18:30"
      ],
      "pl": "Seminaria magisterskie ONLINE -wszyscy promotorzy (dokładne zostaną ustalone przez promotora na I ch)",
-     "k": "S"
+     "k": "S",
+     "r": "online"
     },
     {
      "d": 3,

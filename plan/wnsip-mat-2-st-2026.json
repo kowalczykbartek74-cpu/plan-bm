@@ -1,0 +1,317 @@
+{
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-1-rok-1.pdf",
+ "wersja": "mat_II-st.-1-rok-1.pdf",
+ "sha256": "4bc628c975dfca18d9c6c85812f501275cb2eb9ac5ede91a9ca58ed9b8236522",
+ "kierunek": "Matematyka",
+ "kierunekEn": "Mathematics",
+ "id": "wnsip-mat-2-st-2026",
+ "kod": "matm26",
+ "wydzial": "WNŚiP",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:37:44.669Z",
+ "checkedAt": "2026-11-09T22:50:40.599Z",
+ "groups": {
+  "MAT1": {
+   "odd": [
+    {
+     "d": 1,
+     "pl": "Analiza rzeczywista",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr hab. F. Prus-Wiśniowski, prof. US",
+     "r": "s. 210"
+    },
+    {
+     "d": 1,
+     "pl": "Równania różniczkowe cząstkowe",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "dr A. Kowalski",
+     "r": "s. 321"
+    },
+    {
+     "d": 1,
+     "pl": "Równania różniczkowe cząstkowe",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "p": "dr A. Kowalski",
+     "r": "s. 321"
+    },
+    {
+     "d": 2,
+     "pl": "Analiza rzeczywista",
+     "k": "K",
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "p": "dr hab. F. Prus-Wiśniowski, prof. US",
+     "r": "s. 212",
+     "n": "terminy: 14.10; 04.11; 18.11; 02.12; 09.12; 16.12; 13.01; 20.01; 27.01; 29",
+     "dates": [
+      "2026-10-14",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Algebra z teorią liczb",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr hab. T. Jędrzejak, prof. US",
+     "r": "s. 323"
+    },
+    {
+     "d": 2,
+     "pl": "Algebra z teorią liczb",
+     "k": "K",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr hab. T. Jędrzejak, prof. US",
+     "r": "s. 323"
+    },
+    {
+     "d": 3,
+     "pl": "Topologia",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:05"
+     ],
+     "p": "dr hab. A. Felshtyn, prof. US",
+     "r": "s. 321"
+    },
+    {
+     "d": 3,
+     "pl": "Topologia",
+     "k": "K",
+     "time": [
+      "15:15",
+      "16:50"
+     ],
+     "p": "dr hab. A. Felshtyn, prof. US",
+     "r": "s. 321"
+    },
+    {
+     "d": 4,
+     "pl": "Matematyczne podstawy informatyki",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr L. Szymaszkiewicz",
+     "r": "s. 207",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Matematyczne podstawy informatyki",
+     "k": "LAB",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr L. Szymaszkiewicz",
+     "r": "s. 207",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "pl": "Analiza rzeczywista",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr hab. F. Prus-Wiśniowski, prof. US",
+     "r": "s. 210"
+    },
+    {
+     "d": 1,
+     "pl": "Równania różniczkowe cząstkowe",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "dr A. Kowalski",
+     "r": "s. 321"
+    },
+    {
+     "d": 1,
+     "pl": "Równania różniczkowe cząstkowe",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "p": "dr A. Kowalski",
+     "r": "s. 321"
+    },
+    {
+     "d": 2,
+     "pl": "Analiza rzeczywista",
+     "k": "K",
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "p": "dr hab. F. Prus-Wiśniowski, prof. US",
+     "r": "s. 212",
+     "n": "terminy: 14.10; 04.11; 18.11; 02.12; 09.12; 16.12; 13.01; 20.01; 27.01; 29",
+     "dates": [
+      "2026-10-14",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Algebra z teorią liczb",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr hab. T. Jędrzejak, prof. US",
+     "r": "s. 323"
+    },
+    {
+     "d": 2,
+     "pl": "Algebra z teorią liczb",
+     "k": "K",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr hab. T. Jędrzejak, prof. US",
+     "r": "s. 323"
+    },
+    {
+     "d": 3,
+     "pl": "Topologia",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:05"
+     ],
+     "p": "dr hab. A. Felshtyn, prof. US",
+     "r": "s. 321"
+    },
+    {
+     "d": 3,
+     "pl": "Topologia",
+     "k": "K",
+     "time": [
+      "15:15",
+      "16:50"
+     ],
+     "p": "dr hab. A. Felshtyn, prof. US",
+     "r": "s. 321"
+    },
+    {
+     "d": 4,
+     "pl": "Matematyczne podstawy informatyki",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr L. Szymaszkiewicz",
+     "r": "s. 207",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Matematyczne podstawy informatyki",
+     "k": "LAB",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr L. Szymaszkiewicz",
+     "r": "s. 207",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    }
+   ]
+  }
+ }
+}

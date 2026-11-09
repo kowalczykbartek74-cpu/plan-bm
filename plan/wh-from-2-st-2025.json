@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FROM2": {
    "odd": [
@@ -23,7 +23,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "pisanie/lektura-język francuski",
+     "pl": "Pisanie/lektura-język francuski",
      "k": "LAB",
      "p": "mgr M. Janusz",
      "r": "s. 15, WH bud. 4"
@@ -34,7 +34,7 @@
       "10:45",
       "11:30"
      ],
-     "pl": "gramatyka praktyczna-język francuski z – konwersacje i słuchanie-język francuski od 10:00 do 10:45",
+     "pl": "Gramatyka praktyczna-język francuski z – konwersacje i słuchanie-język francuski od 10:00 do 10:45",
      "k": "LAB",
      "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
      "r": "s. 120, WH bud.4, s. 118, WH bud.4",
@@ -62,7 +62,7 @@
       "11:45",
       "12:30"
      ],
-     "pl": "gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
+     "pl": "Gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
      "k": "LAB",
      "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
      "r": "s. 120, WH bud. 4, s. 118, WH bud. 4",
@@ -101,7 +101,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "W",
      "p": "dr S. Kalińska",
      "r": "s. 214, WH bud. 4"
@@ -112,7 +112,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 18 z 48ćw",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej, 18 z 48ćw",
      "k": "LAB",
      "p": "dr S. Kalińska",
      "r": "s. 214, WH bud. 4"
@@ -123,7 +123,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 30 z 48 ćw",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej, 30 z 48 ćw",
      "k": "X",
      "p": "dr S. Kalińska",
      "r": "s. 214, WH bud. 4"
@@ -134,7 +134,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "przekład specjalistyczny",
+     "pl": "Przekład specjalistyczny",
      "k": "W",
      "p": "dr A. Kamińska",
      "r": "s. 118, WH bud. 4"
@@ -145,7 +145,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "laboratorium tłumaczeniowe",
+     "pl": "Laboratorium tłumaczeniowe",
      "k": "LAB",
      "p": "dr A. Kamińska",
      "r": "s. 118, WH bud. 4"
@@ -156,7 +156,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "najnowsze tendencje językoznawcze i 2x2h z",
+     "pl": "Najnowsze tendencje językoznawcze i 2x2h z",
      "k": "W",
      "p": "dr hab. S. Niewzorowa",
      "r": "s. 16, WH bud. 4",
@@ -189,7 +189,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium magisterskie z",
+     "pl": "Seminarium magisterskie z",
      "k": "S",
      "p": "prof. dr hab. B. Kędzia-Klebeko",
      "r": "s. 114, WH bud. 4",
@@ -211,8 +211,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "dziedzinowy z nauk społecznych online",
-     "k": "W"
+     "pl": "Dziedzinowy z nauk społecznych online",
+     "k": "W",
+     "r": "online"
     },
     {
      "d": 4,
@@ -220,7 +221,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminarium magisterskie i 2x2h z",
+     "pl": "Seminarium magisterskie i 2x2h z",
      "k": "S",
      "p": "dr hab. S. Niewzorowa",
      "r": "s. 103 WH bud. 4",
@@ -235,7 +236,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminarium magisterskie z",
+     "pl": "Seminarium magisterskie z",
      "k": "S",
      "p": "prof. dr hab. B. Kędzia-Klebeko",
      "r": "s. 103, WH bud. 4",
@@ -253,7 +254,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie z",
+     "pl": "Seminarium magisterskie z",
      "k": "S",
      "p": "dr hab. S. Niewzorowa",
      "r": "s. 103 WH bud. 4",
@@ -282,7 +283,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "najnowsze tendencje językoznawcze z",
+     "pl": "Najnowsze tendencje językoznawcze z",
      "k": "W",
      "p": "dr hab. S. Niewzorowa",
      "r": "s. 118, WH bud. 4",
@@ -313,7 +314,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "pisanie/lektura-język francuski",
+     "pl": "Pisanie/lektura-język francuski",
      "k": "LAB",
      "p": "mgr M. Janusz",
      "r": "s. 15, WH bud. 4"
@@ -324,7 +325,7 @@
       "10:45",
       "11:30"
      ],
-     "pl": "gramatyka praktyczna-język francuski z – konwersacje i słuchanie-język francuski od 10:00 do 10:45",
+     "pl": "Gramatyka praktyczna-język francuski z – konwersacje i słuchanie-język francuski od 10:00 do 10:45",
      "k": "LAB",
      "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
      "r": "s. 120, WH bud.4, s. 118, WH bud.4",
@@ -352,7 +353,7 @@
       "11:45",
       "12:30"
      ],
-     "pl": "gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
+     "pl": "Gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
      "k": "LAB",
      "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
      "r": "s. 120, WH bud. 4, s. 118, WH bud. 4",
@@ -391,7 +392,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "W",
      "p": "dr S. Kalińska",
      "r": "s. 214, WH bud. 4"
@@ -402,7 +403,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 18 z 48ćw",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej, 18 z 48ćw",
      "k": "LAB",
      "p": "dr S. Kalińska",
      "r": "s. 214, WH bud. 4"
@@ -413,7 +414,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 30 z 48 ćw",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej, 30 z 48 ćw",
      "k": "X",
      "p": "dr S. Kalińska",
      "r": "s. 214, WH bud. 4"
@@ -424,7 +425,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "przekład specjalistyczny",
+     "pl": "Przekład specjalistyczny",
      "k": "W",
      "p": "dr A. Kamińska",
      "r": "s. 118, WH bud. 4"
@@ -435,7 +436,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "laboratorium tłumaczeniowe",
+     "pl": "Laboratorium tłumaczeniowe",
      "k": "LAB",
      "p": "dr A. Kamińska",
      "r": "s. 118, WH bud. 4"
@@ -446,7 +447,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "najnowsze tendencje językoznawcze i 2x2h z",
+     "pl": "Najnowsze tendencje językoznawcze i 2x2h z",
      "k": "W",
      "p": "dr hab. S. Niewzorowa",
      "r": "s. 16, WH bud. 4",
@@ -479,7 +480,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium magisterskie z",
+     "pl": "Seminarium magisterskie z",
      "k": "S",
      "p": "prof. dr hab. B. Kędzia-Klebeko",
      "r": "s. 114, WH bud. 4",
@@ -501,8 +502,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "dziedzinowy z nauk społecznych online",
-     "k": "W"
+     "pl": "Dziedzinowy z nauk społecznych online",
+     "k": "W",
+     "r": "online"
     },
     {
      "d": 4,
@@ -510,7 +512,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminarium magisterskie i 2x2h z",
+     "pl": "Seminarium magisterskie i 2x2h z",
      "k": "S",
      "p": "dr hab. S. Niewzorowa",
      "r": "s. 103 WH bud. 4",
@@ -525,7 +527,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminarium magisterskie z",
+     "pl": "Seminarium magisterskie z",
      "k": "S",
      "p": "prof. dr hab. B. Kędzia-Klebeko",
      "r": "s. 103, WH bud. 4",
@@ -543,7 +545,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie z",
+     "pl": "Seminarium magisterskie z",
      "k": "S",
      "p": "dr hab. S. Niewzorowa",
      "r": "s. 103 WH bud. 4",
@@ -572,7 +574,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "najnowsze tendencje językoznawcze z",
+     "pl": "Najnowsze tendencje językoznawcze z",
      "k": "W",
      "p": "dr hab. S. Niewzorowa",
      "r": "s. 118, WH bud. 4",

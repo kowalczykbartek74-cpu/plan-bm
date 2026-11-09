@@ -1,0 +1,1087 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (18 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Bezpieczeństwo wewnętrzne",
+ "kierunekEn": "Internal Security",
+ "id": "wns-bw-1-nst-2025",
+ "kod": "bwn25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "BW2": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Kryminologia",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 0f3lrr2",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Kryminologia",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 0f3lrr2",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Historia policji",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 69zh89t",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Przestępczość zorganizowana - zwalczanie i zapobieganie",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr K. Kuszko",
+     "r": "s. 142",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 237",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo społeczności lokalnych i kształtowania bezpiecznych przestrzeni",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawa człowieka",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr J. Jartyś",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 110",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawa człowieka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr J. Jartyś",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawa człowieka",
+     "k": "W",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr J. Jartyś",
+     "r": "s. 048",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i funkcjonowanie policji",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawa człowieka",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr J. Jartyś",
+     "r": "s. 048",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Przestępczość zorganizowana - zwalczanie i zapobieganie",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr K. Kuszko",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i funkcjonowanie policji",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i funkcjonowanie policji",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "s. 142",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Przestępczość zorganizowana - zwalczanie i zapobieganie",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "mgr K. Kuszko",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Palgan",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia policji",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 69zh89t",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo społeczności lokalnych i kształtowania bezpiecznych przestrzeni",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Przestępczość zorganizowana - zwalczanie i zapobieganie",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr K. Kuszko",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo społeczności lokalnych i kształtowania bezpiecznych przestrzeni",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy ruchu drogowego",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Drewnowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 5o56nki",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Kryminologia",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 0f3lrr2",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Kryminologia",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 0f3lrr2",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Historia policji",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 69zh89t",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-28",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Przestępczość zorganizowana - zwalczanie i zapobieganie",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr K. Kuszko",
+     "r": "s. 142",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 237",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo społeczności lokalnych i kształtowania bezpiecznych przestrzeni",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawa człowieka",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr J. Jartyś",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 110",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawa człowieka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr J. Jartyś",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawa człowieka",
+     "k": "W",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr J. Jartyś",
+     "r": "s. 048",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i funkcjonowanie policji",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawa człowieka",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr J. Jartyś",
+     "r": "s. 048",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Przestępczość zorganizowana - zwalczanie i zapobieganie",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr K. Kuszko",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i funkcjonowanie policji",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i funkcjonowanie policji",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "s. 142",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Przestępczość zorganizowana - zwalczanie i zapobieganie",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "mgr K. Kuszko",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Palgan",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia policji",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 69zh89t",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo społeczności lokalnych i kształtowania bezpiecznych przestrzeni",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Przestępczość zorganizowana - zwalczanie i zapobieganie",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr K. Kuszko",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo społeczności lokalnych i kształtowania bezpiecznych przestrzeni",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy ruchu drogowego",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Drewnowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 5o56nki",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wykład monograficzny: Islam i muzułmanie w Europie - przeszłość, zagrożenia, perspektywy",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawo karne materialne i prawo wykroczeń",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr K. Mincewicz",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

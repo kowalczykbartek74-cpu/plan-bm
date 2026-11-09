@@ -1,0 +1,929 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (17 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Bezpieczeństwo wewnętrzne",
+ "kierunekEn": "Internal Security",
+ "id": "wns-bw-1-nst-2024",
+ "kod": "bwn24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "BW3": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Zapobieganie przestępczości i innym patologiom społecznym",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 205b7ji",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "prof. P. Chrobak, dr L. Hurska-Kowalczyk, dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vlu57ps",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Zapobieganie przestępczości i innym patologiom społecznym",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 205b7ji",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Stany nadzwyczajne",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: dwpgkq9",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo człowieka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr J. Kołodziejska",
+     "r": "s. 143",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Zdarzenia drogowe",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. T. Kwarciński",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Zapobieganie przestępczości i innym patologiom społecznym",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 205b7ji",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo wewnętrzne w Unii Europejskiej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "s. 237",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Etyka zawodowa funkcjonariuszy służb państwowych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: Rwi6dif",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny specjalnościowy: Sytuacja kryzysowa w stosunkach międzynarodowych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny specjalnościowy: Sytuacja kryzysowa w stosunkach międzynarodowych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 048",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny specjalnościowy: Sytuacja kryzysowa w stosunkach międzynarodowych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 048",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Stany nadzwyczajne",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: dwpgkq9",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Zarządzanie w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Zdarzenia drogowe",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. T. Kwarciński",
+     "r": "s. 143",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo wewnętrzne w Unii Europejskiej",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona danych osobowych i informacji niejawnych",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona danych osobowych i informacji niejawnych",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr K. Radziecka- Filipowiak",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. P. Chrobak, dr L. Hurska-Kowalczyk, dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vlu57ps",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zarządzanie w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Stany nadzwyczajne",
+     "k": "W",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: dwpgkq9",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Etyka zawodowa funkcjonariuszy służb państwowych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: Rwi6dif",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zarządzanie w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zdarzenia drogowe",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. T. Kwarciński",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo wewnętrzne w Unii Europejskiej",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zapobieganie przestępczości i innym patologiom społecznym",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 205b7ji",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Zapobieganie przestępczości i innym patologiom społecznym",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 205b7ji",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "prof. P. Chrobak, dr L. Hurska-Kowalczyk, dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vlu57ps",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Zapobieganie przestępczości i innym patologiom społecznym",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 205b7ji",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Stany nadzwyczajne",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: dwpgkq9",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo człowieka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr J. Kołodziejska",
+     "r": "s. 143",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Zdarzenia drogowe",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. T. Kwarciński",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Zapobieganie przestępczości i innym patologiom społecznym",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 205b7ji",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo wewnętrzne w Unii Europejskiej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "s. 237",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Etyka zawodowa funkcjonariuszy służb państwowych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: Rwi6dif",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny specjalnościowy: Sytuacja kryzysowa w stosunkach międzynarodowych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny specjalnościowy: Sytuacja kryzysowa w stosunkach międzynarodowych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 048",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład monograficzny specjalnościowy: Sytuacja kryzysowa w stosunkach międzynarodowych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 048",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Stany nadzwyczajne",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: dwpgkq9",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Zarządzanie w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Zdarzenia drogowe",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. T. Kwarciński",
+     "r": "s. 143",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bezpieczeństwo wewnętrzne w Unii Europejskiej",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona danych osobowych i informacji niejawnych",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona danych osobowych i informacji niejawnych",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr K. Radziecka- Filipowiak",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. P. Chrobak, dr L. Hurska-Kowalczyk, dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vlu57ps",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zarządzanie w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Stany nadzwyczajne",
+     "k": "W",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: dwpgkq9",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Etyka zawodowa funkcjonariuszy służb państwowych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: Rwi6dif",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zarządzanie w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zdarzenia drogowe",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. T. Kwarciński",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo wewnętrzne w Unii Europejskiej",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zapobieganie przestępczości i innym patologiom społecznym",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 205b7ji",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ]
+  }
+ }
+}

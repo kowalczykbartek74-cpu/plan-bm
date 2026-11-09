@@ -1,0 +1,403 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/II-PSM-II-st.-10.pdf",
+ "wersja": "II-PSM-II-st.-10.pdf",
+ "sha256": "e5324981cefb174d4276b45b451b60c5be04c0a53e25c825827bb3df963b883f",
+ "kierunek": "Prawo służb mundurowych",
+ "kierunekEn": "Law for Uniformed Services",
+ "id": "wpia-psm-2-st-2025",
+ "kod": "psmm25",
+ "wydzial": "WPiA",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PSM2": {
+   "odd": [
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Cyberbezpieczeństwo w sektorze ochrony i bezpieczeństwa państwa - PDW",
+     "k": "K",
+     "p": "dr D. Skoczylas",
+     "r": "s. 121 Narutowicza",
+     "n": "zajęcia dn. 13.I trwają 2 godz. w godzinach 11.00 - 12.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:45",
+      "16:00"
+     ],
+     "pl": "Profilowanie",
+     "k": "K",
+     "p": "dr W. Niemiec",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "16:15",
+      "18:45"
+     ],
+     "pl": "Daktyloskopia",
+     "k": "K",
+     "p": "mgr M. Henicz",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr E. Michałkiewicz-Kądziela Konsultacje",
+     "n": "UWAGA! W dn. 3.XII w godz. 12.00 - 13.30 odbędzie się szkolenie z obrony cywilnej (aula Wydziału Nauk Społecznych, ul. Krakowska 71-79)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Dokumentowanie czynności procesowych",
+     "k": "W",
+     "p": "dr H. Kocur",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "UWAGA! Wykład w dn. 3.XII odbędzie się wyjątkowo w godz. 14.15 - 16.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Dokumentowanie czynności procesowych",
+     "k": "CW",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "zajęcia dn. 14.I trwają 1 godz. w godzinach 13.30 - 14.15",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Rokita-Lisiecka",
+     "r": "s. 109"
+    },
+    {
+     "d": 4,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Wiktymologia",
+     "k": "W",
+     "p": "dr hab. M. Kowalewska- Łukuć, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Wiktymologia",
+     "k": "CW",
+     "p": "mgr N. Michalska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Ujawnianie i zwalczanie przestępczości ekonomicznej",
+     "k": "K",
+     "p": "mgr T. St",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-15"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Cyberbezpieczeństwo w sektorze ochrony i bezpieczeństwa państwa - PDW",
+     "k": "K",
+     "p": "dr D. Skoczylas",
+     "r": "s. 121 Narutowicza",
+     "n": "zajęcia dn. 13.I trwają 2 godz. w godzinach 11.00 - 12.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:45",
+      "16:00"
+     ],
+     "pl": "Profilowanie",
+     "k": "K",
+     "p": "dr W. Niemiec",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "16:15",
+      "18:45"
+     ],
+     "pl": "Daktyloskopia",
+     "k": "K",
+     "p": "mgr M. Henicz",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr E. Michałkiewicz-Kądziela Konsultacje",
+     "n": "UWAGA! W dn. 3.XII w godz. 12.00 - 13.30 odbędzie się szkolenie z obrony cywilnej (aula Wydziału Nauk Społecznych, ul. Krakowska 71-79)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Dokumentowanie czynności procesowych",
+     "k": "W",
+     "p": "dr H. Kocur",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "UWAGA! Wykład w dn. 3.XII odbędzie się wyjątkowo w godz. 14.15 - 16.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Dokumentowanie czynności procesowych",
+     "k": "CW",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "zajęcia dn. 14.I trwają 1 godz. w godzinach 13.30 - 14.15",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Rokita-Lisiecka",
+     "r": "s. 109"
+    },
+    {
+     "d": 4,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Wiktymologia",
+     "k": "W",
+     "p": "dr hab. M. Kowalewska- Łukuć, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Wiktymologia",
+     "k": "CW",
+     "p": "mgr N. Michalska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Ujawnianie i zwalczanie przestępczości ekonomicznej",
+     "k": "K",
+     "p": "mgr T. St",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-15"
+     ]
+    }
+   ]
+  }
+ }
+}

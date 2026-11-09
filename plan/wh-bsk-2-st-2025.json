@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
- "wersja": "2026-10-01",
- "sha256": "a55d19629ae92bc930b8cf1d873b9cb709425886229b55d37a3129425f2928ba",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-2-9-XI-2026.xlsx",
+ "wersja": "2026-11-09",
+ "sha256": "bc1a77a27df8453d51495ec409c73e558d1f0564310230512fad34d6790e4ac7",
  "kierunek": "Bałtyckie studia kulturowe",
  "kierunekEn": "Baltic Cultural Studies",
  "id": "wh-bsk-2-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "BSK2": {
    "odd": [
@@ -23,7 +23,7 @@
       "16:00",
       "16:45"
      ],
-     "pl": "turystyka w regionie Morza Bałtyckiego – )",
+     "pl": "Turystyka w regionie Morza Bałtyckiego – )",
      "k": "W",
      "p": "dr Tomasz Duda",
      "r": "s. 310a, WH bud.4",
@@ -44,7 +44,7 @@
       "17:00",
       "19:30"
      ],
-     "pl": "język szwedzki 45",
+     "pl": "Język szwedzki 45",
      "k": "CW",
      "p": "mgr Andrzej Dryjański",
      "r": "s.17-19, bud. 4"
@@ -55,7 +55,7 @@
       "19:45",
       "21:15"
      ],
-     "pl": "narracje migracyjne 30",
+     "pl": "Narracje migracyjne 30",
      "k": "CW",
      "p": "dr Paweł Dziel",
      "r": "s. 118, WH bud. 4",
@@ -81,10 +81,11 @@
       "15:15",
       "16:45"
      ],
-     "pl": "muzea i galerie krajów nadbałtyckich i Skandynawii",
+     "pl": "Muzea i galerie krajów nadbałtyckich i Skandynawii",
      "k": "W",
      "p": "dr hab. Barbara Ochendowska-Grzelak",
-     "n": "e-learning; kod do teams: iucxujc"
+     "n": "e-learning; kod do teams: iucxujc",
+     "r": "online"
     },
     {
      "d": 2,
@@ -92,10 +93,10 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium magisterskie 30s – e-zajeć",
+     "pl": "Seminarium magisterskie 30s",
      "k": "S",
      "p": "dr Łukasz Świercz",
-     "n": "kod do teams: c6eeizh",
+     "n": "kod do teams: c6eeizh; e-zajeć",
      "dates": [
       "2026-10-07",
       "2026-10-14",
@@ -107,7 +108,8 @@
       "2026-12-23",
       "2027-01-13",
       "2027-01-20"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -115,10 +117,10 @@
       "18:45",
       "20:15"
      ],
-     "pl": "transgraniczność i regionalizm w kulturze artystycznej – e- (2.12 )",
+     "pl": "Transgraniczność i regionalizm w kulturze artystycznej",
      "k": "K",
      "p": "dr hab. Barbara Ochendowska- Grzelak",
-     "n": "kod do teams: iucxujc",
+     "n": "kod do teams: iucxujc; e- (2.12 )",
      "dates": [
       "2026-10-07",
       "2026-10-14",
@@ -129,7 +131,8 @@
       "2026-11-18",
       "2026-11-25",
       "2026-12-02"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 3,
@@ -137,10 +140,11 @@
       "15:15",
       "16:45"
      ],
-     "pl": "literatura państw nadbałtyckich w Polsce – hasło do e-learnigu: literaturaBSK",
+     "pl": "Literatura państw nadbałtyckich w Polsce",
      "k": "K",
      "p": "dr Paulina Kaczocha",
-     "n": "e-learning"
+     "n": "e-learning; hasło do e-learnigu: literaturaBSK",
+     "r": "online"
     },
     {
      "d": 3,
@@ -149,7 +153,8 @@
       "19:15"
      ],
      "pl": "Wykłady z dziedziny nauk społecznych online",
-     "k": "W"
+     "k": "W",
+     "r": "online"
     },
     {
      "d": 4,
@@ -157,7 +162,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium magisterskie 30s seminarium magisterskie 30s Stacjonarnie 23.10, 30.10, 6.11, 13.11 oraz 22.01.27",
+     "pl": "Seminarium magisterskie 30s seminarium magisterskie 30s Stacjonarnie 23.10, 30.10, 6.11, 13.11 oraz 22.01.27",
      "k": "S",
      "p": "dr hab. T. Czerska, prof.US, dr Łukasz Świercz",
      "r": "s. 219, WH bud. 4, s. 220, WH bud.4",
@@ -183,7 +188,7 @@
       "19:00",
       "20:30"
      ],
-     "pl": "narracje migracyjne 30",
+     "pl": "Narracje migracyjne 30",
      "k": "X",
      "p": "dr P. Dziel",
      "r": "s. 219, WH bud.4",
@@ -204,7 +209,7 @@
       "16:00",
       "16:45"
      ],
-     "pl": "turystyka w regionie Morza Bałtyckiego – )",
+     "pl": "Turystyka w regionie Morza Bałtyckiego – )",
      "k": "W",
      "p": "dr Tomasz Duda",
      "r": "s. 310a, WH bud.4",
@@ -225,7 +230,7 @@
       "17:00",
       "19:30"
      ],
-     "pl": "język szwedzki 45",
+     "pl": "Język szwedzki 45",
      "k": "CW",
      "p": "mgr Andrzej Dryjański",
      "r": "s.17-19, bud. 4"
@@ -236,7 +241,7 @@
       "19:45",
       "21:15"
      ],
-     "pl": "narracje migracyjne 30",
+     "pl": "Narracje migracyjne 30",
      "k": "CW",
      "p": "dr Paweł Dziel",
      "r": "s. 118, WH bud. 4",
@@ -262,10 +267,11 @@
       "15:15",
       "16:45"
      ],
-     "pl": "muzea i galerie krajów nadbałtyckich i Skandynawii",
+     "pl": "Muzea i galerie krajów nadbałtyckich i Skandynawii",
      "k": "W",
      "p": "dr hab. Barbara Ochendowska-Grzelak",
-     "n": "e-learning; kod do teams: iucxujc"
+     "n": "e-learning; kod do teams: iucxujc",
+     "r": "online"
     },
     {
      "d": 2,
@@ -273,10 +279,10 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium magisterskie 30s – e-zajeć",
+     "pl": "Seminarium magisterskie 30s",
      "k": "S",
      "p": "dr Łukasz Świercz",
-     "n": "kod do teams: c6eeizh",
+     "n": "kod do teams: c6eeizh; e-zajeć",
      "dates": [
       "2026-10-07",
       "2026-10-14",
@@ -288,7 +294,8 @@
       "2026-12-23",
       "2027-01-13",
       "2027-01-20"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -296,10 +303,10 @@
       "18:45",
       "20:15"
      ],
-     "pl": "transgraniczność i regionalizm w kulturze artystycznej – e- (2.12 )",
+     "pl": "Transgraniczność i regionalizm w kulturze artystycznej",
      "k": "K",
      "p": "dr hab. Barbara Ochendowska- Grzelak",
-     "n": "kod do teams: iucxujc",
+     "n": "kod do teams: iucxujc; e- (2.12 )",
      "dates": [
       "2026-10-07",
       "2026-10-14",
@@ -310,7 +317,8 @@
       "2026-11-18",
       "2026-11-25",
       "2026-12-02"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 3,
@@ -318,10 +326,11 @@
       "15:15",
       "16:45"
      ],
-     "pl": "literatura państw nadbałtyckich w Polsce – hasło do e-learnigu: literaturaBSK",
+     "pl": "Literatura państw nadbałtyckich w Polsce",
      "k": "K",
      "p": "dr Paulina Kaczocha",
-     "n": "e-learning"
+     "n": "e-learning; hasło do e-learnigu: literaturaBSK",
+     "r": "online"
     },
     {
      "d": 3,
@@ -330,7 +339,8 @@
       "19:15"
      ],
      "pl": "Wykłady z dziedziny nauk społecznych online",
-     "k": "W"
+     "k": "W",
+     "r": "online"
     },
     {
      "d": 4,
@@ -338,7 +348,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium magisterskie 30s seminarium magisterskie 30s Stacjonarnie 23.10, 30.10, 6.11, 13.11 oraz 22.01.27",
+     "pl": "Seminarium magisterskie 30s seminarium magisterskie 30s Stacjonarnie 23.10, 30.10, 6.11, 13.11 oraz 22.01.27",
      "k": "S",
      "p": "dr hab. T. Czerska, prof.US, dr Łukasz Świercz",
      "r": "s. 219, WH bud. 4, s. 220, WH bud.4",
@@ -364,7 +374,7 @@
       "19:00",
       "20:30"
      ],
-     "pl": "narracje migracyjne 30",
+     "pl": "Narracje migracyjne 30",
      "k": "X",
      "p": "dr P. Dziel",
      "r": "s. 219, WH bud.4",

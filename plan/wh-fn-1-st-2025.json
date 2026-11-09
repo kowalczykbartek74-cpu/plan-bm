@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T22:54:22.756Z",
  "groups": {
   "FN2": {
    "odd": [
@@ -23,7 +23,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "polsko-norweskie związki kulturowo-ekonomiczne",
+     "pl": "Polsko-norweskie związki kulturowo-ekonomiczne",
      "k": "W",
      "p": "dr Lubowicka",
      "r": "s. 310 WH"
@@ -34,7 +34,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "polsko-norweskie związki kulturowo-ekonomiczne",
+     "pl": "Polsko-norweskie związki kulturowo-ekonomiczne",
      "k": "CW",
      "p": "dr Lubowicka",
      "r": "s. 310 WH"
@@ -45,7 +45,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "ćwiczenia w pisaniu, co 2 tyg",
+     "pl": "Ćwiczenia w pisaniu, co 2 tyg",
      "k": "LAB",
      "p": "mgr Sapiela",
      "r": "s. 115 WH",
@@ -76,7 +76,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "historia literatury norweskiej",
+     "pl": "Historia literatury norweskiej",
      "k": "W",
      "p": "dr Strauss",
      "r": "s. 117 WH"
@@ -87,7 +87,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "kultura i historia Norwegii",
+     "pl": "Kultura i historia Norwegii",
      "k": "W",
      "p": "dr T.Duda",
      "r": "s. 117 WH"
@@ -98,7 +98,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "językowo-kulturowe aspekty przekładu",
+     "pl": "Językowo-kulturowe aspekty przekładu",
      "k": "W",
      "p": "dr hab. T. Szutkowski, prof. US",
      "r": "Wielkopolska 15 s. 116"
@@ -109,7 +109,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria przekładu",
+     "pl": "Teoria przekładu",
      "k": "W",
      "p": "dr hab. T. Szutkowski, prof US",
      "r": "Wielkopolska 15 s. 116"
@@ -120,10 +120,11 @@
       "11:45",
       "13:15"
      ],
-     "pl": "tłumaczenia pisemne, zaj w godz 12:10-13:40",
+     "pl": "Tłumaczenia pisemne, zaj w godz",
      "k": "LAB",
      "p": "mgr J.Radziwon",
-     "r": "s. 115 WH"
+     "r": "s. 115 WH",
+     "n": "12:10-13:40"
     },
     {
      "d": 2,
@@ -131,7 +132,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "ustne sprawności językowe",
+     "pl": "Ustne sprawności językowe",
      "k": "LAB",
      "n": "VACAT 2, s. 101 WH zajęcia od 21.10",
      "dates": [
@@ -158,8 +159,8 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski lk30",
-     "k": "X",
+     "pl": "Język angielski lk30",
+     "k": "CW",
      "p": "mgr P. Krywult",
      "r": "s. 101 WH"
     },
@@ -169,7 +170,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ustne sprawności językowe",
+     "pl": "Ustne sprawności językowe",
      "k": "LAB",
      "n": "VACAT 2, s. 101 WH zajęcia od 21.10",
      "dates": [
@@ -196,7 +197,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "współczesne odmiany języka norweskiego",
+     "pl": "Współczesne odmiany języka norweskiego",
      "k": "W",
      "p": "dr W.Awedyk",
      "r": "s.310a WH"
@@ -207,7 +208,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "gramatyka opisowa języka norweskiego",
+     "pl": "Gramatyka opisowa języka norweskiego",
      "k": "W",
      "p": "dr W.Awedyk",
      "r": "s.310a WH"
@@ -218,7 +219,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "gramatyka praktyczna, co 2 tyg",
+     "pl": "Gramatyka praktyczna, co 2 tyg",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 15 WH",
@@ -248,7 +249,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "negocjacje na pograniczu kultur i języków",
+     "pl": "Negocjacje na pograniczu kultur i języków",
      "k": "W",
      "p": "dr K. Kondzioła-Pich",
      "r": "gabinet 4"
@@ -259,7 +260,7 @@
       "17:45",
       "19:30"
      ],
-     "pl": "ogólnouczelniany (17:4519:15)",
+     "pl": "Ogólnouczelniany (17:4519:15)",
      "k": "W"
     },
     {
@@ -279,7 +280,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "polsko-norweskie związki kulturowo-ekonomiczne",
+     "pl": "Polsko-norweskie związki kulturowo-ekonomiczne",
      "k": "W",
      "p": "dr Lubowicka",
      "r": "s. 310 WH"
@@ -290,7 +291,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "polsko-norweskie związki kulturowo-ekonomiczne",
+     "pl": "Polsko-norweskie związki kulturowo-ekonomiczne",
      "k": "CW",
      "p": "dr Lubowicka",
      "r": "s. 310 WH"
@@ -301,7 +302,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "ćwiczenia w pisaniu, co 2 tyg",
+     "pl": "Ćwiczenia w pisaniu, co 2 tyg",
      "k": "LAB",
      "p": "mgr Sapiela",
      "r": "s. 115 WH",
@@ -332,7 +333,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "historia literatury norweskiej",
+     "pl": "Historia literatury norweskiej",
      "k": "W",
      "p": "dr Strauss",
      "r": "s. 117 WH"
@@ -343,7 +344,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "kultura i historia Norwegii",
+     "pl": "Kultura i historia Norwegii",
      "k": "W",
      "p": "dr T.Duda",
      "r": "s. 117 WH"
@@ -354,7 +355,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "językowo-kulturowe aspekty przekładu",
+     "pl": "Językowo-kulturowe aspekty przekładu",
      "k": "W",
      "p": "dr hab. T. Szutkowski, prof. US",
      "r": "Wielkopolska 15 s. 116"
@@ -365,7 +366,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria przekładu",
+     "pl": "Teoria przekładu",
      "k": "W",
      "p": "dr hab. T. Szutkowski, prof US",
      "r": "Wielkopolska 15 s. 116"
@@ -376,10 +377,11 @@
       "11:45",
       "13:15"
      ],
-     "pl": "tłumaczenia pisemne, zaj w godz 12:10-13:40",
+     "pl": "Tłumaczenia pisemne, zaj w godz",
      "k": "LAB",
      "p": "mgr J.Radziwon",
-     "r": "s. 115 WH"
+     "r": "s. 115 WH",
+     "n": "12:10-13:40"
     },
     {
      "d": 2,
@@ -387,7 +389,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "ustne sprawności językowe",
+     "pl": "Ustne sprawności językowe",
      "k": "LAB",
      "n": "VACAT 2, s. 101 WH zajęcia od 21.10",
      "dates": [
@@ -414,8 +416,8 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski lk30",
-     "k": "X",
+     "pl": "Język angielski lk30",
+     "k": "CW",
      "p": "mgr P. Krywult",
      "r": "s. 101 WH"
     },
@@ -425,7 +427,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ustne sprawności językowe",
+     "pl": "Ustne sprawności językowe",
      "k": "LAB",
      "n": "VACAT 2, s. 101 WH zajęcia od 21.10",
      "dates": [
@@ -452,7 +454,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "współczesne odmiany języka norweskiego",
+     "pl": "Współczesne odmiany języka norweskiego",
      "k": "W",
      "p": "dr W.Awedyk",
      "r": "s.310a WH"
@@ -463,7 +465,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "gramatyka opisowa języka norweskiego",
+     "pl": "Gramatyka opisowa języka norweskiego",
      "k": "W",
      "p": "dr W.Awedyk",
      "r": "s.310a WH"
@@ -474,7 +476,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "gramatyka praktyczna, co 2 tyg",
+     "pl": "Gramatyka praktyczna, co 2 tyg",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 15 WH",
@@ -504,7 +506,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "negocjacje na pograniczu kultur i języków",
+     "pl": "Negocjacje na pograniczu kultur i języków",
      "k": "W",
      "p": "dr K. Kondzioła-Pich",
      "r": "gabinet 4"
@@ -515,7 +517,7 @@
       "17:45",
       "19:30"
      ],
-     "pl": "ogólnouczelniany (17:4519:15)",
+     "pl": "Ogólnouczelniany (17:4519:15)",
      "k": "W"
     },
     {

@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "ARCH2": {
    "odd": [
@@ -23,7 +23,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język niemiecki",
+     "pl": "Język niemiecki",
      "k": "CW",
      "p": "dr M. Kasjanowicz-Szczepańska",
      "r": "al. Piastów 40b bud. nr 4 s. 17-19 (WH)",
@@ -35,7 +35,7 @@
       "15:30",
       "16:45"
      ],
-     "pl": "przedmiot do wyboru: społeczności zbieracko-łowieckie strefy subarktycznej",
+     "pl": "Przedmiot do wyboru: społeczności zbieracko-łowieckie strefy subarktycznej",
      "k": "W",
      "p": "dr M. Adamczyk",
      "r": "s. 976 (IH)"
@@ -46,7 +46,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "archeologia środowiska z elementami geografii fizycznej",
+     "pl": "Archeologia środowiska z elementami geografii fizycznej",
      "k": "W",
      "p": "dr M. Adamczyk",
      "r": "s. 976 (IH)"
@@ -57,7 +57,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "archeologia środowiska z elementami geografii fizycznej (komputerowa)",
+     "pl": "Archeologia środowiska z elementami geografii fizycznej (komputerowa)",
      "k": "CW",
      "p": "dr M. Adamczyk",
      "r": "s. 145"
@@ -68,7 +68,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "antropologia fizyczna",
+     "pl": "Antropologia fizyczna",
      "k": "W",
      "p": "dr R. Fetner",
      "n": "e-learning:",
@@ -84,7 +84,8 @@
       "2027-01-12",
       "2027-01-19",
       "2027-01-26"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -92,7 +93,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "archeologia epoki brązu i wczesnej epoki żelaza (e- kod: qx7KF9xE)",
+     "pl": "Archeologia epoki brązu i wczesnej epoki żelaza (e- kod: qx7KF9xE)",
      "k": "W",
      "p": "dr K. Niedziółka",
      "dates": [
@@ -118,7 +119,7 @@
       "12:30",
       "14:00"
      ],
-     "pl": "antropologia fizyczna",
+     "pl": "Antropologia fizyczna",
      "k": "W",
      "p": "dr R. Fetner",
      "n": "e-learning:",
@@ -127,7 +128,8 @@
       "2027-01-12",
       "2027-01-19",
       "2027-01-26"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -135,7 +137,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "archeologia epoki brązu i wczesnej epoki żelaza Muzeum Narodowego w Szczecinie, ul. Staromłyńska",
+     "pl": "Archeologia epoki brązu i wczesnej epoki żelaza Muzeum Narodowego w Szczecinie, ul. Staromłyńska",
      "k": "CW",
      "p": "mgr D. Kozłowska Dział Archeologii"
     },
@@ -145,7 +147,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "źródłoznawstwo epoki brązu i wczesnej epoki żelaza Muzeum Narodowego w Szczecinie, ul. Staromłyńska",
+     "pl": "Źródłoznawstwo epoki brązu i wczesnej epoki żelaza Muzeum Narodowego w Szczecinie, ul. Staromłyńska",
      "k": "CW",
      "p": "mgr D. Kozłowska Dział Archeologii",
      "n": "ostatnie zajęcia 1h do godz.17:45",
@@ -166,7 +168,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "antropologia fizyczna w kontakcie bezpośrednim w dniach: i s .976",
+     "pl": "Antropologia fizyczna w kontakcie bezpośrednim w dniach: i s .976",
      "k": "W",
      "p": "dr R. Fetner",
      "n": "antropologia fizyczna (w) (4) dr R. Fetner w kontakcie bezpośrednim w dniach: 16.XII i 29.I. s .976",
@@ -180,7 +182,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "numizmatyka",
+     "pl": "Numizmatyka",
      "k": "K",
      "p": "dr hab. J. Kleemann, prof. US",
      "r": "s. 976 (IH)",
@@ -204,7 +206,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "techniki dokumentacji rysunkowej (komputerowa)",
+     "pl": "Techniki dokumentacji rysunkowej (komputerowa)",
      "k": "CW",
      "p": "dr T. Michalik",
      "r": "s. 145"
@@ -215,7 +217,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "antropologia kulturowa",
+     "pl": "Antropologia kulturowa",
      "k": "W",
      "p": "dr T. Michalik",
      "r": "s. 976 (IH)"
@@ -226,7 +228,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "wstęp do ekologii człowieka",
+     "pl": "Wstęp do ekologii człowieka",
      "k": "W",
      "p": "dr M. Adamczyk",
      "r": "s. 976 (IH)",
@@ -249,7 +251,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "antropologia fizyczna",
+     "pl": "Antropologia fizyczna",
      "k": "CW",
      "p": "mgr D. Gromnicka",
      "r": "s.976 (IH)"
@@ -260,7 +262,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "cyfrowe metody analiz w badaniach krajobrazów archeologicznych: zasoby i bazy danych (komputerowa)",
+     "pl": "Cyfrowe metody analiz w badaniach krajobrazów archeologicznych: zasoby i bazy danych (komputerowa)",
      "k": "CW",
      "p": "dr hab. G. Kiarszys, prof. US",
      "r": "s. 145",
@@ -288,7 +290,7 @@
       "17:45",
       "19:30"
      ],
-     "pl": "ogólnouczelniany przedmiot do wyboru (e- )",
+     "pl": "Ogólnouczelniany przedmiot do wyboru (e- )",
      "k": "W"
     },
     {
@@ -297,7 +299,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "język angielski ACKJ",
+     "pl": "Język angielski ACKJ",
      "k": "CW",
      "p": "mgr P.Krywult",
      "r": "s.108",
@@ -309,7 +311,7 @@
       "14:00",
       "15:30"
      ],
-     "pl": "wychowanie fizyczne",
+     "pl": "Wychowanie fizyczne",
      "k": "CW"
     }
    ],
@@ -320,7 +322,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język niemiecki",
+     "pl": "Język niemiecki",
      "k": "CW",
      "p": "dr M. Kasjanowicz-Szczepańska",
      "r": "al. Piastów 40b bud. nr 4 s. 17-19 (WH)",
@@ -332,7 +334,7 @@
       "15:30",
       "16:45"
      ],
-     "pl": "przedmiot do wyboru: społeczności zbieracko-łowieckie strefy subarktycznej",
+     "pl": "Przedmiot do wyboru: społeczności zbieracko-łowieckie strefy subarktycznej",
      "k": "W",
      "p": "dr M. Adamczyk",
      "r": "s. 976 (IH)"
@@ -343,7 +345,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "archeologia środowiska z elementami geografii fizycznej",
+     "pl": "Archeologia środowiska z elementami geografii fizycznej",
      "k": "W",
      "p": "dr M. Adamczyk",
      "r": "s. 976 (IH)"
@@ -354,7 +356,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "archeologia środowiska z elementami geografii fizycznej (komputerowa)",
+     "pl": "Archeologia środowiska z elementami geografii fizycznej (komputerowa)",
      "k": "CW",
      "p": "dr M. Adamczyk",
      "r": "s. 145"
@@ -365,7 +367,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "antropologia fizyczna",
+     "pl": "Antropologia fizyczna",
      "k": "W",
      "p": "dr R. Fetner",
      "n": "e-learning:",
@@ -381,7 +383,8 @@
       "2027-01-12",
       "2027-01-19",
       "2027-01-26"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -389,7 +392,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "archeologia epoki brązu i wczesnej epoki żelaza (e- kod: qx7KF9xE)",
+     "pl": "Archeologia epoki brązu i wczesnej epoki żelaza (e- kod: qx7KF9xE)",
      "k": "W",
      "p": "dr K. Niedziółka",
      "dates": [
@@ -415,7 +418,7 @@
       "12:30",
       "14:00"
      ],
-     "pl": "antropologia fizyczna",
+     "pl": "Antropologia fizyczna",
      "k": "W",
      "p": "dr R. Fetner",
      "n": "e-learning:",
@@ -424,7 +427,8 @@
       "2027-01-12",
       "2027-01-19",
       "2027-01-26"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -432,7 +436,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "archeologia epoki brązu i wczesnej epoki żelaza Muzeum Narodowego w Szczecinie, ul. Staromłyńska",
+     "pl": "Archeologia epoki brązu i wczesnej epoki żelaza Muzeum Narodowego w Szczecinie, ul. Staromłyńska",
      "k": "CW",
      "p": "mgr D. Kozłowska Dział Archeologii"
     },
@@ -442,7 +446,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "źródłoznawstwo epoki brązu i wczesnej epoki żelaza Muzeum Narodowego w Szczecinie, ul. Staromłyńska",
+     "pl": "Źródłoznawstwo epoki brązu i wczesnej epoki żelaza Muzeum Narodowego w Szczecinie, ul. Staromłyńska",
      "k": "CW",
      "p": "mgr D. Kozłowska Dział Archeologii",
      "n": "ostatnie zajęcia 1h do godz.17:45",
@@ -463,7 +467,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "antropologia fizyczna w kontakcie bezpośrednim w dniach: i s .976",
+     "pl": "Antropologia fizyczna w kontakcie bezpośrednim w dniach: i s .976",
      "k": "W",
      "p": "dr R. Fetner",
      "n": "antropologia fizyczna (w) (4) dr R. Fetner w kontakcie bezpośrednim w dniach: 16.XII i 29.I. s .976",
@@ -477,7 +481,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "numizmatyka",
+     "pl": "Numizmatyka",
      "k": "K",
      "p": "dr hab. J. Kleemann, prof. US",
      "r": "s. 976 (IH)",
@@ -501,7 +505,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "techniki dokumentacji rysunkowej (komputerowa)",
+     "pl": "Techniki dokumentacji rysunkowej (komputerowa)",
      "k": "CW",
      "p": "dr T. Michalik",
      "r": "s. 145"
@@ -512,7 +516,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "antropologia kulturowa",
+     "pl": "Antropologia kulturowa",
      "k": "W",
      "p": "dr T. Michalik",
      "r": "s. 976 (IH)"
@@ -523,7 +527,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "wstęp do ekologii człowieka",
+     "pl": "Wstęp do ekologii człowieka",
      "k": "W",
      "p": "dr M. Adamczyk",
      "r": "s. 976 (IH)",
@@ -546,7 +550,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "antropologia fizyczna",
+     "pl": "Antropologia fizyczna",
      "k": "CW",
      "p": "mgr D. Gromnicka",
      "r": "s.976 (IH)"
@@ -557,7 +561,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "cyfrowe metody analiz w badaniach krajobrazów archeologicznych: zasoby i bazy danych (komputerowa)",
+     "pl": "Cyfrowe metody analiz w badaniach krajobrazów archeologicznych: zasoby i bazy danych (komputerowa)",
      "k": "CW",
      "p": "dr hab. G. Kiarszys, prof. US",
      "r": "s. 145",
@@ -585,7 +589,7 @@
       "17:45",
       "19:30"
      ],
-     "pl": "ogólnouczelniany przedmiot do wyboru (e- )",
+     "pl": "Ogólnouczelniany przedmiot do wyboru (e- )",
      "k": "W"
     },
     {
@@ -594,7 +598,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "język angielski ACKJ",
+     "pl": "Język angielski ACKJ",
      "k": "CW",
      "p": "mgr P.Krywult",
      "r": "s.108",
@@ -606,7 +610,7 @@
       "14:00",
       "15:30"
      ],
-     "pl": "wychowanie fizyczne",
+     "pl": "Wychowanie fizyczne",
      "k": "CW"
     }
    ]

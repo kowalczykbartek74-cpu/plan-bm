@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T09:23:11.440Z",
- "checkedAt": "2026-11-09T20:22:14.856Z",
+ "changedAt": "2026-11-09T22:31:18.542Z",
+ "checkedAt": "2026-11-09T22:44:26.151Z",
  "groups": {
   "B20": {
    "odd": [
@@ -23,7 +23,7 @@
       "20:35"
      ],
      "pl": "Wykład ogólnouczelniany",
-     "k": "X",
+     "k": "W",
      "p": "prowadzący_",
      "r": "online",
      "n": "godz. 17.00-20.15 Szczegółowy harmonogram na stronie Wydziału",
@@ -38,7 +38,7 @@
       "19:45"
      ],
      "pl": "Wykład ogólnouczelniany",
-     "k": "X",
+     "k": "W",
      "p": "prowadzący_",
      "r": "online",
      "n": "godz. 17.00-19.30 Szczegółowy harmonogram na stronie Wydziału",
@@ -53,7 +53,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -68,7 +68,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -83,7 +83,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "ordynacja podatkowa i księgi podatkowe",
+     "pl": "Ordynacja podatkowa i księgi podatkowe",
      "k": "W",
      "p": "prof. dr hab. Jolanta Iwin-Garzyńska",
      "r": "s. S03 Mic.64",
@@ -98,7 +98,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -112,7 +112,7 @@
       "08:15",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "W",
      "p": "dr hab. prof. US Anna Bera",
      "r": "online",
@@ -127,7 +127,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "W",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "online",
@@ -142,7 +142,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -156,7 +156,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -170,7 +170,7 @@
       "09:05",
       "10:45"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. S0123B Mic.64",
@@ -184,7 +184,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -198,7 +198,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -212,7 +212,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "CW",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -227,7 +227,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -241,7 +241,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -255,7 +255,7 @@
       "10:50",
       "12:30"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "W",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -270,7 +270,7 @@
       "10:50",
       "11:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021B lab Mic.64",
@@ -284,7 +284,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -298,7 +298,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -313,7 +313,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -327,7 +327,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -341,7 +341,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -355,7 +355,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -369,7 +369,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -384,7 +384,7 @@
       "12:35",
       "16:15"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -398,7 +398,7 @@
       "12:35",
       "14:30"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "CW",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -413,7 +413,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -427,7 +427,7 @@
       "13:45",
       "14:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N101/102 lab Mic.64",
@@ -441,7 +441,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "W",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -456,7 +456,7 @@
       "14:35",
       "16:15"
      ],
-     "pl": "ordynacja podatkowa i księgi podatkowe",
+     "pl": "Ordynacja podatkowa i księgi podatkowe",
      "k": "W",
      "p": "prof. dr hab. Jolanta Iwin-Garzyńska",
      "r": "s. S04/05 Mic.64",
@@ -471,7 +471,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S0106/0107 Mic.64",
@@ -486,7 +486,7 @@
       "14:35",
       "15:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -500,7 +500,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "ordynacja podatkowa i księgi podatkowe",
+     "pl": "Ordynacja podatkowa i księgi podatkowe",
      "k": "W",
      "p": "prof. dr hab. Jolanta Iwin-Garzyńska",
      "r": "s. S04/05 Mic.64",
@@ -515,7 +515,7 @@
       "15:30",
       "18:50"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -529,7 +529,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "CW",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -544,7 +544,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "W",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "online",
@@ -597,7 +597,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -611,7 +611,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -625,7 +625,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -640,7 +640,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -654,7 +654,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -670,7 +670,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -684,7 +684,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -699,7 +699,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -713,7 +713,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "W",
      "p": "dr hab. prof. US Anna Bera",
      "r": "online",
@@ -728,7 +728,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -743,7 +743,7 @@
       "13:45",
       "15:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -757,7 +757,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "W",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S01 Mic.64",
@@ -772,7 +772,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S02 Mic.64",
@@ -786,7 +786,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -801,7 +801,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -816,7 +816,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -833,7 +833,7 @@
       "20:35"
      ],
      "pl": "Wykład ogólnouczelniany",
-     "k": "X",
+     "k": "W",
      "p": "prowadzący_",
      "r": "online",
      "n": "godz. 17.00-20.15 Szczegółowy harmonogram na stronie Wydziału",
@@ -848,7 +848,7 @@
       "19:45"
      ],
      "pl": "Wykład ogólnouczelniany",
-     "k": "X",
+     "k": "W",
      "p": "prowadzący_",
      "r": "online",
      "n": "godz. 17.00-19.30 Szczegółowy harmonogram na stronie Wydziału",
@@ -863,7 +863,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -878,7 +878,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -893,7 +893,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "ordynacja podatkowa i księgi podatkowe",
+     "pl": "Ordynacja podatkowa i księgi podatkowe",
      "k": "W",
      "p": "prof. dr hab. Jolanta Iwin-Garzyńska",
      "r": "s. S03 Mic.64",
@@ -908,7 +908,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -922,7 +922,7 @@
       "08:15",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "W",
      "p": "dr hab. prof. US Anna Bera",
      "r": "online",
@@ -937,7 +937,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "W",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "online",
@@ -952,7 +952,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -966,7 +966,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -980,7 +980,7 @@
       "09:05",
       "10:45"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. S0123B Mic.64",
@@ -994,7 +994,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -1008,7 +1008,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -1022,7 +1022,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "CW",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -1037,7 +1037,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -1051,7 +1051,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -1065,7 +1065,7 @@
       "10:50",
       "12:30"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "W",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -1080,7 +1080,7 @@
       "10:50",
       "11:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021B lab Mic.64",
@@ -1094,7 +1094,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -1108,7 +1108,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -1123,7 +1123,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -1137,7 +1137,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -1151,7 +1151,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -1165,7 +1165,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -1179,7 +1179,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -1194,7 +1194,7 @@
       "12:35",
       "16:15"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -1208,7 +1208,7 @@
       "12:35",
       "14:30"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "CW",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -1223,7 +1223,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -1237,7 +1237,7 @@
       "13:45",
       "14:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N101/102 lab Mic.64",
@@ -1251,7 +1251,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "W",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -1266,7 +1266,7 @@
       "14:35",
       "16:15"
      ],
-     "pl": "ordynacja podatkowa i księgi podatkowe",
+     "pl": "Ordynacja podatkowa i księgi podatkowe",
      "k": "W",
      "p": "prof. dr hab. Jolanta Iwin-Garzyńska",
      "r": "s. S04/05 Mic.64",
@@ -1281,7 +1281,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S0106/0107 Mic.64",
@@ -1296,7 +1296,7 @@
       "14:35",
       "15:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -1310,7 +1310,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "ordynacja podatkowa i księgi podatkowe",
+     "pl": "Ordynacja podatkowa i księgi podatkowe",
      "k": "W",
      "p": "prof. dr hab. Jolanta Iwin-Garzyńska",
      "r": "s. S04/05 Mic.64",
@@ -1325,7 +1325,7 @@
       "15:30",
       "18:50"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -1339,7 +1339,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "CW",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S04/05 Mic.64",
@@ -1354,7 +1354,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "W",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "online",
@@ -1407,7 +1407,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -1421,7 +1421,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -1435,7 +1435,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -1450,7 +1450,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -1464,7 +1464,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -1480,7 +1480,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -1494,7 +1494,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -1509,7 +1509,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -1523,7 +1523,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "W",
      "p": "dr hab. prof. US Anna Bera",
      "r": "online",
@@ -1538,7 +1538,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -1553,7 +1553,7 @@
       "13:45",
       "15:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -1567,7 +1567,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "finanse sektora MSP",
+     "pl": "Finanse sektora MSP",
      "k": "W",
      "p": "dr Magdalena Brojakowska-Trząska",
      "r": "s. S01 Mic.64",
@@ -1582,7 +1582,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S02 Mic.64",
@@ -1596,7 +1596,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -1611,7 +1611,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -1626,7 +1626,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -1645,7 +1645,7 @@
       "20:35"
      ],
      "pl": "Wykład ogólnouczelniany",
-     "k": "X",
+     "k": "W",
      "p": "prowadzący_",
      "r": "online",
      "n": "godz. 17.00-20.15 Szczegółowy harmonogram na stronie Wydziału",
@@ -1660,7 +1660,7 @@
       "19:45"
      ],
      "pl": "Wykład ogólnouczelniany",
-     "k": "X",
+     "k": "W",
      "p": "prowadzący_",
      "r": "online",
      "n": "godz. 17.00-19.30 Szczegółowy harmonogram na stronie Wydziału",
@@ -1675,7 +1675,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -1690,7 +1690,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -1705,7 +1705,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -1719,7 +1719,7 @@
       "08:15",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "W",
      "p": "dr hab. prof. US Anna Bera",
      "r": "online",
@@ -1734,7 +1734,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -1748,7 +1748,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "W",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "online",
@@ -1763,7 +1763,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -1777,7 +1777,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -1791,7 +1791,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rozliczenia publicznoprawne przedsiębiorstw",
+     "pl": "Rozliczenia publicznoprawne przedsiębiorstw",
      "k": "CW",
      "p": "mgr Oliwia Zielińska",
      "r": "s. S0100 Mic.64",
@@ -1806,7 +1806,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -1820,7 +1820,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -1834,7 +1834,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S02 Mic.64",
@@ -1848,7 +1848,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -1862,7 +1862,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -1876,7 +1876,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -1891,7 +1891,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -1905,7 +1905,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -1919,7 +1919,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -1933,7 +1933,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021B lab Mic.64",
@@ -1947,7 +1947,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N101/102 lab Mic.64",
@@ -1961,7 +1961,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -1975,7 +1975,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -1990,7 +1990,7 @@
       "12:35",
       "14:30"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N021B lab Mic.64",
@@ -2005,7 +2005,7 @@
       "12:35",
       "16:15"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -2019,7 +2019,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N021B lab Mic.64",
@@ -2034,7 +2034,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -2050,7 +2050,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S0106/0107 Mic.64",
@@ -2065,7 +2065,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rozliczenia publicznoprawne przedsiębiorstw",
+     "pl": "Rozliczenia publicznoprawne przedsiębiorstw",
      "k": "CW",
      "p": "mgr Oliwia Zielińska",
      "r": "s. S01 Mic.64",
@@ -2080,7 +2080,7 @@
       "15:30",
       "18:50"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -2094,7 +2094,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -2110,7 +2110,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -2125,7 +2125,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "W",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "online",
@@ -2178,7 +2178,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -2192,7 +2192,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -2207,7 +2207,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "rozliczenia publicznoprawne przedsiębiorstw",
+     "pl": "Rozliczenia publicznoprawne przedsiębiorstw",
      "k": "CW",
      "p": "mgr Oliwia Zielińska",
      "r": "s. S01 Mic.64",
@@ -2222,7 +2222,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -2238,7 +2238,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -2253,7 +2253,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "W",
      "p": "dr hab. prof. US Anna Bera",
      "r": "online",
@@ -2268,7 +2268,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -2282,7 +2282,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -2296,7 +2296,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -2311,7 +2311,7 @@
       "13:45",
       "15:20"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -2325,7 +2325,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -2339,7 +2339,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N021B lab Mic.64",
@@ -2354,7 +2354,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -2369,7 +2369,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -2384,7 +2384,7 @@
       "15:30",
       "17:05"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -2400,7 +2400,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -2417,7 +2417,7 @@
       "20:35"
      ],
      "pl": "Wykład ogólnouczelniany",
-     "k": "X",
+     "k": "W",
      "p": "prowadzący_",
      "r": "online",
      "n": "godz. 17.00-20.15 Szczegółowy harmonogram na stronie Wydziału",
@@ -2432,7 +2432,7 @@
       "19:45"
      ],
      "pl": "Wykład ogólnouczelniany",
-     "k": "X",
+     "k": "W",
      "p": "prowadzący_",
      "r": "online",
      "n": "godz. 17.00-19.30 Szczegółowy harmonogram na stronie Wydziału",
@@ -2447,7 +2447,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -2462,7 +2462,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -2477,7 +2477,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -2491,7 +2491,7 @@
       "08:15",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "W",
      "p": "dr hab. prof. US Anna Bera",
      "r": "online",
@@ -2506,7 +2506,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -2520,7 +2520,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "W",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "online",
@@ -2535,7 +2535,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -2549,7 +2549,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -2563,7 +2563,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rozliczenia publicznoprawne przedsiębiorstw",
+     "pl": "Rozliczenia publicznoprawne przedsiębiorstw",
      "k": "CW",
      "p": "mgr Oliwia Zielińska",
      "r": "s. S0100 Mic.64",
@@ -2578,7 +2578,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -2592,7 +2592,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -2606,7 +2606,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S02 Mic.64",
@@ -2620,7 +2620,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -2634,7 +2634,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -2648,7 +2648,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -2663,7 +2663,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -2677,7 +2677,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -2691,7 +2691,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -2705,7 +2705,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021B lab Mic.64",
@@ -2719,7 +2719,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N101/102 lab Mic.64",
@@ -2733,7 +2733,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -2747,7 +2747,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -2762,7 +2762,7 @@
       "12:35",
       "14:30"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N021B lab Mic.64",
@@ -2777,7 +2777,7 @@
       "12:35",
       "16:15"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "LAB",
      "p": "dr Natalia Marska-Dzioba",
      "r": "s. N021A lab Mic.64",
@@ -2791,7 +2791,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N021B lab Mic.64",
@@ -2806,7 +2806,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -2822,7 +2822,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S0106/0107 Mic.64",
@@ -2837,7 +2837,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rozliczenia publicznoprawne przedsiębiorstw",
+     "pl": "Rozliczenia publicznoprawne przedsiębiorstw",
      "k": "CW",
      "p": "mgr Oliwia Zielińska",
      "r": "s. S01 Mic.64",
@@ -2852,7 +2852,7 @@
       "15:30",
       "18:50"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -2866,7 +2866,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -2882,7 +2882,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -2897,7 +2897,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "W",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "online",
@@ -2950,7 +2950,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",
@@ -2964,7 +2964,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -2979,7 +2979,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "rozliczenia publicznoprawne przedsiębiorstw",
+     "pl": "Rozliczenia publicznoprawne przedsiębiorstw",
      "k": "CW",
      "p": "mgr Oliwia Zielińska",
      "r": "s. S01 Mic.64",
@@ -2994,7 +2994,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "LAB",
      "p": "mgr Michał Frej",
      "r": "s. N021A lab Mic.64",
@@ -3010,7 +3010,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -3025,7 +3025,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "W",
      "p": "dr hab. prof. US Anna Bera",
      "r": "online",
@@ -3040,7 +3040,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -3054,7 +3054,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "ubezpieczenia",
+     "pl": "Ubezpieczenia",
      "k": "CW",
      "p": "dr Dariusz Pauch",
      "r": "s. S03 Mic.64",
@@ -3068,7 +3068,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "statystyka",
+     "pl": "Statystyka",
      "k": "W",
      "p": "dr Monika Rozkrut",
      "r": "online",
@@ -3083,7 +3083,7 @@
       "13:45",
       "15:20"
      ],
-     "pl": "finanse publiczne",
+     "pl": "Finanse publiczne",
      "k": "CW",
      "p": "dr hab. prof. US Sławomir Franek",
      "r": "s. S08 Mic.64",
@@ -3097,7 +3097,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "ewidencje podatkowe przedsiębiorstw",
+     "pl": "Ewidencje podatkowe przedsiębiorstw",
      "k": "LAB",
      "p": "dr Tomasz Kufel",
      "r": "s. S0101 lab Mic.64",
@@ -3111,7 +3111,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N021B lab Mic.64",
@@ -3126,7 +3126,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S01 Mic.64",
@@ -3141,7 +3141,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "systemy finansowo-księgowe",
+     "pl": "Systemy finansowo-księgowe",
      "k": "LAB",
      "p": "mgr Elżbieta Jędruczyk",
      "r": "s. N019 lab Mic.64",
@@ -3156,7 +3156,7 @@
       "15:30",
       "17:05"
      ],
-     "pl": "kadry i płace",
+     "pl": "Kadry i płace",
      "k": "W",
      "p": "dr Anna Zbaraszewska",
      "r": "online",
@@ -3172,7 +3172,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "rachunek kosztów",
+     "pl": "Rachunek kosztów",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S019 Mic.64",

@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "SP2": {
    "odd": [
@@ -23,7 +23,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "rhetorics of culture",
+     "pl": "Rhetorics of culture",
      "k": "K",
      "p": "dr hab. Anna Kapuścińska-Jawara, prof. US",
      "r": "gab. 303",
@@ -35,7 +35,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "narracje filmowe w +",
+     "pl": "Narracje filmowe w +",
      "k": "W",
      "p": "dr Damian Romaniak",
      "r": "s. 219"
@@ -46,7 +46,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "retoryka literacka",
+     "pl": "Retoryka literacka",
      "k": "W",
      "p": "dr Barbara Popiel-Kobielska",
      "r": "gab. 303"
@@ -57,7 +57,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "warsztaty krytyczne z",
+     "pl": "Warsztaty krytyczne z",
      "k": "CW",
      "p": "dr hab. Arleta Galant, prof. US",
      "r": "s. 314",
@@ -83,7 +83,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "humanistyka nieantropocentryczna",
+     "pl": "Humanistyka nieantropocentryczna",
      "k": "W",
      "p": "dr hab. Piotr Krupiński, prof. US",
      "r": "gab. 208"
@@ -94,7 +94,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium magisterskie s",
+     "pl": "Seminarium magisterskie s",
      "k": "S",
      "p": "dr hab. Piotr Krupiński, prof. US",
      "r": "gab. 208",
@@ -106,7 +106,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "warsztaty redakcyjne",
+     "pl": "Warsztaty redakcyjne",
      "k": "CW",
      "p": "dr Aleksandra Grzemska",
      "r": "s. 314",
@@ -118,7 +118,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "wykłady z dziedziny nauk społecznych . e",
+     "pl": "Wykłady z dziedziny nauk społecznych . e",
      "k": "W"
     },
     {
@@ -127,7 +127,7 @@
       "19:30",
       "21:15"
      ],
-     "pl": "warsztaty pisarskie e- KOD TEAMS: is2us2tp w g.",
+     "pl": "Warsztaty pisarskie e- KOD TEAMS: is2us2tp w g.",
      "k": "K",
      "p": "mgr Marek Władyka",
      "pg": "gr:1",
@@ -140,7 +140,8 @@
       "2026-11-19",
       "2026-11-26",
       "2026-12-03"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 4,
@@ -148,7 +149,7 @@
       "18:00",
       "20:30"
      ],
-     "pl": "warsztaty krytyczne z )",
+     "pl": "Warsztaty krytyczne z )",
      "k": "CW",
      "p": "dr hab. Arleta Galant, prof. US",
      "r": "s. 314",
@@ -167,7 +168,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "rhetorics of culture",
+     "pl": "Rhetorics of culture",
      "k": "K",
      "p": "dr hab. Anna Kapuścińska-Jawara, prof. US",
      "r": "gab. 303",
@@ -179,7 +180,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "narracje filmowe w +",
+     "pl": "Narracje filmowe w +",
      "k": "W",
      "p": "dr Damian Romaniak",
      "r": "s. 219"
@@ -190,7 +191,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "retoryka literacka",
+     "pl": "Retoryka literacka",
      "k": "W",
      "p": "dr Barbara Popiel-Kobielska",
      "r": "gab. 303"
@@ -201,7 +202,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "warsztaty krytyczne z",
+     "pl": "Warsztaty krytyczne z",
      "k": "CW",
      "p": "dr hab. Arleta Galant, prof. US",
      "r": "s. 314",
@@ -227,7 +228,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "humanistyka nieantropocentryczna",
+     "pl": "Humanistyka nieantropocentryczna",
      "k": "W",
      "p": "dr hab. Piotr Krupiński, prof. US",
      "r": "gab. 208"
@@ -238,7 +239,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium magisterskie s",
+     "pl": "Seminarium magisterskie s",
      "k": "S",
      "p": "dr hab. Piotr Krupiński, prof. US",
      "r": "gab. 208",
@@ -250,7 +251,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "warsztaty redakcyjne",
+     "pl": "Warsztaty redakcyjne",
      "k": "CW",
      "p": "dr Aleksandra Grzemska",
      "r": "s. 314",
@@ -262,7 +263,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "wykłady z dziedziny nauk społecznych . e",
+     "pl": "Wykłady z dziedziny nauk społecznych . e",
      "k": "W"
     },
     {
@@ -271,7 +272,7 @@
       "19:30",
       "21:15"
      ],
-     "pl": "warsztaty pisarskie e- KOD TEAMS: is2us2tp w g.",
+     "pl": "Warsztaty pisarskie e- KOD TEAMS: is2us2tp w g.",
      "k": "K",
      "p": "mgr Marek Władyka",
      "pg": "gr:1",
@@ -284,7 +285,8 @@
       "2026-11-19",
       "2026-11-26",
       "2026-12-03"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 4,
@@ -292,7 +294,7 @@
       "18:00",
       "20:30"
      ],
-     "pl": "warsztaty krytyczne z )",
+     "pl": "Warsztaty krytyczne z )",
      "k": "CW",
      "p": "dr hab. Arleta Galant, prof. US",
      "r": "s. 314",

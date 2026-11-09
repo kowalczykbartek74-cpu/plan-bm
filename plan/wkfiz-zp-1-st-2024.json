@@ -11,8 +11,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:02:48.239Z",
- "checkedAt": "2026-11-09T20:26:07.883Z",
+ "changedAt": "2026-11-09T22:35:12.415Z",
+ "checkedAt": "2026-11-09T22:48:18.778Z",
  "groups": {
   "ZP3": {
    "odd": [
@@ -22,7 +22,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "podstawy fizjoterapii",
+     "pl": "Podstawy fizjoterapii",
      "k": "W",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masażu",
@@ -46,7 +46,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "podstawy fizjoterapii",
+     "pl": "Podstawy fizjoterapii",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masażu",
@@ -70,7 +70,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "podstawy fizjoterapii",
+     "pl": "Podstawy fizjoterapii",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masażu",
@@ -94,7 +94,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Monika Niewiadomska, prof. US",
      "r": "gabinet 324",
@@ -288,8 +288,8 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski",
-     "k": "X",
+     "pl": "Język angielski",
+     "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 223",
      "dates": [
@@ -318,10 +318,11 @@
       "18:45",
       "20:15"
      ],
-     "pl": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska",
+     "pl": "Szkolenie z obrony cywilnej",
      "k": "X",
      "p": "12:00-13:30 26.11.2026",
-     "r": "-"
+     "r": "-",
+     "n": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska"
     },
     {
      "d": 4,
@@ -348,7 +349,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "podstawy fizjoterapii",
+     "pl": "Podstawy fizjoterapii",
      "k": "W",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masażu",
@@ -372,7 +373,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "podstawy fizjoterapii",
+     "pl": "Podstawy fizjoterapii",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masażu",
@@ -396,7 +397,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "podstawy fizjoterapii",
+     "pl": "Podstawy fizjoterapii",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masażu",
@@ -420,7 +421,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Monika Niewiadomska, prof. US",
      "r": "gabinet 324",
@@ -614,8 +615,8 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski",
-     "k": "X",
+     "pl": "Język angielski",
+     "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 223",
      "dates": [
@@ -644,10 +645,11 @@
       "18:45",
       "20:15"
      ],
-     "pl": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska",
+     "pl": "Szkolenie z obrony cywilnej",
      "k": "X",
      "p": "12:00-13:30 26.11.2026",
-     "r": "-"
+     "r": "-",
+     "n": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska"
     },
     {
      "d": 4,

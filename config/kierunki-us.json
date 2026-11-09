@@ -1275,6 +1275,37 @@
      ]
     },
     {
+     "kod": "ERAS",
+     "pl": "Erasmus+ (studenci z wymiany)",
+     "en": "Erasmus+ (exchange students)",
+     "stopnie": [
+      1
+     ],
+     "tryby": [
+      "st"
+     ],
+     "skroty": [
+      "ERASMUS"
+     ],
+     "wOfercie": false,
+     "maZrodlo": true,
+     "zrodloKodu": "kod istniejący w Skrócie (nauka_kierunki)",
+     "uwagi": [
+      "nazwa tylko ze strony planów (brak w ofercie rekrutacji 2026/27)",
+      "grupa „ERASMUS +” w aplikacji planów WKFiZ (zajęcia po angielsku dla studentów z wymiany)"
+     ],
+     "roczniki": [
+      {
+       "id": "wkfiz-eras-1-st-2026",
+       "stopien": 1,
+       "tryb": "st",
+       "rok": 1,
+       "zrodlo": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
+       "nabor": 2026
+      }
+     ]
+    },
+    {
      "kod": "MWS",
      "pl": "Management w sporcie",
      "en": "Sports Management",
@@ -1640,7 +1671,7 @@
        "stopien": 2,
        "tryb": "st",
        "rok": 1,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-2-9-XI-2026.xlsx",
        "nabor": 2026
       },
       {
@@ -1648,7 +1679,7 @@
        "stopien": 2,
        "tryb": "st",
        "rok": 2,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-2-9-XI-2026.xlsx",
        "nabor": 2025
       }
      ]
@@ -1679,7 +1710,7 @@
      "maZrodlo": true,
      "zrodloKodu": "skrót „DiKS” ze źródła",
      "uwagi": [
-      "nazwa z treści pliku: „DZIENNIKARSTWO I KOMUNIKACJA SPOŁECZNA 1 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
+      "nazwa z treści pliku: „DZIENNIKARSTWO I KOMUNIKACJA SPOŁECZNA 2 rok I st. PLAN ZAJĘĆ SEMESTR ZIMOWY 2026/2027”"
      ],
      "roczniki": [
       {
@@ -1687,7 +1718,7 @@
        "stopien": 1,
        "tryb": "st",
        "rok": 1,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-09-XI-2026.xlsx",
        "nabor": 2026
       },
       {
@@ -1695,7 +1726,7 @@
        "stopien": 1,
        "tryb": "st",
        "rok": 2,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-09-XI-2026.xlsx",
        "nabor": 2025
       },
       {
@@ -1703,7 +1734,7 @@
        "stopien": 1,
        "tryb": "st",
        "rok": 3,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-09-XI-2026.xlsx",
        "nabor": 2024
       }
      ]
@@ -1934,7 +1965,7 @@
        "stopien": 2,
        "tryb": "st",
        "rok": 1,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-28-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-9-XI-2026.xlsx",
        "nabor": 2026
       },
       {
@@ -1942,7 +1973,7 @@
        "stopien": 2,
        "tryb": "st",
        "rok": 2,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-28-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FG-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-9-XI-2026.xlsx",
        "nabor": 2025
       }
      ]
@@ -2091,7 +2122,7 @@
        "stopien": 1,
        "tryb": "nst",
        "rok": 1,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-zm.-2-09-XI-2026.xlsx",
        "nabor": 2026
       },
       {
@@ -2099,7 +2130,7 @@
        "stopien": 1,
        "tryb": "nst",
        "rok": 2,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-zm.-2-09-XI-2026.xlsx",
        "nabor": 2025
       },
       {
@@ -5007,7 +5038,7 @@
        "stopien": 2,
        "tryb": "st",
        "rok": 1,
-       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_1-rok-II-st.-akt.-23.10.pdf",
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mikr_1-rok-II-st.-akt.-9.11.pdf",
        "nabor": 2026
       }
      ]
@@ -5060,7 +5091,7 @@
        "stopien": 1,
        "tryb": "st",
        "rok": 3,
-       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt-6.11.pdf",
+       "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt.-09.11..pdf",
        "nabor": 2024
       }
      ]
@@ -5529,7 +5560,7 @@
        "stopien": 1,
        "tryb": "nst",
        "rok": 1,
-       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-5.pdf",
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-6.pdf",
        "nabor": 2026
       },
       {

@@ -1,0 +1,395 @@
+{
+ "source": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+ "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+ "sha256": "7ad2606fbd54b80d80d1ec450b4e43535b427027938997d671422ff6fb47b854",
+ "kierunek": "Teologia",
+ "kierunekEn": "Theology",
+ "id": "wt-teo-0-st-2025",
+ "kod": "teoj25",
+ "wydzial": "WT",
+ "rok": 2,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:39:50.382Z",
+ "checkedAt": "2026-11-09T22:52:36.003Z",
+ "groups": {
+  "TEO2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język łaciński",
+     "k": "CW",
+     "p": "Mgr Jowita Zabuska",
+     "r": "s. 203"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Historia filozofii nowożytnej",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 203"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Teologia duchowości: rozwój duchowy człowieka",
+     "k": "X",
+     "p": "Ks. dr Tadeusz Kuźmicki",
+     "r": "s. 203"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Antropologia filozoficzna",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 203"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "p": "Dr hab. Adrianna Seniów",
+     "r": "s. 203",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-12-08",
+      "2026-12-15",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "według oferty ACWFiS – zgodnie z dokonanym wyborem"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Historia Kościoła w czasach nowożytnych i współczesna",
+     "k": "W",
+     "p": "Ks. dr hab. Grzegorz Wejman",
+     "r": "s. 202"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Psychologia ogólna",
+     "k": "W",
+     "p": "Ks. dr hab. Sławomir Bukalski",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Liturgika: rok liturgiczny",
+     "k": "X",
+     "p": "Ks. dr Andrzej Krzystek",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "time": [
+      "09:45",
+      "13:15"
+     ],
+     "pl": "Historia Kościoła",
+     "k": "CW",
+     "p": "Ks. dr hab. Grzegorz Wejman",
+     "r": "s. 203",
+     "n": "od 9:45; 8 X – 2 godz., 5 XI, 12 XI, 3 XII – po 4 godz.",
+     "dates": [
+      "2026-10-08",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "Psychologia ogólna",
+     "k": "CW",
+     "p": "Ks. dr hab. S. Bukalski",
+     "r": "s. 203",
+     "n": "oprócz dat historii Kościoła",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "Mgr M. Kisiel-Spychała",
+     "r": "s. 107 ACKJ, ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "n": "pierwsza lub druga połowa semestru – zgodnie z dokonanym wyborem"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język łaciński",
+     "k": "CW",
+     "p": "Mgr Jowita Zabuska",
+     "r": "s. 203"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Historia filozofii nowożytnej",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 203"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Teologia duchowości: rozwój duchowy człowieka",
+     "k": "X",
+     "p": "Ks. dr Tadeusz Kuźmicki",
+     "r": "s. 203"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Antropologia filozoficzna",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 203"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "p": "Dr hab. Adrianna Seniów",
+     "r": "s. 203",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-12-08",
+      "2026-12-15",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "według oferty ACWFiS – zgodnie z dokonanym wyborem"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Historia Kościoła w czasach nowożytnych i współczesna",
+     "k": "W",
+     "p": "Ks. dr hab. Grzegorz Wejman",
+     "r": "s. 202"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Psychologia ogólna",
+     "k": "W",
+     "p": "Ks. dr hab. Sławomir Bukalski",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Liturgika: rok liturgiczny",
+     "k": "X",
+     "p": "Ks. dr Andrzej Krzystek",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "time": [
+      "09:45",
+      "13:15"
+     ],
+     "pl": "Historia Kościoła",
+     "k": "CW",
+     "p": "Ks. dr hab. Grzegorz Wejman",
+     "r": "s. 203",
+     "n": "od 9:45; 8 X – 2 godz., 5 XI, 12 XI, 3 XII – po 4 godz.",
+     "dates": [
+      "2026-10-08",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "Psychologia ogólna",
+     "k": "CW",
+     "p": "Ks. dr hab. S. Bukalski",
+     "r": "s. 203",
+     "n": "oprócz dat historii Kościoła",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "Mgr M. Kisiel-Spychała",
+     "r": "s. 107 ACKJ, ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "n": "pierwsza lub druga połowa semestru – zgodnie z dokonanym wyborem"
+    }
+   ]
+  }
+ }
+}

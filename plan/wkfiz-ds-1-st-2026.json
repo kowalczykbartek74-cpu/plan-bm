@@ -11,8 +11,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:02:48.239Z",
- "checkedAt": "2026-11-09T20:26:07.883Z",
+ "changedAt": "2026-11-09T22:35:12.415Z",
+ "checkedAt": "2026-11-09T22:48:18.778Z",
  "groups": {
   "DS1": {
    "odd": [
@@ -22,7 +22,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "techniki informatyczne",
+     "pl": "Techniki informatyczne",
      "k": "LAB",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -53,7 +53,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "LAB",
      "p": "dr hab. Monika Chudecka, prof. US",
      "r": "s. 217 anatomia",
@@ -84,7 +84,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "techniki informatyczne",
+     "pl": "Techniki informatyczne",
      "k": "LAB",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -115,7 +115,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "LAB",
      "p": "dr hab. Monika Chudecka, prof. US",
      "r": "s. 217 anatomia",
@@ -146,7 +146,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "LAB",
      "p": "dr hab. Monika Chudecka, prof. US",
      "r": "s. 217 anatomia",
@@ -177,7 +177,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "LAB",
      "p": "dr hab. Monika Chudecka, prof. US",
      "r": "s. 217 anatomia",
@@ -208,7 +208,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "biofizyka",
+     "pl": "Biofizyka",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -231,7 +231,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "ochrona własności intelektualnej",
+     "pl": "Ochrona własności intelektualnej",
      "k": "W",
      "p": "dr Przemysław Katner",
      "r": "s. 313",
@@ -248,7 +248,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "wybrane zagadnienia z biologii człowieka",
+     "pl": "Wybrane zagadnienia z biologii człowieka",
      "k": "CW",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 120",
@@ -270,7 +270,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "wybrane zagadnienia z biologii człowieka",
+     "pl": "Wybrane zagadnienia z biologii człowieka",
      "k": "W",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 313",
@@ -293,7 +293,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "W",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 313",
@@ -323,7 +323,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "wybrane zagadnienia z biologii człowieka",
+     "pl": "Wybrane zagadnienia z biologii człowieka",
      "k": "CW",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 101",
@@ -345,7 +345,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "wybrane zagadnienia z biologii człowieka",
+     "pl": "Wybrane zagadnienia z biologii człowieka",
      "k": "CW",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 1",
@@ -367,7 +367,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "antropomotoryka",
+     "pl": "Antropomotoryka",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 313",
@@ -390,7 +390,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "antropomotoryka",
+     "pl": "Antropomotoryka",
      "k": "CW",
      "p": "dr hab. Justyna Krzepota, prof.US",
      "r": "s. 201",
@@ -417,7 +417,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "antropomotoryka",
+     "pl": "Antropomotoryka",
      "k": "CW",
      "p": "dr hab. Justyna Krzepota, prof.US",
      "r": "s. 201",
@@ -444,7 +444,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "biofizyka",
+     "pl": "Biofizyka",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -465,7 +465,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "biofizyka",
+     "pl": "Biofizyka",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -486,7 +486,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "antropomotoryka",
+     "pl": "Antropomotoryka",
      "k": "CW",
      "p": "dr hab. Justyna Krzepota, prof.US",
      "r": "s. 201",
@@ -513,7 +513,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "techniki informatyczne",
+     "pl": "Techniki informatyczne",
      "k": "LAB",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -544,7 +544,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "techniki informatyczne",
+     "pl": "Techniki informatyczne",
      "k": "LAB",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -575,7 +575,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "LAB",
      "p": "dr Anna Nowakowska",
      "r": "ul.Felczaka laboratorium 2",
@@ -606,7 +606,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "LAB",
      "p": "dr Anna Nowakowska",
      "r": "ul.Felczaka laboratorium 2",
@@ -637,7 +637,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "LAB",
      "p": "dr Danuta Cembrowska-Lech",
      "r": "ul.Felczaka laboratorium 1",
@@ -668,7 +668,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "LAB",
      "p": "dr Danuta Cembrowska-Lech",
      "r": "ul.Felczaka laboratorium 2",
@@ -699,7 +699,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "W",
      "p": "dr Anna Nowakowska",
      "r": "ul. Wąska 13, sala 104",
@@ -722,7 +722,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "techniki informatyczne",
+     "pl": "Techniki informatyczne",
      "k": "LAB",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -753,7 +753,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "LAB",
      "p": "dr hab. Monika Chudecka, prof. US",
      "r": "s. 217 anatomia",
@@ -784,7 +784,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "techniki informatyczne",
+     "pl": "Techniki informatyczne",
      "k": "LAB",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -815,7 +815,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "LAB",
      "p": "dr hab. Monika Chudecka, prof. US",
      "r": "s. 217 anatomia",
@@ -846,7 +846,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "LAB",
      "p": "dr hab. Monika Chudecka, prof. US",
      "r": "s. 217 anatomia",
@@ -877,7 +877,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "LAB",
      "p": "dr hab. Monika Chudecka, prof. US",
      "r": "s. 217 anatomia",
@@ -908,7 +908,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "biofizyka",
+     "pl": "Biofizyka",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -931,7 +931,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "ochrona własności intelektualnej",
+     "pl": "Ochrona własności intelektualnej",
      "k": "W",
      "p": "dr Przemysław Katner",
      "r": "s. 313",
@@ -948,7 +948,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "wybrane zagadnienia z biologii człowieka",
+     "pl": "Wybrane zagadnienia z biologii człowieka",
      "k": "CW",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 120",
@@ -970,7 +970,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "wybrane zagadnienia z biologii człowieka",
+     "pl": "Wybrane zagadnienia z biologii człowieka",
      "k": "W",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 313",
@@ -993,7 +993,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "anatomia człowieka",
+     "pl": "Anatomia człowieka",
      "k": "W",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 313",
@@ -1023,7 +1023,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "wybrane zagadnienia z biologii człowieka",
+     "pl": "Wybrane zagadnienia z biologii człowieka",
      "k": "CW",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 101",
@@ -1045,7 +1045,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "wybrane zagadnienia z biologii człowieka",
+     "pl": "Wybrane zagadnienia z biologii człowieka",
      "k": "CW",
      "p": "dr Katarzyna Romaniuk",
      "r": "s. 1",
@@ -1067,7 +1067,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "antropomotoryka",
+     "pl": "Antropomotoryka",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 313",
@@ -1090,7 +1090,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "antropomotoryka",
+     "pl": "Antropomotoryka",
      "k": "CW",
      "p": "dr hab. Justyna Krzepota, prof.US",
      "r": "s. 201",
@@ -1117,7 +1117,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "antropomotoryka",
+     "pl": "Antropomotoryka",
      "k": "CW",
      "p": "dr hab. Justyna Krzepota, prof.US",
      "r": "s. 201",
@@ -1144,7 +1144,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "biofizyka",
+     "pl": "Biofizyka",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -1165,7 +1165,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "biofizyka",
+     "pl": "Biofizyka",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -1186,7 +1186,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "antropomotoryka",
+     "pl": "Antropomotoryka",
      "k": "CW",
      "p": "dr hab. Justyna Krzepota, prof.US",
      "r": "s. 201",
@@ -1213,7 +1213,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "techniki informatyczne",
+     "pl": "Techniki informatyczne",
      "k": "LAB",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -1244,7 +1244,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "techniki informatyczne",
+     "pl": "Techniki informatyczne",
      "k": "LAB",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -1275,7 +1275,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "LAB",
      "p": "dr Anna Nowakowska",
      "r": "ul.Felczaka laboratorium 2",
@@ -1306,7 +1306,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "LAB",
      "p": "dr Anna Nowakowska",
      "r": "ul.Felczaka laboratorium 2",
@@ -1337,7 +1337,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "LAB",
      "p": "dr Danuta Cembrowska-Lech",
      "r": "ul.Felczaka laboratorium 1",
@@ -1368,7 +1368,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "LAB",
      "p": "dr Danuta Cembrowska-Lech",
      "r": "ul.Felczaka laboratorium 2",
@@ -1399,7 +1399,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "biochemia",
+     "pl": "Biochemia",
      "k": "W",
      "p": "dr Anna Nowakowska",
      "r": "ul. Wąska 13, sala 104",

@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FP2": {
    "odd": [
@@ -23,7 +23,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dialektologia",
+     "pl": "Dialektologia",
      "k": "K",
      "p": "dr hab. Agnieszka Szczaus",
      "r": "s. 304",
@@ -45,7 +45,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "socjolingwistyka (zaj. 24.11 )",
+     "pl": "Socjolingwistyka (zaj. 24.11 )",
      "k": "K",
      "p": "dr Rafał Sidorowicz",
      "r": "s. 304",
@@ -95,7 +95,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium magisterskie z stacjonarnie",
+     "pl": "Seminarium magisterskie z stacjonarnie",
      "k": "S",
      "p": "dr hab. Sławomir Iwasiów, prof. US",
      "r": "gab. 412",
@@ -116,7 +116,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "W",
      "p": "dr Anna Szyntor-Bykowska",
      "r": "s. 301",
@@ -128,7 +128,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej 12 lab + 18",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej 12 lab + 18",
      "k": "LAB",
      "p": "dr Anna Szyntor-Bykowska",
      "r": "s. 301",
@@ -140,7 +140,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej 30",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej 30",
      "k": "X",
      "p": "dr Anna Szyntor-Bykowska",
      "r": "s. 301",
@@ -152,7 +152,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teorie językoznawcze",
+     "pl": "Teorie językoznawcze",
      "k": "W",
      "p": "dr hab. Piotr Wojdak",
      "r": "s. 304"
@@ -163,7 +163,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "emisja głosu",
+     "pl": "Emisja głosu",
      "k": "CW",
      "p": "prof. dr hab. Leonarda Mariak",
      "r": "s. 220",
@@ -183,7 +183,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "semantyka językoznawcza",
+     "pl": "Semantyka językoznawcza",
      "k": "K",
      "p": "dr hab. Piotr Wojdak",
      "r": "s. 304",
@@ -208,7 +208,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "do wyboru z literaturoznawstwa: feministyczna krytyka literacka e- KOD TEAMS: xU6jn2m8",
+     "pl": "Do wyboru z literaturoznawstwa: feministyczna krytyka literacka e- KOD TEAMS: xU6jn2m8",
      "k": "W",
      "p": "dr hab. Maciej Duda, prof. US",
      "dates": [
@@ -228,7 +228,8 @@
       "2027-01-06",
       "2027-01-13",
       "2027-01-20"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -236,7 +237,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium dyplomowe z s colq0zr KOD TEAMS: pc27ku9 KOD TEAMS: 1yysb6y e",
+     "pl": "Seminarium dyplomowe z s colq0zr KOD TEAMS: pc27ku9 KOD TEAMS: 1yysb6y e",
      "k": "S",
      "p": "prof. dr hab. Ewa Kołodziejek KOD TEAMS, dr hab. Anna Kapuścińska-Jawara, prof. US, dr hab. Sławomir Iwasiów, prof. US",
      "pg": "gr:1",
@@ -252,7 +253,8 @@
       "2026-12-02",
       "2026-12-09",
       "2026-12-16"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -260,9 +262,10 @@
       "18:45",
       "20:15"
      ],
-     "pl": "dyskursy późnej nowoczesności e- KOD TEAMS: m6b3kf0",
+     "pl": "Dyskursy późnej nowoczesności e- KOD TEAMS: m6b3kf0",
      "k": "W",
-     "p": "dr hab. Tatiana Czerska, prof. US"
+     "p": "dr hab. Tatiana Czerska, prof. US",
+     "r": "online"
     },
     {
      "d": 3,
@@ -270,7 +273,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminarium magisterskie z s stacjonarnie",
+     "pl": "Seminarium magisterskie z s stacjonarnie",
      "k": "S",
      "p": "dr hab. Anna Kapuścińska-Jawara, prof. US",
      "r": "gab. 303",
@@ -291,7 +294,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "dr Barbara Popiel Kobielska",
      "r": "gab. 303",
@@ -303,7 +306,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teorie literatury",
+     "pl": "Teorie literatury",
      "k": "K",
      "p": "prof. dr hab. Dariusz Śnieżko",
      "r": "s. 314",
@@ -315,7 +318,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "języki pisarzy",
+     "pl": "Języki pisarzy",
      "k": "W",
      "p": "prof. dr hab. Leonarda Mariak",
      "r": "s. 220",
@@ -339,7 +342,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium magisterskie z stacjonarnie",
+     "pl": "Seminarium magisterskie z stacjonarnie",
      "k": "S",
      "p": "prof. dr hab. Ewa Kołodziejek",
      "r": "gab. 206",
@@ -360,7 +363,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "dyskursy późnej nowoczesności 30",
+     "pl": "Dyskursy późnej nowoczesności 30",
      "k": "X",
      "p": "dr hab. Tatiana Czerska, prof. US",
      "r": "s. 1",
@@ -372,7 +375,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "wykłady z dziedziny nauk społecznych . (e- )",
+     "pl": "Wykłady z dziedziny nauk społecznych . (e- )",
      "k": "W"
     }
    ],
@@ -383,7 +386,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dialektologia",
+     "pl": "Dialektologia",
      "k": "K",
      "p": "dr hab. Agnieszka Szczaus",
      "r": "s. 304",
@@ -405,7 +408,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "socjolingwistyka (zaj. 24.11 )",
+     "pl": "Socjolingwistyka (zaj. 24.11 )",
      "k": "K",
      "p": "dr Rafał Sidorowicz",
      "r": "s. 304",
@@ -455,7 +458,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium magisterskie z stacjonarnie",
+     "pl": "Seminarium magisterskie z stacjonarnie",
      "k": "S",
      "p": "dr hab. Sławomir Iwasiów, prof. US",
      "r": "gab. 412",
@@ -476,7 +479,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "W",
      "p": "dr Anna Szyntor-Bykowska",
      "r": "s. 301",
@@ -488,7 +491,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej 12 lab + 18",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej 12 lab + 18",
      "k": "LAB",
      "p": "dr Anna Szyntor-Bykowska",
      "r": "s. 301",
@@ -500,7 +503,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej 30",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej 30",
      "k": "X",
      "p": "dr Anna Szyntor-Bykowska",
      "r": "s. 301",
@@ -512,7 +515,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teorie językoznawcze",
+     "pl": "Teorie językoznawcze",
      "k": "W",
      "p": "dr hab. Piotr Wojdak",
      "r": "s. 304"
@@ -523,7 +526,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "emisja głosu",
+     "pl": "Emisja głosu",
      "k": "CW",
      "p": "prof. dr hab. Leonarda Mariak",
      "r": "s. 220",
@@ -543,7 +546,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "semantyka językoznawcza",
+     "pl": "Semantyka językoznawcza",
      "k": "K",
      "p": "dr hab. Piotr Wojdak",
      "r": "s. 304",
@@ -568,7 +571,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "do wyboru z literaturoznawstwa: feministyczna krytyka literacka e- KOD TEAMS: xU6jn2m8",
+     "pl": "Do wyboru z literaturoznawstwa: feministyczna krytyka literacka e- KOD TEAMS: xU6jn2m8",
      "k": "W",
      "p": "dr hab. Maciej Duda, prof. US",
      "dates": [
@@ -588,7 +591,8 @@
       "2027-01-06",
       "2027-01-13",
       "2027-01-20"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -596,7 +600,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium dyplomowe z s colq0zr KOD TEAMS: pc27ku9 KOD TEAMS: 1yysb6y e",
+     "pl": "Seminarium dyplomowe z s colq0zr KOD TEAMS: pc27ku9 KOD TEAMS: 1yysb6y e",
      "k": "S",
      "p": "prof. dr hab. Ewa Kołodziejek KOD TEAMS, dr hab. Anna Kapuścińska-Jawara, prof. US, dr hab. Sławomir Iwasiów, prof. US",
      "pg": "gr:1",
@@ -612,7 +616,8 @@
       "2026-12-02",
       "2026-12-09",
       "2026-12-16"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -620,9 +625,10 @@
       "18:45",
       "20:15"
      ],
-     "pl": "dyskursy późnej nowoczesności e- KOD TEAMS: m6b3kf0",
+     "pl": "Dyskursy późnej nowoczesności e- KOD TEAMS: m6b3kf0",
      "k": "W",
-     "p": "dr hab. Tatiana Czerska, prof. US"
+     "p": "dr hab. Tatiana Czerska, prof. US",
+     "r": "online"
     },
     {
      "d": 3,
@@ -630,7 +636,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminarium magisterskie z s stacjonarnie",
+     "pl": "Seminarium magisterskie z s stacjonarnie",
      "k": "S",
      "p": "dr hab. Anna Kapuścińska-Jawara, prof. US",
      "r": "gab. 303",
@@ -651,7 +657,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "dr Barbara Popiel Kobielska",
      "r": "gab. 303",
@@ -663,7 +669,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teorie literatury",
+     "pl": "Teorie literatury",
      "k": "K",
      "p": "prof. dr hab. Dariusz Śnieżko",
      "r": "s. 314",
@@ -675,7 +681,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "języki pisarzy",
+     "pl": "Języki pisarzy",
      "k": "W",
      "p": "prof. dr hab. Leonarda Mariak",
      "r": "s. 220",
@@ -699,7 +705,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium magisterskie z stacjonarnie",
+     "pl": "Seminarium magisterskie z stacjonarnie",
      "k": "S",
      "p": "prof. dr hab. Ewa Kołodziejek",
      "r": "gab. 206",
@@ -720,7 +726,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "dyskursy późnej nowoczesności 30",
+     "pl": "Dyskursy późnej nowoczesności 30",
      "k": "X",
      "p": "dr hab. Tatiana Czerska, prof. US",
      "r": "s. 1",
@@ -732,7 +738,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "wykłady z dziedziny nauk społecznych . (e- )",
+     "pl": "Wykłady z dziedziny nauk społecznych . (e- )",
      "k": "W"
     }
    ]

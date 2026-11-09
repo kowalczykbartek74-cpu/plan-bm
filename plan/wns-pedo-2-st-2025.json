@@ -1,0 +1,409 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
+ "wersja": "PedO-II-79.pdf",
+ "sha256": "b6212bd0146bf1b02a5b81d77ba1fd5763d4923eba2c6a8559e90c58cc221886",
+ "kierunek": "Pedagogika",
+ "kierunekEn": "Pedagogy",
+ "id": "wns-pedo-2-st-2025",
+ "kod": "pedom25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PEDO2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr E. Stefanowska",
+     "r": "s. 109 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr J.Paśnicka-Stopa",
+     "r": "s. 144 ul. Krakowska 71-79"
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia kliniczna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-26",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Metodyka interwencji i terapii psychopedagogicznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 13:15",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Parchimowicz",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "n": "termin w inny dzień: 29.01",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztaty socjoterapeutyczne",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr G. Kowalczyk",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. dr hab. B. Kromolicka",
+     "r": "s. 219 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 3,
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr E. Stefanowska",
+     "r": "s. 109 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr J.Paśnicka-Stopa",
+     "r": "s. 144 ul. Krakowska 71-79"
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia kliniczna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-26",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Metodyka interwencji i terapii psychopedagogicznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 13:15",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Parchimowicz",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "n": "termin w inny dzień: 29.01",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztaty socjoterapeutyczne",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr G. Kowalczyk",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. dr hab. B. Kromolicka",
+     "r": "s. 219 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 3,
+     "pl": "Wykład dziedzinowy",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    }
+   ]
+  }
+ }
+}

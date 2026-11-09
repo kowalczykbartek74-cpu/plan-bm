@@ -1,0 +1,381 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-II-21.pdf",
+ "wersja": "EA-II-21.pdf",
+ "sha256": "f9a1a2de8bb2907a1eabeb3ecfff06c79333212f7ef51a80292813dbfba85054",
+ "kierunek": "Edukacja artystyczna",
+ "kierunekEn": "Art Education",
+ "id": "wns-ea-2-st-2026",
+ "kod": "eam26",
+ "wydzial": "WNS",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "EA1": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Praca z osobami uzdolnionymi",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Historia muzealnictwa i współczesne nurty kuratorstwa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Pawłowska",
+     "r": "s. 71 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Historia muzealnictwa i współczesne nurty kuratorstwa",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Pawłowska",
+     "r": "s. 026 ul. Krakowska 71-79",
+     "dates": [
+      "2026-11-17"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Historia muzealnictwa i współczesne nurty kuratorstwa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr A. Pawłowska",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Marketing i zarządzanie w kulturze",
+     "k": "CW",
+     "time": [
+      "14:20",
+      "16:45"
+     ],
+     "p": "dr M. Wiścicka-Fernando",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Podstawy analizy dzieła artystycznego",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Szajda, prof. US",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "n": "zaj. w godz. 8:15-9:45",
+     "dates": [
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Rysunek z metodyką",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr M. Materne",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Współczesne nurty muzyki i tańca z metodyką",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. Sz. Wyrzykowski",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 13:15",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Podstawy analizy dzieła artystycznego",
+     "k": "LAB",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr hab. M. Szajda, prof.",
+     "n": "8 X s. 53 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr hab. M. Szajda, prof."
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Praca z osobami uzdolnionymi",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Historia muzealnictwa i współczesne nurty kuratorstwa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Pawłowska",
+     "r": "s. 71 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Historia muzealnictwa i współczesne nurty kuratorstwa",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Pawłowska",
+     "r": "s. 026 ul. Krakowska 71-79",
+     "dates": [
+      "2026-11-17"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Historia muzealnictwa i współczesne nurty kuratorstwa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr A. Pawłowska",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Marketing i zarządzanie w kulturze",
+     "k": "CW",
+     "time": [
+      "14:20",
+      "16:45"
+     ],
+     "p": "dr M. Wiścicka-Fernando",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Podstawy analizy dzieła artystycznego",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Szajda, prof. US",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "n": "zaj. w godz. 8:15-9:45",
+     "dates": [
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Rysunek z metodyką",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr M. Materne",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Współczesne nurty muzyki i tańca z metodyką",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. Sz. Wyrzykowski",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 13:15",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Podstawy analizy dzieła artystycznego",
+     "k": "LAB",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr hab. M. Szajda, prof.",
+     "n": "8 X s. 53 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr hab. M. Szajda, prof."
+    }
+   ]
+  }
+ }
+}

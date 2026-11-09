@@ -1,6 +1,7 @@
 // Wspólne funkcje dla źródeł planów US (poza systemem WEFiZ, który ma scripts/uczelnia.mjs).
 // Etap 0: grzeczne pobieranie z cache i skrótem sha256, odczyt XLSX (zip) bez zależności, pomocnicze funkcje tekstu.
 // Etap 2 dołoży tu normalizację zajęć i zapis plan/<id>.json.
+import { porzadkujGroups } from "./porzadki.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
@@ -265,7 +266,7 @@ export const liczbaZajecPlanu = (groups) => Object.values(groups || {}).reduce((
 // meta: { kierunek, kierunekEn, id, kod, wydzial, rok, rokAkademicki?, semestr?, source (adres pliku), wersja, sha256? }
 export function zapiszPlan(plik, groups, meta, { teraz = new Date().toISOString(), naSucho = false, czekaNaZatwierdzenie = false } = {}) {
   const stary = fs.existsSync(plik) ? JSON.parse(fs.readFileSync(plik, "utf8")) : null;
-  const g = porzadkuj(groups);
+  const g = porzadkuj(porzadkujGroups(groups));   // porządki nazw (scripts/us/porzadki.mjs), potem kolejność
   const wynik = { status: null, grupy: Object.keys(g).length, zajec: liczbaZajecPlanu(g), zrodlo: meta.source || null, wersja: meta.wersja || null };
   const bledy = waliduj({ groups: g });
   if (bledy.length) return { ...wynik, status: "błąd", blad: `plan nie przeszedł sprawdzenia: ${bledy.slice(0, 3).join("; ")}${bledy.length > 3 ? ` (+${bledy.length - 3})` : ""}. Zostaje poprzednia wersja.` };

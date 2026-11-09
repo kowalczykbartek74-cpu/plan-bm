@@ -13,6 +13,7 @@
     "wh": { "Filologia romańska z językiem obcym do wyboru": "FRZJO" },
     "_wh": "FRZJO = propozycja (skrót pliku FRZJOdW ma 7 liter), do potwierdzenia przez Bartka",
     "wns": { "Pedagogika specjalna": "PEDSP" },
+    "wkfiz": { "Erasmus+ (studenci z wymiany)": "ERAS" },
     "_wns": "PEDSP = propozycja (skrót pliku PEDSPEC ma 7 liter), do potwierdzenia przez Bartka"
   },
   "wydzialy": [
@@ -55,7 +56,7 @@
       "kod": "wns", "skrot": "WNS", "pl": "Wydział Nauk Społecznych", "en": "Faculty of Social Sciences",
       "oferta": "Wydział Nauk Społecznych",
       "parser": "wns",
-      "importer": "wns-pdf.mjs",
+      "importer": "wns-pdf.mjs", "publikacja": "od razu", "_publikacja": "decyzja Bartka 9.11.2026: plan z PDF na stronę od razu, szkic do wglądu w panelu Importy (poprawki z panelu wygrywają)",
       "nstEtykiety": { "_opis": "Etap 7: etykiety kolumn w PDF-ach zjazdów (studia niestacjonarne) → kierunek", "BN": "Bezpieczeństwo narodowe", "BW": "Bezpieczeństwo wewnętrzne", "MIPiPR": "Management instytucji publicznych i Public Relations", "ped": "Pedagogika", "ps": "Praca socjalna", "reso": "Pedagogika resocjalizacyjna", "ppiw": "Pedagogika przedszkolna i wczesnoszkolna", "pedspec": "Pedagogika specjalna" },
       "strony": [
         { "url": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" },
@@ -68,7 +69,7 @@
       "kod": "wnsip", "skrot": "WNŚiP", "pl": "Wydział Nauk Ścisłych i Przyrodniczych", "en": "Faculty of Exact and Natural Sciences",
       "oferta": "Wydział Nauk Ścisłych i Przyrodniczych",
       "parser": "wnsip",
-      "importer": "wnsip-pdf.mjs",
+      "importer": "wnsip-pdf.mjs", "publikacja": "od razu", "_publikacja": "decyzja Bartka 9.11.2026: plan z PDF na stronę od razu, szkic do wglądu w panelu Importy (poprawki z panelu wygrywają)",
       "strony": [
         { "url": "https://spr.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne/", "tryb": "st", "format": "pdf" }
       ],
@@ -78,7 +79,7 @@
       "kod": "wpia", "skrot": "WPiA", "pl": "Wydział Prawa i Administracji", "en": "Faculty of Law and Administration",
       "oferta": "Wydział Prawa i Administracji",
       "parser": "wpia",
-      "importer": "wpia-pdf.mjs",
+      "importer": "wpia-pdf.mjs", "publikacja": "od razu", "_publikacja": "decyzja Bartka 9.11.2026: plan z PDF na stronę od razu, szkic do wglądu w panelu Importy (poprawki z panelu wygrywają)",
       "dosSkroty": { "_opis": "Etap 6: skróty kierunków w tytułach wpisów DOS Narutowicza („SSP IV – …”, „SSA I st. II r. – …”); N… = niestacjonarne", "PRAWO": ["SSP"], "ADM": ["SSA"] },
       "dosNiestacjonarne": ["NSP", "NSA", "NPSM"],
       "strony": [
@@ -90,7 +91,7 @@
       "kod": "wt", "skrot": "WT", "pl": "Wydział Teologiczny", "en": "Faculty of Theology",
       "oferta": "Wydział Teologiczny",
       "parser": "wt",
-      "importer": "wt-pdf.mjs",
+      "importer": "wt-pdf.mjs", "publikacja": "od razu", "_publikacja": "decyzja Bartka 9.11.2026: plan z PDF na stronę od razu, szkic do wglądu w panelu Importy (poprawki z panelu wygrywają)",
       "roczniki": {
         "_opis": "Oba PDF-y WT to skany bez tekstu – stopień i lata z nagłówków kolumn (odczyt obrazu 9.11.2026). Teologia: ROK 1–5 + „seminaria magisterskie” = jednolite (stopień 0); oferta rekrutacji podaje ją wśród I st. i jednolitych.",
         "Plan-TEO": [{ "stopien": 0, "lata": [1, 2, 3, 4, 5] }],

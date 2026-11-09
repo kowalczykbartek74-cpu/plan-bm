@@ -1,0 +1,687 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
+ "wersja": "RESO-I-95.pdf",
+ "sha256": "69e87ae9abadea73993e7e4fbd83b854b87e01e95335bc83071a6ef19f38cdb7",
+ "kierunek": "Pedagogika resocjalizacyjna",
+ "kierunekEn": "Rehabilitation Pedagogy",
+ "id": "wns-reso-1-st-2024",
+ "kod": "reso24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "RESO3": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "J. angielski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr E. Stefanowska",
+     "r": "s. 109 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "pl": "J. niemiecki",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 144 ul. Krakowska 71-79"
+    },
+    {
+     "d": 0,
+     "pl": "Komunikacja interpersonalna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr B. Chojnacka",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Interwencja kryzysowa",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:00",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 53 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 1,
+     "pl": "Prawne podstawy profilaktyki i resocjalizacji",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 15:45",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr R. Szałachowski",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 10:00; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Komunikacja interpersonalna",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr E. Wojciechowska- Włodarczyk",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "termin w inny dzień: 29.01",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr M. Zięciak",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Interwencja kryzysowa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "zaj: 13:30-16:45; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Interwencja kryzysowa",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr M Zięciak",
+     "r": "s. 237 ul. Krakowska 71-79",
+     "n": "pierwsze zaj od g. 10:00",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Lipińska",
+     "r": "s. 237 ul. Krakowska 71-79",
+     "n": "ost zaj do g. 9:45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr . I. Walczowska, prof."
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr hab. B. Bugajska"
+    },
+    {
+     "d": 4,
+     "pl": "Elementy technologii informacyjnej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Witosz",
+     "r": "s. 010 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Prawne podstawy profilaktyki i resocjalizacji",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:15"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 143 ul. Krakowska 71-79",
+     "n": "ost zaj do g. 11:30",
+     "dates": [
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "J. angielski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr E. Stefanowska",
+     "r": "s. 109 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "pl": "J. niemiecki",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 144 ul. Krakowska 71-79"
+    },
+    {
+     "d": 0,
+     "pl": "Komunikacja interpersonalna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr B. Chojnacka",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Interwencja kryzysowa",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:00",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 53 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 1,
+     "pl": "Prawne podstawy profilaktyki i resocjalizacji",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 15:45",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr R. Szałachowski",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 10:00; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Komunikacja interpersonalna",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr E. Wojciechowska- Włodarczyk",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "termin w inny dzień: 29.01",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr M. Zięciak",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Interwencja kryzysowa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "zaj: 13:30-16:45; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Interwencja kryzysowa",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr M Zięciak",
+     "r": "s. 237 ul. Krakowska 71-79",
+     "n": "pierwsze zaj od g. 10:00",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Lipińska",
+     "r": "s. 237 ul. Krakowska 71-79",
+     "n": "ost zaj do g. 9:45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr . I. Walczowska, prof."
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr hab. B. Bugajska"
+    },
+    {
+     "d": 4,
+     "pl": "Elementy technologii informacyjnej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Witosz",
+     "r": "s. 010 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Prawne podstawy profilaktyki i resocjalizacji",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:15"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 143 ul. Krakowska 71-79",
+     "n": "ost zaj do g. 11:30",
+     "dates": [
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1289 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSA-II-st.-2.pdf",
+ "wersja": "I-NSA-II-st.-2.pdf",
+ "sha256": "a86d898700c887f5a263503b2beb7f52efa7b22a08d442fe29fbf4d56a08138a",
+ "kierunek": "Administracja",
+ "kierunekEn": "Administration",
+ "id": "wpia-adm-2-nst-2026",
+ "kod": "admmn26",
+ "wydzial": "WPiA",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "ADM1": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Historia myśli ustrojowo-administracyjnej",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia myśli ustrojowo-administracyjnej",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Ochrona praw człowieka",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ochrona praw człowieka",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo autorskie i prawo własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Poprawna polszczyzna w praktyce",
+     "k": "X",
+     "p": "dr R. Sidorowicz",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr K. Brzychcy",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr K. Brzychcy",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Ochrona praw człowieka",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia myśli ustrojowo-administracyjnej",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Historia myśli ustrojowo-administracyjnej",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Poprawna polszczyzna w praktyce",
+     "k": "X",
+     "p": "dr R. Sidorowicz",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Poprawna polszczyzna w praktyce",
+     "k": "X",
+     "p": "dr R. Sidorowicz",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Ochrona praw człowieka",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawo autorskie i prawo własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr K. Brzychcy",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Historia myśli ustrojowo-administracyjnej",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia myśli ustrojowo-administracyjnej",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Ochrona praw człowieka",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ochrona praw człowieka",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo autorskie i prawo własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Poprawna polszczyzna w praktyce",
+     "k": "X",
+     "p": "dr R. Sidorowicz",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr K. Brzychcy",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr K. Brzychcy",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Ochrona praw człowieka",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia myśli ustrojowo-administracyjnej",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Historia myśli ustrojowo-administracyjnej",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Poprawna polszczyzna w praktyce",
+     "k": "X",
+     "p": "dr R. Sidorowicz",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Poprawna polszczyzna w praktyce",
+     "k": "X",
+     "p": "dr R. Sidorowicz",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Ochrona praw człowieka",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawo autorskie i prawo własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "System prawa międzynarodowego publicznego",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr K. Brzychcy",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "X",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 119 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Zasady ustroju konstytucyjnego państwa",
+     "k": "X",
+     "p": "dr J. Uniejewski",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ]
+  }
+ }
+}

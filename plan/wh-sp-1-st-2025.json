@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "SP2": {
    "odd": [
@@ -23,7 +23,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "stylistyka tekstów użytkowych",
+     "pl": "Stylistyka tekstów użytkowych",
      "k": "K",
      "p": "dr hab. Agnieszka Szczaus",
      "r": "s. 304"
@@ -34,7 +34,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "literatura nowomedialna",
+     "pl": "Literatura nowomedialna",
      "k": "W",
      "p": "dr Marta Szpatowicz",
      "r": "s. 304"
@@ -45,7 +45,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "warsztaty prozatorskie – powieść",
+     "pl": "Warsztaty prozatorskie – powieść",
      "k": "K",
      "p": "prof. dr hab. Inga Iwasiów",
      "r": "s. 219"
@@ -56,7 +56,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "proza popularna i popkulturowa: współczesna powieść popularna",
+     "pl": "Proza popularna i popkulturowa: współczesna powieść popularna",
      "k": "K",
      "p": "dr Barbara Braid",
      "r": "s. 201"
@@ -67,7 +67,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "powieść i świat",
+     "pl": "Powieść i świat",
      "k": "W",
      "p": "prof. dr hab. Marta Skwara",
      "r": "s. 314"
@@ -78,7 +78,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "mity i obsesje kultury polskiej",
+     "pl": "Mity i obsesje kultury polskiej",
      "k": "W",
      "p": "dr Aleksanda Grzemska",
      "r": "s. 119"
@@ -89,7 +89,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Przmysław Krywult",
      "r": "s. 120"
@@ -100,7 +100,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "powieść i świat",
+     "pl": "Powieść i świat",
      "k": "K",
      "p": "dr Jarosław Borowiec",
      "r": "s. 314"
@@ -111,7 +111,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "gatunki, konwencje, tematy literatury polskiej",
+     "pl": "Gatunki, konwencje, tematy literatury polskiej",
      "k": "K",
      "p": "dr Mariusz Strzeżek",
      "r": "s. 220"
@@ -122,7 +122,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "ogólnouczelniany w e",
+     "pl": "Ogólnouczelniany w e",
      "k": "W"
     },
     {
@@ -131,7 +131,7 @@
       "19:45",
       "21:15"
      ],
-     "pl": "proza popularna i popkulturowa: powieść kobieca (współprowadzenie )",
+     "pl": "Proza popularna i popkulturowa: powieść kobieca (współprowadzenie )",
      "k": "K",
      "p": "dr hab. Tatiana Czerska, prof. US, mgr Joanna Miętki",
      "r": "s. 215"
@@ -142,7 +142,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "warsztaty pisarskie e- KOD TEAMS: zM3rE3Mm",
+     "pl": "Warsztaty pisarskie e- KOD TEAMS: zM3rE3Mm",
      "k": "K",
      "p": "mgr Marek Władyka",
      "dates": [
@@ -156,7 +156,8 @@
       "2026-12-04",
       "2026-12-11",
       "2026-12-18"
-     ]
+     ],
+     "r": "online"
     }
    ],
    "even": [
@@ -166,7 +167,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "stylistyka tekstów użytkowych",
+     "pl": "Stylistyka tekstów użytkowych",
      "k": "K",
      "p": "dr hab. Agnieszka Szczaus",
      "r": "s. 304"
@@ -177,7 +178,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "literatura nowomedialna",
+     "pl": "Literatura nowomedialna",
      "k": "W",
      "p": "dr Marta Szpatowicz",
      "r": "s. 304"
@@ -188,7 +189,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "warsztaty prozatorskie – powieść",
+     "pl": "Warsztaty prozatorskie – powieść",
      "k": "K",
      "p": "prof. dr hab. Inga Iwasiów",
      "r": "s. 219"
@@ -199,7 +200,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "proza popularna i popkulturowa: współczesna powieść popularna",
+     "pl": "Proza popularna i popkulturowa: współczesna powieść popularna",
      "k": "K",
      "p": "dr Barbara Braid",
      "r": "s. 201"
@@ -210,7 +211,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "powieść i świat",
+     "pl": "Powieść i świat",
      "k": "W",
      "p": "prof. dr hab. Marta Skwara",
      "r": "s. 314"
@@ -221,7 +222,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "mity i obsesje kultury polskiej",
+     "pl": "Mity i obsesje kultury polskiej",
      "k": "W",
      "p": "dr Aleksanda Grzemska",
      "r": "s. 119"
@@ -232,7 +233,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Przmysław Krywult",
      "r": "s. 120"
@@ -243,7 +244,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "powieść i świat",
+     "pl": "Powieść i świat",
      "k": "K",
      "p": "dr Jarosław Borowiec",
      "r": "s. 314"
@@ -254,7 +255,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "gatunki, konwencje, tematy literatury polskiej",
+     "pl": "Gatunki, konwencje, tematy literatury polskiej",
      "k": "K",
      "p": "dr Mariusz Strzeżek",
      "r": "s. 220"
@@ -265,7 +266,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "ogólnouczelniany w e",
+     "pl": "Ogólnouczelniany w e",
      "k": "W"
     },
     {
@@ -274,7 +275,7 @@
       "19:45",
       "21:15"
      ],
-     "pl": "proza popularna i popkulturowa: powieść kobieca (współprowadzenie )",
+     "pl": "Proza popularna i popkulturowa: powieść kobieca (współprowadzenie )",
      "k": "K",
      "p": "dr hab. Tatiana Czerska, prof. US, mgr Joanna Miętki",
      "r": "s. 215"
@@ -285,7 +286,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "warsztaty pisarskie e- KOD TEAMS: zM3rE3Mm",
+     "pl": "Warsztaty pisarskie e- KOD TEAMS: zM3rE3Mm",
      "k": "K",
      "p": "mgr Marek Władyka",
      "dates": [
@@ -299,7 +300,8 @@
       "2026-12-04",
       "2026-12-11",
       "2026-12-18"
-     ]
+     ],
+     "r": "online"
     }
    ]
   }

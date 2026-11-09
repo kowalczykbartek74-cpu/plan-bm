@@ -1,0 +1,3269 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/IV-NSP-7.pdf",
+ "wersja": "IV-NSP-7.pdf",
+ "sha256": "6c9713df1c9a9c3d11c2602ba2b70126ea0fde544d282fca6ebc6c727928f89a",
+ "kierunek": "Prawo",
+ "kierunekEn": "Law",
+ "id": "wpia-prawo-0-nst-2023",
+ "kod": "prawojn23",
+ "wydzial": "WPiA",
+ "rok": 4,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PRAWO4": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. E. Kowalewska, prof. US, dr hab. M. Nawrocki, prof. US, dr hab. M. Tkaczuk, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. M. Nawrocki, prof. US, dr hab. M. Tkaczuk, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. E. Kowalewska, prof. US, dr hab. M. Nawrocki, prof. US, dr hab. M. Tkaczuk, prof. US, dr hab. K. Wesołowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. K. Wesołowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. E. Kowalewska, prof. US, dr hab. K. Wesołowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. E. Kowalewska, prof. US, dr hab. M. Nawrocki, dr hab. M. Tkaczuk, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. E. Kowalewska, prof. US, dr hab. M. Nawrocki, dr hab. M. Tkaczuk, prof. US, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 215 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2026-12-05",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo spadkowe:1",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 118 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych- Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo spadkowe:1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 215 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "X",
+     "p": "dr P. Mańczyk",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo morskie",
+     "k": "X",
+     "p": "dr M. Szymszon",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Rozprawa sądowa",
+     "k": "X",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Warsztaty prawnicze z pisania pism sądowych i urzędowych",
+     "k": "CW",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych- Pietrzak",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "W",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "W",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "X",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "W",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych- Pietrzak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "18:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "18:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:30",
+      "20:00"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:30",
+      "20:00"
+     ],
+     "pl": "Rozprawa sądowa",
+     "k": "X",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "dates": [
+      "2026-12-05",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:30",
+      "20:00"
+     ],
+     "pl": "Warsztaty prawnicze z pisania pism sądowych i urzędowych",
+     "k": "CW",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-05",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 215 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2026-12-06",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych- Pietrzak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo morskie",
+     "k": "X",
+     "p": "dr M. Szymszon",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Warsztaty prawnicze z pisania pism sądowych i urzędowych",
+     "k": "CW",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:15",
+      "10:45"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:15",
+      "10:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo spadkowe:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:15",
+      "10:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2026-12-06",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo spadkowe:1",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Warsztaty prawnicze z pisania pism sądowych i urzędowych",
+     "k": "CW",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:45",
+      "14:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo morskie",
+     "k": "X",
+     "p": "dr M. Szymszon",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Rozprawa sądowa",
+     "k": "X",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-12-06",
+      "2026-12-13",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "18:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Rozprawa sądowa",
+     "k": "X",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. E. Kowalewska, prof. US, dr hab. M. Nawrocki, prof. US, dr hab. M. Tkaczuk, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. M. Nawrocki, prof. US, dr hab. M. Tkaczuk, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. E. Kowalewska, prof. US, dr hab. M. Nawrocki, prof. US, dr hab. M. Tkaczuk, prof. US, dr hab. K. Wesołowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. K. Wesołowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. E. Kowalewska, prof. US, dr hab. K. Wesołowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. E. Kowalewska, prof. US, dr hab. M. Nawrocki, dr hab. M. Tkaczuk, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. E. Kowalewska, prof. US, dr hab. M. Nawrocki, dr hab. M. Tkaczuk, prof. US, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 215 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2026-12-05",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo spadkowe:1",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 118 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych- Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo spadkowe:1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 215 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "X",
+     "p": "dr P. Mańczyk",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo morskie",
+     "k": "X",
+     "p": "dr M. Szymszon",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Rozprawa sądowa",
+     "k": "X",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Warsztaty prawnicze z pisania pism sądowych i urzędowych",
+     "k": "CW",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych- Pietrzak",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "W",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "W",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "X",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "W",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych- Pietrzak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "18:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "18:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:30",
+      "20:00"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:30",
+      "20:00"
+     ],
+     "pl": "Rozprawa sądowa",
+     "k": "X",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "dates": [
+      "2026-12-05",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:30",
+      "20:00"
+     ],
+     "pl": "Warsztaty prawnicze z pisania pism sądowych i urzędowych",
+     "k": "CW",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-05",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 215 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2026-12-06",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych- Pietrzak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo morskie",
+     "k": "X",
+     "p": "dr M. Szymszon",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-11",
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Warsztaty prawnicze z pisania pism sądowych i urzędowych",
+     "k": "CW",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:15",
+      "10:45"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:15",
+      "10:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo spadkowe:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:15",
+      "10:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2026-12-06",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo spadkowe:1",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Warsztaty prawnicze z pisania pism sądowych i urzędowych",
+     "k": "CW",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:45",
+      "14:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr S. Staszak",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo morskie",
+     "k": "X",
+     "p": "dr M. Szymszon",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Rozprawa sądowa",
+     "k": "X",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "18:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Prawo Unii Europejskiej:1",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-12-06",
+      "2026-12-13",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "18:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr A. Klich",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Rozprawa sądowa",
+     "k": "X",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    }
+   ]
+  }
+ }
+}

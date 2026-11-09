@@ -91,11 +91,12 @@ test("WT: tylko tygodniowe plany (bez rocznych układów przedmiotów)", () => {
 test("WKFiZ: grupy z aplikacji", () => {
   assert.deepEqual(grupaWKFiZ("MwS 2 rok I stopień"), { skrot: "MwS", rok: 2, stopien: 1 });
   assert.deepEqual(grupaWKFiZ("WF 1 rok II stopień"), { skrot: "WF", rok: 1, stopien: 2 });
-  assert.equal(grupaWKFiZ("ERASMUS +"), null);
+  assert.deepEqual(grupaWKFiZ("ERASMUS +"), { skrot: "ERASMUS", rok: 1, stopien: 1 }, "studenci z wymiany = osobny rocznik (9.11)");
+  assert.equal(grupaWKFiZ("Grupa specjalna"), null);
   const r = zrodlaWKFiZ(JSON.parse(F("wkfiz", "schedule.json")), JSON.parse(F("wkfiz", "html-plans.json")), "S", "N");
   assert.ok(r.zrodla.filter((x) => x.tryb === "st").length >= 15);
   assert.ok(r.zrodla.some((x) => x.tryb === "nst"));
-  assert.ok(r.niejasne.some((q) => /ERASMUS/.test(q)));
+  assert.ok(r.zrodla.some((x) => x.grupa === "ERASMUS +"));
 });
 
 test("oferta US: kierunki z wydziałem i trybem", () => {

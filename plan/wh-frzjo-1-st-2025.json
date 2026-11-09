@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FRZJO2": {
    "odd": [
@@ -67,7 +67,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "psychologia ogólna",
+     "pl": "Psychologia ogólna",
      "k": "W",
      "p": "dr E. Pieńkowska",
      "r": "s. 310, WH bud. 4",
@@ -90,7 +90,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "tłumaczenia pismne (francusko-polskie, polsko-francuskie)",
+     "pl": "Tłumaczenia pismne (francusko-polskie, polsko-francuskie)",
      "k": "CW",
      "p": "dr A. Kamińska",
      "r": "s. 120, WH bud. 4"
@@ -135,7 +135,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "emisja głosu, 20ćw",
+     "pl": "Emisja głosu, 20ćw",
      "k": "CW",
      "p": "prof. dr hab. L. Mariak",
      "r": "s. 220   WH bud. 4",
@@ -159,7 +159,7 @@
       "15:15",
       "19:30"
      ],
-     "pl": "praktyczna nauka języka-zintegrowane sprawności językowe, j. hiszpański, +FroszDJo+FGzdjo, j. włoski od 16:15 do 20:15 Frzjodw+Fgdjo",
+     "pl": "Praktyczna nauka języka-zintegrowane sprawności językowe, j. hiszpański, +FroszDJo+FGzdjo, j. włoski od 16:15 do 20:15 Frzjodw+Fgdjo",
      "k": "LAB",
      "p": "mgr A. Skalska Frzjodw, mgr I. Płatek",
      "r": "s. 214, WH bud.4, s. 118, WH bud. 4"
@@ -192,7 +192,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "psychologia ogólna, 15ćw grupa łączona z FA, r.)",
+     "pl": "Psychologia ogólna, 15ćw grupa łączona z FA, r.)",
      "k": "CW",
      "p": "mgr M. Chmiel",
      "r": "s. 319, WH bud. 4",
@@ -214,7 +214,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "pedagogika ogólna, wspólny HIST +",
+     "pl": "Pedagogika ogólna, wspólny HIST +",
      "k": "W",
      "p": "dr E. Kopaczewska",
      "r": "s. 310, WH bud. 4"
@@ -247,8 +247,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "ogólnouczelniany /online",
-     "k": "W"
+     "pl": "Ogólnouczelniany /online",
+     "k": "W",
+     "r": "online"
     }
    ],
    "even": [
@@ -302,7 +303,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "psychologia ogólna",
+     "pl": "Psychologia ogólna",
      "k": "W",
      "p": "dr E. Pieńkowska",
      "r": "s. 310, WH bud. 4",
@@ -325,7 +326,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "tłumaczenia pismne (francusko-polskie, polsko-francuskie)",
+     "pl": "Tłumaczenia pismne (francusko-polskie, polsko-francuskie)",
      "k": "CW",
      "p": "dr A. Kamińska",
      "r": "s. 120, WH bud. 4"
@@ -370,7 +371,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "emisja głosu, 20ćw",
+     "pl": "Emisja głosu, 20ćw",
      "k": "CW",
      "p": "prof. dr hab. L. Mariak",
      "r": "s. 220   WH bud. 4",
@@ -394,7 +395,7 @@
       "15:15",
       "19:30"
      ],
-     "pl": "praktyczna nauka języka-zintegrowane sprawności językowe, j. hiszpański, +FroszDJo+FGzdjo, j. włoski od 16:15 do 20:15 Frzjodw+Fgdjo",
+     "pl": "Praktyczna nauka języka-zintegrowane sprawności językowe, j. hiszpański, +FroszDJo+FGzdjo, j. włoski od 16:15 do 20:15 Frzjodw+Fgdjo",
      "k": "LAB",
      "p": "mgr A. Skalska Frzjodw, mgr I. Płatek",
      "r": "s. 214, WH bud.4, s. 118, WH bud. 4"
@@ -427,7 +428,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "psychologia ogólna, 15ćw grupa łączona z FA, r.)",
+     "pl": "Psychologia ogólna, 15ćw grupa łączona z FA, r.)",
      "k": "CW",
      "p": "mgr M. Chmiel",
      "r": "s. 319, WH bud. 4",
@@ -449,7 +450,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "pedagogika ogólna, wspólny HIST +",
+     "pl": "Pedagogika ogólna, wspólny HIST +",
      "k": "W",
      "p": "dr E. Kopaczewska",
      "r": "s. 310, WH bud. 4"
@@ -482,8 +483,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "ogólnouczelniany /online",
-     "k": "W"
+     "pl": "Ogólnouczelniany /online",
+     "k": "W",
+     "r": "online"
     }
    ]
   }

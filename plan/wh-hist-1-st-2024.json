@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:35:19.164Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "HIST3": {
    "odd": [
@@ -23,7 +23,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "informatyka archiwalna (komputerowa)",
+     "pl": "Informatyka archiwalna (komputerowa)",
      "k": "CW",
      "p": "dr hab. P. Gut, prof. US",
      "r": "s.145",
@@ -48,7 +48,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "sztuki wizualne w edukacji historycznej",
+     "pl": "Sztuki wizualne w edukacji historycznej",
      "k": "K",
      "p": "dr hab. B. Ochendowska-Grzelak",
      "r": "s.072 (IH)",
@@ -60,7 +60,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zarządzanie dokumentacją współczesną",
+     "pl": "Zarządzanie dokumentacją współczesną",
      "k": "W",
      "p": "dr hab. P. Gut, prof. US",
      "r": "s.069 (IH)",
@@ -72,7 +72,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "paleografia łacińska",
+     "pl": "Paleografia łacińska",
      "k": "CW",
      "p": "dr M. Cieśluk",
      "r": "s.070 (IH)",
@@ -84,7 +84,7 @@
       "15:30",
       "17:00"
      ],
-     "pl": "język niemiecki",
+     "pl": "Język niemiecki",
      "k": "CW",
      "p": "dr F. Strauss",
      "r": "al. Piastów 40b bud. nr 4 s.115 (WH)",
@@ -97,7 +97,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "język rosyjski",
+     "pl": "Język rosyjski",
      "k": "CW",
      "p": "mgr L. Smędzik",
      "r": "al. Piastów 40b bud. nr 4 s. 214 (WH)",
@@ -110,7 +110,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "neografia gotycka",
+     "pl": "Neografia gotycka",
      "k": "CW",
      "p": "dr hab. A. Szudarek, prof. US",
      "r": "s. 134 (IH)",
@@ -148,7 +148,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "historia powszechna 1918-1945",
+     "pl": "Historia powszechna 1918-1945",
      "k": "W",
      "p": "prof. dr hab. H. Walczak",
      "r": "s.070 (IH)",
@@ -160,7 +160,7 @@
       "16:00",
       "17:30"
      ],
-     "pl": "historia powszechna 1918-1945",
+     "pl": "Historia powszechna 1918-1945",
      "k": "CW",
      "p": "dr W. Wichert",
      "r": "s.070 (IH)",
@@ -189,7 +189,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej (komputerowa)",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej (komputerowa)",
      "k": "CW",
      "p": "mgr A. Szparaga, dr hab. M. Machałek, prof. US",
      "r": "s.145",
@@ -201,7 +201,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "W",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s.069 (IH)",
@@ -225,7 +225,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "edukacja pozaszkolna",
+     "pl": "Edukacja pozaszkolna",
      "k": "K",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s. 069 (IH)",
@@ -249,7 +249,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "prof. dr hab. A. Wątor",
      "r": "gab.124 (IH)",
@@ -261,7 +261,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. E. Krasucki, prof. US",
      "r": "gab. 054 (IH)",
@@ -273,7 +273,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. P. Briks, prof. US",
      "r": "gab. 055 (IH)",
@@ -285,7 +285,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. R. Simiński",
      "r": "gab. 079 (IH)",
@@ -297,7 +297,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "prof. dr hab. T. Sikorski",
      "r": "gab. 125 (IH)",
@@ -309,7 +309,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "edukacja regionalna",
+     "pl": "Edukacja regionalna",
      "k": "K",
      "p": "dr K. Rembacka",
      "r": "s. 070 (IH)",
@@ -333,7 +333,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "informatyka nauczycielska (komputerowa)",
+     "pl": "Informatyka nauczycielska (komputerowa)",
      "k": "CW",
      "p": "dr D. Dziuba",
      "r": "s. 145",
@@ -357,7 +357,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "historia Polski 1918-1945 – )",
+     "pl": "Historia Polski 1918-1945 – )",
      "k": "CW",
      "p": "dr hab. E. Krasucki, prof. US",
      "r": "s. 070 (IH)",
@@ -386,7 +386,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia Polski 1918-1945",
+     "pl": "Historia Polski 1918-1945",
      "k": "W",
      "p": "prof. dr hab. T. Sikorski",
      "r": "s.070 (IH)"
@@ -397,7 +397,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "prof. dr hab. A. Makowski",
      "r": "gab. 130 (IH)"
@@ -408,7 +408,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "prof. dr hab. D. Okoń",
      "r": "gab. 083 (IH)"
@@ -419,7 +419,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język hiszpański",
+     "pl": "Język hiszpański",
      "k": "CW",
      "p": "mgr A. Jakóbiak",
      "r": "al. Piastów 40b bud. nr 4 s.113 (WH)",
@@ -440,7 +440,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "wykład monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
+     "pl": "Wykład monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
      "k": "W",
      "p": "dr hab. P. Weber, prof. US",
      "r": "s. 070 (IH)",
@@ -467,7 +467,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "informatyka archiwalna (komputerowa)",
+     "pl": "Informatyka archiwalna (komputerowa)",
      "k": "CW",
      "p": "dr hab. P. Gut, prof. US",
      "r": "s.145",
@@ -492,7 +492,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "sztuki wizualne w edukacji historycznej",
+     "pl": "Sztuki wizualne w edukacji historycznej",
      "k": "K",
      "p": "dr hab. B. Ochendowska-Grzelak",
      "r": "s.072 (IH)",
@@ -504,7 +504,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zarządzanie dokumentacją współczesną",
+     "pl": "Zarządzanie dokumentacją współczesną",
      "k": "W",
      "p": "dr hab. P. Gut, prof. US",
      "r": "s.069 (IH)",
@@ -516,7 +516,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "paleografia łacińska",
+     "pl": "Paleografia łacińska",
      "k": "CW",
      "p": "dr M. Cieśluk",
      "r": "s.070 (IH)",
@@ -528,7 +528,7 @@
       "15:30",
       "17:00"
      ],
-     "pl": "język niemiecki",
+     "pl": "Język niemiecki",
      "k": "CW",
      "p": "dr F. Strauss",
      "r": "al. Piastów 40b bud. nr 4 s.115 (WH)",
@@ -541,7 +541,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "język rosyjski",
+     "pl": "Język rosyjski",
      "k": "CW",
      "p": "mgr L. Smędzik",
      "r": "al. Piastów 40b bud. nr 4 s. 214 (WH)",
@@ -554,7 +554,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "neografia gotycka",
+     "pl": "Neografia gotycka",
      "k": "CW",
      "p": "dr hab. A. Szudarek, prof. US",
      "r": "s. 134 (IH)",
@@ -592,7 +592,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "historia powszechna 1918-1945",
+     "pl": "Historia powszechna 1918-1945",
      "k": "W",
      "p": "prof. dr hab. H. Walczak",
      "r": "s.070 (IH)",
@@ -604,7 +604,7 @@
       "16:00",
       "17:30"
      ],
-     "pl": "historia powszechna 1918-1945",
+     "pl": "Historia powszechna 1918-1945",
      "k": "CW",
      "p": "dr W. Wichert",
      "r": "s.070 (IH)",
@@ -633,7 +633,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej (komputerowa)",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej (komputerowa)",
      "k": "CW",
      "p": "mgr A. Szparaga, dr hab. M. Machałek, prof. US",
      "r": "s.145",
@@ -645,7 +645,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "W",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s.069 (IH)",
@@ -669,7 +669,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "edukacja pozaszkolna",
+     "pl": "Edukacja pozaszkolna",
      "k": "K",
      "p": "dr hab. M. Machałek, prof. US",
      "r": "s. 069 (IH)",
@@ -693,7 +693,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "prof. dr hab. A. Wątor",
      "r": "gab.124 (IH)",
@@ -705,7 +705,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. E. Krasucki, prof. US",
      "r": "gab. 054 (IH)",
@@ -717,7 +717,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. P. Briks, prof. US",
      "r": "gab. 055 (IH)",
@@ -729,7 +729,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. R. Simiński",
      "r": "gab. 079 (IH)",
@@ -741,7 +741,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "prof. dr hab. T. Sikorski",
      "r": "gab. 125 (IH)",
@@ -753,7 +753,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "edukacja regionalna",
+     "pl": "Edukacja regionalna",
      "k": "K",
      "p": "dr K. Rembacka",
      "r": "s. 070 (IH)",
@@ -777,7 +777,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "informatyka nauczycielska (komputerowa)",
+     "pl": "Informatyka nauczycielska (komputerowa)",
      "k": "CW",
      "p": "dr D. Dziuba",
      "r": "s. 145",
@@ -801,7 +801,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "historia Polski 1918-1945 – )",
+     "pl": "Historia Polski 1918-1945 – )",
      "k": "CW",
      "p": "dr hab. E. Krasucki, prof. US",
      "r": "s. 070 (IH)",
@@ -830,7 +830,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia Polski 1918-1945",
+     "pl": "Historia Polski 1918-1945",
      "k": "W",
      "p": "prof. dr hab. T. Sikorski",
      "r": "s.070 (IH)"
@@ -841,7 +841,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "prof. dr hab. A. Makowski",
      "r": "gab. 130 (IH)"
@@ -852,7 +852,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "prof. dr hab. D. Okoń",
      "r": "gab. 083 (IH)"
@@ -863,7 +863,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język hiszpański",
+     "pl": "Język hiszpański",
      "k": "CW",
      "p": "mgr A. Jakóbiak",
      "r": "al. Piastów 40b bud. nr 4 s.113 (WH)",
@@ -884,7 +884,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "wykład monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
+     "pl": "Wykład monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
      "k": "W",
      "p": "dr hab. P. Weber, prof. US",
      "r": "s. 070 (IH)",

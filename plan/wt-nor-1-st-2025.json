@@ -1,0 +1,287 @@
+{
+ "source": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+ "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
+ "sha256": "26491ec1beead982d475b8148e7badea83ebe6451c0133b91332a33a498f7b42",
+ "kierunek": "Nauki o rodzinie — doradztwo, coaching, mediacje",
+ "kierunekEn": "Family Studies – Counselling, Coaching, Mediation",
+ "id": "wt-nor-1-st-2025",
+ "kod": "nor25",
+ "wydzial": "WT",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:39:50.382Z",
+ "checkedAt": "2026-11-09T22:52:36.003Z",
+ "groups": {
+  "NOR2": {
+   "odd": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Teologia małżeństwa i rodziny",
+     "k": "X",
+     "p": "Dr Anna Janiszewska",
+     "r": "s. 201a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Psychopatologie społeczne",
+     "k": "X",
+     "p": "Ks. dr hab. Sławomir Bukalski",
+     "r": "s. 201a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wprowadzenie do coachingu",
+     "k": "X",
+     "p": "Dr Dominika Muńko",
+     "r": "s. 306",
+     "n": "zajęcia mające 8, 14 lub 15 godzin",
+     "dates": [
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "według oferty ACWFiS – zgodnie z dokonanym wyborem"
+    },
+    {
+     "d": 2,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Diagnozowanie potrzeb i problemów rodziny",
+     "k": "X",
+     "p": "Dr Ewa Rojewska",
+     "r": "s. 201a"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Podstawy seksuologii",
+     "k": "X",
+     "p": "Dr hab. Marta Komorowska-Pudło",
+     "r": "s. 307"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Socjologia rodziny",
+     "k": "X",
+     "p": "Ks. dr Remigiusz Szauer",
+     "r": "s. 303"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Uwarunkowania dysfunkcji społecznych",
+     "k": "X",
+     "p": "Ks. dr hab. Sławomir Bukalski",
+     "r": "s. 303",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Psychologia osobowości",
+     "k": "X",
+     "p": "Dr Igor Kozak",
+     "r": "s. 306"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "n": "pierwsza lub druga połowa semestru – zgodnie z dokonanym wyborem; zajęcia mające 8, 14 lub 15 godzin"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Teologia małżeństwa i rodziny",
+     "k": "X",
+     "p": "Dr Anna Janiszewska",
+     "r": "s. 201a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Psychopatologie społeczne",
+     "k": "X",
+     "p": "Ks. dr hab. Sławomir Bukalski",
+     "r": "s. 201a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wprowadzenie do coachingu",
+     "k": "X",
+     "p": "Dr Dominika Muńko",
+     "r": "s. 306",
+     "n": "zajęcia mające 8, 14 lub 15 godzin",
+     "dates": [
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "według oferty ACWFiS – zgodnie z dokonanym wyborem"
+    },
+    {
+     "d": 2,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Diagnozowanie potrzeb i problemów rodziny",
+     "k": "X",
+     "p": "Dr Ewa Rojewska",
+     "r": "s. 201a"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Podstawy seksuologii",
+     "k": "X",
+     "p": "Dr hab. Marta Komorowska-Pudło",
+     "r": "s. 307"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Socjologia rodziny",
+     "k": "X",
+     "p": "Ks. dr Remigiusz Szauer",
+     "r": "s. 303"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Uwarunkowania dysfunkcji społecznych",
+     "k": "X",
+     "p": "Ks. dr hab. Sławomir Bukalski",
+     "r": "s. 303",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Psychologia osobowości",
+     "k": "X",
+     "p": "Dr Igor Kozak",
+     "r": "s. 306"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "n": "pierwsza lub druga połowa semestru – zgodnie z dokonanym wyborem; zajęcia mające 8, 14 lub 15 godzin"
+    }
+   ]
+  }
+ }
+}

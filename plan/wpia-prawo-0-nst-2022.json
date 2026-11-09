@@ -1,0 +1,1361 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/V-NSP-6.pdf",
+ "wersja": "V-NSP-6.pdf",
+ "sha256": "5b485348b681f3210edb443298ee51acde49b80f96c3995edb7c96257d1dc8b6",
+ "kierunek": "Prawo",
+ "kierunekEn": "Law",
+ "id": "wpia-prawo-0-nst-2022",
+ "kod": "prawojn22",
+ "wydzial": "WPiA",
+ "rok": 5,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PRAWO5": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-02"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-09",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. D. Dąbrowski, prof US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. D. Dąbrowski, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-13",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. D. Dąbrowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. D. Dąbrowski, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. W. Bożek, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. D. Dąbrowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:30",
+      "20:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:30",
+      "20:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:30",
+      "20:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. D. Dąbrowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-21",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2026-11-07",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:1",
+     "dates": [
+      "2026-12-05",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Obrona konieczna w teorii i praktyce orzeczniczej - KDW III",
+     "k": "X",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "X",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawo alimentacyjne - WMDW V",
+     "k": "X",
+     "p": "dr K. Dadańska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo upadłościowe i restrukturyzacyjne - KDW V",
+     "k": "X",
+     "p": "dr M. Białkowski",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "X",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo alimentacyjne - WMDW V",
+     "k": "X",
+     "p": "dr K. Dadańska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "15:30"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "X",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Obrona konieczna w teorii i praktyce orzeczniczej - KDW III",
+     "k": "X",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 120",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Obrona konieczna w teorii i praktyce orzeczniczej - KDW III",
+     "k": "X",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo upadłościowe i restrukturyzacyjne - KDW V",
+     "k": "X",
+     "p": "dr M. Białkowski",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-05",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:30",
+      "20:00"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:1",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:1",
+     "dates": [
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawo alimentacyjne - WMDW V",
+     "k": "X",
+     "p": "dr K. Dadańska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Obrona konieczna w teorii i praktyce orzeczniczej - KDW III",
+     "k": "X",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "X",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-13",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Prawo upadłościowe i restrukturyzacyjne - KDW V",
+     "k": "X",
+     "p": "dr M. Białkowski",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-12-06",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-12-06",
+      "2026-12-13",
+      "2026-12-20"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-02"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-09",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. D. Dąbrowski, prof US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. D. Dąbrowski, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-13",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. D. Dąbrowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. D. Dąbrowski, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban, dr hab. W. Bożek, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. D. Dąbrowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:30",
+      "20:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. Ł. Pohl, dr hab. W. Bożek, prof. US, dr hab. P. Kledzik, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:30",
+      "20:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:30",
+      "20:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. D. Dąbrowski, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-21",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2026-11-07",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:1",
+     "dates": [
+      "2026-12-05",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Obrona konieczna w teorii i praktyce orzeczniczej - KDW III",
+     "k": "X",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "X",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawo alimentacyjne - WMDW V",
+     "k": "X",
+     "p": "dr K. Dadańska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo upadłościowe i restrukturyzacyjne - KDW V",
+     "k": "X",
+     "p": "dr M. Białkowski",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "X",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo alimentacyjne - WMDW V",
+     "k": "X",
+     "p": "dr K. Dadańska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "15:30"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "X",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Obrona konieczna w teorii i praktyce orzeczniczej - KDW III",
+     "k": "X",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 120",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Obrona konieczna w teorii i praktyce orzeczniczej - KDW III",
+     "k": "X",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo upadłościowe i restrukturyzacyjne - KDW V",
+     "k": "X",
+     "p": "dr M. Białkowski",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-05",
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "prof. dr hab. A. Bałaban",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-07",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:30",
+      "20:00"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:1",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:1",
+     "dates": [
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawo alimentacyjne - WMDW V",
+     "k": "X",
+     "p": "dr K. Dadańska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Obrona konieczna w teorii i praktyce orzeczniczej - KDW III",
+     "k": "X",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "X",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-13",
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Prawo upadłościowe i restrukturyzacyjne - KDW V",
+     "k": "X",
+     "p": "dr M. Białkowski",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-12-06",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Klinika prawa",
+     "k": "X",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22",
+      "2026-12-06",
+      "2026-12-13",
+      "2026-12-20"
+     ]
+    }
+   ]
+  }
+ }
+}

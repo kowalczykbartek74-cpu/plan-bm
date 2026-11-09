@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
- "wersja": "2026-10-08",
- "sha256": "af6bdb6865cef0e282568108a6921559d0fbf374aed4012702df1e2002c8d1bb",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-zm.-2-09-XI-2026.xlsx",
+ "wersja": "2026-11-09",
+ "sha256": "7fb9127d20529ecbea0e348d212174372870cdbe0360b35a2ef27e905a14d612",
  "kierunek": "Filologia hiszpańska",
  "kierunekEn": "Spanish Philology",
  "id": "wh-fh-1-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T15:10:14.411Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:35:19.164Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FH1": {
    "odd": [
@@ -23,7 +23,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -38,7 +38,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -53,7 +53,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "łacina",
+     "pl": "Łacina",
      "k": "CW",
      "p": "mgr J. Zabuska",
      "r": "s. 301 WH",
@@ -69,7 +69,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "łacina",
+     "pl": "Łacina",
      "k": "CW",
      "p": "mgr J. Zabuska",
      "r": "s. 301 WH",
@@ -83,7 +83,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "pl": "Historia i cywilizacja Półwyspu Iberyjskiego",
      "k": "K",
      "p": "dr K. Biały",
      "r": "s. 301 WH",
@@ -97,7 +97,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "pl": "Historia i cywilizacja Półwyspu Iberyjskiego",
      "k": "K",
      "p": "dr K. Biały",
      "r": "s. 310 WH",
@@ -111,7 +111,7 @@
       "17:45",
       "20:15"
      ],
-     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "pl": "Historia i cywilizacja Półwyspu Iberyjskiego",
      "k": "K",
      "p": "dr K. Biały",
      "r": "s. 310 WH",
@@ -125,7 +125,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 101 WH",
@@ -140,7 +140,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -155,7 +155,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -171,7 +171,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 301 WH",
@@ -198,7 +198,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr W. Staroń",
      "r": "s. 13 WH",
@@ -214,7 +214,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 101 WH",
@@ -229,7 +229,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -245,7 +245,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -259,7 +259,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -273,7 +273,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr W. Staroń",
      "r": "s. 101 WH",
@@ -288,7 +288,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -304,7 +304,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -319,7 +319,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -334,7 +334,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr W. Staroń",
      "r": "s. 101 WH",
@@ -350,7 +350,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -365,7 +365,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -381,7 +381,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -395,7 +395,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -409,7 +409,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr W. Staroń",
      "r": "s. 13 WH",
@@ -424,7 +424,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -439,7 +439,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 101 WH",
@@ -454,7 +454,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -469,7 +469,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -484,7 +484,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -499,7 +499,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -514,7 +514,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -530,7 +530,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -546,7 +546,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 310a WH",
@@ -560,7 +560,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 310a WH",
@@ -574,7 +574,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "pl": "Historia i cywilizacja Półwyspu Iberyjskiego",
      "k": "K",
      "p": "dr K. Biały",
      "r": "s. 310a WH",
@@ -588,7 +588,7 @@
       "10:45",
       "14:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -603,7 +603,7 @@
       "10:45",
       "14:15"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -618,7 +618,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -633,7 +633,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -648,7 +648,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -666,7 +666,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -682,7 +682,7 @@
       "14:15",
       "16:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 310a WH",
@@ -696,7 +696,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -711,7 +711,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 101 WH",
@@ -726,7 +726,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 310a WH",
@@ -740,7 +740,7 @@
       "15:15",
       "19:00"
      ],
-     "pl": "ochrona własności intelektualnej",
+     "pl": "Ochrona własności intelektualnej",
      "k": "S",
      "p": "dr Marcin Stępień",
      "r": "s. 17-19 WH",
@@ -755,7 +755,7 @@
       "17:00",
       "17:45"
      ],
-     "pl": "ochrona własności intelektualnej",
+     "pl": "Ochrona własności intelektualnej",
      "k": "S",
      "p": "dr Marcin Stępień",
      "r": "s. 17-19 WH",
@@ -772,7 +772,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -787,7 +787,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -802,7 +802,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "łacina",
+     "pl": "Łacina",
      "k": "CW",
      "p": "mgr J. Zabuska",
      "r": "s. 301 WH",
@@ -818,7 +818,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "łacina",
+     "pl": "Łacina",
      "k": "CW",
      "p": "mgr J. Zabuska",
      "r": "s. 301 WH",
@@ -832,7 +832,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "pl": "Historia i cywilizacja Półwyspu Iberyjskiego",
      "k": "K",
      "p": "dr K. Biały",
      "r": "s. 301 WH",
@@ -846,7 +846,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "pl": "Historia i cywilizacja Półwyspu Iberyjskiego",
      "k": "K",
      "p": "dr K. Biały",
      "r": "s. 310 WH",
@@ -860,7 +860,7 @@
       "17:45",
       "20:15"
      ],
-     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "pl": "Historia i cywilizacja Półwyspu Iberyjskiego",
      "k": "K",
      "p": "dr K. Biały",
      "r": "s. 310 WH",
@@ -874,7 +874,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 101 WH",
@@ -889,7 +889,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -904,7 +904,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -920,7 +920,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 301 WH",
@@ -947,7 +947,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr W. Staroń",
      "r": "s. 13 WH",
@@ -963,7 +963,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 101 WH",
@@ -978,7 +978,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -994,7 +994,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -1008,7 +1008,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -1022,7 +1022,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr W. Staroń",
      "r": "s. 101 WH",
@@ -1037,7 +1037,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -1053,7 +1053,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -1068,7 +1068,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -1083,7 +1083,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr W. Staroń",
      "r": "s. 101 WH",
@@ -1099,7 +1099,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -1114,7 +1114,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -1130,7 +1130,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -1144,7 +1144,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -1158,7 +1158,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr W. Staroń",
      "r": "s. 13 WH",
@@ -1173,7 +1173,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -1188,7 +1188,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 101 WH",
@@ -1203,7 +1203,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -1218,7 +1218,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -1233,7 +1233,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -1248,7 +1248,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -1263,7 +1263,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr J. Majewska-Paul",
      "r": "s. 13 WH",
@@ -1279,7 +1279,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -1295,7 +1295,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 310a WH",
@@ -1309,7 +1309,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 310a WH",
@@ -1323,7 +1323,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "historia i cywilizacja Półwyspu Iberyjskiego",
+     "pl": "Historia i cywilizacja Półwyspu Iberyjskiego",
      "k": "K",
      "p": "dr K. Biały",
      "r": "s. 310a WH",
@@ -1337,7 +1337,7 @@
       "10:45",
       "14:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -1352,7 +1352,7 @@
       "10:45",
       "14:15"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -1367,7 +1367,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -1382,7 +1382,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "ćwiczenia konwersacyjne",
+     "pl": "Ćwiczenia konwersacyjne",
      "k": "LAB",
      "p": "mgr A.Szustak",
      "r": "s. 101 WH",
@@ -1397,7 +1397,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr W.Kudyba",
      "r": "s. 13 WH",
@@ -1415,7 +1415,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "gramatyka praktyczna i słownictwo",
+     "pl": "Gramatyka praktyczna i słownictwo",
      "k": "LAB",
      "p": "mgr J.Majewska-Paul",
      "r": "s. 101 WH",
@@ -1431,7 +1431,7 @@
       "14:15",
       "16:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 310a WH",
@@ -1445,7 +1445,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 13 WH",
@@ -1460,7 +1460,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "ćwiczenia fonetyczne",
+     "pl": "Ćwiczenia fonetyczne",
      "k": "LAB",
      "p": "mgr A.Rogla",
      "r": "s. 101 WH",
@@ -1475,7 +1475,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr K. Ciarcińska",
      "r": "s. 310a WH",
@@ -1489,7 +1489,7 @@
       "15:15",
       "19:00"
      ],
-     "pl": "ochrona własności intelektualnej",
+     "pl": "Ochrona własności intelektualnej",
      "k": "S",
      "p": "dr Marcin Stępień",
      "r": "s. 17-19 WH",
@@ -1504,7 +1504,7 @@
       "17:00",
       "17:45"
      ],
-     "pl": "ochrona własności intelektualnej",
+     "pl": "Ochrona własności intelektualnej",
      "k": "S",
      "p": "dr Marcin Stępień",
      "r": "s. 17-19 WH",

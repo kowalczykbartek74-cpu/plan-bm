@@ -177,7 +177,7 @@ export async function importujNst({ wydzial, zrodla, kierunki, pobieracz, log = 
       rokAkademicki: `${startRoku}/${startRoku + 1}`, semestr: sem.nazwa || "zimowy" };
     const q = await przezKolejke(r, { wydzial: "WNS", naSucho, log });
     const kolejka = { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad };
-    if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups });
+    if (q.status === "zatwierdzony") wyniki.push({ ...r, groups: q.groups, ...(q.odRazu ? { kolejka: { pozycji: q.pozycji, doDecyzji: q.doDecyzji, wyslany: q.wyslany, blad: q.blad, odRazu: true } } : {}) });
     else if (q.poprzedni) wyniki.push({ ...r, groups: q.poprzedni, wersja: `${r.wersja} (na stronie wcześniejsza zatwierdzona wersja)`, sha256: undefined, kolejka });
     else wyniki.push({ ...r, zatwierdzenie: true, kolejka });
   }

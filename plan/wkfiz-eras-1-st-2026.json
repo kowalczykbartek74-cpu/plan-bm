@@ -1,0 +1,882 @@
+{
+ "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
+ "wersja": "dane-dc5dc33db071",
+ "kierunek": "Erasmus+ (studenci z wymiany)",
+ "kierunekEn": "Erasmus+ (studenci z wymiany)",
+ "id": "wkfiz-eras-1-st-2026",
+ "kod": "eras26",
+ "wydzial": "WKFiZ",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:48:18.778Z",
+ "checkedAt": "2026-11-09T22:48:18.778Z",
+ "groups": {
+  "ERASMUS1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Heslth promotion and health education",
+     "k": "W",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Healts problems of children and adolescents",
+     "k": "W",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Healts problems of children and adolescents",
+     "k": "W",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 116",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Supplementation in selected sports",
+     "k": "CW",
+     "p": "dr Maciej Buryta",
+     "r": "s. 101"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Supplementation in selected sports",
+     "k": "W",
+     "p": "dr Maciej Buryta",
+     "r": "s. 101"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Injury prevention in sport",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 201"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "School tourism and ecology",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 201"
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Physical recreation for people of different ages",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 201"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:30"
+     ],
+     "pl": "Monitoring in sports science",
+     "k": "CW",
+     "p": "dr Beata Buryta",
+     "r": "s. 328 masażu",
+     "dates": [
+      "2026-10-27",
+      "2026-11-03"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Basice of nutrition",
+     "k": "W",
+     "p": "dr inż. Anna Krajewska-Pędzik",
+     "r": "s. 119",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Theory and methology of the team sports (soccer)",
+     "k": "CW",
+     "p": "mgr Szymon Smerdel",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "History of medicine",
+     "k": "K",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 101",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Music, rhythn, dance",
+     "k": "CW",
+     "p": "dr hab. Joanna Kruk, prof. US",
+     "r": "s. gimnastyczna ul.Mickiewicza 16,    wejście przez bibliotekę Główną ul.Tarczyńskiego"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Environmental protection",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "gabinet 324"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Fun and movement games",
+     "k": "CW",
+     "p": "dr Małgorzata Paczyńska-Jędrycka",
+     "r": "salka 13, hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Fun and movement games",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "s.1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Recreation in public health",
+     "k": "W",
+     "p": "dr Małgorzata Paczyńska-Jędrycka",
+     "r": "s. 328 masażu",
+     "dates": [
+      "2026-10-14",
+      "2026-10-28",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Recreation in public health",
+     "k": "CW",
+     "p": "dr Małgorzata Paczyńska-Jędrycka",
+     "r": "salka 13, hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Exercise biochemistry with elements of bioenergetics",
+     "k": "W",
+     "p": "dr hab. Robert Nowak, prof. US",
+     "r": "CBSFC ul.Narutowicza 17C, pokazy naukowe",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Exercise biochemistry with elements of bioenergetics",
+     "k": "LAB",
+     "p": "dr hab. Robert Nowak, prof. US",
+     "r": "CBSFC ul.Narutowicza 17C, pokazy naukowe,",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Theory and methodology of the team sports",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ   al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Theory and methodology of the team sports",
+     "k": "CW",
+     "p": "mgr Marek Łukomski",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Injury prevention in sport",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 218"
+    },
+    {
+     "d": 3,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "School tourism and ecology",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 218"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Monitoring in sports science",
+     "k": "CW",
+     "p": "dr Rafał Buryta",
+     "r": "s. wykładowa CBSFC ul.Narutowicza 17C, pokazy naukowe"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Contemporary trends in sports and recreation",
+     "k": "X",
+     "p": "dr Iwona Bonisławska",
+     "r": "s. 116"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Multimedia techniques in sport",
+     "k": "CW",
+     "p": "dr Miłosz Stępiński, prof.US",
+     "r": "s. 116"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Organization of sports and recreational events",
+     "k": "X",
+     "p": "dr Daria Buczkowska",
+     "r": "s. 26"
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Sports and recreation events",
+     "k": "X",
+     "p": "dr Daria Buczkowska",
+     "r": "s. 26"
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Basice of nutrition",
+     "k": "CW",
+     "p": "dr inż. Anna Krajewska-Pędzik",
+     "r": "s. 26"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Heslth promotion and health education",
+     "k": "W",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Healts problems of children and adolescents",
+     "k": "W",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 218",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Healts problems of children and adolescents",
+     "k": "W",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 116",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Supplementation in selected sports",
+     "k": "CW",
+     "p": "dr Maciej Buryta",
+     "r": "s. 101"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Supplementation in selected sports",
+     "k": "W",
+     "p": "dr Maciej Buryta",
+     "r": "s. 101"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Injury prevention in sport",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 201"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "School tourism and ecology",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 201"
+    },
+    {
+     "d": 0,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Physical recreation for people of different ages",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 201"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:30"
+     ],
+     "pl": "Monitoring in sports science",
+     "k": "CW",
+     "p": "dr Beata Buryta",
+     "r": "s. 328 masażu",
+     "dates": [
+      "2026-10-27",
+      "2026-11-03"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Basice of nutrition",
+     "k": "W",
+     "p": "dr inż. Anna Krajewska-Pędzik",
+     "r": "s. 119",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Theory and methology of the team sports (soccer)",
+     "k": "CW",
+     "p": "mgr Szymon Smerdel",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "History of medicine",
+     "k": "K",
+     "p": "dr n.med. Katarzyna Maciejewska",
+     "r": "s. 101",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Music, rhythn, dance",
+     "k": "CW",
+     "p": "dr hab. Joanna Kruk, prof. US",
+     "r": "s. gimnastyczna ul.Mickiewicza 16,    wejście przez bibliotekę Główną ul.Tarczyńskiego"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Environmental protection",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "gabinet 324"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Fun and movement games",
+     "k": "CW",
+     "p": "dr Małgorzata Paczyńska-Jędrycka",
+     "r": "salka 13, hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Fun and movement games",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "s.1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Recreation in public health",
+     "k": "W",
+     "p": "dr Małgorzata Paczyńska-Jędrycka",
+     "r": "s. 328 masażu",
+     "dates": [
+      "2026-10-14",
+      "2026-10-28",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Recreation in public health",
+     "k": "CW",
+     "p": "dr Małgorzata Paczyńska-Jędrycka",
+     "r": "salka 13, hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Exercise biochemistry with elements of bioenergetics",
+     "k": "W",
+     "p": "dr hab. Robert Nowak, prof. US",
+     "r": "CBSFC ul.Narutowicza 17C, pokazy naukowe",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Exercise biochemistry with elements of bioenergetics",
+     "k": "LAB",
+     "p": "dr hab. Robert Nowak, prof. US",
+     "r": "CBSFC ul.Narutowicza 17C, pokazy naukowe,",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Theory and methodology of the team sports",
+     "k": "CW",
+     "p": "dr Beata Florkiewicz, prof.US",
+     "r": "hala WKFiZ   al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Theory and methodology of the team sports",
+     "k": "CW",
+     "p": "mgr Marek Łukomski",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Injury prevention in sport",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 218"
+    },
+    {
+     "d": 3,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "School tourism and ecology",
+     "k": "W",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 218"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Monitoring in sports science",
+     "k": "CW",
+     "p": "dr Rafał Buryta",
+     "r": "s. wykładowa CBSFC ul.Narutowicza 17C, pokazy naukowe"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Contemporary trends in sports and recreation",
+     "k": "X",
+     "p": "dr Iwona Bonisławska",
+     "r": "s. 116"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Multimedia techniques in sport",
+     "k": "CW",
+     "p": "dr Miłosz Stępiński, prof.US",
+     "r": "s. 116"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Organization of sports and recreational events",
+     "k": "X",
+     "p": "dr Daria Buczkowska",
+     "r": "s. 26"
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Sports and recreation events",
+     "k": "X",
+     "p": "dr Daria Buczkowska",
+     "r": "s. 26"
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Basice of nutrition",
+     "k": "CW",
+     "p": "dr inż. Anna Krajewska-Pędzik",
+     "r": "s. 26"
+    }
+   ]
+  }
+ }
+}

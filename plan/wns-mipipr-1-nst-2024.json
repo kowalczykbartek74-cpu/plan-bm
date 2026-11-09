@@ -1,0 +1,1269 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (18 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Management instytucji publicznych i Public Relations",
+ "kierunekEn": "Public Institution Management and Public Relations",
+ "id": "wns-mipipr-1-nst-2024",
+ "kod": "mipiprn24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "MIPIPR3": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Branding miast i regionów",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: u9mnuht",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Podstawy polityki gospodarczej",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t91d80m",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 9hm69ni",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: p313a6h",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "K",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr M. Stępień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 823fcra",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr M. Stępień",
+     "r": "s. 237",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "K",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "K",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: p313a6h",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr A. Gnat",
+     "r": "s. 237",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy polityki gospodarczej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "prof. M. Kamola - Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t91d80m",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Branding miast i regionów",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: u9mnuht",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "K",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Socjotechnika wizerunku (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. M. Orzechowski",
+     "r": "s. 237",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "K",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "K",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Praca biura prasowego i rzecznictwo prasowe",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "mgr M. Klimczak",
+     "r": "s. 141",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Krywult",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Krywult",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 9hm69ni",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Branding miast i regionów",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: u9mnuht",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr M. Stępień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 823fcra",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: p313a6h",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Praca biura prasowego i rzecznictwo prasowe",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Klimczak",
+     "r": "s. 141",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Stępień",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Gnat",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy polityki gospodarczej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "prof. M. Kamola - Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t91d80m",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr M. Stępień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 823fcra",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Praca biura prasowego i rzecznictwo prasowe",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr M. Klimczak",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Socjotechnika wizerunku (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. M. Orzechowski",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wykład fakultatywny Kształtowanie wizerunku mniejszości narodowych i etnicznych",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "s. 258",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityki publiczne",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 9hm69ni",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Socjotechnika wizerunku (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. M. Orzechowski",
+     "r": "s. 143",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Praca biura prasowego i rzecznictwo prasowe",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "mgr M. Klimczak",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Branding miast i regionów",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: u9mnuht",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Podstawy polityki gospodarczej",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "prof. M. Kamola-Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t91d80m",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 9hm69ni",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: p313a6h",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "K",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr M. Stępień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 823fcra",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr M. Stępień",
+     "r": "s. 237",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "K",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "PR w sytuacjach kryzysowych",
+     "k": "K",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e99f0b1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: p313a6h",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr A. Gnat",
+     "r": "s. 237",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy polityki gospodarczej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "prof. M. Kamola - Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t91d80m",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Branding miast i regionów",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: u9mnuht",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "K",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Socjotechnika wizerunku (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. M. Orzechowski",
+     "r": "s. 237",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "K",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "K",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityki publiczne",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Praca biura prasowego i rzecznictwo prasowe",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "mgr M. Klimczak",
+     "r": "s. 141",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Krywult",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Krywult",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 9hm69ni",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Branding miast i regionów",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: u9mnuht",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr M. Stępień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 823fcra",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr A. Gnat",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: p313a6h",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Praca biura prasowego i rzecznictwo prasowe",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Klimczak",
+     "r": "s. 141",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Stępień",
+     "r": "s. 142",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoria i praktyka reklamy",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Gnat",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy polityki gospodarczej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "prof. M. Kamola - Cieślik",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t91d80m",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawne aspekty Public Relations",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr M. Stępień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 823fcra",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Praca biura prasowego i rzecznictwo prasowe",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr M. Klimczak",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Socjotechnika wizerunku (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. M. Orzechowski",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wykład fakultatywny Kształtowanie wizerunku mniejszości narodowych i etnicznych",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "s. 258",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityki publiczne",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. M. Żurek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: kgboq66",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 9hm69ni",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Socjotechnika wizerunku (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. M. Orzechowski",
+     "r": "s. 143",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Praca biura prasowego i rzecznictwo prasowe",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "mgr M. Klimczak",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ]
+  }
+ }
+}

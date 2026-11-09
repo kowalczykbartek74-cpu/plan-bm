@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T09:23:11.440Z",
- "checkedAt": "2026-11-09T20:22:14.856Z",
+ "changedAt": "2026-11-09T22:31:18.542Z",
+ "checkedAt": "2026-11-09T22:44:26.151Z",
  "groups": {
   "C31": {
    "odd": [
@@ -22,7 +22,7 @@
       "17:15",
       "19:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr inż. Konrad Bachanek, dr Agnieszka Gozdek",
      "r": "MS Teams",
@@ -40,7 +40,7 @@
       "17:15",
       "19:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr inż. Konrad Bachanek",
      "r": "MS Teams",
@@ -55,7 +55,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "K",
      "p": "mgr Hanna Basiak",
      "r": "s. 523 Cuk.8",
@@ -69,7 +69,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "K",
      "p": "mgr Hanna Basiak",
      "r": "s. 507 Cuk.8",
@@ -83,7 +83,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "K",
      "p": "mgr Hanna Basiak",
      "r": "s. 002 Cuk.8",
@@ -130,7 +130,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "W",
      "p": "dr hab. Prof. US Blanka Tundys",
      "r": "MS Teams",
@@ -145,7 +145,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "LAB",
      "p": "dr Zuzanna Kłos-Adamkiewicz",
      "r": "s. SIL 124/125 lab Cuk.8",
@@ -159,7 +159,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "W",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "MS Teams",
@@ -175,7 +175,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 707 Cuk.8",
@@ -189,7 +189,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "W",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "MS Teams",
@@ -204,7 +204,7 @@
       "09:05",
       "10:45"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "W",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "MS Teams",
@@ -234,7 +234,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "W",
      "p": "dr hab. Prof. US Blanka Tundys",
      "r": "MS Teams",
@@ -250,7 +250,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "CW",
      "p": "dr Elżbieta Szaruga",
      "r": "s. 002 Cuk.8",
@@ -264,7 +264,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "systemy informatyczne w transporcie ładunków",
+     "pl": "Systemy informatyczne w transporcie ładunków",
      "k": "LAB",
      "p": "dr Sylwia Kowalska",
      "r": "s. SIL 124/125 lab Cuk.8",
@@ -280,7 +280,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 523 Cuk.8",
@@ -294,7 +294,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "W",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "MS Teams",
@@ -310,7 +310,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "W",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "MS Teams",
@@ -325,7 +325,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "W",
      "p": "dr Elżbieta Szaruga",
      "r": "MS Teams",
@@ -340,7 +340,7 @@
       "13:45",
       "18:50"
      ],
-     "pl": "systemy informatyczne w transporcie ładunków",
+     "pl": "Systemy informatyczne w transporcie ładunków",
      "k": "LAB",
      "p": "dr Sylwia Kowalska",
      "r": "s. SIL 124/125 lab Cuk.8",
@@ -354,7 +354,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "W",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "MS Teams",
@@ -370,7 +370,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "W",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "MS Teams",
@@ -386,7 +386,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 002 Cuk.8",
@@ -401,7 +401,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 523 Cuk.8",
@@ -415,7 +415,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "CW",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 112 Cuk.8",
@@ -429,7 +429,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "CW",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 523 Cuk.8",
@@ -443,7 +443,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr inż. Konrad Bachanek, dr Agnieszka Gozdek",
      "r": "MS Teams",
@@ -458,7 +458,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Agnieszka Gozdek",
      "r": "MS Teams",
@@ -473,7 +473,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "W",
      "p": "dr Elżbieta Szaruga",
      "r": "MS Teams",
@@ -489,7 +489,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "W",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "MS Teams",
@@ -504,7 +504,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 112 Cuk.8",
@@ -518,7 +518,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język hiszpański II",
+     "pl": "Język hiszpański II",
      "k": "K",
      "p": "mgr Agnieszka Jakóbiak",
      "r": "s. 307 Cuk.8",
@@ -536,7 +536,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język hiszpański II",
+     "pl": "Język hiszpański II",
      "k": "K",
      "p": "mgr Agnieszka Jakóbiak",
      "r": "s. 523 Cuk.8",
@@ -550,7 +550,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "CW",
      "p": "dr Ewa Puzio",
      "r": "s. 307 Cuk.8",
@@ -564,7 +564,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "LAB",
      "p": "dr Zuzanna Kłos-Adamkiewicz",
      "r": "s. SIL 137/138 lab Cuk.8",
@@ -578,7 +578,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 507 Cuk.8",
@@ -592,7 +592,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "W",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "MS Teams",
@@ -607,7 +607,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "CW",
      "p": "dr Ewa Puzio",
      "r": "s. 307 Cuk.8",
@@ -623,7 +623,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "LAB",
      "p": "dr Zuzanna Kłos-Adamkiewicz",
      "r": "s. SIL 134/136 lab Cuk.8",
@@ -637,7 +637,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "CW",
      "p": "dr Elżbieta Szaruga",
      "r": "s. 307 Cuk.8",
@@ -651,7 +651,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "CW",
      "p": "dr Elżbieta Szaruga",
      "r": "s. 507 Cuk.8",
@@ -665,7 +665,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "systemy informatyczne w transporcie ładunków",
+     "pl": "Systemy informatyczne w transporcie ładunków",
      "k": "LAB",
      "p": "dr Sylwia Kowalska",
      "r": "s. SIL 124/125 lab Cuk.8",
@@ -679,7 +679,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 307 Cuk.8",
@@ -693,7 +693,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "CW",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 507 Cuk.8",
@@ -707,7 +707,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "W",
      "p": "dr hab. Prof. US Blanka Tundys",
      "r": "MS Teams",
@@ -736,7 +736,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "LAB",
      "p": "dr Zuzanna Kłos-Adamkiewicz",
      "r": "s. SIL 134/136 lab Cuk.8",
@@ -750,7 +750,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "W",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "MS Teams",
@@ -765,7 +765,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 507 Cuk.8",
@@ -779,7 +779,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 307 Cuk.8",
@@ -793,7 +793,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "CW",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 307 Cuk.8",
@@ -807,7 +807,7 @@
       "13:45",
       "14:30"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "W",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 507 Cuk.8",
@@ -836,7 +836,7 @@
       "16:20",
       "17:05"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "W",
      "p": "dr hab. Prof. US Blanka Tundys",
      "r": "s. SIL 134/136 lab Cuk.8",
@@ -851,7 +851,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "W",
      "p": "dr Elżbieta Szaruga",
      "r": "MS Teams",
@@ -866,7 +866,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 307 Cuk.8",
@@ -882,7 +882,7 @@
       "17:15",
       "19:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr inż. Konrad Bachanek, dr Agnieszka Gozdek",
      "r": "MS Teams",
@@ -900,7 +900,7 @@
       "17:15",
       "19:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr inż. Konrad Bachanek",
      "r": "MS Teams",
@@ -915,7 +915,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "K",
      "p": "mgr Hanna Basiak",
      "r": "s. 523 Cuk.8",
@@ -929,7 +929,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "K",
      "p": "mgr Hanna Basiak",
      "r": "s. 507 Cuk.8",
@@ -943,7 +943,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "K",
      "p": "mgr Hanna Basiak",
      "r": "s. 002 Cuk.8",
@@ -990,7 +990,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "W",
      "p": "dr hab. Prof. US Blanka Tundys",
      "r": "MS Teams",
@@ -1005,7 +1005,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "LAB",
      "p": "dr Zuzanna Kłos-Adamkiewicz",
      "r": "s. SIL 124/125 lab Cuk.8",
@@ -1019,7 +1019,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "W",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "MS Teams",
@@ -1035,7 +1035,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 707 Cuk.8",
@@ -1049,7 +1049,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "W",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "MS Teams",
@@ -1064,7 +1064,7 @@
       "09:05",
       "10:45"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "W",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "MS Teams",
@@ -1094,7 +1094,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "W",
      "p": "dr hab. Prof. US Blanka Tundys",
      "r": "MS Teams",
@@ -1110,7 +1110,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "CW",
      "p": "dr Elżbieta Szaruga",
      "r": "s. 002 Cuk.8",
@@ -1124,7 +1124,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "systemy informatyczne w transporcie ładunków",
+     "pl": "Systemy informatyczne w transporcie ładunków",
      "k": "LAB",
      "p": "dr Sylwia Kowalska",
      "r": "s. SIL 124/125 lab Cuk.8",
@@ -1140,7 +1140,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 523 Cuk.8",
@@ -1154,7 +1154,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "W",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "MS Teams",
@@ -1170,7 +1170,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "W",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "MS Teams",
@@ -1185,7 +1185,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "W",
      "p": "dr Elżbieta Szaruga",
      "r": "MS Teams",
@@ -1200,7 +1200,7 @@
       "13:45",
       "18:50"
      ],
-     "pl": "systemy informatyczne w transporcie ładunków",
+     "pl": "Systemy informatyczne w transporcie ładunków",
      "k": "LAB",
      "p": "dr Sylwia Kowalska",
      "r": "s. SIL 124/125 lab Cuk.8",
@@ -1214,7 +1214,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "W",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "MS Teams",
@@ -1230,7 +1230,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "W",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "MS Teams",
@@ -1246,7 +1246,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 002 Cuk.8",
@@ -1261,7 +1261,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 523 Cuk.8",
@@ -1275,7 +1275,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "CW",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 112 Cuk.8",
@@ -1289,7 +1289,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "CW",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 523 Cuk.8",
@@ -1303,7 +1303,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr inż. Konrad Bachanek, dr Agnieszka Gozdek",
      "r": "MS Teams",
@@ -1318,7 +1318,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Agnieszka Gozdek",
      "r": "MS Teams",
@@ -1333,7 +1333,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "W",
      "p": "dr Elżbieta Szaruga",
      "r": "MS Teams",
@@ -1349,7 +1349,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "W",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "MS Teams",
@@ -1364,7 +1364,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 112 Cuk.8",
@@ -1378,7 +1378,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język hiszpański II",
+     "pl": "Język hiszpański II",
      "k": "K",
      "p": "mgr Agnieszka Jakóbiak",
      "r": "s. 307 Cuk.8",
@@ -1396,7 +1396,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "język hiszpański II",
+     "pl": "Język hiszpański II",
      "k": "K",
      "p": "mgr Agnieszka Jakóbiak",
      "r": "s. 523 Cuk.8",
@@ -1410,7 +1410,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "CW",
      "p": "dr Ewa Puzio",
      "r": "s. 307 Cuk.8",
@@ -1424,7 +1424,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "LAB",
      "p": "dr Zuzanna Kłos-Adamkiewicz",
      "r": "s. SIL 137/138 lab Cuk.8",
@@ -1438,7 +1438,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 507 Cuk.8",
@@ -1452,7 +1452,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "W",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "MS Teams",
@@ -1467,7 +1467,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "CW",
      "p": "dr Ewa Puzio",
      "r": "s. 307 Cuk.8",
@@ -1483,7 +1483,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "LAB",
      "p": "dr Zuzanna Kłos-Adamkiewicz",
      "r": "s. SIL 134/136 lab Cuk.8",
@@ -1497,7 +1497,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "CW",
      "p": "dr Elżbieta Szaruga",
      "r": "s. 307 Cuk.8",
@@ -1511,7 +1511,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "CW",
      "p": "dr Elżbieta Szaruga",
      "r": "s. 507 Cuk.8",
@@ -1525,7 +1525,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "systemy informatyczne w transporcie ładunków",
+     "pl": "Systemy informatyczne w transporcie ładunków",
      "k": "LAB",
      "p": "dr Sylwia Kowalska",
      "r": "s. SIL 124/125 lab Cuk.8",
@@ -1539,7 +1539,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 307 Cuk.8",
@@ -1553,7 +1553,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "CW",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 507 Cuk.8",
@@ -1567,7 +1567,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "W",
      "p": "dr hab. Prof. US Blanka Tundys",
      "r": "MS Teams",
@@ -1596,7 +1596,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "LAB",
      "p": "dr Zuzanna Kłos-Adamkiewicz",
      "r": "s. SIL 134/136 lab Cuk.8",
@@ -1610,7 +1610,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "W",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "MS Teams",
@@ -1625,7 +1625,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu lotniczego",
      "k": "CW",
      "p": "dr hab. Prof. US Marta Mańkowska",
      "r": "s. 507 Cuk.8",
@@ -1639,7 +1639,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 307 Cuk.8",
@@ -1653,7 +1653,7 @@
       "13:45",
       "16:15"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "CW",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 307 Cuk.8",
@@ -1667,7 +1667,7 @@
       "13:45",
       "14:30"
      ],
-     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "pl": "Zarządzanie usługami transportowo-logistycznymi",
      "k": "W",
      "p": "dr hab. Prof. US Anna Tokarz-Kocik",
      "r": "s. 507 Cuk.8",
@@ -1696,7 +1696,7 @@
       "16:20",
       "17:05"
      ],
-     "pl": "logistyka zwrotna",
+     "pl": "Logistyka zwrotna",
      "k": "W",
      "p": "dr hab. Prof. US Blanka Tundys",
      "r": "s. SIL 134/136 lab Cuk.8",
@@ -1711,7 +1711,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "spedycja",
+     "pl": "Spedycja",
      "k": "W",
      "p": "dr Elżbieta Szaruga",
      "r": "MS Teams",
@@ -1726,7 +1726,7 @@
       "16:20",
       "18:50"
      ],
-     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "pl": "Techniczno-ekonomiczne aspekty transportu morskiego",
      "k": "CW",
      "p": "dr hab. Prof. US Michał Pluciński",
      "r": "s. 307 Cuk.8",

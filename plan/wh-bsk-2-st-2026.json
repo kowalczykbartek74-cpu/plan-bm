@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-1-X-2026.xlsx",
- "wersja": "2026-10-01",
- "sha256": "a55d19629ae92bc930b8cf1d873b9cb709425886229b55d37a3129425f2928ba",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/BSK-II-st.-plan-zajec-semestr-zimowy-2026_27-zm.-2-9-XI-2026.xlsx",
+ "wersja": "2026-11-09",
+ "sha256": "bc1a77a27df8453d51495ec409c73e558d1f0564310230512fad34d6790e4ac7",
  "kierunek": "Bałtyckie studia kulturowe",
  "kierunekEn": "Baltic Cultural Studies",
  "id": "wh-bsk-2-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "BSK1": {
    "odd": [
@@ -23,7 +23,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "tradycje i dziedzictwo kulturowe Wielkiego Księstwa Litewskiego i Rzeczpospolitej Obojga Narodów historia Pomorza e-zajęć od 30.11.26 do 1.02.27 r.(1.02 ))",
+     "pl": "Tradycje i dziedzictwo kulturowe Wielkiego Księstwa Litewskiego i Rzeczpospolitej Obojga Narodów historia Pomorza e-zajęć od 30.11.26 do 1.02.27 r.(1.02 ))",
      "k": "W",
      "p": "dr Monika Ogiewa-Sejnota, dr T. Ślepowroński",
      "n": "kod do teams: st4fawd; kod do teams: dewdwji; 10h-e-zajęć od 19.10 do 23.11",
@@ -34,7 +34,8 @@
       "2026-11-09",
       "2026-11-16",
       "2026-11-23"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 0,
@@ -42,7 +43,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "teorie kultury",
+     "pl": "Teorie kultury",
      "k": "W",
      "p": "dr Paweł Dziel",
      "n": "kod do teams: ovaturg; 10 h e-zajęć od 5.10 do 9.11.26",
@@ -53,7 +54,8 @@
       "2026-10-26",
       "2026-11-02",
       "2026-11-09"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 0,
@@ -61,7 +63,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "historia regionu nadbałtyckiego do XX w. e-zajęć r.(1.02 ))",
+     "pl": "Historia regionu nadbałtyckiego do XX w. e-zajęć r.(1.02 ))",
      "k": "W",
      "p": "dr P.Migdalski",
      "n": "kod do teams: d9bl73s",
@@ -76,7 +78,8 @@
       "2027-01-18",
       "2027-01-25",
       "2027-02-01"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -84,7 +87,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia Pomorza przekład kulturowy -stacjonarnie od 8.12 do 22.12.26 (22.12 ))",
+     "pl": "Historia Pomorza przekład kulturowy -stacjonarnie od 8.12 do 22.12.26 (22.12 ))",
      "k": "W",
      "p": "dr hab. Radosław Skrycki, prof. US, dr Łukasz Świercz",
      "r": "s. 119, WH bud. 4, s. 310a, WH bud. 4",
@@ -107,7 +110,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "państwa regionu nadbałtyckiego w XX i XXI wieku",
+     "pl": "Państwa regionu nadbałtyckiego w XX i XXI wieku",
      "k": "K",
      "p": "dr K. Rembacka",
      "r": "s. 310a, WH bud.4",
@@ -128,7 +131,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "przekład kulturowy (24.11 od 17:45)",
+     "pl": "Przekład kulturowy (24.11 od 17:45)",
      "k": "K",
      "p": "dr Łukasz Świercz",
      "r": "s. 310a, WH bud.4",
@@ -151,7 +154,7 @@
       "19:00",
       "20:30"
      ],
-     "pl": "teorie kultury mity i sagi narodów nadbałtyckich",
+     "pl": "Teorie kultury mity i sagi narodów nadbałtyckich",
      "k": "W",
      "p": "dr P. Dziel, dr P. Migdalski",
      "r": "s. 310a, WH bud.4, s. 310a, WH bud.4",
@@ -168,10 +171,10 @@
       "16:00",
       "17:45"
      ],
-     "pl": "historia regionu nadbałtyckiego do XX w. stacjonarnie (16.12 )) tradycje i dziedzictwo kulturowe Wielkiego Księstwa Litewskiego i Rzeczpospolitej Obojga Narodów stacjonarnie: 2.12 9.12-od 15:15 do 17:45 )",
+     "pl": "Historia regionu nadbałtyckiego do XX w. stacjonarnie (16.12 )) tradycje i dziedzictwo kulturowe Wielkiego Księstwa Litewskiego i Rzeczpospolitej Obojga Narodów stacjonarnie: 16.12 23.12 -od 15:15 do 17:45 )",
      "k": "W",
      "p": "dr Monika Ogiewa-Sejnota",
-     "r": "s. 117, WH bud. 4, s. 201, WH bud. 4",
+     "r": "s. 117, WH bud. 4, s. 117, WH bud. 4",
      "dates": [
       "2026-10-21",
       "2026-10-28",
@@ -190,7 +193,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "mity i sagi narodów nadbałtyckich z stacjonarnie, – do 19:30)",
+     "pl": "Mity i sagi narodów nadbałtyckich z stacjonarnie, – do 19:30)",
      "k": "K",
      "p": "dr A. Lubowicka",
      "r": "s. 117, WH bud.4",
@@ -210,7 +213,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "przekład kulturowy",
+     "pl": "Przekład kulturowy",
      "k": "W",
      "p": "dr Łukasz Świercz",
      "n": "kod do teams: 8vbj1vq; 10h-e-zajęć od 16.12 do 27.01",
@@ -222,7 +225,8 @@
       "2027-01-13",
       "2027-01-20",
       "2027-01-27"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 3,
@@ -230,7 +234,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "pragmatyka językowa",
+     "pl": "Pragmatyka językowa",
      "k": "K",
      "p": "dr Maria Kabata",
      "r": "s. 301,WH bud.4"
@@ -241,7 +245,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "literackie antropologie życia codziennego",
+     "pl": "Literackie antropologie życia codziennego",
      "k": "K",
      "p": "mgr Aleksandra Majewicz",
      "r": "s. 304, WH bud.4"
@@ -254,7 +258,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "tradycje i dziedzictwo kulturowe Wielkiego Księstwa Litewskiego i Rzeczpospolitej Obojga Narodów historia Pomorza e-zajęć od 30.11.26 do 1.02.27 r.(1.02 ))",
+     "pl": "Tradycje i dziedzictwo kulturowe Wielkiego Księstwa Litewskiego i Rzeczpospolitej Obojga Narodów historia Pomorza e-zajęć od 30.11.26 do 1.02.27 r.(1.02 ))",
      "k": "W",
      "p": "dr Monika Ogiewa-Sejnota, dr T. Ślepowroński",
      "n": "kod do teams: st4fawd; kod do teams: dewdwji; 10h-e-zajęć od 19.10 do 23.11",
@@ -265,7 +269,8 @@
       "2026-11-09",
       "2026-11-16",
       "2026-11-23"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 0,
@@ -273,7 +278,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "teorie kultury",
+     "pl": "Teorie kultury",
      "k": "W",
      "p": "dr Paweł Dziel",
      "n": "kod do teams: ovaturg; 10 h e-zajęć od 5.10 do 9.11.26",
@@ -284,7 +289,8 @@
       "2026-10-26",
       "2026-11-02",
       "2026-11-09"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 0,
@@ -292,7 +298,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "historia regionu nadbałtyckiego do XX w. e-zajęć r.(1.02 ))",
+     "pl": "Historia regionu nadbałtyckiego do XX w. e-zajęć r.(1.02 ))",
      "k": "W",
      "p": "dr P.Migdalski",
      "n": "kod do teams: d9bl73s",
@@ -307,7 +313,8 @@
       "2027-01-18",
       "2027-01-25",
       "2027-02-01"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -315,7 +322,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia Pomorza przekład kulturowy -stacjonarnie od 8.12 do 22.12.26 (22.12 ))",
+     "pl": "Historia Pomorza przekład kulturowy -stacjonarnie od 8.12 do 22.12.26 (22.12 ))",
      "k": "W",
      "p": "dr hab. Radosław Skrycki, prof. US, dr Łukasz Świercz",
      "r": "s. 119, WH bud. 4, s. 310a, WH bud. 4",
@@ -338,7 +345,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "państwa regionu nadbałtyckiego w XX i XXI wieku",
+     "pl": "Państwa regionu nadbałtyckiego w XX i XXI wieku",
      "k": "K",
      "p": "dr K. Rembacka",
      "r": "s. 310a, WH bud.4",
@@ -359,7 +366,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "przekład kulturowy (24.11 od 17:45)",
+     "pl": "Przekład kulturowy (24.11 od 17:45)",
      "k": "K",
      "p": "dr Łukasz Świercz",
      "r": "s. 310a, WH bud.4",
@@ -382,7 +389,7 @@
       "19:00",
       "20:30"
      ],
-     "pl": "teorie kultury mity i sagi narodów nadbałtyckich",
+     "pl": "Teorie kultury mity i sagi narodów nadbałtyckich",
      "k": "W",
      "p": "dr P. Dziel, dr P. Migdalski",
      "r": "s. 310a, WH bud.4, s. 310a, WH bud.4",
@@ -399,10 +406,10 @@
       "16:00",
       "17:45"
      ],
-     "pl": "historia regionu nadbałtyckiego do XX w. stacjonarnie (16.12 )) tradycje i dziedzictwo kulturowe Wielkiego Księstwa Litewskiego i Rzeczpospolitej Obojga Narodów stacjonarnie: 2.12 9.12-od 15:15 do 17:45 )",
+     "pl": "Historia regionu nadbałtyckiego do XX w. stacjonarnie (16.12 )) tradycje i dziedzictwo kulturowe Wielkiego Księstwa Litewskiego i Rzeczpospolitej Obojga Narodów stacjonarnie: 16.12 23.12 -od 15:15 do 17:45 )",
      "k": "W",
      "p": "dr Monika Ogiewa-Sejnota",
-     "r": "s. 117, WH bud. 4, s. 201, WH bud. 4",
+     "r": "s. 117, WH bud. 4, s. 117, WH bud. 4",
      "dates": [
       "2026-10-21",
       "2026-10-28",
@@ -421,7 +428,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "mity i sagi narodów nadbałtyckich z stacjonarnie, – do 19:30)",
+     "pl": "Mity i sagi narodów nadbałtyckich z stacjonarnie, – do 19:30)",
      "k": "K",
      "p": "dr A. Lubowicka",
      "r": "s. 117, WH bud.4",
@@ -441,7 +448,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "przekład kulturowy",
+     "pl": "Przekład kulturowy",
      "k": "W",
      "p": "dr Łukasz Świercz",
      "n": "kod do teams: 8vbj1vq; 10h-e-zajęć od 16.12 do 27.01",
@@ -453,7 +460,8 @@
       "2027-01-13",
       "2027-01-20",
       "2027-01-27"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 3,
@@ -461,7 +469,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "pragmatyka językowa",
+     "pl": "Pragmatyka językowa",
      "k": "K",
      "p": "dr Maria Kabata",
      "r": "s. 301,WH bud.4"
@@ -472,7 +480,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "literackie antropologie życia codziennego",
+     "pl": "Literackie antropologie życia codziennego",
      "k": "K",
      "p": "mgr Aleksandra Majewicz",
      "r": "s. 304, WH bud.4"

@@ -1,0 +1,331 @@
+{
+ "source": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+ "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+ "sha256": "7ad2606fbd54b80d80d1ec450b4e43535b427027938997d671422ff6fb47b854",
+ "kierunek": "Teologia",
+ "kierunekEn": "Theology",
+ "id": "wt-teo-0-st-2023",
+ "kod": "teoj23",
+ "wydzial": "WT",
+ "rok": 4,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:39:50.382Z",
+ "checkedAt": "2026-11-09T22:52:36.003Z",
+ "groups": {
+  "TEO4": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo kanoniczne: księga II KPK",
+     "k": "X",
+     "p": "Ks. dr hab. Kazimierz Dullak",
+     "r": "s. 305"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia moralna: inicjacja życia chrześc.",
+     "k": "X",
+     "p": "Ks. dr Tadeusz Kuźmicki",
+     "r": "s. 305"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Dydaktyka katechezy szkoły podstawowej – klasy I-III",
+     "k": "X",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Egzegeza NT: Dzieje Apostolskie",
+     "k": "X",
+     "p": "Dr hab. Piotr Goniszewski",
+     "r": "s. 305",
+     "dates": [
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Egzegeza ST: prorocy więksi",
+     "k": "X",
+     "p": "Ks. dr hab. Cezary Korzec",
+     "r": "s. 305"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Dydaktyka katechezy szkoły podstawowej – klasy IV-VIII",
+     "k": "X",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Mirosław Mikołajczyk",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Teologia dogmatyczna: protologia",
+     "k": "W",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 305"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Teologia dogmatyczna: protologia",
+     "k": "CW",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Katolicka nauka społeczna: wprowadzenie",
+     "k": "X",
+     "p": "Ks. dr Remigiusz Szauer",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia pastoralna ogólna",
+     "k": "X",
+     "p": "Ks. dr Andrzej Krzystek",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Liturgika: Eucharystia",
+     "k": "X",
+     "p": "Ks. dr Andrzej Krzystek",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "Mgr Magdalena Kisiel-Spychała",
+     "r": "s. 107 ACKJ, ul. Wawrzyniaka 15"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo kanoniczne: księga II KPK",
+     "k": "X",
+     "p": "Ks. dr hab. Kazimierz Dullak",
+     "r": "s. 305"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia moralna: inicjacja życia chrześc.",
+     "k": "X",
+     "p": "Ks. dr Tadeusz Kuźmicki",
+     "r": "s. 305"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Dydaktyka katechezy szkoły podstawowej – klasy I-III",
+     "k": "X",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Egzegeza NT: Dzieje Apostolskie",
+     "k": "X",
+     "p": "Dr hab. Piotr Goniszewski",
+     "r": "s. 305",
+     "dates": [
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Egzegeza ST: prorocy więksi",
+     "k": "X",
+     "p": "Ks. dr hab. Cezary Korzec",
+     "r": "s. 305"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Dydaktyka katechezy szkoły podstawowej – klasy IV-VIII",
+     "k": "X",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Mirosław Mikołajczyk",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Teologia dogmatyczna: protologia",
+     "k": "W",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 305"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Teologia dogmatyczna: protologia",
+     "k": "CW",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Katolicka nauka społeczna: wprowadzenie",
+     "k": "X",
+     "p": "Ks. dr Remigiusz Szauer",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia pastoralna ogólna",
+     "k": "X",
+     "p": "Ks. dr Andrzej Krzystek",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Liturgika: Eucharystia",
+     "k": "X",
+     "p": "Ks. dr Andrzej Krzystek",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "Mgr Magdalena Kisiel-Spychała",
+     "r": "s. 107 ACKJ, ul. Wawrzyniaka 15"
+    }
+   ]
+  }
+ }
+}

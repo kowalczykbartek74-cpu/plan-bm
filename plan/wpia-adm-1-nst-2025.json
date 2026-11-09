@@ -1,0 +1,1585 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSA-I-st.-9.pdf",
+ "wersja": "II-NSA-I-st.-9.pdf",
+ "sha256": "217fa74ce3eee75fc57128b79bac028d0ae81d64df7d85fcf49b3eab0754e03f",
+ "kierunek": "Administracja",
+ "kierunekEn": "Administration",
+ "id": "wpia-adm-1-nst-2025",
+ "kod": "admn25",
+ "wydzial": "WPiA",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "ADM2": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:45",
+      "14:15"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "15:30"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "X",
+     "p": "prof. dr hab. M. Górski",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "X",
+     "p": "prof. dr hab. M. Górski",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "X",
+     "p": "prof. dr hab. M. Górski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:45",
+      "18:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "mgr Z. Niedżwiecka",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Niedzielska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 308 Narutowicza",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-22",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "X",
+     "p": "prof. dr hab. M. Górski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:00",
+      "15:30"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "15:30"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-20"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:45",
+      "14:15"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "15:30"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "X",
+     "p": "prof. dr hab. M. Górski",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "X",
+     "p": "prof. dr hab. M. Górski",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "X",
+     "p": "prof. dr hab. M. Górski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:45",
+      "18:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "mgr Z. Niedżwiecka",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Niedzielska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 308 Narutowicza",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-22",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "X",
+     "p": "prof. dr hab. M. Górski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:00",
+      "15:30"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "15:30"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "X",
+     "p": "mgr A. Budysz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-20"
+     ]
+    }
+   ]
+  }
+ }
+}

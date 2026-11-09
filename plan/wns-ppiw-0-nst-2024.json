@@ -1,0 +1,675 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (13 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
+ "kierunekEn": "Preschool and Early School Education",
+ "id": "wns-ppiw-0-nst-2024",
+ "kod": "ppiwjn24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PPIW3": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Pedagogika opiekuńcza",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr inż. M. Nermend",
+     "r": "online",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Praktyka śródroczna wychowawczo-dydaktyczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Nermend",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-09",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Praktyka śródroczna wychowawczo-dydaktyczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Nermend",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika opiekuńcza",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr inż. M. Nermend",
+     "r": "online",
+     "dates": [
+      "2026-10-11",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, J. Stankiewicz-Rycielska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "J. Paśnicka-Stopa",
+     "r": "s. 308",
+     "n": "l:6:15",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr A. Całuzyńska",
+     "r": "online",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Pedagogika opiekuńcza",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr inż. M. Nermend",
+     "r": "online",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Praktyka śródroczna wychowawczo-dydaktyczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Nermend",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-09",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Praktyka śródroczna wychowawczo-dydaktyczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Nermend",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika opiekuńcza",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr inż. M. Nermend",
+     "r": "online",
+     "dates": [
+      "2026-10-11",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, J. Stankiewicz-Rycielska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "J. Paśnicka-Stopa",
+     "r": "s. 308",
+     "n": "l:6:15",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr A. Całuzyńska",
+     "r": "online",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

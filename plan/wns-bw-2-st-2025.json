@@ -1,0 +1,1015 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-56.pdf",
+ "wersja": "BW-II-56.pdf",
+ "sha256": "49ea4640ae4ed993e28558fe7f03150de29adf235b033a27bcadadd711c5b6c5",
+ "kierunek": "Bezpieczeństwo wewnętrzne",
+ "kierunekEn": "Internal Security",
+ "id": "wns-bw-2-st-2025",
+ "kod": "bwm25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "BW2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr A. Pałgan, mgr I. Rokita-Lisiecka",
+     "r": "s. 102"
+    },
+    {
+     "d": 0,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Wykład monograficzny Palinologia kryminalistyczna i polityka bezpieczeństwa biologicznego – zarodniki grzybów w kryminalistyce i zdrowiu publicznym",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "prof. A. Grinn-Gofroń",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Medycyna sądowa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. M. Bulsa",
+     "r": "s. 110",
+     "n": "pierwsze zajęcia w godz. 9.00-9.45",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Przestępczość kryminalna w ujęciu fenomenologicznym, etiologicznym i prawnym",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 178",
+     "n": "pierwsze zajęcia w godz. 10.45-11.30",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Zapobieganie i zachowanie podczas ataków terrorystycznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 178",
+     "n": "pierwsze zajęcia w godz. 12.30-13.15",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Procesy migracyjne we współczesnym świecie",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "s. 235",
+     "n": "pierwsze zajęcia w godz. 14.15-15.00",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "s. 110",
+     "n": "pierwsze zajęcia w godz. 10.45-11.30; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Medycyna sądowa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 144",
+     "n": "ostatnie zajęcia w godz. 11.45-12.30",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Procesy migracyjne we współczesnym świecie",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "s. 048",
+     "n": "ostatnie zajęcia w godz. 11.45-12.30",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przestępczość kryminalna w ujęciu fenomenologicznym, etiologicznym i prawnym",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr D. Kłodziński",
+     "r": "s. 048",
+     "n": "pierwsze zajęcia w godz. 12.30-13.15; termin w inny dzień: 29.01",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "s. 110",
+     "n": "pierwsze zajęcia w godz. 12.30-13.15; termin w inny dzień: 29.01",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Medycyna sądowa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 144",
+     "n": "ostatnie zajęcia w godz. 13.30-14.15",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Procesy migracyjne we współczesnym świecie",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "s. 048",
+     "n": "ostatnie zajęcia w godz. 13.30-14.15",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przestępczość kryminalna w ujęciu fenomenologicznym, etiologicznym i prawnym",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr D. Kłodziński",
+     "r": "s. 048",
+     "n": "pierwsze zajęcia w godz.14.15.15.00; termin w inny dzień: 29.01",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "s. 110",
+     "n": "pierwsze zajęcia w godz.14.15.15.00; termin w inny dzień: 29.01",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Ochrona ludności i obrona cywilna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "n": "pierwsze zajęcia w godz. 16.00-16.45; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Fakultet Islam bez tabu",
+     "k": "X",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 258",
+     "n": "pierwsze zajęcia w godz. 10.45-11.30",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. L. Wojnicz-Smal, prof. T. Czapiewski, prof. R. Podgórzańska, prof. K. Kowalczyk, prof. J. Piątek, prof. P. Chrobak",
+     "n": "Seminaria odbywają się w gabinetach Promotorów",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "n": "Seminaria odbywają się w gabinetach Promotorów",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "n": "według harmonogramu na stronie wydziału"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr A. Pałgan, mgr I. Rokita-Lisiecka",
+     "r": "s. 102"
+    },
+    {
+     "d": 0,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Wykład monograficzny Palinologia kryminalistyczna i polityka bezpieczeństwa biologicznego – zarodniki grzybów w kryminalistyce i zdrowiu publicznym",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "prof. A. Grinn-Gofroń",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Medycyna sądowa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. M. Bulsa",
+     "r": "s. 110",
+     "n": "pierwsze zajęcia w godz. 9.00-9.45",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Przestępczość kryminalna w ujęciu fenomenologicznym, etiologicznym i prawnym",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 178",
+     "n": "pierwsze zajęcia w godz. 10.45-11.30",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Zapobieganie i zachowanie podczas ataków terrorystycznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 178",
+     "n": "pierwsze zajęcia w godz. 12.30-13.15",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Procesy migracyjne we współczesnym świecie",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "s. 235",
+     "n": "pierwsze zajęcia w godz. 14.15-15.00",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "s. 110",
+     "n": "pierwsze zajęcia w godz. 10.45-11.30; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Medycyna sądowa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 144",
+     "n": "ostatnie zajęcia w godz. 11.45-12.30",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Procesy migracyjne we współczesnym świecie",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "s. 048",
+     "n": "ostatnie zajęcia w godz. 11.45-12.30",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przestępczość kryminalna w ujęciu fenomenologicznym, etiologicznym i prawnym",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr D. Kłodziński",
+     "r": "s. 048",
+     "n": "pierwsze zajęcia w godz. 12.30-13.15; termin w inny dzień: 29.01",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "s. 110",
+     "n": "pierwsze zajęcia w godz. 12.30-13.15; termin w inny dzień: 29.01",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Medycyna sądowa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 144",
+     "n": "ostatnie zajęcia w godz. 13.30-14.15",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Procesy migracyjne we współczesnym świecie",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "s. 048",
+     "n": "ostatnie zajęcia w godz. 13.30-14.15",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przestępczość kryminalna w ujęciu fenomenologicznym, etiologicznym i prawnym",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr D. Kłodziński",
+     "r": "s. 048",
+     "n": "pierwsze zajęcia w godz.14.15.15.00; termin w inny dzień: 29.01",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "s. 110",
+     "n": "pierwsze zajęcia w godz.14.15.15.00; termin w inny dzień: 29.01",
+     "pg": "spec:TiTK",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Ochrona ludności i obrona cywilna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "n": "pierwsze zajęcia w godz. 16.00-16.45; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Fakultet Islam bez tabu",
+     "k": "X",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 258",
+     "n": "pierwsze zajęcia w godz. 10.45-11.30",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "prof. L. Wojnicz-Smal, prof. T. Czapiewski, prof. R. Podgórzańska, prof. K. Kowalczyk, prof. J. Piątek, prof. P. Chrobak",
+     "n": "Seminaria odbywają się w gabinetach Promotorów",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "n": "Seminaria odbywają się w gabinetach Promotorów",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "n": "według harmonogramu na stronie wydziału"
+    }
+   ]
+  }
+ }
+}

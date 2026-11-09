@@ -1,0 +1,767 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (12 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
+ "kierunekEn": "Preschool and Early School Education",
+ "id": "wns-ppiw-0-nst-2023",
+ "kod": "ppiwjn23",
+ "wydzial": "WNS",
+ "rok": 4,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PPIW4": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US, dr hab. J. Król prof. US, dr hab. J. Nowotniak prof. US",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US, dr hab. J. Król prof. US, dr hab. J. Nowotniak prof. US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Tutoring",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US, dr hab. J. Król prof. US, dr hab. J. Nowotniak prof. US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji społeczno-przyrodniczej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "mgr A. Leśniewska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji społeczno-przyrodniczej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji społeczno-przyrodniczej",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "mgr A.Leśniewska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr A. Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US, dr hab. J. Król prof. US, dr hab. J. Nowotniak prof. US",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr A. Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji społeczno - przyrodniczej",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US, dr hab. J. Król prof. US, dr hab. J. Nowotniak prof. US",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US, dr hab. J. Król prof. US, dr hab. J. Nowotniak prof. US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Tutoring",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US, dr hab. J. Król prof. US, dr hab. J. Nowotniak prof. US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji społeczno-przyrodniczej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "mgr A. Leśniewska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji społeczno-przyrodniczej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji społeczno-przyrodniczej",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "mgr A.Leśniewska",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr A. Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US, dr hab. J. Król prof. US, dr hab. J. Nowotniak prof. US",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr A. Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji technicznej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji społeczno - przyrodniczej",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

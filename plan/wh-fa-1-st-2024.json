@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FA3": {
    "odd": [
@@ -147,7 +147,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "lektorat historia + SM + /WH – język rosyjski",
+     "pl": "Lektorat historia + SM + /WH – język rosyjski",
      "k": "CW",
      "p": "mgr L. Smędzik",
      "r": "s. 214 WH"
@@ -158,7 +158,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "lektorat język włoski",
+     "pl": "Lektorat język włoski",
      "k": "CW",
      "p": "mgr Anna Kowalik",
      "r": "s. 16 WH"
@@ -180,7 +180,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "do wyboru (co 2 tyg.) Methodologies of Cultural Studies: From Text to Image",
+     "pl": "Do wyboru (co 2 tyg.) Methodologies of Cultural Studies: From Text to Image",
      "k": "W",
      "p": "dr Krystian Grądz",
      "r": "s. 310a WH",
@@ -201,7 +201,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "do wyboru History of the Gothic",
+     "pl": "Do wyboru History of the Gothic",
      "k": "W",
      "p": "dr Barbara Braid",
      "r": "s. 201 WH"
@@ -212,7 +212,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "lektorat j. hiszpański",
+     "pl": "Lektorat j. hiszpański",
      "k": "CW",
      "p": "mgr Joanna Majewska-Paul",
      "r": "s. 216 WH",
@@ -224,7 +224,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "lektorat j. niemiecki",
+     "pl": "Lektorat j. niemiecki",
      "k": "CW",
      "p": "dr Anna Borowska-Stankiewicz",
      "r": "s. 215 WH",
@@ -373,7 +373,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "lektorat język hiszpański – ACKJ od grudnia w bud. Nr 6",
+     "pl": "Lektorat język hiszpański – ACKJ od grudnia w bud. Nr 6",
      "k": "W",
      "p": "mgr Agnieszka Jakóbiak",
      "r": "s. 6*, s. 221",
@@ -442,7 +442,8 @@
      ],
      "pl": "ONLINE z dziedziny nauk społecznych",
      "k": "W",
-     "n": "zgodnie z wyborem"
+     "n": "zgodnie z wyborem",
+     "r": "online"
     }
    ],
    "even": [
@@ -576,7 +577,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "lektorat historia + SM + /WH – język rosyjski",
+     "pl": "Lektorat historia + SM + /WH – język rosyjski",
      "k": "CW",
      "p": "mgr L. Smędzik",
      "r": "s. 214 WH"
@@ -587,7 +588,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "lektorat język włoski",
+     "pl": "Lektorat język włoski",
      "k": "CW",
      "p": "mgr Anna Kowalik",
      "r": "s. 16 WH"
@@ -609,7 +610,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "do wyboru (co 2 tyg.) Methodologies of Cultural Studies: From Text to Image",
+     "pl": "Do wyboru (co 2 tyg.) Methodologies of Cultural Studies: From Text to Image",
      "k": "W",
      "p": "dr Krystian Grądz",
      "r": "s. 310a WH",
@@ -630,7 +631,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "do wyboru History of the Gothic",
+     "pl": "Do wyboru History of the Gothic",
      "k": "W",
      "p": "dr Barbara Braid",
      "r": "s. 201 WH"
@@ -641,7 +642,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "lektorat j. hiszpański",
+     "pl": "Lektorat j. hiszpański",
      "k": "CW",
      "p": "mgr Joanna Majewska-Paul",
      "r": "s. 216 WH",
@@ -653,7 +654,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "lektorat j. niemiecki",
+     "pl": "Lektorat j. niemiecki",
      "k": "CW",
      "p": "dr Anna Borowska-Stankiewicz",
      "r": "s. 215 WH",
@@ -802,7 +803,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "lektorat język hiszpański – ACKJ od grudnia w bud. Nr 6",
+     "pl": "Lektorat język hiszpański – ACKJ od grudnia w bud. Nr 6",
      "k": "W",
      "p": "mgr Agnieszka Jakóbiak",
      "r": "s. 6*, s. 221",
@@ -871,7 +872,8 @@
      ],
      "pl": "ONLINE z dziedziny nauk społecznych",
      "k": "W",
-     "n": "zgodnie z wyborem"
+     "n": "zgodnie z wyborem",
+     "r": "online"
     }
    ]
   }

@@ -1,0 +1,557 @@
+{
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/fiz_2-rok-I-st.-akt.-06.11.pdf",
+ "wersja": "2026-11-06",
+ "sha256": "82a05f0c7bae88add1f383c37d2f049bd11eb1afc8f395f1592ab2e212fc48cc",
+ "kierunek": "Fizyka",
+ "kierunekEn": "Physics",
+ "id": "wnsip-fiz-1-st-2025",
+ "kod": "fiz25",
+ "wydzial": "WNŚiP",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:37:44.669Z",
+ "checkedAt": "2026-11-09T22:50:40.599Z",
+ "groups": {
+  "FIZ2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Mechanika nieba",
+     "k": "K",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "prof. dr hab. E. Szuszkiewicz",
+     "r": "s. 106",
+     "n": "(ostatnie zajęcia 1h)",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Astronomy (astronomia)",
+     "k": "K",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "prof. dr hab. E. Szuszkiewicz",
+     "r": "s. 106"
+    },
+    {
+     "d": 0,
+     "pl": "Introduction to Thermodynamics and Statistical Physics (wprowadzenie do termodynamiki i fizyki statycznej)",
+     "k": "W",
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "p": "dr hab. F. Ferrari, prof. US, dr H. Gohar",
+     "r": "s. 305",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Introduction to Thermodynamics and Statistical Physics (wprowadzenie do termodynamiki i fizyki statycznej)",
+     "k": "CW",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr H. Gohar, dr hab. F. Ferrari, prof. US",
+     "r": "s. 305",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Introduction to Thermodynamics and Statistical Physics (wprowadzenie do termodynamiki i fizyki statycznej)",
+     "k": "W",
+     "time": [
+      "14:20",
+      "15:05"
+     ],
+     "p": "dr H. Gohar",
+     "r": "s. 305",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Introduction to Thermodynamics and Statistical Physics (wprowadzenie do termodynamiki i fizyki statycznej)",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:50"
+     ],
+     "p": "dr H. Gohar",
+     "r": "s. 305",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Materią i dozymetria",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr N. Targosz-Ślęczka",
+     "r": "s. 35",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Wstęp do elektroniki",
+     "k": "K",
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "p": "dr inż. M. Olszewski",
+     "r": "s. 106"
+    },
+    {
+     "d": 2,
+     "pl": "Mechanika klasyczna i relatywistyczna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "r": "s. 106"
+    },
+    {
+     "d": 2,
+     "pl": "Mechanika klasyczna i relatywistyczna",
+     "k": "CW",
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "p": "dr hab. A. Balcerzak, prof. US",
+     "r": "s. 106"
+    },
+    {
+     "d": 2,
+     "pl": "Programowanie strukturalne",
+     "k": "LAB",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr hab. T. Denkiewicz, prof. US",
+     "r": "s. 208",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Filozoficzne aspekty kosmologii",
+     "k": "K",
+     "time": [
+      "12:35",
+      "13:20"
+     ],
+     "p": "dr hab. T. Denkiewicz, prof. US",
+     "r": "s. 106"
+    },
+    {
+     "d": 2,
+     "pl": "I pracownia fizyczna",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:05"
+     ],
+     "p": "dr W. Staroń",
+     "r": "s.111"
+    },
+    {
+     "d": 3,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr I. Niedzielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "pl": "Język niemiecki",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr M.Kisiel - Spychała",
+     "r": "s. 107"
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "r": "s. 116 (aula) ul. Wielkopolska 15",
+     "dates": [
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:50"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Mechanika nieba",
+     "k": "K",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "prof. dr hab. E. Szuszkiewicz",
+     "r": "s. 106",
+     "n": "(ostatnie zajęcia 1h)",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Astronomy (astronomia)",
+     "k": "K",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "prof. dr hab. E. Szuszkiewicz",
+     "r": "s. 106"
+    },
+    {
+     "d": 0,
+     "pl": "Introduction to Thermodynamics and Statistical Physics (wprowadzenie do termodynamiki i fizyki statycznej)",
+     "k": "W",
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "p": "dr hab. F. Ferrari, prof. US, dr H. Gohar",
+     "r": "s. 305",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Introduction to Thermodynamics and Statistical Physics (wprowadzenie do termodynamiki i fizyki statycznej)",
+     "k": "CW",
+     "time": [
+      "12:35",
+      "14:15"
+     ],
+     "p": "dr H. Gohar, dr hab. F. Ferrari, prof. US",
+     "r": "s. 305",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Introduction to Thermodynamics and Statistical Physics (wprowadzenie do termodynamiki i fizyki statycznej)",
+     "k": "W",
+     "time": [
+      "14:20",
+      "15:05"
+     ],
+     "p": "dr H. Gohar",
+     "r": "s. 305",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Introduction to Thermodynamics and Statistical Physics (wprowadzenie do termodynamiki i fizyki statycznej)",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:50"
+     ],
+     "p": "dr H. Gohar",
+     "r": "s. 305",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Materią i dozymetria",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr N. Targosz-Ślęczka",
+     "r": "s. 35",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Wstęp do elektroniki",
+     "k": "K",
+     "time": [
+      "10:00",
+      "10:45"
+     ],
+     "p": "dr inż. M. Olszewski",
+     "r": "s. 106"
+    },
+    {
+     "d": 2,
+     "pl": "Mechanika klasyczna i relatywistyczna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "r": "s. 106"
+    },
+    {
+     "d": 2,
+     "pl": "Mechanika klasyczna i relatywistyczna",
+     "k": "CW",
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "p": "dr hab. A. Balcerzak, prof. US",
+     "r": "s. 106"
+    },
+    {
+     "d": 2,
+     "pl": "Programowanie strukturalne",
+     "k": "LAB",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr hab. T. Denkiewicz, prof. US",
+     "r": "s. 208",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Filozoficzne aspekty kosmologii",
+     "k": "K",
+     "time": [
+      "12:35",
+      "13:20"
+     ],
+     "p": "dr hab. T. Denkiewicz, prof. US",
+     "r": "s. 106"
+    },
+    {
+     "d": 2,
+     "pl": "I pracownia fizyczna",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:05"
+     ],
+     "p": "dr W. Staroń",
+     "r": "s.111"
+    },
+    {
+     "d": 3,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr I. Niedzielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 3,
+     "pl": "Język niemiecki",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr M.Kisiel - Spychała",
+     "r": "s. 107"
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "r": "s. 116 (aula) ul. Wielkopolska 15",
+     "dates": [
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:50"
+     ]
+    }
+   ]
+  }
+ }
+}

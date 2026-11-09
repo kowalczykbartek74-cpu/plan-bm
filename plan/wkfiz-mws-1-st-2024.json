@@ -11,8 +11,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:11:06.564Z",
- "checkedAt": "2026-11-09T20:26:07.883Z",
+ "changedAt": "2026-11-09T22:35:12.415Z",
+ "checkedAt": "2026-11-09T22:48:18.778Z",
  "groups": {
   "MWS3": {
    "odd": [
@@ -43,7 +43,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "od 14:00; negocjacje w sporcie",
+     "pl": "Od 14:00; negocjacje w sporcie",
      "k": "CW",
      "p": "dr Marta Sidorkiewicz",
      "r": "s. 201",
@@ -133,7 +133,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "organizacja i planowanie projektów",
+     "pl": "Organizacja i planowanie projektów",
      "k": "CW",
      "p": "dr Joanna Rzempała",
      "r": "s. 1",
@@ -163,7 +163,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "public realtions w sporcie",
+     "pl": "Public realtions w sporcie",
      "k": "K",
      "p": "dr Marta Sidorkiewicz",
      "r": "s. 218",
@@ -235,7 +235,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "międzynarodowe organizacje sportowe",
+     "pl": "Międzynarodowe organizacje sportowe",
      "k": "CW",
      "p": "dr hab. Renata Urban, prof.US",
      "r": "s. 1",
@@ -280,7 +280,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. Jerzy Eider, prof. US",
      "r": "s. 120",
@@ -311,7 +311,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Małgorzata Paczyńska-Jędrycka",
      "r": "s. 26",
@@ -342,7 +342,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "strategie marketingowe",
+     "pl": "Strategie marketingowe",
      "k": "CW",
      "p": "dr Paweł Mieczan",
      "r": "s. 313",
@@ -372,7 +372,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "wykład z dziedziny nauk humanistycznych lub dziedziny nauk społecznych",
+     "pl": "Wykład z dziedziny nauk humanistycznych lub dziedziny nauk społecznych",
      "k": "W",
      "p": "kod do zajęć zgodnie z wybranym wykładem",
      "r": "-"
@@ -383,10 +383,11 @@
       "18:45",
       "20:15"
      ],
-     "pl": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska",
+     "pl": "Szkolenie z obrony cywilnej",
      "k": "X",
      "p": "12:00-13:30; 26.11.2026;",
-     "r": "-"
+     "r": "-",
+     "n": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska"
     },
     {
      "d": 4,
@@ -394,8 +395,8 @@
       "08:15",
       "09:45"
      ],
-     "pl": "język niemiecki",
-     "k": "X",
+     "pl": "Język niemiecki",
+     "k": "CW",
      "p": "mgr Magdalena Kisiel-Spychała",
      "r": "ACKJ ul.Wawrzyniaka 15, sala 9"
     },
@@ -405,7 +406,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "międzynarodowe organizacje sportowe",
+     "pl": "Międzynarodowe organizacje sportowe",
      "k": "CW",
      "p": "dr hab. Renata Urban, prof.US",
      "r": "s. 116",
@@ -422,8 +423,8 @@
       "10:00",
       "11:30"
      ],
-     "pl": "język angielski",
-     "k": "X",
+     "pl": "Język angielski",
+     "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 1"
     },
@@ -433,7 +434,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Daria Buczkowska",
      "r": "s. 26",
@@ -468,7 +469,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "od 14:00; negocjacje w sporcie",
+     "pl": "Od 14:00; negocjacje w sporcie",
      "k": "CW",
      "p": "dr Marta Sidorkiewicz",
      "r": "s. 201",
@@ -558,7 +559,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "organizacja i planowanie projektów",
+     "pl": "Organizacja i planowanie projektów",
      "k": "CW",
      "p": "dr Joanna Rzempała",
      "r": "s. 1",
@@ -588,7 +589,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "public realtions w sporcie",
+     "pl": "Public realtions w sporcie",
      "k": "K",
      "p": "dr Marta Sidorkiewicz",
      "r": "s. 218",
@@ -660,7 +661,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "międzynarodowe organizacje sportowe",
+     "pl": "Międzynarodowe organizacje sportowe",
      "k": "CW",
      "p": "dr hab. Renata Urban, prof.US",
      "r": "s. 1",
@@ -705,7 +706,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. Jerzy Eider, prof. US",
      "r": "s. 120",
@@ -736,7 +737,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Małgorzata Paczyńska-Jędrycka",
      "r": "s. 26",
@@ -767,7 +768,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "strategie marketingowe",
+     "pl": "Strategie marketingowe",
      "k": "CW",
      "p": "dr Paweł Mieczan",
      "r": "s. 313",
@@ -797,7 +798,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "wykład z dziedziny nauk humanistycznych lub dziedziny nauk społecznych",
+     "pl": "Wykład z dziedziny nauk humanistycznych lub dziedziny nauk społecznych",
      "k": "W",
      "p": "kod do zajęć zgodnie z wybranym wykładem",
      "r": "-"
@@ -808,10 +809,11 @@
       "18:45",
       "20:15"
      ],
-     "pl": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska",
+     "pl": "Szkolenie z obrony cywilnej",
      "k": "X",
      "p": "12:00-13:30; 26.11.2026;",
-     "r": "-"
+     "r": "-",
+     "n": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska"
     },
     {
      "d": 4,
@@ -819,8 +821,8 @@
       "08:15",
       "09:45"
      ],
-     "pl": "język niemiecki",
-     "k": "X",
+     "pl": "Język niemiecki",
+     "k": "CW",
      "p": "mgr Magdalena Kisiel-Spychała",
      "r": "ACKJ ul.Wawrzyniaka 15, sala 9"
     },
@@ -830,7 +832,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "międzynarodowe organizacje sportowe",
+     "pl": "Międzynarodowe organizacje sportowe",
      "k": "CW",
      "p": "dr hab. Renata Urban, prof.US",
      "r": "s. 116",
@@ -847,8 +849,8 @@
       "10:00",
       "11:30"
      ],
-     "pl": "język angielski",
-     "k": "X",
+     "pl": "Język angielski",
+     "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 1"
     },
@@ -858,7 +860,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Daria Buczkowska",
      "r": "s. 26",

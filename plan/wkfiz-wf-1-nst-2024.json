@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T09:16:29.044Z",
- "checkedAt": "2026-11-09T20:26:07.883Z",
+ "changedAt": "2026-11-09T22:35:12.415Z",
+ "checkedAt": "2026-11-09T22:48:18.778Z",
  "groups": {
   "WF3": {
    "odd": [
@@ -22,14 +22,15 @@
       "17:00",
       "20:15"
      ],
-     "pl": "wykład z dziedziny nauk humanistycznych lub społecznych kod do zajęć zgodnie z wybranym wykładem",
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
      "k": "W",
      "dates": [
       "2026-10-23",
       "2026-11-06",
       "2026-12-11",
       "2027-01-08"
-     ]
+     ],
+     "n": "kod do zajęć zgodnie z wybranym wykładem"
     },
     {
      "d": 4,
@@ -37,7 +38,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
@@ -53,7 +54,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -67,7 +68,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "pdw: trener personalny",
+     "pl": "Pdw: trener personalny",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 201",
@@ -81,7 +82,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masaż",
@@ -95,7 +96,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -109,7 +110,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu szkole podstawowej w",
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -128,7 +129,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -145,7 +146,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -159,7 +160,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "W",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -173,7 +174,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 201",
@@ -187,7 +188,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu szkole podstawowej w",
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -201,7 +202,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "prof. dr hab Leonard Nowak",
      "r": "s. 201",
@@ -220,7 +221,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 119",
@@ -239,7 +240,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "prof. dr hab Leonard Nowak",
      "r": "s. 201",
@@ -253,7 +254,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 119",
@@ -267,7 +268,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zarządzanie i marketing instytucjach kultury fizycznej w",
+     "pl": "Zarządzanie i marketing instytucjach kultury fizycznej w",
      "k": "W",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -281,7 +282,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "W",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -295,7 +296,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -309,7 +310,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -323,7 +324,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "zarządzanie i marketing w instytucjach kultury fizycznej",
+     "pl": "Zarządzanie i marketing w instytucjach kultury fizycznej",
      "k": "CW",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -338,7 +339,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -352,7 +353,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "W",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -366,7 +367,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 120",
@@ -380,7 +381,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 1",
@@ -394,7 +395,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -408,7 +409,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -422,7 +423,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 1",
@@ -436,7 +437,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 201",
@@ -450,7 +451,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "dydaktyka przedmiotu szkole podstawowej w",
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -464,7 +465,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "pdw: trener personalny",
+     "pl": "Pdw: trener personalny",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 201",
@@ -478,7 +479,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "teoria i metodyka piłki siatkowej",
+     "pl": "Teoria i metodyka piłki siatkowej",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -494,7 +495,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -508,7 +509,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -528,7 +529,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -542,7 +543,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masaż",
@@ -556,7 +557,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "zarządzanie i marketing instytucjach kultury fizycznej w",
+     "pl": "Zarządzanie i marketing instytucjach kultury fizycznej w",
      "k": "W",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -570,7 +571,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 201",
@@ -584,7 +585,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -598,7 +599,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 201",
@@ -616,7 +617,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "język niemiecki (łączony z WPiA)",
+     "pl": "Język niemiecki (łączony z WPiA)",
      "k": "CW",
      "p": "mgr Joanna Paśnicka-Stopa",
      "r": "WPiA ul. Narutowicza 17",
@@ -634,7 +635,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -648,7 +649,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masaż",
@@ -662,7 +663,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zarządzanie i marketing w instytucjach kultury fizycznej",
+     "pl": "Zarządzanie i marketing w instytucjach kultury fizycznej",
      "k": "CW",
      "p": "dr Maciej Buryta",
      "r": "s. 201",
@@ -676,7 +677,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zarządzanie i marketing w instytucjach kultury fizycznej",
+     "pl": "Zarządzanie i marketing w instytucjach kultury fizycznej",
      "k": "CW",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -690,7 +691,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "teoria i metodyka piłki siatkowej",
+     "pl": "Teoria i metodyka piłki siatkowej",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -705,7 +706,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "W",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -719,7 +720,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -733,7 +734,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "zarządzanie i marketing w instytucjach kultury fizycznej",
+     "pl": "Zarządzanie i marketing w instytucjach kultury fizycznej",
      "k": "CW",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -747,7 +748,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "pdw: trener personalny",
+     "pl": "Pdw: trener personalny",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 201",
@@ -761,7 +762,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 1",
@@ -777,14 +778,15 @@
       "17:00",
       "20:15"
      ],
-     "pl": "wykład z dziedziny nauk humanistycznych lub społecznych kod do zajęć zgodnie z wybranym wykładem",
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
      "k": "W",
      "dates": [
       "2026-10-23",
       "2026-11-06",
       "2026-12-11",
       "2027-01-08"
-     ]
+     ],
+     "n": "kod do zajęć zgodnie z wybranym wykładem"
     },
     {
      "d": 4,
@@ -792,7 +794,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. gimnastyczn WNŚiP ul.Wielkopolska 15",
@@ -808,7 +810,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -822,7 +824,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "pdw: trener personalny",
+     "pl": "Pdw: trener personalny",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 201",
@@ -836,7 +838,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masaż",
@@ -850,7 +852,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -864,7 +866,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu szkole podstawowej w",
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -883,7 +885,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -900,7 +902,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -914,7 +916,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "W",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -928,7 +930,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 201",
@@ -942,7 +944,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu szkole podstawowej w",
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -956,7 +958,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "prof. dr hab Leonard Nowak",
      "r": "s. 201",
@@ -975,7 +977,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 119",
@@ -994,7 +996,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "prof. dr hab Leonard Nowak",
      "r": "s. 201",
@@ -1008,7 +1010,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 119",
@@ -1022,7 +1024,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zarządzanie i marketing instytucjach kultury fizycznej w",
+     "pl": "Zarządzanie i marketing instytucjach kultury fizycznej w",
      "k": "W",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -1036,7 +1038,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "W",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -1050,7 +1052,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
@@ -1064,7 +1066,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1078,7 +1080,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "zarządzanie i marketing w instytucjach kultury fizycznej",
+     "pl": "Zarządzanie i marketing w instytucjach kultury fizycznej",
      "k": "CW",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -1093,7 +1095,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -1107,7 +1109,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "W",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -1121,7 +1123,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 120",
@@ -1135,7 +1137,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "K",
      "p": "mgr Robert Terczyński",
      "r": "s. 1",
@@ -1149,7 +1151,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -1163,7 +1165,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "żywienie dzieci i młodzieży",
+     "pl": "Żywienie dzieci i młodzieży",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
      "r": "s. 201",
@@ -1177,7 +1179,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 1",
@@ -1191,7 +1193,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 201",
@@ -1205,7 +1207,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "dydaktyka przedmiotu szkole podstawowej w",
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -1219,7 +1221,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "pdw: trener personalny",
+     "pl": "Pdw: trener personalny",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 201",
@@ -1233,7 +1235,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "teoria i metodyka piłki siatkowej",
+     "pl": "Teoria i metodyka piłki siatkowej",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1249,7 +1251,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1263,7 +1265,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 201",
@@ -1283,7 +1285,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1297,7 +1299,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masaż",
@@ -1311,7 +1313,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "zarządzanie i marketing instytucjach kultury fizycznej w",
+     "pl": "Zarządzanie i marketing instytucjach kultury fizycznej w",
      "k": "W",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -1325,7 +1327,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "biomechanika",
+     "pl": "Biomechanika",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 201",
@@ -1339,7 +1341,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu w szkole podstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1353,7 +1355,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 201",
@@ -1371,7 +1373,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "język niemiecki (łączony z WPiA)",
+     "pl": "Język niemiecki (łączony z WPiA)",
      "k": "CW",
      "p": "mgr Joanna Paśnicka-Stopa",
      "r": "WPiA ul. Narutowicza 17",
@@ -1389,7 +1391,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -1403,7 +1405,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "trener personalny",
+     "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. 328 masaż",
@@ -1417,7 +1419,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zarządzanie i marketing w instytucjach kultury fizycznej",
+     "pl": "Zarządzanie i marketing w instytucjach kultury fizycznej",
      "k": "CW",
      "p": "dr Maciej Buryta",
      "r": "s. 201",
@@ -1431,7 +1433,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zarządzanie i marketing w instytucjach kultury fizycznej",
+     "pl": "Zarządzanie i marketing w instytucjach kultury fizycznej",
      "k": "CW",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -1445,7 +1447,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "teoria i metodyka piłki siatkowej",
+     "pl": "Teoria i metodyka piłki siatkowej",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1460,7 +1462,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "W",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -1474,7 +1476,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 201",
@@ -1488,7 +1490,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "zarządzanie i marketing w instytucjach kultury fizycznej",
+     "pl": "Zarządzanie i marketing w instytucjach kultury fizycznej",
      "k": "CW",
      "p": "dr Maciej Buryta",
      "r": "s. 120",
@@ -1502,7 +1504,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "pdw: trener personalny",
+     "pl": "Pdw: trener personalny",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 201",
@@ -1516,7 +1518,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria sportu",
+     "pl": "Teoria sportu",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 1",

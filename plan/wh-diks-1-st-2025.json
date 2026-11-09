@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
- "wersja": "2026-11-03",
- "sha256": "c6fd7eeb76611508314dd383a4f1581d3730adf9befaaeae28708619380a8d6b",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/DiKS-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-2-09-XI-2026.xlsx",
+ "wersja": "2026-11-09",
+ "sha256": "c0886a6c4c6d0e66586c8230a1d0ce7d8e0cc619dc454937f05705834414e311",
  "kierunek": "Dziennikarstwo i komunikacja społeczna",
  "kierunekEn": "Journalism and Social Communication",
  "id": "wh-diks-1-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "DIKS2": {
    "odd": [
@@ -23,7 +23,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "marketing polityczny",
+     "pl": "Marketing polityczny",
      "k": "K",
      "p": "dr Artur Trudzik",
      "r": "s. 1",
@@ -35,7 +35,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "pisanie i edycja tekstu",
+     "pl": "Pisanie i edycja tekstu oraz",
      "k": "CW",
      "p": "dr Beata Afeltowicz",
      "r": "s. 16",
@@ -44,12 +44,13 @@
       "2026-10-12",
       "2026-10-19",
       "2026-10-26",
-      "2026-11-02",
-      "2026-11-09",
-      "2026-11-16",
-      "2026-11-23",
-      "2026-11-30",
-      "2026-12-07"
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
      ]
     },
     {
@@ -58,7 +59,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "pisanie i edycja tekstu",
+     "pl": "Pisanie i edycja tekstu oraz",
      "k": "CW",
      "p": "dr Beata Afeltowicz",
      "r": "s. 16",
@@ -67,12 +68,13 @@
       "2026-10-12",
       "2026-10-19",
       "2026-10-26",
-      "2026-11-02",
-      "2026-11-09",
-      "2026-11-16",
-      "2026-11-23",
-      "2026-11-30",
-      "2026-12-07"
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
      ]
     },
     {
@@ -81,7 +83,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Magdalena Schneider-Mikołajczyk",
      "r": "s. 218",
@@ -93,7 +95,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Justyna Stankiewicz-Rycielska",
      "r": "s. 219",
@@ -105,7 +107,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język niemiecki",
+     "pl": "Język niemiecki",
      "k": "CW",
      "p": "dr Monika Kasjanowicz-Szczepańska",
      "r": "s. 17-19",
@@ -117,7 +119,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria krytyki artystycznej z",
+     "pl": "Teoria krytyki artystycznej z",
      "k": "W",
      "p": "dr Barbara Elmanowska",
      "r": "s. 218, bud. 6",
@@ -140,7 +142,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "teoria krytyki artystycznej z",
+     "pl": "Teoria krytyki artystycznej z",
      "k": "W",
      "p": "dr Barbara Elmanowska",
      "r": "s. 113, bud. 4",
@@ -174,7 +176,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "retotyka i erystyka dziennikarska",
+     "pl": "Retotyka i erystyka dziennikarska",
      "k": "K",
      "p": "dr Barbara Popiel-Kobielska",
      "r": "s. 301",
@@ -186,7 +188,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "retotyka i erystyka dziennikarska",
+     "pl": "Retotyka i erystyka dziennikarska",
      "k": "K",
      "p": "dr Barbara Popiel-Kobielska",
      "r": "s. 301",
@@ -198,7 +200,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "strategie PR",
+     "pl": "Strategie PR",
      "k": "W",
      "p": "dr Maciej Szulc",
      "r": "s. 201",
@@ -221,7 +223,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "e-public relations",
+     "pl": "E-public relations",
      "k": "CW",
      "p": "dr Krzysztof Flasiński",
      "r": "s. 301",
@@ -246,7 +248,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia polskiej krytyki i publicystyki kulturalnej",
+     "pl": "Historia polskiej krytyki i publicystyki kulturalnej",
      "k": "K",
      "p": "dr Jarosław Borowiec",
      "r": "s. 117",
@@ -258,7 +260,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "lektorat prasy krajowej",
+     "pl": "Lektorat prasy krajowej",
      "k": "CW",
      "p": "prof. dr hab. Jerzy Madejski",
      "r": "s. 17-19",
@@ -270,7 +272,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "stylistyka i kultura języka",
+     "pl": "Stylistyka i kultura języka",
      "k": "CW",
      "p": "dr Beata Afeltowicz",
      "r": "s. 319",
@@ -282,7 +284,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "lektorat prasy krajowej",
+     "pl": "Lektorat prasy krajowej",
      "k": "CW",
      "p": "prof. dr hab. Jerzy Madejski",
      "r": "s. 17-19",
@@ -294,7 +296,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "stylistyka i kultura języka",
+     "pl": "Stylistyka i kultura języka",
      "k": "CW",
      "p": "dr Beata Afeltowicz",
      "r": "s. 319",
@@ -306,7 +308,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "dziennikarskie źródła informacji",
+     "pl": "Dziennikarskie źródła informacji",
      "k": "K",
      "p": "dr Jarosław Jaz",
      "r": "s. 304",
@@ -318,7 +320,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "organizacja pracy i warsztaty dziennikarza radiowego",
+     "pl": "Organizacja pracy i warsztaty dziennikarza radiowego",
      "k": "K",
      "p": "dr Damian Romaniak",
      "r": "s. 301",
@@ -343,7 +345,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "dziennikarskie źródła informacji",
+     "pl": "Dziennikarskie źródła informacji",
      "k": "K",
      "p": "dr Jarosław Jaz",
      "r": "s. 304",
@@ -355,7 +357,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "organizacja pracy i warsztaty dziennikarza radiowego",
+     "pl": "Organizacja pracy i warsztaty dziennikarza radiowego",
      "k": "K",
      "p": "dr Damian Romaniak",
      "r": "s. 301",
@@ -377,10 +379,10 @@
     {
      "d": 3,
      "time": [
-      "08:15",
-      "09:45"
+      "08:00",
+      "09:30"
      ],
-     "pl": "formy wypowiedzi dziennikarskiej w telewizji Cukrowa",
+     "pl": "Formy wypowiedzi dziennikarskiej w telewizji Cukrowa",
      "k": "K",
      "p": "mgr Beata Mikołajewska-Wieczorek",
      "r": "s. 323",
@@ -403,10 +405,10 @@
     {
      "d": 3,
      "time": [
-      "11:00",
-      "13:15"
+      "09:45",
+      "11:15"
      ],
-     "pl": "formy wypowiedzi dziennikarskiej w telewizji Cukrowa",
+     "pl": "Formy wypowiedzi dziennikarskiej w telewizji Cukrowa",
      "k": "K",
      "p": "mgr Beata Mikołajewska-Wieczorek",
      "r": "s. 323",
@@ -425,15 +427,6 @@
       "2027-01-21",
       "2027-01-28"
      ]
-    },
-    {
-     "d": 3,
-     "time": [
-      "11:45",
-      "16:15"
-     ],
-     "pl": "F",
-     "k": "X"
     },
     {
      "d": 3,
@@ -441,7 +434,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "ogólnouczelniany e",
+     "pl": "Ogólnouczelniany e",
      "k": "W"
     }
    ],
@@ -452,7 +445,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "marketing polityczny",
+     "pl": "Marketing polityczny",
      "k": "K",
      "p": "dr Artur Trudzik",
      "r": "s. 1",
@@ -464,7 +457,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "pisanie i edycja tekstu",
+     "pl": "Pisanie i edycja tekstu oraz",
      "k": "CW",
      "p": "dr Beata Afeltowicz",
      "r": "s. 16",
@@ -473,12 +466,13 @@
       "2026-10-12",
       "2026-10-19",
       "2026-10-26",
-      "2026-11-02",
-      "2026-11-09",
-      "2026-11-16",
-      "2026-11-23",
-      "2026-11-30",
-      "2026-12-07"
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
      ]
     },
     {
@@ -487,7 +481,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "pisanie i edycja tekstu",
+     "pl": "Pisanie i edycja tekstu oraz",
      "k": "CW",
      "p": "dr Beata Afeltowicz",
      "r": "s. 16",
@@ -496,12 +490,13 @@
       "2026-10-12",
       "2026-10-19",
       "2026-10-26",
-      "2026-11-02",
-      "2026-11-09",
-      "2026-11-16",
-      "2026-11-23",
-      "2026-11-30",
-      "2026-12-07"
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
      ]
     },
     {
@@ -510,7 +505,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Magdalena Schneider-Mikołajczyk",
      "r": "s. 218",
@@ -522,7 +517,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Justyna Stankiewicz-Rycielska",
      "r": "s. 219",
@@ -534,7 +529,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język niemiecki",
+     "pl": "Język niemiecki",
      "k": "CW",
      "p": "dr Monika Kasjanowicz-Szczepańska",
      "r": "s. 17-19",
@@ -546,7 +541,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria krytyki artystycznej z",
+     "pl": "Teoria krytyki artystycznej z",
      "k": "W",
      "p": "dr Barbara Elmanowska",
      "r": "s. 218, bud. 6",
@@ -569,7 +564,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "teoria krytyki artystycznej z",
+     "pl": "Teoria krytyki artystycznej z",
      "k": "W",
      "p": "dr Barbara Elmanowska",
      "r": "s. 113, bud. 4",
@@ -603,7 +598,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "retotyka i erystyka dziennikarska",
+     "pl": "Retotyka i erystyka dziennikarska",
      "k": "K",
      "p": "dr Barbara Popiel-Kobielska",
      "r": "s. 301",
@@ -615,7 +610,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "retotyka i erystyka dziennikarska",
+     "pl": "Retotyka i erystyka dziennikarska",
      "k": "K",
      "p": "dr Barbara Popiel-Kobielska",
      "r": "s. 301",
@@ -627,7 +622,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "strategie PR",
+     "pl": "Strategie PR",
      "k": "W",
      "p": "dr Maciej Szulc",
      "r": "s. 201",
@@ -650,7 +645,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "e-public relations",
+     "pl": "E-public relations",
      "k": "CW",
      "p": "dr Krzysztof Flasiński",
      "r": "s. 301",
@@ -675,7 +670,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia polskiej krytyki i publicystyki kulturalnej",
+     "pl": "Historia polskiej krytyki i publicystyki kulturalnej",
      "k": "K",
      "p": "dr Jarosław Borowiec",
      "r": "s. 117",
@@ -687,7 +682,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "lektorat prasy krajowej",
+     "pl": "Lektorat prasy krajowej",
      "k": "CW",
      "p": "prof. dr hab. Jerzy Madejski",
      "r": "s. 17-19",
@@ -699,7 +694,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "stylistyka i kultura języka",
+     "pl": "Stylistyka i kultura języka",
      "k": "CW",
      "p": "dr Beata Afeltowicz",
      "r": "s. 319",
@@ -711,7 +706,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "lektorat prasy krajowej",
+     "pl": "Lektorat prasy krajowej",
      "k": "CW",
      "p": "prof. dr hab. Jerzy Madejski",
      "r": "s. 17-19",
@@ -723,7 +718,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "stylistyka i kultura języka",
+     "pl": "Stylistyka i kultura języka",
      "k": "CW",
      "p": "dr Beata Afeltowicz",
      "r": "s. 319",
@@ -735,7 +730,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "dziennikarskie źródła informacji",
+     "pl": "Dziennikarskie źródła informacji",
      "k": "K",
      "p": "dr Jarosław Jaz",
      "r": "s. 304",
@@ -747,7 +742,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "organizacja pracy i warsztaty dziennikarza radiowego",
+     "pl": "Organizacja pracy i warsztaty dziennikarza radiowego",
      "k": "K",
      "p": "dr Damian Romaniak",
      "r": "s. 301",
@@ -772,7 +767,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "dziennikarskie źródła informacji",
+     "pl": "Dziennikarskie źródła informacji",
      "k": "K",
      "p": "dr Jarosław Jaz",
      "r": "s. 304",
@@ -784,7 +779,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "organizacja pracy i warsztaty dziennikarza radiowego",
+     "pl": "Organizacja pracy i warsztaty dziennikarza radiowego",
      "k": "K",
      "p": "dr Damian Romaniak",
      "r": "s. 301",
@@ -806,10 +801,10 @@
     {
      "d": 3,
      "time": [
-      "08:15",
-      "09:45"
+      "08:00",
+      "09:30"
      ],
-     "pl": "formy wypowiedzi dziennikarskiej w telewizji Cukrowa",
+     "pl": "Formy wypowiedzi dziennikarskiej w telewizji Cukrowa",
      "k": "K",
      "p": "mgr Beata Mikołajewska-Wieczorek",
      "r": "s. 323",
@@ -832,10 +827,10 @@
     {
      "d": 3,
      "time": [
-      "11:00",
-      "13:15"
+      "09:45",
+      "11:15"
      ],
-     "pl": "formy wypowiedzi dziennikarskiej w telewizji Cukrowa",
+     "pl": "Formy wypowiedzi dziennikarskiej w telewizji Cukrowa",
      "k": "K",
      "p": "mgr Beata Mikołajewska-Wieczorek",
      "r": "s. 323",
@@ -854,15 +849,6 @@
       "2027-01-21",
       "2027-01-28"
      ]
-    },
-    {
-     "d": 3,
-     "time": [
-      "11:45",
-      "16:15"
-     ],
-     "pl": "F",
-     "k": "X"
     },
     {
      "d": 3,
@@ -870,7 +856,7 @@
       "17:45",
       "19:15"
      ],
-     "pl": "ogólnouczelniany e",
+     "pl": "Ogólnouczelniany e",
      "k": "W"
     }
    ]

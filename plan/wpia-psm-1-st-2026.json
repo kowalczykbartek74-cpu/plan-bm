@@ -1,0 +1,729 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-PSM-I-st.-13.pdf",
+ "wersja": "I-PSM-I-st.-13.pdf",
+ "sha256": "580dc5d89f028913303bcd95ee7f994d01c6974734b8768fc803980c34166429",
+ "kierunek": "Prawo służb mundurowych",
+ "kierunekEn": "Law for Uniformed Services",
+ "id": "wpia-psm-1-st-2026",
+ "kod": "psm26",
+ "wydzial": "WPiA",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PSM1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "CW",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "pg": "Technologie informacyjne:1",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 8.15 - 9.00",
+     "dates": [
+      "2026-10-05",
+      "2026-10-19",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-18",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "CW",
+     "p": "dr B. Królikowska",
+     "r": "s. 17a Narutowicza",
+     "pg": "Technologie informacyjne:2",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "K",
+     "p": "dr W. Różycki",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "W",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Podstawy prawoznawstwa:1",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-20",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-12",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Podstawy prawoznawstwa:2",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 11.00 - 11.45",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08",
+      "2026-12-22",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "W",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Źródła prawa",
+     "k": "W",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-06",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr M. Stępień",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Status i rodzaje służb mundurowych",
+     "k": "K",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia dn. 13.I trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-09",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:45",
+      "16:00"
+     ],
+     "pl": "Kryminalistyka",
+     "k": "W",
+     "p": "dr W. Niemiec",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia dn. 27.I trwają 2 godz. w godzinach 12.45 - 14.15",
+     "dates": [
+      "2026-10-14",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-09",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Historia służb mundurowych",
+     "k": "K",
+     "p": "dr hab. R. Gałaj-Dempniak, prof. US",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Stany nadzwyczajne",
+     "k": "W",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia dn. 17.XII trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 217 Narutowicza",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "K",
+     "p": "dr W. Durka",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-02",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "K",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-02",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:45",
+      "17:00"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr M. Peno",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia dn. 22.I trwają 2 godz. w godzinach 13.45 - 15.15",
+     "dates": [
+      "2026-10-02",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "CW",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "pg": "Technologie informacyjne:1",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 8.15 - 9.00",
+     "dates": [
+      "2026-10-05",
+      "2026-10-19",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-18",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "CW",
+     "p": "dr B. Królikowska",
+     "r": "s. 17a Narutowicza",
+     "pg": "Technologie informacyjne:2",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "K",
+     "p": "dr W. Różycki",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "W",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Podstawy prawoznawstwa:1",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-20",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-12",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Podstawy prawoznawstwa:2",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 11.00 - 11.45",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08",
+      "2026-12-22",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "W",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Źródła prawa",
+     "k": "W",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-06",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr M. Stępień",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Status i rodzaje służb mundurowych",
+     "k": "K",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia dn. 13.I trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-09",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:45",
+      "16:00"
+     ],
+     "pl": "Kryminalistyka",
+     "k": "W",
+     "p": "dr W. Niemiec",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia dn. 27.I trwają 2 godz. w godzinach 12.45 - 14.15",
+     "dates": [
+      "2026-10-14",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-09",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Historia służb mundurowych",
+     "k": "K",
+     "p": "dr hab. R. Gałaj-Dempniak, prof. US",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Stany nadzwyczajne",
+     "k": "W",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia dn. 17.XII trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 217 Narutowicza",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "K",
+     "p": "dr W. Durka",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-02",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "K",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-02",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:45",
+      "17:00"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr M. Peno",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia dn. 22.I trwają 2 godz. w godzinach 13.45 - 15.15",
+     "dates": [
+      "2026-10-02",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    }
+   ]
+  }
+ }
+}

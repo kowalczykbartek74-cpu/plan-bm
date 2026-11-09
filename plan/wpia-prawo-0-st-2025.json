@@ -1,0 +1,2095 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSP-35.pdf",
+ "wersja": "II-SSP-35.pdf",
+ "sha256": "200dfd3b1e641afc5534cda43b1146c2b5fff6f2be410dd75cb29bcbed109d93",
+ "kierunek": "Prawo",
+ "kierunekEn": "Law",
+ "id": "wpia-prawo-0-st-2025",
+ "kod": "prawoj25",
+ "wydzial": "WPiA",
+ "rok": 2,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T22:54:22.756Z",
+ "groups": {
+  "PRAWO2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo karne I:4",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr D. Olejarnik",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:1",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:5",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 104 al. Piastów 40b",
+     "pg": "Międzynarodowe prawo publiczne:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo karne I:5",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr D. Olejarnik",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:4",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr P. Nowotko",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:3",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 104 al. Piastów 40b",
+     "pg": "Międzynarodowe prawo publiczne:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "dr M. Stępień",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo cywilne część ogólna:4",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo karne I:3",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr D. Olejarnik",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:6",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 104 al. Piastów 40b",
+     "pg": "Międzynarodowe prawo publiczne:4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "dr M. Stępień",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo cywilne część ogólna:3",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo karne I:6",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr D. Olejarnik",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:2",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 104 al. Piastów 40b",
+     "pg": "Międzynarodowe prawo publiczne:3"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr W. Brewka",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo administracyjne I:6",
+     "n": "zajęcia dn. 14.XII trwają 1 godz. w godzinach 15.15 - 16.00",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "mgr J. Cieśla",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo cywilne część ogólna:2",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr W. Brewka",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo administracyjne I:3",
+     "n": "zajęcia dn. 14.XII trwają 1 godz. w godzinach 17.00 - 17.45",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "mgr J. Cieśla",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo cywilne część ogólna:6",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 107"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Grzesik",
+     "r": "s. 108",
+     "pg": "język angielski:4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Grzesik",
+     "r": "s. 108",
+     "pg": "język angielski:5"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:3"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Grzesik",
+     "r": "s. 108",
+     "pg": "język angielski:6"
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "k": "K",
+     "p": "dr K. Słotwińska, mgr A. Poczewski",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "W",
+     "p": "dr hab. D. Wacinkiewicz, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia dn. 26.I trwają 2 godz. w godzinach 16.00 - 17.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-12",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "W",
+     "p": "dr hab. K. Święch-Kujawska, prof. US",
+     "r": "s. 112-114 al. Piastów 40b"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "W",
+     "p": "prof. dr hab. A. Bałaban",
+     "r": "s. 112-114 al. Piastów 40b"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "W",
+     "p": "dr hab. W. Staszewski, prof. US, dr K. Słotwińska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "szczegóły: https://swfis.usz.edu.pl/"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "W",
+     "p": "dr hab. W. Staszewski, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-29",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo karne I",
+     "k": "W",
+     "p": "prof. dr hab. Ł. Pohl",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "UWAGA! W dn. 10.XII w godz. 12.00 - 13.30 odbędzie się szkolenie z obrony cywilnej (aula Wydziału Nauk Społecznych, ul. Krakowska 71-79)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "k": "K",
+     "p": "dr hab. W. Staszewski, prof. US, dr K. Słotwińka",
+     "r": "s. 118 al. Piastów 40b",
+     "n": "zajęcia dn. 28.I trwają 2 godz. w godzinach 15.15 - 16.45; zajęcia dn. 28.I trwają 2 godz. w godzinach 13.30 - 15.00; UWAGA! zajęcia dn. 28.I odbędą się w sali 222 Narutowicza",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "W",
+     "p": "dr hab. D. Dąbrowski, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia dn. 14.I trwają 1 godz. w godzinach 13.30 - 14.15; UWAGA! wykład w dn. 10.XII trwa wyjątkowo w godzinach 14.15 - 16.45",
+     "dates": [
+      "2026-10-22",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany )",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "MODUŁ: Wykład monograficzny do wyboru I",
+     "k": "W",
+     "p": "dr E. Jędrzejewska, dr J. Uniejewski",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo administracyjne I:4",
+     "n": "zajęcia dn. 11.XII trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "dr K. Ziemianin",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo cywilne część ogólna:1",
+     "dates": [
+      "2026-10-20",
+      "2026-10-23",
+      "2026-10-27",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo finansowe:5"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo finansowe:3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo administracyjne I:1",
+     "n": "zajęcia dn. 11.XII trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "dr K. Ziemianin",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo cywilne część ogólna:5",
+     "dates": [
+      "2026-10-20",
+      "2026-10-23",
+      "2026-10-27",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo finansowe:4"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo finansowe:2"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Międzynarodowe prawo publiczne:5"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo administracyjne I:2",
+     "n": "zajęcia dn. 11.XII trwają 1 godz. w godzinach 13.30 - 14.15",
+     "dates": [
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo finansowe:6"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr J. Mróz",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo karne I:1",
+     "dates": [
+      "2026-10-20",
+      "2026-10-23",
+      "2026-10-27",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Międzynarodowe prawo publiczne:6"
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo administracyjne I:5",
+     "n": "zajęcia dn. 11.XII trwają 1 godz. w godzinach 15.15 - 16.00",
+     "dates": [
+      "2026-10-03",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo finansowe:1"
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr J. Mróz",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo karne I:2",
+     "dates": [
+      "2026-10-20",
+      "2026-10-23",
+      "2026-10-27",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "k": "K",
+     "p": "dr K. Słotwińka, mgr A. Poczewski",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-30",
+      "2026-11-20",
+      "2026-12-04",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "k": "K",
+     "p": "dr K. Słotwińska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-16",
+      "2026-11-06",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo karne I:4",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr D. Olejarnik",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:1",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:5",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 104 al. Piastów 40b",
+     "pg": "Międzynarodowe prawo publiczne:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo karne I:5",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr D. Olejarnik",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:4",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr P. Nowotko",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:3",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 104 al. Piastów 40b",
+     "pg": "Międzynarodowe prawo publiczne:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "dr M. Stępień",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo cywilne część ogólna:4",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo karne I:3",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr D. Olejarnik",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:6",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 104 al. Piastów 40b",
+     "pg": "Międzynarodowe prawo publiczne:4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "dr M. Stępień",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo cywilne część ogólna:3",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo karne I:6",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "CW",
+     "p": "mgr D. Olejarnik",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne I:2",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 104 al. Piastów 40b",
+     "pg": "Międzynarodowe prawo publiczne:3"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr W. Brewka",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo administracyjne I:6",
+     "n": "zajęcia dn. 14.XII trwają 1 godz. w godzinach 15.15 - 16.00",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "mgr J. Cieśla",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo cywilne część ogólna:2",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr W. Brewka",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo administracyjne I:3",
+     "n": "zajęcia dn. 14.XII trwają 1 godz. w godzinach 17.00 - 17.45",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "mgr J. Cieśla",
+     "r": "s. 115 al. Piastów 40b",
+     "pg": "Prawo cywilne część ogólna:6",
+     "dates": [
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 107"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Grzesik",
+     "r": "s. 108",
+     "pg": "język angielski:4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Grzesik",
+     "r": "s. 108",
+     "pg": "język angielski:5"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:3"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Grzesik",
+     "r": "s. 108",
+     "pg": "język angielski:6"
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "k": "K",
+     "p": "dr K. Słotwińska, mgr A. Poczewski",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "W",
+     "p": "dr hab. D. Wacinkiewicz, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia dn. 26.I trwają 2 godz. w godzinach 16.00 - 17.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-12",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "W",
+     "p": "dr hab. K. Święch-Kujawska, prof. US",
+     "r": "s. 112-114 al. Piastów 40b"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo konstytucyjne I",
+     "k": "W",
+     "p": "prof. dr hab. A. Bałaban",
+     "r": "s. 112-114 al. Piastów 40b"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "W",
+     "p": "dr hab. W. Staszewski, prof. US, dr K. Słotwińska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "szczegóły: https://swfis.usz.edu.pl/"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "W",
+     "p": "dr hab. W. Staszewski, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-29",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo karne I",
+     "k": "W",
+     "p": "prof. dr hab. Ł. Pohl",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "UWAGA! W dn. 10.XII w godz. 12.00 - 13.30 odbędzie się szkolenie z obrony cywilnej (aula Wydziału Nauk Społecznych, ul. Krakowska 71-79)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "k": "K",
+     "p": "dr hab. W. Staszewski, prof. US, dr K. Słotwińka",
+     "r": "s. 118 al. Piastów 40b",
+     "n": "zajęcia dn. 28.I trwają 2 godz. w godzinach 15.15 - 16.45; zajęcia dn. 28.I trwają 2 godz. w godzinach 13.30 - 15.00; UWAGA! zajęcia dn. 28.I odbędą się w sali 222 Narutowicza",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "W",
+     "p": "dr hab. D. Dąbrowski, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia dn. 14.I trwają 1 godz. w godzinach 13.30 - 14.15; UWAGA! wykład w dn. 10.XII trwa wyjątkowo w godzinach 14.15 - 16.45",
+     "dates": [
+      "2026-10-22",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany )",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "MODUŁ: Wykład monograficzny do wyboru I",
+     "k": "W",
+     "p": "dr E. Jędrzejewska, dr J. Uniejewski",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo administracyjne I:4",
+     "n": "zajęcia dn. 11.XII trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "dr K. Ziemianin",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo cywilne część ogólna:1",
+     "dates": [
+      "2026-10-20",
+      "2026-10-23",
+      "2026-10-27",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo finansowe:5"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo finansowe:3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo administracyjne I:1",
+     "n": "zajęcia dn. 11.XII trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo cywilne część ogólna",
+     "k": "CW",
+     "p": "dr K. Ziemianin",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo cywilne część ogólna:5",
+     "dates": [
+      "2026-10-20",
+      "2026-10-23",
+      "2026-10-27",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo finansowe:4"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo finansowe:2"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Międzynarodowe prawo publiczne:5"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo administracyjne I:2",
+     "n": "zajęcia dn. 11.XII trwają 1 godz. w godzinach 13.30 - 14.15",
+     "dates": [
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo finansowe:6"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr J. Mróz",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo karne I:1",
+     "dates": [
+      "2026-10-20",
+      "2026-10-23",
+      "2026-10-27",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Międzynarodowe prawo publiczne",
+     "k": "CW",
+     "p": "mgr A. Poczewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Międzynarodowe prawo publiczne:6"
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo administracyjne I",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo administracyjne I:5",
+     "n": "zajęcia dn. 11.XII trwają 1 godz. w godzinach 15.15 - 16.00",
+     "dates": [
+      "2026-10-03",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo finansowe:1"
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo karne I",
+     "k": "CW",
+     "p": "mgr J. Mróz",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo karne I:2",
+     "dates": [
+      "2026-10-20",
+      "2026-10-23",
+      "2026-10-27",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "k": "K",
+     "p": "dr K. Słotwińka, mgr A. Poczewski",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-30",
+      "2026-11-20",
+      "2026-12-04",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Międzynarodowe prawo publiczne - wersja PBL",
+     "k": "K",
+     "p": "dr K. Słotwińska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-10-16",
+      "2026-11-06",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    }
+   ]
+  }
+ }
+}

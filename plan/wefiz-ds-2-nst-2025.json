@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T09:23:11.440Z",
- "checkedAt": "2026-11-09T20:22:14.856Z",
+ "changedAt": "2026-11-09T22:31:18.542Z",
+ "checkedAt": "2026-11-09T22:44:26.151Z",
  "groups": {
   "F40": {
    "odd": [
@@ -22,7 +22,7 @@
       "17:15",
       "20:35"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -37,7 +37,7 @@
       "17:15",
       "20:35"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -52,7 +52,7 @@
       "17:15",
       "20:35"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Krzysztof Dmytrów",
      "r": "online",
@@ -99,7 +99,7 @@
       "08:15",
       "09:50"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. S0123B Mic.64",
@@ -114,7 +114,7 @@
       "08:15",
       "09:50"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -129,7 +129,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "W",
      "p": "dr Anna Gdakowicz",
      "r": "s. S03 Mic.64",
@@ -144,7 +144,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "W",
      "p": "dr Anna Gdakowicz",
      "r": "s. S017 Mic.64",
@@ -159,7 +159,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. N019 lab Mic.64",
@@ -174,7 +174,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -189,7 +189,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S019 Mic.64",
@@ -203,7 +203,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "W",
      "p": "dr Piotr Ładny",
      "r": "s. S04/05 Mic.64",
@@ -217,7 +217,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -232,7 +232,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. S0123B Mic.64",
@@ -247,7 +247,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -262,7 +262,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N08c lab Mic.64",
@@ -277,7 +277,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "W",
      "p": "dr Piotr Ładny",
      "r": "s. S04/05 Mic.64",
@@ -291,7 +291,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -306,7 +306,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -321,7 +321,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -336,7 +336,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S04/05 Mic.64",
@@ -350,7 +350,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N105 lab Mic.64",
@@ -400,7 +400,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -415,7 +415,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -430,7 +430,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N08c lab Mic.64",
@@ -445,7 +445,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -460,7 +460,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. N103 lab Mic.64",
@@ -475,7 +475,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S019 Mic.64",
@@ -489,7 +489,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N101/102 lab Mic.64",
@@ -504,7 +504,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N105 lab Mic.64",
@@ -519,7 +519,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -534,7 +534,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N101/102 lab Mic.64",
@@ -549,7 +549,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -564,7 +564,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -593,7 +593,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -608,7 +608,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -623,7 +623,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. N021A lab Mic.64",
@@ -638,7 +638,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. S0315 lab Mic.64",
@@ -653,7 +653,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -668,7 +668,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -683,7 +683,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -698,7 +698,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S0123A Mic.64",
@@ -713,7 +713,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N021A lab Mic.64",
@@ -728,7 +728,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S0123A Mic.64",
@@ -743,7 +743,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -758,7 +758,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N021B lab Mic.64",
@@ -773,7 +773,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -788,7 +788,7 @@
       "10:50",
       "12:30"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "W",
      "p": "dr Anna Gdakowicz",
      "r": "s. S019 Mic.64",
@@ -803,7 +803,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -818,7 +818,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -833,7 +833,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S0123A Mic.64",
@@ -848,7 +848,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -863,7 +863,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. S0315 lab Mic.64",
@@ -878,7 +878,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -893,7 +893,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "W",
      "p": "dr Piotr Ładny",
      "r": "s. S04/05 Mic.64",
@@ -907,7 +907,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -922,7 +922,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. N021A lab Mic.64",
@@ -937,7 +937,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -952,7 +952,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S0123A Mic.64",
@@ -967,7 +967,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N021A lab Mic.64",
@@ -982,7 +982,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -997,7 +997,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -1012,7 +1012,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N021B lab Mic.64",
@@ -1027,7 +1027,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -1042,7 +1042,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N021B lab Mic.64",
@@ -1057,7 +1057,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -1072,7 +1072,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -1087,7 +1087,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -1104,7 +1104,7 @@
       "17:15",
       "20:35"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -1119,7 +1119,7 @@
       "17:15",
       "20:35"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -1134,7 +1134,7 @@
       "17:15",
       "20:35"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Krzysztof Dmytrów",
      "r": "online",
@@ -1181,7 +1181,7 @@
       "08:15",
       "09:50"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. S0123B Mic.64",
@@ -1196,7 +1196,7 @@
       "08:15",
       "09:50"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -1211,7 +1211,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "W",
      "p": "dr Anna Gdakowicz",
      "r": "s. S03 Mic.64",
@@ -1226,7 +1226,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "W",
      "p": "dr Anna Gdakowicz",
      "r": "s. S017 Mic.64",
@@ -1241,7 +1241,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. N019 lab Mic.64",
@@ -1256,7 +1256,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -1271,7 +1271,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S019 Mic.64",
@@ -1285,7 +1285,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "W",
      "p": "dr Piotr Ładny",
      "r": "s. S04/05 Mic.64",
@@ -1299,7 +1299,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -1314,7 +1314,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. S0123B Mic.64",
@@ -1329,7 +1329,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -1344,7 +1344,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N08c lab Mic.64",
@@ -1359,7 +1359,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "W",
      "p": "dr Piotr Ładny",
      "r": "s. S04/05 Mic.64",
@@ -1373,7 +1373,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -1388,7 +1388,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -1403,7 +1403,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -1418,7 +1418,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S04/05 Mic.64",
@@ -1432,7 +1432,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N105 lab Mic.64",
@@ -1482,7 +1482,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -1497,7 +1497,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -1512,7 +1512,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N08c lab Mic.64",
@@ -1527,7 +1527,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -1542,7 +1542,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. N103 lab Mic.64",
@@ -1557,7 +1557,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S019 Mic.64",
@@ -1571,7 +1571,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N101/102 lab Mic.64",
@@ -1586,7 +1586,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N105 lab Mic.64",
@@ -1601,7 +1601,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -1616,7 +1616,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N101/102 lab Mic.64",
@@ -1631,7 +1631,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -1646,7 +1646,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -1675,7 +1675,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -1690,7 +1690,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -1705,7 +1705,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. N021A lab Mic.64",
@@ -1720,7 +1720,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. S0315 lab Mic.64",
@@ -1735,7 +1735,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -1750,7 +1750,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -1765,7 +1765,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -1780,7 +1780,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S0123A Mic.64",
@@ -1795,7 +1795,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N021A lab Mic.64",
@@ -1810,7 +1810,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S0123A Mic.64",
@@ -1825,7 +1825,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -1840,7 +1840,7 @@
       "10:00",
       "13:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N021B lab Mic.64",
@@ -1855,7 +1855,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -1870,7 +1870,7 @@
       "10:50",
       "12:30"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "W",
      "p": "dr Anna Gdakowicz",
      "r": "s. S019 Mic.64",
@@ -1885,7 +1885,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -1900,7 +1900,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -1915,7 +1915,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S0123A Mic.64",
@@ -1930,7 +1930,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -1945,7 +1945,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. S0315 lab Mic.64",
@@ -1960,7 +1960,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
@@ -1975,7 +1975,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "W",
      "p": "dr Piotr Ładny",
      "r": "s. S04/05 Mic.64",
@@ -1989,7 +1989,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -2004,7 +2004,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "analiza danych z rynku nieruchomości",
+     "pl": "Analiza danych z rynku nieruchomości",
      "k": "LAB",
      "p": "mgr Mateusz Mostowski",
      "r": "s. N021A lab Mic.64",
@@ -2019,7 +2019,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "analiza i modelowanie popytu konsumpcyjnego",
+     "pl": "Analiza i modelowanie popytu konsumpcyjnego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
@@ -2034,7 +2034,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. S0123A Mic.64",
@@ -2049,7 +2049,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N021A lab Mic.64",
@@ -2064,7 +2064,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -2079,7 +2079,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
@@ -2094,7 +2094,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N021B lab Mic.64",
@@ -2109,7 +2109,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
@@ -2124,7 +2124,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "drzewa regresyjne i klasyfikacyjne",
+     "pl": "Drzewa regresyjne i klasyfikacyjne",
      "k": "LAB",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. N021B lab Mic.64",
@@ -2139,7 +2139,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "seminarium",
+     "pl": "Seminarium",
      "k": "S",
      "p": "dr Paweł Baran, dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
      "r": "online",
@@ -2154,7 +2154,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "sztuczna inteligencja w analizie danych",
+     "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
      "r": "s. N08c lab Mic.64",
@@ -2169,7 +2169,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "wybrane metody uczenia nienadzorowanego",
+     "pl": "Wybrane metody uczenia nienadzorowanego",
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",

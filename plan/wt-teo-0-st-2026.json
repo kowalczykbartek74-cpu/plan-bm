@@ -1,0 +1,295 @@
+{
+ "source": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+ "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+ "sha256": "7ad2606fbd54b80d80d1ec450b4e43535b427027938997d671422ff6fb47b854",
+ "kierunek": "Teologia",
+ "kierunekEn": "Theology",
+ "id": "wt-teo-0-st-2026",
+ "kod": "teoj26",
+ "wydzial": "WT",
+ "rok": 1,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:39:50.382Z",
+ "checkedAt": "2026-11-09T22:52:36.003Z",
+ "groups": {
+  "TEO1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "Ks. dr Tomasz Mędrek",
+     "r": "s. 202",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język łaciński",
+     "k": "CW",
+     "p": "Mgr Jowita Zabuska",
+     "r": "s. 202"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wstęp do filozofii / Filozofia nauki",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 202"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Środowisko biblijne",
+     "k": "X",
+     "p": "Ks. dr hab. Cezary Korzec",
+     "r": "s. 202"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Logika",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 202"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Historia filozofii starożytnej",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 202"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Liturgika fundamentalna",
+     "k": "X",
+     "p": "Ks. dr Andrzej Krzystek",
+     "r": "s. 202"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Historia Kościoła w starożytności",
+     "k": "X",
+     "p": "Ks. dr hab. Grzegorz Wejman",
+     "r": "s. 202"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "Dr Anna Janiszewska",
+     "r": "s. 202"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Metafizyka",
+     "k": "X",
+     "p": "Ks. dr Paweł Mielnik",
+     "r": "s. 202",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-28"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "Ks. dr Tomasz Mędrek",
+     "r": "s. 202",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język łaciński",
+     "k": "CW",
+     "p": "Mgr Jowita Zabuska",
+     "r": "s. 202"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wstęp do filozofii / Filozofia nauki",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 202"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Środowisko biblijne",
+     "k": "X",
+     "p": "Ks. dr hab. Cezary Korzec",
+     "r": "s. 202"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Logika",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 202"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Historia filozofii starożytnej",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Jaworski",
+     "r": "s. 202"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Liturgika fundamentalna",
+     "k": "X",
+     "p": "Ks. dr Andrzej Krzystek",
+     "r": "s. 202"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Historia Kościoła w starożytności",
+     "k": "X",
+     "p": "Ks. dr hab. Grzegorz Wejman",
+     "r": "s. 202"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "Dr Anna Janiszewska",
+     "r": "s. 202"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Metafizyka",
+     "k": "X",
+     "p": "Ks. dr Paweł Mielnik",
+     "r": "s. 202",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-28"
+     ]
+    }
+   ]
+  }
+ }
+}

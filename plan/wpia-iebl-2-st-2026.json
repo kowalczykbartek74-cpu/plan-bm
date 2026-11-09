@@ -1,0 +1,513 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-IEBL-II-st.-14.pdf",
+ "wersja": "I-IEBL-II-st.-14.pdf",
+ "sha256": "76751d564ca4f833838e4e6b2b8a457d5d9513c85d3afea2cb2cc5852e80d3f5",
+ "kierunek": "International and European Business Law",
+ "kierunekEn": "International and European Business Law",
+ "id": "wpia-iebl-2-st-2026",
+ "kod": "ieblm26",
+ "wydzial": "WPiA",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "IEBL1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "15:00",
+      "17:30"
+     ],
+     "pl": "Itroduction to Economy",
+     "k": "CW",
+     "p": "dr A. Bretyn",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Introduction to Civil Law",
+     "k": "W",
+     "p": "dr M. Szymszon",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Introduction to Entrepreneurship",
+     "k": "W",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-12",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-12-07",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PIL",
+     "k": "CW",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 218 Narutowicza",
+     "n": "zajęcia dn. classes on 19.I lasts one hour from 16.00 to 16.45 godz.",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Introduction to EU Law",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-27",
+      "2026-11-24",
+      "2026-12-08",
+      "2027-01-12",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Introduction to EU Law",
+     "k": "CW",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-20",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-12-15",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "Basic Legal Knowledge",
+     "k": "CW",
+     "p": "prof. dr hab. A. Bień-Kacała",
+     "r": "s. 117 Narutowicza",
+     "n": "zajęcia dn. discussion class on 18.XI last two hours from 13.30 - 15.00 (Jan. 20 – class in s. 215 Narutowicza) godz.",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16",
+      "2027-01-13",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Legal English",
+     "k": "CW",
+     "p": "mgr A. Kotula-Empringham",
+     "r": "s. 117 Narutowicza",
+     "n": "zajęcia dn. discussion class on 27.I last one hour from 17.45 to 18.30 godz.",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Introduction to Civil Law",
+     "k": "CW",
+     "p": "dr M. Szymszon",
+     "n": "zajęcia dn. classes on 13.I lasts one hour from 18.45 to 19.30 godz.",
+     "dates": [
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Public International Law",
+     "k": "W",
+     "p": "dr hab. M. Balcerzak, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Public Business Law in International Context",
+     "k": "CW",
+     "p": "dr hab. K. Nizioł, prof. US",
+     "r": "s. 117 Narutowicza",
+     "n": "zajęcia dn. discussion class on 14.I last two hours from 17.00 - 18.30 godz.",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Business and Human Rights",
+     "k": "X",
+     "p": "dr Kelaniyage Shihan Dilruk Fernando",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "15:00",
+      "17:30"
+     ],
+     "pl": "Itroduction to Economy",
+     "k": "CW",
+     "p": "dr A. Bretyn",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "pl": "Introduction to Civil Law",
+     "k": "W",
+     "p": "dr M. Szymszon",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Introduction to Entrepreneurship",
+     "k": "W",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-12",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-12-07",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PIL",
+     "k": "CW",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 218 Narutowicza",
+     "n": "zajęcia dn. classes on 19.I lasts one hour from 16.00 to 16.45 godz.",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Introduction to EU Law",
+     "k": "W",
+     "p": "dr hab. A. Kosińska, prof. US",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-27",
+      "2026-11-24",
+      "2026-12-08",
+      "2027-01-12",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Introduction to EU Law",
+     "k": "CW",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-20",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-12-15",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "Basic Legal Knowledge",
+     "k": "CW",
+     "p": "prof. dr hab. A. Bień-Kacała",
+     "r": "s. 117 Narutowicza",
+     "n": "zajęcia dn. discussion class on 18.XI last two hours from 13.30 - 15.00 (Jan. 20 – class in s. 215 Narutowicza) godz.",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16",
+      "2027-01-13",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Legal English",
+     "k": "CW",
+     "p": "mgr A. Kotula-Empringham",
+     "r": "s. 117 Narutowicza",
+     "n": "zajęcia dn. discussion class on 27.I last one hour from 17.45 to 18.30 godz.",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Introduction to Civil Law",
+     "k": "CW",
+     "p": "dr M. Szymszon",
+     "n": "zajęcia dn. classes on 13.I lasts one hour from 18.45 to 19.30 godz.",
+     "dates": [
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Public International Law",
+     "k": "W",
+     "p": "dr hab. M. Balcerzak, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Public Business Law in International Context",
+     "k": "CW",
+     "p": "dr hab. K. Nizioł, prof. US",
+     "r": "s. 117 Narutowicza",
+     "n": "zajęcia dn. discussion class on 14.I last two hours from 17.00 - 18.30 godz.",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Business and Human Rights",
+     "k": "X",
+     "p": "dr Kelaniyage Shihan Dilruk Fernando",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    }
+   ]
+  }
+ }
+}

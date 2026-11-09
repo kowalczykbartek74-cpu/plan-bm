@@ -152,6 +152,7 @@ function wpisyZeZrodel(wydz, zrodla, ofertaW, tytuly) {
         }
       }
       if (wydz.kod === "wkfiz") {
+        if (k.skrot === "ERASMUS") { wpisy.push({ ...w, nazwa: "Erasmus+ (studenci z wymiany)", potw: "grupa „ERASMUS +” w aplikacji planów WKFiZ (zajęcia po angielsku dla studentów z wymiany)" }); continue; }
         const o = unikalne(ofertaW).filter((x) => inicjaly(x.nazwa) === k.skrot.toUpperCase());
         if (o.length === 1) { w.nazwa = o[0].nazwa; w.potw = `skrót ${k.skrot} = inicjały nazwy z oferty (aplikacja nie podaje pełnej nazwy)`; }
         else pytania.push(`WKFiZ: skrót grupy ${k.skrot} – ${o.length ? "kilka" : "żaden"} kierunek z oferty o tych inicjałach`);

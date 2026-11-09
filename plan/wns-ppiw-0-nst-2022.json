@@ -1,0 +1,951 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (10 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
+ "kierunekEn": "Preschool and Early School Education",
+ "id": "wns-ppiw-0-nst-2022",
+ "kod": "ppiwjn22",
+ "wydzial": "WNS",
+ "rok": 5,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PPIW5": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab. L. Orzelska, prof.",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Daraszkiewicz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A. Daraszkiewicz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr hab. L. Orzelska, prof. US",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab. L. Orzelska, prof.",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr inż. M. Nermend",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Trudności i niepowodzenia szkolne uczniów w młodszym wieku szkolnym",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Trudności i niepowodzenia szkolne uczniów w młodszym wieku szkolnym",
+     "k": "W",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr hab. L. Orzelska, prof. US",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab. L. Orzelska, prof.",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Daraszkiewicz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A. Daraszkiewicz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr hab. L. Orzelska, prof. US",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab. L. Orzelska, prof.",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr inż. M. Nermend",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Trudności i niepowodzenia szkolne uczniów w młodszym wieku szkolnym",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Trudności i niepowodzenia szkolne uczniów w młodszym wieku szkolnym",
+     "k": "W",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr hab. L. Orzelska, prof. US",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    }
+   ]
+  }
+ }
+}

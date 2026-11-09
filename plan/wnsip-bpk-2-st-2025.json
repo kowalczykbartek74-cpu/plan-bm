@@ -1,0 +1,591 @@
+{
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/bpk_2-rok-II-st.-5.pdf",
+ "wersja": "bpk_2-rok-II-st.-5.pdf",
+ "sha256": "fdb19102033f2b1c86262d3e1445aa53d3ec218fb6956f0b78201c49d2beaff7",
+ "kierunek": "Biologiczne podstawy kryminalistyki",
+ "kierunekEn": "Biological Foundations of Forensic Science",
+ "id": "wnsip-bpk-2-st-2025",
+ "kod": "bpkm25",
+ "wydzial": "WNŚiP",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:37:44.669Z",
+ "checkedAt": "2026-11-09T22:50:40.599Z",
+ "groups": {
+  "BPK2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Molekularna identyfikacja grzybów w kryminalistyce",
+     "k": "W",
+     "time": [
+      "09:05",
+      "10:35"
+     ],
+     "p": "dr P. Król",
+     "r": "s. 211W",
+     "dates": [
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Genom mitochondrialny człowieka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof US dr hab. M. Soroka",
+     "r": "s. 104W",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Molekularna identyfikacja grzybów w kryminalistyce",
+     "k": "LAB",
+     "time": [
+      "10:50",
+      "13:50"
+     ],
+     "p": "dr P. Król",
+     "r": "s. 211W",
+     "dates": [
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Genom mitochondrialny człowieka",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "prof US dr hab Anna Rymaszewska",
+     "r": "s. 310F",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia sądowa",
+     "k": "K",
+     "time": [
+      "14:15",
+      "15:45"
+     ],
+     "p": "dr Dawid Subocz",
+     "r": "s. 203W",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Biometria i sztuczna inteligencja w cyberbezpieczeństwie Internet of Things (IoT)",
+     "k": "LAB",
+     "time": [
+      "09:05",
+      "11:20"
+     ],
+     "p": "prof US dr hab. E. Rębacz-Maron",
+     "r": "s. 103W",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Farmakologia i metabolizm związków psychoaktywnych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Maruszewska",
+     "r": "s. 102W",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Metody fizyczne w badaniach kryminalistycznych",
+     "k": "K",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr inż. Marcin Olszewski",
+     "r": "s. 319 ul. Wielkopolska 15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przestępczość środowiskowa",
+     "k": "K",
+     "time": [
+      "12:00",
+      "14:15"
+     ],
+     "p": "prof. US dr hab Ł. Sługocki",
+     "r": "s. 016W",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium Pracownia dyplomowa terminy spotkań należy ustalić indywidualnie z promotorem",
+     "k": "S",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr inż. E. Filip, Prof dr hab A. Grinn-Gofroń, prof US dr hab. M. Puc, prof US dr hab. E. Rębacz-Maron"
+    },
+    {
+     "d": 3,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr Iwona Niedzielska",
+     "r": "s. 203W",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych lub dziedziny nauk społecznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "r": "online",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Test okrzemkowy w diagnostyce utonięć",
+     "k": "W",
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "p": "prof US dr hab M. Bąk",
+     "r": "s. 209 ul. Mickiewicza 16a",
+     "n": "inne godziny: 16.10- 9:05-10:35 (2h); 23.10 - 9:05-11:20 (3h)",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Test okrzemkowy w diagnostyce utonięć",
+     "k": "LAB",
+     "time": [
+      "09:05",
+      "11:20"
+     ],
+     "p": "prof US dr hab M. Bąk",
+     "r": "s. 209 ul. Mickiewicza 16a",
+     "dates": [
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Molekularna identyfikacja grzybów w kryminalistyce",
+     "k": "W",
+     "time": [
+      "09:05",
+      "10:35"
+     ],
+     "p": "dr P. Król",
+     "r": "s. 211W",
+     "dates": [
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Genom mitochondrialny człowieka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof US dr hab. M. Soroka",
+     "r": "s. 104W",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Molekularna identyfikacja grzybów w kryminalistyce",
+     "k": "LAB",
+     "time": [
+      "10:50",
+      "13:50"
+     ],
+     "p": "dr P. Król",
+     "r": "s. 211W",
+     "dates": [
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Genom mitochondrialny człowieka",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "prof US dr hab Anna Rymaszewska",
+     "r": "s. 310F",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia sądowa",
+     "k": "K",
+     "time": [
+      "14:15",
+      "15:45"
+     ],
+     "p": "dr Dawid Subocz",
+     "r": "s. 203W",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Biometria i sztuczna inteligencja w cyberbezpieczeństwie Internet of Things (IoT)",
+     "k": "LAB",
+     "time": [
+      "09:05",
+      "11:20"
+     ],
+     "p": "prof US dr hab. E. Rębacz-Maron",
+     "r": "s. 103W",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Farmakologia i metabolizm związków psychoaktywnych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Maruszewska",
+     "r": "s. 102W",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Metody fizyczne w badaniach kryminalistycznych",
+     "k": "K",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr inż. Marcin Olszewski",
+     "r": "s. 319 ul. Wielkopolska 15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przestępczość środowiskowa",
+     "k": "K",
+     "time": [
+      "12:00",
+      "14:15"
+     ],
+     "p": "prof. US dr hab Ł. Sługocki",
+     "r": "s. 016W",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium Pracownia dyplomowa terminy spotkań należy ustalić indywidualnie z promotorem",
+     "k": "S",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr inż. E. Filip, Prof dr hab A. Grinn-Gofroń, prof US dr hab. M. Puc, prof US dr hab. E. Rębacz-Maron"
+    },
+    {
+     "d": 3,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr Iwona Niedzielska",
+     "r": "s. 203W",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych lub dziedziny nauk społecznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "r": "online",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Test okrzemkowy w diagnostyce utonięć",
+     "k": "W",
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "p": "prof US dr hab M. Bąk",
+     "r": "s. 209 ul. Mickiewicza 16a",
+     "n": "inne godziny: 16.10- 9:05-10:35 (2h); 23.10 - 9:05-11:20 (3h)",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Test okrzemkowy w diagnostyce utonięć",
+     "k": "LAB",
+     "time": [
+      "09:05",
+      "11:20"
+     ],
+     "p": "prof US dr hab M. Bąk",
+     "r": "s. 209 ul. Mickiewicza 16a",
+     "dates": [
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    }
+   ]
+  }
+ }
+}

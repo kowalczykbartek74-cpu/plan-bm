@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FN3": {
    "odd": [
@@ -23,7 +23,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "historia literatury norweskiej",
+     "pl": "Historia literatury norweskiej",
      "k": "W",
      "p": "dr Strauss",
      "r": "s. 117 WH"
@@ -34,8 +34,8 @@
       "17:00",
       "18:30"
      ],
-     "pl": "język włoski, 30lk, język angielski, 30lk",
-     "k": "X",
+     "pl": "Język włoski, 30lk, język angielski, 30lk",
+     "k": "CW",
      "p": "mgr I. Płatek, mgr Justyna Stankiewicz-Rycielska",
      "r": "s. 13 WH, s. 101 WH"
     },
@@ -45,7 +45,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "realioznawstwo norweskie",
+     "pl": "Realioznawstwo norweskie",
      "k": "W",
      "p": "dr Lubowicka",
      "r": "s. 310a WH"
@@ -56,7 +56,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "pisanie akademickie, co 2 tyg.",
+     "pl": "Pisanie akademickie, co 2 tyg.",
      "k": "LAB",
      "p": "mgr K.Sapiela",
      "r": "s. 101 WH",
@@ -86,7 +86,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "pisanie akademickie, co 2 tyg.",
+     "pl": "Pisanie akademickie, co 2 tyg.",
      "k": "LAB",
      "p": "mgr K.Sapiela",
      "r": "s. 101 WH",
@@ -159,7 +159,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "tłumaczenia pisemne",
+     "pl": "Tłumaczenia pisemne",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 14 WH"
@@ -170,7 +170,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "tłumaczenia pisemne",
+     "pl": "Tłumaczenia pisemne",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 14 WH"
@@ -181,7 +181,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "tłumaczenia pisemne",
+     "pl": "Tłumaczenia pisemne",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 15 WH"
@@ -192,7 +192,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "tłumaczenia pisemne",
+     "pl": "Tłumaczenia pisemne",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 15 WH"
@@ -255,8 +255,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "dziedzinowy z nauk społecznych online",
-     "k": "W"
+     "pl": "Dziedzinowy z nauk społecznych online",
+     "k": "W",
+     "r": "online"
     }
    ],
    "even": [
@@ -266,7 +267,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "historia literatury norweskiej",
+     "pl": "Historia literatury norweskiej",
      "k": "W",
      "p": "dr Strauss",
      "r": "s. 117 WH"
@@ -277,8 +278,8 @@
       "17:00",
       "18:30"
      ],
-     "pl": "język włoski, 30lk, język angielski, 30lk",
-     "k": "X",
+     "pl": "Język włoski, 30lk, język angielski, 30lk",
+     "k": "CW",
      "p": "mgr I. Płatek, mgr Justyna Stankiewicz-Rycielska",
      "r": "s. 13 WH, s. 101 WH"
     },
@@ -288,7 +289,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "realioznawstwo norweskie",
+     "pl": "Realioznawstwo norweskie",
      "k": "W",
      "p": "dr Lubowicka",
      "r": "s. 310a WH"
@@ -299,7 +300,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "pisanie akademickie, co 2 tyg.",
+     "pl": "Pisanie akademickie, co 2 tyg.",
      "k": "LAB",
      "p": "mgr K.Sapiela",
      "r": "s. 101 WH",
@@ -329,7 +330,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "pisanie akademickie, co 2 tyg.",
+     "pl": "Pisanie akademickie, co 2 tyg.",
      "k": "LAB",
      "p": "mgr K.Sapiela",
      "r": "s. 101 WH",
@@ -402,7 +403,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "tłumaczenia pisemne",
+     "pl": "Tłumaczenia pisemne",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 14 WH"
@@ -413,7 +414,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "tłumaczenia pisemne",
+     "pl": "Tłumaczenia pisemne",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 14 WH"
@@ -424,7 +425,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "tłumaczenia pisemne",
+     "pl": "Tłumaczenia pisemne",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 15 WH"
@@ -435,7 +436,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "tłumaczenia pisemne",
+     "pl": "Tłumaczenia pisemne",
      "k": "LAB",
      "p": "mgr D. Ludwiczak",
      "r": "s. 15 WH"
@@ -498,8 +499,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "dziedzinowy z nauk społecznych online",
-     "k": "W"
+     "pl": "Dziedzinowy z nauk społecznych online",
+     "k": "W",
+     "r": "online"
     }
    ]
   }

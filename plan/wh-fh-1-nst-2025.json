@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-08-X-2026.xlsx",
- "wersja": "2026-10-08",
- "sha256": "af6bdb6865cef0e282568108a6921559d0fbf374aed4012702df1e2002c8d1bb",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-st.-niestacjonarne-plan-zajec-semestr-zimowy-zm.-2-09-XI-2026.xlsx",
+ "wersja": "2026-11-09",
+ "sha256": "7fb9127d20529ecbea0e348d212174372870cdbe0360b35a2ef27e905a14d612",
  "kierunek": "Filologia hiszpańska",
  "kierunekEn": "Spanish Philology",
  "id": "wh-fh-1-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T15:10:14.411Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FH2": {
    "odd": [
@@ -23,7 +23,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
@@ -38,27 +38,13 @@
       "15:15",
       "16:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
      "n": "kod Teams: x564cf5",
      "dates": [
       "2027-01-15"
-     ]
-    },
-    {
-     "d": 4,
-     "time": [
-      "15:15",
-      "18:30"
-     ],
-     "pl": "kultura i sztuka Hiszpanii",
-     "k": "W",
-     "p": "dr B. Kosik-Szwejkowska",
-     "r": "s. 101 WH",
-     "dates": [
-      "2026-12-11"
      ]
     },
     {
@@ -78,25 +64,14 @@
     {
      "d": 4,
      "time": [
-      "15:15",
-      "18:30"
+      "16:00",
+      "20:15"
      ],
-     "pl": "Wykład ogólnouczelniany",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 101 WH",
      "dates": [
-      "2026-10-23"
-     ]
-    },
-    {
-     "d": 4,
-     "time": [
-      "15:15",
-      "17:45"
-     ],
-     "pl": "Wykład ogólnouczelniany",
-     "k": "W",
-     "dates": [
-      "2026-11-06",
       "2027-01-08"
      ]
     },
@@ -106,7 +81,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -118,10 +93,34 @@
     {
      "d": 4,
      "time": [
+      "17:00",
+      "21:00"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
       "17:45",
       "19:30"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "s. 101 WH",
@@ -135,13 +134,25 @@
       "17:45",
       "20:15"
      ],
-     "pl": "kultura i sztuka Hiszpanii",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "e-zajęcia",
      "n": "kod Teams: ii3r7ec",
      "dates": [
       "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "21:00"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-11-06"
      ]
     },
     {
@@ -165,7 +176,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "geografia turystyczna",
+     "pl": "Geografia turystyczna",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "s. 319 WH",
@@ -179,7 +190,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
@@ -238,7 +249,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "geografia turystyczna",
+     "pl": "Geografia turystyczna",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "s. 319 WH",
@@ -252,7 +263,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "kultura i sztuka Hiszpanii",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "s. 319 WH",
@@ -266,7 +277,7 @@
       "10:45",
       "13:15"
      ],
-     "pl": "geografia turystyczna",
+     "pl": "Geografia turystyczna",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "s. 319 WH",
@@ -282,7 +293,7 @@
       "10:45",
       "14:15"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -297,7 +308,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -340,7 +351,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "kultura i sztuka Hiszpanii",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "e-zajęcia",
@@ -387,7 +398,7 @@
       "14:15",
       "16:45"
      ],
-     "pl": "język hiszpański w turystyce i biznesie",
+     "pl": "Język hiszpański w turystyce i biznesie",
      "k": "CW",
      "p": "mgr A. Rogla",
      "r": "s. 319 WH",
@@ -415,7 +426,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "kultura i sztuka Hiszpanii",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "e-zajęcia",
@@ -430,7 +441,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "X",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
@@ -445,7 +456,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
@@ -460,7 +471,7 @@
       "08:15",
       "12:30"
      ],
-     "pl": "język włoski",
+     "pl": "Język włoski",
      "k": "CW",
      "p": "mgr I. Płatek",
      "r": "s. 319 WH",
@@ -518,7 +529,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -533,7 +544,7 @@
       "10:45",
       "13:15"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -578,7 +589,7 @@
       "12:30",
       "15:00"
      ],
-     "pl": "język hiszpański w turystyce i biznesie",
+     "pl": "Język hiszpański w turystyce i biznesie",
      "k": "CW",
      "p": "mgr A. Rogla",
      "r": "s. 319 WH",
@@ -631,7 +642,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
@@ -646,27 +657,13 @@
       "15:15",
       "16:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
      "n": "kod Teams: x564cf5",
      "dates": [
       "2027-01-15"
-     ]
-    },
-    {
-     "d": 4,
-     "time": [
-      "15:15",
-      "18:30"
-     ],
-     "pl": "kultura i sztuka Hiszpanii",
-     "k": "W",
-     "p": "dr B. Kosik-Szwejkowska",
-     "r": "s. 101 WH",
-     "dates": [
-      "2026-12-11"
      ]
     },
     {
@@ -686,25 +683,14 @@
     {
      "d": 4,
      "time": [
-      "15:15",
-      "18:30"
+      "16:00",
+      "20:15"
      ],
-     "pl": "Wykład ogólnouczelniany",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
+     "p": "dr B. Kosik-Szwejkowska",
+     "r": "s. 101 WH",
      "dates": [
-      "2026-10-23"
-     ]
-    },
-    {
-     "d": 4,
-     "time": [
-      "15:15",
-      "17:45"
-     ],
-     "pl": "Wykład ogólnouczelniany",
-     "k": "W",
-     "dates": [
-      "2026-11-06",
       "2027-01-08"
      ]
     },
@@ -714,7 +700,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -726,10 +712,34 @@
     {
      "d": 4,
      "time": [
+      "17:00",
+      "21:00"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
       "17:45",
       "19:30"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "s. 101 WH",
@@ -743,13 +753,25 @@
       "17:45",
       "20:15"
      ],
-     "pl": "kultura i sztuka Hiszpanii",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "e-zajęcia",
      "n": "kod Teams: ii3r7ec",
      "dates": [
       "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:45",
+      "21:00"
+     ],
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "dates": [
+      "2026-11-06"
      ]
     },
     {
@@ -773,7 +795,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "geografia turystyczna",
+     "pl": "Geografia turystyczna",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "s. 319 WH",
@@ -787,7 +809,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
@@ -846,7 +868,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "geografia turystyczna",
+     "pl": "Geografia turystyczna",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "s. 319 WH",
@@ -860,7 +882,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "kultura i sztuka Hiszpanii",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "s. 319 WH",
@@ -874,7 +896,7 @@
       "10:45",
       "13:15"
      ],
-     "pl": "geografia turystyczna",
+     "pl": "Geografia turystyczna",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "s. 319 WH",
@@ -890,7 +912,7 @@
       "10:45",
       "14:15"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -905,7 +927,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -948,7 +970,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "kultura i sztuka Hiszpanii",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "e-zajęcia",
@@ -995,7 +1017,7 @@
       "14:15",
       "16:45"
      ],
-     "pl": "język hiszpański w turystyce i biznesie",
+     "pl": "Język hiszpański w turystyce i biznesie",
      "k": "CW",
      "p": "mgr A. Rogla",
      "r": "s. 319 WH",
@@ -1023,7 +1045,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "kultura i sztuka Hiszpanii",
+     "pl": "Kultura i sztuka Hiszpanii",
      "k": "W",
      "p": "dr B. Kosik-Szwejkowska",
      "r": "e-zajęcia",
@@ -1038,7 +1060,7 @@
       "08:15",
       "10:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "X",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
@@ -1053,7 +1075,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "gramatyka opisowa języka hiszpańskiego",
+     "pl": "Gramatyka opisowa języka hiszpańskiego",
      "k": "W",
      "p": "dr hab. M. Lisowska, prof. US",
      "r": "e-zajęcia",
@@ -1068,7 +1090,7 @@
       "08:15",
       "12:30"
      ],
-     "pl": "język włoski",
+     "pl": "Język włoski",
      "k": "CW",
      "p": "mgr I. Płatek",
      "r": "s. 319 WH",
@@ -1126,7 +1148,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -1141,7 +1163,7 @@
       "10:45",
       "13:15"
      ],
-     "pl": "historia literatury hiszpańskiej",
+     "pl": "Historia literatury hiszpańskiej",
      "k": "W",
      "p": "dr N. Pielacińska",
      "r": "e-zajęcia",
@@ -1186,7 +1208,7 @@
       "12:30",
       "15:00"
      ],
-     "pl": "język hiszpański w turystyce i biznesie",
+     "pl": "Język hiszpański w turystyce i biznesie",
      "k": "CW",
      "p": "mgr A. Rogla",
      "r": "s. 319 WH",

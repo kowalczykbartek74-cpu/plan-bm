@@ -1,0 +1,699 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (13 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika resocjalizacyjna",
+ "kierunekEn": "Rehabilitation Pedagogy",
+ "id": "wns-reso-1-nst-2024",
+ "kod": "reson24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "RESO3": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Komunikacja interpersonalna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr B. Chojnacka",
+     "r": "online",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr hab. H. Kupiec, prof.US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Przedsiębiorczość i rozwój zawodowy",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Linka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Lipińska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Interwencja kryzysowa",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr M.Zięciak",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Interwencja kryzysowa",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikacja interpersonalna",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "17:45"
+     ],
+     "p": "dr B. Chojnacka",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M.Zięciak",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Interwencja kryzysowa",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "mgr A. Lipińska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Elementy technologii informacyjnej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Parchimowicz",
+     "r": "s. 210 Miskiewicza 16A",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr R. Szałachowski",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr R. Szałachowski",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr hab. H. Kupiec, prof.US",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, J. Stankiewicz-Rycielska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr hab. H. Kupiec, prof. US",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr hab. H. Kupiec, prof. US",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Interwencja kryzysowa",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Komunikacja interpersonalna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr B. Chojnacka",
+     "r": "online",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr hab. H. Kupiec, prof.US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Przedsiębiorczość i rozwój zawodowy",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Linka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Lipińska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Interwencja kryzysowa",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr M.Zięciak",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Interwencja kryzysowa",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikacja interpersonalna",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "17:45"
+     ],
+     "p": "dr B. Chojnacka",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Diagnoza w resocjalizacji",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M.Zięciak",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Interwencja kryzysowa",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "mgr A. Lipińska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Elementy technologii informacyjnej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Parchimowicz",
+     "r": "s. 210 Miskiewicza 16A",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr R. Szałachowski",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terapeutyczne aspekty oddziaływań resocjalizacyjnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr R. Szałachowski",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr hab. H. Kupiec, prof.US",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, J. Stankiewicz-Rycielska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr hab. H. Kupiec, prof. US",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr hab. H. Kupiec, prof. US",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Interwencja kryzysowa",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,269 @@
+{
+ "source": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
+ "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
+ "sha256": "26491ec1beead982d475b8148e7badea83ebe6451c0133b91332a33a498f7b42",
+ "kierunek": "Nauki o rodzinie — doradztwo, coaching, mediacje",
+ "kierunekEn": "Family Studies – Counselling, Coaching, Mediation",
+ "id": "wt-nor-1-st-2024",
+ "kod": "nor24",
+ "wydzial": "WT",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:39:50.382Z",
+ "checkedAt": "2026-11-09T22:52:36.003Z",
+ "groups": {
+  "NOR3": {
+   "odd": [
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Zaburzenia życia rodzinnego",
+     "k": "X",
+     "p": "Dr hab. Marta Komorowska-Pudło",
+     "r": "s. 307"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zaburzenia życia rodzinnego",
+     "k": "X",
+     "p": "Dr hab. Marta Komorowska-Pudło",
+     "r": "s. 307"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Narzędzia i techniki coachingu",
+     "k": "X",
+     "p": "Dr Dominika Muńko",
+     "r": "s. 306",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Pedagogika specjalna",
+     "k": "X",
+     "p": "Dr hab. Iwona Jazukiewicz",
+     "r": "s. 303"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Poradnictwo małżeńskie i rodzinne",
+     "k": "X",
+     "p": "Dr Ewa Rojewska",
+     "r": "s. 201a"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Umiejętności wychowawcze",
+     "k": "X",
+     "p": "Dr hab. Iwona Jazukiewicz",
+     "r": "s. 303"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:45",
+      "09:45"
+     ],
+     "pl": "Profilaktyka w pracy z rodziną",
+     "k": "X",
+     "p": "Dr Igor Kozak",
+     "r": "s. 306"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Psychologia wychowawcza",
+     "k": "X",
+     "p": "Dr Igor Kozak",
+     "r": "s. 306"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wprowadzenie do mediacji",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Łuszczek",
+     "r": "s. 201",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "W",
+     "n": "zgodnie z dokonanym wyborem"
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Zaburzenia życia rodzinnego",
+     "k": "X",
+     "p": "Dr hab. Marta Komorowska-Pudło",
+     "r": "s. 307"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zaburzenia życia rodzinnego",
+     "k": "X",
+     "p": "Dr hab. Marta Komorowska-Pudło",
+     "r": "s. 307"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Narzędzia i techniki coachingu",
+     "k": "X",
+     "p": "Dr Dominika Muńko",
+     "r": "s. 306",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Pedagogika specjalna",
+     "k": "X",
+     "p": "Dr hab. Iwona Jazukiewicz",
+     "r": "s. 303"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Poradnictwo małżeńskie i rodzinne",
+     "k": "X",
+     "p": "Dr Ewa Rojewska",
+     "r": "s. 201a"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Umiejętności wychowawcze",
+     "k": "X",
+     "p": "Dr hab. Iwona Jazukiewicz",
+     "r": "s. 303"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:45",
+      "09:45"
+     ],
+     "pl": "Profilaktyka w pracy z rodziną",
+     "k": "X",
+     "p": "Dr Igor Kozak",
+     "r": "s. 306"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Psychologia wychowawcza",
+     "k": "X",
+     "p": "Dr Igor Kozak",
+     "r": "s. 306"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wprowadzenie do mediacji",
+     "k": "X",
+     "p": "Ks. dr Krzysztof Łuszczek",
+     "r": "s. 201",
+     "n": "zajęcia mające 8, 14 lub 15 godzin"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "W",
+     "n": "zgodnie z dokonanym wyborem"
+    }
+   ]
+  }
+ }
+}

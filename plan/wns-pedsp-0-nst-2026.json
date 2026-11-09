@@ -1,0 +1,843 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (13 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika specjalna",
+ "kierunekEn": "Special Education",
+ "id": "wns-pedsp-0-nst-2026",
+ "kod": "pedspjn26",
+ "wydzial": "WNS",
+ "rok": 1,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PEDSP1": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr Z. Kuczyńska",
+     "r": "online",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Miedzynarodowe i krajowe regulacje dotyczące praw człowieka i dziecka",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr M. Wąsik",
+     "r": "online",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozoju",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. I.Ramik- Mażewska, prof. US",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. I.Ramik-Mażewska, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Nurty współczesnej filozofii",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawne i organizacyjne oświaty",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "r": "Aula",
+     "n": "Spotkanie organizacyjne z Władzami Wydziału Aula",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "prof. dr hab. Teresa Żółkowska",
+     "r": "s. 152",
+     "n": "Spotkanie organizacyjne z opiekunem roku prof. dr hab. Teresa Żółkowska s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Etyka pedagogiczna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr hab. M. Walejko",
+     "r": "s. 117 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Nurty współczesnej filozofii",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozoficzne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozoficzne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawne i organizacyjne oświaty",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wspolczesne koncepcje wychowania",
+     "k": "X",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr hab. M. Wałejko",
+     "r": "s. 117 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozoficzne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr B. Bugajska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Nurty współczesnej filozofii",
+     "k": "W",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 117 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr P. Wiażewicz- Wójtowicz",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Historia wychowania",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Etyka pedagogiczna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. M. Walejko",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Czerniawska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy prawne i organizacyjne oświaty",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia wychowania",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wspolczesne koncepcje wychowania",
+     "k": "X",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr hab. M. Wałejko",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika ogólna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr M. Mikut",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr A. Czerniawska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Nurty współczesnej socjologii",
+     "k": "W",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr hab. J. Król, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika ogólna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr M. Mikut",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr Z. Kuczyńska",
+     "r": "online",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Miedzynarodowe i krajowe regulacje dotyczące praw człowieka i dziecka",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr M. Wąsik",
+     "r": "online",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozoju",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. I.Ramik- Mażewska, prof. US",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. I.Ramik-Mażewska, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Nurty współczesnej filozofii",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawne i organizacyjne oświaty",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "r": "Aula",
+     "n": "Spotkanie organizacyjne z Władzami Wydziału Aula",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "prof. dr hab. Teresa Żółkowska",
+     "r": "s. 152",
+     "n": "Spotkanie organizacyjne z opiekunem roku prof. dr hab. Teresa Żółkowska s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Etyka pedagogiczna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr hab. M. Walejko",
+     "r": "s. 117 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Nurty współczesnej filozofii",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozoficzne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozoficzne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawne i organizacyjne oświaty",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wspolczesne koncepcje wychowania",
+     "k": "X",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr hab. M. Wałejko",
+     "r": "s. 117 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozoficzne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr B. Bugajska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Nurty współczesnej filozofii",
+     "k": "W",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr A. Komisarczyk",
+     "r": "s. 117 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr P. Wiażewicz- Wójtowicz",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Historia wychowania",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Etyka pedagogiczna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. M. Walejko",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr A. Czerniawska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy prawne i organizacyjne oświaty",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Cywiński",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia wychowania",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wspolczesne koncepcje wychowania",
+     "k": "X",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr hab. M. Wałejko",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika ogólna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr M. Mikut",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr A. Czerniawska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Nurty współczesnej socjologii",
+     "k": "W",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr hab. J. Król, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika ogólna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr M. Mikut",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    }
+   ]
+  }
+ }
+}

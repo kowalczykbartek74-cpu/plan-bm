@@ -1,0 +1,1391 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSA-I-st.-4.pdf",
+ "wersja": "III-NSA-I-st.-4.pdf",
+ "sha256": "0f777fba6e88ab508dd732dc09b24887bf30d70cfa51a40b1a2e5bb99c3f8037",
+ "kierunek": "Administracja",
+ "kierunekEn": "Administration",
+ "id": "wpia-adm-1-nst-2024",
+ "kod": "admn24",
+ "wydzial": "WPiA",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "ADM3": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US, dr hab. K. Nizioł, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-09",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawna regulacja promocji zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Zbiorowe prawo pracy",
+     "k": "X",
+     "p": "dr S. Driczinski",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Zatrudnienie cywilnoprawne",
+     "k": "X",
+     "p": "dr M. Rylski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:00"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Prawna regulacja promocji zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Nowe formy zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Nowe formy zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Prawna regulacja promocji zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Zbiorowe prawo pracy",
+     "k": "X",
+     "p": "dr S. Driczinski",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-12",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:30",
+      "18:00"
+     ],
+     "pl": "Zbiorowe prawo pracy",
+     "k": "X",
+     "p": "dr S. Driczinski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-15",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zatrudnienie cywilnoprawne",
+     "k": "X",
+     "p": "dr M. Rylski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Zbiorowe prawo pracy",
+     "k": "X",
+     "p": "dr S. Driczinski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-08",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawna regulacja promocji zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Zubek",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Zubek",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka- Stopa",
+     "r": "s. 308 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Zatrudnienie cywilnoprawne",
+     "k": "X",
+     "p": "dr M. Rylski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-17"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US, dr hab. K. Nizioł, prof. US",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-09",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-12-04",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawna regulacja promocji zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Zbiorowe prawo pracy",
+     "k": "X",
+     "p": "dr S. Driczinski",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Zatrudnienie cywilnoprawne",
+     "k": "X",
+     "p": "dr M. Rylski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:00"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Prawna regulacja promocji zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Nowe formy zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-07",
+      "2026-11-14",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Nowe formy zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Prawna regulacja promocji zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Zbiorowe prawo pracy",
+     "k": "X",
+     "p": "dr S. Driczinski",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-12",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:30",
+      "18:00"
+     ],
+     "pl": "Zbiorowe prawo pracy",
+     "k": "X",
+     "p": "dr S. Driczinski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-15",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Zatrudnienie cywilnoprawne",
+     "k": "X",
+     "p": "dr M. Rylski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Zbiorowe prawo pracy",
+     "k": "X",
+     "p": "dr S. Driczinski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-11-08",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Międzynarodowe prawo pracy",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Prawna regulacja promocji zatrudnienia",
+     "k": "X",
+     "p": "dr J. Szyjewska-Bagińska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Europejskie prawo administracyjne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Zubek",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Zubek",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka- Stopa",
+     "r": "s. 308 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Zatrudnienie cywilnoprawne",
+     "k": "X",
+     "p": "dr M. Rylski",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2027-01-17"
+     ]
+    }
+   ]
+  }
+ }
+}

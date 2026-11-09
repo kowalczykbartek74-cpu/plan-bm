@@ -1,0 +1,615 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+ "wersja": "PEDSPEC-JM-13.pdf",
+ "sha256": "ff0c3c7979f4d4db7cc9ed72c155dbe3b6a81deebec2a7ff5dbc527bfbf4650c",
+ "kierunek": "Pedagogika specjalna",
+ "kierunekEn": "Special Education",
+ "id": "wns-pedsp-0-st-2023",
+ "kod": "pedspj23",
+ "wydzial": "WNS",
+ "rok": 4,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PEDSP4": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Kultura języka i umiejętności akademickie",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:15",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr D. Myśliński",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Metodyka nauczania i wychowania uczniów z niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "mgr M. Iwan",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Kultura języka i umiejętności akademickie",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj do g. 14:20",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Metodyka nauczania i wychowania uczniów z niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 194 ul. Krakowska 71-79",
+     "dates": [
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Profilaktyka przemocy w szkole i socjoterapia",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 194 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przedmiot do wyboru: Ethics in Social Pratice",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr hab. M. Wałejko",
+     "r": "s. 152 ul. Krakowska 71-79",
+     "n": "ost zaj do g. 14:15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Strategia badań ilościowych",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr hab. R. Iwański",
+     "r": "s. 011 ul. Krakowska 71-79",
+     "n": "pierwsze zaj od g. 14:20; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Metodyka edukacji informatycznej i posługiwanie się technologią informacyjno-komunikacyjną w pracy pedagoga specjalnego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "mgr A. Witosz",
+     "r": "s. 010 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "n": "zaj do g. 11:40",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "n": "zaj do g. 16:55",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "II połowa sem. Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr hab. M. Wlazło, prof."
+    },
+    {
+     "d": 3,
+     "pl": "US s. /O Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 202 ul. Ogińskiego 16-17"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Kultura języka i umiejętności akademickie",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:15",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr D. Myśliński",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Metodyka nauczania i wychowania uczniów z niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "mgr M. Iwan",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Kultura języka i umiejętności akademickie",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj do g. 14:20",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Metodyka nauczania i wychowania uczniów z niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 194 ul. Krakowska 71-79",
+     "dates": [
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Profilaktyka przemocy w szkole i socjoterapia",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 194 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Przedmiot do wyboru: Ethics in Social Pratice",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr hab. M. Wałejko",
+     "r": "s. 152 ul. Krakowska 71-79",
+     "n": "ost zaj do g. 14:15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Strategia badań ilościowych",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr hab. R. Iwański",
+     "r": "s. 011 ul. Krakowska 71-79",
+     "n": "pierwsze zaj od g. 14:20; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Metodyka edukacji informatycznej i posługiwanie się technologią informacyjno-komunikacyjną w pracy pedagoga specjalnego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "mgr A. Witosz",
+     "r": "s. 010 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "n": "zaj do g. 11:40",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "n": "zaj do g. 16:55",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "II połowa sem. Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr hab. M. Wlazło, prof."
+    },
+    {
+     "d": 3,
+     "pl": "US s. /O Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 202 ul. Ogińskiego 16-17"
+    }
+   ]
+  }
+ }
+}

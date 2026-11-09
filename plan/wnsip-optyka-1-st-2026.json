@@ -1,0 +1,437 @@
+{
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-1-rok-akt.-13.10.pdf",
+ "wersja": "2026-10-13",
+ "sha256": "0b03b674f49882345b2fa446744939cc3d5225d9a604270f018a186538598cb8",
+ "kierunek": "Optyka okularowa",
+ "kierunekEn": "Ophthalmic Optics",
+ "id": "wnsip-optyka-1-st-2026",
+ "kod": "optyka26",
+ "wydzial": "WNŚiP",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:37:44.669Z",
+ "checkedAt": "2026-11-09T22:50:40.599Z",
+ "groups": {
+  "OPTYKA1": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Technologia informacyjna",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr F. Prątnicki",
+     "r": "s. 325",
+     "pg": "gr:1"
+    },
+    {
+     "d": 0,
+     "pl": "Statystyka i analiza danych pomiarowych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "dr inż. M. Olszewski, prof US",
+     "r": "s. 325",
+     "pg": "gr:1"
+    },
+    {
+     "d": 0,
+     "pl": "Elementy chemii",
+     "k": "LAB",
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "p": "dr A. Bucior - Kwaczyńska",
+     "r": "s. 05, ul. Wąska 13",
+     "pg": "gr:2",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Elementy biologii",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:05"
+     ],
+     "p": "dr A. Kalinka, dr I. Szućko-Kociuba, dr hab. B. Bosiacka, prof. US",
+     "r": "s. 102, ul. Wąska 13"
+    },
+    {
+     "d": 1,
+     "pl": "Technologia informacyjna",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr F. Prątnicki",
+     "r": "s. 325",
+     "pg": "gr:2"
+    },
+    {
+     "d": 1,
+     "pl": "Elementy matematyki w fizyce",
+     "k": "K",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "dr W. Bondarewicz",
+     "r": "s. 305"
+    },
+    {
+     "d": 2,
+     "pl": "Elementy chemii",
+     "k": "K",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr A. Bucior - Kwaczyńska",
+     "r": "s. 104 ul. Wąska 13"
+    },
+    {
+     "d": 2,
+     "pl": "Optyka geometryczna",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr hab. M. Piątek, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 2,
+     "pl": "Optyka geometryczna",
+     "k": "CW",
+     "time": [
+      "12:35",
+      "15:05"
+     ],
+     "p": "dr hab. M. Piątek, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "pl": "Elementy chemii",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Bucior - Kwaczyńska",
+     "r": "s. 05, ul. Wąska 13",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr P. Katner",
+     "r": "s. 116 (aula)",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Statystyka i analiza danych pomiarowych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "dr inż. M. Olszewski, prof. US",
+     "r": "s. 208",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "pl": "Podstawy fizyki",
+     "k": "K",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr inż. M. Olszewski, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "pl": "Statystyka i analiza danych pomiarowych",
+     "k": "W",
+     "time": [
+      "14:20",
+      "15:05"
+     ],
+     "p": "dr inż. M. Olszewski, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 4,
+     "pl": "Podstawy fizyki",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. A. Balcerzak, prof. US",
+     "r": "s. 106"
+    },
+    {
+     "d": 4,
+     "pl": "Elementy matematyki w fizyce",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr W. Bondarewicz",
+     "r": "s. 106"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Technologia informacyjna",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr F. Prątnicki",
+     "r": "s. 325",
+     "pg": "gr:1"
+    },
+    {
+     "d": 0,
+     "pl": "Statystyka i analiza danych pomiarowych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "dr inż. M. Olszewski, prof US",
+     "r": "s. 325",
+     "pg": "gr:1"
+    },
+    {
+     "d": 0,
+     "pl": "Elementy chemii",
+     "k": "LAB",
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "p": "dr A. Bucior - Kwaczyńska",
+     "r": "s. 05, ul. Wąska 13",
+     "pg": "gr:2",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Elementy biologii",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:05"
+     ],
+     "p": "dr A. Kalinka, dr I. Szućko-Kociuba, dr hab. B. Bosiacka, prof. US",
+     "r": "s. 102, ul. Wąska 13"
+    },
+    {
+     "d": 1,
+     "pl": "Technologia informacyjna",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr F. Prątnicki",
+     "r": "s. 325",
+     "pg": "gr:2"
+    },
+    {
+     "d": 1,
+     "pl": "Elementy matematyki w fizyce",
+     "k": "K",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "dr W. Bondarewicz",
+     "r": "s. 305"
+    },
+    {
+     "d": 2,
+     "pl": "Elementy chemii",
+     "k": "K",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr A. Bucior - Kwaczyńska",
+     "r": "s. 104 ul. Wąska 13"
+    },
+    {
+     "d": 2,
+     "pl": "Optyka geometryczna",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr hab. M. Piątek, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 2,
+     "pl": "Optyka geometryczna",
+     "k": "CW",
+     "time": [
+      "12:35",
+      "15:05"
+     ],
+     "p": "dr hab. M. Piątek, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "pl": "Elementy chemii",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Bucior - Kwaczyńska",
+     "r": "s. 05, ul. Wąska 13",
+     "pg": "gr:1",
+     "dates": [
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "dr P. Katner",
+     "r": "s. 116 (aula)",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Statystyka i analiza danych pomiarowych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "p": "dr inż. M. Olszewski, prof. US",
+     "r": "s. 208",
+     "pg": "gr:2"
+    },
+    {
+     "d": 3,
+     "pl": "Podstawy fizyki",
+     "k": "K",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr inż. M. Olszewski, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "pl": "Statystyka i analiza danych pomiarowych",
+     "k": "W",
+     "time": [
+      "14:20",
+      "15:05"
+     ],
+     "p": "dr inż. M. Olszewski, prof. US",
+     "r": "s. 305"
+    },
+    {
+     "d": 4,
+     "pl": "Podstawy fizyki",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. A. Balcerzak, prof. US",
+     "r": "s. 106"
+    },
+    {
+     "d": 4,
+     "pl": "Elementy matematyki w fizyce",
+     "k": "W",
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "p": "dr W. Bondarewicz",
+     "r": "s. 106"
+    }
+   ]
+  }
+ }
+}

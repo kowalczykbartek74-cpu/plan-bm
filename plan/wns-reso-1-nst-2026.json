@@ -1,0 +1,897 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (14 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika resocjalizacyjna",
+ "kierunekEn": "Rehabilitation Pedagogy",
+ "id": "wns-reso-1-nst-2026",
+ "kod": "reson26",
+ "wydzial": "WNS",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "RESO1": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: frntooy",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "online",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr L. Marek",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicznych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia ogólna i społeczna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr K. Szalińska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr M. Wojciechowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "r": "Aula",
+     "n": "Spotkanie organizacyjne z Władzami Wydziału Aula",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr Monika Zięciak",
+     "r": "s. 152",
+     "n": "Spotkanie organizacyjne z opiekunem roku dr Monika Zięciak s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "ks. dr A. Komisarczyk",
+     "r": "s. 247 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicznych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicznych",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "mgr M. Wojciechowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "ks. dr A. Komisaryczyk",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "s. 247 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "W",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "ks. dr A. Komisarczyk",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr hab.. M. Chutorański, prof. . US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia ogólna i społeczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "mgr K. Szalińska",
+     "r": "s. 247 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "ks. dr A. Komisarczyk",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "ks. dr A. Komisaryczyk",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia myśli pedagogicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metody badań pedagogicznych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. M. Chutorański, prof.",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwojowa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr M. Bratos-Stępień",
+     "r": "online",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "online",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia myśli pedagogicznej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "16:00"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metody badań pedagogicznych",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr hab. M. Chutorański, prof.",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia ogólna i społeczna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr A. Chilman",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwojowa",
+     "k": "W",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr M. Bratos-Stępień",
+     "r": "online",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "mgr M Kiedos",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: frntooy",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "online",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr L. Marek",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicznych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia ogólna i społeczna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr K. Szalińska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr M. Wojciechowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "r": "Aula",
+     "n": "Spotkanie organizacyjne z Władzami Wydziału Aula",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr Monika Zięciak",
+     "r": "s. 152",
+     "n": "Spotkanie organizacyjne z opiekunem roku dr Monika Zięciak s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "ks. dr A. Komisarczyk",
+     "r": "s. 247 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicznych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicznych",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "mgr M. Wojciechowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "ks. dr A. Komisaryczyk",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "s. 247 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "W",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "ks. dr A. Komisarczyk",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr hab.. M. Chutorański, prof. . US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia ogólna i społeczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "mgr K. Szalińska",
+     "r": "s. 247 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "ks. dr A. Komisarczyk",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia edukacji",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "ks. dr A. Komisaryczyk",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia myśli pedagogicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metody badań pedagogicznych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. M. Chutorański, prof.",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwojowa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr M. Bratos-Stępień",
+     "r": "online",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoretyczne podstawy wychowania",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr E. Kopaczewska",
+     "r": "online",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia myśli pedagogicznej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "16:00"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metody badań pedagogicznych",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr hab. M. Chutorański, prof.",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia ogólna i społeczna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr A. Chilman",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwojowa",
+     "k": "W",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr M. Bratos-Stępień",
+     "r": "online",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "mgr M Kiedos",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ]
+  }
+ }
+}

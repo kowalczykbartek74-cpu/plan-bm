@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T22:54:22.756Z",
  "groups": {
   "FGZJA1": {
    "odd": [
@@ -23,7 +23,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia i kultura krajów niemieckiego obszaru językowego",
+     "pl": "Historia i kultura krajów niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s.222 bud. 6 WKFiZ",
@@ -45,7 +45,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
      "k": "LAB",
      "p": "dr Monika Kasjanowicz-Szczepańska",
      "r": "s. 222, bud. 6 WKFiZ",
@@ -69,7 +69,7 @@
       "13:15",
       "14:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr Katarzyna Ciarcińska",
      "r": "ul. Krakowska 71-79, s.22",
@@ -91,7 +91,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab Krzysztof Nerlicki, prof US",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -113,7 +113,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "historia i kultura krajów niemieckiego obszaru językowego",
+     "pl": "Historia i kultura krajów niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr Aleksander Jakovljević",
      "r": "s. 113, bud. 4 WH",
@@ -138,7 +138,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Barbara Witek",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -150,7 +150,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Barbara Witek",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -162,7 +162,7 @@
       "19:00",
       "20:30"
      ],
-     "pl": "dla całego roku ochrona własności intelektualnej",
+     "pl": "Dla całego roku ochrona własności intelektualnej",
      "k": "W",
      "p": "dr Marcin Stępień",
      "r": "Aula przy ul. Wielkopolskiej",
@@ -179,7 +179,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "2.12 do 9.00 praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "dr Anna Borowska-Stankiewicz",
      "r": "s.115, bud. 4 WH",
@@ -194,7 +194,8 @@
       "2026-11-18",
       "2026-11-25",
       "2026-12-02"
-     ]
+     ],
+     "n": "2.12; do 9.00"
     },
     {
      "d": 2,
@@ -202,7 +203,7 @@
       "09:00",
       "09:45"
      ],
-     "pl": "2. praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "W",
      "p": "mgr Barbara Witek",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -224,7 +225,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "dr Anna Borowska-Stankiewicz",
      "r": "s.115, bud. 4 WH",
@@ -236,7 +237,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "dr Anna Borowska-Stankiewicz",
      "r": "s.115, bud. 4 WH",
@@ -248,7 +249,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – gramatyka praktyczna",
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna",
      "k": "LAB",
      "p": "dr hab Anna Sulikowska, prof US",
      "r": "s. 221, bud. 6 WKFiZ"
@@ -259,7 +260,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "26 XI do godz.9.00 technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr Mateusz Paczwa",
      "r": "s.208",
@@ -273,7 +274,8 @@
       "2026-11-12",
       "2026-11-19",
       "2026-11-26"
-     ]
+     ],
+     "n": "26 XI; do godz.9.00"
     },
     {
      "d": 3,
@@ -281,7 +283,7 @@
       "09:00",
       "09:45"
      ],
-     "pl": "26.XI technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr Mateusz Paczwa",
      "r": "s.208",
@@ -297,7 +299,8 @@
       "2027-01-14",
       "2027-01-21",
       "2027-01-28"
-     ]
+     ],
+     "n": "26.XI"
     },
     {
      "d": 3,
@@ -305,7 +308,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "łacina",
+     "pl": "Łacina",
      "k": "CW",
      "p": "mgr Jowita Zabuska",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -326,7 +329,7 @@
       "13:30",
       "17:45"
      ],
-     "pl": "28.01.- -16.45 . praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Sylwia Hałub",
      "r": "s. 222, bud. 6 WKFiZ",
@@ -346,7 +349,8 @@
       "2027-01-07",
       "2027-01-14",
       "2027-01-21"
-     ]
+     ],
+     "n": "28.01.- -16.45 ."
     }
    ],
    "even": [
@@ -356,7 +360,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia i kultura krajów niemieckiego obszaru językowego",
+     "pl": "Historia i kultura krajów niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s.222 bud. 6 WKFiZ",
@@ -378,7 +382,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
+     "pl": "Praktyczna nauka języka niemieckiego – ćwiczenia leksykalno-konwersacyjne",
      "k": "LAB",
      "p": "dr Monika Kasjanowicz-Szczepańska",
      "r": "s. 222, bud. 6 WKFiZ",
@@ -402,7 +406,7 @@
       "13:15",
       "14:45"
      ],
-     "pl": "historia filozofii",
+     "pl": "Historia filozofii",
      "k": "W",
      "p": "dr Katarzyna Ciarcińska",
      "r": "ul. Krakowska 71-79, s.22",
@@ -424,7 +428,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab Krzysztof Nerlicki, prof US",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -446,7 +450,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "historia i kultura krajów niemieckiego obszaru językowego",
+     "pl": "Historia i kultura krajów niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr Aleksander Jakovljević",
      "r": "s. 113, bud. 4 WH",
@@ -471,7 +475,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Barbara Witek",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -483,7 +487,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Barbara Witek",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -495,7 +499,7 @@
       "19:00",
       "20:30"
      ],
-     "pl": "dla całego roku ochrona własności intelektualnej",
+     "pl": "Dla całego roku ochrona własności intelektualnej",
      "k": "W",
      "p": "dr Marcin Stępień",
      "r": "Aula przy ul. Wielkopolskiej",
@@ -512,7 +516,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "2.12 do 9.00 praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "dr Anna Borowska-Stankiewicz",
      "r": "s.115, bud. 4 WH",
@@ -527,7 +531,8 @@
       "2026-11-18",
       "2026-11-25",
       "2026-12-02"
-     ]
+     ],
+     "n": "2.12; do 9.00"
     },
     {
      "d": 2,
@@ -535,7 +540,7 @@
       "09:00",
       "09:45"
      ],
-     "pl": "2. praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "W",
      "p": "mgr Barbara Witek",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -557,7 +562,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "dr Anna Borowska-Stankiewicz",
      "r": "s.115, bud. 4 WH",
@@ -569,7 +574,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy",
      "k": "LAB",
      "p": "dr Anna Borowska-Stankiewicz",
      "r": "s.115, bud. 4 WH",
@@ -581,7 +586,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "praktyczna nauka języka niemieckiego – gramatyka praktyczna",
+     "pl": "Praktyczna nauka języka niemieckiego – gramatyka praktyczna",
      "k": "LAB",
      "p": "dr hab Anna Sulikowska, prof US",
      "r": "s. 221, bud. 6 WKFiZ"
@@ -592,7 +597,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "26 XI do godz.9.00 technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr Mateusz Paczwa",
      "r": "s.208",
@@ -606,7 +611,8 @@
       "2026-11-12",
       "2026-11-19",
       "2026-11-26"
-     ]
+     ],
+     "n": "26 XI; do godz.9.00"
     },
     {
      "d": 3,
@@ -614,7 +620,7 @@
       "09:00",
       "09:45"
      ],
-     "pl": "26.XI technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr Mateusz Paczwa",
      "r": "s.208",
@@ -630,7 +636,8 @@
       "2027-01-14",
       "2027-01-21",
       "2027-01-28"
-     ]
+     ],
+     "n": "26.XI"
     },
     {
      "d": 3,
@@ -638,7 +645,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "łacina",
+     "pl": "Łacina",
      "k": "CW",
      "p": "mgr Jowita Zabuska",
      "r": "s. 221, bud. 6 WKFiZ",
@@ -659,7 +666,7 @@
       "13:30",
       "17:45"
      ],
-     "pl": "28.01.- -16.45 . praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Sylwia Hałub",
      "r": "s. 222, bud. 6 WKFiZ",
@@ -679,7 +686,8 @@
       "2027-01-07",
       "2027-01-14",
       "2027-01-21"
-     ]
+     ],
+     "n": "28.01.- -16.45 ."
     }
    ]
   }

@@ -1,0 +1,2789 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-NSP-8.pdf",
+ "wersja": "I-NSP-8.pdf",
+ "sha256": "513be31b73fe768fc77aeaf07feb82016c3b5152ee28eacfd97623b2e4a1b49d",
+ "kierunek": "Prawo",
+ "kierunekEn": "Law",
+ "id": "wpia-prawo-0-nst-2026",
+ "kod": "prawojn26",
+ "wydzial": "WPiA",
+ "rok": 1,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PRAWO1": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "W",
+     "p": "prof. dr hab. A. Bień-Kacała",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: tq0xb8b",
+     "dates": [
+      "2026-11-06",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "W",
+     "p": "prof. dr hab. A. Bień-Kacała",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: tq0xb8b",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "W",
+     "p": "dr B. Kanarek, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: xg89ox1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "W",
+     "p": "dr B. Kanarek, prof. US",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia hybrydowe; kod MS Teams: xg89ox1",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 201 Narutowicza",
+     "pg": "Legal Tech Start:3",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:1",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 222 Narutowicza",
+     "pg": "Łacińska terminologia prawnicza:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:3",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Profesje prawnicze i okołoprawnicze",
+     "k": "X",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr hab. J. Orzelska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:4",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawa autorskiego",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:4",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 215 Narutowicza",
+     "pg": "Legal Tech Start:4",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:2",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 201 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:3",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "X",
+     "p": "mgr A. Poczewski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawa autorskiego",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Wstęp do prawoznawstwa:2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:3",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 201 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:15",
+      "13:45"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr M. Mikut",
+     "r": "s. 219 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:2",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Profesje prawnicze i okołoprawnicze",
+     "k": "X",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wstęp do prawa autorskiego",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:2",
+     "dates": [
+      "2026-12-19",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:00"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr A. Łabuz",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Wstęp do prawoznawstwa:3",
+     "dates": [
+      "2026-11-21",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 215 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:4",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "W",
+     "p": "prof. dr hab. A. Bień-Kacała",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: tq0xb8b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr A. Karyń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:3",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Etos i savoir vivre akademicki",
+     "k": "X",
+     "p": "dr hab. W. Staszewski, prof. US",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 0bgo2xv",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:30",
+      "19:00"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:3",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:30",
+      "19:00"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Wstęp do prawoznawstwa:4",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "W",
+     "p": "dr B. Kanarek, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: xg89ox1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 201 Narutowicza",
+     "pg": "Legal Tech Start:3",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr B. Skrendo",
+     "r": "s. 219 Narutowicza",
+     "pg": "Legal Tech Start:2",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr S. Szczepański",
+     "r": "s. 222 Narutowicza",
+     "pg": "Legal Tech Start:1",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:2",
+     "dates": [
+      "2026-10-11",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:1",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 222 Narutowicza",
+     "pg": "Łacińska terminologia prawnicza:1",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 201 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:1",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 219 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "X",
+     "p": "mgr A. Poczewski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr hab. J. Orzelska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:4",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-11",
+      "2026-11-08",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 215 Narutowicza",
+     "pg": "Legal Tech Start:4",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr S. Szczepański",
+     "r": "s. 219 Narutowicza",
+     "pg": "Legal Tech Start:1",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr B. Skrendo",
+     "r": "s. 222 Narutowicza",
+     "pg": "Legal Tech Start:2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 201 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:3",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 201 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:2",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 219 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:1",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr M. Mikut",
+     "r": "s. 222 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:2",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:2",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:3",
+     "dates": [
+      "2026-12-20",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 201 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 215 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:4",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "X",
+     "p": "mgr A. Poczewski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:3",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:3",
+     "dates": [
+      "2026-12-20",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr A.Karyń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:3",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr A. Karyń",
+     "r": "s. 219 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:1",
+     "dates": [
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:4",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:4",
+     "dates": [
+      "2026-12-20",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Etos i savoir vivre akademicki",
+     "k": "X",
+     "p": "dr hab. W. Staszewski, prof. US",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 0bgo2xv",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2026-12-20"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "W",
+     "p": "prof. dr hab. A. Bień-Kacała",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: tq0xb8b",
+     "dates": [
+      "2026-11-06",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "W",
+     "p": "prof. dr hab. A. Bień-Kacała",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: tq0xb8b",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "W",
+     "p": "dr B. Kanarek, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: xg89ox1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "W",
+     "p": "dr B. Kanarek, prof. US",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia hybrydowe; kod MS Teams: xg89ox1",
+     "dates": [
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 201 Narutowicza",
+     "pg": "Legal Tech Start:3",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:1",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:2",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 222 Narutowicza",
+     "pg": "Łacińska terminologia prawnicza:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:3",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Profesje prawnicze i okołoprawnicze",
+     "k": "X",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr hab. J. Orzelska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:4",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawa autorskiego",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:4",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 215 Narutowicza",
+     "pg": "Legal Tech Start:4",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:2",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 201 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:3",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "X",
+     "p": "mgr A. Poczewski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawa autorskiego",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Wstęp do prawoznawstwa:2",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:3",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 201 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:15",
+      "13:45"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr M. Mikut",
+     "r": "s. 219 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:2",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Profesje prawnicze i okołoprawnicze",
+     "k": "X",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Wstęp do prawa autorskiego",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:2",
+     "dates": [
+      "2026-12-19",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:00"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr A. Łabuz",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Wstęp do prawoznawstwa:3",
+     "dates": [
+      "2026-11-21",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 215 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:4",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "W",
+     "p": "prof. dr hab. A. Bień-Kacała",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: tq0xb8b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr A. Karyń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:3",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Etos i savoir vivre akademicki",
+     "k": "X",
+     "p": "dr hab. W. Staszewski, prof. US",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 0bgo2xv",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:30",
+      "19:00"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:3",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:30",
+      "19:00"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Wstęp do prawoznawstwa:4",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "W",
+     "p": "dr B. Kanarek, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia hybrydowe; kod MS Teams: xg89ox1",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 201 Narutowicza",
+     "pg": "Legal Tech Start:3",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr B. Skrendo",
+     "r": "s. 219 Narutowicza",
+     "pg": "Legal Tech Start:2",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr S. Szczepański",
+     "r": "s. 222 Narutowicza",
+     "pg": "Legal Tech Start:1",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:2",
+     "dates": [
+      "2026-10-11",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:1",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 222 Narutowicza",
+     "pg": "Łacińska terminologia prawnicza:1",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 201 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:1",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 219 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "X",
+     "p": "mgr A. Poczewski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr hab. J. Orzelska, prof. US",
+     "r": "s. 215 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:4",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Historia prawa i myśli polityczno-prawnych",
+     "k": "X",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-11",
+      "2026-11-08",
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 215 Narutowicza",
+     "pg": "Legal Tech Start:4",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr S. Szczepański",
+     "r": "s. 219 Narutowicza",
+     "pg": "Legal Tech Start:1",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Legal Tech Start",
+     "k": "X",
+     "p": "mgr B. Skrendo",
+     "r": "s. 222 Narutowicza",
+     "pg": "Legal Tech Start:2",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Łacińska terminologia prawnicza",
+     "k": "X",
+     "p": "dr M. Kubala",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Łacińska terminologia prawnicza:1",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 201 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:3",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 201 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:2",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 219 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:1",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:1",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:2",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr M. Mikut",
+     "r": "s. 222 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:2",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:2",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:3",
+     "dates": [
+      "2026-12-20",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 201 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:1",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Organizacja czasu i efektywna nauka",
+     "k": "X",
+     "p": "dr M. Ławicka",
+     "r": "s. 215 Narutowicza",
+     "pg": "Organizacja czasu i efektywna nauka:4",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "X",
+     "p": "mgr A. Poczewski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:3",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:3",
+     "dates": [
+      "2026-12-20",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr A.Karyń",
+     "r": "s. 201 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:3",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Sposoby radzenia ze stresem na studiach",
+     "k": "X",
+     "p": "dr A. Karyń",
+     "r": "s. 219 Narutowicza",
+     "pg": "Sposoby radzenia ze stresem na studiach:1",
+     "dates": [
+      "2027-01-10",
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 222 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:4",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Wstęp do prawoznawstwa",
+     "k": "CW",
+     "p": "mgr M. Sowa",
+     "r": "s. 219 Narutowicza",
+     "pg": "Wstęp do prawoznawstwa:4",
+     "dates": [
+      "2026-12-20",
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:00",
+      "19:15"
+     ],
+     "pl": "Etos i savoir vivre akademicki",
+     "k": "X",
+     "p": "dr hab. W. Staszewski, prof. US",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 0bgo2xv",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 222 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Prawo konstytucyjne - zasady i źródła prawa",
+     "k": "CW",
+     "p": "dr J. Karakulski",
+     "r": "s. 219 Narutowicza",
+     "pg": "Prawo konstytucyjne - zasady i źródła prawa:4",
+     "dates": [
+      "2026-12-20"
+     ]
+    }
+   ]
+  }
+ }
+}

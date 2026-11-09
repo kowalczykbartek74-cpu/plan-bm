@@ -1,0 +1,1013 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (18 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Bezpieczeństwo narodowe",
+ "kierunekEn": "National Security",
+ "id": "wns-bn-1-nst-2025",
+ "kod": "bnn25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "BN2": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 249s31u",
+     "dates": [
+      "2026-10-09",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Prawne aspekty pracy w służbach",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 7ulk3hl",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr J. Kołodziejska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: nu31702",
+     "dates": [
+      "2026-10-09",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne państw graniczących z Polską",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne RP",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Fundamentalizm islamski",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr J. Kołodziejska",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne państw graniczących z Polską",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne państw graniczących z Polską",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Służby specjalne w systemie bezpieczeństwa państwa",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Służby specjalne w systemie bezpieczeństwa państwa",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Fundamentalizm islamski",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne państw graniczących z Polską",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr J. Witczak",
+     "r": "s. 239",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Siły zbrojne RP",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 249s31u",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr W. Wilczko",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Fundamentalizm islamski",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawne aspekty pracy w służbach",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 7ulk3hl",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologie bezpieczeństwa militarnego",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr J. Kołodziejska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: nu31702",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologie bezpieczeństwa militarnego",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Fundamentalizm islamski",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Siły zbrojne RP",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Siły zbrojne RP",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologie bezpieczeństwa militarnego",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 249s31u",
+     "dates": [
+      "2026-10-09",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Prawne aspekty pracy w służbach",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 7ulk3hl",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr J. Kołodziejska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: nu31702",
+     "dates": [
+      "2026-10-09",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne państw graniczących z Polską",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne RP",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Fundamentalizm islamski",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr J. Kołodziejska",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne państw graniczących z Polską",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne państw graniczących z Polską",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Służby specjalne w systemie bezpieczeństwa państwa",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Służby specjalne w systemie bezpieczeństwa państwa",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Fundamentalizm islamski",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Siły zbrojne państw graniczących z Polską",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr J. Witczak",
+     "r": "s. 239",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Siły zbrojne RP",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 249s31u",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr W. Wilczko",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Fundamentalizm islamski",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Prawne aspekty pracy w służbach",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 7ulk3hl",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Logistyka w sytuacjach kryzysowych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologie bezpieczeństwa militarnego",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr J. Kołodziejska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: nu31702",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologie bezpieczeństwa militarnego",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Fundamentalizm islamski",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 235",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Siły zbrojne RP",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Siły zbrojne RP",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologie bezpieczeństwa militarnego",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    }
+   ]
+  }
+ }
+}

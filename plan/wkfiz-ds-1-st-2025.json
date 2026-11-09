@@ -11,8 +11,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:02:48.239Z",
- "checkedAt": "2026-11-09T20:26:07.883Z",
+ "changedAt": "2026-11-09T22:35:12.415Z",
+ "checkedAt": "2026-11-09T22:48:18.778Z",
  "groups": {
   "DS2": {
    "odd": [
@@ -22,7 +22,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka ręczna",
      "k": "CW",
      "p": "dr Beata Florkiewicz, prof.US",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -47,7 +47,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka ręczna",
      "k": "CW",
      "p": "dr Beata Florkiewicz, prof.US",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -124,7 +124,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: koszykówka",
+     "pl": "Teoria i metodyka sportów zespołowych: koszykówka",
      "k": "CW",
      "p": "mgr Marek Łukomski",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -149,7 +149,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: koszykówka",
+     "pl": "Teoria i metodyka sportów zespołowych: koszykówka",
      "k": "CW",
      "p": "mgr Marek Łukomski",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -174,7 +174,7 @@
       "08:00",
       "09:30"
      ],
-     "pl": "teoria i metodyka sportów indywidualnych: lekka atletyka",
+     "pl": "Teoria i metodyka sportów indywidualnych: lekka atletyka",
      "k": "CW",
      "p": "mgr Justyna Pyrgiel",
      "r": "stadion lekkoatletyczny ul.Litewska 20",
@@ -198,7 +198,7 @@
       "09:30",
       "11:00"
      ],
-     "pl": "teoria i metodyka sportów indywidualnych: lekka atletyka",
+     "pl": "Teoria i metodyka sportów indywidualnych: lekka atletyka",
      "k": "CW",
      "p": "mgr Justyna Pyrgiel",
      "r": "stadion lekkoatletyczny ul.Litewska 20",
@@ -331,7 +331,7 @@
       "08:00",
       "09:30"
      ],
-     "pl": "wychowanie fizyczne",
+     "pl": "Wychowanie fizyczne",
      "k": "CW",
      "p": "mgr Szymon Smerdel",
      "r": "s. gimnastyczna WNŚiP ul.Wielkopolska 15",
@@ -362,7 +362,7 @@
       "09:30",
       "11:00"
      ],
-     "pl": "wychowanie fizyczne",
+     "pl": "Wychowanie fizyczne",
      "k": "CW",
      "p": "mgr Kacper Olszewski",
      "r": "s. gimnastyczna WNŚiP ul.Wielkopolska 15",
@@ -392,8 +392,8 @@
       "11:45",
       "13:15"
      ],
-     "pl": "język angielski",
-     "k": "X",
+     "pl": "Język angielski",
+     "k": "CW",
      "p": "mgr Aleksandra Meyer",
      "r": "ACKJ ul.Wawrzyniaka 15, sala 9",
      "dates": [
@@ -422,7 +422,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "teoria treningu sportowego",
+     "pl": "Teoria treningu sportowego",
      "k": "W",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -451,8 +451,8 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język angielski",
-     "k": "X",
+     "pl": "Język angielski",
+     "k": "CW",
      "p": "mgr Hanna Basiak",
      "r": "s. 101",
      "dates": [
@@ -481,8 +481,8 @@
       "17:00",
       "18:30"
      ],
-     "pl": "język niemiecki",
-     "k": "X",
+     "pl": "Język niemiecki",
+     "k": "CW",
      "p": "mgr Joanna Paśnicka-Stopa",
      "r": "s. 26",
      "dates": [
@@ -511,7 +511,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "teoria i metodyka sportów indywidualnych: gimnastyka",
+     "pl": "Teoria i metodyka sportów indywidualnych: gimnastyka",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. gimnastyczna WNŚiP ul.Wielkopolska 15",
@@ -535,7 +535,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka sportów indywidualnych: gimnastyka",
+     "pl": "Teoria i metodyka sportów indywidualnych: gimnastyka",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. gimnastyczna WNŚiP ul.Wielkopolska 15",
@@ -559,7 +559,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria treningu sportowego",
+     "pl": "Teoria treningu sportowego",
      "k": "CW",
      "p": "mgr Adrian Struzik",
      "r": "s. 101",
@@ -580,10 +580,11 @@
       "18:45",
       "20:15"
      ],
-     "pl": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska",
+     "pl": "Szkolenie z obrony cywilnej",
      "k": "X",
      "p": "12:00-13:30 26.11.2026.",
-     "r": "-"
+     "r": "-",
+     "n": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska"
     },
     {
      "d": 4,
@@ -769,7 +770,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka ręczna",
      "k": "CW",
      "p": "dr Beata Florkiewicz, prof.US",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -794,7 +795,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka ręczna",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka ręczna",
      "k": "CW",
      "p": "dr Beata Florkiewicz, prof.US",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -871,7 +872,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: koszykówka",
+     "pl": "Teoria i metodyka sportów zespołowych: koszykówka",
      "k": "CW",
      "p": "mgr Marek Łukomski",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -896,7 +897,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: koszykówka",
+     "pl": "Teoria i metodyka sportów zespołowych: koszykówka",
      "k": "CW",
      "p": "mgr Marek Łukomski",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -921,7 +922,7 @@
       "08:00",
       "09:30"
      ],
-     "pl": "teoria i metodyka sportów indywidualnych: lekka atletyka",
+     "pl": "Teoria i metodyka sportów indywidualnych: lekka atletyka",
      "k": "CW",
      "p": "mgr Justyna Pyrgiel",
      "r": "stadion lekkoatletyczny ul.Litewska 20",
@@ -945,7 +946,7 @@
       "09:30",
       "11:00"
      ],
-     "pl": "teoria i metodyka sportów indywidualnych: lekka atletyka",
+     "pl": "Teoria i metodyka sportów indywidualnych: lekka atletyka",
      "k": "CW",
      "p": "mgr Justyna Pyrgiel",
      "r": "stadion lekkoatletyczny ul.Litewska 20",
@@ -1078,7 +1079,7 @@
       "08:00",
       "09:30"
      ],
-     "pl": "wychowanie fizyczne",
+     "pl": "Wychowanie fizyczne",
      "k": "CW",
      "p": "mgr Szymon Smerdel",
      "r": "s. gimnastyczna WNŚiP ul.Wielkopolska 15",
@@ -1109,7 +1110,7 @@
       "09:30",
       "11:00"
      ],
-     "pl": "wychowanie fizyczne",
+     "pl": "Wychowanie fizyczne",
      "k": "CW",
      "p": "mgr Kacper Olszewski",
      "r": "s. gimnastyczna WNŚiP ul.Wielkopolska 15",
@@ -1139,8 +1140,8 @@
       "11:45",
       "13:15"
      ],
-     "pl": "język angielski",
-     "k": "X",
+     "pl": "Język angielski",
+     "k": "CW",
      "p": "mgr Aleksandra Meyer",
      "r": "ACKJ ul.Wawrzyniaka 15, sala 9",
      "dates": [
@@ -1169,7 +1170,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "teoria treningu sportowego",
+     "pl": "Teoria treningu sportowego",
      "k": "W",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -1198,8 +1199,8 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język angielski",
-     "k": "X",
+     "pl": "Język angielski",
+     "k": "CW",
      "p": "mgr Hanna Basiak",
      "r": "s. 101",
      "dates": [
@@ -1228,8 +1229,8 @@
       "17:00",
       "18:30"
      ],
-     "pl": "język niemiecki",
-     "k": "X",
+     "pl": "Język niemiecki",
+     "k": "CW",
      "p": "mgr Joanna Paśnicka-Stopa",
      "r": "s. 26",
      "dates": [
@@ -1258,7 +1259,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "teoria i metodyka sportów indywidualnych: gimnastyka",
+     "pl": "Teoria i metodyka sportów indywidualnych: gimnastyka",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. gimnastyczna WNŚiP ul.Wielkopolska 15",
@@ -1282,7 +1283,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka sportów indywidualnych: gimnastyka",
+     "pl": "Teoria i metodyka sportów indywidualnych: gimnastyka",
      "k": "CW",
      "p": "dr Krzysztof Wilk",
      "r": "s. gimnastyczna WNŚiP ul.Wielkopolska 15",
@@ -1306,7 +1307,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria treningu sportowego",
+     "pl": "Teoria treningu sportowego",
      "k": "CW",
      "p": "mgr Adrian Struzik",
      "r": "s. 101",
@@ -1327,10 +1328,11 @@
       "18:45",
       "20:15"
      ],
-     "pl": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska",
+     "pl": "Szkolenie z obrony cywilnej",
      "k": "X",
      "p": "12:00-13:30 26.11.2026.",
-     "r": "-"
+     "r": "-",
+     "n": "SZKOLENIE Z OBRONY CYWILNEJ 26.11.2026; godzina 12:00-13:30; Aula WNS ul.Krakowska"
     },
     {
      "d": 4,

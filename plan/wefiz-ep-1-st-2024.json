@@ -1,0 +1,325 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-EP-I-st.-9.pdf",
+ "wersja": "III-EP-I-st.-9.pdf",
+ "sha256": "fd9fa513e58b24d3b8a152058bbdace86aa47919de3938aaac7254496d979c46",
+ "kierunek": "Ekonomiczno-prawny",
+ "kierunekEn": "Economics and Law",
+ "id": "wefiz-ep-1-st-2024",
+ "kod": "ep24",
+ "wydzial": "WPiA",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "EP3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zajęcia na Wydziale Ekonomii, Finansów i Zarządzania",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zajęcia na Wydziale Ekonomii, Finansów i Zarządzania",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo uczciwej konkurencji",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 117 Narutowicza",
+     "n": "zajęcia dn. 23.XII trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-23"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo uczciwej konkurencji",
+     "k": "W",
+     "p": "dr M. Wojdała",
+     "r": "s. 117 Narutowicza",
+     "n": "UWAGA! z wyłączeniem terminu 9.XII oraz 16.XII. Zajęcia odbędą się w terminie 13.I i 20.I w godzinach 8.15 - 11.30,s. 117 Narutowicza"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Grabowska",
+     "r": "s. 108"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo obrotu instrumentami finansowymi",
+     "k": "W",
+     "p": "prof. dr hab. Z. Ofiarski",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 1 godz. w godzinach 13.45 - 14.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo obrotu instrumentami finansowymi",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 0202",
+     "n": "zajęcia dn. 26.XI trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo bankowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 0202",
+     "n": "zajęcia dn. 26.XI trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo bankowe",
+     "k": "W",
+     "p": "prof. dr hab. Z. Ofiarski",
+     "r": "s. 220 Narutowicza",
+     "n": "Zajęcia w dn. 15.X odbędą się wyjątkowo w godz; UWAGA! inach 14.00 - 15.30"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych 17.45 - 19.15 (wykaz wykładów dostępny jest na stronie: https://wpia.usz.edu.pl/rozklady-zajec/ )",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zajęcia na Wydziale Ekonomii, Finansów i Zarządzania",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zajęcia na Wydziale Ekonomii, Finansów i Zarządzania",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo uczciwej konkurencji",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 117 Narutowicza",
+     "n": "zajęcia dn. 23.XII trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-23"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo uczciwej konkurencji",
+     "k": "W",
+     "p": "dr M. Wojdała",
+     "r": "s. 117 Narutowicza",
+     "n": "UWAGA! z wyłączeniem terminu 9.XII oraz 16.XII. Zajęcia odbędą się w terminie 13.I i 20.I w godzinach 8.15 - 11.30,s. 117 Narutowicza"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Grabowska",
+     "r": "s. 108"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Prawo obrotu instrumentami finansowymi",
+     "k": "W",
+     "p": "prof. dr hab. Z. Ofiarski",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 1 godz. w godzinach 13.45 - 14.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo obrotu instrumentami finansowymi",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 0202",
+     "n": "zajęcia dn. 26.XI trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo bankowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 0202",
+     "n": "zajęcia dn. 26.XI trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo bankowe",
+     "k": "W",
+     "p": "prof. dr hab. Z. Ofiarski",
+     "r": "s. 220 Narutowicza",
+     "n": "Zajęcia w dn. 15.X odbędą się wyjątkowo w godz; UWAGA! inach 14.00 - 15.30"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych 17.45 - 19.15 (wykaz wykładów dostępny jest na stronie: https://wpia.usz.edu.pl/rozklady-zajec/ )",
+     "k": "W"
+    }
+   ]
+  }
+ }
+}

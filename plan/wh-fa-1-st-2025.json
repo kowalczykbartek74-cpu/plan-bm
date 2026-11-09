@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FA2": {
    "odd": [
@@ -23,7 +23,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "lektorat j. włoski",
+     "pl": "Lektorat j. włoski",
      "k": "CW",
      "p": "dr Angelo Sollano",
      "r": "s. 216 WH"
@@ -130,7 +130,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "lektorat język hiszpański",
+     "pl": "Lektorat język hiszpański",
      "k": "CW",
      "p": "mgr Joanna Kurdelska",
      "r": "s. 215 WH",
@@ -142,7 +142,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "lektorat SM + /WH język rosyjski",
+     "pl": "Lektorat SM + /WH język rosyjski",
      "k": "CW",
      "p": "mgr L. Smędzik",
      "r": "s. 214 WH"
@@ -205,7 +205,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "lektorat język hiszpański",
+     "pl": "Lektorat język hiszpański",
      "k": "CW",
      "p": "mgr Joanna Kurdelska",
      "r": "s. 101 WH",
@@ -482,7 +482,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "zastępstwo",
+     "pl": "Zastępstwo",
      "k": "X",
      "p": "mgr Klisz",
      "r": "s. 217 WH",
@@ -582,7 +582,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zastępstwo",
+     "pl": "Zastępstwo",
      "k": "X",
      "p": "mgr Sara Cesarska",
      "r": "s. 217 WH",
@@ -600,7 +600,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "gr E Literatura Wysp Brytyjskich",
+     "pl": "Gr E Literatura Wysp Brytyjskich",
      "k": "CW",
      "p": "dr hab. Łukasz Neubauer",
      "r": "s. 218 WH",
@@ -701,9 +701,10 @@
       "17:45",
       "19:15"
      ],
-     "pl": "ONLINE OGÓLNOUCZELNIANY",
+     "pl": "Wykład ogólnouczelniany",
      "k": "W",
-     "n": "tytuł, wykładowca, sala - zgodnie z wyborem"
+     "n": "tytuł, wykładowca, sala - zgodnie z wyborem; online",
+     "r": "online"
     },
     {
      "d": 4,
@@ -711,8 +712,9 @@
       "09:30",
       "15:30"
      ],
-     "pl": "WYCHOWANIE FIZYCZNE wg osobnego harmonogramu (informacja na stronie: https://swfis.usz.edu.pl/ -wychowania-fizycznego )",
-     "k": "X"
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "wg osobnego harmonogramu (informacja na stronie: https://swfis.usz.edu.pl/ -wychowania-fizycznego )"
     }
    ],
    "even": [
@@ -722,7 +724,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "lektorat j. włoski",
+     "pl": "Lektorat j. włoski",
      "k": "CW",
      "p": "dr Angelo Sollano",
      "r": "s. 216 WH"
@@ -829,7 +831,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "lektorat język hiszpański",
+     "pl": "Lektorat język hiszpański",
      "k": "CW",
      "p": "mgr Joanna Kurdelska",
      "r": "s. 215 WH",
@@ -841,7 +843,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "lektorat SM + /WH język rosyjski",
+     "pl": "Lektorat SM + /WH język rosyjski",
      "k": "CW",
      "p": "mgr L. Smędzik",
      "r": "s. 214 WH"
@@ -904,7 +906,7 @@
       "15:15",
       "17:45"
      ],
-     "pl": "lektorat język hiszpański",
+     "pl": "Lektorat język hiszpański",
      "k": "CW",
      "p": "mgr Joanna Kurdelska",
      "r": "s. 101 WH",
@@ -1181,7 +1183,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "zastępstwo",
+     "pl": "Zastępstwo",
      "k": "X",
      "p": "mgr Klisz",
      "r": "s. 217 WH",
@@ -1281,7 +1283,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zastępstwo",
+     "pl": "Zastępstwo",
      "k": "X",
      "p": "mgr Sara Cesarska",
      "r": "s. 217 WH",
@@ -1299,7 +1301,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "gr E Literatura Wysp Brytyjskich",
+     "pl": "Gr E Literatura Wysp Brytyjskich",
      "k": "CW",
      "p": "dr hab. Łukasz Neubauer",
      "r": "s. 218 WH",
@@ -1400,9 +1402,10 @@
       "17:45",
       "19:15"
      ],
-     "pl": "ONLINE OGÓLNOUCZELNIANY",
+     "pl": "Wykład ogólnouczelniany",
      "k": "W",
-     "n": "tytuł, wykładowca, sala - zgodnie z wyborem"
+     "n": "tytuł, wykładowca, sala - zgodnie z wyborem; online",
+     "r": "online"
     },
     {
      "d": 4,
@@ -1410,8 +1413,9 @@
       "09:30",
       "15:30"
      ],
-     "pl": "WYCHOWANIE FIZYCZNE wg osobnego harmonogramu (informacja na stronie: https://swfis.usz.edu.pl/ -wychowania-fizycznego )",
-     "k": "X"
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "wg osobnego harmonogramu (informacja na stronie: https://swfis.usz.edu.pl/ -wychowania-fizycznego )"
     }
    ]
   }

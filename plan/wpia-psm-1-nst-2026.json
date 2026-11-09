@@ -1,0 +1,1533 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-6.pdf",
+ "wersja": "I-NPSM-I-st.-6.pdf",
+ "sha256": "04291a649c0abb293c370d777b9ff7fb8793592fc1f1800fb08b3f5e8155145d",
+ "kierunek": "Prawo służb mundurowych",
+ "kierunekEn": "Law for Uniformed Services",
+ "id": "wpia-psm-1-nst-2026",
+ "kod": "psmn26",
+ "wydzial": "WPiA",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:51:41.490Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PSM1": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia hybrydowe; kod MS Teams: x68n2xo",
+     "dates": [
+      "2026-10-09",
+      "2026-11-06",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:00",
+      "19:30"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia hybrydowe; kod MS Teams: x68n2xo",
+     "dates": [
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "X",
+     "p": "dr W. Różycki",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Historia służb mundurowych",
+     "k": "X",
+     "p": "dr hab. R. Gałaj-Dempniak, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-21",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Kryminalistyka",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "X",
+     "p": "dr W. Durka",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "X",
+     "p": "dr W. Durka",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Kryminalistyka",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "X",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Kryminalistyka",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "X",
+     "p": "dr W. Różycki",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "mgr M. Sowa",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Stany nadzwyczajne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Stany nadzwyczajne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Status i rodzaje służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Status i rodzaje służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "X",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "20:00"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "X",
+     "p": "dr W. Różycki",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia służb mundurowych",
+     "k": "X",
+     "p": "dr hab. R. Gałaj-Dempniak, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "mgr M. Sowa",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "X",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "X",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "X",
+     "p": "dr W. Durka",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-25",
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "X",
+     "p": "dr W. Durka",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Źródła prawa",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "mgr M. Sowa",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Stany nadzwyczajne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Status i rodzaje służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Źródła prawa",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:00",
+      "16:15"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "X",
+     "p": "dr W. Różycki",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:00",
+      "14:30"
+     ],
+     "pl": "Źródła prawa",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "15:30"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "Źródła prawa",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia hybrydowe; kod MS Teams: x68n2xo",
+     "dates": [
+      "2026-10-09",
+      "2026-11-06",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:00",
+      "19:30"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "X",
+     "p": "dr M. Peno",
+     "r": "s. 222 Narutowicza",
+     "n": "zajęcia hybrydowe; kod MS Teams: x68n2xo",
+     "dates": [
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "X",
+     "p": "dr W. Różycki",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Historia służb mundurowych",
+     "k": "X",
+     "p": "dr hab. R. Gałaj-Dempniak, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-21",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Kryminalistyka",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "X",
+     "p": "dr W. Durka",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "X",
+     "p": "dr W. Durka",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Kryminalistyka",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-10",
+      "2026-12-05",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "X",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Kryminalistyka",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "X",
+     "p": "dr W. Różycki",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "mgr M. Sowa",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Stany nadzwyczajne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Stany nadzwyczajne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Status i rodzaje służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Status i rodzaje służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "X",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "20:00"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:45",
+      "19:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "X",
+     "p": "dr W. Różycki",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Historia służb mundurowych",
+     "k": "X",
+     "p": "dr hab. R. Gałaj-Dempniak, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "mgr M. Sowa",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "X",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 117 Narutowicza",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Podstawy psychologii",
+     "k": "X",
+     "p": "mgr M. Cieśluk",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "X",
+     "p": "dr W. Durka",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-25",
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Podstawy socjologii",
+     "k": "X",
+     "p": "dr W. Durka",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Źródła prawa",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "mgr M. Sowa",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "mgr M. Sowa",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "X",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Stany nadzwyczajne",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Status i rodzaje służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Źródła prawa",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Technologie informacyjne",
+     "k": "X",
+     "p": "dr Z. Stempnakowski",
+     "r": "s. 17a Narutowicza",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:00",
+      "16:15"
+     ],
+     "pl": "Etyka zawodowa funkcjonariuszy służb mundurowych",
+     "k": "X",
+     "p": "dr W. Różycki",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:00",
+      "14:30"
+     ],
+     "pl": "Źródła prawa",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Ochrona własności intelektualnej",
+     "k": "X",
+     "p": "dr M. Stępień",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:00",
+      "15:30"
+     ],
+     "pl": "Społeczeństwo obywatelskie",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "pl": "Źródła prawa",
+     "k": "X",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    }
+   ]
+  }
+ }
+}

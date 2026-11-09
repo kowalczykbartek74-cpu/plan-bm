@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T09:23:11.440Z",
- "checkedAt": "2026-11-09T20:22:14.856Z",
+ "changedAt": "2026-11-09T22:31:18.542Z",
+ "checkedAt": "2026-11-09T22:44:26.151Z",
  "groups": {
   "C20": {
    "odd": [
@@ -54,7 +54,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Konrad Kochański, dr Joanna Rachuba",
      "r": "online",
@@ -69,7 +69,7 @@
       "19:00",
       "20:35"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Konrad Kochański, dr Joanna Rachuba",
      "r": "online",
@@ -84,7 +84,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "CW",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S01 Mic.64",
@@ -98,7 +98,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "W",
      "p": "dr Wojciech Kuźmiński",
      "r": "online",
@@ -113,7 +113,7 @@
       "09:05",
       "10:45"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "LAB",
      "p": "dr Wojciech Kuźmiński",
      "r": "s. S0315 lab Mic.64",
@@ -165,7 +165,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "W",
      "p": "dr Paweł Stępień",
      "r": "online",
@@ -180,7 +180,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "CW",
      "p": "mgr Kamil Bąkowski",
      "r": "s. S08 Mic.64",
@@ -194,7 +194,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "W",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S017 Mic.64",
@@ -208,7 +208,7 @@
       "10:50",
       "12:30"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "LAB",
      "p": "dr Paweł Stępień",
      "r": "s. N019 lab Mic.64",
@@ -222,7 +222,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "W",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S02 Mic.64",
@@ -236,7 +236,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "LAB",
      "p": "dr Wojciech Kuźmiński",
      "r": "s. S0315 lab Mic.64",
@@ -265,7 +265,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "W",
      "p": "dr Maciej Szulc",
      "r": "online",
@@ -280,7 +280,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "W",
      "p": "dr Przemysław Mućko",
      "r": "online",
@@ -295,7 +295,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S07 Mic.64",
@@ -311,7 +311,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S07 Mic.64",
@@ -326,7 +326,7 @@
       "12:35",
       "14:30"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "CW",
      "p": "dr Przemysław Mućko",
      "r": "s. S08 Mic.64",
@@ -341,7 +341,7 @@
       "12:35",
       "14:30"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S02 Mic.64",
@@ -356,7 +356,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "LAB",
      "p": "dr Paweł Stępień",
      "r": "s. N019 lab Mic.64",
@@ -370,7 +370,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "W",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S01 Mic.64",
@@ -384,7 +384,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. N019 lab Mic.64",
@@ -398,7 +398,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "CW",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S02 Mic.64",
@@ -412,7 +412,7 @@
       "14:35",
       "16:15"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. N019 lab Mic.64",
@@ -426,7 +426,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "LAB",
      "p": "dr Wojciech Kuźmiński",
      "r": "s. S0315 lab Mic.64",
@@ -455,7 +455,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "W",
      "p": "dr Maciej Szulc",
      "r": "online",
@@ -470,7 +470,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "W",
      "p": "dr Przemysław Mućko",
      "r": "online",
@@ -485,7 +485,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S08 Mic.64",
@@ -500,7 +500,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. N019 lab Mic.64",
@@ -514,7 +514,7 @@
       "09:05",
       "10:45"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "W",
      "p": "dr Wojciech Kuźmiński",
      "r": "online",
@@ -544,7 +544,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S07 Mic.64",
@@ -559,7 +559,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "W",
      "p": "dr Paweł Stępień",
      "r": "online",
@@ -574,7 +574,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "LAB",
      "p": "dr Paweł Stępień",
      "r": "s. N019 lab Mic.64",
@@ -588,7 +588,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "CW",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S01 Mic.64",
@@ -602,7 +602,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "CW",
      "p": "dr Przemysław Mućko",
      "r": "s. S02 Mic.64",
@@ -617,7 +617,7 @@
       "10:50",
       "14:30"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S0315 lab Mic.64",
@@ -631,7 +631,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "W",
      "p": "dr Przemysław Mućko",
      "r": "online",
@@ -646,7 +646,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. N019 lab Mic.64",
@@ -660,7 +660,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "W",
      "p": "dr Wojciech Kuźmiński",
      "r": "online",
@@ -675,7 +675,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S07 Mic.64",
@@ -690,7 +690,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S02 Mic.64",
@@ -705,7 +705,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "CW",
      "p": "mgr Kamil Bąkowski",
      "r": "s. S08 Mic.64",
@@ -719,7 +719,7 @@
       "12:35",
       "16:15"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "CW",
      "p": "mgr Kamil Bąkowski",
      "r": "s. S08 Mic.64",
@@ -733,7 +733,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "CW",
      "p": "dr Przemysław Mućko",
      "r": "s. S08 Mic.64",
@@ -748,7 +748,7 @@
       "13:45",
       "15:20"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "W",
      "p": "dr Paweł Stępień",
      "r": "online",
@@ -763,7 +763,7 @@
       "14:35",
       "16:15"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "W",
      "p": "dr Maciej Szulc",
      "r": "online",
@@ -778,7 +778,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Konrad Kochański, dr Joanna Rachuba",
      "r": "online",
@@ -827,7 +827,7 @@
       "18:05",
       "20:35"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Konrad Kochański, dr Joanna Rachuba",
      "r": "online",
@@ -842,7 +842,7 @@
       "19:00",
       "20:35"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Konrad Kochański, dr Joanna Rachuba",
      "r": "online",
@@ -857,7 +857,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "CW",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S01 Mic.64",
@@ -871,7 +871,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "W",
      "p": "dr Wojciech Kuźmiński",
      "r": "online",
@@ -886,7 +886,7 @@
       "09:05",
       "10:45"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "LAB",
      "p": "dr Wojciech Kuźmiński",
      "r": "s. S0315 lab Mic.64",
@@ -938,7 +938,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "W",
      "p": "dr Paweł Stępień",
      "r": "online",
@@ -953,7 +953,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "CW",
      "p": "mgr Kamil Bąkowski",
      "r": "s. S08 Mic.64",
@@ -967,7 +967,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "W",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S017 Mic.64",
@@ -981,7 +981,7 @@
       "10:50",
       "12:30"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "LAB",
      "p": "dr Paweł Stępień",
      "r": "s. N019 lab Mic.64",
@@ -995,7 +995,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "W",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S02 Mic.64",
@@ -1009,7 +1009,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "LAB",
      "p": "dr Wojciech Kuźmiński",
      "r": "s. S0315 lab Mic.64",
@@ -1038,7 +1038,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "W",
      "p": "dr Maciej Szulc",
      "r": "online",
@@ -1053,7 +1053,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "W",
      "p": "dr Przemysław Mućko",
      "r": "online",
@@ -1068,7 +1068,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S07 Mic.64",
@@ -1084,7 +1084,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S07 Mic.64",
@@ -1099,7 +1099,7 @@
       "12:35",
       "14:30"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "CW",
      "p": "dr Przemysław Mućko",
      "r": "s. S08 Mic.64",
@@ -1114,7 +1114,7 @@
       "12:35",
       "14:30"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S02 Mic.64",
@@ -1129,7 +1129,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "LAB",
      "p": "dr Paweł Stępień",
      "r": "s. N019 lab Mic.64",
@@ -1143,7 +1143,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "W",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S01 Mic.64",
@@ -1157,7 +1157,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. N019 lab Mic.64",
@@ -1171,7 +1171,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "CW",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S02 Mic.64",
@@ -1185,7 +1185,7 @@
       "14:35",
       "16:15"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. N019 lab Mic.64",
@@ -1199,7 +1199,7 @@
       "14:35",
       "18:00"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "LAB",
      "p": "dr Wojciech Kuźmiński",
      "r": "s. S0315 lab Mic.64",
@@ -1228,7 +1228,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "W",
      "p": "dr Maciej Szulc",
      "r": "online",
@@ -1243,7 +1243,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "W",
      "p": "dr Przemysław Mućko",
      "r": "online",
@@ -1258,7 +1258,7 @@
       "14:35",
       "17:05"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S08 Mic.64",
@@ -1273,7 +1273,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. N019 lab Mic.64",
@@ -1287,7 +1287,7 @@
       "09:05",
       "10:45"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "W",
      "p": "dr Wojciech Kuźmiński",
      "r": "online",
@@ -1317,7 +1317,7 @@
       "09:05",
       "12:30"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S07 Mic.64",
@@ -1332,7 +1332,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "W",
      "p": "dr Paweł Stępień",
      "r": "online",
@@ -1347,7 +1347,7 @@
       "09:05",
       "11:35"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "LAB",
      "p": "dr Paweł Stępień",
      "r": "s. N019 lab Mic.64",
@@ -1361,7 +1361,7 @@
       "10:00",
       "11:35"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "CW",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S01 Mic.64",
@@ -1375,7 +1375,7 @@
       "10:00",
       "12:30"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "CW",
      "p": "dr Przemysław Mućko",
      "r": "s. S02 Mic.64",
@@ -1390,7 +1390,7 @@
       "10:50",
       "14:30"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. S0315 lab Mic.64",
@@ -1404,7 +1404,7 @@
       "10:50",
       "13:20"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "W",
      "p": "dr Przemysław Mućko",
      "r": "online",
@@ -1419,7 +1419,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "analiza finansowa",
+     "pl": "Analiza finansowa",
      "k": "LAB",
      "p": "dr prof. US Mirela Romanowska",
      "r": "s. N019 lab Mic.64",
@@ -1433,7 +1433,7 @@
       "11:45",
       "14:30"
      ],
-     "pl": "ekonometria",
+     "pl": "Ekonometria",
      "k": "W",
      "p": "dr Wojciech Kuźmiński",
      "r": "online",
@@ -1448,7 +1448,7 @@
       "11:45",
       "15:20"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "CW",
      "p": "dr Urszula Wawer",
      "r": "s. S07 Mic.64",
@@ -1463,7 +1463,7 @@
       "11:45",
       "13:20"
      ],
-     "pl": "rachunkowość instytucji finansowych",
+     "pl": "Rachunkowość instytucji finansowych",
      "k": "W",
      "p": "dr Urszula Wawer",
      "r": "s. S02 Mic.64",
@@ -1478,7 +1478,7 @@
       "12:35",
       "15:20"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "CW",
      "p": "mgr Kamil Bąkowski",
      "r": "s. S08 Mic.64",
@@ -1492,7 +1492,7 @@
       "12:35",
       "16:15"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "CW",
      "p": "mgr Kamil Bąkowski",
      "r": "s. S08 Mic.64",
@@ -1506,7 +1506,7 @@
       "13:45",
       "17:05"
      ],
-     "pl": "rachunkowość instrumentów finansowych",
+     "pl": "Rachunkowość instrumentów finansowych",
      "k": "CW",
      "p": "dr Przemysław Mućko",
      "r": "s. S08 Mic.64",
@@ -1521,7 +1521,7 @@
       "13:45",
       "15:20"
      ],
-     "pl": "ryzyko w finansach i rachunkowości",
+     "pl": "Ryzyko w finansach i rachunkowości",
      "k": "W",
      "p": "dr Paweł Stępień",
      "r": "online",
@@ -1536,7 +1536,7 @@
       "14:35",
       "16:15"
      ],
-     "pl": "marketing usług finansowo-księgowych",
+     "pl": "Marketing usług finansowo-księgowych",
      "k": "W",
      "p": "dr Maciej Szulc",
      "r": "online",
@@ -1551,7 +1551,7 @@
       "15:30",
       "18:00"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Konrad Kochański, dr Joanna Rachuba",
      "r": "online",

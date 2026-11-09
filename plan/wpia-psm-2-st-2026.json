@@ -1,0 +1,475 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/PSM-II-st.-2026-2027-I-rok.pdf",
+ "wersja": "PSM-II-st.-2026-2027-I-rok.pdf",
+ "sha256": "718adbac82d83ef15c2fe82b09c43a40c21ea9ead984704926a281d3c22adb70",
+ "kierunek": "Prawo służb mundurowych",
+ "kierunekEn": "Law for Uniformed Services",
+ "id": "wpia-psm-2-st-2026",
+ "kod": "psmm26",
+ "wydzial": "WPiA",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PSM1": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 18.I trwają 1 godz.",
+     "dates": [
+      "2026-10-05"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 18.I trwają 1 godz. w godzinach 10:45 - 11:30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "W",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 201 Narutowicza",
+     "n": "Zajęcia w dn. 26.X i 9.XI trwają 2 godz. w godzinach 11.45 - 13.15; UWAGA!",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Psychologia społeczna",
+     "k": "K",
+     "p": "mgr K. Szalińska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-14",
+      "2026-10-28",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ustrój i funkcjonowanie krajowej administracji skarbowej",
+     "k": "W",
+     "p": "dr hab. K. Nizioł, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-09"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Zabezpieczanie śladów i dowodów",
+     "k": "W",
+     "p": "dr W. Niemiec",
+     "r": "s. 215 Narutowicza"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Mediacje karne",
+     "k": "K",
+     "p": "dr M. Jasińska",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 28.I trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo dewizowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 28.I trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Resocjalizacja",
+     "k": "K",
+     "p": "dr A. Jarzębińska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo karne skarbowe",
+     "k": "W",
+     "p": "dr S. Kowalski",
+     "r": "s. 219 Narutowicza",
+     "n": "UWAGA! z wyłączeniem terminu 9.X - zajęcia odbędą się 19.XI [czwartek] w godzinach 10.00 - 11.30, s. 220 Narutowicza"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo karne skarbowe",
+     "k": "W",
+     "p": "dr S. Kowalski",
+     "r": "s. 219 Narutowicza",
+     "n": "UWAGA! z wyłączeniem terminu 9.X - zajęcia odbędą się 17.XII [czwartek] w godzinach 13.30 - 15.00, s. 120 Narutowicza"
+    },
+    {
+     "d": 4,
+     "time": [
+      "12:00",
+      "14:30"
+     ],
+     "pl": "Rozwiązywanie konfliktów",
+     "k": "W",
+     "p": "dr A. Słomczyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "12:00",
+      "14:30"
+     ],
+     "pl": "Rozwiązywanie konfliktów",
+     "k": "CW",
+     "p": "dr A. Słomczyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "UWAGA! Zajęcia dn. 8.I odbędą się w sali 219 Narutowicza",
+     "dates": [
+      "2026-11-06",
+      "2026-11-20",
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 18.I trwają 1 godz.",
+     "dates": [
+      "2026-10-05"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Ogólne prawo podatkowe",
+     "k": "CW",
+     "p": "mgr W. Gnych-Pietrzak",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 18.I trwają 1 godz. w godzinach 10:45 - 11:30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-12-07",
+      "2026-12-21",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Podstawy przedsiębiorczości",
+     "k": "W",
+     "p": "dr B. Czerniachowicz",
+     "r": "s. 201 Narutowicza",
+     "n": "Zajęcia w dn. 26.X i 9.XI trwają 2 godz. w godzinach 11.45 - 13.15; UWAGA!",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Psychologia społeczna",
+     "k": "K",
+     "p": "mgr K. Szalińska",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-14",
+      "2026-10-28",
+      "2026-11-18",
+      "2026-12-02",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Ustrój i funkcjonowanie krajowej administracji skarbowej",
+     "k": "W",
+     "p": "dr hab. K. Nizioł, prof. US",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-09"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Zabezpieczanie śladów i dowodów",
+     "k": "W",
+     "p": "dr W. Niemiec",
+     "r": "s. 215 Narutowicza"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Mediacje karne",
+     "k": "K",
+     "p": "dr M. Jasińska",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 28.I trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo dewizowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 28.I trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Resocjalizacja",
+     "k": "K",
+     "p": "dr A. Jarzębińska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo karne skarbowe",
+     "k": "W",
+     "p": "dr S. Kowalski",
+     "r": "s. 219 Narutowicza",
+     "n": "UWAGA! z wyłączeniem terminu 9.X - zajęcia odbędą się 19.XI [czwartek] w godzinach 10.00 - 11.30, s. 220 Narutowicza"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo karne skarbowe",
+     "k": "W",
+     "p": "dr S. Kowalski",
+     "r": "s. 219 Narutowicza",
+     "n": "UWAGA! z wyłączeniem terminu 9.X - zajęcia odbędą się 17.XII [czwartek] w godzinach 13.30 - 15.00, s. 120 Narutowicza"
+    },
+    {
+     "d": 4,
+     "time": [
+      "12:00",
+      "14:30"
+     ],
+     "pl": "Rozwiązywanie konfliktów",
+     "k": "W",
+     "p": "dr A. Słomczyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "12:00",
+      "14:30"
+     ],
+     "pl": "Rozwiązywanie konfliktów",
+     "k": "CW",
+     "p": "dr A. Słomczyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "UWAGA! Zajęcia dn. 8.I odbędą się w sali 219 Narutowicza",
+     "dates": [
+      "2026-11-06",
+      "2026-11-20",
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-08"
+     ]
+    }
+   ]
+  }
+ }
+}

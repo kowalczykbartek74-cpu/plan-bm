@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "PRP2": {
    "odd": [
@@ -23,7 +23,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "współczesne uwarunkowania zawodu tłumacza",
+     "pl": "Współczesne uwarunkowania zawodu tłumacza",
      "k": "W",
      "p": "dr hab. T. Szutkowski, prof. US",
      "r": "s. 114, WH bud. 4",
@@ -44,7 +44,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminarium dyplomowe 30 sem",
+     "pl": "Seminarium dyplomowe 30 sem",
      "k": "S",
      "p": "dr hab. T. Szutkowski, prof. US",
      "r": "s. 114, WH bud. 4",
@@ -56,7 +56,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "tłumaczenie aktów notarialnych i urzędowych 30",
+     "pl": "Tłumaczenie aktów notarialnych i urzędowych 30",
      "k": "X",
      "p": "dr hab. T. Szutkowski, prof. US",
      "r": "s. 114, WH bud. 4",
@@ -68,7 +68,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "motywy literatury rosyjskiej g. 03,WH bud.",
+     "pl": "Motywy literatury rosyjskiej g. 03,WH bud.",
      "k": "K",
      "p": "dr M. Pieczyński",
      "pg": "gr:1"
@@ -79,7 +79,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe 30 sem g. 03, bud.",
+     "pl": "Seminarium dyplomowe 30 sem g. 03, bud.",
      "k": "S",
      "p": "dr M. Pieczyński",
      "pg": "gr:1"
@@ -90,8 +90,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "z dziedziny nauk społecznych online",
-     "k": "W"
+     "pl": "Z dziedziny nauk społecznych online",
+     "k": "W",
+     "r": "online"
     },
     {
      "d": 4,
@@ -99,7 +100,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "tłumaczenie prawnicze i sądowe 30",
+     "pl": "Tłumaczenie prawnicze i sądowe 30",
      "k": "X",
      "p": "dr M. Hordy",
      "r": "s. 114, WH bud. 4",
@@ -111,7 +112,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "tłumaczenie ustne 30",
+     "pl": "Tłumaczenie ustne 30",
      "k": "X",
      "p": "dr M. Hordy",
      "r": "s. 114, WH bud. 4",
@@ -123,7 +124,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "rosyjski dyskurs medialny",
+     "pl": "Rosyjski dyskurs medialny",
      "k": "W",
      "p": "dr K. Kondzioła-Pich",
      "r": "s. 14, WH bud. 4"
@@ -148,7 +149,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "współczesne uwarunkowania zawodu tłumacza",
+     "pl": "Współczesne uwarunkowania zawodu tłumacza",
      "k": "W",
      "p": "dr hab. T. Szutkowski, prof. US",
      "r": "s. 114, WH bud. 4",
@@ -169,7 +170,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminarium dyplomowe 30 sem",
+     "pl": "Seminarium dyplomowe 30 sem",
      "k": "S",
      "p": "dr hab. T. Szutkowski, prof. US",
      "r": "s. 114, WH bud. 4",
@@ -181,7 +182,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "tłumaczenie aktów notarialnych i urzędowych 30",
+     "pl": "Tłumaczenie aktów notarialnych i urzędowych 30",
      "k": "X",
      "p": "dr hab. T. Szutkowski, prof. US",
      "r": "s. 114, WH bud. 4",
@@ -193,7 +194,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "motywy literatury rosyjskiej g. 03,WH bud.",
+     "pl": "Motywy literatury rosyjskiej g. 03,WH bud.",
      "k": "K",
      "p": "dr M. Pieczyński",
      "pg": "gr:1"
@@ -204,7 +205,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe 30 sem g. 03, bud.",
+     "pl": "Seminarium dyplomowe 30 sem g. 03, bud.",
      "k": "S",
      "p": "dr M. Pieczyński",
      "pg": "gr:1"
@@ -215,8 +216,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "z dziedziny nauk społecznych online",
-     "k": "W"
+     "pl": "Z dziedziny nauk społecznych online",
+     "k": "W",
+     "r": "online"
     },
     {
      "d": 4,
@@ -224,7 +226,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "tłumaczenie prawnicze i sądowe 30",
+     "pl": "Tłumaczenie prawnicze i sądowe 30",
      "k": "X",
      "p": "dr M. Hordy",
      "r": "s. 114, WH bud. 4",
@@ -236,7 +238,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "tłumaczenie ustne 30",
+     "pl": "Tłumaczenie ustne 30",
      "k": "X",
      "p": "dr M. Hordy",
      "r": "s. 114, WH bud. 4",
@@ -248,7 +250,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "rosyjski dyskurs medialny",
+     "pl": "Rosyjski dyskurs medialny",
      "k": "W",
      "p": "dr K. Kondzioła-Pich",
      "r": "s. 14, WH bud. 4"

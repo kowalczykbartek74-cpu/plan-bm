@@ -1,0 +1,375 @@
+{
+ "source": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+ "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+ "sha256": "7ad2606fbd54b80d80d1ec450b4e43535b427027938997d671422ff6fb47b854",
+ "kierunek": "Teologia",
+ "kierunekEn": "Theology",
+ "id": "wt-teo-0-st-2024",
+ "kod": "teoj24",
+ "wydzial": "WT",
+ "rok": 3,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:39:50.382Z",
+ "checkedAt": "2026-11-09T22:52:36.003Z",
+ "groups": {
+  "TEO3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Katechetyka fundamentalna",
+     "k": "X",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 303"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "p": "Ks. dr Krzysztof Łuszczek",
+     "r": "s. 303",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Teologia moralna: powołanie chrześcijańskie",
+     "k": "X",
+     "p": "Ks. dr Tomasz Mędrek",
+     "r": "s. 303",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Egzegeza NT: wprowadzenie do Ewangelii",
+     "k": "X",
+     "p": "Dr hab. Piotr Goniszewski",
+     "r": "s. 304",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia patrystyczna: początki doktryny…",
+     "k": "X",
+     "p": "Ks. dr hab. Jarosław Nowaszczuk",
+     "r": "s. 304"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Egzegeza ST: Pięcioksiąg",
+     "k": "X",
+     "p": "Ks. dr hab. Cezary Korzec",
+     "r": "s. 304"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia fundamentalna",
+     "k": "W",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 304"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Pedagogika ogólna",
+     "k": "W",
+     "p": "Ks. dr Krzysztof Łuszczek",
+     "r": "s. 304"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Katolicka nauka społeczna: wprowadzenie",
+     "k": "X",
+     "p": "Ks. dr Remigiusz Szauer",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia dogmatyczna: chrystologia",
+     "k": "W",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 304"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "T. fundamentalna / T. dogmatyczna",
+     "k": "CW",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 304"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "Mgr Magdalena Kisiel-Spychała",
+     "r": "s. 6 ACKJ, ul. Wawrzyniaka 15",
+     "n": "w piątek (wpisane w wierszu czwartku)"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Katechetyka fundamentalna",
+     "k": "X",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 303"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "p": "Ks. dr Krzysztof Łuszczek",
+     "r": "s. 303",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Teologia moralna: powołanie chrześcijańskie",
+     "k": "X",
+     "p": "Ks. dr Tomasz Mędrek",
+     "r": "s. 303",
+     "dates": [
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Egzegeza NT: wprowadzenie do Ewangelii",
+     "k": "X",
+     "p": "Dr hab. Piotr Goniszewski",
+     "r": "s. 304",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia patrystyczna: początki doktryny…",
+     "k": "X",
+     "p": "Ks. dr hab. Jarosław Nowaszczuk",
+     "r": "s. 304"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Egzegeza ST: Pięcioksiąg",
+     "k": "X",
+     "p": "Ks. dr hab. Cezary Korzec",
+     "r": "s. 304"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "Mgr Justyna Stankiewicz-Rycielska",
+     "r": "s. 203"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia fundamentalna",
+     "k": "W",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 304"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Pedagogika ogólna",
+     "k": "W",
+     "p": "Ks. dr Krzysztof Łuszczek",
+     "r": "s. 304"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Katolicka nauka społeczna: wprowadzenie",
+     "k": "X",
+     "p": "Ks. dr Remigiusz Szauer",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Teologia dogmatyczna: chrystologia",
+     "k": "W",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 304"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "T. fundamentalna / T. dogmatyczna",
+     "k": "CW",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 304"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "Mgr Magdalena Kisiel-Spychała",
+     "r": "s. 6 ACKJ, ul. Wawrzyniaka 15",
+     "n": "w piątek (wpisane w wierszu czwartku)"
+    }
+   ]
+  }
+ }
+}

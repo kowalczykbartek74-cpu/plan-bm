@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T09:16:29.044Z",
- "checkedAt": "2026-11-09T20:26:07.883Z",
+ "changedAt": "2026-11-09T22:35:12.415Z",
+ "checkedAt": "2026-11-09T22:48:18.778Z",
  "groups": {
   "WF2": {
    "odd": [
@@ -22,14 +22,15 @@
       "17:00",
       "20:15"
      ],
-     "pl": "wykład z dziedziny nauk humanistycznych lub społecznych kod do zajęć zgodnie z wybranym wykładem",
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
      "k": "W",
      "dates": [
       "2026-10-23",
       "2026-11-06",
       "2026-12-11",
       "2027-01-08"
-     ]
+     ],
+     "n": "kod do zajęć zgodnie z wybranym wykładem"
     },
     {
      "d": 5,
@@ -37,7 +38,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "pl": "Dydaktyka przedmiotu szkole ponadpodstawowej wykład",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -51,7 +52,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "moduł B: brydż sportowy",
+     "pl": "Moduł B: brydż sportowy",
      "k": "X",
      "p": "mgr Paweł Stężała",
      "r": "s. 101",
@@ -66,7 +67,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab Leonard Nowak",
      "r": "s. 101",
@@ -81,7 +82,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 119",
@@ -96,7 +97,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "CW",
      "p": "mgr Adrian Struzik",
      "r": "s. 101",
@@ -112,7 +113,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -126,7 +127,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -140,7 +141,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab Leonard Nowak",
      "r": "s. 101",
@@ -160,7 +161,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 119",
@@ -179,7 +180,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 1",
@@ -194,7 +195,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 101",
@@ -208,7 +209,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "CW",
      "p": "mgr Adrian Struzik",
      "r": "s. 101",
@@ -222,7 +223,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "pl": "Dydaktyka przedmiotu szkole ponadpodstawowej wykład",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -243,7 +244,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -258,7 +259,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -272,7 +273,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -292,7 +293,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "salka 13, hala WKFiZ",
@@ -306,7 +307,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -320,7 +321,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -335,7 +336,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "team building",
+     "pl": "Team building",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -349,7 +350,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 101",
@@ -363,7 +364,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "team building",
+     "pl": "Team building",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -377,7 +378,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "W",
      "p": "dr Maciej Zawadzki",
      "r": "s. 101",
@@ -392,7 +393,7 @@
       "09:00",
       "09:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 101",
@@ -410,7 +411,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 101",
@@ -428,7 +429,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -443,7 +444,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "team building",
+     "pl": "Team building",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -457,7 +458,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka siatkowa",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -471,7 +472,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "CW",
      "p": "mgr Adrian Struzik",
      "r": "s. 101",
@@ -485,7 +486,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "pl": "Dydaktyka przedmiotu szkole ponadpodstawowej wykład",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -500,7 +501,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -521,7 +522,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "team building",
+     "pl": "Team building",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -535,7 +536,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka siatkowa",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -549,7 +550,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "pl": "Dydaktyka przedmiotu szkole ponadpodstawowej wykład",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -563,7 +564,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka siatkowa",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -582,7 +583,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "moduł B: brydż sportowy",
+     "pl": "Moduł B: brydż sportowy",
      "k": "X",
      "p": "mgr Paweł Stężała",
      "r": "s. 101",
@@ -597,7 +598,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 101",
@@ -613,14 +614,15 @@
       "17:00",
       "20:15"
      ],
-     "pl": "wykład z dziedziny nauk humanistycznych lub społecznych kod do zajęć zgodnie z wybranym wykładem",
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
      "k": "W",
      "dates": [
       "2026-10-23",
       "2026-11-06",
       "2026-12-11",
       "2027-01-08"
-     ]
+     ],
+     "n": "kod do zajęć zgodnie z wybranym wykładem"
     },
     {
      "d": 5,
@@ -628,7 +630,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "pl": "Dydaktyka przedmiotu szkole ponadpodstawowej wykład",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -642,7 +644,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "moduł B: brydż sportowy",
+     "pl": "Moduł B: brydż sportowy",
      "k": "X",
      "p": "mgr Paweł Stężała",
      "r": "s. 101",
@@ -657,7 +659,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab Leonard Nowak",
      "r": "s. 101",
@@ -672,7 +674,7 @@
       "08:15",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 119",
@@ -687,7 +689,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "CW",
      "p": "mgr Adrian Struzik",
      "r": "s. 101",
@@ -703,7 +705,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -717,7 +719,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -731,7 +733,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab Leonard Nowak",
      "r": "s. 101",
@@ -751,7 +753,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 119",
@@ -770,7 +772,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminarium magisterskie",
+     "pl": "Seminarium magisterskie",
      "k": "S",
      "p": "prof. dr hab. Oleksandr Pryimakov",
      "r": "s. 1",
@@ -785,7 +787,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 101",
@@ -799,7 +801,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "CW",
      "p": "mgr Adrian Struzik",
      "r": "s. 101",
@@ -813,7 +815,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "pl": "Dydaktyka przedmiotu szkole ponadpodstawowej wykład",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -834,7 +836,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -849,7 +851,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -863,7 +865,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -883,7 +885,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "salka 13, hala WKFiZ",
@@ -897,7 +899,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "LAB",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -911,7 +913,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -926,7 +928,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "team building",
+     "pl": "Team building",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -940,7 +942,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 101",
@@ -954,7 +956,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "team building",
+     "pl": "Team building",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -968,7 +970,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "W",
      "p": "dr Maciej Zawadzki",
      "r": "s. 101",
@@ -983,7 +985,7 @@
       "09:00",
       "09:45"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 101",
@@ -1001,7 +1003,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr Mirosław Mikołajczyk",
      "r": "s. 101",
@@ -1019,7 +1021,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "rekreacja ruchowa",
+     "pl": "Rekreacja ruchowa",
      "k": "CW",
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1034,7 +1036,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "team building",
+     "pl": "Team building",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -1048,7 +1050,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka siatkowa",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1062,7 +1064,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "CW",
      "p": "mgr Adrian Struzik",
      "r": "s. 101",
@@ -1076,7 +1078,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "pl": "Dydaktyka przedmiotu szkole ponadpodstawowej wykład",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -1091,7 +1093,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "pl": "Dydaktyka przedmiotu w szkole ponadpodstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -1112,7 +1114,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "team building",
+     "pl": "Team building",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
      "r": "s. 101",
@@ -1126,7 +1128,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka siatkowa",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1140,7 +1142,7 @@
       "13:30",
       "16:45"
      ],
-     "pl": "dydaktyka przedmiotu szkole ponadpodstawowej wykład",
+     "pl": "Dydaktyka przedmiotu szkole ponadpodstawowej wykład",
      "k": "W",
      "p": "dr Lila Pławińska-Kopeć",
      "r": "s. 101",
@@ -1154,7 +1156,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "teoria i metodyka sportów zespołowych: piłka siatkowa",
+     "pl": "Teoria i metodyka sportów zespołowych: piłka siatkowa",
      "k": "CW",
      "p": "mgr Kacper Cieśluk",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
@@ -1173,7 +1175,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "moduł B: brydż sportowy",
+     "pl": "Moduł B: brydż sportowy",
      "k": "X",
      "p": "mgr Paweł Stężała",
      "r": "s. 101",
@@ -1188,7 +1190,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "teoria i metodyka treningu sportowego",
+     "pl": "Teoria i metodyka treningu sportowego",
      "k": "W",
      "p": "dr Jarosław Muracki",
      "r": "s. 101",

@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T15:10:14.411Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T22:54:22.756Z",
  "groups": {
   "FGZJA1": {
    "odd": [
@@ -23,7 +23,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "e-zajęcia",
@@ -52,7 +52,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr hab. Małgorzata Makiewicz, prof. US",
      "r": "ul. Wielkopolska 15, s. 208",
@@ -66,7 +66,7 @@
       "15:15",
       "20:15"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr hab. Małgorzata Makiewicz, prof. US",
      "r": "e-zajęcia",
@@ -80,7 +80,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "e-zajęcia",
@@ -95,7 +95,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr hab. Małgorzata Makiewicz, prof. US",
      "r": "ul. Wielkopolska 15, s. 208",
@@ -109,7 +109,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "s. 220, bud. 6",
@@ -251,7 +251,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -325,12 +325,13 @@
       "13:30",
       "15:00"
      ],
-     "pl": "14.15- ćwiczenia historia i kultura niemieckiego obszaru językowego",
+     "pl": "Ćwiczenia historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "r": "s. 220, bud. 6",
      "dates": [
       "2026-12-12"
-     ]
+     ],
+     "n": "14.15"
     },
     {
      "d": 5,
@@ -338,7 +339,7 @@
       "13:30",
       "14:15"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -425,7 +426,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "s. 220, bud. 6",
@@ -439,7 +440,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "s. 220, bud. 6",
@@ -453,7 +454,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "e-zajęcia",
@@ -468,7 +469,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -482,7 +483,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -496,7 +497,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr Aleksander Jakovljević",
      "r": "e-zajęcia",
@@ -511,7 +512,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr Aleksander Jakovljević",
      "r": "s. 220, bud. 6",
@@ -539,7 +540,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "s. 220, bud. 6",
@@ -553,7 +554,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -567,7 +568,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr Aleksander Jakovljević",
      "r": "s. 220, bud. 6",
@@ -595,7 +596,7 @@
       "18:45",
       "19:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab.Krzysztof Nerlicki, prof. US",
      "r": "s. 220, bud. 6",
@@ -609,7 +610,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "e-zajęcia",
@@ -624,7 +625,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "s. 220, bud. 6",
@@ -654,7 +655,7 @@
       "08:15",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "s. 220, bud. 6",
@@ -714,7 +715,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "e-zajęcia",
@@ -729,7 +730,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr Aleksander Jakovljević",
      "r": "e-zajęcia",
@@ -744,7 +745,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "s. 220, bud. 6",
@@ -758,7 +759,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "ochrona własności intelektualnej",
+     "pl": "Ochrona własności intelektualnej",
      "k": "X",
      "p": "dr Marcin Stępień",
      "r": "s. 17-19 , bud. 4",
@@ -773,7 +774,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "e-zajęcia",
@@ -787,7 +788,7 @@
       "17:00",
       "17:45"
      ],
-     "pl": "ochrona własności intelektualnej– zaliczenie",
+     "pl": "Ochrona własności intelektualnej– zaliczenie",
      "k": "W",
      "p": "dr Marcin Stępień",
      "r": "s. 17-19 , bud. 4",
@@ -804,7 +805,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "e-zajęcia",
@@ -833,7 +834,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr hab. Małgorzata Makiewicz, prof. US",
      "r": "ul. Wielkopolska 15, s. 208",
@@ -847,7 +848,7 @@
       "15:15",
       "20:15"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr hab. Małgorzata Makiewicz, prof. US",
      "r": "e-zajęcia",
@@ -861,7 +862,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "e-zajęcia",
@@ -876,7 +877,7 @@
       "17:00",
       "20:15"
      ],
-     "pl": "technologie informacyjne",
+     "pl": "Technologie informacyjne",
      "k": "CW",
      "p": "dr hab. Małgorzata Makiewicz, prof. US",
      "r": "ul. Wielkopolska 15, s. 208",
@@ -890,7 +891,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "s. 220, bud. 6",
@@ -1032,7 +1033,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -1106,12 +1107,13 @@
       "13:30",
       "15:00"
      ],
-     "pl": "14.15- ćwiczenia historia i kultura niemieckiego obszaru językowego",
+     "pl": "Ćwiczenia historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "r": "s. 220, bud. 6",
      "dates": [
       "2026-12-12"
-     ]
+     ],
+     "n": "14.15"
     },
     {
      "d": 5,
@@ -1119,7 +1121,7 @@
       "13:30",
       "14:15"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -1206,7 +1208,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "s. 220, bud. 6",
@@ -1220,7 +1222,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "s. 220, bud. 6",
@@ -1234,7 +1236,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "e-zajęcia",
@@ -1249,7 +1251,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -1263,7 +1265,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -1277,7 +1279,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr Aleksander Jakovljević",
      "r": "e-zajęcia",
@@ -1292,7 +1294,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr Aleksander Jakovljević",
      "r": "s. 220, bud. 6",
@@ -1320,7 +1322,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "s. 220, bud. 6",
@@ -1334,7 +1336,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "s. 220, bud. 6",
@@ -1348,7 +1350,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr Aleksander Jakovljević",
      "r": "s. 220, bud. 6",
@@ -1376,7 +1378,7 @@
       "18:45",
       "19:30"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab.Krzysztof Nerlicki, prof. US",
      "r": "s. 220, bud. 6",
@@ -1390,7 +1392,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "akwizycja języka obcego",
+     "pl": "Akwizycja języka obcego",
      "k": "W",
      "p": "dr hab. Krzysztof Nerlicki, prof. US",
      "r": "e-zajęcia",
@@ -1405,7 +1407,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "s. 220, bud. 6",
@@ -1435,7 +1437,7 @@
       "08:15",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "s. 220, bud. 6",
@@ -1495,7 +1497,7 @@
       "10:00",
       "13:15"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "W",
      "p": "dr hab. Bartosz Wójcik, prof. US",
      "r": "e-zajęcia",
@@ -1510,7 +1512,7 @@
       "11:45",
       "15:00"
      ],
-     "pl": "historia i kultura niemieckiego obszaru językowego",
+     "pl": "Historia i kultura niemieckiego obszaru językowego",
      "k": "CW",
      "p": "dr Aleksander Jakovljević",
      "r": "e-zajęcia",
@@ -1525,7 +1527,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "s. 220, bud. 6",
@@ -1539,7 +1541,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "ochrona własności intelektualnej",
+     "pl": "Ochrona własności intelektualnej",
      "k": "X",
      "p": "dr Marcin Stępień",
      "r": "s. 17-19 , bud. 4",
@@ -1554,7 +1556,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "praktyczna nauka języka angielskiego – kurs podstawowy",
+     "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "k": "LAB",
      "p": "mgr Natalia Pieczyńska",
      "r": "e-zajęcia",
@@ -1568,7 +1570,7 @@
       "17:00",
       "17:45"
      ],
-     "pl": "ochrona własności intelektualnej– zaliczenie",
+     "pl": "Ochrona własności intelektualnej– zaliczenie",
      "k": "W",
      "p": "dr Marcin Stępień",
      "r": "s. 17-19 , bud. 4",

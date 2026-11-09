@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "FROS3": {
    "odd": [
@@ -23,7 +23,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "ćwiczenia konwersacyjne 60 lab bud.",
+     "pl": "Ćwiczenia konwersacyjne 60 lab bud.",
      "k": "CW",
      "p": "dr A. Krzanowska, prof. US",
      "r": "gab. 04",
@@ -35,7 +35,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "praktyczna nauka języka-zintegrowane sprawności językowe: j. włoski +Fgdjo j.hiszpański +FroszDJo+Fgzdjo",
+     "pl": "Praktyczna nauka języka-zintegrowane sprawności językowe: j. włoski +Fgdjo j.hiszpański +FroszDJo+Fgzdjo",
      "k": "LAB",
      "p": "mgr P. Przydatek Froszdjo, mgr A. Skalska Frzjodw",
      "r": "s. 15, WH bud.4, s. 118, WH bud.4",
@@ -47,7 +47,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "ćwiczenia konwersacyjne 60 lab bud.",
+     "pl": "Ćwiczenia konwersacyjne 60 lab bud.",
      "k": "CW",
      "p": "dr A. Krzanowska, prof. US",
      "r": "gab. 04",
@@ -59,7 +59,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "gramatyka praktyczna 60 lab bud.",
+     "pl": "Gramatyka praktyczna 60 lab bud.",
      "k": "LAB",
      "p": "dr D. Dziadosz",
      "r": "gab. 04",
@@ -71,7 +71,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "gramatyka konfrontatywna rosyjsko-polska",
+     "pl": "Gramatyka konfrontatywna rosyjsko-polska",
      "k": "W",
      "p": "dr A. Krzanowska",
      "r": "s. 116, WH bud. 4"
@@ -82,7 +82,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "do wyboru – komunikacja międzyludzka a różnice kulturowe g. 04 bud.",
+     "pl": "Do wyboru – komunikacja międzyludzka a różnice kulturowe g. 04 bud.",
      "k": "W",
      "p": "dr K. Kondzioła-Pich"
     },
@@ -92,7 +92,7 @@
       "12:00",
       "13:30"
      ],
-     "pl": "szkolenie z obrony cywilnej",
+     "pl": "Szkolenie z obrony cywilnej",
      "k": "X",
      "r": "Aula WNS na ul. Krakowskiej",
      "pg": "gr:1",
@@ -106,7 +106,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "historia literatury rosyjskiej",
+     "pl": "Historia literatury rosyjskiej",
      "k": "W",
      "p": "dr M. Pieczyński",
      "r": "s. 116 WH bud. 4"
@@ -117,7 +117,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia literatury rosyjskiej 30",
+     "pl": "Historia literatury rosyjskiej 30",
      "k": "X",
      "p": "dr M. Pieczyński",
      "r": "s. 116 WH bud. 4",
@@ -129,8 +129,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "dziedzinowy z nauk społecznych online",
-     "k": "W"
+     "pl": "Dziedzinowy z nauk społecznych online",
+     "k": "W",
+     "r": "online"
     }
    ],
    "even": [
@@ -140,7 +141,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "ćwiczenia konwersacyjne 60 lab bud.",
+     "pl": "Ćwiczenia konwersacyjne 60 lab bud.",
      "k": "CW",
      "p": "dr A. Krzanowska, prof. US",
      "r": "gab. 04",
@@ -152,7 +153,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "praktyczna nauka języka-zintegrowane sprawności językowe: j. włoski +Fgdjo j.hiszpański +FroszDJo+Fgzdjo",
+     "pl": "Praktyczna nauka języka-zintegrowane sprawności językowe: j. włoski +Fgdjo j.hiszpański +FroszDJo+Fgzdjo",
      "k": "LAB",
      "p": "mgr P. Przydatek Froszdjo, mgr A. Skalska Frzjodw",
      "r": "s. 15, WH bud.4, s. 118, WH bud.4",
@@ -164,7 +165,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "ćwiczenia konwersacyjne 60 lab bud.",
+     "pl": "Ćwiczenia konwersacyjne 60 lab bud.",
      "k": "CW",
      "p": "dr A. Krzanowska, prof. US",
      "r": "gab. 04",
@@ -176,7 +177,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "gramatyka praktyczna 60 lab bud.",
+     "pl": "Gramatyka praktyczna 60 lab bud.",
      "k": "LAB",
      "p": "dr D. Dziadosz",
      "r": "gab. 04",
@@ -188,7 +189,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "gramatyka konfrontatywna rosyjsko-polska",
+     "pl": "Gramatyka konfrontatywna rosyjsko-polska",
      "k": "W",
      "p": "dr A. Krzanowska",
      "r": "s. 116, WH bud. 4"
@@ -199,7 +200,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "do wyboru – komunikacja międzyludzka a różnice kulturowe g. 04 bud.",
+     "pl": "Do wyboru – komunikacja międzyludzka a różnice kulturowe g. 04 bud.",
      "k": "W",
      "p": "dr K. Kondzioła-Pich"
     },
@@ -209,7 +210,7 @@
       "12:00",
       "13:30"
      ],
-     "pl": "szkolenie z obrony cywilnej",
+     "pl": "Szkolenie z obrony cywilnej",
      "k": "X",
      "r": "Aula WNS na ul. Krakowskiej",
      "pg": "gr:1",
@@ -223,7 +224,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "historia literatury rosyjskiej",
+     "pl": "Historia literatury rosyjskiej",
      "k": "W",
      "p": "dr M. Pieczyński",
      "r": "s. 116 WH bud. 4"
@@ -234,7 +235,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "historia literatury rosyjskiej 30",
+     "pl": "Historia literatury rosyjskiej 30",
      "k": "X",
      "p": "dr M. Pieczyński",
      "r": "s. 116 WH bud. 4",
@@ -246,8 +247,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "dziedzinowy z nauk społecznych online",
-     "k": "W"
+     "pl": "Dziedzinowy z nauk społecznych online",
+     "k": "W",
+     "r": "online"
     }
    ]
   }

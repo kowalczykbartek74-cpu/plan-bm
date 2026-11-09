@@ -1,0 +1,481 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/SOC-2-32.pdf",
+ "wersja": "SOC-2-32.pdf",
+ "sha256": "2a659abd4112ce4703b102bafa7e2cbac031e61b014a6abb952283915431e905",
+ "kierunek": "Socjologia",
+ "kierunekEn": "Sociology",
+ "id": "wns-soc-1-st-2025",
+ "kod": "soc25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "SOC2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Socjologia kultury",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. O. Kozlova",
+     "r": "s. 247"
+    },
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr A. Hancewicz",
+     "r": "s. 106"
+    },
+    {
+     "d": 0,
+     "pl": "Problemy społeczne i ich diagnozowanie",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "prof. U. Kozłowska",
+     "r": "s. 100",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "n": "według harmonogramu na stronie wydziału; Szczegóły dotyczące zajęć do wyboru i zapisów na stronie"
+    },
+    {
+     "d": 1,
+     "pl": "Techniki badań marketingowych i ewaluacyjnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr O. Łozińska",
+     "r": "s. 247",
+     "n": "25XI w godz. 8.15-9.00",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Statystyka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Terelak",
+     "r": "s. ICKiBS 117/120"
+    },
+    {
+     "d": 1,
+     "pl": "Badania terenowe",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr S. Kołodziejczak",
+     "r": "s. ICKiBS 117/120",
+     "n": "24 XI w godz. 11.45-12.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Socjologia regionu",
+     "k": "K",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. K. Izdebska",
+     "r": "s. 247"
+    },
+    {
+     "d": 2,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Terelak",
+     "r": "s. ICKiBS 117/120"
+    },
+    {
+     "d": 2,
+     "pl": "Metody badań społecznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr W Durka",
+     "r": "s. 247"
+    },
+    {
+     "d": 2,
+     "pl": "Badania sondażowe w praktyce",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr S. Kołodziejczak",
+     "r": "s. ICKiBS 117/120"
+    },
+    {
+     "d": 3,
+     "pl": "Problemy społeczne i ich diagnozowanie",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr C. Szczepaniak",
+     "r": "s. 100",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Logika doboru próby",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr P. Walkowiak",
+     "r": "s. 100",
+     "n": "26XI w godz. 13.30-14.15",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału"
+    },
+    {
+     "d": 4,
+     "pl": "Techniki tworzenia i prowadzenia warsztatów badawczych oraz szkoleniowych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "dr S. Kołodziejczak",
+     "r": "s. ICKiBS 117/120",
+     "dates": [
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Socjologia kultury",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. O. Kozlova",
+     "r": "s. 247"
+    },
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr A. Hancewicz",
+     "r": "s. 106"
+    },
+    {
+     "d": 0,
+     "pl": "Problemy społeczne i ich diagnozowanie",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "prof. U. Kozłowska",
+     "r": "s. 100",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "n": "według harmonogramu na stronie wydziału; Szczegóły dotyczące zajęć do wyboru i zapisów na stronie"
+    },
+    {
+     "d": 1,
+     "pl": "Techniki badań marketingowych i ewaluacyjnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr O. Łozińska",
+     "r": "s. 247",
+     "n": "25XI w godz. 8.15-9.00",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Statystyka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Terelak",
+     "r": "s. ICKiBS 117/120"
+    },
+    {
+     "d": 1,
+     "pl": "Badania terenowe",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr S. Kołodziejczak",
+     "r": "s. ICKiBS 117/120",
+     "n": "24 XI w godz. 11.45-12.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Socjologia regionu",
+     "k": "K",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. K. Izdebska",
+     "r": "s. 247"
+    },
+    {
+     "d": 2,
+     "pl": "Statystyka",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Terelak",
+     "r": "s. ICKiBS 117/120"
+    },
+    {
+     "d": 2,
+     "pl": "Metody badań społecznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr W Durka",
+     "r": "s. 247"
+    },
+    {
+     "d": 2,
+     "pl": "Badania sondażowe w praktyce",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr S. Kołodziejczak",
+     "r": "s. ICKiBS 117/120"
+    },
+    {
+     "d": 3,
+     "pl": "Problemy społeczne i ich diagnozowanie",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr C. Szczepaniak",
+     "r": "s. 100",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Logika doboru próby",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr P. Walkowiak",
+     "r": "s. 100",
+     "n": "26XI w godz. 13.30-14.15",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału"
+    },
+    {
+     "d": 4,
+     "pl": "Techniki tworzenia i prowadzenia warsztatów badawczych oraz szkoleniowych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "dr S. Kołodziejczak",
+     "r": "s. ICKiBS 117/120",
+     "dates": [
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08"
+     ]
+    }
+   ]
+  }
+ }
+}

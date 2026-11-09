@@ -1,0 +1,303 @@
+{
+ "source": "https://teo.usz.edu.pl/wp-content/uploads/Plan-TEO-2026-27a.pdf",
+ "wersja": "Plan-TEO-2026-27a.pdf (aktualizacja 22.09.2026)",
+ "sha256": "7ad2606fbd54b80d80d1ec450b4e43535b427027938997d671422ff6fb47b854",
+ "kierunek": "Teologia",
+ "kierunekEn": "Theology",
+ "id": "wt-teo-0-st-2022",
+ "kod": "teoj22",
+ "wydzial": "WT",
+ "rok": 5,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:39:50.382Z",
+ "checkedAt": "2026-11-09T22:52:36.003Z",
+ "groups": {
+  "TEO5": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Egzegeza NT: pisma Janowe",
+     "k": "CW",
+     "p": "Dr hab. Piotr Goniszewski",
+     "r": "s. 204"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Dydaktyka katechezy szkół ponadpodstawowych",
+     "k": "CW",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 204"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo kanoniczne: małżeńskie",
+     "k": "X",
+     "p": "Ks. dr hab. Kazimierz Dullak",
+     "r": "s. 305"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Dydaktyka katechezy szkół ponadpodstawowych",
+     "k": "W",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Egzegeza NT: pisma Janowe",
+     "k": "W",
+     "p": "Dr hab. Piotr Goniszewski",
+     "r": "s. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Psychologiczne aspekty praktyki zawodowej",
+     "k": "X",
+     "p": "Ks. dr hab. Sławomir Bukalski",
+     "r": "s. 303"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Egzegeza ST: księgi mądrościowe",
+     "k": "X",
+     "p": "Ks. dr hab. Cezary Korzec",
+     "r": "s. 204"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Teol. dogmatyczna: eklezjologia, mariologia",
+     "k": "CW",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Teol. dogmatyczna: eklezjologia, mariologia",
+     "k": "W",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 204"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Teologia moralna: życie osobowe chrześcijanina",
+     "k": "X",
+     "p": "Ks. dr Piotr Skiba",
+     "r": "s. 204",
+     "dates": [
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Teologia przepowiadania",
+     "k": "X",
+     "p": "Ks. dr hab. Andrzej Draguła",
+     "r": "s. 204",
+     "n": "8 X i 14 I – 3 godz., 29 X, 26 XI, 17 XII, 21 I – 2 godz.",
+     "dates": [
+      "2026-10-08",
+      "2026-10-29",
+      "2026-11-26",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Egzegeza NT: pisma Janowe",
+     "k": "CW",
+     "p": "Dr hab. Piotr Goniszewski",
+     "r": "s. 204"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Dydaktyka katechezy szkół ponadpodstawowych",
+     "k": "CW",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 204"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo kanoniczne: małżeńskie",
+     "k": "X",
+     "p": "Ks. dr hab. Kazimierz Dullak",
+     "r": "s. 305"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Dydaktyka katechezy szkół ponadpodstawowych",
+     "k": "W",
+     "p": "Dr Katarzyna Lemek-Kuliś",
+     "r": "s. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Egzegeza NT: pisma Janowe",
+     "k": "W",
+     "p": "Dr hab. Piotr Goniszewski",
+     "r": "s. 204"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Psychologiczne aspekty praktyki zawodowej",
+     "k": "X",
+     "p": "Ks. dr hab. Sławomir Bukalski",
+     "r": "s. 303"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Egzegeza ST: księgi mądrościowe",
+     "k": "X",
+     "p": "Ks. dr hab. Cezary Korzec",
+     "r": "s. 204"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Teol. dogmatyczna: eklezjologia, mariologia",
+     "k": "CW",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 305"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Teol. dogmatyczna: eklezjologia, mariologia",
+     "k": "W",
+     "p": "Dr Aneta Krupka",
+     "r": "s. 204"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Teologia moralna: życie osobowe chrześcijanina",
+     "k": "X",
+     "p": "Ks. dr Piotr Skiba",
+     "r": "s. 204",
+     "dates": [
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "Teologia przepowiadania",
+     "k": "X",
+     "p": "Ks. dr hab. Andrzej Draguła",
+     "r": "s. 204",
+     "n": "8 X i 14 I – 3 godz., 29 X, 26 XI, 17 XII, 21 I – 2 godz.",
+     "dates": [
+      "2026-10-08",
+      "2026-10-29",
+      "2026-11-26",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    }
+   ]
+  }
+ }
+}

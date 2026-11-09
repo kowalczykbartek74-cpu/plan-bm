@@ -1,0 +1,533 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/II-SSA-I-st.-11.pdf",
+ "wersja": "II-SSA-I-st.-11.pdf",
+ "sha256": "9abe65c2f6d5b32b10e87101ac66f735ec1686bd8a99e8fb2d0ebb01029cc6dc",
+ "kierunek": "Administracja",
+ "kierunekEn": "Administration",
+ "id": "wpia-adm-1-st-2025",
+ "kod": "adm25",
+ "wydzial": "WPiA",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T22:54:22.756Z",
+ "groups": {
+  "ADM2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "K",
+     "p": "dr K. Słotwińska",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "dr P. Wahl, prof. US",
+     "r": "s. 9"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 107"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:30",
+      "12:00"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 12.I trwają 1 godz. w godzinach 10.30 - 11.15; UWAGA! dn. 15.XII zajęcia odbywają się w sali 118 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 25.XI trwają 2 godz. w godzinach 9.15 - 10.45; UWAGA! Dn. 4.XI zajęcia wyjątkowo w sali 121 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "CW",
+     "p": "mgr W. Brewka",
+     "r": "s. 201 Narutowicza",
+     "n": "UWAGA! Dn. 4.XI zajęcia wyjątkowo w sali 121 Narutowicza"
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:45",
+      "14:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 201 Narutowicza",
+     "n": "UWAGA! Dn. 4.XI zajęcia wyjątkowo w sali 121 Narutowicza"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "szczegóły: https://swfis.usz.edu.pl/"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "W",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 219 Narutowicza"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "W",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 219 Narutowicza",
+     "n": "UWAGA! W dn. 3.XII w godz. 12.00 - 13.30 odbędzie się szkolenie z obrony cywilnej (aula Wydziału Nauk Społecznych, ul. Krakowska 71-79)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 14.I trwają 3 godz. w godzinach 13.30 - 16.00; UWAGA! wykład w dn. 3.XII odbędzie się wyjątkowo w godzinach 14.15 - 15.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-19",
+      "2026-12-17",
+      "2027-01-07"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany )",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Projektowanie prospołeczne",
+     "k": "K",
+     "p": "dr K. Słotwińska",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "W",
+     "p": "dr hab. A. Monarcha-Matlak, prof. US",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "dr P. Wahl, prof. US",
+     "r": "s. 9"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 107"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:30",
+      "12:00"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "CW",
+     "p": "mgr Z. Niedźwiecka",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 12.I trwają 1 godz. w godzinach 10.30 - 11.15; UWAGA! dn. 15.XII zajęcia odbywają się w sali 118 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-24",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "W",
+     "p": "dr S. Słotwiński",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 25.XI trwają 2 godz. w godzinach 9.15 - 10.45; UWAGA! Dn. 4.XI zajęcia wyjątkowo w sali 121 Narutowicza",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo administracyjne ogólne",
+     "k": "CW",
+     "p": "mgr W. Brewka",
+     "r": "s. 201 Narutowicza",
+     "n": "UWAGA! Dn. 4.XI zajęcia wyjątkowo w sali 121 Narutowicza"
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:45",
+      "14:15"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 201 Narutowicza",
+     "n": "UWAGA! Dn. 4.XI zajęcia wyjątkowo w sali 121 Narutowicza"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "szczegóły: https://swfis.usz.edu.pl/"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Organizacja ochrony środowiska",
+     "k": "W",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 219 Narutowicza"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Doktryny polityczne i prawne",
+     "k": "W",
+     "p": "dr hab. M. Tkaczuk, prof. US",
+     "r": "s. 219 Narutowicza",
+     "n": "UWAGA! W dn. 3.XII w godz. 12.00 - 13.30 odbędzie się szkolenie z obrony cywilnej (aula Wydziału Nauk Społecznych, ul. Krakowska 71-79)"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Instytucje i źródła prawa Unii Europejskiej",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 14.I trwają 3 godz. w godzinach 13.30 - 16.00; UWAGA! wykład w dn. 3.XII odbędzie się wyjątkowo w godzinach 14.15 - 15.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Finanse publiczne i prawo finansowe",
+     "k": "CW",
+     "p": "mgr D. Trzeszczoń",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Wprowadzenie do prawa gospodarczego publicznego",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 201 Narutowicza",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-19",
+      "2026-12-17",
+      "2027-01-07"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany )",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    }
+   ]
+  }
+ }
+}

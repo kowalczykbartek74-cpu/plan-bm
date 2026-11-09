@@ -8,6 +8,7 @@
 //     (token z sekretu PLAN_IMPORT_TOKEN w GitHub Actions; bez tokenu szkic zostaje tylko w .cache/us/szkice/)
 //   nauka_import_plan_publiczny(p_rocznik) – zatwierdzony plan {ok, id, sha, source, groups} (z v40, w v50 także sha)
 // Pozycja szkicu = format panelu (importy.js → doPlanu): {grupa, tydzien, d, od, do, pl, en, k, p, r, g, n} + daty, pg (v50).
+import { porzadkujGroups } from "./porzadki.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import https from "node:https";
@@ -65,7 +66,8 @@ export function zZatwierdzonego(groups) {
 // Decyzja dla jednego rocznika z PDF: { status, groups? (gdy wolno zapisać), szkic? }
 //   zatwierdzony plan tej samej wersji pliku → zapis (ok / bez zmian)
 //   brak zatwierdzonego albo inna wersja → szkic do kolejki, na stronie zostaje poprzedni zatwierdzony plan (o ile był)
-export async function przezKolejke(r, { wydzial, token = process.env.PLAN_IMPORT_TOKEN || "", naSucho = false, katalog = ".cache/us/szkice", fetchFn = null, log = () => {} } = {}) {
+export async function przezKolejke(r, { wydzial, token = process.env.PLAN_IMPORT_TOKEN || "", naSucho = false, katalog = ".cache/us/szkice", fetchFn = null, odRazu = null, log = () => {} } = {}) {
+  r = { ...r, groups: porzadkujGroups(r.groups) };   // te same porządki nazw co przy zapisie planu
   let zatw = null;
   try { zatw = await rpc("nauka_import_plan_publiczny", { p_rocznik: r.id }, { fetchFn }); } catch (e) { log(`kolejka: baza nie odpowiada (${e.message})`); }
   if (zatw?.ok && zatw.sha && zatw.sha === r.sha256) return { status: "zatwierdzony", groups: zZatwierdzonego(zatw.groups), zatwierdzony: zatw.zatwierdzony_at };
@@ -86,5 +88,17 @@ export async function przezKolejke(r, { wydzial, token = process.env.PLAN_IMPORT
       wyslany = !!w?.ok; if (!w?.ok) blad = w?.code || "odmowa bazy";
     } catch (e) { blad = e.message; }
   }
-  return { status: "czeka na zatwierdzenie", pozycji: pozycje.length, doDecyzji: zmian, wyslany, blad, poprzedni: zatw?.ok ? zZatwierdzonego(zatw.groups) : null };
+  const kolejka = { pozycji: pozycje.length, doDecyzji: zmian, wyslany, blad };
+  // decyzja Bartka 9.11.2026: wydziały z „publikacja”: „od razu” (config/wydzialy-us.json) – plan z parsera idzie na stronę od razu,
+  // szkic i tak trafia do panelu (poprawki z panelu wygrywają: zatwierdzony plan tego samego pliku zwraca linia wyżej)
+  if (odRazu ?? publikujOdRazu(wydzial)) return { status: "zatwierdzony", groups: r.groups, odRazu: true, ...kolejka };
+  return { status: "czeka na zatwierdzenie", ...kolejka, poprzedni: zatw?.ok ? zZatwierdzonego(zatw.groups) : null };
+}
+
+const bezZnakow = (s) => String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ł/g, "l").replace(/Ł/g, "L").toLowerCase();
+let WYDZIALY = null;
+export function publikujOdRazu(wydzial, { plik = "config/wydzialy-us.json" } = {}) {
+  if (!WYDZIALY) { try { WYDZIALY = JSON.parse(fs.readFileSync(plik, "utf8")).wydzialy || []; } catch { WYDZIALY = []; } }
+  const w = WYDZIALY.find((x) => [x.skrot, x.kod].some((k) => bezZnakow(k) === bezZnakow(wydzial)));
+  return w?.publikacja === "od razu";
 }

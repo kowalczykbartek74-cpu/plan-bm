@@ -1,0 +1,529 @@
+{
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/geologia_2-rok-II-st.-akt.-07.10.pdf",
+ "wersja": "2026-10-07",
+ "sha256": "2ff2bc2b7911a561ad2c7d1c44a6d62cd31ffd5409fb8c4f7e257655098c6455",
+ "kierunek": "Geologia",
+ "kierunekEn": "Geology",
+ "id": "wnsip-geol-2-st-2025",
+ "kod": "geolm25",
+ "wydzial": "WNŚiP",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:37:44.669Z",
+ "checkedAt": "2026-11-09T22:50:40.599Z",
+ "groups": {
+  "GEOL2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Analiza facjalna i stratygrafia sekwencyjna",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "11:15"
+     ],
+     "p": "mgr Z. Stachowska",
+     "r": "s. 213",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Poszukiwanie i dokumentowanie złóż czwartorzędu",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "14:45"
+     ],
+     "p": "dr Artur Skowronek",
+     "r": "s. 218",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Warsztaty diatomologiczne",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "dr P. Dąbek",
+     "r": "s. 209",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Seminarium magisterskie Pracownia magisterska terminy do indywidualnego uzgodnienia z promotorem",
+     "k": "S",
+     "time": [
+      "16:05",
+      "19:30"
+     ],
+     "p": "prof. US M. Bąk, prof. US J. Dudzińska-Nowak, prof. PIG-PIB A. Hryniowiecka, prof. R. Borówka, prof. US J. Witkowski, prof. US D. Okupny, dr A. Skowronek"
+    },
+    {
+     "d": 1,
+     "pl": "Współczesne problemy geologii",
+     "k": "W",
+     "time": [
+      "09:05",
+      "11:20"
+     ],
+     "p": "dr Agnieszka Skowronek",
+     "r": "s. 30A",
+     "dates": [
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Warsztaty palinologiczne",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "prof. US M. Puc",
+     "r": "s. 005F",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Poszukiwanie i dokumentowanie złóż czwartorzędu",
+     "k": "K",
+     "time": [
+      "14:20",
+      "16:35"
+     ],
+     "p": "dr Artur Skowronek",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztaty dendrochronologiczne",
+     "k": "LAB",
+     "time": [
+      "10:50",
+      "13:05"
+     ],
+     "p": "prof. A. Cedro",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Petrologia skał osadowych",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:00"
+     ],
+     "p": "prof. US B. Cedro",
+     "r": "s. 209",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "n": "22.10. godz. 12:00 szkolenie z obrony cywilnej Aula I p. ul. Wielkopolska 15"
+    },
+    {
+     "d": 3,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr I. Niedzielska",
+     "r": "s. 203W",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Język hiszpański",
+     "k": "LAB",
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "p": "mgr A. Jakóbiak",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Analiza facjalna i stratygrafia sekwencyjna",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "11:15"
+     ],
+     "p": "mgr Z. Stachowska",
+     "r": "s. 213",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Poszukiwanie i dokumentowanie złóż czwartorzędu",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "14:45"
+     ],
+     "p": "dr Artur Skowronek",
+     "r": "s. 218",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Warsztaty diatomologiczne",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "dr P. Dąbek",
+     "r": "s. 209",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Seminarium magisterskie Pracownia magisterska terminy do indywidualnego uzgodnienia z promotorem",
+     "k": "S",
+     "time": [
+      "16:05",
+      "19:30"
+     ],
+     "p": "prof. US M. Bąk, prof. US J. Dudzińska-Nowak, prof. PIG-PIB A. Hryniowiecka, prof. R. Borówka, prof. US J. Witkowski, prof. US D. Okupny, dr A. Skowronek"
+    },
+    {
+     "d": 1,
+     "pl": "Współczesne problemy geologii",
+     "k": "W",
+     "time": [
+      "09:05",
+      "11:20"
+     ],
+     "p": "dr Agnieszka Skowronek",
+     "r": "s. 30A",
+     "dates": [
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Warsztaty palinologiczne",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "prof. US M. Puc",
+     "r": "s. 005F",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Poszukiwanie i dokumentowanie złóż czwartorzędu",
+     "k": "K",
+     "time": [
+      "14:20",
+      "16:35"
+     ],
+     "p": "dr Artur Skowronek",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztaty dendrochronologiczne",
+     "k": "LAB",
+     "time": [
+      "10:50",
+      "13:05"
+     ],
+     "p": "prof. A. Cedro",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Petrologia skał osadowych",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:00"
+     ],
+     "p": "prof. US B. Cedro",
+     "r": "s. 209",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "n": "22.10. godz. 12:00 szkolenie z obrony cywilnej Aula I p. ul. Wielkopolska 15"
+    },
+    {
+     "d": 3,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr I. Niedzielska",
+     "r": "s. 203W",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Język hiszpański",
+     "k": "LAB",
+     "time": [
+      "13:45",
+      "15:15"
+     ],
+     "p": "mgr A. Jakóbiak",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    }
+   ]
+  }
+ }
+}

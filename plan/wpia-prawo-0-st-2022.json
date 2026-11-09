@@ -1,0 +1,737 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/V-SSP-10.pdf",
+ "wersja": "V-SSP-10.pdf",
+ "sha256": "1986cbcabbaf923e09b45ee59454a2286b046ad3f8976ae5b0bb28deec3c08d0",
+ "kierunek": "Prawo",
+ "kierunekEn": "Law",
+ "id": "wpia-prawo-0-st-2022",
+ "kod": "prawoj22",
+ "wydzial": "WPiA",
+ "rok": 5,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PRAWO5": {
+   "odd": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia w dn. 19.I i 26.I odbędą się w godz; UWAGA! z wyłączeniem terminów 6.X, 20.X, 3.XI  inach 8.15 - 11.30 oraz 22.I [piątek] w godz. 8.15 - 9.45, s. 7-9 al. Piastów 40b"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Suicydologia - KDW III",
+     "k": "K",
+     "p": "mgr P. Waszkiewicz, dr M. Białkowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-12-08",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "17:00"
+     ],
+     "pl": "Nowelizacja prawa karnego - KDW IV",
+     "k": "K",
+     "p": "mgr N. Michalska",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-12-08",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "17:00"
+     ],
+     "pl": "Prawo wyborcze - KDW IV",
+     "k": "K",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-12-08",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "K",
+     "p": "dr M. Jasińska",
+     "r": "s. 219 Narutowicza",
+     "n": "zajęcia dn. 4.XI trwają 3 godz. w godzinach 9.00 - 11.30",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 219 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 219 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:6",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Przestępstwa przeciwko życiu i zdrowiu - WMDW V",
+     "k": "W",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 219 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 2 godz. w godzinach 15.15 - 16.45",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "WMDW V",
+     "k": "W",
+     "p": "dr M. Wojdała",
+     "r": "s. 215 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 2 godz. w godzinach 15.15 - 16.45",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie dowodowe w procesie karnym - WMDW V",
+     "k": "W",
+     "p": "prof. dr hab. H. Paluszkiewicz",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:4",
+     "dates": [
+      "2026-10-15",
+      "2026-10-23",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:1",
+     "dates": [
+      "2026-10-15",
+      "2026-10-23",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 217 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:5",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 217 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:3",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Prawo upadłościowe i restrukturyzacyjne - KDW V",
+     "k": "K",
+     "p": "mgr P. Michalik",
+     "r": "s. 217 Narutowicza",
+     "dates": [
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Wina w polskim prawie karnym - KDW V",
+     "k": "K",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Filozofia prawa",
+     "k": "W",
+     "p": "dr hab. O. Bogucki, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia w dn. 19.I i 26.I odbędą się w godz; UWAGA! z wyłączeniem terminów 6.X, 20.X, 3.XI  inach 8.15 - 11.30 oraz 22.I [piątek] w godz. 8.15 - 9.45, s. 7-9 al. Piastów 40b"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Suicydologia - KDW III",
+     "k": "K",
+     "p": "mgr P. Waszkiewicz, dr M. Białkowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-12-08",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "17:00"
+     ],
+     "pl": "Nowelizacja prawa karnego - KDW IV",
+     "k": "K",
+     "p": "mgr N. Michalska",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-12-08",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "17:00"
+     ],
+     "pl": "Prawo wyborcze - KDW IV",
+     "k": "K",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 222 Narutowicza",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-10",
+      "2026-12-08",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie dyscyplinarne - KDW IV",
+     "k": "K",
+     "p": "dr M. Jasińska",
+     "r": "s. 219 Narutowicza",
+     "n": "zajęcia dn. 4.XI trwają 3 godz. w godzinach 9.00 - 11.30",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 219 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:2",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 219 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:6",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Przestępstwa przeciwko życiu i zdrowiu - WMDW V",
+     "k": "W",
+     "p": "dr hab. M. Nawrocki, prof. US",
+     "r": "s. 219 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 2 godz. w godzinach 15.15 - 16.45",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "WMDW V",
+     "k": "W",
+     "p": "dr M. Wojdała",
+     "r": "s. 215 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 2 godz. w godzinach 15.15 - 16.45",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie dowodowe w procesie karnym - WMDW V",
+     "k": "W",
+     "p": "prof. dr hab. H. Paluszkiewicz",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:4",
+     "dates": [
+      "2026-10-15",
+      "2026-10-23",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 120 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:1",
+     "dates": [
+      "2026-10-15",
+      "2026-10-23",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 217 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:5",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Zasady techniki normotwórczej",
+     "k": "CW",
+     "p": "mgr J. Gryko",
+     "r": "s. 217 Narutowicza",
+     "pg": "Zasady techniki normotwórczej:3",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Prawo upadłościowe i restrukturyzacyjne - KDW V",
+     "k": "K",
+     "p": "mgr P. Michalik",
+     "r": "s. 217 Narutowicza",
+     "dates": [
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "pl": "Wina w polskim prawie karnym - KDW V",
+     "k": "K",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    }
+   ]
+  }
+ }
+}

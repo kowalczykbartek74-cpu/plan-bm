@@ -1,0 +1,1289 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (16 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Bezpieczeństwo narodowe",
+ "kierunekEn": "National Security",
+ "id": "wns-bn-1-nst-2026",
+ "kod": "bnn26",
+ "wydzial": "WNS",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "BN1": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Geografia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zaetx3h",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Historia najnowsza",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t0qt20o",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Geografia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zaetx3h",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Geografia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zaetx3h",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Historia najnowsza",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t0qt20o",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Protokół dyplomatyczny",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: gkki2gz",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teorie bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teorie bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "prof. I. Ramik-Mażewska",
+     "r": "s. 152",
+     "n": "9.00-9.30 - spotkanie z Dziekanem WNS prof. I. Ramik-Mażewska s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr M. Mieczkowska",
+     "n": "9.30-10.00 - spotkanie z opiekunem roku dr M. Mieczkowska s 257",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teorie bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia niemilitarne",
+     "k": "W",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 114",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr P. Władzimiruk",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ekonomia",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr L. Kłos",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia niemilitarne",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy wyszkolenia strzeleckiego",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia niemilitarne",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "mgr P. Władzimiruk",
+     "r": "s. 144",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Protokół dyplomatyczny",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: gkki2gz",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3j42ocg",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy wyszkolenia strzeleckiego",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ekonomia",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr L. Kłos",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Geografia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zaetx3h",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "mgr P. Władzimiruk",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ekonomia",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr L. Kłos",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Geografia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zaetx3h",
+     "dates": [
+      "2026-11-27",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Historia najnowsza",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t0qt20o",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Geografia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zaetx3h",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Geografia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zaetx3h",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Historia najnowsza",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t0qt20o",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Protokół dyplomatyczny",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: gkki2gz",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teorie bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teorie bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "prof. I. Ramik-Mażewska",
+     "r": "s. 152",
+     "n": "9.00-9.30 - spotkanie z Dziekanem WNS prof. I. Ramik-Mażewska s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr M. Mieczkowska",
+     "n": "9.30-10.00 - spotkanie z opiekunem roku dr M. Mieczkowska s 257",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teorie bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia niemilitarne",
+     "k": "W",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 114",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr P. Władzimiruk",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ekonomia",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr L. Kłos",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 153",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia niemilitarne",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy wyszkolenia strzeleckiego",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia niemilitarne",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "mgr P. Władzimiruk",
+     "r": "s. 144",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Protokół dyplomatyczny",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: gkki2gz",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3j42ocg",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy wyszkolenia strzeleckiego",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ekonomia",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr L. Kłos",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Geografia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr M. Sikora",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zaetx3h",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "mgr P. Władzimiruk",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ekonomia",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr L. Kłos",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne konflikty i wojny",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ }
+}

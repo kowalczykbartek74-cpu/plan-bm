@@ -146,7 +146,8 @@ export function zrodlaWT(html, tryb, base) {
 
 // ---------- WKFiZ: aplikacja, dane z api/get_schedule.php (stacjonarne) i api/get_html_plans.php (lista grup niestacjonarnych) ----------
 // Grupa w aplikacji = „<skrót> <rok> rok <I|II> stopień”, np. „MwS 2 rok I stopień”.
-export const grupaWKFiZ = (g) => { const m = /^(\S+)\s+(\d)\s+rok\s+(I|II)\s+stopień$/i.exec(String(g).trim()); return m ? { skrot: m[1], rok: +m[2], stopien: m[3].toUpperCase() === "II" ? 2 : 1 } : null; };
+// „ERASMUS +” = zajęcia dla studentów z wymiany (1 semestr, plan w aplikacji jak 1. rok) → osobny „kierunek” ERAS
+export const grupaWKFiZ = (g) => { if (/^ERASMUS\s*\+?$/i.test(String(g).trim())) return { skrot: "ERASMUS", rok: 1, stopien: 1 }; const m = /^(\S+)\s+(\d)\s+rok\s+(I|II)\s+stopień$/i.exec(String(g).trim()); return m ? { skrot: m[1], rok: +m[2], stopien: m[3].toUpperCase() === "II" ? 2 : 1 } : null; };
 export function zrodlaWKFiZ(st, nst, urlSt, urlNst) {
   const out = [], niejasne = [];
   const licz = {};

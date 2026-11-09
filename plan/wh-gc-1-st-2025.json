@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:35:19.164Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "GC2": {
    "odd": [
@@ -106,7 +106,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminar Research Workshop",
+     "pl": "Seminar Research Workshop",
      "k": "S",
      "p": "dr Ewa Glapka",
      "r": "room 113 WH",
@@ -118,7 +118,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminar Research Workshop",
+     "pl": "Seminar Research Workshop",
      "k": "S",
      "p": "dr Ewa Glapka",
      "r": "room 113 WH",
@@ -166,7 +166,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminar (k 20 hr) Discourse and society",
+     "pl": "Seminar (k 20 hr) Discourse and society",
      "k": "S",
      "p": "dr Małgorzata Sokół",
      "r": "room 301 WH",
@@ -178,7 +178,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminar (k 30 hr) Language of Cultural Studies",
+     "pl": "Seminar (k 30 hr) Language of Cultural Studies",
      "k": "S",
      "p": "dr Andrew Tomlinson",
      "r": "room 217 WH",
@@ -190,7 +190,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminar (k 30 hr) Language of Science and Technology",
+     "pl": "Seminar (k 30 hr) Language of Science and Technology",
      "k": "S",
      "p": "mgr Paweł Tuz",
      "r": "room 16 WH",
@@ -202,7 +202,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminar (k 20 hr) Discourse and society",
+     "pl": "Seminar (k 20 hr) Discourse and society",
      "k": "S",
      "p": "dr Małgorzata Sokół",
      "r": "room 301 WH",
@@ -226,7 +226,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminar (k 30 hr) Language of Digital Media",
+     "pl": "Seminar (k 30 hr) Language of Digital Media",
      "k": "S",
      "p": "dr Małgorzata Sokół",
      "r": "room 301 WH",
@@ -238,7 +238,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminar Business English",
+     "pl": "Seminar Business English",
      "k": "S",
      "p": "mgr Paweł Tuz",
      "r": "room 304 WH",
@@ -250,7 +250,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminar (k 30 hr) Language of Digital Media",
+     "pl": "Seminar (k 30 hr) Language of Digital Media",
      "k": "S",
      "p": "dr Małgorzata Sokół",
      "r": "room 301 WH",
@@ -262,7 +262,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminar Business English",
+     "pl": "Seminar Business English",
      "k": "S",
      "p": "mgr Paweł Tuz",
      "r": "room 01 WH",
@@ -289,8 +289,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "II year GC UNIVERSITY-WIDE more info: https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne",
-     "k": "W"
+     "pl": "II year GC UNIVERSITY-WIDE",
+     "k": "W",
+     "n": "szczegóły: https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne"
     },
     {
      "d": 4,
@@ -298,8 +299,8 @@
       "09:30",
       "12:30"
      ],
-     "pl": "PHYSICAL EDUCATION more info: https://swfis.usz.edu.pl/ -wychowania-fizycznego",
-     "k": "X"
+     "pl": "Physical Education",
+     "k": "CW"
     },
     {
      "d": 4,
@@ -404,7 +405,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminar Research Workshop",
+     "pl": "Seminar Research Workshop",
      "k": "S",
      "p": "dr Ewa Glapka",
      "r": "room 113 WH",
@@ -416,7 +417,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminar Research Workshop",
+     "pl": "Seminar Research Workshop",
      "k": "S",
      "p": "dr Ewa Glapka",
      "r": "room 113 WH",
@@ -464,7 +465,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminar (k 20 hr) Discourse and society",
+     "pl": "Seminar (k 20 hr) Discourse and society",
      "k": "S",
      "p": "dr Małgorzata Sokół",
      "r": "room 301 WH",
@@ -476,7 +477,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminar (k 30 hr) Language of Cultural Studies",
+     "pl": "Seminar (k 30 hr) Language of Cultural Studies",
      "k": "S",
      "p": "dr Andrew Tomlinson",
      "r": "room 217 WH",
@@ -488,7 +489,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "seminar (k 30 hr) Language of Science and Technology",
+     "pl": "Seminar (k 30 hr) Language of Science and Technology",
      "k": "S",
      "p": "mgr Paweł Tuz",
      "r": "room 16 WH",
@@ -500,7 +501,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "seminar (k 20 hr) Discourse and society",
+     "pl": "Seminar (k 20 hr) Discourse and society",
      "k": "S",
      "p": "dr Małgorzata Sokół",
      "r": "room 301 WH",
@@ -524,7 +525,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminar (k 30 hr) Language of Digital Media",
+     "pl": "Seminar (k 30 hr) Language of Digital Media",
      "k": "S",
      "p": "dr Małgorzata Sokół",
      "r": "room 301 WH",
@@ -536,7 +537,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminar Business English",
+     "pl": "Seminar Business English",
      "k": "S",
      "p": "mgr Paweł Tuz",
      "r": "room 304 WH",
@@ -548,7 +549,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminar (k 30 hr) Language of Digital Media",
+     "pl": "Seminar (k 30 hr) Language of Digital Media",
      "k": "S",
      "p": "dr Małgorzata Sokół",
      "r": "room 301 WH",
@@ -560,7 +561,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "seminar Business English",
+     "pl": "Seminar Business English",
      "k": "S",
      "p": "mgr Paweł Tuz",
      "r": "room 01 WH",
@@ -587,8 +588,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "II year GC UNIVERSITY-WIDE more info: https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne",
-     "k": "W"
+     "pl": "II year GC UNIVERSITY-WIDE",
+     "k": "W",
+     "n": "szczegóły: https://hum.usz.edu.pl/studenci/plany-zajec-studia-stacjonarne"
     },
     {
      "d": 4,
@@ -596,8 +598,8 @@
       "09:30",
       "12:30"
      ],
-     "pl": "PHYSICAL EDUCATION more info: https://swfis.usz.edu.pl/ -wychowania-fizycznego",
-     "k": "X"
+     "pl": "Physical Education",
+     "k": "CW"
     },
     {
      "d": 4,

@@ -1,0 +1,945 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/SS-3-36.pdf",
+ "wersja": "SS-3-36.pdf",
+ "sha256": "995593639c7a5f61bfccacb85fb83997f6e65afe3ce1639a95320d62e4a5cc08",
+ "kierunek": "Social Sciences",
+ "kierunekEn": "Social Sciences",
+ "id": "wns-ss-1-st-2024",
+ "kod": "ss24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "SS3": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Current Problems of Education in Poland",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. ICKiBS 117/120",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Organizational Culture",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. A. Kołodziej- Durnaś",
+     "r": "s. 239",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Zajęcia fakultatywne: City and regional branding",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr O. Łozińska",
+     "r": "s. 239",
+     "n": "30 XI at 11.45-12.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Translation Course/ Scientific Writing",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr A. Kotula- Empringham",
+     "r": "s. 247",
+     "n": "30XI at 15.15-16.00",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Storytelling and social communication",
+     "k": "S",
+     "time": [
+      "17:00",
+      "19:15"
+     ],
+     "p": "mgr M. Lipko",
+     "r": "s. 247",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Nauki społeczne w perspektywie globalnej",
+     "en": "Social Sciernces in Global Perspective",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr C. Szczepaniak",
+     "r": "s. 117",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "English language",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "r": "s. 106"
+    },
+    {
+     "d": 1,
+     "pl": "Diploma Seminar",
+     "k": "S",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr C. Szczepaniak 089, dr R. Bartłomiejski s 215"
+    },
+    {
+     "d": 1,
+     "pl": "Współczesne teorie socjologiczne",
+     "en": "Contemporary Theories of Sociology",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr R. Bartłomiejski",
+     "r": "s. 247"
+    },
+    {
+     "d": 1,
+     "pl": "Współczesne problem wychowania w Polsce",
+     "en": "Current Problems of Education in Poland",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 247",
+     "dates": [
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Granice i bariery jako zjawiska polityczne i społeczne",
+     "en": "Borders Boundaries and Frontiers as Political and Social Phenomena",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 117",
+     "dates": [
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Research and Learning Turtoring",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 247",
+     "n": "2XII at 10.45- 11.30",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Zajęcia fakulatywne: Cooperation and teamwork in science",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 247",
+     "n": "2 XII at 10.00-10.45",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Badania terenowe",
+     "en": "Fieldwork",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr S. Kołodziejczak",
+     "r": "s. 247",
+     "n": "2XII at 12.30- 13.15; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Zajęcia fakultatywne: Emotions and social interaction",
+     "k": "X",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "prof. P. Weber",
+     "r": "s. 117",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Ethics in Social Practice",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr M. Wałejko",
+     "r": "s. 247"
+    },
+    {
+     "d": 2,
+     "pl": "Studia kulturowe w nowoczesności",
+     "en": "Cultural Studies in History and Modernity",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "dates": [
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Studia kulturowe w nowoczesności",
+     "en": "Cultural Studies in History and Modernity",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 117",
+     "dates": [
+      "2026-10-15"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Kultura organizacji",
+     "en": "Organizational Culture",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 117",
+     "dates": [
+      "2026-11-05",
+      "2026-11-12"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Studia kulturowe w nowoczesności",
+     "en": "Cultural Studies in History and Modernity",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 117",
+     "dates": [
+      "2026-11-19"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Zajęcia fakultatywne: Stories of disasters in internet memes exercises",
+     "k": "X",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 117",
+     "n": "29 X at 13.30-16.00",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału"
+    },
+    {
+     "d": 4,
+     "pl": "German language",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "r": "s. 9"
+    },
+    {
+     "d": 4,
+     "pl": "Granice i bariery jako zjawiska polityczne i społeczne",
+     "en": "Borders Boundaries and Frontiers as Political and Social Phenomena",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 117",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Kultura organizacji",
+     "en": "Organizational Culture",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 246",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Cultural Studies in History and Modernity(studia kulturowe w nowoczesności) lecture",
+     "k": "X",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 246",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Granice i bariery jako zjawiska polityczne i społeczne",
+     "en": "Borders Boundaries and Frontiers as Political and Social Phenomena",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:45"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 117",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Cultural Studies in History and Modernity(studia kulturowe w nowoczesności) lecture",
+     "k": "X",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 246",
+     "dates": [
+      "2026-10-16"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Current Problems of Education in Poland",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. ICKiBS 117/120",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Organizational Culture",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "prof. A. Kołodziej- Durnaś",
+     "r": "s. 239",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Zajęcia fakultatywne: City and regional branding",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr O. Łozińska",
+     "r": "s. 239",
+     "n": "30 XI at 11.45-12.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Translation Course/ Scientific Writing",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr A. Kotula- Empringham",
+     "r": "s. 247",
+     "n": "30XI at 15.15-16.00",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Storytelling and social communication",
+     "k": "S",
+     "time": [
+      "17:00",
+      "19:15"
+     ],
+     "p": "mgr M. Lipko",
+     "r": "s. 247",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Nauki społeczne w perspektywie globalnej",
+     "en": "Social Sciernces in Global Perspective",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr C. Szczepaniak",
+     "r": "s. 117",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "English language",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "r": "s. 106"
+    },
+    {
+     "d": 1,
+     "pl": "Diploma Seminar",
+     "k": "S",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr C. Szczepaniak 089, dr R. Bartłomiejski s 215"
+    },
+    {
+     "d": 1,
+     "pl": "Współczesne teorie socjologiczne",
+     "en": "Contemporary Theories of Sociology",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr R. Bartłomiejski",
+     "r": "s. 247"
+    },
+    {
+     "d": 1,
+     "pl": "Współczesne problem wychowania w Polsce",
+     "en": "Current Problems of Education in Poland",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 247",
+     "dates": [
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Granice i bariery jako zjawiska polityczne i społeczne",
+     "en": "Borders Boundaries and Frontiers as Political and Social Phenomena",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 117",
+     "dates": [
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Research and Learning Turtoring",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 247",
+     "n": "2XII at 10.45- 11.30",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Zajęcia fakulatywne: Cooperation and teamwork in science",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 247",
+     "n": "2 XII at 10.00-10.45",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Badania terenowe",
+     "en": "Fieldwork",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr S. Kołodziejczak",
+     "r": "s. 247",
+     "n": "2XII at 12.30- 13.15; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Zajęcia fakultatywne: Emotions and social interaction",
+     "k": "X",
+     "time": [
+      "11:45",
+      "14:00"
+     ],
+     "p": "prof. P. Weber",
+     "r": "s. 117",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Ethics in Social Practice",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr M. Wałejko",
+     "r": "s. 247"
+    },
+    {
+     "d": 2,
+     "pl": "Studia kulturowe w nowoczesności",
+     "en": "Cultural Studies in History and Modernity",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "dates": [
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Studia kulturowe w nowoczesności",
+     "en": "Cultural Studies in History and Modernity",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 117",
+     "dates": [
+      "2026-10-15"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Kultura organizacji",
+     "en": "Organizational Culture",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 117",
+     "dates": [
+      "2026-11-05",
+      "2026-11-12"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Studia kulturowe w nowoczesności",
+     "en": "Cultural Studies in History and Modernity",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 117",
+     "dates": [
+      "2026-11-19"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Zajęcia fakultatywne: Stories of disasters in internet memes exercises",
+     "k": "X",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 117",
+     "n": "29 X at 13.30-16.00",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału"
+    },
+    {
+     "d": 4,
+     "pl": "German language",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "r": "s. 9"
+    },
+    {
+     "d": 4,
+     "pl": "Granice i bariery jako zjawiska polityczne i społeczne",
+     "en": "Borders Boundaries and Frontiers as Political and Social Phenomena",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 117",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Kultura organizacji",
+     "en": "Organizational Culture",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 246",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Cultural Studies in History and Modernity(studia kulturowe w nowoczesności) lecture",
+     "k": "X",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 246",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Granice i bariery jako zjawiska polityczne i społeczne",
+     "en": "Borders Boundaries and Frontiers as Political and Social Phenomena",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:45"
+     ],
+     "p": "prof. M. Kowalewski",
+     "r": "s. 117",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Cultural Studies in History and Modernity(studia kulturowe w nowoczesności) lecture",
+     "k": "X",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr N. Maksymowicz Mróz",
+     "r": "s. 246",
+     "dates": [
+      "2026-10-16"
+     ]
+    }
+   ]
+  }
+ }
+}

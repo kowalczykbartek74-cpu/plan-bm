@@ -1,0 +1,2589 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSP-21.pdf",
+ "wersja": "III-SSP-21.pdf",
+ "sha256": "610d1063dbe1e036ca87b1166d12eddbb4351d47e01956bb5a42b7e548c5908a",
+ "kierunek": "Prawo",
+ "kierunekEn": "Law",
+ "id": "wpia-prawo-0-st-2024",
+ "kod": "prawoj24",
+ "wydzial": "WPiA",
+ "rok": 3,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PRAWO3": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr M. Jasińska",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:6",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr S. Słotwiński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:2",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 121 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:4",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:3"
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr S. Słotwiński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:3",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:6"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo ochrony środowiska:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:5"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr S. Słotwiński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:5",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo ochrony środowiska:4",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo ochrony środowiska:7",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:3"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 117 Narutowicza",
+     "pg": "Postępowanie karne I:7",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:1",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:5"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo ochrony środowiska:2",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo ochrony środowiska:9",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:8"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:8"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 117 Narutowicza",
+     "pg": "Postępowanie karne I:2",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:7",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:9"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "W",
+     "p": "dr hab. K. Wesołowski, prof. US, dr D. Ambrożuk-Wesołowska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-05",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "W",
+     "p": "dr D. Ambrożuk-Wesołowska",
+     "r": "s. 112",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "W",
+     "p": "dr hab. M. Ofiarska, prof. US",
+     "r": "s. 112",
+     "n": "UWAGA! Zajęcia w dn. 20.X odbędą się wyjątkowo w sali 317 ul. Mickiewicza 16a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 112",
+     "n": "UWAGA! Zajęcia w dn. 20.X odbędą się wyjątkowo w sali 317 ul. Mickiewicza 16a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 201 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:7",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  15.00 - 16.30"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 217 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:2",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  15.00 - 16.30"
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:15",
+      "17:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:1",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  16.45 - 18.15"
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:15",
+      "17:45"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 217 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:6",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  16.45 - 18.15"
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:15",
+      "17:45"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:7",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz."
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 103"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Wiśniewska- Przymusińska",
+     "r": "s. 210",
+     "pg": "język angielski:4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr A. Szubryt",
+     "r": "s. 209",
+     "pg": "język angielski:7"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Wiśniewska- Przymusińska",
+     "r": "s. 210",
+     "pg": "język angielski:5"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr A. Szubryt",
+     "r": "s. 209",
+     "pg": "język angielski:8"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:3"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Wiśniewska- Przymusińska",
+     "r": "s. 210",
+     "pg": "język angielski:6"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr A. Szubryt",
+     "r": "s. 209",
+     "pg": "język angielski:9"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:45",
+      "19:00"
+     ],
+     "pl": "Legislacja międzynarodowa - WMDW III",
+     "k": "W",
+     "p": "dr hab. W. Staszewski, prof. US",
+     "r": "s. 112",
+     "dates": [
+      "2026-11-18",
+      "2026-11-25",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "17.00",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "dates": [
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "W",
+     "p": "prof. dr hab. H. Paluszkiewicz",
+     "r": "s. 112",
+     "n": "UWAGA! W dn. 10.XII w godz. 12.00 - 13.30 odbędzie się obowiązkowe szkolenie z obrony cywilnej (aula Wydziału Nauk Społecznych, ul. Krakowska 71-79)",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "W",
+     "p": "dr hab. P. Kledzik, prof. US",
+     "r": "s. 112",
+     "n": "zajęcia dn. 21.I trwają 1 godz. w godzinach 13.30 - 14.15; UWAGA! wykład w dn. 10.XII odbędzie się wyjątkowo w godz. 14.15 - 17.30",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Podstawy retoryki i erystyki - WMDW III",
+     "k": "W",
+     "p": "dr hab. A. Kapuścińska-Jawara, prof. US",
+     "r": "s. 112",
+     "n": "UWAGA! wykład w dn. 10.XII odbędzie się wyjątkowo w godz. 17.45 - 19.15",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 119 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:6",
+     "n": "UWAGA! z wyłączeniem terminu 9.X - zajęcia odbędą się dn. 23.XI [poniedziałek] w godzinach 8.15 - 9.45, s. 120 Narutowicza)"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr H. Kocur",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:1",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:8",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:9"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo ochrony środowiska:5",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 119 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "mgr A. Zygmund- Bogacz",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie karne I:5",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr H. Kocur",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:8",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:9",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:7"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo ochrony środowiska:6",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 119 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:5"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "mgr A. Zygmund- Bogacz",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie karne I:9",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr H. Kocur",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:4",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 217 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:6",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:8"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo ochrony środowiska:3",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 119 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:9"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr H. Kocur",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:3",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:4"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo ochrony środowiska:8",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "W",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr M. Jasińska",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:6",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr S. Słotwiński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:2",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 121 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:4",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:3"
+    },
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr S. Słotwiński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:3",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:6"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo ochrony środowiska:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:5"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:1"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr S. Słotwiński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:5",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:2"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo ochrony środowiska:4",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo ochrony środowiska:7",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:3"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 117 Narutowicza",
+     "pg": "Postępowanie karne I:7",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:1",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:5"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo ochrony środowiska:2",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo ochrony środowiska:9",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:8"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 118 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:8"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 117 Narutowicza",
+     "pg": "Postępowanie karne I:2",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:7",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:9"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "W",
+     "p": "dr hab. K. Wesołowski, prof. US, dr D. Ambrożuk-Wesołowska",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-05",
+      "2026-11-09",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "W",
+     "p": "dr D. Ambrożuk-Wesołowska",
+     "r": "s. 112",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "W",
+     "p": "dr hab. M. Ofiarska, prof. US",
+     "r": "s. 112",
+     "n": "UWAGA! Zajęcia w dn. 20.X odbędą się wyjątkowo w sali 317 ul. Mickiewicza 16a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "W",
+     "p": "dr hab. R. Molski, prof. US",
+     "r": "s. 112",
+     "n": "UWAGA! Zajęcia w dn. 20.X odbędą się wyjątkowo w sali 317 ul. Mickiewicza 16a"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 201 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:7",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  15.00 - 16.30"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 217 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:2",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  15.00 - 16.30"
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:15",
+      "17:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 201 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:1",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  16.45 - 18.15"
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:15",
+      "17:45"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr D. Czesyk",
+     "r": "s. 217 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:6",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  16.45 - 18.15"
+    },
+    {
+     "d": 1,
+     "time": [
+      "16:15",
+      "17:45"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:7",
+     "n": "Zajęcia dn.20.X wyjątkowo w godz."
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 103"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Wiśniewska- Przymusińska",
+     "r": "s. 210",
+     "pg": "język angielski:4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr A. Szubryt",
+     "r": "s. 209",
+     "pg": "język angielski:7"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Wiśniewska- Przymusińska",
+     "r": "s. 210",
+     "pg": "język angielski:5"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr A. Szubryt",
+     "r": "s. 209",
+     "pg": "język angielski:8"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr S. Nupryjonek",
+     "r": "s. 109",
+     "pg": "język angielski:3"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Wiśniewska- Przymusińska",
+     "r": "s. 210",
+     "pg": "język angielski:6"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr A. Szubryt",
+     "r": "s. 209",
+     "pg": "język angielski:9"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:45",
+      "19:00"
+     ],
+     "pl": "Legislacja międzynarodowa - WMDW III",
+     "k": "W",
+     "p": "dr hab. W. Staszewski, prof. US",
+     "r": "s. 112",
+     "dates": [
+      "2026-11-18",
+      "2026-11-25",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "17.00",
+     "k": "W",
+     "p": "dr K. Słotwińska",
+     "dates": [
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "W",
+     "p": "prof. dr hab. H. Paluszkiewicz",
+     "r": "s. 112",
+     "n": "UWAGA! W dn. 10.XII w godz. 12.00 - 13.30 odbędzie się obowiązkowe szkolenie z obrony cywilnej (aula Wydziału Nauk Społecznych, ul. Krakowska 71-79)",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "W",
+     "p": "dr hab. P. Kledzik, prof. US",
+     "r": "s. 112",
+     "n": "zajęcia dn. 21.I trwają 1 godz. w godzinach 13.30 - 14.15; UWAGA! wykład w dn. 10.XII odbędzie się wyjątkowo w godz. 14.15 - 17.30",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Podstawy retoryki i erystyki - WMDW III",
+     "k": "W",
+     "p": "dr hab. A. Kapuścińska-Jawara, prof. US",
+     "r": "s. 112",
+     "n": "UWAGA! wykład w dn. 10.XII odbędzie się wyjątkowo w godz. 17.45 - 19.15",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2027-01-07",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 119 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:6",
+     "n": "UWAGA! z wyłączeniem terminu 9.X - zajęcia odbędą się dn. 23.XI [poniedziałek] w godzinach 8.15 - 9.45, s. 120 Narutowicza)"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr H. Kocur",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:1",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:8",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:9"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo ochrony środowiska:5",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 119 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "mgr A. Zygmund- Bogacz",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie karne I:5",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr H. Kocur",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:8",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:9",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:7"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo ochrony środowiska:6",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 119 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:5"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "mgr A. Zygmund- Bogacz",
+     "r": "s. 121 Narutowicza",
+     "pg": "Postępowanie karne I:9",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr H. Kocur",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:4",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr I. Mycko-Katner, dr S. Słotwiński",
+     "r": "s. 217 Narutowicza",
+     "pg": "Prawo cywilne - zobowiązania I:6",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:8"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo ochrony środowiska:3",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 119 Narutowicza",
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:9"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie karne I",
+     "k": "CW",
+     "p": "dr H. Kocur",
+     "r": "s. 220 Narutowicza",
+     "pg": "Postępowanie karne I:3",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo gospodarcze publiczne:4"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo ochrony środowiska:8",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "pl": "Prawo ochrony środowiska",
+     "k": "W",
+     "p": "dr hab. A. Barczak, prof. US",
+     "r": "s. 112-114 al. Piastów 40b",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    }
+   ]
+  }
+ }
+}

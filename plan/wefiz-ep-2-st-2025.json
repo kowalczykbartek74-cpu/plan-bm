@@ -1,0 +1,403 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/II-EP-II-st.-13.pdf",
+ "wersja": "II-EP-II-st.-13.pdf",
+ "sha256": "968ce75e4a3a6149ba260af1f249c117eb376ad327dac1f14bb6ab9dbc825e9d",
+ "kierunek": "Ekonomiczno-prawny",
+ "kierunekEn": "Economics and Law",
+ "id": "wefiz-ep-2-st-2025",
+ "kod": "epm25",
+ "wydzial": "WPiA",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "EP2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "20:15"
+     ],
+     "pl": "Zajęcia na Wydziale Ekonomii, Finansów i Zarządzania",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "20:15"
+     ],
+     "pl": "Zajęcia na Wydziale Ekonomii, Finansów i Zarządzania",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie przed sądami administracyjnymi",
+     "k": "CW",
+     "p": "mgr W. Brewka",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "zajęcia dn. 9.XII trwają 1 godz. w godzinach 9.45 - 10.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo dewizowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "zajęcia dn. 9.XII trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Administracja podatkowa i kontrola skarbowa",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Prawo i postępowanie karne skarbowe",
+     "k": "CW",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "n": "zajęcia dn. 9.XII trwają 1 godz. w godzinach 15.00 - 15.45",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie przed organami administracji publicznej oraz postępowanie egzekucyjne w administracji",
+     "k": "W",
+     "p": "prof. dr hab. R. Suwaj",
+     "r": "s. 104 al. Piastów 40b",
+     "n": "zajęcia dn. 28.I trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie przed sądami administracyjnymi",
+     "k": "W",
+     "p": "dr P. Zdyb",
+     "r": "s. 104 al. Piastów 40b"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "POAP",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 17a Narutowicza",
+     "n": "zajęcia dn. 3.XII trwają 1 godz. w godzinach 13.30 - 14.15",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych 17.45 - 19.15 (wykaz wykładów dostępny jest na stronie: https://wpia.usz.edu.pl/rozklady-zajec/ )",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Prawo i postępowanie karne skarbowe",
+     "k": "W",
+     "p": "dr A. Wiśniewski",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "20:15"
+     ],
+     "pl": "Zajęcia na Wydziale Ekonomii, Finansów i Zarządzania",
+     "k": "X"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "20:15"
+     ],
+     "pl": "Zajęcia na Wydziale Ekonomii, Finansów i Zarządzania",
+     "k": "X"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie przed sądami administracyjnymi",
+     "k": "CW",
+     "p": "mgr W. Brewka",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "zajęcia dn. 9.XII trwają 1 godz. w godzinach 9.45 - 10.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo dewizowe",
+     "k": "W",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 115 al. Piastów 40b",
+     "n": "zajęcia dn. 9.XII trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Administracja podatkowa i kontrola skarbowa",
+     "k": "W",
+     "p": "dr P. Mańczyk",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "14:45",
+      "16:15"
+     ],
+     "pl": "Prawo i postępowanie karne skarbowe",
+     "k": "CW",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "n": "zajęcia dn. 9.XII trwają 1 godz. w godzinach 15.00 - 15.45",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie przed organami administracji publicznej oraz postępowanie egzekucyjne w administracji",
+     "k": "W",
+     "p": "prof. dr hab. R. Suwaj",
+     "r": "s. 104 al. Piastów 40b",
+     "n": "zajęcia dn. 28.I trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie przed sądami administracyjnymi",
+     "k": "W",
+     "p": "dr P. Zdyb",
+     "r": "s. 104 al. Piastów 40b"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "POAP",
+     "k": "CW",
+     "p": "dr P. Zdyb",
+     "r": "s. 17a Narutowicza",
+     "n": "zajęcia dn. 3.XII trwają 1 godz. w godzinach 13.30 - 14.15",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych 17.45 - 19.15 (wykaz wykładów dostępny jest na stronie: https://wpia.usz.edu.pl/rozklady-zajec/ )",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Prawo i postępowanie karne skarbowe",
+     "k": "W",
+     "p": "dr A. Wiśniewski",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    }
+   ]
+  }
+ }
+}

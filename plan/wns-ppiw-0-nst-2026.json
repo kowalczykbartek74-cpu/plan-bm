@@ -1,0 +1,735 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (13 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
+ "kierunekEn": "Preschool and Early School Education",
+ "id": "wns-ppiw-0-nst-2026",
+ "kod": "ppiwjn26",
+ "wydzial": "WNS",
+ "rok": 1,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PPIW1": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Historia wychowania",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Psychologia rozwojowa",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Bratos-Stepień",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Psychologia rozwoju osobistego",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Bratos-Stepień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3i8ykkd",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. Bulsa, prof.US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Chmiel",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "r": "Aula",
+     "n": "Spotkanie organizacyjne z Władzami Wydziału Aula",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr hab. Julita Orzelska, prof. US",
+     "r": "s. 152",
+     "n": "Spotkanie organizacyjne z opiekunem roku dr hab. Julita Orzelska, prof. US s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "14:15"
+     ],
+     "p": "dr hab. Bulsa, prof.US",
+     "r": "s. 152 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "M. Adamczyk",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "M. Adamczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "mgr M. Chmiel",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Tutoring",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr E. Mazurek",
+     "r": "s. 152 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "W",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Historia wychowania",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia wychowania",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Chmiel",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwoju osobistego",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr M. Bratos-Stepień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3i8ykkd",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "09:00",
+      "13:15"
+     ],
+     "p": "dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: rowj2eu",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia wychowania",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Historia wychowania",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Psychologia rozwojowa",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Bratos-Stepień",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Psychologia rozwoju osobistego",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Bratos-Stepień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3i8ykkd",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. Bulsa, prof.US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Chmiel",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "r": "Aula",
+     "n": "Spotkanie organizacyjne z Władzami Wydziału Aula",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr hab. Julita Orzelska, prof. US",
+     "r": "s. 152",
+     "n": "Spotkanie organizacyjne z opiekunem roku dr hab. Julita Orzelska, prof. US s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "14:15"
+     ],
+     "p": "dr hab. Bulsa, prof.US",
+     "r": "s. 152 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "M. Adamczyk",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "M. Adamczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "mgr M. Chmiel",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Tutoring",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr E. Mazurek",
+     "r": "s. 152 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "W",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Historia wychowania",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia wychowania",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Chmiel",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwoju osobistego",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr M. Bratos-Stepień",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3i8ykkd",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ochrona własności intelektualnej",
+     "k": "W",
+     "time": [
+      "09:00",
+      "13:15"
+     ],
+     "p": "dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: rowj2eu",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia wychowania",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

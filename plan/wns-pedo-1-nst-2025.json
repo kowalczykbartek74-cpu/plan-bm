@@ -1,0 +1,779 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (13 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika",
+ "kierunekEn": "Pedagogy",
+ "id": "wns-pedo-1-nst-2025",
+ "kod": "pedon25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PEDO2": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Pedagogika ogólna",
+     "k": "X",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr Lidia Marek",
+     "r": "online",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Pedagogika ogólna",
+     "k": "X",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr Lidia Marek",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Psychologia ogólna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "dates": [
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 026 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka społeczna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr M. Bratos-Stępień",
+     "r": "online",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr hab.. M. Chutorański, prof. . US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka społeczna",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr Jerzy Jagodzinski",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr hab. M. Chutorański, prof. . US",
+     "r": "s. 026 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "mgr Jerzy Jagodzinski",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr Jerzy Jagodzinski",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr Jerzy Jagodziński",
+     "r": "s. 026 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka pracy opiekuńczo-wychowawczej w placówkach wsparcia dziennego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka pracy opiekuńczo-wychowawczej w placówkach wsparcia dziennego",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr A. Meyer",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M. Grabowska, mgr A. Meyer",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia ogólna",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "13:15"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia ogólna",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia ogólna",
+     "k": "W",
+     "time": [
+      "14:15",
+      "19:30"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka pracy opiekuńczo-wychowawczej w placówkach wsparcia dziennego",
+     "k": "K",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Pedagogika ogólna",
+     "k": "X",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr Lidia Marek",
+     "r": "online",
+     "dates": [
+      "2026-10-09"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Pedagogika ogólna",
+     "k": "X",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr Lidia Marek",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Psychologia ogólna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "dates": [
+      "2026-10-23",
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 026 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka społeczna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr M. Bratos-Stępień",
+     "r": "online",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr hab.. M. Chutorański, prof. . US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka społeczna",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr Jerzy Jagodzinski",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr hab. M. Chutorański, prof. . US",
+     "r": "s. 026 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "mgr Jerzy Jagodzinski",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr Jerzy Jagodzinski",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr Jerzy Jagodziński",
+     "r": "s. 026 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka pracy opiekuńczo-wychowawczej w placówkach wsparcia dziennego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka pracy opiekuńczo-wychowawczej w placówkach wsparcia dziennego",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr A. Meyer",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M. Grabowska, mgr A. Meyer",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia ogólna",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "13:15"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia ogólna",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr hab. M. Chutorański, prof. US",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia ogólna",
+     "k": "W",
+     "time": [
+      "14:15",
+      "19:30"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka pracy opiekuńczo-wychowawczej w placówkach wsparcia dziennego",
+     "k": "K",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ]
+  }
+ }
+}

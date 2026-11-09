@@ -34,10 +34,10 @@ test("wpis: prawdziwa godzina z nazwy, podgrupa, rodzaj, sala", () => {
   assert.equal(c.wpis.pg, undefined, "„w” = cały rok"); assert.equal(c.daty.length, 10);
 });
 
-test("3 grupy z aplikacji: tyle samo zajęć co w aplikacji, plan przechodzi sprawdzenie, ERASMUS pominięty", () => {
+test("4 grupy z aplikacji (z ERASMUS +): tyle samo zajęć co w aplikacji, plan przechodzi sprawdzenie", () => {
   const { wyniki, pominiete } = zbuduj(dane, kierunki, { teraz: new Date("2026-11-08") });
   const app = {}; for (const c of dane.classes) app[c.group] = (app[c.group] || 0) + 1;
-  assert.deepEqual(wyniki.map((w) => w.id).sort(), ["wkfiz-ds-1-st-2024", "wkfiz-wf-1-st-2026", "wkfiz-zp-2-st-2025"]);
+  assert.deepEqual(wyniki.map((w) => w.id).sort(), ["wkfiz-ds-1-st-2024", "wkfiz-eras-1-st-2026", "wkfiz-wf-1-st-2026", "wkfiz-zp-2-st-2025"]);
   for (const w of wyniki) {
     const g = Object.values(w.groups)[0];
     assert.equal(unikalne(g), app[w.grupaAplikacji], w.grupaAplikacji);
@@ -45,7 +45,7 @@ test("3 grupy z aplikacji: tyle samo zajęć co w aplikacji, plan przechodzi spr
     assert.equal(w.source, "https://planyzajec-kfz.usz.edu.pl/index.html");
     assert.match(w.wersja, /^dane-[0-9a-f]{12}$/);
   }
-  assert.ok(pominiete.some((p) => /ERASMUS/.test(p)));
+  assert.ok(!pominiete.some((p) => /ERASMUS/.test(p)));
   const wf = wyniki.find((w) => w.id === "wkfiz-wf-1-st-2026");
   assert.deepEqual(Object.keys(wf.groups), ["WF1"]);
   assert.equal(wf.kod, "wf26");
@@ -58,7 +58,7 @@ test("3 grupy z aplikacji: tyle samo zajęć co w aplikacji, plan przechodzi spr
 test("importer: kontrakt importuj.mjs, odpowiedź bez success = błąd", async () => {
   const p = (t) => ({ strona: async () => t });
   const w = await importuj({ zrodla: [], kierunki, pobieracz: p(JSON.stringify(dane)) });
-  assert.equal(w.length, 3);
+  assert.equal(w.length, 4);
   await assert.rejects(importuj({ zrodla: [], kierunki, pobieracz: p('{"success":false}') }), /success=false/);
   await assert.rejects(importuj({ zrodla: [], kierunki, pobieracz: p(null) }), /nie odpowiada/);
 });

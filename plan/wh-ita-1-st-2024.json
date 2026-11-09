@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "ITA3": {
    "odd": [
@@ -23,7 +23,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "historia Włoch XVII-XVIII, WT",
+     "pl": "Historia Włoch XVII-XVIII, WT",
      "k": "W",
      "p": "prof.US M. Balducci",
      "r": "s. 301"
@@ -34,7 +34,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia literatury włoskiej: oświecenie i rewolucja w Europie, prof. .US A. Rella WT",
+     "pl": "Historia literatury włoskiej: oświecenie i rewolucja w Europie, prof. .US A. Rella WT",
      "k": "W",
      "r": "s. 302"
     },
@@ -44,7 +44,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "estetyka I WT",
+     "pl": "Estetyka I WT",
      "k": "W",
      "p": "dr D. Del Mastro",
      "r": "s. 304"
@@ -66,8 +66,8 @@
       "15:30",
       "17:00"
      ],
-     "pl": "język niemiecki 30lk",
-     "k": "X",
+     "pl": "Język niemiecki 30lk",
+     "k": "CW",
      "p": "dr F. Strauss",
      "r": "s.115 WH"
     },
@@ -77,8 +77,8 @@
       "17:00",
       "18:30"
      ],
-     "pl": "język rosyjski 30lk",
-     "k": "X",
+     "pl": "Język rosyjski 30lk",
+     "k": "CW",
      "p": "mgr L. Smędzik",
      "r": "s.214 WH"
     },
@@ -99,7 +99,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "gramatyka opisowa języka włoskiego, WT",
+     "pl": "Gramatyka opisowa języka włoskiego, WT",
      "k": "CW",
      "p": "dr E. Bocian",
      "r": "s. 301"
@@ -110,7 +110,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "symbole śmierci i życia w Boskiej komedii Dantego WT",
+     "pl": "Symbole śmierci i życia w Boskiej komedii Dantego WT",
      "k": "W",
      "p": "prof. US M. Balducci",
      "r": "s. 301"
@@ -121,7 +121,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "jezyk angielski ITA+ 30lk, s .203 WT",
+     "pl": "Jezyk angielski ITA+ 30lk, s .203 WT",
      "k": "X",
      "p": "mgr J. Stankiewicz-Rycielska"
     },
@@ -164,7 +164,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia języka włoskiego:język a kultura, WT kod teams:f40flh5",
+     "pl": "Historia języka włoskiego:język a kultura, WT kod teams:f40flh5",
      "k": "W",
      "p": "prof. S. Valerio",
      "r": "s. 201"
@@ -175,8 +175,8 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język hiszpański 30lk",
-     "k": "X",
+     "pl": "Język hiszpański 30lk",
+     "k": "CW",
      "p": "mgr Agnieszka Jakubiak",
      "r": "s. 113 WH"
     },
@@ -186,8 +186,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "dziedzinowy z nauk społecznych online",
-     "k": "W"
+     "pl": "Dziedzinowy z nauk społecznych online",
+     "k": "W",
+     "r": "online"
     }
    ],
    "even": [
@@ -197,7 +198,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "historia Włoch XVII-XVIII, WT",
+     "pl": "Historia Włoch XVII-XVIII, WT",
      "k": "W",
      "p": "prof.US M. Balducci",
      "r": "s. 301"
@@ -208,7 +209,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia literatury włoskiej: oświecenie i rewolucja w Europie, prof. .US A. Rella WT",
+     "pl": "Historia literatury włoskiej: oświecenie i rewolucja w Europie, prof. .US A. Rella WT",
      "k": "W",
      "r": "s. 302"
     },
@@ -218,7 +219,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "estetyka I WT",
+     "pl": "Estetyka I WT",
      "k": "W",
      "p": "dr D. Del Mastro",
      "r": "s. 304"
@@ -240,8 +241,8 @@
       "15:30",
       "17:00"
      ],
-     "pl": "język niemiecki 30lk",
-     "k": "X",
+     "pl": "Język niemiecki 30lk",
+     "k": "CW",
      "p": "dr F. Strauss",
      "r": "s.115 WH"
     },
@@ -251,8 +252,8 @@
       "17:00",
       "18:30"
      ],
-     "pl": "język rosyjski 30lk",
-     "k": "X",
+     "pl": "Język rosyjski 30lk",
+     "k": "CW",
      "p": "mgr L. Smędzik",
      "r": "s.214 WH"
     },
@@ -273,7 +274,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "gramatyka opisowa języka włoskiego, WT",
+     "pl": "Gramatyka opisowa języka włoskiego, WT",
      "k": "CW",
      "p": "dr E. Bocian",
      "r": "s. 301"
@@ -284,7 +285,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "symbole śmierci i życia w Boskiej komedii Dantego WT",
+     "pl": "Symbole śmierci i życia w Boskiej komedii Dantego WT",
      "k": "W",
      "p": "prof. US M. Balducci",
      "r": "s. 301"
@@ -295,7 +296,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "jezyk angielski ITA+ 30lk, s .203 WT",
+     "pl": "Jezyk angielski ITA+ 30lk, s .203 WT",
      "k": "X",
      "p": "mgr J. Stankiewicz-Rycielska"
     },
@@ -338,7 +339,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "historia języka włoskiego:język a kultura, WT kod teams:f40flh5",
+     "pl": "Historia języka włoskiego:język a kultura, WT kod teams:f40flh5",
      "k": "W",
      "p": "prof. S. Valerio",
      "r": "s. 201"
@@ -349,8 +350,8 @@
       "15:15",
       "16:45"
      ],
-     "pl": "język hiszpański 30lk",
-     "k": "X",
+     "pl": "Język hiszpański 30lk",
+     "k": "CW",
      "p": "mgr Agnieszka Jakubiak",
      "r": "s. 113 WH"
     },
@@ -360,8 +361,9 @@
       "17:45",
       "19:15"
      ],
-     "pl": "dziedzinowy z nauk społecznych online",
-     "k": "W"
+     "pl": "Dziedzinowy z nauk społecznych online",
+     "k": "W",
+     "r": "online"
     }
    ]
   }

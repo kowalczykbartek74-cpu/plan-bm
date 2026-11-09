@@ -1,0 +1,2495 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/IV-SSP-17.pdf",
+ "wersja": "IV-SSP-17.pdf",
+ "sha256": "a4cdd76cedec4b8d5ab199f071fb58ea93711af42a1914693bf016ca8f0b1786",
+ "kierunek": "Prawo",
+ "kierunekEn": "Law",
+ "id": "wpia-prawo-0-st-2023",
+ "kod": "prawoj23",
+ "wydzial": "WPiA",
+ "rok": 4,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T22:54:22.756Z",
+ "groups": {
+  "PRAWO4": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 112",
+     "n": "zajęcia dn. 21.XII trwają 2 godz. w godzinach 10.00 - 11.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Ofiarski",
+     "r": "s. 112",
+     "n": "zajęcia dn. 21.XII trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "12:45",
+      "14:15"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "dr P. Mijal",
+     "r": "s. 215 Narutowicza",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 12.45 - 13.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "14:15",
+      "15:00"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "CW",
+     "p": "dr P. Mijal"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "40b), w terminach: 19.X, 26.X, 16.XI, dn. 1.II trwają 1 godz. w",
+     "k": "X",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "Dr P. Mijal 14.30 - 16.00, w terminach: 5.X, 12.X (s. 118 al. Piastów 11.I, 18.I, 25.I, 1.II - zajęcia godzinach",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12"
+     ],
+     "n": "13.45 - 14.30"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "godz. konwersatorium w terminach: 23.XI, 30.XI, 14.XII, 21.XII",
+     "k": "K",
+     "dates": [
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-14",
+      "2026-12-21"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "16:00",
+      "17:30"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "r": "s. 119 Narutowicza",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 16.00 - 16.45",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "16:00",
+      "17:30"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "n": "zajęcia dn. 18.I trwają 3 godz. w godzinach 16.00 - 18.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "16:15",
+      "17:45"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "dr P. Mijal",
+     "r": "s. 215 narutowicza",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 14.45 - 15.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "CW",
+     "p": "dr Z. Barwina",
+     "r": "s. 119 Narutowicza"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 219 Narutowicza",
+     "pg": "Postępowanie cywilne I:4",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr K. Malinowska- Woźniak",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr M. Białkowski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:6",
+     "n": "zajęcia dn. 24.XI trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:3"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:5"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 219 Narutowicza",
+     "pg": "Postępowanie cywilne I:5",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr K. Malinowska- Woźniak",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo handlowe I:6",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "n": "UWAGA! z wyłączeniem terminu 17.XI - zajęcia odbędą się dn. 3.XII w godz. 10.00 - 11.30, s. 222 Narutowicza)"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:7"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:3",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr M. Białkowski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:4",
+     "n": "zajęcia dn. 24.XI trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "dr M. Wojdała",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 219 Narutowicza",
+     "pg": "Postępowanie cywilne I:7",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr K. Malinowska- Woźniak",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo handlowe I:3",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "dr P. Mańczyk",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:5",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:6"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "dr M. Wojdała",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr K. Malinowska- Woźniak",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo handlowe I:7",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "dr P. Mańczyk",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:6"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:3"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "dr P. Mijal",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 15.15 - 16.00",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "n": "zajęcia dn. 15.XII trwają 1 godz. w godzinach 15.15 - 16.00",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I MODUŁ: Praktyczne Aspekty Wykonywania",
+     "k": "CW",
+     "p": "dr P. Mijal, mgr A. Krupa",
+     "r": "s. 220 Narutowicza"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:45",
+      "18:30"
+     ],
+     "pl": "Konwersatorium w terminach: 6.X, 13.X, 20.X, 27.X, 3.XI, 17.XI, 24.XI, 1.XII, 15.XII, 22.XII, 12.I, 19.I, 26.I",
+     "k": "K",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 16.00 - 16.45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. J. Ciapała, prof. US",
+     "r": "s. 7-9 al. Piastów 40b"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:45",
+      "15:15"
+     ],
+     "pl": "Prawo morskie",
+     "k": "W",
+     "p": "dr M. Szymszon",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:30",
+      "18:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr hab. K. Flaga-Gieruszyńska, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia dn. 13.I trwają 2 godz. w godzinach 15.30 - 17.00",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "dr M. Wojdała",
+     "r": "s. 201 Narutowicza",
+     "pg": "Postępowanie cywilne I:3",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo spadkowe:5",
+     "n": "zajęcia dn. 10.XII trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "dr M. Wojdała",
+     "r": "s. 201 Narutowicza",
+     "pg": "Postępowanie cywilne I:6",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:5"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr M. Białkowski",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "n": "zajęcia dn. 26.XI trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:7"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "W",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr P. Wesner",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo rodzinne:4",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Prawo spadkowe:7",
+     "n": "zajęcia dn. 4.XII trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr P. Wesner",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo handlowe I:4",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo rodzinne:7",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Prawo spadkowe:1",
+     "n": "zajęcia dn. 4.XII trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr P. Wesner",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo handlowe I:5",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo rodzinne:6",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Prawo spadkowe:3",
+     "n": "zajęcia dn. 4.XII trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "KLINIKA PRAWA godz.",
+     "k": "X",
+     "n": "15.30 - 18.00"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "W",
+     "p": "dr K. Dadańska",
+     "r": "s. 112",
+     "n": "zajęcia dn. 21.XII trwają 2 godz. w godzinach 10.00 - 11.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Ofiarski",
+     "r": "s. 112",
+     "n": "zajęcia dn. 21.XII trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "12:45",
+      "14:15"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "dr P. Mijal",
+     "r": "s. 215 Narutowicza",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 12.45 - 13.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "14:15",
+      "15:00"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "CW",
+     "p": "dr P. Mijal"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "40b), w terminach: 19.X, 26.X, 16.XI, dn. 1.II trwają 1 godz. w",
+     "k": "X",
+     "dates": [
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "Dr P. Mijal 14.30 - 16.00, w terminach: 5.X, 12.X (s. 118 al. Piastów 11.I, 18.I, 25.I, 1.II - zajęcia godzinach",
+     "k": "X",
+     "p": "dr P. Mijal",
+     "r": "s. 215 Narutowicza",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12"
+     ],
+     "n": "13.45 - 14.30"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:00"
+     ],
+     "pl": "godz. konwersatorium w terminach: 23.XI, 30.XI, 14.XII, 21.XII",
+     "k": "K",
+     "dates": [
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-14",
+      "2026-12-21"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "16:00",
+      "17:30"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "r": "s. 119 Narutowicza",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 16.00 - 16.45",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "16:00",
+      "17:30"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "mgr A. Krupa",
+     "r": "s. 101 Narutowicza",
+     "n": "zajęcia dn. 18.I trwają 3 godz. w godzinach 16.00 - 18.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "16:15",
+      "17:45"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "dr P. Mijal",
+     "r": "s. 215 narutowicza",
+     "n": "zajęcia dn. 1.II trwają 1 godz. w godzinach 14.45 - 15.30",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "CW",
+     "p": "dr Z. Barwina",
+     "r": "s. 119 Narutowicza"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 219 Narutowicza",
+     "pg": "Postępowanie cywilne I:4",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr K. Malinowska- Woźniak",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo handlowe I:2",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:1",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr M. Białkowski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:6",
+     "n": "zajęcia dn. 24.XI trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:3"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:5"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 219 Narutowicza",
+     "pg": "Postępowanie cywilne I:5",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr K. Malinowska- Woźniak",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo handlowe I:6",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "dr hab. E. Kowalewska, prof. US",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:2",
+     "n": "UWAGA! z wyłączeniem terminu 17.XI - zajęcia odbędą się dn. 3.XII w godz. 10.00 - 11.30, s. 222 Narutowicza)"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:7"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:3",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr M. Białkowski",
+     "r": "s. 218 Narutowicza",
+     "pg": "Prawo spadkowe:4",
+     "n": "zajęcia dn. 24.XI trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "dr M. Wojdała",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:2",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "mgr P. Michalik",
+     "r": "s. 219 Narutowicza",
+     "pg": "Postępowanie cywilne I:7",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr K. Malinowska- Woźniak",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo handlowe I:3",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "dr P. Mańczyk",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:1"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:5",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:6"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "dr M. Wojdała",
+     "r": "s. 218 Narutowicza",
+     "pg": "Postępowanie cywilne I:1",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2027-01-12"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr K. Malinowska- Woźniak",
+     "r": "s. 220 Narutowicza",
+     "pg": "Prawo handlowe I:7",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "dr P. Mańczyk",
+     "r": "s. 120 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:6"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:3"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 118 Narutowicza",
+     "pg": "Prawo rodzinne:2",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 308 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "dr P. Mijal",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 15.15 - 16.00",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I",
+     "k": "K",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 215 Narutowicza",
+     "n": "zajęcia dn. 15.XII trwają 1 godz. w godzinach 15.15 - 16.00",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "MODUŁ: Praktyczne Aspekty Wykonywania Zawodów Prawniczych I MODUŁ: Praktyczne Aspekty Wykonywania",
+     "k": "CW",
+     "p": "dr P. Mijal, mgr A. Krupa",
+     "r": "s. 220 Narutowicza"
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:45",
+      "18:30"
+     ],
+     "pl": "Konwersatorium w terminach: 6.X, 13.X, 20.X, 27.X, 3.XI, 17.XI, 24.XI, 1.XII, 15.XII, 22.XII, 12.I, 19.I, 26.I",
+     "k": "K",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 16.00 - 16.45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-15",
+      "2026-12-22",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "W",
+     "p": "dr hab. J. Ciapała, prof. US",
+     "r": "s. 7-9 al. Piastów 40b"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "W",
+     "p": "prof. dr hab. Z. Kuniewicz",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:45",
+      "15:15"
+     ],
+     "pl": "Prawo morskie",
+     "k": "W",
+     "p": "dr M. Szymszon",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:30",
+      "18:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "W",
+     "p": "dr hab. K. Flaga-Gieruszyńska, prof. US",
+     "r": "s. 7-9 al. Piastów 40b",
+     "n": "zajęcia dn. 13.I trwają 2 godz. w godzinach 15.30 - 17.00",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-09",
+      "2026-12-16",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "dr M. Wojdała",
+     "r": "s. 201 Narutowicza",
+     "pg": "Postępowanie cywilne I:3",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "mgr W. Strączyński",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo spadkowe:5",
+     "n": "zajęcia dn. 10.XII trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:2"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie cywilne I",
+     "k": "CW",
+     "p": "dr M. Wojdała",
+     "r": "s. 201 Narutowicza",
+     "pg": "Postępowanie cywilne I:6",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie podatkowe I",
+     "k": "CW",
+     "p": "mgr B. Namieciński",
+     "r": "s. 117 Narutowicza",
+     "pg": "Prawo i postępowanie podatkowe I:5"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr M. Białkowski",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo spadkowe:2",
+     "n": "zajęcia dn. 26.XI trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo Unii Europejskiej",
+     "k": "CW",
+     "p": "dr J. Uniejewski",
+     "r": "s. 215 Narutowicza",
+     "pg": "Prawo Unii Europejskiej:7"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "W",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr P. Wesner",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo handlowe I:1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo rodzinne:4",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Prawo spadkowe:7",
+     "n": "zajęcia dn. 4.XII trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr P. Wesner",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo handlowe I:4",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo rodzinne:7",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Prawo spadkowe:1",
+     "n": "zajęcia dn. 4.XII trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo handlowe I",
+     "k": "CW",
+     "p": "dr M. Wysocka-Orlik, mgr P. Wesner",
+     "r": "s. 118 al. Piastów 40b",
+     "pg": "Prawo handlowe I:5",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo rodzinne",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "r": "s. 102 al. Piastów 40b",
+     "pg": "Prawo rodzinne:6",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo spadkowe",
+     "k": "CW",
+     "p": "dr K. Grzesiowski",
+     "r": "s. 7-9 al. Piastów 40b",
+     "pg": "Prawo spadkowe:3",
+     "n": "zajęcia dn. 4.XII trwają 1 godz. w godzinach 10.00 - 10.45",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "KLINIKA PRAWA godz.",
+     "k": "X",
+     "n": "15.30 - 18.00"
+    }
+   ]
+  }
+ }
+}

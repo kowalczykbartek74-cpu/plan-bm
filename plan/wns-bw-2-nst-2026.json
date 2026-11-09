@@ -1,0 +1,1021 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (15 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Bezpieczeństwo wewnętrzne",
+ "kierunekEn": "Internal Security",
+ "id": "wns-bw-2-nst-2026",
+ "kod": "bwmn26",
+ "wydzial": "WNS",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "BW1": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: mdfrpf6",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Komunikacja społeczna",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e3dp0x6",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: mdfrpf6",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: mdfrpf6",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Komunikacja społeczna",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e3dp0x6",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia bezpieczeństwa wewnętrznego",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-21",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia bezpieczeństwa wewnętrznego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "prof. I. Ramik-Mażewska",
+     "r": "s. 152",
+     "n": "9.00-9.30 - spotkanie z Dziekanem WNS prof. I. Ramik-Mażewska s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "n": "9.30-10.00 - spotkanie z opiekunem roku dr S. Ozdyk s.110",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr M. Mieczkowska",
+     "r": "s. 141",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia bezpieczeństwa wewnętrznego",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr M. Mieczkowska",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "s. 143",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia bezpieczeństwa wewnętrznego",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: mdfrpf6",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Mieczkowska",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Mieczkowska",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia bezpieczeństwa wewnętrznego w Polsce",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vmk8h4s",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Komunikacja społeczna",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e3dp0x6",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: mdfrpf6",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Komunikacja społeczna",
+     "k": "W",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e3dp0x6",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: mdfrpf6",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: mdfrpf6",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Komunikacja społeczna",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e3dp0x6",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia bezpieczeństwa wewnętrznego",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-21",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia bezpieczeństwa wewnętrznego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "prof. I. Ramik-Mażewska",
+     "r": "s. 152",
+     "n": "9.00-9.30 - spotkanie z Dziekanem WNS prof. I. Ramik-Mażewska s. 152",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Spotkanie organizacyjne",
+     "k": "X",
+     "time": [
+      "09:00",
+      "09:45"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "n": "9.30-10.00 - spotkanie z opiekunem roku dr S. Ozdyk s.110",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr M. Mieczkowska",
+     "r": "s. 141",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia bezpieczeństwa wewnętrznego",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr M. Mieczkowska",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "s. 143",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia bezpieczeństwa wewnętrznego",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. A. Staszczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: mdfrpf6",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Mieczkowska",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Mieczkowska",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "s. 177",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Filozofia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia bezpieczeństwa wewnętrznego w Polsce",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vmk8h4s",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Komunikacja społeczna",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: e3dp0x6",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne zagrożenia terroryzmem",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-08"
+     ]
+    }
+   ]
+  }
+ }
+}

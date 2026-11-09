@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "ARCH1": {
    "odd": [
@@ -23,13 +23,14 @@
       "08:00",
       "09:00"
      ],
-     "pl": "aktualne problemy badawcze: archeologia Bliskiego Wschodu zajcia w dniu",
+     "pl": "Aktualne problemy badawcze: archeologia Bliskiego Wschodu zajcia w dniu",
      "k": "W",
      "p": "dr K. Joka",
      "n": "e-learning:",
      "dates": [
       "2026-11-24"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -37,13 +38,14 @@
       "08:15",
       "09:45"
      ],
-     "pl": "aktualne problemy badawcze: archeologia Bliskiego Wschodu w dniu",
+     "pl": "Aktualne problemy badawcze: archeologia Bliskiego Wschodu w dniu",
      "k": "W",
      "p": "dr K. Joka",
      "n": "e-learning:",
      "dates": [
       "2026-11-17"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -51,7 +53,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "sztuka Bliskiego Wschodu (e- ) w kontakcie bezpośrednim: 01.XII, 08.XII.",
+     "pl": "Sztuka Bliskiego Wschodu (e- ) w kontakcie bezpośrednim: 01.XII, 08.XII.",
      "k": "K",
      "p": "dr K. Joka",
      "r": "s. 976",
@@ -75,7 +77,7 @@
       "10:00",
       "12:15"
      ],
-     "pl": "aktualne problemy badawcze: archeologia Bliskiego Wschodu po w kontakcie bezpośrednim: 01.XII 08.XII.",
+     "pl": "Aktualne problemy badawcze: archeologia Bliskiego Wschodu po w kontakcie bezpośrednim: 01.XII 08.XII.",
      "k": "W",
      "p": "dr K. Joka",
      "r": "s. 976",
@@ -100,7 +102,7 @@
       "12:30",
       "14:00"
      ],
-     "pl": "przeszłość w interpretacjach archeologicznych (e- ) w kontakcie bezpośrednim: 01.XII, 08.XII.",
+     "pl": "Przeszłość w interpretacjach archeologicznych (e- ) w kontakcie bezpośrednim: 01.XII, 08.XII.",
      "k": "K",
      "p": "dr K. Joka",
      "r": "s. 976",
@@ -124,7 +126,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. M. Szydłowski",
      "r": "gab. 977C (IH)",
@@ -152,7 +154,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "archeologia społeczna",
+     "pl": "Archeologia społeczna",
      "k": "W",
      "p": "dr M. Chmiel-Chrzanowska",
      "r": "s. 070 (IH)"
@@ -163,7 +165,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "śmierć – rytuał – tożsamość; obrzędowość pogrzebowa w strefie południowego Bałtyku w średniowieczu i czasach nowożytnych",
+     "pl": "Śmierć – rytuał – tożsamość; obrzędowość pogrzebowa w strefie południowego Bałtyku w średniowieczu i czasach nowożytnych",
      "k": "K",
      "p": "dr hab. M. Majewski, prof. US",
      "r": "s.070 (IH)",
@@ -186,7 +188,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr T. Michalik",
      "r": "gab. 977B (IH)",
@@ -214,7 +216,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "archeologia społeczna (komputerowa)",
+     "pl": "Archeologia społeczna (komputerowa)",
      "k": "CW",
      "p": "dr T. Michalik",
      "r": "s. 145"
@@ -225,7 +227,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "laboratorium archeologiczne (komputerowa)",
+     "pl": "Laboratorium archeologiczne (komputerowa)",
      "k": "CW",
      "p": "dr hab. M. Szydłowski",
      "r": "s. 145"
@@ -236,7 +238,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. G. Kiarszys, prof. US",
      "r": "gab. 977A (IH)",
@@ -264,7 +266,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "podstawy prawne ochrony zabytków",
+     "pl": "Podstawy prawne ochrony zabytków",
      "k": "CW",
      "p": "dr A. Matuszewska",
      "r": "s. 068 (IH)",
@@ -286,7 +288,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "aktualne problemy badawcze: epoka kamienia",
+     "pl": "Aktualne problemy badawcze: epoka kamienia",
      "k": "W",
      "p": "dr A. Matuszewska",
      "r": "s. 068 (IH)"
@@ -299,13 +301,14 @@
       "08:00",
       "09:00"
      ],
-     "pl": "aktualne problemy badawcze: archeologia Bliskiego Wschodu zajcia w dniu",
+     "pl": "Aktualne problemy badawcze: archeologia Bliskiego Wschodu zajcia w dniu",
      "k": "W",
      "p": "dr K. Joka",
      "n": "e-learning:",
      "dates": [
       "2026-11-24"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -313,13 +316,14 @@
       "08:15",
       "09:45"
      ],
-     "pl": "aktualne problemy badawcze: archeologia Bliskiego Wschodu w dniu",
+     "pl": "Aktualne problemy badawcze: archeologia Bliskiego Wschodu w dniu",
      "k": "W",
      "p": "dr K. Joka",
      "n": "e-learning:",
      "dates": [
       "2026-11-17"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 1,
@@ -327,7 +331,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "sztuka Bliskiego Wschodu (e- ) w kontakcie bezpośrednim: 01.XII, 08.XII.",
+     "pl": "Sztuka Bliskiego Wschodu (e- ) w kontakcie bezpośrednim: 01.XII, 08.XII.",
      "k": "K",
      "p": "dr K. Joka",
      "r": "s. 976",
@@ -351,7 +355,7 @@
       "10:00",
       "12:15"
      ],
-     "pl": "aktualne problemy badawcze: archeologia Bliskiego Wschodu po w kontakcie bezpośrednim: 01.XII 08.XII.",
+     "pl": "Aktualne problemy badawcze: archeologia Bliskiego Wschodu po w kontakcie bezpośrednim: 01.XII 08.XII.",
      "k": "W",
      "p": "dr K. Joka",
      "r": "s. 976",
@@ -376,7 +380,7 @@
       "12:30",
       "14:00"
      ],
-     "pl": "przeszłość w interpretacjach archeologicznych (e- ) w kontakcie bezpośrednim: 01.XII, 08.XII.",
+     "pl": "Przeszłość w interpretacjach archeologicznych (e- ) w kontakcie bezpośrednim: 01.XII, 08.XII.",
      "k": "K",
      "p": "dr K. Joka",
      "r": "s. 976",
@@ -400,7 +404,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. M. Szydłowski",
      "r": "gab. 977C (IH)",
@@ -428,7 +432,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "archeologia społeczna",
+     "pl": "Archeologia społeczna",
      "k": "W",
      "p": "dr M. Chmiel-Chrzanowska",
      "r": "s. 070 (IH)"
@@ -439,7 +443,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "śmierć – rytuał – tożsamość; obrzędowość pogrzebowa w strefie południowego Bałtyku w średniowieczu i czasach nowożytnych",
+     "pl": "Śmierć – rytuał – tożsamość; obrzędowość pogrzebowa w strefie południowego Bałtyku w średniowieczu i czasach nowożytnych",
      "k": "K",
      "p": "dr hab. M. Majewski, prof. US",
      "r": "s.070 (IH)",
@@ -462,7 +466,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr T. Michalik",
      "r": "gab. 977B (IH)",
@@ -490,7 +494,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "archeologia społeczna (komputerowa)",
+     "pl": "Archeologia społeczna (komputerowa)",
      "k": "CW",
      "p": "dr T. Michalik",
      "r": "s. 145"
@@ -501,7 +505,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "laboratorium archeologiczne (komputerowa)",
+     "pl": "Laboratorium archeologiczne (komputerowa)",
      "k": "CW",
      "p": "dr hab. M. Szydłowski",
      "r": "s. 145"
@@ -512,7 +516,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. G. Kiarszys, prof. US",
      "r": "gab. 977A (IH)",
@@ -540,7 +544,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "podstawy prawne ochrony zabytków",
+     "pl": "Podstawy prawne ochrony zabytków",
      "k": "CW",
      "p": "dr A. Matuszewska",
      "r": "s. 068 (IH)",
@@ -562,7 +566,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "aktualne problemy badawcze: epoka kamienia",
+     "pl": "Aktualne problemy badawcze: epoka kamienia",
      "k": "W",
      "p": "dr A. Matuszewska",
      "r": "s. 068 (IH)"

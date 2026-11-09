@@ -1,0 +1,515 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/II-PSM-I-st.-17.pdf",
+ "wersja": "II-PSM-I-st.-17.pdf",
+ "sha256": "2d3be9060cf82192567226e098d7f8cd29d41d0477cd9e85c08f05a5a4a78fad",
+ "kierunek": "Prawo służb mundurowych",
+ "kierunekEn": "Law for Uniformed Services",
+ "id": "wpia-psm-1-st-2025",
+ "kod": "psm25",
+ "wydzial": "WPiA",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:54:22.756Z",
+ "checkedAt": "2026-11-09T22:54:22.756Z",
+ "groups": {
+  "PSM2": {
+   "odd": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Pragmatyki służbowe",
+     "k": "W",
+     "p": "dr S. Driczinski",
+     "r": "s. 121 Narutowicza"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Statyka postępowania karnego",
+     "k": "W",
+     "p": "dr M. Jasińska",
+     "r": "s. 121 Narutowicza",
+     "n": "UWAGA! Z wyłączeniem 10.XI - zajęcia odbędą się dn. 14.I [czwartek] w godz. 13.30 - 15.00, s. 219 Narutowicza"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Teoria i praktyka negocjacji",
+     "k": "K",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Aspekty finansowania służb mundurowych",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 121 Narutowicza",
+     "n": "zajęcia dn. 15.XII trwają 1 godz. w godzinach 13.30 - 14.15",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Ochrona danych osobowych",
+     "k": "CW",
+     "p": "mgr A. Giedrys",
+     "r": "s. 121 Narutowicza",
+     "n": "zajęcia dn. 15.XII trwają 1 godz. w godzinach 15.30 - 16.15",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 220 Narutowicza"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Pragmatyki służbowe",
+     "k": "CW",
+     "p": "dr S. Driczinski",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "szczegóły: https://swfis.usz.edu.pl/"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "dr P. Wahl, prof. US",
+     "r": "s. 9"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Ochrona danych osobowych",
+     "k": "W",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 219 Narutowicza",
+     "n": "zajęcia dn. 17.XII trwają 1 godz. w godzinach 14.15 - 15.00",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "mgr A. Poczewski",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Statyka postępowania karnego",
+     "k": "CW",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 219 Narutowicza",
+     "n": "UWAGA! z wyłączeniem terminów 22.X, 19.XI, 3.XII - zajęcia odbędą się 6.X [wtorek], 20.X [wtorek] w godzinach 13.30 - 15.00, s. 121 Narutowicza oraz 9.XII [środa] w godz. 11.45 - 13.15, s. 220 Narutowicza"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany )",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie w sprawach nieletnich",
+     "k": "K",
+     "p": "dr P. Kobes",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-02",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Pragmatyki służbowe",
+     "k": "W",
+     "p": "dr S. Driczinski",
+     "r": "s. 121 Narutowicza"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Statyka postępowania karnego",
+     "k": "W",
+     "p": "dr M. Jasińska",
+     "r": "s. 121 Narutowicza",
+     "n": "UWAGA! Z wyłączeniem 10.XI - zajęcia odbędą się dn. 14.I [czwartek] w godz. 13.30 - 15.00, s. 219 Narutowicza"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Teoria i praktyka negocjacji",
+     "k": "K",
+     "p": "dr E. Jędrzejewska",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Aspekty finansowania służb mundurowych",
+     "k": "W",
+     "p": "dr hab. W. Bożek, prof. US",
+     "r": "s. 121 Narutowicza",
+     "n": "zajęcia dn. 15.XII trwają 1 godz. w godzinach 13.30 - 14.15",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "Ochrona danych osobowych",
+     "k": "CW",
+     "p": "mgr A. Giedrys",
+     "r": "s. 121 Narutowicza",
+     "n": "zajęcia dn. 15.XII trwają 1 godz. w godzinach 15.30 - 16.15",
+     "dates": [
+      "2026-10-13",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "W",
+     "p": "dr E. Koniuszewska",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 1 godz. w godzinach 9.00 - 9.45",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Postępowanie administracyjne",
+     "k": "CW",
+     "p": "mgr A. Budysz",
+     "r": "s. 220 Narutowicza"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Pragmatyki służbowe",
+     "k": "CW",
+     "p": "dr S. Driczinski",
+     "r": "s. 220 Narutowicza",
+     "n": "zajęcia dn. 2.XII trwają 1 godz. w godzinach 11.45 - 12.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "20:15"
+     ],
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "n": "szczegóły: https://swfis.usz.edu.pl/"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "dr P. Wahl, prof. US",
+     "r": "s. 9"
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Ochrona danych osobowych",
+     "k": "W",
+     "p": "dr A. Pyrzyńska",
+     "r": "s. 219 Narutowicza",
+     "n": "zajęcia dn. 17.XII trwają 1 godz. w godzinach 14.15 - 15.00",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "p": "mgr A. Poczewski",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Statyka postępowania karnego",
+     "k": "CW",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 219 Narutowicza",
+     "n": "UWAGA! z wyłączeniem terminów 22.X, 19.XI, 3.XII - zajęcia odbędą się 6.X [wtorek], 20.X [wtorek] w godzinach 13.30 - 15.00, s. 121 Narutowicza oraz 9.XII [środa] w godz. 11.45 - 13.15, s. 220 Narutowicza"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład ogólnouczelniany )",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Postępowanie w sprawach nieletnich",
+     "k": "K",
+     "p": "dr P. Kobes",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-02",
+      "2026-10-16",
+      "2026-10-30",
+      "2026-11-13",
+      "2026-11-27"
+     ]
+    }
+   ]
+  }
+ }
+}

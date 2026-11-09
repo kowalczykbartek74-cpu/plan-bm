@@ -1,0 +1,781 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (14 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika specjalna",
+ "kierunekEn": "Special Education",
+ "id": "wns-pedsp-0-nst-2023",
+ "kod": "pedspjn23",
+ "wydzial": "WNS",
+ "rok": 4,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PEDSP4": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr D. Mysliński",
+     "r": "online",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Profilaktyka przemocy w szkole i socjoterapia",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab.. I. Ramik - Mazewska, prof. .US",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Profilaktyka przemocy w szkole i socjoterapia",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab.. I. Ramik - Mazewska, prof. .US",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr D. Mysliński",
+     "r": "online",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Current problems of education ( wybrane problemy edukacyjne)",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji informatycznej i posługiwanie się technologią informacyjno-komunikacyjną w pracy pedagoga specjalnego",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 100 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 011 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Current problems of education ( wybrane problemy edukacyjne)",
+     "k": "W",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji informatycznej i posługiwanie się technologią informacyjno-komunikacyjną w pracy pedagoga specjalnego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210 Mickiewicza 16a",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia badań ilościowych (ze statystyką)",
+     "k": "W",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr hab. R. Iwański",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "p": "dr D. Mysliński",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Strategia badań ilościowych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. R. Iwański",
+     "r": "s. 320 Mickiewicza 16a WNŚiP",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "13:15"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "17:45"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji informatycznej i posługiwanie się technologią informacyjno-komunikacyjną w pracy pedagoga specjalnego",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210 Mickiewicza 16a WNŚiP",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 320 Mickiewicz 16a WNŚiP",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr D. Mysliński",
+     "r": "online",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Profilaktyka przemocy w szkole i socjoterapia",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab.. I. Ramik - Mazewska, prof. .US",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Profilaktyka przemocy w szkole i socjoterapia",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab.. I. Ramik - Mazewska, prof. .US",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr D. Mysliński",
+     "r": "online",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Current problems of education ( wybrane problemy edukacyjne)",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji informatycznej i posługiwanie się technologią informacyjno-komunikacyjną w pracy pedagoga specjalnego",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 100 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka nauczania i wychowaniaz niepełnosprawnością intelektualną w stopniu lekkim w edukacji włączającej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 011 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Current problems of education ( wybrane problemy edukacyjne)",
+     "k": "W",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji informatycznej i posługiwanie się technologią informacyjno-komunikacyjną w pracy pedagoga specjalnego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210 Mickiewicza 16a",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Strategia badań ilościowych (ze statystyką)",
+     "k": "W",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr hab. R. Iwański",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "p": "dr D. Mysliński",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Strategia badań ilościowych",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. R. Iwański",
+     "r": "s. 320 Mickiewicza 16a WNŚiP",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "13:15"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Diagnoza dla potrzeb zróżnicowanego wsparcia w edukacji",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "17:45"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka edukacji informatycznej i posługiwanie się technologią informacyjno-komunikacyjną w pracy pedagoga specjalnego",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210 Mickiewicza 16a WNŚiP",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka kształcenia w grupach zróżnicowanych w klasach starszych szkoły podstawowej i w szkole ponadpodstawowej",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. dr hab. T. Żółkowska",
+     "r": "s. 320 Mickiewicz 16a WNŚiP",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,255 @@
+{
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/optyka_I-st.-3-rok.pdf",
+ "wersja": "optyka_I-st.-3-rok.pdf",
+ "sha256": "4f7c0d342f2831260bf0ca23ada22a4ac61025a8d8c7ad520999f7fc5ca1fe33",
+ "kierunek": "Optyka okularowa",
+ "kierunekEn": "Ophthalmic Optics",
+ "id": "wnsip-optyka-1-st-2024",
+ "kod": "optyka24",
+ "wydzial": "WNŚiP",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:37:44.669Z",
+ "checkedAt": "2026-11-09T22:50:40.599Z",
+ "groups": {
+  "OPTYKA3": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Nauka o wzroku",
+     "k": "K",
+     "time": [
+      "09:00",
+      "12:15"
+     ],
+     "p": "prof. dr hab. T. Zwierko",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Specjalistyczne pomoce wzrokowe",
+     "k": "K",
+     "time": [
+      "13:30",
+      "15:05"
+     ],
+     "p": "dr N. Targosz-Ślęczka",
+     "r": "s. 35"
+    },
+    {
+     "d": 0,
+     "pl": "Optyka okularowa",
+     "k": "LAB",
+     "time": [
+      "17:20",
+      "19:50"
+     ],
+     "p": "mgr inż E. Hubka-Sawa",
+     "r": "s. 36"
+    },
+    {
+     "d": 1,
+     "pl": "Metody fizyki doświadczalnej",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "14:15"
+     ],
+     "p": "dr M. Paczwa",
+     "r": "s. 113",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Pracownia pomocy wzrokowych",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr B. Kosiński",
+     "r": "s. 36",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "r": "s. 116 (aula) ul. Wielkopolska 15",
+     "dates": [
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "mgr I. Niedzielska",
+     "r": "s. 203W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Nauka o wzroku",
+     "k": "K",
+     "time": [
+      "09:00",
+      "12:15"
+     ],
+     "p": "prof. dr hab. T. Zwierko",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Specjalistyczne pomoce wzrokowe",
+     "k": "K",
+     "time": [
+      "13:30",
+      "15:05"
+     ],
+     "p": "dr N. Targosz-Ślęczka",
+     "r": "s. 35"
+    },
+    {
+     "d": 0,
+     "pl": "Optyka okularowa",
+     "k": "LAB",
+     "time": [
+      "17:20",
+      "19:50"
+     ],
+     "p": "mgr inż E. Hubka-Sawa",
+     "r": "s. 36"
+    },
+    {
+     "d": 1,
+     "pl": "Metody fizyki doświadczalnej",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "14:15"
+     ],
+     "p": "dr M. Paczwa",
+     "r": "s. 113",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Pracownia pomocy wzrokowych",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr B. Kosiński",
+     "r": "s. 36",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "r": "s. 116 (aula) ul. Wielkopolska 15",
+     "dates": [
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Wykład z dziedziny nauk humanistycznych lub społecznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Język angielski",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "p": "mgr I. Niedzielska",
+     "r": "s. 203W"
+    }
+   ]
+  }
+ }
+}

@@ -79,18 +79,21 @@ test("kolejka: pozycje panelu, „tak” dla niezmienionych, zatwierdzony plan t
   const r = { id: "wpia-prawo-0-st-2026", kierunek: { pl: "Prawo" }, stopien: 0, rok: 1, groups, sha256: "a".repeat(64), source: "https://wpia.usz.edu.pl/wp-content/uploads/I-SSP-26.pdf" };
   const wywolania = [];
   const baza = (odp) => async (nazwa, body) => { wywolania.push([nazwa, body]); return odp[nazwa]; };
-  const ten = await przezKolejke(r, { wydzial: "WPiA", naSucho: true, fetchFn: baza({ nauka_import_plan_publiczny: { ok: true, sha: "a".repeat(64), groups: zPanelu } }) });
+  const ten = await przezKolejke(r, { wydzial: "WPiA", odRazu: false, naSucho: true, fetchFn: baza({ nauka_import_plan_publiczny: { ok: true, sha: "a".repeat(64), groups: zPanelu } }) });
   assert.equal(ten.status, "zatwierdzony"); assert.equal(ten.groups.PRAWO1.odd.length, 1);
-  const nowy = await przezKolejke(r, { wydzial: "WPiA", naSucho: true, token: "t".repeat(64), fetchFn: baza({ nauka_import_plan_publiczny: { ok: true, sha: "b".repeat(64), groups: zPanelu } }) });
+  const nowy = await przezKolejke(r, { wydzial: "WPiA", odRazu: false, naSucho: true, token: "t".repeat(64), fetchFn: baza({ nauka_import_plan_publiczny: { ok: true, sha: "b".repeat(64), groups: zPanelu } }) });
   assert.equal(nowy.status, "czeka na zatwierdzenie"); assert.equal(nowy.doDecyzji, 92, "zatwierdzona pozycja różni się od nowej (inny prowadzący) → do decyzji");
   assert.ok(nowy.poprzedni, "na stronie zostaje poprzedni zatwierdzony plan");
   assert.ok(!wywolania.some(([n]) => n === "nauka_import_szkic_automat"), "na sucho nic nie wysyła");
-  const wysl = await przezKolejke(r, { wydzial: "WPiA", katalog: fs.mkdtempSync("/tmp/szkice-"), token: "t".repeat(64), fetchFn: baza({ nauka_import_plan_publiczny: { ok: false }, nauka_import_szkic_automat: { ok: true, id: "x" } }) });
+  const wysl = await przezKolejke(r, { wydzial: "WPiA", odRazu: false, katalog: fs.mkdtempSync("/tmp/szkice-"), token: "t".repeat(64), fetchFn: baza({ nauka_import_plan_publiczny: { ok: false }, nauka_import_szkic_automat: { ok: true, id: "x" } }) });
   assert.equal(wysl.wyslany, true);
   const [, body] = wywolania.find(([n]) => n === "nauka_import_szkic_automat");
   assert.equal(body.p_rocznik, "wpia-prawo-0-st-2026"); assert.equal(body.p_pozycje.length, 92); assert.equal(body.p_wydzial, "WPiA");
+  // decyzja 9.11: WPiA „publikacja: od razu” (config) – plan z parsera na stronę, szkic i tak do panelu
+  const od = await przezKolejke(r, { wydzial: "WPiA", naSucho: true, fetchFn: baza({ nauka_import_plan_publiczny: { ok: true, sha: "b".repeat(64), groups: zPanelu } }) });
+  assert.deepEqual([od.status, od.odRazu, od.groups.PRAWO1.odd.length > 1], ["zatwierdzony", true, true]);
   // sekret wklejony ze spacją / nową linią / w cudzysłowie → do bazy idzie sam token
   wywolania.length = 0;
-  await przezKolejke(r, { wydzial: "WPiA", katalog: fs.mkdtempSync("/tmp/szkice-"), token: ` "${"t".repeat(64)}"\n`, fetchFn: baza({ nauka_import_plan_publiczny: { ok: false }, nauka_import_szkic_automat: { ok: true, id: "y" } }) });
+  await przezKolejke(r, { wydzial: "WPiA", odRazu: false, katalog: fs.mkdtempSync("/tmp/szkice-"), token: ` "${"t".repeat(64)}"\n`, fetchFn: baza({ nauka_import_plan_publiczny: { ok: false }, nauka_import_szkic_automat: { ok: true, id: "y" } }) });
   assert.equal(wywolania.find(([n]) => n === "nauka_import_szkic_automat")[1].p_token, "t".repeat(64));
 });

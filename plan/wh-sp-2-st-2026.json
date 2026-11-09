@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "SP1": {
    "odd": [
@@ -23,7 +23,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "komunikacja interpersonalna – warsztaty",
+     "pl": "Komunikacja interpersonalna – warsztaty",
      "k": "CW",
      "p": "dr hab. Maciej Duda, prof. US",
      "r": "s. 17-19",
@@ -47,7 +47,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "literackie rewolucje i skandale w + od 17:00 )",
+     "pl": "Literackie rewolucje i skandale w + od 17:00 )",
      "k": "W",
      "p": "dr Mariusz Strzeżek",
      "r": "s. 17-19",
@@ -70,7 +70,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "literatura na świecie",
+     "pl": "Literatura na świecie",
      "k": "W",
      "p": "prof. dr hab. Marta Skwara",
      "r": "s. 304"
@@ -81,7 +81,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "warsztaty redakcyjne",
+     "pl": "Warsztaty redakcyjne",
      "k": "CW",
      "p": "dr Aleksandra Grzemska",
      "r": "s. 119",
@@ -93,7 +93,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "antroponarracje",
+     "pl": "Antroponarracje",
      "k": "K",
      "p": "dr Jędrzej Wijas",
      "r": "s. 219",
@@ -105,7 +105,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "warsztaty pisarskie",
+     "pl": "Warsztaty pisarskie",
      "k": "K",
      "p": "dr Barbara Elmanowska",
      "r": "s. 17-19",
@@ -128,7 +128,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "copywriting",
+     "pl": "Copywriting",
      "k": "W",
      "p": "dr Krzysztof Flasiński",
      "r": "s. 17-19"
@@ -139,10 +139,11 @@
       "19:15",
       "20:45"
      ],
-     "pl": "copywriting e- KOD TEAMS: dwugu7x",
+     "pl": "Copywriting e- KOD TEAMS: dwugu7x",
      "k": "K",
      "p": "dr Krzysztof Flasiński",
-     "pg": "gr:1"
+     "pg": "gr:1",
+     "r": "online"
     }
    ],
    "even": [
@@ -152,7 +153,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "komunikacja interpersonalna – warsztaty",
+     "pl": "Komunikacja interpersonalna – warsztaty",
      "k": "CW",
      "p": "dr hab. Maciej Duda, prof. US",
      "r": "s. 17-19",
@@ -176,7 +177,7 @@
       "15:15",
       "18:30"
      ],
-     "pl": "literackie rewolucje i skandale w + od 17:00 )",
+     "pl": "Literackie rewolucje i skandale w + od 17:00 )",
      "k": "W",
      "p": "dr Mariusz Strzeżek",
      "r": "s. 17-19",
@@ -199,7 +200,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "literatura na świecie",
+     "pl": "Literatura na świecie",
      "k": "W",
      "p": "prof. dr hab. Marta Skwara",
      "r": "s. 304"
@@ -210,7 +211,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "warsztaty redakcyjne",
+     "pl": "Warsztaty redakcyjne",
      "k": "CW",
      "p": "dr Aleksandra Grzemska",
      "r": "s. 119",
@@ -222,7 +223,7 @@
       "18:45",
       "20:15"
      ],
-     "pl": "antroponarracje",
+     "pl": "Antroponarracje",
      "k": "K",
      "p": "dr Jędrzej Wijas",
      "r": "s. 219",
@@ -234,7 +235,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "warsztaty pisarskie",
+     "pl": "Warsztaty pisarskie",
      "k": "K",
      "p": "dr Barbara Elmanowska",
      "r": "s. 17-19",
@@ -257,7 +258,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "copywriting",
+     "pl": "Copywriting",
      "k": "W",
      "p": "dr Krzysztof Flasiński",
      "r": "s. 17-19"
@@ -268,10 +269,11 @@
       "19:15",
       "20:45"
      ],
-     "pl": "copywriting e- KOD TEAMS: dwugu7x",
+     "pl": "Copywriting e- KOD TEAMS: dwugu7x",
      "k": "K",
      "p": "dr Krzysztof Flasiński",
-     "pg": "gr:1"
+     "pg": "gr:1",
+     "r": "online"
     }
    ]
   }

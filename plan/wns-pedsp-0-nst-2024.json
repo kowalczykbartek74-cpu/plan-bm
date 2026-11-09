@@ -1,0 +1,673 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (13 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika specjalna",
+ "kierunekEn": "Special Education",
+ "id": "wns-pedsp-0-nst-2024",
+ "kod": "pedspjn24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T22:49:09.359Z",
+ "groups": {
+  "PEDSP3": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Logopedia",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr L. Konopska",
+     "r": "online",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Praca z uczniem z zaburzeniem ze spektrum autyzmu",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr J. Buława-Halasz",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla oób z niepełnosprawnością",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "online",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla oób z niepełnosprawnością",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 246 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla oób z niepełnosprawnością",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla oób z niepełnosprawnością",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 246 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Rodzina a niepełnosprawność",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "mgr m. Iwan",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Rodzina a niepełnosprawność",
+     "k": "W",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 100 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Logopedia",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr L. Konopska, prof.US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Praca z uczniem z zaburzeniem ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. M. Wlazło, prof. US",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Wlazło, prof. US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr hab. M. Wlazło, prof.",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Rodzina a niepełnosprawność",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "14:15"
+     ],
+     "p": "mgr m. Iwan",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, J. Stankiewicz-Rycielska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Logopedia",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr L. Konopska, prof.US",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Logopedia",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr L. Konopska",
+     "r": "online",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Praca z uczniem z zaburzeniem ze spektrum autyzmu",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr J. Buława-Halasz",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla oób z niepełnosprawnością",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "online",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla oób z niepełnosprawnością",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 246 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla oób z niepełnosprawnością",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla oób z niepełnosprawnością",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 246 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Rodzina a niepełnosprawność",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "mgr m. Iwan",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Rodzina a niepełnosprawność",
+     "k": "W",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "r": "s. 100 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Logopedia",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr L. Konopska, prof.US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Praca z uczniem z zaburzeniem ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. M. Wlazło, prof. US",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Wlazło, prof. US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr hab. M. Wlazło, prof.",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Rodzina a niepełnosprawność",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "14:15"
+     ],
+     "p": "mgr m. Iwan",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, J. Stankiewicz-Rycielska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Logopedia",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr L. Konopska, prof.US",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    }
+   ]
+  }
+ }
+}

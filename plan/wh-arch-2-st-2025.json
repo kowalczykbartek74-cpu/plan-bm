@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T20:26:14.809Z",
+ "changedAt": "2026-11-09T22:48:25.524Z",
+ "checkedAt": "2026-11-09T22:48:25.524Z",
  "groups": {
   "ARCH2": {
    "odd": [
@@ -23,7 +23,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr A. Pałgan",
      "r": "s. 069 (IH)",
@@ -35,7 +35,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zaawansowane metody badań bioarcheologicznych w terminach: 18.XI. – po 10:45-13:15; w kontakcie bezpośrednim w dniu 29.I. 10:00-13:15, s .976",
+     "pl": "Zaawansowane metody badań bioarcheologicznych w terminach: 18.XI. – po 10:45-13:15; w kontakcie bezpośrednim w dniu 29.I. 10:00-13:15, s .976",
      "k": "CW",
      "p": "dr R. Fetner",
      "n": "e-learning:",
@@ -50,7 +50,8 @@
       "2027-01-13",
       "2027-01-20",
       "2027-01-27"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -58,13 +59,14 @@
       "13:30",
       "15:00"
      ],
-     "pl": "archeoturystyka (e- kod: nh1i4xg ) (w kontakcie bezpośrednim w terminach: ) s .069",
+     "pl": "Archeoturystyka (e- kod: nh1i4xg ) (w kontakcie bezpośrednim w terminach: ) s .069",
      "k": "CW",
      "p": "dr hab. M. Szydłowski",
      "n": "archeoturystyka (ć) (30) dr hab. M. Szydłowski (e-zajęcia kod: nh1i4xg ) (w kontakcie bezpośrednim w terminach: 21.X; 29.I.) s .069 (IH)",
      "dates": [
       "2026-10-21"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -72,13 +74,14 @@
       "15:15",
       "16:45"
      ],
-     "pl": "archeoturystyka (e- kod: 1r69cmn) (w kontakcie bezpośrednim w terminach: ) s .069",
+     "pl": "Archeoturystyka (e- kod: 1r69cmn) (w kontakcie bezpośrednim w terminach: ) s .069",
      "k": "W",
      "p": "dr hab. M. Szydłowski",
      "n": "archeoturystyka (w) (30) dr hab. M. Szydłowski (e-zajęcia kod: 1r69cmn) (w kontakcie bezpośrednim w terminach: 21.X; 29.I.) s .069 (IH)",
      "dates": [
       "2026-10-21"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -86,7 +89,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "e- (kod: 0tzasx6 ) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "pl": "E- (kod: 0tzasx6 ) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
      "k": "S",
      "p": "dr hab. M. Majewski, prof. US",
      "r": "gab. 977A (IH)",
@@ -104,7 +107,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "e- (kod: 2gwq4m5) seminarium dyplomowe",
+     "pl": "E- (kod: 2gwq4m5) seminarium dyplomowe",
      "k": "S",
      "p": "dr A. Matuszewska",
      "dates": [
@@ -129,7 +132,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "e- (kod: 78h2gh0) seminarium dyplomowe",
+     "pl": "E- (kod: 78h2gh0) seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. F. Biermann, prof. US",
      "dates": [
@@ -154,7 +157,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "e- (kod: jp0l4l3) seminarium dyplomowe",
+     "pl": "E- (kod: jp0l4l3) seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. G. Kiarszys, prof. US",
      "dates": [
@@ -179,7 +182,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "przedmiot do wyboru: archeologia zmysłów: doświadczanie przeszłości",
+     "pl": "Przedmiot do wyboru: archeologia zmysłów: doświadczanie przeszłości",
      "k": "W",
      "p": "dr T. Michalik",
      "r": "s. 068 (IH)"
@@ -190,7 +193,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "aktualne problemy badawcze: archeologia wczesnego średniowiecza",
+     "pl": "Aktualne problemy badawcze: archeologia wczesnego średniowiecza",
      "k": "W",
      "p": "dr hab. F. Biermann, prof. US",
      "r": "s. 068 (IH)"
@@ -201,7 +204,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "archeologia Europy Północnej w dobie Hanzy",
+     "pl": "Archeologia Europy Północnej w dobie Hanzy",
      "k": "W",
      "p": "dr hab. M. Majewski, prof. US",
      "r": "s. 069 (IH)"
@@ -212,7 +215,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "archeologia Europy Północnej w dobie Hanzy",
+     "pl": "Archeologia Europy Północnej w dobie Hanzy",
      "k": "CW",
      "p": "dr hab. M. Majewski, prof. US",
      "r": "s. 069 (IH)"
@@ -250,7 +253,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. F. Biermann, prof. US",
      "r": "gab.074A (IH)"
@@ -261,7 +264,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "aktualne problemy badawcze: archeologia wczesnego średniowiecza",
+     "pl": "Aktualne problemy badawcze: archeologia wczesnego średniowiecza",
      "k": "CW",
      "p": "dr hab. F. Biermann, prof. US",
      "r": "s.068 (IH)",
@@ -283,7 +286,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "pl": "Seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
      "k": "S",
      "p": "dr hab. G. Kiarszys, prof. US",
      "r": "gab. 977A (IH)",
@@ -303,7 +306,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "język angielski",
+     "pl": "Język angielski",
      "k": "CW",
      "p": "mgr A. Pałgan",
      "r": "s. 069 (IH)",
@@ -315,7 +318,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "zaawansowane metody badań bioarcheologicznych w terminach: 18.XI. – po 10:45-13:15; w kontakcie bezpośrednim w dniu 29.I. 10:00-13:15, s .976",
+     "pl": "Zaawansowane metody badań bioarcheologicznych w terminach: 18.XI. – po 10:45-13:15; w kontakcie bezpośrednim w dniu 29.I. 10:00-13:15, s .976",
      "k": "CW",
      "p": "dr R. Fetner",
      "n": "e-learning:",
@@ -330,7 +333,8 @@
       "2027-01-13",
       "2027-01-20",
       "2027-01-27"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -338,13 +342,14 @@
       "13:30",
       "15:00"
      ],
-     "pl": "archeoturystyka (e- kod: nh1i4xg ) (w kontakcie bezpośrednim w terminach: ) s .069",
+     "pl": "Archeoturystyka (e- kod: nh1i4xg ) (w kontakcie bezpośrednim w terminach: ) s .069",
      "k": "CW",
      "p": "dr hab. M. Szydłowski",
      "n": "archeoturystyka (ć) (30) dr hab. M. Szydłowski (e-zajęcia kod: nh1i4xg ) (w kontakcie bezpośrednim w terminach: 21.X; 29.I.) s .069 (IH)",
      "dates": [
       "2026-10-21"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -352,13 +357,14 @@
       "15:15",
       "16:45"
      ],
-     "pl": "archeoturystyka (e- kod: 1r69cmn) (w kontakcie bezpośrednim w terminach: ) s .069",
+     "pl": "Archeoturystyka (e- kod: 1r69cmn) (w kontakcie bezpośrednim w terminach: ) s .069",
      "k": "W",
      "p": "dr hab. M. Szydłowski",
      "n": "archeoturystyka (w) (30) dr hab. M. Szydłowski (e-zajęcia kod: 1r69cmn) (w kontakcie bezpośrednim w terminach: 21.X; 29.I.) s .069 (IH)",
      "dates": [
       "2026-10-21"
-     ]
+     ],
+     "r": "online"
     },
     {
      "d": 2,
@@ -366,7 +372,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "e- (kod: 0tzasx6 ) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "pl": "E- (kod: 0tzasx6 ) seminarium dyplomowe seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
      "k": "S",
      "p": "dr hab. M. Majewski, prof. US",
      "r": "gab. 977A (IH)",
@@ -384,7 +390,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "e- (kod: 2gwq4m5) seminarium dyplomowe",
+     "pl": "E- (kod: 2gwq4m5) seminarium dyplomowe",
      "k": "S",
      "p": "dr A. Matuszewska",
      "dates": [
@@ -409,7 +415,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "e- (kod: 78h2gh0) seminarium dyplomowe",
+     "pl": "E- (kod: 78h2gh0) seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. F. Biermann, prof. US",
      "dates": [
@@ -434,7 +440,7 @@
       "17:00",
       "18:30"
      ],
-     "pl": "e- (kod: jp0l4l3) seminarium dyplomowe",
+     "pl": "E- (kod: jp0l4l3) seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. G. Kiarszys, prof. US",
      "dates": [
@@ -459,7 +465,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "przedmiot do wyboru: archeologia zmysłów: doświadczanie przeszłości",
+     "pl": "Przedmiot do wyboru: archeologia zmysłów: doświadczanie przeszłości",
      "k": "W",
      "p": "dr T. Michalik",
      "r": "s. 068 (IH)"
@@ -470,7 +476,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "aktualne problemy badawcze: archeologia wczesnego średniowiecza",
+     "pl": "Aktualne problemy badawcze: archeologia wczesnego średniowiecza",
      "k": "W",
      "p": "dr hab. F. Biermann, prof. US",
      "r": "s. 068 (IH)"
@@ -481,7 +487,7 @@
       "13:30",
       "15:00"
      ],
-     "pl": "archeologia Europy Północnej w dobie Hanzy",
+     "pl": "Archeologia Europy Północnej w dobie Hanzy",
      "k": "W",
      "p": "dr hab. M. Majewski, prof. US",
      "r": "s. 069 (IH)"
@@ -492,7 +498,7 @@
       "15:15",
       "16:45"
      ],
-     "pl": "archeologia Europy Północnej w dobie Hanzy",
+     "pl": "Archeologia Europy Północnej w dobie Hanzy",
      "k": "CW",
      "p": "dr hab. M. Majewski, prof. US",
      "r": "s. 069 (IH)"
@@ -530,7 +536,7 @@
       "08:15",
       "09:45"
      ],
-     "pl": "seminarium dyplomowe",
+     "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr hab. F. Biermann, prof. US",
      "r": "gab.074A (IH)"
@@ -541,7 +547,7 @@
       "10:00",
       "11:30"
      ],
-     "pl": "aktualne problemy badawcze: archeologia wczesnego średniowiecza",
+     "pl": "Aktualne problemy badawcze: archeologia wczesnego średniowiecza",
      "k": "CW",
      "p": "dr hab. F. Biermann, prof. US",
      "r": "s.068 (IH)",
@@ -563,7 +569,7 @@
       "11:45",
       "13:15"
      ],
-     "pl": "seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
+     "pl": "Seminarium dyplomowe (w kontakcie bezpośrednim w terminach: )",
      "k": "S",
      "p": "dr hab. G. Kiarszys, prof. US",
      "r": "gab. 977A (IH)",

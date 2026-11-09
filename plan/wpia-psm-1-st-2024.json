@@ -1,0 +1,573 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-stacjonarne-I-stopnia.pdf",
+ "wersja": "III-prawo-służb-mundurowych-stacjonarne-I-stopnia.pdf",
+ "sha256": "444c8268df6f0cc331720e7cfc9017196ceaa682b3334ed07a9325b5a2c33a81",
+ "kierunek": "Prawo służb mundurowych",
+ "kierunekEn": "Law for Uniformed Services",
+ "id": "wpia-psm-1-st-2024",
+ "kod": "psm24",
+ "wydzial": "WPiA",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T22:51:41.490Z",
+ "groups": {
+  "PSM3": {
+   "odd": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Jasińska",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 8.15 - 9.00",
+     "dates": [
+      "2026-10-06",
+      "2026-10-20",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "W",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 19.I trwają 2 godz. w godzinach 10.00 - 11.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-20",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 103"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "dr P. Wahl, prof. US",
+     "r": "s. 9"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Schneider-Mikołajczyk",
+     "r": "s. 107"
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:00",
+      "14:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "n": "zajęcia dn. 20.I trwają 2 godz. w godzinach 12.00 - 13.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-16",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:00",
+      "14:30"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-14",
+      "2026-10-28",
+      "2026-11-18",
+      "2026-12-09",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "K",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 107",
+     "n": "zajęcia dn. 25.XI trwają 2 godz. w godzinach 15.15 - 16.45",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 121 Narutowicza"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "CW",
+     "p": "dr M. Jasińska",
+     "r": "s. 101 Narutowicza",
+     "n": "zajęcia dn. 28.I trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "CW",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 121 Narutowicza",
+     "n": "zajęcia dn. 18.I trwają 1 godz.",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-18",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. M. Tkaczuk, prof. US, dr K. Dąbrowski, dr E. Koniuszewska, dr S. Kowalski"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "K",
+     "p": "dr S. Kowalski",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-02",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "CW",
+     "p": "mgr N. Michalska",
+     "r": "s. 219 Narutowicza",
+     "n": "zajęcia dn. 22.I trwają 1 godz. w godzinach 15.15 - 16.00; UWAGA! Zajęcia dn. 8.I odbędą się w sali 220 Narutowicza",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Usługi detektywistyczne",
+     "k": "K",
+     "p": "mgr N. Michalska",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-30",
+      "2026-11-20",
+      "2026-12-18",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Jasińska",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 26.I trwają 1 godz. w godzinach 8.15 - 9.00",
+     "dates": [
+      "2026-10-06",
+      "2026-10-20",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "W",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 201 Narutowicza",
+     "n": "zajęcia dn. 19.I trwają 2 godz. w godzinach 10.00 - 11.30",
+     "dates": [
+      "2026-10-06",
+      "2026-10-20",
+      "2026-11-03",
+      "2026-11-17",
+      "2026-12-01",
+      "2026-12-15",
+      "2027-01-19"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 103"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "dr P. Wahl, prof. US",
+     "r": "s. 9"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Schneider-Mikołajczyk",
+     "r": "s. 107"
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:00",
+      "14:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "n": "zajęcia dn. 20.I trwają 2 godz. w godzinach 12.00 - 13.30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-21",
+      "2026-11-04",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-16",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "12:00",
+      "14:30"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 120 Narutowicza",
+     "dates": [
+      "2026-10-14",
+      "2026-10-28",
+      "2026-11-18",
+      "2026-12-09",
+      "2027-01-13"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "K",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 107",
+     "n": "zajęcia dn. 25.XI trwają 2 godz. w godzinach 15.15 - 16.45",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 121 Narutowicza"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "CW",
+     "p": "dr M. Jasińska",
+     "r": "s. 101 Narutowicza",
+     "n": "zajęcia dn. 28.I trwają 1 godz. w godzinach 10.45 - 11.30",
+     "dates": [
+      "2026-10-08",
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-03",
+      "2026-12-17",
+      "2027-01-14",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "CW",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 121 Narutowicza",
+     "n": "zajęcia dn. 18.I trwają 1 godz.",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-18",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. M. Tkaczuk, prof. US, dr K. Dąbrowski, dr E. Koniuszewska, dr S. Kowalski"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz: https://wpia.usz.edu.pl/rozklady-zajec/"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "K",
+     "p": "dr S. Kowalski",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-02",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "CW",
+     "p": "mgr N. Michalska",
+     "r": "s. 219 Narutowicza",
+     "n": "zajęcia dn. 22.I trwają 1 godz. w godzinach 15.15 - 16.00; UWAGA! Zajęcia dn. 8.I odbędą się w sali 220 Narutowicza",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-11-13",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Usługi detektywistyczne",
+     "k": "K",
+     "p": "mgr N. Michalska",
+     "r": "s. 219 Narutowicza",
+     "dates": [
+      "2026-10-30",
+      "2026-11-20",
+      "2026-12-18",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    }
+   ]
+  }
+ }
+}
