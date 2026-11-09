@@ -1,0 +1,30 @@
+<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Plan zajęć · Zdawalni</title><meta name="robots" content="noindex">
+<!-- Przeniesienie ustawień ze starego adresu plan.skrotbm.pl (repo plan-skrotbm-przekierowanie).
+     Przeglądarka trzyma wybraną grupę, podgrupę, kierunek, motyw i język osobno dla każdej domeny, więc stara strona
+     zbiera klucze bm-* i plan-* i przekazuje je tutaj w części adresu po # (ta część nie trafia na żaden serwer).
+     Zapisujemy tylko klucze, których tu jeszcze nie ma (nowsze ustawienia z plan.zdawalni.pl wygrywają), czyścimy adres
+     i otwieramy plan tam, gdzie ktoś chciał wejść (np. #/wefiz/zarz/1/c151 albo ?k=zarz26). -->
+<style>body{font:16px/1.5 system-ui,sans-serif;margin:0;display:grid;place-items:center;min-height:100vh;background:#fff;color:#0f2e1f}a{color:#0b6b3a}</style>
+<script>
+(function () {
+  var cel = "/";
+  try {
+    var p = new URLSearchParams(location.hash.slice(1));
+    var c = p.get("cel") || "/";
+    if (/^\/(?!\/)/.test(c) && !/^\/przenies\.html/.test(c)) cel = c;
+    var d = p.get("d");
+    if (d) {
+      var b = d.replace(/-/g, "+").replace(/_/g, "/");
+      while (b.length % 4) b += "=";
+      var dane = JSON.parse(decodeURIComponent(escape(atob(b))));
+      Object.keys(dane).forEach(function (k) {
+        if (!/^(bm-|plan-)/.test(k) || typeof dane[k] !== "string") return;
+        if (localStorage.getItem(k) === null) localStorage.setItem(k, dane[k]);
+      });
+    }
+  } catch (e) { /* uszkodzony adres albo brak localStorage: po prostu otwieramy plan */ }
+  location.replace(cel);
+})();
+</script></head>
+<body><p>Otwieram plan zajęć… <a href="/">plan.zdawalni.pl</a></p></body></html>

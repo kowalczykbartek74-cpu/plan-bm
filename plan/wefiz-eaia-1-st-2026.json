@@ -8,16 +8,17 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
- "changedAt": "2026-11-08T18:37:22.630Z",
- "checkedAt": "2026-11-08T20:19:54.477Z",
+ "updated": "09.11.2026 14:35",
+ "changedAt": "2026-11-08T20:54:21.350Z",
+ "checkedAt": "2026-11-09T15:37:21.092Z",
  "groups": {
   "M190": {
    "odd": [
     {
      "d": 2,
      "s": 0,
-     "pl": "Analiza matematyczna (mathematical analysis)",
+     "pl": "Analiza matematyczna",
+     "en": "Mathematical Analysis",
      "k": "W",
      "h": 15,
      "p": "dr Barbara Batóg",
@@ -26,7 +27,8 @@
     {
      "d": 1,
      "s": 1,
-     "pl": "Zarządzanie pracą zespołową (team work management)",
+     "pl": "Zarządzanie pracą zespołową",
+     "en": "Team Work Management",
      "k": "CW",
      "h": 15,
      "p": "dr Jarosław Poteralski",
@@ -35,7 +37,8 @@
     {
      "d": 2,
      "s": 1,
-     "pl": "Analiza matematyczna (mathematical analysis)",
+     "pl": "Analiza matematyczna",
+     "en": "Mathematical Analysis",
      "k": "CW",
      "h": 30,
      "p": "dr Barbara Batóg",
@@ -44,7 +47,8 @@
     {
      "d": 0,
      "s": 2,
-     "pl": "Zarządzanie organizacją (organisational management )",
+     "pl": "Zarządzanie organizacją",
+     "en": "Organisational Management",
      "k": "W",
      "h": 15,
      "p": "dr Aleksandra Rudawska",
@@ -53,7 +57,8 @@
     {
      "d": 1,
      "s": 2,
-     "pl": "Technologie informacyjne (information technologies - IT)",
+     "pl": "Technologie informacyjne",
+     "en": "Information Technologies - IT",
      "k": "W",
      "h": 15,
      "p": "dr Agata Wawrzyniak",
@@ -62,7 +67,8 @@
     {
      "d": 2,
      "s": 2,
-     "pl": "Statystyka opisowa (descriptive statistics)",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
      "k": "W",
      "h": 15,
      "p": "dr Krzysztof Dmytrów",
@@ -82,7 +88,8 @@
     {
      "d": 0,
      "s": 3,
-     "pl": "Makroekonomia (macroeconomics)",
+     "pl": "Makroekonomia",
+     "en": "Macroeconomics",
      "k": "CW",
      "h": 30,
      "p": "dr hab. prof. US Rafał Nagaj",
@@ -91,7 +98,8 @@
     {
      "d": 1,
      "s": 3,
-     "pl": "Technologie informacyjne (information technologies - IT)",
+     "pl": "Technologie informacyjne",
+     "en": "Information Technologies - IT",
      "k": "LAB",
      "g": "A",
      "h": 15,
@@ -101,7 +109,8 @@
     {
      "d": 1,
      "s": 3,
-     "pl": "Systemy pozyskiwania danych (data acquisition systems)",
+     "pl": "Systemy pozyskiwania danych",
+     "en": "Data Acquisition Systems",
      "k": "LAB",
      "g": "B",
      "h": 15,
@@ -111,7 +120,8 @@
     {
      "d": 2,
      "s": 3,
-     "pl": "Statystyka opisowa (descriptive statistics)",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
      "k": "CW",
      "h": 15,
      "p": "dr Krzysztof Dmytrów",
@@ -120,7 +130,8 @@
     {
      "d": 0,
      "s": 4,
-     "pl": "Prawo (law)",
+     "pl": "Prawo",
+     "en": "Law",
      "k": "W",
      "h": 30,
      "p": "dr Małgorzata Szymszon",
@@ -129,7 +140,8 @@
     {
      "d": 1,
      "s": 4,
-     "pl": "Technologie informacyjne (information technologies - IT)",
+     "pl": "Technologie informacyjne",
+     "en": "Information Technologies - IT",
      "k": "LAB",
      "g": "B",
      "h": 15,
@@ -139,7 +151,8 @@
     {
      "d": 1,
      "s": 4,
-     "pl": "Systemy pozyskiwania danych (data acquisition systems)",
+     "pl": "Systemy pozyskiwania danych",
+     "en": "Data Acquisition Systems",
      "k": "LAB",
      "g": "A",
      "h": 15,
@@ -151,7 +164,8 @@
     {
      "d": 2,
      "s": 0,
-     "pl": "Informatyka w ekonomii (informatics in economics)",
+     "pl": "Informatyka w ekonomii",
+     "en": "Informatics in Economics",
      "k": "LAB",
      "g": "A",
      "h": 15,
@@ -161,7 +175,8 @@
     {
      "d": 0,
      "s": 1,
-     "pl": "Ochrona własności intelektualnej (intellectual property protection)",
+     "pl": "Ochrona własności intelektualnej",
+     "en": "Intellectual Property Protection",
      "k": "W",
      "h": 8,
      "p": "dr Przemysław Katner",
@@ -170,7 +185,8 @@
     {
      "d": 1,
      "s": 1,
-     "pl": "Finanse (finance)",
+     "pl": "Finanse",
+     "en": "Finance",
      "k": "W",
      "h": 15,
      "p": "dr Marta Musiał",
@@ -179,7 +195,8 @@
     {
      "d": 2,
      "s": 1,
-     "pl": "Analiza matematyczna (mathematical analysis)",
+     "pl": "Analiza matematyczna",
+     "en": "Mathematical Analysis",
      "k": "CW",
      "h": 30,
      "p": "dr Barbara Batóg",
@@ -188,7 +205,8 @@
     {
      "d": 0,
      "s": 2,
-     "pl": "Makroekonomia (macroeconomics)",
+     "pl": "Makroekonomia",
+     "en": "Macroeconomics",
      "k": "W",
      "h": 15,
      "p": "dr hab. prof. US Rafał Nagaj",
@@ -197,7 +215,8 @@
     {
      "d": 1,
      "s": 2,
-     "pl": "Finanse (finance)",
+     "pl": "Finanse",
+     "en": "Finance",
      "k": "CW",
      "h": 15,
      "p": "dr Marta Musiał",
@@ -206,7 +225,8 @@
     {
      "d": 2,
      "s": 2,
-     "pl": "Statystyka opisowa (descriptive statistics)",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
      "k": "LAB",
      "g": "A",
      "h": 15,
@@ -216,7 +236,8 @@
     {
      "d": 2,
      "s": 2,
-     "pl": "Informatyka w ekonomii (informatics in economics)",
+     "pl": "Informatyka w ekonomii",
+     "en": "Informatics in Economics",
      "k": "LAB",
      "g": "B",
      "h": 15,
@@ -226,7 +247,8 @@
     {
      "d": 0,
      "s": 3,
-     "pl": "Makroekonomia (macroeconomics)",
+     "pl": "Makroekonomia",
+     "en": "Macroeconomics",
      "k": "CW",
      "h": 30,
      "p": "dr hab. prof. US Rafał Nagaj",
@@ -235,7 +257,8 @@
     {
      "d": 1,
      "s": 3,
-     "pl": "Informatyka w ekonomii (informatics in economics)",
+     "pl": "Informatyka w ekonomii",
+     "en": "Informatics in Economics",
      "k": "W",
      "h": 15,
      "p": "dr Agata Wawrzyniak",
@@ -244,7 +267,8 @@
     {
      "d": 2,
      "s": 3,
-     "pl": "Statystyka opisowa (descriptive statistics)",
+     "pl": "Statystyka opisowa",
+     "en": "Descriptive Statistics",
      "k": "LAB",
      "g": "B",
      "h": 15,
@@ -254,7 +278,8 @@
     {
      "d": 0,
      "s": 4,
-     "pl": "Prawo (law)",
+     "pl": "Prawo",
+     "en": "Law",
      "k": "W",
      "h": 30,
      "p": "dr Małgorzata Szymszon",
@@ -263,7 +288,8 @@
     {
      "d": 1,
      "s": 4,
-     "pl": "Systemy pozyskiwania danych (data acquisition systems)",
+     "pl": "Systemy pozyskiwania danych",
+     "en": "Data Acquisition Systems",
      "k": "W",
      "h": 15,
      "p": "dr Dominik Rozkrut",

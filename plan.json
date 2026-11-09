@@ -3,9 +3,9 @@
  "kierunek": "Business Management",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
- "changedAt": "2026-10-20T12:28:32.647Z",
- "checkedAt": "2026-11-08T18:54:52.806Z",
+ "updated": "09.11.2026 14:35",
+ "changedAt": "2026-11-09T13:42:41.157Z",
+ "checkedAt": "2026-11-09T15:37:20.290Z",
  "groups": {
   "C111": {
    "odd": [
@@ -51,7 +51,7 @@
      "s": 1,
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "r": "sala 002a dr Barbara Batóg",
+     "r": "sala 002 dr Barbara Batóg",
      "dates": [
       "2026-11-19"
      ],
@@ -306,7 +306,7 @@
      "s": 1,
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "r": "sala 002a dr Barbara Batóg",
+     "r": "sala 002 dr Barbara Batóg",
      "dates": [
       "2026-11-19"
      ],
@@ -516,7 +516,7 @@
      "s": 1,
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "r": "sala 002a dr Barbara Batóg",
+     "r": "sala 002 dr Barbara Batóg",
      "dates": [
       "2026-11-19"
      ],
@@ -895,7 +895,7 @@
     "title": "GRUPA C112",
     "ym": "2026-10",
     "pub": "2026-10-20",
-    "text": "Dnia 23.10.2026 zostają odwołane zajęcia z dr Barbarą Batóg. Termin odrobienia zajęć: 19.11.2026 godz. 12:00 sala 002"
+    "text": "Dnia 23.10.2026 zostają odwołane zajęcia z dr Barbarą Batóg. Termin odrobienia zajęć: 26.11.2026 godz. 12:00 sala 104"
    },
    {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c111-c112-c113-10/",
@@ -1129,14 +1129,14 @@
     {
      "type": "extra",
      "kind": "makeup",
-     "date": "2026-11-19",
+     "date": "2026-11-26",
      "start": "12:00",
      "end": "13:30",
      "pl": "Analiza matematyczna",
      "en": "Mathematical Analysis",
      "k": "X",
      "p": "dr Barbara Batóg",
-     "r": "s. 002",
+     "r": "s. 104",
      "post": 4
     }
    ],
@@ -1220,6 +1220,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-04T20:15:22.215Z"
+  "updatedAt": "2026-11-09T13:44:13.891Z"
  }
 }

@@ -5,7 +5,8 @@
 // Bez internetu: korzysta tylko z plan.json (z dołączonym kalendarzem roku).
 import fs from "node:fs";
 
-const SITE = "https://plan.skrotbm.pl";
+const SITE = "https://plan.zdawalni.pl";
+// PRODID i UID-y wydarzeń zostają @plan.skrotbm.pl: zmiana UID zdublowałaby wszystkie zajęcia w kalendarzach w telefonach.
 const SLOTS = [["8:15","9:45"],["10:00","11:30"],["12:00","13:30"],["13:45","15:15"],["15:30","17:00"],["17:15","18:45"],["19:00","20:30"]];
 const KIND = { W: "wykład", CW: "ćwiczenia", LAB: "laboratorium", K: "konwersatorium", S: "seminarium" };
 const SHORT = { W: "W", CW: "ĆW", LAB: "LAB", K: "K", S: "S" };

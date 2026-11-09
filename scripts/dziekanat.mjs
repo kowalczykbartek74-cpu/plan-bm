@@ -35,7 +35,7 @@ const SLOTS = [["8:15","9:45"],["10:00","11:30"],["12:00","13:30"],["13:45","15:
 
 // ---------- pobieranie ----------
 // Grzeczność wobec uczelni (spec): ≤ 1 zapytanie/s, User-Agent z adresem kontaktowym.
-const UA = "plan-bm (projekt studencki, plany zajec US, 1 zapytanie/s; skrotbm@outlook.com)";
+const UA = "plan-bm (projekt studencki, plany zajec US, plan.zdawalni.pl, 1 zapytanie/s; skrotbm@outlook.com)";
 let nastepne = 0;
 async function request(url) {
   const czekaj = nastepne - Date.now(); nastepne = Math.max(Date.now(), nastepne) + 1100;
@@ -640,7 +640,7 @@ async function main(K = BM) {
   if (fresh.length && !NA_SUCHO && !K.bezMaila) {   // roczniki US (Etap 6): komunikaty tylko na stronie, bez maila do starosty BM
     const body = `Na stronie dziekanatu pojawiły się nowe komunikaty dla ${K.opis}.\n\n${lines.join("\n\n") || "_Nie udało się ich przypiąć do konkretnych zajęć, zajrzyj do wpisów._"}\n\n` +
       `Wpisy:\n${fresh.map(p => `- [${p.title}](${p.url}): ${short(p.text || "", 300)}`).join("\n")}\n\n` +
-      `Plan na plan.skrotbm.pl już to pokazuje. Sprawdź, czy dobrze to odczytał.`;
+      `Plan na plan.zdawalni.pl już to pokazuje. Sprawdź, czy dobrze to odczytał.`;
     if (K.html) fs.writeFileSync("dziekanat.md", body + "\n");
     else fs.appendFileSync("dziekanat.md", (fs.existsSync("dziekanat.md") ? "\n---\n\n" : "") + body + "\n");
   }

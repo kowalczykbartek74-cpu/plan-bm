@@ -1,6 +1,6 @@
 # Stan planów zajęć – cały US
 
-Wygenerowano 9.11.2026, 17:37 (`node scripts/stan-planow.mjs`). Ostatni przebieg importu: 8.11.2026, 21:24.
+Wygenerowano 9.11.2026, 17:56 (`node scripts/stan-planow.mjs`). Ostatni przebieg importu: 9.11.2026, 16:37.
 Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** – plan na stronie jest wątpliwy (patrz opis); **czeka na zatwierdzenie** – plan z PDF w kolejce Importy (zdawalni.pl), na stronie go nie ma; **brak planu** – nie ma pliku planu.
 
 | Wydział | Roczników | Na stronie | OK | uwaga | czeka | brak | błąd |
@@ -22,10 +22,10 @@ Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** �
 | Audyt finansowy | II st. 2. rok nst | `wefiz-af-2-nst-2025` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 105 | OK |
 | Audyt finansowy | II st. 1. rok | `wefiz-af-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:18 | 8.11.2026, 21:18 | 15 | OK |
 | Audyt finansowy | II st. 2. rok | `wefiz-af-2-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:18 | 8.11.2026, 21:18 | 25 | OK |
-| Business Intelligence w gospodarce | I st. 1. rok | `wefiz-biwg-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 19:39 | 25 | OK |
+| Business Intelligence w gospodarce | I st. 1. rok | `wefiz-biwg-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:39 | 25 | OK |
 | Business Intelligence w gospodarce | I st. 2. rok | `wefiz-biwg-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 30 | OK |
 | Business Intelligence w gospodarce | I st. 3. rok | `wefiz-biwg-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 24 | OK |
-| Business Management | I st. 1. rok | `wefiz-bm-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 19:54 | 20.10.2026, 14:28 | 69 | OK |
+| Business Management | I st. 1. rok | `wefiz-bm-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 9.11.2026, 14:42 | 69 | OK |
 | Business Management | I st. 2. rok | `wefiz-bm-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 86 | OK |
 | Business Management | I st. 3. rok | `wefiz-bm-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 36 | OK |
 | Business Management | II st. 1. rok | `wefiz-bm-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 30 | OK |
@@ -34,12 +34,12 @@ Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** �
 | Data Science | II st. 2. rok nst | `wefiz-ds-2-nst-2025` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 72 | OK |
 | Data Science | II st. 1. rok | `wefiz-ds-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 23 | OK |
 | Data Science | II st. 2. rok | `wefiz-ds-2-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 74 | OK |
-| Economics and IT Applications | I st. 1. rok | `wefiz-eaia-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 19:37 | 27 | OK |
+| Economics and IT Applications | I st. 1. rok | `wefiz-eaia-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 21:54 | 27 | OK |
 | Economics and IT Applications | I st. 2. rok | `wefiz-eaia-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 29 | OK |
 | Ekonomia | I st. 1. rok nst | `wefiz-ek-1-nst-2026` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 47 | OK |
 | Ekonomia | I st. 2. rok nst | `wefiz-ek-1-nst-2025` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 46 | OK |
 | Ekonomia | I st. 3. rok nst | `wefiz-ek-1-nst-2024` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 45 | OK |
-| Ekonomia | I st. 1. rok | `wefiz-ek-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 19:35 | 21 | OK |
+| Ekonomia | I st. 1. rok | `wefiz-ek-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:35 | 21 | OK |
 | Ekonomia | I st. 2. rok | `wefiz-ek-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 30 | OK |
 | Ekonomia | I st. 3. rok | `wefiz-ek-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:19 | 8.11.2026, 21:19 | 30 | OK |
 | Ekonomia | II st. 1. rok | `wefiz-ek-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 17 | OK |
@@ -49,29 +49,29 @@ Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** �
 | Finanse i rachunkowość | I st. 3. rok nst | `wefiz-fir-1-nst-2024` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 52 | OK |
 | Finanse i rachunkowość | II st. 1. rok nst | `wefiz-fir-2-nst-2026` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 47 | OK |
 | Finanse i rachunkowość | II st. 2. rok nst | `wefiz-fir-2-nst-2025` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 58 | OK |
-| Finanse i Rachunkowość | I st. 1. rok | `wefiz-fir-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 02:21 | 92 | OK |
+| Finanse i Rachunkowość | I st. 1. rok | `wefiz-fir-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 02:21 | 92 | OK |
 | Finanse i Rachunkowość | I st. 2. rok | `wefiz-fir-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 120 | OK |
 | Finanse i Rachunkowość | I st. 3. rok | `wefiz-fir-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 68 | OK |
 | Finanse i Rachunkowość | II st. 1. rok | `wefiz-fir-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 21 | OK |
 | Finanse i Rachunkowość | II st. 2. rok | `wefiz-fir-2-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 39 | OK |
-| Gospodarka Nieruchomościami | I st. 1. rok | `wefiz-gn-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 19:39 | 57 | OK |
+| Gospodarka Nieruchomościami | I st. 1. rok | `wefiz-gn-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:39 | 57 | OK |
 | Gospodarka Nieruchomościami | I st. 2. rok | `wefiz-gn-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 78 | OK |
 | Gospodarka Nieruchomościami | I st. 3. rok | `wefiz-gn-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 41 | OK |
-| Gospodarka Przestrzenna inż. | I st. 1. rok | `wefiz-gpi-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 19:39 | 23 | OK |
+| Gospodarka Przestrzenna inż. | I st. 1. rok | `wefiz-gpi-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 9.11.2026, 14:43 | 23 | OK |
 | Gospodarka Przestrzenna inż. | I st. 2. rok | `wefiz-gpi-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 21:21 | 30 | OK |
 | Gospodarka Przestrzenna inż. | I st. 3. rok | `wefiz-gpi-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 21:21 | 25 | OK |
 | Gospodarka Przestrzenna inż. | I st. 4. rok | `wefiz-gpi-1-st-2023` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:20 | 8.11.2026, 21:20 | 17 | OK |
 | Informatyka i ekonometria | I st. 1. rok nst | `wefiz-iie-1-nst-2026` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 34 | OK |
 | Informatyka i ekonometria | I st. 3. rok nst | `wefiz-iie-1-nst-2024` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 65 | OK |
-| Informatyka i Ekonometria | I st. 1. rok | `wefiz-iie-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 19:39 | 14 | OK |
+| Informatyka i Ekonometria | I st. 1. rok | `wefiz-iie-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:39 | 14 | OK |
 | Informatyka i Ekonometria | I st. 2. rok | `wefiz-iie-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 21:21 | 37 | OK |
 | Informatyka i Ekonometria | I st. 3. rok | `wefiz-iie-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 21:21 | 29 | OK |
-| Informatyka w Biznesie | I st. 1. rok | `wefiz-iwb-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 19:37 | 22 | OK |
+| Informatyka w Biznesie | I st. 1. rok | `wefiz-iwb-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 9.11.2026, 14:43 | 22 | OK |
 | Informatyka w Biznesie | I st. 2. rok | `wefiz-iwb-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 21:21 | 41 | OK |
 | Informatyka w Biznesie | I st. 3. rok | `wefiz-iwb-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:21 | 8.11.2026, 21:21 | 38 | OK |
 | Informatyka w Biznesie | II st. 1. rok | `wefiz-iwb-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 16 | OK |
 | Informatyka w Biznesie | II st. 2. rok | `wefiz-iwb-2-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 27 | OK |
-| Komunikacja i psychologia w biznesie | I st. 1. rok | `wefiz-kipb-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 19:37 | 70 | OK |
+| Komunikacja i psychologia w biznesie | I st. 1. rok | `wefiz-kipb-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:37 | 70 | OK |
 | Komunikacja i psychologia w biznesie | I st. 2. rok | `wefiz-kipb-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 86 | OK |
 | Komunikacja i psychologia w biznesie | I st. 3. rok | `wefiz-kipb-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 90 | OK |
 | Komunikacja i psychologia w biznesie | II st. 1. rok | `wefiz-kipb-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 32 | OK |
@@ -79,7 +79,7 @@ Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** �
 | Logistyka | I st. 1. rok nst | `wefiz-log-1-nst-2026` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 62 | OK |
 | Logistyka | I st. 2. rok nst | `wefiz-log-1-nst-2025` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 55 | OK |
 | Logistyka | I st. 3. rok nst | `wefiz-log-1-nst-2024` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 58 | OK |
-| Logistyka | I st. 1. rok | `wefiz-log-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 19:35 | 40 | OK |
+| Logistyka | I st. 1. rok | `wefiz-log-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:35 | 40 | OK |
 | Logistyka | I st. 2. rok | `wefiz-log-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 21:23 | 38 | OK |
 | Logistyka | I st. 3. rok | `wefiz-log-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 69 | OK |
 | Logistyka | II st. 1. rok nst | `wefiz-log-2-nst-2026` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 38 | OK |
@@ -90,7 +90,7 @@ Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** �
 | Logistyka inż. | I st. 2. rok nst | `wefiz-li-1-nst-2025` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 50 | OK |
 | Logistyka inż. | I st. 3. rok nst | `wefiz-li-1-nst-2024` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 53 | OK |
 | Logistyka inż. | I st. 4. rok nst | `wefiz-li-1-nst-2023` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 46 | OK |
-| Logistyka inż. | I st. 1. rok | `wefiz-li-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 19:37 | 22 | OK |
+| Logistyka inż. | I st. 1. rok | `wefiz-li-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:37 | 22 | OK |
 | Logistyka inż. | I st. 2. rok | `wefiz-li-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 36 | OK |
 | Logistyka inż. | I st. 3. rok | `wefiz-li-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 30 | OK |
 | Logistyka inż. | I st. 4. rok | `wefiz-li-1-st-2023` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:22 | 8.11.2026, 21:22 | 19 | OK |
@@ -99,27 +99,27 @@ Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** �
 | Marketing | II st. 1. rok | `wefiz-mkt-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 21:23 | 43 | OK |
 | Marketing | II st. 2. rok | `wefiz-mkt-2-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 21:23 | 58 | OK |
 | Międzynarodowy biznes turystyczny | II st. 1. rok | `wefiz-mbt-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 21:23 | 15 | OK |
-| Przedsiębiorczość i Inwestycje | I st. 1. rok | `wefiz-pii-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 19:37 | 23 | OK |
+| Przedsiębiorczość i Inwestycje | I st. 1. rok | `wefiz-pii-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 9.11.2026, 14:43 | 24 | OK |
 | Przedsiębiorczość i Inwestycje | I st. 2. rok | `wefiz-pii-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 21:23 | 37 | OK |
 | Przedsiębiorczość i Inwestycje | I st. 3. rok | `wefiz-pii-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 21:23 | 28 | OK |
 | Rynek Nieruchomości | II st. 1. rok | `wefiz-rn-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 21:23 | 18 | OK |
 | Rynek Nieruchomości | II st. 2. rok | `wefiz-rn-2-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:23 | 8.11.2026, 21:23 | 22 | OK |
 | Turystyka i rekreacja | I st. 1. rok nst | `wefiz-tir-1-nst-2026` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 52 | OK |
-| Turystyka i Rekreacja | I st. 1. rok | `wefiz-tir-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 19:39 | 44 | OK |
+| Turystyka i Rekreacja | I st. 1. rok | `wefiz-tir-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:39 | 44 | OK |
 | Turystyka i Rekreacja | I st. 2. rok | `wefiz-tir-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 21:24 | 35 | OK |
 | Turystyka i Rekreacja | I st. 3. rok | `wefiz-tir-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 21:24 | 74 | OK |
 | Zarządzanie | I st. 1. rok nst | `wefiz-zarz-1-nst-2026` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 65 | OK |
 | Zarządzanie | I st. 2. rok nst | `wefiz-zarz-1-nst-2025` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 50 | OK |
 | Zarządzanie | I st. 3. rok nst | `wefiz-zarz-1-nst-2024` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 61 | OK |
-| Zarządzanie | I st. 1. rok | `wefiz-zarz-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 01:54 | 71 | OK |
+| Zarządzanie | I st. 1. rok | `wefiz-zarz-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 01:54 | 71 | OK |
 | Zarządzanie | I st. 2. rok | `wefiz-zarz-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 21:24 | 43 | OK |
 | Zarządzanie | I st. 3. rok | `wefiz-zarz-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 21:24 | 83 | OK |
 | Zarządzanie | II st. 1. rok nst | `wefiz-zarz-2-nst-2026` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 42 | OK |
 | Zarządzanie | II st. 2. rok nst | `wefiz-zarz-2-nst-2025` | [efz.usz.edu.pl/…/planynst-lista-wykladowcow](https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/) | 9.11.2026, 10:23 | 9.11.2026, 10:23 | 48 | OK |
 | Zarządzanie | II st. 1. rok | `wefiz-zarz-2-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 21:24 | 32 | OK |
 | Zarządzanie | II st. 2. rok | `wefiz-zarz-2-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 21:24 | 30 | OK |
-| Zarządzanie Logistyczne w Ochronie Zdrowia | I st. 1. rok | `wefiz-zloz-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 19:37 | 11 | OK |
-| Zarządzanie odnawialnymi źródłami energii | I st. 1. rok | `wefiz-zoze-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 19:37 | 26 | OK |
+| Zarządzanie Logistyczne w Ochronie Zdrowia | I st. 1. rok | `wefiz-zloz-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 9.11.2026, 14:43 | 17 | OK |
+| Zarządzanie odnawialnymi źródłami energii | I st. 1. rok | `wefiz-zoze-1-st-2026` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 9.11.2026, 16:37 | 8.11.2026, 19:37 | 26 | OK |
 | Zarządzanie odnawialnymi źródłami energii | I st. 2. rok | `wefiz-zoze-1-st-2025` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 21:24 | 41 | OK |
 | Zarządzanie odnawialnymi źródłami energii | I st. 3. rok | `wefiz-zoze-1-st-2024` | [planyzajec-efz.usz.edu.pl](https://planyzajec-efz.usz.edu.pl/) | 8.11.2026, 21:24 | 8.11.2026, 21:24 | 25 | OK |
 

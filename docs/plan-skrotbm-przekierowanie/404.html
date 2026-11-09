@@ -1,0 +1,32 @@
+<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Plan zajęć jest teraz na plan.zdawalni.pl</title><meta name="robots" content="noindex"><link rel="canonical" href="https://plan.zdawalni.pl/">
+<!-- Stary adres plan.skrotbm.pl (repo plan-skrotbm-przekierowanie), czyli adres planu BM. Ten sam plik jest jako index.html, skrzynka.html i 404.html,
+     więc każdy stary link (#/wefiz/zarz/1/c151, ?k=zarz26, /skrzynka.html) prowadzi w to samo miejsce na plan.zdawalni.pl.
+     Ustawienia z tej domeny (grupa, podgrupa, kierunek, motyw, język: klucze bm-* i plan-*) jadą w części adresu po #
+     na plan.zdawalni.pl/przenies.html, który zapisuje je w nowej domenie. Pliki kalendarza (kalendarz/*.ics) i plan.json
+     to prawdziwe kopie z repo plan-bm, bo aplikacje kalendarza i stare wersje aplikacji nie przechodzą przez to przekierowanie. -->
+<script>
+(function () {
+  var NOWY = "https://plan.zdawalni.pl";
+  var sciezka = location.pathname.replace(/\/(404|index)\.html$/, "/");
+  var cel = sciezka + location.search + location.hash;
+  // plan.skrotbm.pl był adresem planu Business Management: goły adres (bez #/… i ?k=…) zawsze otwiera BM,
+  // także u kogoś, kto wcześniej wybrał tu inny kierunek. Linki do innych kierunków (#/wefiz/zarz/1/…, ?k=zarz26) działają jak były.
+  // Bez grupy w adresie: grupę bierze z ustawień (nowsza z plan.zdawalni.pl wygrywa ze starą).
+  if (sciezka === "/" && !/^#\//.test(location.hash) && !/(^|[?&])k=/.test(location.search)) cel = "/#/wefiz/bm/1";
+  var dane = {};
+  try {
+    for (var i = 0; i < localStorage.length; i++) {
+      var k = localStorage.key(i);
+      if (/^(bm-|plan-)/.test(k)) dane[k] = localStorage.getItem(k);
+    }
+  } catch (e) { /* brak dostępu do localStorage: przekierowanie bez ustawień */ }
+  if (!Object.keys(dane).length) { location.replace(NOWY + cel); return; }
+  var b = btoa(unescape(encodeURIComponent(JSON.stringify(dane)))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+  location.replace(NOWY + "/przenies.html#d=" + b + "&cel=" + encodeURIComponent(cel));
+})();
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=https://plan.zdawalni.pl/"></noscript>
+<style>body{font:16px/1.5 system-ui,sans-serif;margin:0;display:grid;place-items:center;min-height:100vh;background:#fff;color:#0f2e1f;text-align:center;padding:0 16px}a{color:#0b6b3a}</style>
+</head>
+<body><p>Plan zajęć jest teraz pod adresem <a href="https://plan.zdawalni.pl/">plan.zdawalni.pl</a>.<br><span lang="en">The timetable has moved to <a href="https://plan.zdawalni.pl/">plan.zdawalni.pl</a>.</span></p></body></html>

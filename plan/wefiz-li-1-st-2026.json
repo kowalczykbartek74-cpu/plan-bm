@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T18:37:42.403Z",
- "checkedAt": "2026-11-08T20:22:49.740Z",
+ "checkedAt": "2026-11-09T15:37:21.096Z",
  "groups": {
   "C161": {
    "odd": [
@@ -381,22 +381,10 @@
     "ym": "2026-09",
     "pub": "2026-09-30",
     "text": "Dnia 14.10.2026 zostają odwołane zajęcia z dr inż. Tomaszem Wiśniewskim Termin odrobienia zajęć: wykład 15.10.2026 godz. 10:00 sala 607 ćwiczenia 15.10.2026 godz. 12:00 sala 607"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c161-c132/",
-    "title": "GRUPA C161, C132",
-    "ym": "2026-09",
-    "pub": "2026-09-28",
-    "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Aleksandrą Werner. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
    "C161": [
-    {
-     "type": "note",
-     "date": "2026-10-05",
-     "post": 3
-    },
     {
      "type": "cancel",
      "date": "2026-10-14",
@@ -476,6 +464,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-08T18:38:16.464Z"
+  "updatedAt": "2026-11-09T13:44:29.839Z"
  }
 }

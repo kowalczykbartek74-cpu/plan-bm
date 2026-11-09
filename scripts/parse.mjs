@@ -75,6 +75,14 @@ function applyFreeRest(e, rest, years) {
   }
 }
 
+// > 0: tekst raczej polski, < 0: raczej angielski (znaki diakrytyczne, końcówki i krótkie słowa obu języków)
+export function polskosc(s) {
+  const w = s.toLowerCase().split(/[^a-ząćęłńóśźż]+/).filter(Boolean);
+  const pl = (s.match(/[ąćęłńóśźż]/gi) || []).length * 2 + w.filter((x) => /^(w|i|do|z|na|dla|oraz)$/.test(x) || /(ych|owa|owe|owy|ości|ość|nia|nie|cja|cje|ów|ii|ia|ka|ki|ny|na|wo|mia)$/.test(x)).length;
+  const en = w.filter((x) => /^(the|and|of|in|to|for|an|a|with)$/.test(x) || /(tion|ment|ics|ing|ance|ence|ity|al|ive|ure|ship|ogy|ies|ems|sis)$/.test(x)).length;
+  return pl - en;
+}
+
 export function parseEntry(chunk, years) {
   const lect = [...chunk.matchAll(/class="linkClass"[^>]*value="([^"]*)"/g)].map(m => decode(m[1]).trim()).filter(Boolean);
   const rooms = [...chunk.matchAll(/class="salButtonClass"[^>]*value="([^"]*)"/g)].map(m => cleanRoom(decode(m[1]))).filter(Boolean);
@@ -113,6 +121,10 @@ export function parseEntry(chunk, years) {
       if (t[5]) e.tag = t[5];
       if (t[6] || t[7]) e.h = +(t[6] || t[7]);
     } else e.k = "X";
+    // Economics and IT Applications: „makroekonomia (macroeconomics) (w)(15)” – polska nazwa, w nawiasie angielska
+    const pe = e.k !== "X" && title.trim().match(/^(.+?)\s*\(([A-Za-z][A-Za-z\s-]*[A-Za-z])\s*\)$/);
+    // (tylko gdy z przodu jest polska nazwa; „Communication in the global business (komunikacja …)” zostaje jak było)
+    if (pe && /[a-z]{3}/i.test(pe[2]) && polskosc(pe[1]) > polskosc(pe[2])) { title = pe[1]; e.en = enCase(pe[2].replace(/\s+/g, " ").trim()); }
     e.pl = plCase(title.trim());
     if (lect.length) e.p = lect.join(", ");
     if (rooms.length) e.r = rooms.join(", ");

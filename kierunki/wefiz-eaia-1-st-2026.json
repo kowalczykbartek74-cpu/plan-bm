@@ -1,5 +1,5 @@
 {
-  "opis": "Wygenerowane w plan-bm: node scripts/wefiz-wszystkie.mjs (plan bez Skrótu). Gdy kierunek dostanie Skrót, plik nadpisze skrot-bm/scripts/kierunek.mjs.",
+  "opis": "Wygenerowane w skrot-bm: node scripts/kierunek.mjs kierunki/wefiz-eaia-1-st-2026.json. Nie edytuj ręcznie.",
   "id": "wefiz-eaia-1-st-2026",
   "kod": "eaia26",
   "wydzial": {
@@ -26,5 +26,6 @@
   "plik": "plan/wefiz-eaia-1-st-2026.json",
   "odwolania": [
     "dos"
-  ]
+  ],
+  "dos": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/"
 }

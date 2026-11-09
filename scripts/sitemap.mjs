@@ -1,11 +1,11 @@
-// Etap 8: sitemap.xml i robots.txt dla plan.skrotbm.pl – adres każdego rocznika na stronie (?k=<kod>; fragment #/… Google pomija).
+// Etap 8: sitemap.xml i robots.txt dla plan.zdawalni.pl – adres każdego rocznika na stronie (?k=<kod>; fragment #/… Google pomija).
 // lastmod = ostatnia zmiana planu (changedAt). Uruchamiane w workflow po scripts/kierunki.mjs.
 //   node scripts/sitemap.mjs [--sprawdz]
 import fs from "node:fs";
 import { pathToFileURL } from "node:url";
 import { wszystkie } from "./kierunki.mjs";
 
-export const ADRES = "https://plan.skrotbm.pl/";
+export const ADRES = "https://plan.zdawalni.pl/";
 const czytaj = (f) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch { return null; } };
 const dzien = (iso) => (iso ? String(iso).slice(0, 10) : null);
 

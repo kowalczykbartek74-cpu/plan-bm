@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "06.11.2026 11:48",
+ "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T18:39:38.285Z",
- "checkedAt": "2026-11-08T20:24:25.662Z",
+ "checkedAt": "2026-11-09T15:37:21.097Z",
  "groups": {
   "M130": {
    "odd": [
@@ -587,41 +587,11 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [
-   {
-    "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m130-m131-odwolanie-zajec-z-prof-markiem-kunaszem-w-dniu-28-10-2026-r/",
-    "title": "M130, M131- odwołanie zajęć z prof. Markiem Kunaszem w dniu 28.10.2026 r.",
-    "ym": "2026-10",
-    "pub": "2026-10-28",
-    "text": "Wykład z przedmiotu ochrona własności intelektualnej na kierunku TiR zostaje w dniu 28.10.2026 r. odwołany. Termin odrobienia zajęć: 19.11.2026, g.12.00, s. 04/05."
-   }
-  ],
+  "posts": [],
   "zmiany": {
-   "M130": [
-    {
-     "type": "cancel",
-     "date": "2026-10-28",
-     "start": "15:30",
-     "pl": "Ochrona własności intelektualnej",
-     "post": 0,
-     "posts": [
-      0
-     ]
-    }
-   ],
-   "M131": [
-    {
-     "type": "cancel",
-     "date": "2026-10-28",
-     "start": "15:30",
-     "pl": "Ochrona własności intelektualnej",
-     "post": 0,
-     "posts": [
-      0
-     ]
-    }
-   ]
+   "M130": [],
+   "M131": []
   },
-  "updatedAt": "2026-11-08T20:38:45.148Z"
+  "updatedAt": "2026-11-08T18:38:23.204Z"
  }
 }

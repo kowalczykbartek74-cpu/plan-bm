@@ -40,6 +40,16 @@ test("parser: rodzaj, grupa labów i godziny w nazwie (FiR: „MAKROEKONOMIA (Ć
   assert.deepStrictEqual({ k: w.k, h: w.h, r: w.r }, { k: "W", h: 8, r: "s. Aula Nowa" });
 });
 
+test("parser: EaIA – polska nazwa, angielska w nawiasie („makroekonomia (macroeconomics) (ćw)(30)”)", () => {
+  const e = parseEntry(komorka("makroekonomia (macroeconomics) (ćw)(30)", "dr Anna Kowalska", "s.S0123 Mic.64"), Y);
+  assert.deepStrictEqual({ pl: e.pl, en: e.en, k: e.k, h: e.h }, { pl: "Makroekonomia", en: "Macroeconomics", k: "CW", h: 30 });
+  const lab = parseEntry(komorka("technologie informacyjne (information technologies - IT) (lb gr.A)(15)"), Y);
+  assert.deepStrictEqual({ pl: lab.pl, en: lab.en, g: lab.g }, { pl: "Technologie informacyjne", en: "Information Technologies - IT", g: "A" });
+  // angielska z przodu (inne kierunki): bez zmian, całość zostaje nazwą
+  const bm = parseEntry(komorka("communication in the global business (komunikacja w biznesie globalnym) (w)(15)"), Y);
+  assert.strictEqual(bm.en, undefined);
+});
+
 test("parser: wpis ręczny z kropką po dacie („08.10.2026.” i miejsce w następnej linii)", () => {
   const e = parseEntry("szkolenie z obrony cywilnej \n08.10.2026. \nAula WNS ul Krakowska 71/79\n", Y);
   assert.deepStrictEqual({ pl: e.pl, k: e.k, dates: e.dates, x: e.x }, { pl: "Szkolenie z obrony cywilnej", k: "X", dates: ["2026-10-08"], x: "Aula WNS ul Krakowska 71/79" });
