@@ -478,6 +478,8 @@ export function mergeTeams(posts, zmiany, teams) {
         if (!x || !/^\d{4}-\d{2}-\d{2}$/.test(x.date || "") || !/^\d{1,2}:\d{2}$/.test(x.start || "") || !x.pl) continue;
         // to samo odwołanie przyszło już z dziekanatu → zostaje wpis dziekanatu
         if (x.type === "cancel" && zmiany[g].some(y => y.type === "cancel" && y.src !== "teams" && y.date === x.date && y.start === x.start && y.pl === x.pl && (y.g || "") === (x.g || ""))) continue;
+        // to samo odrabianie / zmiana jest już w komunikacie dziekanatu → zostaje wpis dziekanatu
+        if (x.type === "extra" && zmiany[g].some(y => y.type === "extra" && y.src !== "teams" && y.date === x.date && y.start === x.start && y.pl === x.pl)) continue;
         if (x.type === "cancel") zmiany[g].push({ type: "cancel", date: x.date, start: x.start, pl: x.pl, ...(x.g ? { g: x.g } : {}), ...(x.moved ? { moved: true } : {}), src: "teams", post: pi, posts: [pi] });
         else if (x.type === "extra") zmiany[g].push({ type: "extra", kind: x.kind === "change" ? "change" : "makeup", date: x.date, start: x.start, end: x.end || plusMin(x.start, 90), pl: x.pl,
           ...(x.en ? { en: x.en } : {}), k: x.k || "X", ...(x.p ? { p: x.p } : {}), ...(x.r ? { r: x.r } : {}), ...(x.g ? { g: x.g } : {}), src: "teams", post: pi });
