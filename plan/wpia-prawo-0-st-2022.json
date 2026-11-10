@@ -877,6 +877,20 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/zmiana-terminu-konsultacji-mgr-k-dzwonkowskiej-z-dn-13-11-2026-r/",
+    "title": "Zmiana terminu konsultacji mgr K. Dzwonkowskiej z dn. 13.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "Informujemy, że konsultacje mgr K. Dzwonkowskiej w dniu 13.11.2026 r. nie odbędą się i zostają przełożone na dzień 27.11.2026 r. (godz. 15.15-16.45)."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-v-zmiana-terminu-realizacji-zajec-z-przedmiotu-wina-w-polskim-prawie-karnym-z-dn-13-11-2026-r-mgr-k-dzwonkowska/",
+    "title": "SSP V – zmiana terminu realizacji zajęć z przedmiotu Wina w polskim prawie karnym z dn. 13.11.2026 r. (mgr K. Dzwonkowska)",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "Informujemy, że zajęcia z przedmiotu Wina w polskim prawie karnym z mgr K. Dzwonkowską w dniu 13.11.2026 r. nie odbędą się i zostają przełożone na dzień 27.11.2026 r., godz. 11.45 – 15.00, s. 112-114 al. Piastów 40b"
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/repetytorium-z-przedmiotu-logika-prawnicza-dotyczy-osob-ktore-maja-do-zaliczenia-przedmiot-w-semestrze-zimowym/",
     "title": "Repetytorium z przedmiotu Logika prawnicza – dotyczy osób, które mają do zaliczenia przedmiot w semestrze zimowym",
     "ym": "2026-11",
@@ -961,9 +975,9 @@
      "date": "2026-10-08",
      "start": "13:30",
      "pl": "Seminarium dyplomowe",
-     "post": 7,
+     "post": 9,
      "posts": [
-      7
+      9
      ]
     },
     {
@@ -971,15 +985,15 @@
      "date": "2026-10-21",
      "start": "15:15",
      "pl": "Przestępstwa przeciwko życiu i zdrowiu - WMDW V",
-     "post": 2,
+     "post": 4,
      "posts": [
-      2
+      4
      ]
     },
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 4,
+     "post": 6,
      "niska": true
     },
     {
@@ -990,7 +1004,7 @@
      "end": "20:15",
      "pl": "Seminarium dyplomowe",
      "k": "S",
-     "post": 7
+     "post": 9
     },
     {
      "type": "extra",
@@ -1001,16 +1015,44 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 118",
-     "post": 3
+     "post": 5
     },
     {
      "type": "note",
      "date": "2026-11-12",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-13",
      "post": 0,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-13",
+     "start": "11:45",
+     "pl": "Wina w polskim prawie karnym - KDW V",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-27",
+     "start": "11:45",
+     "end": "15:00",
+     "pl": "Wina w polskim prawie karnym - KDW V",
+     "k": "K",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 112-114 al",
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.444Z"
+  "updatedAt": "2026-11-10T21:57:49.095Z"
  }
 }

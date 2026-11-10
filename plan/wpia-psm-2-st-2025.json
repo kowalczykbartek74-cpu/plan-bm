@@ -543,6 +543,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/zmiana-terminu-konsultacji-mgr-k-dzwonkowskiej-z-dn-13-11-2026-r/",
+    "title": "Zmiana terminu konsultacji mgr K. Dzwonkowskiej z dn. 13.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "Informujemy, że konsultacje mgr K. Dzwonkowskiej w dniu 13.11.2026 r. nie odbędą się i zostają przełożone na dzień 27.11.2026 r. (godz. 15.15-16.45)."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/odwolanie-konsultacji-dydaktycznych-dr-m-jasinskiej-w-dniu-10-11-2026/",
     "title": "Odwołanie konsultacji dydaktycznych dr M. Jasińskiej w dniu 10.11.2026",
     "ym": "2026-10",
@@ -583,13 +590,7 @@
     {
      "type": "note",
      "date": "2026-10-08",
-     "post": 4,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-15",
-     "post": 1,
+     "post": 5,
      "niska": true
     },
     {
@@ -606,18 +607,24 @@
     },
     {
      "type": "note",
-     "date": "2026-10-29",
+     "date": "2026-10-15",
      "post": 4,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-10-29",
+     "post": 5,
+     "niska": true
+    },
+    {
+     "type": "note",
      "date": "2026-11-12",
-     "post": 0,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.583Z"
+  "updatedAt": "2026-11-10T21:57:49.266Z"
  }
 }

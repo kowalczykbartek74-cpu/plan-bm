@@ -944,6 +944,16 @@
     "team": "Fundamentals of Management",
     "ym": "",
     "text": ""
+   },
+   {
+    "src": "teams",
+    "id": "omwb6uvnw1rww",
+    "tid": "i-eb-odrabianie-1109",
+    "url": "",
+    "title": "Odrabianie zajęć z Ekonomii biznesu: C112 – 9.11, wykład – 12.11",
+    "team": "BE C 112 2026/2027",
+    "ym": "",
+    "text": ""
    }
   ],
   "zmiany": {
@@ -1009,6 +1019,20 @@
      "posts": [
       9
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Ekonomia biznesu",
+     "en": "Business Economics",
+     "k": "W",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 044",
+     "src": "teams",
+     "post": 11
     },
     {
      "type": "extra",
@@ -1115,6 +1139,34 @@
     {
      "type": "extra",
      "kind": "makeup",
+     "date": "2026-11-09",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Ekonomia biznesu",
+     "en": "Business Economics",
+     "k": "CW",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 003",
+     "src": "teams",
+     "post": 11
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Ekonomia biznesu",
+     "en": "Business Economics",
+     "k": "W",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 044",
+     "src": "teams",
+     "post": 11
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
      "date": "2026-11-19",
      "start": "10:00",
      "end": "11:30",
@@ -1207,6 +1259,20 @@
     {
      "type": "extra",
      "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Ekonomia biznesu",
+     "en": "Business Economics",
+     "k": "W",
+     "p": "dr Aleksandra Gąsior",
+     "r": "s. 044",
+     "src": "teams",
+     "post": 11
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
      "date": "2026-11-19",
      "start": "10:00",
      "end": "11:30",
@@ -1220,6 +1286,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T13:44:13.891Z"
+  "updatedAt": "2026-11-10T21:51:44.247Z"
  }
 }

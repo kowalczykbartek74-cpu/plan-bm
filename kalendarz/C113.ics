@@ -790,6 +790,19 @@ CATEGORIES:laboratorium
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-12-C113-dz1200-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261109T134241Z
+DTSTART;TZID=Europe/Warsaw:20261112T120000
+DTEND;TZID=Europe/Warsaw:20261112T133000
+SUMMARY:Odrabianie: Ekonomia biznesu · W
+LOCATION:s. 044\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ogłoszenie prowadzącego w Teams: Odrabianie zajęć z Ekonomi
+ i biznesu: C112 – 9.11\, wykład – 12.11\nWykład\nBusiness Economics\
+ nProwadzi: dr Aleksandra Gąsior\nPlan: https://plan.zdawalni.pl
+CATEGORIES:wykład
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-C113-1-x-1wmb67f@plan.skrotbm.pl
 DTSTAMP:20261109T134241Z
 DTSTART;TZID=Europe/Warsaw:20261113T100000

@@ -770,6 +770,19 @@ CATEGORIES:wykład
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-09-C112-dz815-x-x9h4js@plan.skrotbm.pl
+DTSTAMP:20261109T134241Z
+DTSTART;TZID=Europe/Warsaw:20261109T081500
+DTEND;TZID=Europe/Warsaw:20261109T094500
+SUMMARY:Odrabianie: Ekonomia biznesu · ĆW
+LOCATION:s. 003\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ogłoszenie prowadzącego w Teams: Odrabianie zajęć z Ekonomi
+ i biznesu: C112 – 9.11\, wykład – 12.11\nĆwiczenia\nBusiness Economi
+ cs\nProwadzi: dr Aleksandra Gąsior\nPlan: https://plan.zdawalni.pl
+CATEGORIES:ćwiczenia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-10-C112-0-x-1jjry2x@plan.skrotbm.pl
 DTSTAMP:20261109T134241Z
 DTSTART;TZID=Europe/Warsaw:20261110T081500
@@ -815,6 +828,19 @@ LOCATION:s. SIL 124/125 (lab)\, ul. Cukrowa 8\, Szczecin
 DESCRIPTION:Laboratorium\, podgrupa B\nIT Tools in Management\nProwadzi: dr
   inż. Piotr Niemcewicz\nPlan: https://plan.zdawalni.pl
 CATEGORIES:laboratorium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-C112-dz1200-x-szmucr@plan.skrotbm.pl
+DTSTAMP:20261109T134241Z
+DTSTART;TZID=Europe/Warsaw:20261112T120000
+DTEND;TZID=Europe/Warsaw:20261112T133000
+SUMMARY:Odrabianie: Ekonomia biznesu · W
+LOCATION:s. 044\, ul. Cukrowa 8\, Szczecin
+DESCRIPTION:Ogłoszenie prowadzącego w Teams: Odrabianie zajęć z Ekonomi
+ i biznesu: C112 – 9.11\, wykład – 12.11\nWykład\nBusiness Economics\
+ nProwadzi: dr Aleksandra Gąsior\nPlan: https://plan.zdawalni.pl
+CATEGORIES:wykład
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
