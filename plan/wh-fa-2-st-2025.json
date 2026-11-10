@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-09T23:20:00.191Z",
+ "checkedAt": "2026-11-10T11:34:43.985Z",
  "groups": {
   "FA2": {
    "odd": [
@@ -873,6 +873,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/zmiana-terminu-zajec-szymczak-kordulasinska-monika-dr-4/",
+    "title": "zmiana terminu zajęć- Szymczak-Kordulasińska Monika dr",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "Dzień dobry, informujemy, że pracownik Monika Szymczak-Kordulasińska zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-12 10:00 2026-10-21 17:00 (online) – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, Zgodnie z wcześniejszymi ustaleniami, zajęcia z 12 listopada odrobiliśmy 21 października. Do zobaczenia na kolejnym seminarium. Z pozdrowieniami Monika Szymczak-Kordulasińska"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-anna-lazuka-banach-przelozenie-zajec-2/",
     "title": "dr Anna Łazuka-Banach- przełożenie zajęć",
     "ym": "2026-10",
@@ -883,10 +890,33 @@
   "zmiany": {
    "FA2": [
     {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-21",
+     "start": "17:00",
+     "end": "18:30",
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr Monika Szymczak - Kordulasińska",
+     "r": "(online)",
+     "post": 0
+    },
+    {
      "type": "cancel",
      "date": "2026-10-28",
      "start": "08:15",
      "pl": "Konwersatorium do wyboru: Issues in Intercultural Communication",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-12",
+     "start": "10:00",
+     "pl": "Seminarium mgr",
+     "moved": true,
      "post": 0,
      "posts": [
       0
@@ -894,6 +924,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:27.739Z"
+  "updatedAt": "2026-11-10T11:42:24.807Z"
  }
 }

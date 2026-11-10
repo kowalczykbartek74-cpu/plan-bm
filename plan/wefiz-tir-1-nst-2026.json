@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-4a3a791142a9",
+ "wersja": "planynst-d963b5729e20",
  "kierunek": "Turystyka i rekreacja",
  "kierunekEn": "Tourism and Recreation",
  "id": "wefiz-tir-1-nst-2026",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:31:18.542Z",
- "checkedAt": "2026-11-09T23:16:01.392Z",
+ "changedAt": "2026-11-10T11:30:43.759Z",
+ "checkedAt": "2026-11-10T11:30:43.759Z",
  "groups": {
   "A30": {
    "odd": [
@@ -119,12 +119,12 @@
      "d": 5,
      "time": [
       "09:05",
-      "16:15"
+      "11:35"
      ],
      "pl": "Podstawy turystyki i rekreacji",
      "k": "W",
      "p": "dr Agnieszka Sawińska",
-     "r": "s. S0103 Mic.64",
+     "r": "s. S07 Mic.64",
      "dates": [
       "2026-10-24"
      ]
@@ -351,6 +351,20 @@
      "r": "s. S0103 Mic.64",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "W",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-24"
      ]
     },
     {
@@ -852,12 +866,12 @@
      "d": 5,
      "time": [
       "09:05",
-      "16:15"
+      "11:35"
      ],
      "pl": "Podstawy turystyki i rekreacji",
      "k": "W",
      "p": "dr Agnieszka Sawińska",
-     "r": "s. S0103 Mic.64",
+     "r": "s. S07 Mic.64",
      "dates": [
       "2026-10-24"
      ]
@@ -1084,6 +1098,20 @@
      "r": "s. S0103 Mic.64",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Podstawy turystyki i rekreacji",
+     "k": "W",
+     "p": "dr Agnieszka Sawińska",
+     "r": "s. S0103 Mic.64",
+     "dates": [
+      "2026-10-24"
      ]
     },
     {

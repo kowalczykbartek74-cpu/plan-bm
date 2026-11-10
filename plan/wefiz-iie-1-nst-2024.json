@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-4a3a791142a9",
+ "wersja": "planynst-d963b5729e20",
  "kierunek": "Informatyka i ekonometria",
  "kierunekEn": "Computer Science and Econometrics",
  "id": "wefiz-iie-1-nst-2024",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:31:18.542Z",
- "checkedAt": "2026-11-09T23:16:01.392Z",
+ "changedAt": "2026-11-10T11:30:43.759Z",
+ "checkedAt": "2026-11-10T11:30:43.759Z",
  "groups": {
   "C40": {
    "odd": [
@@ -519,20 +519,6 @@
       "15:30",
       "18:50"
      ],
-     "pl": "Badania operacyjne",
-     "k": "LAB",
-     "p": "dr Paweł Baran",
-     "r": "s. N105 lab Mic.64",
-     "dates": [
-      "2026-11-07"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "15:30",
-      "18:50"
-     ],
      "pl": "Podstawy demografii",
      "k": "LAB",
      "p": "mgr Julia Ziółkowska",
@@ -938,6 +924,20 @@
      "d": 6,
      "time": [
       "15:30",
+      "17:05"
+     ],
+     "pl": "Badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
       "18:00"
      ],
      "pl": "Seminarium licencjackie",
@@ -961,6 +961,20 @@
      "n": "US-DS",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:00"
+     ],
+     "pl": "Badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-06"
      ]
     },
     {
@@ -1482,20 +1496,6 @@
       "15:30",
       "18:50"
      ],
-     "pl": "Badania operacyjne",
-     "k": "LAB",
-     "p": "dr Paweł Baran",
-     "r": "s. N105 lab Mic.64",
-     "dates": [
-      "2026-11-07"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "15:30",
-      "18:50"
-     ],
      "pl": "Podstawy demografii",
      "k": "LAB",
      "p": "mgr Julia Ziółkowska",
@@ -1901,6 +1901,20 @@
      "d": 6,
      "time": [
       "15:30",
+      "17:05"
+     ],
+     "pl": "Badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N021B lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:30",
       "18:00"
      ],
      "pl": "Seminarium licencjackie",
@@ -1924,6 +1938,20 @@
      "n": "US-DS",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:00"
+     ],
+     "pl": "Badania operacyjne",
+     "k": "LAB",
+     "p": "dr Paweł Baran",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-12-06"
      ]
     },
     {

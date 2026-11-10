@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-4a3a791142a9",
+ "wersja": "planynst-d963b5729e20",
  "kierunek": "Logistyka inż.",
  "kierunekEn": "Logistics (Eng.)",
  "id": "wefiz-li-1-nst-2023",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T17:53:39.067Z",
- "checkedAt": "2026-11-09T23:16:01.392Z",
+ "changedAt": "2026-11-10T11:30:43.759Z",
+ "checkedAt": "2026-11-10T11:30:43.759Z",
  "groups": {
   "D61": {
    "odd": [
@@ -216,20 +216,6 @@
      "r": "s. SIL 124/125 lab Cuk.8",
      "dates": [
       "2026-11-07"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "10:50",
-      "13:20"
-     ],
-     "pl": "Zarządzanie mobilnością",
-     "k": "LAB",
-     "p": "mgr inż. Kacper Kuczera",
-     "r": "s. SIL 137/138 lab Cuk.8",
-     "dates": [
-      "2026-12-12"
      ]
     },
     {
@@ -621,7 +607,7 @@
      "d": 6,
      "time": [
       "13:45",
-      "16:15"
+      "18:50"
      ],
      "pl": "Zarządzanie mobilnością",
      "k": "LAB",
@@ -886,20 +872,6 @@
      "pl": "Zarządzanie mobilnością",
      "k": "LAB",
      "p": "mgr inż. Kacper Kuczera",
-     "r": "s. SIL 137/138 lab Cuk.8",
-     "dates": [
-      "2026-12-12"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "10:50",
-      "13:20"
-     ],
-     "pl": "Zarządzanie mobilnością",
-     "k": "LAB",
-     "p": "mgr inż. Kacper Kuczera",
      "r": "s. SIL 126/127 lab Cuk.8",
      "dates": [
       "2027-01-16"
@@ -1280,7 +1252,7 @@
      "d": 6,
      "time": [
       "13:45",
-      "16:15"
+      "18:50"
      ],
      "pl": "Zarządzanie mobilnością",
      "k": "LAB",

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-09T23:20:00.191Z",
+ "checkedAt": "2026-11-10T11:34:43.985Z",
  "groups": {
   "FA1": {
    "odd": [
@@ -1581,6 +1581,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/zmiana-terminu-zajec-szymczak-kordulasinska-monika-dr-5/",
+    "title": "zmiana terminu zajęć -Szymczak-Kordulasińska Monika dr",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "Dzień dobry, informujemy, że pracownik Monika Szymczak-Kordulasińska zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-12 15:15 2026-12-18 11:45 310 A FANG-SI.26-1-L.5,FANG-SI.26-1-L.6 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 1 praktyczna nauka języka angielskiego – pisanie akademickie laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, Zgodnie z naszymi ustaleniami, zajęcia z 12 listopada odrobimy 18 grudnia: Grupa F: godz. 10.00-11.30 Grupa E: godz. 11.45-13.15 Do zobaczenia na naszych kolejnych zajęciach (19 listopada). Z pozdrowieniami Monika Szymczak-Kordulasińska Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-12 17:00 2026-12-18 10:00 310 A FANG-SI.26-1-L.5,FANG-SI.26-1-L.6 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 1 praktyczna nauka języka angielskiego – pisanie akademickie laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, Zgodnie z naszymi ustaleniami, zajęcia z 12 listopada odrobimy 18 grudnia: Grupa F: godz. 10.00-11.30 Grupa E: godz. 11.45-13.15 Do zobaczenia na naszych kolejnych zajęciach (19 listopada). Z pozdrowieniami Monika Szymczak-Kordulasińska"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-jolanta-sypianska-odwolanie-zajec-2/",
     "title": "dr Jolanta Sypiańska- odwołanie zajęć",
     "ym": "2026-10",
@@ -1614,13 +1621,35 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 3
+     "post": 4
     },
     {
      "type": "note",
      "date": "2026-10-21",
-     "post": 1,
+     "post": 2,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-12",
+     "start": "17:00",
+     "pl": "PNJA: Pisanie akad.",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-12",
+     "start": "15:15",
+     "pl": "PNJA: Pisanie akad.",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "cancel",
@@ -1628,10 +1657,34 @@
      "start": "13:30",
      "pl": "PNJA: Gram. Prakt.",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-18",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "dr M. Szymczak - Kordulasińska",
+     "r": "s. 310 A",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-18",
+     "start": "11:45",
+     "end": "13:15",
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "dr M. Szymczak - Kordulasińska",
+     "r": "s. 310 A",
+     "post": 0
     },
     {
      "type": "extra",
@@ -1643,10 +1696,10 @@
      "k": "LAB",
      "p": "dr Iryna Penza",
      "r": "s. 120",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:27.728Z"
+  "updatedAt": "2026-11-10T11:42:24.795Z"
  }
 }

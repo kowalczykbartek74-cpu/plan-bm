@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-4a3a791142a9",
+ "wersja": "planynst-d963b5729e20",
  "kierunek": "Finanse i rachunkowość",
  "kierunekEn": "Finance and Accounting",
  "id": "wefiz-fir-1-nst-2025",
@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:31:18.542Z",
- "checkedAt": "2026-11-09T23:16:01.392Z",
+ "checkedAt": "2026-11-10T11:30:43.759Z",
  "groups": {
   "B20": {
    "odd": [
@@ -3326,6 +3326,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/odwolanie-zajec-z-dr-magdalena-brojakowska-trzaska-w-dniu-10-11-2026-r/",
+    "title": "Odwołanie zajęć z dr Magdaleną Brojakowską-Trząską w dniu 10.11.2026 r. Grupa M370",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "W dniu 10.11.2026 r. zajęcia z dr Magdaleną Brojakowską-Trząską zostają odwołane. Termin odrobienia zajęć: 20.11.2026 r. godz.10:00, sala S0105"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/odwolanie-zajec-w-dniu-21-10-2026-r-z-dr-natalia-marska-dzioba/",
     "title": "Odwołanie zajęć w dniu 21.10.2026 r. z dr Natalią Marską-Dziobą",
     "ym": "2026-10",
@@ -3337,6 +3344,6 @@
    "B20": [],
    "B21": []
   },
-  "updatedAt": "2026-11-09T18:05:48.618Z"
+  "updatedAt": "2026-11-10T11:42:15.744Z"
  }
 }
