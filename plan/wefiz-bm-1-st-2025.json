@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:19:30.441Z",
- "checkedAt": "2026-11-10T11:30:43.731Z",
+ "checkedAt": "2026-11-10T13:21:01.184Z",
  "groups": {
   "C211": {
    "odd": [
@@ -1079,20 +1079,6 @@
     "ym": "2026-10",
     "pub": "2026-10-06",
     "text": "Dnia 07.10.2026 zostają odwołane zajęcia z dr inż. Anną Borawską Termin odrobienia zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c212-3/",
-    "title": "GRUPA C212",
-    "ym": "2026-09",
-    "pub": "2026-09-29",
-    "text": "Dnia 02.10.2026 zostają odwołane zajęcia z dr Krzysztofem Dmytrów Termin odrobienia zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c211-40/",
-    "title": "GRUPA C211",
-    "ym": "2026-09",
-    "pub": "2026-09-29",
-    "text": "Dnia 02.10.2026 zostają odwołane zajęcia z dr Krzysztofem Dmytrów Termin odrobienia zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -1104,8 +1090,7 @@
      "pl": "Statystyka opisowa",
      "post": 5,
      "posts": [
-      5,
-      10
+      5
      ]
     },
     {
@@ -1262,8 +1247,7 @@
      "post": 4,
      "posts": [
       4,
-      5,
-      9
+      5
      ]
     },
     {
@@ -1274,8 +1258,7 @@
      "post": 4,
      "posts": [
       4,
-      5,
-      9
+      5
      ]
     },
     {
@@ -1441,6 +1424,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:37:34.185Z"
+  "updatedAt": "2026-11-10T13:29:36.797Z"
  }
 }

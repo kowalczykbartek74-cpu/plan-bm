@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:22:28.910Z",
- "checkedAt": "2026-11-10T11:30:43.746Z",
+ "checkedAt": "2026-11-10T13:21:01.193Z",
  "groups": {
   "C621": {
    "odd": [
@@ -760,6 +760,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c621-c622-31/",
+    "title": "GRUPA C621, C622",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "Zajęcia z seminarium dyplomowego u dr Karoliny Muszyńskiej zostają przełożone z dnia 8.12.2026 na dzień 1.12.2026, godz. 12.00 – 13.15, pokój 425."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c621-c622-30/",
     "title": "GRUPA C621, C622",
     "ym": "2026-10",
@@ -814,7 +821,7 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. SIL 213",
-     "post": 4
+     "post": 5
     },
     {
      "type": "extra",
@@ -825,7 +832,7 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. SIL 116lab",
-     "post": 3,
+     "post": 4,
      "dup": true
     },
     {
@@ -833,9 +840,9 @@
      "date": "2026-10-20",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -848,7 +855,7 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 525",
-     "post": 5
+     "post": 6
     },
     {
      "type": "cancel",
@@ -856,9 +863,9 @@
      "start": "12:00",
      "pl": "Psychologia reklamy (ćw) moduł pm",
      "guess": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -866,9 +873,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -876,9 +883,9 @@
      "date": "2026-11-10",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -891,8 +898,29 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 525",
-     "post": 0,
+     "post": 1,
      "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "12:00",
+     "end": "13:15",
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Karolina Muszyńska",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-08",
+     "start": "10:00",
+     "pl": "Seminarium dyplomowe",
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ],
    "C622": [
@@ -906,16 +934,16 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. SIL 213",
-     "post": 4
+     "post": 5
     },
     {
      "type": "cancel",
      "date": "2026-10-20",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -928,7 +956,7 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 525",
-     "post": 5
+     "post": 6
     },
     {
      "type": "cancel",
@@ -936,9 +964,9 @@
      "start": "13:45",
      "pl": "Psychologia reklamy (ćw) moduł pm",
      "guess": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -950,7 +978,7 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. SIL 116lab",
-     "post": 2,
+     "post": 3,
      "dup": true
     },
     {
@@ -958,9 +986,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -968,9 +996,9 @@
      "date": "2026-11-10",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -983,11 +1011,32 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 525",
-     "post": 0,
+     "post": 1,
      "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "12:00",
+     "end": "13:15",
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Karolina Muszyńska",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-08",
+     "start": "10:00",
+     "pl": "Seminarium dyplomowe",
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:10.145Z"
+  "updatedAt": "2026-11-10T13:30:51.481Z"
  }
 }

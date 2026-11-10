@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-10T11:38:14.213Z",
+ "at": "2026-11-10T13:28:43.394Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -757,8 +757,8 @@
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
    "wersja": "planynst-d963b5729e20",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 146
   },
@@ -857,8 +857,8 @@
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
    "wersja": "planynst-d963b5729e20",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 132
   },
@@ -947,8 +947,8 @@
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
    "wersja": "planynst-d963b5729e20",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 90
   },
@@ -977,8 +977,8 @@
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
    "wersja": "planynst-d963b5729e20",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 106
   },

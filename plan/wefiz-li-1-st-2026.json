@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T18:37:42.403Z",
- "checkedAt": "2026-11-10T11:30:43.747Z",
+ "checkedAt": "2026-11-10T13:21:01.194Z",
  "groups": {
   "C161": {
    "odd": [
@@ -374,61 +374,10 @@
     "ym": "2026-10",
     "pub": "2026-10-28",
     "text": "Szanowni Studenci od listopada nastąpi zmiana w planie. Połączenie grup laboratoryjnych."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/09/grupa-c161-52/",
-    "title": "GRUPA C161",
-    "ym": "2026-09",
-    "pub": "2026-09-30",
-    "text": "Dnia 14.10.2026 zostają odwołane zajęcia z dr inż. Tomaszem Wiśniewskim Termin odrobienia zajęć: wykład 15.10.2026 godz. 10:00 sala 607 ćwiczenia 15.10.2026 godz. 12:00 sala 607"
    }
   ],
   "zmiany": {
    "C161": [
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "12:00",
-     "pl": "Matematyka",
-     "post": 2,
-     "posts": [
-      2
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "13:45",
-     "pl": "Matematyka",
-     "post": 2,
-     "posts": [
-      2
-     ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-15",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Matematyka",
-     "k": "X",
-     "p": "dr inż. Tomasz Wiśniewski",
-     "r": "s. 607",
-     "post": 2
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-15",
-     "start": "12:00",
-     "end": "13:30",
-     "pl": "Matematyka",
-     "k": "X",
-     "p": "dr inż. Tomasz Wiśniewski",
-     "r": "s. 607",
-     "post": 2
-    },
     {
      "type": "extra",
      "kind": "makeup",
@@ -464,6 +413,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T13:44:29.839Z"
+  "updatedAt": "2026-11-10T13:31:11.328Z"
  }
 }

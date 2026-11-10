@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-08T20:22:35.116Z",
- "checkedAt": "2026-11-10T11:30:43.746Z",
+ "checkedAt": "2026-11-10T13:21:01.193Z",
  "groups": {
   "C521": {
    "odd": [
@@ -499,6 +499,20 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c521-26/",
+    "title": "GRUPA C521",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "Dnia 10.12.2026 zostają odwołane zajęcia z dr Karoliną Muszyńską. Termin odrabiania zajęć: 03.12.2026 godz. 8:15 sala SIL 137/138 lab"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c522-26/",
+    "title": "GRUPA C522",
+    "ym": "2026-11",
+    "pub": "2026-11-10",
+    "text": "Dnia 08.12.2026 zostają odwołane zajęcia z dr Karoliną Muszyńską. Termin odrabiania zajęć: 30.11.2026 godz. 13:45 sala SIL 137/138 lab"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-25/",
     "title": "GRUPA C521",
     "ym": "2026-10",
@@ -589,16 +603,16 @@
      "k": "CW",
      "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
      "r": "s. 623",
-     "post": 8
+     "post": 10
     },
     {
      "type": "cancel",
      "date": "2026-10-13",
      "start": "10:00",
      "pl": "CSR",
-     "post": 8,
+     "post": 10,
      "posts": [
-      8
+      10
      ]
     },
     {
@@ -606,16 +620,6 @@
      "date": "2026-10-19",
      "start": "8:15",
      "pl": "Metody postępowania ze stresem",
-     "post": 6,
-     "posts": [
-      6
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "10:00",
-     "pl": "CSR",
      "post": 8,
      "posts": [
       8
@@ -624,12 +628,22 @@
     {
      "type": "cancel",
      "date": "2026-10-20",
+     "start": "10:00",
+     "pl": "CSR",
+     "post": 10,
+     "posts": [
+      10
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
      "start": "12:00",
      "pl": "Zachowania organizacyjne",
-     "post": 3,
+     "post": 5,
      "posts": [
-      3,
-      9
+      5,
+      11
      ]
     },
     {
@@ -642,7 +656,7 @@
      "k": "W",
      "p": "dr hab. prof. US Jakub Swacha",
      "r": "s. 104",
-     "post": 4,
+     "post": 6,
      "dup": true
     },
     {
@@ -650,9 +664,9 @@
      "date": "2026-11-03",
      "start": "8:15",
      "pl": "Grywalizacja w motywowaniu pracowników i klientów",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4
+      6
      ]
     },
     {
@@ -665,7 +679,7 @@
      "k": "CW",
      "p": "dr Anna Ścibior-Butrym",
      "r": "s. 720",
-     "post": 3,
+     "post": 5,
      "dup": true
     },
     {
@@ -673,10 +687,22 @@
      "date": "2026-11-26",
      "start": "10:00",
      "pl": "Komunikacja w zespołach rozproszonych",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Komunikacja w zespołach rozproszonych",
+     "k": "LAB",
+     "p": "dr Karolina Muszyńska",
+     "r": "s. SIL 137/138 lab",
+     "post": 0
     },
     {
      "type": "extra",
@@ -688,8 +714,18 @@
      "k": "LAB",
      "p": "dr Karolina Muszyńska",
      "r": "s. SIL 137/138",
-     "post": 0,
+     "post": 2,
      "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-10",
+     "start": "10:00",
+     "pl": "Komunikacja w zespołach rozproszonych",
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "extra",
@@ -701,7 +737,7 @@
      "k": "K",
      "p": "dr Karolina Drela",
      "r": "s. 623",
-     "post": 6,
+     "post": 8,
      "dup": true
     }
    ],
@@ -711,9 +747,9 @@
      "date": "2026-10-13",
      "start": "12:00",
      "pl": "CSR",
-     "post": 7,
+     "post": 9,
      "posts": [
-      7
+      9
      ]
     },
     {
@@ -721,9 +757,9 @@
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Metody postępowania ze stresem",
-     "post": 5,
+     "post": 7,
      "posts": [
-      5
+      7
      ]
     },
     {
@@ -731,10 +767,10 @@
      "date": "2026-10-20",
      "start": "10:00",
      "pl": "Zachowania organizacyjne",
-     "post": 2,
+     "post": 4,
      "posts": [
-      2,
-      10
+      4,
+      12
      ]
     },
     {
@@ -742,9 +778,9 @@
      "date": "2026-10-20",
      "start": "12:00",
      "pl": "CSR",
-     "post": 7,
+     "post": 9,
      "posts": [
-      7
+      9
      ]
     },
     {
@@ -758,7 +794,7 @@
      "k": "CW",
      "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
      "r": "s. 707",
-     "post": 7
+     "post": 9
     },
     {
      "type": "extra",
@@ -770,7 +806,7 @@
      "k": "W",
      "p": "dr hab. prof. US Jakub Swacha",
      "r": "s. 104",
-     "post": 4,
+     "post": 6,
      "dup": true
     },
     {
@@ -778,9 +814,9 @@
      "date": "2026-11-03",
      "start": "8:15",
      "pl": "Grywalizacja w motywowaniu pracowników i klientów",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4
+      6
      ]
     },
     {
@@ -793,8 +829,30 @@
      "k": "CW",
      "p": "dr Anna Ścibior-Butrym",
      "r": "s. 607",
-     "post": 2,
+     "post": 4,
      "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-30",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Komunikacja w zespołach rozproszonych",
+     "k": "LAB",
+     "p": "dr Karolina Muszyńska",
+     "r": "s. SIL 137/138 lab",
+     "post": 1
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-08",
+     "start": "8:15",
+     "pl": "Komunikacja w zespołach rozproszonych",
+     "post": 1,
+     "posts": [
+      1
+     ]
     },
     {
      "type": "extra",
@@ -806,10 +864,10 @@
      "k": "K",
      "p": "dr Karolina Drela",
      "r": "s. 623",
-     "post": 5
+     "post": 7
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:18.840Z"
+  "updatedAt": "2026-11-10T13:31:05.804Z"
  }
 }
