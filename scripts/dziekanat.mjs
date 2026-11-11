@@ -678,7 +678,9 @@ async function run() {
     wczytajPamiec();
     for (const c of rocznikiUS()) {
       console.log(`\n== ${c.id} ==`);
-      try { const w = await main(zUS(c)); wynik = { changed: wynik.changed || w.changed, fresh: wynik.fresh || w.fresh }; }
+      // roczniki US: komunikaty tylko na stronie, bez maila (bezMaila) → nie ustawiają „fresh”, bo krok „Powiadom…”
+      // czytałby nieistniejący dziekanat.md, padał i blokował publikację strony (przebiegi 10–11.11)
+      try { const w = await main(zUS(c)); wynik = { changed: wynik.changed || w.changed, fresh: wynik.fresh }; }
       catch (e) { console.error("BŁĄD:", c.id, e.message); failed = true; }
     }
     zapiszPamiec();
