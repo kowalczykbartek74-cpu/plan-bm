@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
- "wersja": "2026-10-30",
- "sha256": "aefc54e219eb127fbec6f9c843e0fdd6f56274fe605b1cf48ea9d73a4c1d27ed",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
+ "wersja": "2026-11-10",
+ "sha256": "51e0a3b985896ed223d3061aae56cf55990986efd0897a31ff28d5283a3eba56",
  "kierunek": "Filologia norweska",
  "kierunekEn": "Norwegian Philology",
  "id": "wh-fn-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-10T15:25:56.788Z",
+ "changedAt": "2026-11-11T09:58:34.199Z",
+ "checkedAt": "2026-11-11T09:58:34.199Z",
  "groups": {
   "FN3": {
    "odd": [
@@ -26,7 +26,20 @@
      "pl": "Historia literatury norweskiej",
      "k": "W",
      "p": "dr Strauss",
-     "r": "s. 117 WH"
+     "r": "s. 117 WH",
+     "dates": [
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
     },
     {
      "d": 0,
@@ -270,7 +283,20 @@
      "pl": "Historia literatury norweskiej",
      "k": "W",
      "p": "dr Strauss",
-     "r": "s. 117 WH"
+     "r": "s. 117 WH",
+     "dates": [
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
     },
     {
      "d": 0,
@@ -657,15 +683,8 @@
    }
   ],
   "zmiany": {
-   "FN3": [
-    {
-     "type": "note",
-     "date": "2026-10-12",
-     "post": 0,
-     "niska": true
-    }
-   ]
+   "FN3": []
   },
-  "updatedAt": "2026-11-09T18:07:28.064Z"
+  "updatedAt": "2026-11-11T10:06:04.817Z"
  }
 }

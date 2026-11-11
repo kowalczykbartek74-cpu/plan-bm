@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
- "wersja": "PPIW-15.pdf",
- "sha256": "14ab4c62d225708187f00486ebb32aacb536589b66acf7c7f623b5b18a42c4af",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
+ "wersja": "PPIW-17.pdf",
+ "sha256": "14470fae6728efc86ae88f968f85f18162bf3bfc2b7d326603e3c4ba622fe8f3",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-10T15:26:32.357Z",
+ "changedAt": "2026-11-11T09:58:34.897Z",
+ "checkedAt": "2026-11-11T09:58:34.897Z",
  "groups": {
   "PPIW1": {
    "odd": [
@@ -75,7 +75,7 @@
       "15:00"
      ],
      "p": "dr A. Makowska",
-     "r": "s. 118 ul. Ogińskiego 16-17",
+     "r": "s. 106 ul. Mickiewicza 18",
      "n": "pierwsze zaj od g. 14:20",
      "pg": "ćw:2",
      "dates": [
@@ -141,14 +141,14 @@
     },
     {
      "d": 0,
-     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "pl": "Kulturowe podstawy edukacji",
      "k": "CW",
      "time": [
       "15:15",
       "16:45"
      ],
      "p": "dr A. Makowska",
-     "r": "s. 118 ul. Ogińskiego 16-17",
+     "r": "s. 205 ul. Mickiewicza 18",
      "n": "pierwsze zaj od g. 16:05",
      "pg": "ćw:1",
      "dates": [
@@ -173,7 +173,7 @@
       "16:45"
      ],
      "p": "mgr M. Wojciechowska",
-     "r": "s. 106 ul. Mickiewicza 18",
+     "r": "s. 106 ul. Mickiewicza 18, Antropologiczne i",
      "n": "ost zaj do g. 16:00",
      "pg": "ćw:1",
      "dates": [
@@ -667,7 +667,7 @@
       "15:00"
      ],
      "p": "dr A. Makowska",
-     "r": "s. 118 ul. Ogińskiego 16-17",
+     "r": "s. 106 ul. Mickiewicza 18",
      "n": "pierwsze zaj od g. 14:20",
      "pg": "ćw:2",
      "dates": [
@@ -733,14 +733,14 @@
     },
     {
      "d": 0,
-     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "pl": "Kulturowe podstawy edukacji",
      "k": "CW",
      "time": [
       "15:15",
       "16:45"
      ],
      "p": "dr A. Makowska",
-     "r": "s. 118 ul. Ogińskiego 16-17",
+     "r": "s. 205 ul. Mickiewicza 18",
      "n": "pierwsze zaj od g. 16:05",
      "pg": "ćw:1",
      "dates": [
@@ -765,7 +765,7 @@
       "16:45"
      ],
      "p": "mgr M. Wojciechowska",
-     "r": "s. 106 ul. Mickiewicza 18",
+     "r": "s. 106 ul. Mickiewicza 18, Antropologiczne i",
      "n": "ost zaj do g. 16:00",
      "pg": "ćw:1",
      "dates": [

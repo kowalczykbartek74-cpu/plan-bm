@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-10T15:29:39.114Z",
+ "at": "2026-11-11T09:59:40.452Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -1615,8 +1615,8 @@
   {
    "id": "wh-fn-1-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
-   "wersja": "2026-10-30",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
+   "wersja": "2026-11-10",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1625,20 +1625,20 @@
   {
    "id": "wh-fn-1-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
-   "wersja": "2026-10-30",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
+   "wersja": "2026-11-10",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 34
   },
   {
    "id": "wh-fn-1-st-2024",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
-   "wersja": "2026-10-30",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
+   "wersja": "2026-11-10",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 34
   },
@@ -2735,10 +2735,10 @@
   {
    "id": "wns-ppiw-0-st-2026",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
-   "wersja": "PPIW-15.pdf",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
+   "wersja": "PPIW-17.pdf",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 50,
    "kolejka": {
@@ -2752,8 +2752,8 @@
   {
    "id": "wns-ppiw-0-st-2025",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
-   "wersja": "PPIW-15.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
+   "wersja": "PPIW-17.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2769,8 +2769,8 @@
   {
    "id": "wns-ppiw-0-st-2024",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
-   "wersja": "PPIW-15.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
+   "wersja": "PPIW-17.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2786,10 +2786,10 @@
   {
    "id": "wns-ppiw-0-st-2023",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
-   "wersja": "PPIW-15.pdf",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
+   "wersja": "PPIW-17.pdf",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 28,
    "kolejka": {
@@ -2803,10 +2803,10 @@
   {
    "id": "wns-ppiw-0-st-2022",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
-   "wersja": "PPIW-15.pdf",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
+   "wersja": "PPIW-17.pdf",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 30,
    "kolejka": {
@@ -4928,10 +4928,10 @@
   {
    "id": "wpia-psm-1-nst-2024",
    "wydzial": "wpia",
-   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-niestacjonarne-I-stopnia.pdf",
-   "wersja": "III-prawo-służb-mundurowych-niestacjonarne-I-stopnia.pdf",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NPSM-I-st.-3.pdf",
+   "wersja": "III-NPSM-I-st.-3.pdf",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 104,
    "kolejka": {

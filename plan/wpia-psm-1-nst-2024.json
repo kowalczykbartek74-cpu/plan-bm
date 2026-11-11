@@ -1,7 +1,7 @@
 {
- "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-niestacjonarne-I-stopnia.pdf",
- "wersja": "III-prawo-służb-mundurowych-niestacjonarne-I-stopnia.pdf",
- "sha256": "7b478393c8fbbf350fc54150b62ba928750a2c600847d314e289541b9b439dc7",
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-NPSM-I-st.-3.pdf",
+ "wersja": "III-NPSM-I-st.-3.pdf",
+ "sha256": "7e9d721c1a8665ff0b97ec6dd89c40a13aaa9eaa228ed403e6a34751ba0e8fa8",
  "kierunek": "Prawo służb mundurowych",
  "kierunekEn": "Law for Uniformed Services",
  "id": "wpia-psm-1-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-10T15:28:58.145Z",
+ "changedAt": "2026-11-11T09:59:24.706Z",
+ "checkedAt": "2026-11-11T09:59:24.706Z",
  "groups": {
   "PSM3": {
    "odd": [
@@ -444,20 +444,6 @@
     {
      "d": 5,
      "time": [
-      "14:45",
-      "17:15"
-     ],
-     "pl": "Przestępczość gospodarcza",
-     "k": "X",
-     "p": "mgr K. Dzwonkowska",
-     "r": "s. 115 al. Piastów 40b",
-     "dates": [
-      "2026-11-14"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
       "15:15",
       "17:45"
      ],
@@ -529,20 +515,6 @@
      "d": 6,
      "time": [
       "08:15",
-      "10:45"
-     ],
-     "pl": "Przestępczość gospodarcza",
-     "k": "X",
-     "p": "mgr K. Dzwonkowska",
-     "r": "s. 220 Narutowicza",
-     "dates": [
-      "2026-11-15"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "08:15",
       "09:45"
      ],
      "pl": "Typologia broni",
@@ -562,7 +534,7 @@
      "pl": "Usługi detektywistyczne",
      "k": "X",
      "p": "mgr N. Michalska",
-     "r": "s. 115 al. Piastów 40b",
+     "r": "s. 220 Narutowicza",
      "dates": [
       "2026-12-06"
      ]
@@ -660,7 +632,7 @@
      "pl": "Prawo i postępowanie w sprawach o wykroczenia",
      "k": "W",
      "p": "mgr N. Michalska",
-     "r": "s. 115 al. Piastów 40b",
+     "r": "s. 220 Narutowicza",
      "dates": [
       "2026-12-06"
      ]
@@ -753,6 +725,34 @@
      "r": "s. 115 al. Piastów 40b",
      "dates": [
       "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:45",
+      "15:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ],
@@ -1184,20 +1184,6 @@
     {
      "d": 5,
      "time": [
-      "14:45",
-      "17:15"
-     ],
-     "pl": "Przestępczość gospodarcza",
-     "k": "X",
-     "p": "mgr K. Dzwonkowska",
-     "r": "s. 115 al. Piastów 40b",
-     "dates": [
-      "2026-11-14"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
       "15:15",
       "17:45"
      ],
@@ -1269,20 +1255,6 @@
      "d": 6,
      "time": [
       "08:15",
-      "10:45"
-     ],
-     "pl": "Przestępczość gospodarcza",
-     "k": "X",
-     "p": "mgr K. Dzwonkowska",
-     "r": "s. 220 Narutowicza",
-     "dates": [
-      "2026-11-15"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "08:15",
       "09:45"
      ],
      "pl": "Typologia broni",
@@ -1302,7 +1274,7 @@
      "pl": "Usługi detektywistyczne",
      "k": "X",
      "p": "mgr N. Michalska",
-     "r": "s. 115 al. Piastów 40b",
+     "r": "s. 220 Narutowicza",
      "dates": [
       "2026-12-06"
      ]
@@ -1400,7 +1372,7 @@
      "pl": "Prawo i postępowanie w sprawach o wykroczenia",
      "k": "W",
      "p": "mgr N. Michalska",
-     "r": "s. 115 al. Piastów 40b",
+     "r": "s. 220 Narutowicza",
      "dates": [
       "2026-12-06"
      ]
@@ -1493,6 +1465,34 @@
      "r": "s. 115 al. Piastów 40b",
      "dates": [
       "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:45",
+      "15:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ]
