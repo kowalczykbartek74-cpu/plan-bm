@@ -8,6 +8,7 @@
 //                                                              stan przebiegu w plan/_import.json
 // Pliki kierunki/<id>.json robi skrypt kierunek.mjs w repo skrot-bm; w tym skrypcie nie ma żadnego kierunku poza BM.
 import { importujWszystkie } from "./us/importuj.mjs";
+import { dopiszPowiadomienie } from "./powiadomienie.mjs";
 import { inwentarz, scalZrodla } from "./us/inwentarz.mjs";
 import { pobieracz as nowyPobieracz } from "./us/wspolne.mjs";
 import fs from "node:fs";
@@ -199,8 +200,7 @@ async function main(K) {
       diffGroups(old.groups, groups) +
       `\n\nStrona z planem została już zaktualizowana automatycznie. Sprawdź ją i w razie potrzeby daj znać grupie.`;
     // BM zaczyna plik od nowa (jak dotąd), kolejne roczniki dopisują swoją część do tego samego maila
-    if (K.html) fs.writeFileSync("zmiany.md", summary + "\n");
-    else fs.appendFileSync("zmiany.md", (fs.existsSync("zmiany.md") ? "\n---\n\n" : "") + summary + "\n");
+    dopiszPowiadomienie("zmiany.md", summary, { pierwszy: !!K.html });
   }
   console.log(changed ? (old ? "ZMIANA w planie:\n" + summary : "Pierwszy zapis planu.") : "Bez zmian w planie.");
   const szczegoly = changed ? (old ? "zmiana" : "nowy") : "bez zmian";

@@ -25,6 +25,7 @@
 import { roczniki } from "./roczniki.mjs";
 import { dopasowanie, rocznikiUS, formularz, formularzDla, nazwisko, norm } from "./us/dos-dopasuj.mjs";
 import fs from "node:fs";
+import { dopiszPowiadomienie } from "./powiadomienie.mjs";
 import https from "node:https";
 import { pathToFileURL } from "node:url";
 
@@ -643,8 +644,7 @@ async function main(K = BM) {
     const body = `Na stronie dziekanatu pojawiły się nowe komunikaty dla ${K.opis}.\n\n${lines.join("\n\n") || "_Nie udało się ich przypiąć do konkretnych zajęć, zajrzyj do wpisów._"}\n\n` +
       `Wpisy:\n${fresh.map(p => `- [${p.title}](${p.url}): ${short(p.text || "", 300)}`).join("\n")}\n\n` +
       `Plan na plan.zdawalni.pl już to pokazuje. Sprawdź, czy dobrze to odczytał.`;
-    if (K.html) fs.writeFileSync("dziekanat.md", body + "\n");
-    else fs.appendFileSync("dziekanat.md", (fs.existsSync("dziekanat.md") ? "\n---\n\n" : "") + body + "\n");
+    dopiszPowiadomienie("dziekanat.md", body, { pierwszy: !!K.html });
   }
 
   for (const g of Object.keys(zmiany)) {
