@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-11T09:59:40.452Z",
+ "at": "2026-11-11T11:04:13.785Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -1627,8 +1627,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
    "wersja": "2026-11-10",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 34
   },
@@ -1637,8 +1637,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
    "wersja": "2026-11-10",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 34
   },
@@ -2737,8 +2737,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
    "wersja": "PPIW-17.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 50,
    "kolejka": {
@@ -2788,8 +2788,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
    "wersja": "PPIW-17.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 28,
    "kolejka": {
@@ -2805,8 +2805,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
    "wersja": "PPIW-17.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 30,
    "kolejka": {
@@ -4930,8 +4930,8 @@
    "wydzial": "wpia",
    "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NPSM-I-st.-3.pdf",
    "wersja": "III-NPSM-I-st.-3.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 104,
    "kolejka": {
