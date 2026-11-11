@@ -8,6 +8,8 @@
 //                                                              stan przebiegu w plan/_import.json
 // Pliki kierunki/<id>.json robi skrypt kierunek.mjs w repo skrot-bm; w tym skrypcie nie ma żadnego kierunku poza BM.
 import { importujWszystkie } from "./us/importuj.mjs";
+import { inwentarz, scalZrodla } from "./us/inwentarz.mjs";
+import { pobieracz as nowyPobieracz } from "./us/wspolne.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
@@ -223,6 +225,25 @@ export function zapiszStan(stan, plik = "plan/_import.json", teraz = new Date().
 // --tylko id1,id2: przy --wszystkie tylko te roczniki (sprawdzenie na kilku przed pełnym przebiegiem); stan zapisuje się tylko bez --tylko
 const ti = process.argv.indexOf("--tylko");
 const TYLKO = ti > 0 ? process.argv[ti + 1].split(",") : null;
+// Lista plików wydziałów odświeżana przed importem: nowa nazwa pliku na stronie wydziału („… zm. 10 XI”, PPIW-17.pdf)
+// trafia do importu od razu. Tylko w pamięci – config/zrodla-us.json zmienia ręczny inwentarz (node scripts/us/inwentarz.mjs).
+// Awaria sieci → poprzednia lista (scalZrodla). --bez-inwentarza: import ze starej listy.
+async function swiezeZrodla(p) {
+  const stare = JSON.parse(fs.readFileSync("config/zrodla-us.json", "utf8"));
+  if (process.argv.includes("--bez-inwentarza")) return stare;
+  console.log("\n== lista plików wydziałów (inwentarz) ==");
+  try {
+    const w = await inwentarz({ pobieracz: p, log: () => {} });
+    const r = scalZrodla(stare, { wydzialy: w.zrodla }, w.bledyStron || {});
+    console.log(r.zmiany.length ? "Nowe pliki na stronach wydziałów:\n  " + r.zmiany.join("\n  ") : "Lista plików bez zmian.");
+    if (r.zachowane.length) console.log("Zostaje poprzednia wersja:\n  " + r.zachowane.join("\n  "));
+    return r.zrodla;
+  } catch (e) {
+    console.log(`Inwentarz nie powiódł się (${e.message}) – import z poprzedniej listy.`);
+    return stare;
+  }
+}
+
 async function run() {
   const ki = process.argv.indexOf("--kierunek");
   const pliki = ki > 0 ? [process.argv[ki + 1]] : null;
@@ -240,7 +261,9 @@ async function run() {
   // Pozostałe wydziały US (config/zrodla-us.json → importer wydziału, scripts/us/importuj.mjs). Błąd jednego nie blokuje reszty.
   if (konfiguracje && process.argv.includes("--wszystkie") && !process.argv.includes("--bez-us")) {
     try {
-      const us = await importujWszystkie({ tylko: TYLKO });
+      const p = nowyPobieracz({ log: console.log });
+      const zrodla = await swiezeZrodla(p);
+      const us = await importujWszystkie({ tylko: TYLKO, pobieracz: p, zrodla });
       for (const s of us) { if (s.status === "błąd") { failed = true; blad(new Error(`${s.id}: ${s.blad}`)); } stan.push(s); }
     } catch (e) { blad(e); failed = true; }
   }

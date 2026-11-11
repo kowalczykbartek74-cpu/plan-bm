@@ -1,6 +1,6 @@
 {
  "opis": "Wygenerowane: node scripts/us/inwentarz.mjs. Nie edytuj ręcznie (wydziały i strony: config/wydzialy-us.json). Źródło = {url, plik, format, tryb, typ, kierunki:[{kod, stopien, lata}], wersja (data z nazwy pliku), sha256, rozmiar}.",
- "wygenerowano": "2026-11-09",
+ "wygenerowano": "2026-11-11",
  "wydzialy": {
   "wefiz": {
    "skrot": "WEFiZ",
@@ -827,7 +827,7 @@
     "stacjonarne"
    ],
    "zajec": 467,
-   "znacznik": "2026-11-09 23:48:19",
+   "znacznik": "2026-11-11 10:45:42",
    "przyklad": {
     "id": 1,
     "subject": "PDW: nowoczesne formy ruchowe 30h, 1zt (5.10-25.01.27)",
@@ -869,7 +869,7 @@
      ],
      "grupa": "MwS 2 rok I stopień",
      "zajec": 24,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -890,7 +890,7 @@
      ],
      "grupa": "WF 1 rok I stopień",
      "zajec": 42,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -911,7 +911,7 @@
      ],
      "grupa": "WF 2 rok I stopień",
      "zajec": 46,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -932,7 +932,7 @@
      ],
      "grupa": "WF 3 rok I stopień",
      "zajec": 27,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -953,7 +953,7 @@
      ],
      "grupa": "ZP 2 rok I stopień",
      "zajec": 24,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -974,7 +974,7 @@
      ],
      "grupa": "ZP 3 rok I stopień",
      "zajec": 15,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -995,7 +995,7 @@
      ],
      "grupa": "DS 1 rok I stopień",
      "zajec": 26,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1016,7 +1016,7 @@
      ],
      "grupa": "DS 2 rok I stopień",
      "zajec": 31,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1037,7 +1037,7 @@
      ],
      "grupa": "WF 2 rok II stopień",
      "zajec": 28,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1058,7 +1058,7 @@
      ],
      "grupa": "ZP 1 rok II stopień",
      "zajec": 22,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1079,7 +1079,7 @@
      ],
      "grupa": "ZP 2 rok II stopień",
      "zajec": 12,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1100,7 +1100,7 @@
      ],
      "grupa": "DS 2 rok II stopień",
      "zajec": 15,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1121,7 +1121,7 @@
      ],
      "grupa": "ERASMUS +",
      "zajec": 30,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1142,7 +1142,7 @@
      ],
      "grupa": "ZP 1 rok I stopień",
      "zajec": 20,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1163,7 +1163,7 @@
      ],
      "grupa": "DS 3 rok I stopień",
      "zajec": 33,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1184,7 +1184,7 @@
      ],
      "grupa": "MwS 1 rok I stopień",
      "zajec": 23,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1205,7 +1205,7 @@
      ],
      "grupa": "DS 1 rok II stopień",
      "zajec": 16,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1226,7 +1226,7 @@
      ],
      "grupa": "WF 1 rok II stopień",
      "zajec": 14,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php",
@@ -1247,7 +1247,7 @@
      ],
      "grupa": "MwS 3 rok I stopień",
      "zajec": 19,
-     "wersja": "2026-11-09 23:48:19"
+     "wersja": "2026-11-11 10:45:42"
     },
     {
      "url": "https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php?group=WF%201%20rok%20I%20stopie%C5%84",
@@ -1718,9 +1718,9 @@
      ]
     },
     {
-     "url": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
-     "plik": "FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
-     "opis": "FN-I-st.-plan-zajec-semestr-zimowy-2026_2027 zm. 30 X 2026",
+     "url": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
+     "plik": "FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
+     "opis": "FN-I-st.-plan-zajec-semestr-zimowy-2026_2027 zm. 10 XI 2026",
      "format": "xlsx",
      "tryb": "st",
      "typ": "plan",
@@ -1735,9 +1735,9 @@
        "kod": "FN"
       }
      ],
-     "wersja": "2026-10-30",
-     "sha256": "aefc54e219eb127fbec6f9c843e0fdd6f56274fe605b1cf48ea9d73a4c1d27ed",
-     "rozmiar": 43084,
+     "wersja": "2026-11-10",
+     "sha256": "51e0a3b985896ed223d3061aae56cf55990986efd0897a31ff28d5283a3eba56",
+     "rozmiar": 43134,
      "arkusze": [
       "FN I rok",
       "FN II rok",
@@ -2644,8 +2644,8 @@
      "rozmiar": 149983
     },
     {
-     "url": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
-     "plik": "PPIW-15.pdf",
+     "url": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
+     "plik": "PPIW-17.pdf",
      "opis": "PEDAGOGIKA PRZEDSZKOLNA I WCZESNOSZKOLNA: Studia jednolite magisterskie: ROK 1-5",
      "format": "pdf",
      "tryb": "st",
@@ -2666,8 +2666,8 @@
       }
      ],
      "wersja": null,
-     "sha256": "14ab4c62d225708187f00486ebb32aacb536589b66acf7c7f623b5b18a42c4af",
-     "rozmiar": 358666
+     "sha256": "14470fae6728efc86ae88f968f85f18162bf3bfc2b7d326603e3c4ba622fe8f3",
+     "rozmiar": 358740
     },
     {
      "url": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
@@ -5332,8 +5332,8 @@
      "rozmiar": 147507
     },
     {
-     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-niestacjonarne-I-stopnia.pdf",
-     "plik": "III-prawo-służb-mundurowych-niestacjonarne-I-stopnia.pdf",
+     "url": "https://wpia.usz.edu.pl/wp-content/uploads/III-NPSM-I-st.-3.pdf",
+     "plik": "III-NPSM-I-st.-3.pdf",
      "opis": "III rok PSM-NI",
      "format": "pdf",
      "tryb": "nst",
@@ -5342,7 +5342,7 @@
       {
        "nazwa": "Prawo służb mundurowych",
        "skrot": "PSM",
-       "skrotPliku": null,
+       "skrotPliku": "NPSM",
        "stopien": 1,
        "lata": [
         3
@@ -5351,8 +5351,8 @@
       }
      ],
      "wersja": null,
-     "sha256": "7b478393c8fbbf350fc54150b62ba928750a2c600847d314e289541b9b439dc7",
-     "rozmiar": 145638
+     "sha256": "7e9d721c1a8665ff0b97ec6dd89c40a13aaa9eaa228ed403e6a34751ba0e8fa8",
+     "rozmiar": 117707
     },
     {
      "url": "https://wpia.usz.edu.pl/wp-content/uploads/PSM-II-st.-2026-2027-I-rok.pdf",

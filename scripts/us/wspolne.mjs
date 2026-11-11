@@ -42,7 +42,15 @@ export function pobieracz({ dir = ".cache/us", pauzaMs = 1100, fetchFn = fetch, 
     fs.writeFileSync(f, r.buf);
     return r.buf.toString("utf8");
   }
+  // Plik sprawdzony już w tym przebiegu (np. przez inwentarz przed importem) – bez ponownego pytania uczelni.
+  const sprawdzone = new Map();
   async function plik(url) {
+    if (!offline && sprawdzone.has(url)) { stat.cache++; return sprawdzone.get(url); }
+    const r = await plikZSieci(url);
+    if (!offline && r) sprawdzone.set(url, r.zCache === false ? { ...r, zCache: true } : r);
+    return r;
+  }
+  async function plikZSieci(url) {
     const f = path.join(dir, "pliki", klucz(url)), fm = f + ".meta.json";
     const stary = fs.existsSync(f) && fs.existsSync(fm) ? JSON.parse(fs.readFileSync(fm, "utf8")) : null;
     if (stary && offline) { stat.cache++; return { buf: fs.readFileSync(f), ...stary, zCache: true }; }

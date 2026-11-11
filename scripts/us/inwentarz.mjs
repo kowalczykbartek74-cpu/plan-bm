@@ -212,10 +212,11 @@ export function tytulyWH(napisy, kierunki, ofertaW) {
 // ---------- WEFiZ: system planów (HTML) – kierunki z formularza, stopnie z oferty ----------
 async function wefiz(wydz, p, oferta, { offline, log }) {
   const zrodla = [], pytania = [];
-  let form = [], akt = null;
+  let form = [], akt = null, bledyStron = 0;
   if (!offline) {
     const g = uczelnia({ log });
     const html = await g("plan");
+    if (!html) bledyStron++;
     form = kierunkiZFormularza(html || ""); akt = await g.aktualizacja();
     fs.mkdirSync(".cache/us/wefiz", { recursive: true });
     fs.writeFileSync(".cache/us/wefiz/formularz.json", JSON.stringify({ form, akt }));
@@ -242,28 +243,29 @@ async function wefiz(wydz, p, oferta, { offline, log }) {
   // niestacjonarne: osobny system (plan dla wykładowców / sal); grupy w PDF-ach „Zestawienie nazw grup”
   if (wydz.strony[1]) {
     const html = await p.strona(wydz.strony[1].url);
+    if (!html) bledyStron++;
     for (const m of String(html || "").matchAll(/href="([^"]*(?:planynst-[a-z-]+|Wykaz_grup[^"]*\.pdf))"[^>]*>([^<]+)</g)) {
       const url = new URL(m[1], wydz.strony[1].url).href;
       zrodla.push({ url, plik: url.split("/").pop(), opis: m[2].trim(), format: /\.pdf$/.test(url) ? "pdf" : "html", tryb: "nst", typ: /Wykaz_grup/.test(url) ? "grupy" : "plan", kierunki: [], wersja: null });
     }
   }
-  return { zrodla, wpisy, pytania, aktualizacja: akt };
+  return { zrodla, wpisy, pytania, aktualizacja: akt, bledyStron };
 }
 
 // ---------- główny przebieg ----------
-export async function inwentarz({ offline = false, probki = false, log = console.error, teraz = new Date() } = {}) {
+export async function inwentarz({ offline = false, probki = false, log = console.error, teraz = new Date(), pobieracz: p0 = null } = {}) {
   const cfg = JSON.parse(fs.readFileSync("config/wydzialy-us.json", "utf8"));
   const en = fs.existsSync("config/nazwy-en.json") ? JSON.parse(fs.readFileSync("config/nazwy-en.json", "utf8")) : {};
-  const p = pobieracz({ offline, log });
+  const p = p0 || pobieracz({ offline, log });
   const oferta = [];
   for (const o of cfg.oferta) { const h = await p.strona(o.url); if (!h) throw new Error("brak oferty US: " + o.url); oferta.push(...ofertaUS(h, o.stopien)); }
   const wynik = { zrodla: {}, kierunki: {}, pytania: [], pliki: { razem: 0, nowe: 0, bledy: [] } };
   for (const w of cfg.wydzialy) {
     log(`— ${w.skrot}`);
     const ofW = oferta.filter((o) => o.wydzial === w.oferta);
-    let zrodla = [], wpisy = [], pytania = [], dodatkowe = {};
+    let zrodla = [], wpisy = [], pytania = [], dodatkowe = {}, bledyStron = 0;
     if (w.parser === "wefiz") {
-      ({ zrodla, wpisy, pytania } = await wefiz(w, p, oferta, { offline, log }));
+      ({ zrodla, wpisy, pytania, bledyStron } = await wefiz(w, p, oferta, { offline, log }));
       // niestacjonarne (Etap 7): roczniki z kodów grup w PDF-ach „Wykaz grup … NZ”, plan z systemu planynst (scripts/us/wefiz-nst.mjs)
       for (const z of zrodla.filter((x) => x.tryb === "nst" && x.typ === "grupy")) {
         try {
@@ -278,6 +280,7 @@ export async function inwentarz({ offline = false, probki = false, log = console
       }
     } else if (w.parser === "wkfiz") {
       const st = await p.strona(w.strony[0].url), nst = await p.strona(w.strony[1].url);
+      if (!st || !nst) bledyStron++;
       const r = zrodlaWKFiZ(JSON.parse(st || "{}"), JSON.parse(nst || "{}"), w.strony[0].url, w.strony[1].url);
       zrodla = r.zrodla; pytania.push(...r.niejasne);
       if (probki) zapiszProbke(w.kod, "schedule.json", probkaWKFiZ(JSON.parse(st)));
@@ -288,7 +291,7 @@ export async function inwentarz({ offline = false, probki = false, log = console
     } else {
       for (const s of w.strony) {
         const html = await p.strona(s.url);
-        if (!html) { pytania.push(`${w.skrot}: strona ${s.url} nie odpowiada`); continue; }
+        if (!html) { bledyStron++; pytania.push(`${w.skrot}: strona ${s.url} nie odpowiada`); continue; }
         if (probki) zapiszProbke(w.kod, `lista-${s.tryb.replace("+", "-")}.html`, odchudz(html));
         zrodla.push(...PARSER[w.parser](html, s.tryb === "st+nst" ? "st" : s.tryb, s.url));
       }
@@ -328,12 +331,43 @@ export async function inwentarz({ offline = false, probki = false, log = console
       k.kod = n ? kodNazwy.get(norm(n)) ?? null : sk.kierunki.find((x) => x.skroty.includes(k.skrot))?.kod ?? null;
     }
     wynik.zrodla[w.kod] = { skrot: w.skrot, pl: w.pl, en: w.en, dos: w.dos, strony: w.strony, ...dodatkowe, zrodla };
+    if (bledyStron) wynik.bledyStron = { ...wynik.bledyStron, [w.kod]: bledyStron };
     wynik.kierunki[w.kod] = { skrot: w.skrot, pl: w.pl, kierunki: sk.kierunki };
     wynik.pytania.push(...pytania.map((q) => ({ wydzial: w.skrot, q })));
   }
   if (probki) { zapiszProbke("oferta", "i-stopnia.html", tylkoLista(await p.strona(cfg.oferta[0].url))); zapiszProbke("oferta", "ii-stopnia.html", tylkoLista(await p.strona(cfg.oferta[1].url))); }
   wynik.stat = p.stat; wynik.oferta = oferta;
   return wynik;
+}
+
+// ---------- odświeżanie listy źródeł przed importem (update-plan.mjs --wszystkie) ----------
+// Świeża lista z inwentarza, ale chwilowa awaria sieci nie może jej popsuć („zły plan jest gorszy niż brak planu”):
+// wydział, którego strona planów nie odpowiedziała → cała poprzednia lista; plik bez odpowiedzi (nie 404), który był
+// na poprzedniej liście → poprzedni wpis. Zwraca { zrodla, zmiany: [opis], zachowane: [opis] }.
+const bezBledu = (z) => !z.blad;
+const chwilowy = (z) => z.blad && !/^brak pliku \(404\)/.test(z.blad);
+export function scalZrodla(stare, swieze, bledyStron = {}) {
+  const wynik = { ...stare, wydzialy: {} }, zmiany = [], zachowane = [];
+  for (const kod of new Set([...Object.keys(stare.wydzialy || {}), ...Object.keys(swieze.wydzialy || {})])) {
+    const s = stare.wydzialy?.[kod], n = swieze.wydzialy?.[kod];
+    // wyraźnie krótsza lista niż poprzednio = podejrzane (strona w przebudowie, zła odpowiedź) → poprzednia lista
+    const ubylo = s?.zrodla?.length && (n?.zrodla?.length || 0) < s.zrodla.length / 2;
+    if (!n || bledyStron[kod] || ubylo) {
+      if (s) { wynik.wydzialy[kod] = s; if (n || bledyStron[kod]) zachowane.push(`${kod}: ${ubylo && !bledyStron[kod] ? `na stronie ${n?.zrodla?.length || 0} plików zamiast ${s.zrodla.length}` : "strona planów nie odpowiedziała"} – poprzednia lista`); }
+      continue;
+    }
+    const poAdresie = new Map((s?.zrodla || []).map((z) => [z.url, z]));
+    const zrodla = n.zrodla.map(bezPol).map((z) => {
+      const st = poAdresie.get(z.url);
+      if (chwilowy(z) && st && bezBledu(st)) { zachowane.push(`${kod}: ${z.plik} (${z.blad}) – poprzedni wpis`); return st; }
+      return z;
+    });
+    const nowe = zrodla.filter((z) => !poAdresie.has(z.url)).map((z) => z.plik);
+    const znikly = (s?.zrodla || []).filter((z) => !zrodla.some((x) => x.url === z.url)).map((z) => z.plik);
+    if (nowe.length || znikly.length) zmiany.push(`${kod}: ${nowe.length ? "nowe " + nowe.join(", ") : ""}${nowe.length && znikly.length ? "; " : ""}${znikly.length ? "zniknęły " + znikly.join(", ") : ""}`);
+    wynik.wydzialy[kod] = { ...n, zrodla };
+  }
+  return { zrodla: wynik, zmiany, zachowane };
 }
 
 // ---------- próbki do testów ----------

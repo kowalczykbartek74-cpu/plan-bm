@@ -1,6 +1,6 @@
 {
  "opis": "Wygenerowane: node scripts/us/inwentarz.mjs. Oficjalna lista kierunków US (oferta 2026/27 + kierunki ze stron planów), kody z nazw plików/źródeł, id roczników <wydział>-<kod>-<stopień>-<tryb>-<nabór> (stopień 0 = jednolite). Nazwy EN: config/nazwy-en.json.",
- "wygenerowano": "2026-11-09",
+ "wygenerowano": "2026-11-11",
  "wydzialy": {
   "wefiz": {
    "skrot": "WEFiZ",
@@ -2201,7 +2201,7 @@
        "stopien": 1,
        "tryb": "st",
        "rok": 1,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
        "nabor": 2026
       },
       {
@@ -2209,7 +2209,7 @@
        "stopien": 1,
        "tryb": "st",
        "rok": 2,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
        "nabor": 2025
       },
       {
@@ -2217,7 +2217,7 @@
        "stopien": 1,
        "tryb": "st",
        "rok": 3,
-       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-30-X-2026.xlsx",
+       "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
        "nabor": 2024
       }
      ]
@@ -3834,7 +3834,7 @@
        "stopien": 0,
        "tryb": "st",
        "rok": 1,
-       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
        "nabor": 2026
       },
       {
@@ -3842,7 +3842,7 @@
        "stopien": 0,
        "tryb": "st",
        "rok": 2,
-       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
        "nabor": 2025
       },
       {
@@ -3850,7 +3850,7 @@
        "stopien": 0,
        "tryb": "st",
        "rok": 3,
-       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
        "nabor": 2024
       },
       {
@@ -3858,7 +3858,7 @@
        "stopien": 0,
        "tryb": "st",
        "rok": 4,
-       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
        "nabor": 2023
       },
       {
@@ -3866,7 +3866,7 @@
        "stopien": 0,
        "tryb": "st",
        "rok": 5,
-       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-15.pdf",
+       "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PPIW-17.pdf",
        "nabor": 2022
       }
      ]
@@ -5568,7 +5568,7 @@
        "stopien": 1,
        "tryb": "nst",
        "rok": 3,
-       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-niestacjonarne-I-stopnia.pdf",
+       "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NPSM-I-st.-3.pdf",
        "nabor": 2024
       },
       {

@@ -1,6 +1,6 @@
 # Inwentarz źródeł planów US
 
-Wygenerowane 2026-11-09: `node scripts/us/inwentarz.mjs`. Dane: `config/zrodla-us.json`, `config/kierunki-us.json`.
+Wygenerowane 2026-11-11: `node scripts/us/inwentarz.mjs`. Dane: `config/zrodla-us.json`, `config/kierunki-us.json`.
 
 Oferta rekrutacji US 2026/27 (kandydaci.usz.edu.pl): 75 kierunków I st. i jednolitych, 55 II st.
 
@@ -63,7 +63,7 @@ Strony: [st](https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php), [nst](http
 
 **Skąd aplikacja bierze dane** (`planyzajec-kfz.usz.edu.pl/script.js` → `loadSchedule()`): jedno zapytanie GET
 `https://planyzajec-kfz.usz.edu.pl/api/get_schedule.php` (publiczne, bez logowania) zwraca `{success, classes[], total, timestamp}` – wszystkie zajęcia stacjonarne naraz
-(467 zajęć, znacznik 2026-11-09 23:48:19); grupa = pole `group` („<skrót> <rok> rok <stopień> stopień”), tryb = `studyMode` (w danych tylko: stacjonarne).
+(467 zajęć, znacznik 2026-11-11 10:45:42); grupa = pole `group` („<skrót> <rok> rok <stopień> stopień”), tryb = `studyMode` (w danych tylko: stacjonarne).
 Filtry grupy i wykładowcy aplikacja liczy u siebie z tej listy. Gdy baza jest pusta, aplikacja woła `api/parse_xml.php`.
 Niestacjonarne: `https://planyzajec-kfz.usz.edu.pl/api/get_html_plans.php` = lista grup, plan grupy to HTML z `get_html_plans.php?group=<nazwa>`. Przykład zajęć:
 
@@ -204,4 +204,4 @@ Błędy pobierania: `Wychowanie-fizyczne-2026-27a.pdf`: brak pliku (404).
 3. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 4. WH: P_GWSN – plik nazywa kierunek „Polonistyczno-germanistyczne wspólne studia nauczycielskie”, oferta nie ma takiej nazwy; czy to ten sam kierunek co podobny w ofercie?
 
-Zapytania: sieć 0, HEAD 0, cache 193. Pliki: 180 (nowo pobrane 0, błędy 1).
+Zapytania: sieć 13, HEAD 182, cache 181. Pliki: 180 (nowo pobrane 0, błędy 1).
