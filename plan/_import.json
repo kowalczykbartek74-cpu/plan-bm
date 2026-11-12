@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-12T13:46:28.821Z",
+ "at": "2026-11-12T15:00:08.835Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -1787,8 +1787,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
    "wersja": "2026-11-12",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 50
   },
@@ -1807,8 +1807,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
    "wersja": "2026-11-12",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 18
   },
@@ -1987,8 +1987,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
    "wersja": "2026-11-12",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 40
   },
@@ -3605,8 +3605,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
    "wersja": "38 plików zjazdów (13 dni)",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 60,
    "kolejka": {
@@ -3622,8 +3622,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
    "wersja": "38 plików zjazdów (13 dni)",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 46,
    "kolejka": {
@@ -3639,8 +3639,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
    "wersja": "38 plików zjazdów (14 dni)",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 54,
    "kolejka": {
@@ -3656,8 +3656,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
    "wersja": "38 plików zjazdów (11 dni)",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 46,
    "kolejka": {
@@ -3809,8 +3809,8 @@
    "wydzial": "wnsip",
    "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/EZN_4-rok-I-st.-akt.-12.11..pdf",
    "wersja": "2026-11-12",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 22,
    "kolejka": {
