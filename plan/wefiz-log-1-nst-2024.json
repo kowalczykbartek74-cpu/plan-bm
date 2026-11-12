@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:31:18.542Z",
- "checkedAt": "2026-11-11T14:55:34.614Z",
+ "checkedAt": "2026-11-12T13:41:03.081Z",
  "groups": {
   "C31": {
    "odd": [
@@ -1878,10 +1878,24 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/2026/11/grupa-c31-logistyka-3-rok-studia-niestacjonarne/",
+    "title": "Grupa C31 (Logistyka 3 rok, studia niestacjonarne)",
+    "ym": "2026-11",
+    "pub": "2026-11-12",
+    "text": "Uprzejmie informujemy, że seminarium dyplomowe z dr Agnieszką Gozdek dla grupy C31 (Logistyka, 3 rok, studia niestacjonarne), zaplanowane pierwotnie na 13 listopada 2026 r., zostało przeniesione na 29 stycznia 2027 r."
+   }
+  ],
   "zmiany": {
-   "C31": []
+   "C31": [
+    {
+     "type": "note",
+     "date": "2026-11-13",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T18:06:00.668Z"
+  "updatedAt": "2026-11-12T13:53:07.068Z"
  }
 }

@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "09.11.2026 14:35",
  "changedAt": "2026-11-09T17:50:03.373Z",
- "checkedAt": "2026-11-11T14:51:52.869Z",
+ "checkedAt": "2026-11-12T13:37:21.006Z",
  "groups": {
   "M290": {
    "odd": [
@@ -432,10 +432,57 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m290-m250-m300-odwolanie-zajec-z-prof-agnieszka-majewska-w-dniu-21-12-2026-r/",
+    "title": "M290, M250, M300- odwołanie zajęć z prof. Agnieszką Majewską w dniu 21.12.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-12",
+    "text": "W dniu 21.12.2026 r nie odbędą się wszystkie zaplanowane zajęcia z prof. Agnieszką Majewską. Terminy odrobienia zajęć: M250 – 23.11.2026 r., godz. 13.45, sala S019 M290 – 01.12.2026 r., godz. 10.00, sala S07 M300 – 01.12.2206 r. , godz. 08.15, gabinet"
+   }
+  ],
   "zmiany": {
-   "M290": []
+   "M290": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-23",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Matematyka finansowa i ubezpieczeniowa",
+     "en": "Financial and Insurance Mathematics",
+     "k": "X",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "S019 M290 –",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Matematyka finansowa i ubezpieczeniowa",
+     "en": "Financial and Insurance Mathematics",
+     "k": "X",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "r": "S07 M300 –",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2206-12-01",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Matematyka finansowa i ubezpieczeniowa",
+     "en": "Financial and Insurance Mathematics",
+     "k": "X",
+     "p": "dr hab. prof. US Agnieszka Majewska",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:37:42.326Z"
+  "updatedAt": "2026-11-12T13:47:33.143Z"
  }
 }

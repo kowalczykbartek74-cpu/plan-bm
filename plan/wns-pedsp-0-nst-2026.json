@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
  "wersja": "38 plików zjazdów (13 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "sha256": "5151788266cfb74c5efd07fb213173aef46a89042a183c78d4c8235879e40ff3",
  "kierunek": "Pedagogika specjalna",
  "kierunekEn": "Special Education",
  "id": "wns-pedsp-0-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-11T14:59:36.401Z",
+ "changedAt": "2026-11-12T13:45:03.355Z",
+ "checkedAt": "2026-11-12T13:45:03.355Z",
  "groups": {
   "PEDSP1": {
    "odd": [
@@ -55,7 +55,7 @@
       "08:15",
       "12:30"
      ],
-     "p": "dr hab. I.Ramik- Mażewska, prof. US",
+     "p": "dr hab. I.Ramik-Mażewska, prof. US",
      "r": "s. 58 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
@@ -280,7 +280,7 @@
       "16:00",
       "19:30"
      ],
-     "p": "dr P. Wiażewicz- Wójtowicz",
+     "p": "dr P. Wiażewicz-Wójtowicz",
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
@@ -396,6 +396,20 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
      ]
     },
     {
@@ -466,7 +480,7 @@
       "08:15",
       "12:30"
      ],
-     "p": "dr hab. I.Ramik- Mażewska, prof. US",
+     "p": "dr hab. I.Ramik-Mażewska, prof. US",
      "r": "s. 58 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
@@ -691,7 +705,7 @@
       "16:00",
       "19:30"
      ],
-     "p": "dr P. Wiażewicz- Wójtowicz",
+     "p": "dr P. Wiażewicz-Wójtowicz",
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
@@ -807,6 +821,20 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
      ]
     },
     {

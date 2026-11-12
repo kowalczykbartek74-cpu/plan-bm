@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-11T15:00:43.332Z",
+ "checkedAt": "2026-11-12T13:46:07.812Z",
  "groups": {
   "PSM2": {
    "odd": [
@@ -543,6 +543,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/zmiana-terminu-konsultacji-dr-hab-e-cala-wacinkiewicz-prof-us-z-dn-10-12-2026-r/",
+    "title": "Zmiana terminu konsultacji dr hab. E. Cała-Wacinkiewicz, prof. US z dn. 10.12.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-12",
+    "text": "Informujemy, że konsultacje dr hab. E. Cała-Wacinkiewicz, prof. US dniu 10.12.2026 r. nie odbędą się i zostają przełożone na dzień 02.12.2026 r. (godz. 11:45-13:15)."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/zmiana-terminu-konsultacji-mgr-k-dzwonkowskiej-z-dn-13-11-2026-r/",
     "title": "Zmiana terminu konsultacji mgr K. Dzwonkowskiej z dn. 13.11.2026 r.",
     "ym": "2026-11",
@@ -590,13 +597,7 @@
     {
      "type": "note",
      "date": "2026-10-08",
-     "post": 5,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-15",
-     "post": 2,
+     "post": 6,
      "niska": true
     },
     {
@@ -613,18 +614,30 @@
     },
     {
      "type": "note",
-     "date": "2026-10-29",
+     "date": "2026-10-15",
      "post": 5,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-10-29",
+     "post": 6,
+     "niska": true
+    },
+    {
+     "type": "note",
      "date": "2026-11-12",
-     "post": 1,
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-10",
+     "post": 0,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-10T21:57:49.266Z"
+  "updatedAt": "2026-11-12T13:55:23.478Z"
  }
 }

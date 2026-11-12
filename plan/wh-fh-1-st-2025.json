@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-11T14:59:35.664Z",
+ "checkedAt": "2026-11-12T13:45:02.656Z",
  "groups": {
   "FH2": {
    "odd": [
@@ -775,6 +775,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-hab-prof-us-monika-lisowska-odrobienie-zajec/",
+    "title": "dr hab., prof. US Monika Lisowska- Odrobienie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-12",
+    "text": "Dzień dobry, informujemy, że pracownik Monika Lisowska zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Językoznawstwa Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2027-01-21 15:15 2026-11-12 11:45 14 FHI-SI.25-2-L.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia hiszpańska stacjonarne pierwszego stopnia 2 gramatyka praktyczna laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Odrabianie zajęć w dniu 12.11.2026 (za 21.01.2027)"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-justyna-tomczak-boczko-odwolanie-zajec-2/",
     "title": "dr Justyna Tomczak-Boczko- odwołanie zajęć",
     "ym": "2026-11",
@@ -789,9 +796,9 @@
      "date": "2026-11-05",
      "start": "13:30",
      "pl": "Fakultatywny: Mujer española en los siglos XX y XXI (Kobieta hiszpańska w XX i XXI wieku)",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -799,6 +806,29 @@
      "date": "2026-11-05",
      "start": "15:15",
      "pl": "PNJH ćwiczenia w pisaniu",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-12",
+     "start": "11:45",
+     "end": "13:15",
+     "pl": "PNJH gramatyka praktyczna",
+     "k": "LAB",
+     "p": "dr hab.M. Lisowska, prof. US",
+     "r": "s. 14",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2027-01-21",
+     "start": "15:15",
+     "pl": "PNJH gramatyka praktyczna",
+     "moved": true,
      "post": 0,
      "posts": [
       0
@@ -806,6 +836,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:29:59.665Z"
+  "updatedAt": "2026-11-12T13:53:18.292Z"
  }
 }

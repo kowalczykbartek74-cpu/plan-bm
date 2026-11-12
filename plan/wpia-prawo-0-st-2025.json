@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-11T15:00:43.332Z",
+ "checkedAt": "2026-11-12T13:46:07.812Z",
  "groups": {
   "PRAWO2": {
    "odd": [
@@ -2235,6 +2235,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/zmiana-terminu-konsultacji-dr-hab-e-cala-wacinkiewicz-prof-us-z-dn-10-12-2026-r/",
+    "title": "Zmiana terminu konsultacji dr hab. E. Cała-Wacinkiewicz, prof. US z dn. 10.12.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-12",
+    "text": "Informujemy, że konsultacje dr hab. E. Cała-Wacinkiewicz, prof. US dniu 10.12.2026 r. nie odbędą się i zostają przełożone na dzień 02.12.2026 r. (godz. 11:45-13:15)."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/zmiana-terminu-konsultacji-mgr-k-dzwonkowskiej-z-dn-13-11-2026-r/",
     "title": "Zmiana terminu konsultacji mgr K. Dzwonkowskiej z dn. 13.11.2026 r.",
     "ym": "2026-11",
@@ -2331,24 +2338,24 @@
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 10,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-12",
      "post": 11,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-10-12",
+     "post": 12,
+     "niska": true
+    },
+    {
+     "type": "note",
      "date": "2026-10-13",
-     "post": 8
+     "post": 9
     },
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 5,
+     "post": 6,
      "niska": true
     },
     {
@@ -2356,9 +2363,9 @@
      "date": "2026-10-30",
      "start": "17:00",
      "pl": "Międzynarodowe prawo publiczne - wersja PBL",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -2366,9 +2373,9 @@
      "date": "2026-10-30",
      "start": "13:30",
      "pl": "Międzynarodowe prawo publiczne",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -2376,9 +2383,9 @@
      "date": "2026-10-30",
      "start": "15:15",
      "pl": "Międzynarodowe prawo publiczne",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -2386,9 +2393,9 @@
      "date": "2026-11-09",
      "start": "17:00",
      "pl": "Prawo administracyjne I",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -2396,19 +2403,19 @@
      "date": "2026-11-09",
      "start": "15:15",
      "pl": "Prawo administracyjne I",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 1,
+     "post": 2,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-10T21:57:49.185Z"
+  "updatedAt": "2026-11-12T13:55:23.398Z"
  }
 }

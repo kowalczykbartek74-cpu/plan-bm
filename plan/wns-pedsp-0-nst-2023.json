@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
  "wersja": "38 plików zjazdów (14 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "sha256": "5151788266cfb74c5efd07fb213173aef46a89042a183c78d4c8235879e40ff3",
  "kierunek": "Pedagogika specjalna",
  "kierunekEn": "Special Education",
  "id": "wns-pedsp-0-nst-2023",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-11T14:59:36.401Z",
+ "changedAt": "2026-11-12T13:45:03.355Z",
+ "checkedAt": "2026-11-12T13:45:03.355Z",
  "groups": {
   "PEDSP4": {
    "odd": [
@@ -41,22 +41,22 @@
       "20:15"
      ],
      "p": "dr hab.. I. Ramik - Mazewska, prof. .US",
-     "r": "s. 44 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-20"
+      "2026-11-27"
      ]
     },
     {
      "d": 4,
-     "pl": "Profilaktyka przemocy w szkole i socjoterapia",
+     "pl": "ZAJĘCIA OD 16.30 Profilaktyka przemocy w szkole i socjoterapia",
      "k": "W",
      "time": [
       "16:00",
       "20:15"
      ],
      "p": "dr hab.. I. Ramik - Mazewska, prof. .US",
+     "r": "s. 44 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-27"
+      "2026-11-20"
      ]
     },
     {
@@ -193,7 +193,7 @@
       "12:30",
       "15:00"
      ],
-     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
      "r": "s. 51 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
@@ -421,22 +421,22 @@
       "20:15"
      ],
      "p": "dr hab.. I. Ramik - Mazewska, prof. .US",
-     "r": "s. 44 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-20"
+      "2026-11-27"
      ]
     },
     {
      "d": 4,
-     "pl": "Profilaktyka przemocy w szkole i socjoterapia",
+     "pl": "ZAJĘCIA OD 16.30 Profilaktyka przemocy w szkole i socjoterapia",
      "k": "W",
      "time": [
       "16:00",
       "20:15"
      ],
      "p": "dr hab.. I. Ramik - Mazewska, prof. .US",
+     "r": "s. 44 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-27"
+      "2026-11-20"
      ]
     },
     {
@@ -573,7 +573,7 @@
       "12:30",
       "15:00"
      ],
-     "p": "dr hab. I. Ramik- Mażewska, prof. US",
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
      "r": "s. 51 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"

@@ -1,7 +1,7 @@
 {
- "source": "https://spr.usz.edu.pl/wp-content/uploads/EZN_4-rok-I-st.-1.pdf",
- "wersja": "EZN_4-rok-I-st.-1.pdf",
- "sha256": "ee6df88c00e3643c37ed84959ca44c1317273ec4590ee9a9f363cf7569dad57f",
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/EZN_4-rok-I-st.-akt.-12.11..pdf",
+ "wersja": "2026-11-12",
+ "sha256": "b965c998374ec1d78863a22f4e6503d58461408a21e38b3c4c96618386e1bfe3",
  "kierunek": "Eksploatacja zasobów naturalnych",
  "kierunekEn": "Exploitation of Natural Resources",
  "id": "wnsip-ezn-1-st-2023",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-11T15:00:23.631Z",
+ "changedAt": "2026-11-12T13:45:48.752Z",
+ "checkedAt": "2026-11-12T13:45:48.752Z",
  "groups": {
   "EZN4": {
    "odd": [
@@ -144,11 +144,11 @@
      "p": "dr inż. A. Kisiel",
      "r": "s. 035W",
      "dates": [
-      "2026-11-17",
       "2026-11-24",
       "2026-12-01",
       "2026-12-08",
-      "2026-12-15"
+      "2026-12-15",
+      "2026-12-22"
      ]
     },
     {
@@ -351,11 +351,11 @@
      "p": "dr inż. A. Kisiel",
      "r": "s. 035W",
      "dates": [
-      "2026-11-17",
       "2026-11-24",
       "2026-12-01",
       "2026-12-08",
-      "2026-12-15"
+      "2026-12-15",
+      "2026-12-22"
      ]
     },
     {
