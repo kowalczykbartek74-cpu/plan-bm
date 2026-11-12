@@ -1,6 +1,6 @@
 # Stan planów zajęć – cały US
 
-Wygenerowano 12.11.2026, 17:06 (`node scripts/stan-planow.mjs`). Ostatni przebieg importu: 12.11.2026, 16:52.
+Wygenerowano 12.11.2026, 23:22 (`node scripts/stan-planow.mjs`). Ostatni przebieg importu: 12.11.2026, 16:52.
 Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** – plan na stronie jest wątpliwy (patrz opis); **czeka na zatwierdzenie** – plan z PDF w kolejce Importy (zdawalni.pl), na stronie go nie ma; **brak planu** – nie ma pliku planu.
 
 | Wydział | Roczników | Na stronie | OK | uwaga | czeka | brak | błąd |
