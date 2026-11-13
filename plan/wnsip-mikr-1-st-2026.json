@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-12T15:51:35.293Z",
+ "checkedAt": "2026-11-13T13:10:22.950Z",
  "groups": {
   "MIKR1": {
    "odd": [
@@ -997,6 +997,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-i-st-1-rok-odwolane-cwiczenia-ze-statystyki-w-dniu-24-11/",
+    "title": "Mikrobiologia I st. 1 rok – odwołane ćwiczenia ze statystyki w dniu 24.11",
+    "ym": "2026-11",
+    "pub": "2026-11-13",
+    "text": "Ze względu na wyjazd jako recezent do Siedlc zajęcia zostaną przeniesione na 8 grudzień. dr hab Łukasz Jankowiak, prof US"
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/gibe-i-st-1-rok-gr-2-i-gr-3-odwolane-laboratoria-z-przedmiotu-mikrobiologia-z-wirusologia-w-dniu-10-11/",
     "title": "GiBE I st. 1 rok – gr. 2 i gr. 3 – odwołane laboratoria z przedmiotu mikrobiologia z wirusologią w dniu 10.11",
     "ym": "2026-11",
@@ -1009,10 +1016,15 @@
     {
      "type": "note",
      "date": "2026-11-10",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-11-24",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.277Z"
+  "updatedAt": "2026-11-13T13:17:19.500Z"
  }
 }

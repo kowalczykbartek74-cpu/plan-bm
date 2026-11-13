@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "09.11.2026 14:35",
- "changedAt": "2026-11-08T20:22:35.116Z",
- "checkedAt": "2026-11-12T15:43:05.011Z",
+ "updated": "13.11.2026 13:18",
+ "changedAt": "2026-11-13T12:59:14.603Z",
+ "checkedAt": "2026-11-13T12:59:14.603Z",
  "groups": {
   "C521": {
    "odd": [
@@ -29,6 +29,17 @@
      "k": "W",
      "p": "dr hab. prof. US Jakub Swacha",
      "r": "s. 104"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala SIL 137/138 dr Karolina Muszyńska",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     },
     {
      "d": 0,
@@ -258,6 +269,17 @@
       "2026-12-17"
      ],
      "n": "Jednorazowo: 17.12.2026"
+    },
+    {
+     "d": 0,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala SIL 137/138 dr Karolina Muszyńska",
+     "dates": [
+      "2026-11-30"
+     ],
+     "n": "Jednorazowo: 30.11.2026"
     },
     {
      "d": 1,
@@ -574,20 +596,6 @@
     "ym": "2026-10",
     "pub": "2026-10-07",
     "text": "Dnia 13.10.2026 i 20.10.2026 zostają odwołane zajęcia z dr hab. prof. US Ewą Mazur-Wierzbicka. Termin odrabiania zajęć: 08.10.2026 godz. 8:15-11:30 Sala 623"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-21/",
-    "title": "GRUPA C521",
-    "ym": "2026-10",
-    "pub": "2026-10-01",
-    "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr Anną Ścibior-Butrym. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c522-23/",
-    "title": "GRUPA C522",
-    "ym": "2026-10",
-    "pub": "2026-10-01",
-    "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr Anną Ścibior-Butrym. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -642,8 +650,7 @@
      "pl": "Zachowania organizacyjne",
      "post": 5,
      "posts": [
-      5,
-      11
+      5
      ]
     },
     {
@@ -702,7 +709,8 @@
      "k": "LAB",
      "p": "dr Karolina Muszyńska",
      "r": "s. SIL 137/138 lab",
-     "post": 0
+     "post": 0,
+     "dup": true
     },
     {
      "type": "extra",
@@ -769,8 +777,7 @@
      "pl": "Zachowania organizacyjne",
      "post": 4,
      "posts": [
-      4,
-      12
+      4
      ]
     },
     {
@@ -842,7 +849,8 @@
      "k": "LAB",
      "p": "dr Karolina Muszyńska",
      "r": "s. SIL 137/138 lab",
-     "post": 1
+     "post": 1,
+     "dup": true
     },
     {
      "type": "cancel",
@@ -868,6 +876,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-10T13:31:05.804Z"
+  "updatedAt": "2026-11-13T13:13:16.128Z"
  }
 }

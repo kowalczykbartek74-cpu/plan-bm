@@ -1,6 +1,6 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "o2.html 2026-11-06 12:58:07",
+ "wersja": "o2.html 2026-11-13 08:31:59",
  "kierunek": "Wychowanie fizyczne",
  "kierunekEn": "Physical Education",
  "id": "wkfiz-wf-1-nst-2026",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:35:12.415Z",
- "checkedAt": "2026-11-12T15:50:40.026Z",
+ "changedAt": "2026-11-13T13:09:36.485Z",
+ "checkedAt": "2026-11-13T13:09:36.485Z",
  "groups": {
   "WF1": {
    "odd": [
@@ -336,6 +336,19 @@
       "13:15"
      ],
      "pl": "Anatomia",
+     "k": "W",
+     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Anatomia",
      "k": "LAB",
      "p": "dr hab. Katarzyna Leźnicka, prof. US",
      "r": "s. 217 anatomia",
@@ -459,20 +472,6 @@
      "pg": "ćs2",
      "dates": [
       "2027-01-30"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "11:45",
-      "13:15"
-     ],
-     "pl": "Teoria i metodyka lekkiej atletyki",
-     "k": "W",
-     "p": "dr Marek Kolbowicz",
-     "r": "s. 223",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -759,6 +758,7 @@
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs2",
      "dates": [
+      "2026-11-21",
       "2026-12-05"
      ]
     },
@@ -776,6 +776,20 @@
      "dates": [
       "2027-01-09",
       "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Teoria i metodyka lekkiej atletyki",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-05"
      ]
     },
     {
@@ -875,9 +889,10 @@
       "10:00",
       "11:30"
      ],
-     "pl": "Anatomia",
-     "k": "W",
-     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "pl": "Kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
      "dates": [
       "2026-12-13"
      ]
@@ -1305,20 +1320,6 @@
       "15:15",
       "16:45"
      ],
-     "pl": "Kurs na wychowacę wypoczynku",
-     "k": "CW",
-     "p": "dr Monika Niewiadomska, prof. US",
-     "r": "s. 223",
-     "dates": [
-      "2026-12-13"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "15:15",
-      "16:45"
-     ],
      "pl": "Pierwsz pomoc",
      "k": "LAB",
      "p": "dr Maciej Zawadzki",
@@ -1356,21 +1357,6 @@
      "pg": "ćs2",
      "dates": [
       "2027-01-31"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "pl": "Teoria i metodyka piłki nożnej",
-     "k": "CW",
-     "p": "dr Ryszard Stefanik",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "pg": "ćs2",
-     "dates": [
-      "2026-11-22"
      ]
     },
     {
@@ -1710,6 +1696,19 @@
       "13:15"
      ],
      "pl": "Anatomia",
+     "k": "W",
+     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Anatomia",
      "k": "LAB",
      "p": "dr hab. Katarzyna Leźnicka, prof. US",
      "r": "s. 217 anatomia",
@@ -1833,20 +1832,6 @@
      "pg": "ćs2",
      "dates": [
       "2027-01-30"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "11:45",
-      "13:15"
-     ],
-     "pl": "Teoria i metodyka lekkiej atletyki",
-     "k": "W",
-     "p": "dr Marek Kolbowicz",
-     "r": "s. 223",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -2133,6 +2118,7 @@
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs2",
      "dates": [
+      "2026-11-21",
       "2026-12-05"
      ]
     },
@@ -2150,6 +2136,20 @@
      "dates": [
       "2027-01-09",
       "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "Teoria i metodyka lekkiej atletyki",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 223",
+     "dates": [
+      "2026-12-05"
      ]
     },
     {
@@ -2249,9 +2249,10 @@
       "10:00",
       "11:30"
      ],
-     "pl": "Anatomia",
-     "k": "W",
-     "r": "dr hab. Katarzyna Leźnicka, prof. US, sala 217 anatomia",
+     "pl": "Kurs na wychowacę wypoczynku",
+     "k": "CW",
+     "p": "dr Monika Niewiadomska, prof. US",
+     "r": "s. 223",
      "dates": [
       "2026-12-13"
      ]
@@ -2679,20 +2680,6 @@
       "15:15",
       "16:45"
      ],
-     "pl": "Kurs na wychowacę wypoczynku",
-     "k": "CW",
-     "p": "dr Monika Niewiadomska, prof. US",
-     "r": "s. 223",
-     "dates": [
-      "2026-12-13"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "15:15",
-      "16:45"
-     ],
      "pl": "Pierwsz pomoc",
      "k": "LAB",
      "p": "dr Maciej Zawadzki",
@@ -2730,21 +2717,6 @@
      "pg": "ćs2",
      "dates": [
       "2027-01-31"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "pl": "Teoria i metodyka piłki nożnej",
-     "k": "CW",
-     "p": "dr Ryszard Stefanik",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "pg": "ćs2",
-     "dates": [
-      "2026-11-22"
      ]
     },
     {

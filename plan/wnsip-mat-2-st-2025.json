@@ -1,7 +1,7 @@
 {
- "source": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-2-rok-akt.-23.10.pdf",
- "wersja": "2026-10-23",
- "sha256": "1cd4f0282ea581a4bbeb922e05679f9aaaff65a24678b1a781aac5d4ecafe5ce",
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/mat_II-st.-2-rok-akt.-13.11.pdf",
+ "wersja": "2026-11-13",
+ "sha256": "153762b3272dd93871820c16e44db2b294fbb8bc20b2cb90ff80ca0e8bd39c35",
  "kierunek": "Matematyka",
  "kierunekEn": "Mathematics",
  "id": "wnsip-mat-2-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:53:44.808Z",
- "checkedAt": "2026-11-12T15:51:35.293Z",
+ "changedAt": "2026-11-13T13:10:22.950Z",
+ "checkedAt": "2026-11-13T13:10:22.950Z",
  "groups": {
   "MAT2": {
    "odd": [
@@ -39,17 +39,6 @@
      "k": "W",
      "time": [
       "10:00",
-      "10:45"
-     ],
-     "p": "dr hab. T. Jędrzejak, prof. US",
-     "r": "s. 207"
-    },
-    {
-     "d": 1,
-     "pl": "Spec. MK Obliczeniowa teoria liczb",
-     "k": "LAB",
-     "time": [
-      "10:50",
       "12:30"
      ],
      "p": "dr hab. T. Jędrzejak, prof. US",
@@ -64,7 +53,8 @@
       "2026-11-17",
       "2026-11-24",
       "2026-12-01",
-      "2026-12-08"
+      "2026-12-08",
+      "2026-12-15"
      ]
     },
     {
@@ -287,17 +277,6 @@
      "k": "W",
      "time": [
       "10:00",
-      "10:45"
-     ],
-     "p": "dr hab. T. Jędrzejak, prof. US",
-     "r": "s. 207"
-    },
-    {
-     "d": 1,
-     "pl": "Spec. MK Obliczeniowa teoria liczb",
-     "k": "LAB",
-     "time": [
-      "10:50",
       "12:30"
      ],
      "p": "dr hab. T. Jędrzejak, prof. US",
@@ -312,7 +291,8 @@
       "2026-11-17",
       "2026-11-24",
       "2026-12-01",
-      "2026-12-08"
+      "2026-12-08",
+      "2026-12-15"
      ]
     },
     {

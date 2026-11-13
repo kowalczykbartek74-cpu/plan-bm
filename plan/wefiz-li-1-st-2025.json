@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "09.11.2026 14:35",
+ "updated": "13.11.2026 13:18",
  "changedAt": "2026-11-08T20:22:49.739Z",
- "checkedAt": "2026-11-12T15:43:05.012Z",
+ "checkedAt": "2026-11-13T12:59:27.592Z",
  "groups": {
   "C261": {
    "odd": [
@@ -457,10 +457,30 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c261-26/",
+    "title": "GRUPA C261",
+    "ym": "2026-11",
+    "pub": "2026-11-13",
+    "text": "Dnia 18.112026 zostają odwołane zajęcia z dr Agnieszką Pokorską. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
   "zmiany": {
-   "C261": []
+   "C261": [
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "13:45",
+     "pl": "Technologie i procesy magazynowe",
+     "guess": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:38:20.053Z"
+  "updatedAt": "2026-11-13T13:13:20.492Z"
  }
 }

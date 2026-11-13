@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "09.11.2026 14:35",
- "changedAt": "2026-11-08T20:21:56.633Z",
- "checkedAt": "2026-11-12T15:43:05.008Z",
+ "updated": "13.11.2026 13:18",
+ "changedAt": "2026-11-13T12:58:32.768Z",
+ "checkedAt": "2026-11-13T12:58:32.768Z",
  "groups": {
   "C271": {
    "odd": [
@@ -109,7 +109,7 @@
      "s": 2,
      "pl": "Język angielski gr. 2 ul. wawrzyniaka 15, s. 109 mgr hanna basiak",
      "k": "X",
-     "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
+     "r": "Aula WNS ul. Krakowska 71-79, Szczecin Odrabianie zajęć: 03.12.2026 mgr inż. Michał Gracel sala SIL 145/146",
      "dates": [
       "2026-12-17"
      ],
@@ -139,6 +139,18 @@
      "k": "LAB",
      "p": "dr Artur Kulpa",
      "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć:",
+     "k": "X",
+     "p": "mgr inż. Michał Gracel",
+     "r": "sala SIL 145/146",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     },
     {
      "d": 4,
@@ -498,6 +510,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c271-22/",
+    "title": "GRUPA C271",
+    "ym": "2026-11",
+    "pub": "2026-11-13",
+    "text": "Dnia 03.12.2026 o godz.12:00 – 13:30 i 13:45 – 15:15 w sali SIL 145/146. odbędzie się odrabianie zajęć z mgr inż. Michałem Gracel z dnia 21.10.2026 r."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c271-21/",
     "title": "GRUPA C271",
     "ym": "2026-10",
@@ -526,9 +545,10 @@
      "date": "2026-10-21",
      "start": "10:00",
      "pl": "Bazy danych",
-     "post": 1,
+     "post": 0,
      "posts": [
-      1
+      0,
+      2
      ]
     },
     {
@@ -536,9 +556,10 @@
      "date": "2026-10-21",
      "start": "12:00",
      "pl": "Bazy danych",
-     "post": 1,
+     "post": 0,
      "posts": [
-      1
+      0,
+      2
      ]
     },
     {
@@ -546,10 +567,10 @@
      "date": "2026-11-03",
      "start": "12:00",
      "pl": "Podstawy marketingu",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0,
-      2
+      1,
+      3
      ]
     },
     {
@@ -562,11 +583,23 @@
      "k": "W",
      "p": "dr Małgorzata Wiścicka-Fernando",
      "r": "s. 042",
-     "post": 0,
+     "post": 1,
      "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Bazy danych",
+     "k": "LAB",
+     "p": "mgr inż. Michał Gracel",
+     "r": "s. SIL 145/146",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:37:46.968Z"
+  "updatedAt": "2026-11-13T13:12:23.333Z"
  }
 }

@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "09.11.2026 14:35",
+ "updated": "13.11.2026 13:18",
  "changedAt": "2026-11-09T13:43:21.330Z",
- "checkedAt": "2026-11-12T15:43:05.009Z",
+ "checkedAt": "2026-11-13T12:58:37.174Z",
  "groups": {
   "C171": {
    "odd": [
@@ -360,27 +360,10 @@
     "ym": "2026-10",
     "pub": "2026-10-28",
     "text": "Szanowni Studenci od listopada nastąpi zmiana w planie. Połączenie grup laboratoryjnych."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c171-26/",
-    "title": "GRUPA C171",
-    "ym": "2026-10",
-    "pub": "2026-10-01",
-    "text": "Dnia 21.10.2026 zostają odwołane zajęcia z dr Anną Ścibior-Butrym. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
    "C171": [
-    {
-     "type": "cancel",
-     "date": "2026-10-21",
-     "start": "8:15",
-     "pl": "Podstawy zarządzania",
-     "post": 2,
-     "posts": [
-      2
-     ]
-    },
     {
      "type": "extra",
      "kind": "makeup",
@@ -396,6 +379,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-12T13:48:00.574Z"
+  "updatedAt": "2026-11-13T13:12:25.506Z"
  }
 }

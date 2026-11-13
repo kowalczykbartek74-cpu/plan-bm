@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "09.11.2026 14:35",
+ "updated": "13.11.2026 13:18",
  "changedAt": "2026-11-08T20:23:01.427Z",
- "checkedAt": "2026-11-12T15:43:05.012Z",
+ "checkedAt": "2026-11-13T12:59:42.085Z",
  "groups": {
   "C231": {
    "odd": [
@@ -484,6 +484,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c231-35/",
+    "title": "GRUPA C231",
+    "ym": "2026-11",
+    "pub": "2026-11-13",
+    "text": "Dnia 18.112026 zostają odwołane zajęcia z dr Agnieszką Pokorską. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c231-34/",
     "title": "GRUPA C231",
     "ym": "2026-10",
@@ -498,6 +505,17 @@
      "date": "2026-10-21",
      "start": "13:45",
      "pl": "Zarządzanie jakością w logistyce",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "12:00",
+     "pl": "Gospodarka magazynowa",
+     "guess": true,
      "post": 0,
      "posts": [
       0
@@ -513,7 +531,7 @@
      "k": "W",
      "p": "dr Joanna Drobiazgiewicz",
      "r": "s. 307",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -526,11 +544,11 @@
      "k": "W",
      "p": "dr Joanna Drobiazgiewicz",
      "r": "s. 034",
-     "post": 0,
+     "post": 1,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:23.139Z"
+  "updatedAt": "2026-11-13T13:13:25.989Z"
  }
 }

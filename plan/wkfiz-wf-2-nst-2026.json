@@ -1,6 +1,6 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "o5.html 2026-11-06 12:58:07",
+ "wersja": "o5.html 2026-11-13 08:31:59",
  "kierunek": "Wychowanie fizyczne",
  "kierunekEn": "Physical Education",
  "id": "wkfiz-wf-2-nst-2026",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:35:12.415Z",
- "checkedAt": "2026-11-12T15:50:40.026Z",
+ "changedAt": "2026-11-13T13:09:36.485Z",
+ "checkedAt": "2026-11-13T13:09:36.485Z",
  "groups": {
   "WF1": {
    "odd": [
@@ -145,20 +145,6 @@
       "11:30"
      ],
      "pl": "Metodyka edukacji zdrowotnej",
-     "k": "W",
-     "p": "dr Halina Budis",
-     "r": "s. 218",
-     "dates": [
-      "2027-01-16"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "pl": "Metodyka edukacji zdrowotnej",
      "k": "LAB",
      "p": "dr Halina Budis",
      "r": "s. 218",
@@ -178,6 +164,20 @@
      "r": "s. 218",
      "dates": [
       "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2027-01-16"
      ]
     },
     {
@@ -254,7 +254,6 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-11-21",
       "2026-12-05"
      ]
     },
@@ -375,7 +374,8 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-10-17"
+      "2026-10-17",
+      "2027-01-16"
      ]
     },
     {
@@ -389,7 +389,6 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-11-21",
       "2026-12-05"
      ]
     },
@@ -451,20 +450,6 @@
      "dates": [
       "2026-10-10",
       "2026-10-17"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "pl": "Statystyka",
-     "k": "CW",
-     "p": "mgr Robert Terczyński",
-     "r": "s. 127 komputerowa",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -537,20 +522,6 @@
      "r": "s. 127 komputerowa",
      "dates": [
       "2026-10-17"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "pl": "Teoria i metodyka sportów indywidualnych: piłka nożna",
-     "k": "CW",
-     "p": "dr Ryszard Stefanik",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -693,7 +664,8 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-10-18"
+      "2026-10-18",
+      "2026-11-22"
      ]
     },
     {
@@ -716,12 +688,40 @@
       "15:15",
       "16:45"
      ],
+     "pl": "Metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
      "pl": "Statystyka",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-22"
      ]
     }
    ],
@@ -855,20 +855,6 @@
       "11:30"
      ],
      "pl": "Metodyka edukacji zdrowotnej",
-     "k": "W",
-     "p": "dr Halina Budis",
-     "r": "s. 218",
-     "dates": [
-      "2027-01-16"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "pl": "Metodyka edukacji zdrowotnej",
      "k": "LAB",
      "p": "dr Halina Budis",
      "r": "s. 218",
@@ -888,6 +874,20 @@
      "r": "s. 218",
      "dates": [
       "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2027-01-16"
      ]
     },
     {
@@ -964,7 +964,6 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-11-21",
       "2026-12-05"
      ]
     },
@@ -1085,7 +1084,8 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-10-17"
+      "2026-10-17",
+      "2027-01-16"
      ]
     },
     {
@@ -1099,7 +1099,6 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-11-21",
       "2026-12-05"
      ]
     },
@@ -1161,20 +1160,6 @@
      "dates": [
       "2026-10-10",
       "2026-10-17"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "pl": "Statystyka",
-     "k": "CW",
-     "p": "mgr Robert Terczyński",
-     "r": "s. 127 komputerowa",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -1247,20 +1232,6 @@
      "r": "s. 127 komputerowa",
      "dates": [
       "2026-10-17"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "pl": "Teoria i metodyka sportów indywidualnych: piłka nożna",
-     "k": "CW",
-     "p": "dr Ryszard Stefanik",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -1403,7 +1374,8 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-10-18"
+      "2026-10-18",
+      "2026-11-22"
      ]
     },
     {
@@ -1426,12 +1398,40 @@
       "15:15",
       "16:45"
      ],
+     "pl": "Metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
      "pl": "Statystyka",
      "k": "CW",
      "p": "mgr Robert Terczyński",
      "r": "s. 127 komputerowa",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "Teoria i metodyka sportów indywidualnych: piłka nożna",
+     "k": "CW",
+     "p": "dr Ryszard Stefanik",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "dates": [
+      "2026-11-22"
      ]
     }
    ]

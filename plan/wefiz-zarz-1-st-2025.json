@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "09.11.2026 14:35",
+ "updated": "13.11.2026 13:18",
  "changedAt": "2026-11-09T17:53:20.539Z",
- "checkedAt": "2026-11-12T15:43:05.016Z",
+ "checkedAt": "2026-11-13T13:01:03.797Z",
  "groups": {
   "C251": {
    "odd": [
@@ -579,13 +579,6 @@
     "ym": "2026-10",
     "pub": "2026-10-07",
     "text": "Dnia 14.10.2026 o godz. 8:15-9:45 w sali 623 odbędzie się odrabianie zajęć z mgr Oliwią Zielińską."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c251-36/",
-    "title": "GRUPA C251",
-    "ym": "2026-10",
-    "pub": "2026-10-01",
-    "text": "Dnia 14.10.2026 zostają odwołane zajęcia z prof. Beatą Sadowską. Termin odrobienia zajęć: 28.10..2026 godz. 13:45 s. 104"
    }
   ],
   "zmiany": {
@@ -601,16 +594,6 @@
      "p": "mgr Oliwia Zielińska",
      "r": "s. 623",
      "post": 5
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "12:00",
-     "pl": "Podstawy rachunkowości",
-     "post": 6,
-     "posts": [
-      6
-     ]
     },
     {
      "type": "extra",
@@ -691,6 +674,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:04:54.318Z"
+  "updatedAt": "2026-11-13T13:14:20.992Z"
  }
 }
