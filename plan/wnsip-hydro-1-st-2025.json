@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-13T13:10:22.950Z",
+ "checkedAt": "2026-11-13T14:20:56.256Z",
  "groups": {
   "HYDRO2": {
    "odd": [
@@ -1127,6 +1127,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/hydrobiology-1st-degree-2nd-year-climatology-practical-class-cancelled-on-17th-nov/",
+    "title": "Hydrobiology 1st degree 2nd year – climatology practical class cancelled on 17th Nov",
+    "ym": "2026-11",
+    "pub": "2026-11-13",
+    "text": "Practical class for the course climatology is cancelled on Tuesday, the 17th of November. The make-up date will be scheduled with the lecturer – mgr Zofia Stachowska."
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/hydrobiology-1st-degree-2nd-year-lecture-with-dr-agata-poniewierska-baran-cancelled-on-5th-november/",
     "title": "Hydrobiology 1st degree 2nd year – lecture with dr Agata Poniewierska-Baran cancelled on 5th November",
     "ym": "2026-11",
@@ -1167,7 +1174,7 @@
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
@@ -1175,9 +1182,9 @@
      "date": "2026-11-03",
      "start": "08:15",
      "pl": "Ornithology",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1185,9 +1192,9 @@
      "date": "2026-11-05",
      "start": "10:00",
      "pl": "Microbiology of the aquatic environment",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1199,10 +1206,20 @@
      "pl": "Ornithology",
      "k": "CW",
      "p": "dr M. Szkudlarek",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-17",
+     "start": "12:45",
+     "pl": "Climatology",
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.214Z"
+  "updatedAt": "2026-11-13T14:30:14.146Z"
  }
 }
