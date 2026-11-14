@@ -547,7 +547,7 @@ function hasSubs(g){ return !!G()[g] && ["odd","even"].some(w => (G()[g][w]||[])
 function weekendDni(m){
   return [5,6].filter(i => entriesFor("odd", i, key(addDays(m,i))).some(e => e.dates));
 }
-const maWeekend = () => Object.values(G() || {}).some(g => (g.odd || []).some(e => e.d >= 5));
+function maWeekend(){ return Object.values(G() || {}).some(g => (g.odd || []).some(e => e.d >= 5)); }
 function entriesFor(week, day, dateKey){
   const grp = G()[state.group];
   if (!grp) return [];
