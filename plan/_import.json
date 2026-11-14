@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-14T13:40:00.690Z",
+ "at": "2026-11-14T14:03:52.130Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
