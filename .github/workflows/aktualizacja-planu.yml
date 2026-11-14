@@ -9,7 +9,13 @@ on:
     - cron: "0 7 * * *"
     # W ciągu dnia co godzinę tylko komunikaty dziekanatu (odwołane zajęcia, odrabianie): 8:20–19:20 zimą.
     - cron: "20 7-18 * * *"
-  workflow_dispatch:        # ręczne uruchomienie: zakładka Actions → Run workflow
+  workflow_dispatch:        # ręczne uruchomienie (zakładka Actions → Run workflow) albo budzik cron-job.org (docs/budzik.md)
+    inputs:
+      tryb:
+        description: "pelny = cały import, dziekanat = tylko komunikaty dziekanatu (jak przebieg co godzinę)"
+        type: choice
+        options: [pelny, dziekanat]
+        default: pelny
   push:
     branches: [main]
     paths: ["index.html", "skrzynka.html", "przenies.html", "plan.json", "kalendarz.json", "kierunki/**", "plan/**", "scripts/**", ".github/workflows/**"]
@@ -46,7 +52,7 @@ jobs:
 
       - name: Pobierz plan ze strony uczelni
         id: plan
-        if: github.event.schedule != '20 7-18 * * *'   # przebiegi co godzinę sprawdzają tylko dziekanat
+        if: github.event.schedule != '20 7-18 * * *' && inputs.tryb != 'dziekanat'   # przebiegi co godzinę sprawdzają tylko dziekanat
         continue-on-error: true   # awaria strony uczelni nie blokuje publikacji
         timeout-minutes: 20
         run: node scripts/update-plan.mjs
@@ -54,7 +60,7 @@ jobs:
       # Inne roczniki: konfiguracja w kierunki/<id>.json (z repo skrot-bm), plan w plan/<id>.json. Błąd jednego nie blokuje BM.
       - name: Pobierz plany pozostałych roczników (kierunki/*.json)
         id: plank
-        if: github.event.schedule != '20 7-18 * * *'
+        if: github.event.schedule != '20 7-18 * * *' && inputs.tryb != 'dziekanat'
         continue-on-error: true
         # Etap 7: WEFiZ niestacjonarne = plany ok. 210 wykładowców (1 zapytanie/s, serwer bywa wolny)
         timeout-minutes: 50
@@ -154,7 +160,7 @@ jobs:
         id: decide
         run: |
           # przebieg co godzinę publikuje tylko wtedy, gdy coś się zmieniło
-          if [ "${{ github.event.schedule }}" = "20 7-18 * * *" ] && [ "${{ steps.dz.outputs.changed }}" != "true" ] && [ "${{ steps.dzk.outputs.changed }}" != "true" ]; then
+          if { [ "${{ github.event.schedule }}" = "20 7-18 * * *" ] || [ "${{ inputs.tryb }}" = "dziekanat" ]; } && [ "${{ steps.dz.outputs.changed }}" != "true" ] && [ "${{ steps.dzk.outputs.changed }}" != "true" ]; then
             echo "publish=false" >> "$GITHUB_OUTPUT"
           else
             echo "publish=true" >> "$GITHUB_OUTPUT"
