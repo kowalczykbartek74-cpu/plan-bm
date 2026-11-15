@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "13.11.2026 13:18",
  "changedAt": "2026-11-08T20:24:25.661Z",
- "checkedAt": "2026-11-14T13:54:26.178Z",
+ "checkedAt": "2026-11-15T12:35:17.367Z",
  "groups": {
   "M230": {
    "odd": [
@@ -477,6 +477,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m230-odwolanie-zajec-z-dr-rafalem-szymanskim-w-dniu-26-11-2026-r/",
+    "title": "M230- odwołanie zajęć z dr. Rafałem Szymańskim w dniu 26.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-15",
+    "text": "Zajęcia z dr. Rafałem Szymańskim w dniu 26.11.2026 nie odbędą się. Termin odrobienia zajęć: 19.11.2026 r.: M230A – godz. 14.00, sala N08C lab M230B – godz. 15.30, sala N08C lab"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m230-odwolanie-zajec-z-dr-anna-gardzinska-w-dniu-27-10-2026-r/",
     "title": "M230- odwołanie zajęć z dr Anną Gardzińską w dniu 27.10.2026 r.",
     "ym": "2026-10",
@@ -495,7 +502,7 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "N126",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -505,7 +512,7 @@
      "end": "11:30",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -515,7 +522,7 @@
      "end": "13:30",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -526,10 +533,22 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "N126",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-19",
+     "start": "14:00",
+     "end": "15:30",
+     "pl": "E-technologie w turystyce i rekreacji",
+     "k": "LAB",
+     "p": "dr Rafał Szymański",
+     "r": "N08C lab M230B –",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:44.660Z"
+  "updatedAt": "2026-11-15T12:47:19.501Z"
  }
 }
