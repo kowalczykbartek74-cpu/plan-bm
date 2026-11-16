@@ -22,9 +22,9 @@
   --acc:#1A7F45; --acc-hover:#15703C; --on-acc:#FFFFFF; --acc-soft:#EAF5EE; --focus:#1A7F45;
   --panel:#133B2A; --panel-2:#1D4A36; --panel-ink:#FFFFFF; --panel-sub:#CFE8D8; --lime:#CDF25E; --lime-ink:#10231A;
   /* typy zajęć: W wykład (niebieski), ĆW ćwiczenia (zieleń), LAB (pomarańcz), K (głęboka zieleń), S (tusz) */
-  --cw:#1C6FB8; --cw-soft:#E3F0FD; --w:#1A7F45; --w-soft:#EAF5EE; --lab:#B35400; --lab-soft:#FFE8CC;
+  --cw:#1C6FB8; --cw-soft:#EDF1EA; --w:#1A7F45; --w-soft:#EAF5EE; --lab:#B35400; --lab-soft:#EDF1EA;
   --k:#0E5A30; --k-soft:#EDF1EA; --s:#10231A; --s-soft:#EDF1EA; --x:#3E5046; --x-soft:#EDF1EA; --chip-ink:#FFFFFF; --ks-ink:#FFFFFF;
-  --red:#A3261E; --red-soft:#FDE4E1; --on-red:#FFFFFF; --note:#6A3B00; --note-soft:#FFF4DE;
+  --red:#A3261E; --red-soft:#EDF1EA; --on-red:#FFFFFF; --note:#6A3B00; --note-soft:#FFF4DE;
   --odd:#1A7F45; --even:#1C6FB8;
   --sh:0 1px 2px rgba(16,35,26,.06), 0 10px 28px -14px rgba(16,35,26,.22);
   --sh-up:0 2px 4px rgba(16,35,26,.08), 0 18px 36px -14px rgba(16,35,26,.3);
@@ -36,27 +36,29 @@
 }
 /* Ciemny zielony (H): tło #0F1A14, karta #17271E, tekst #E8F2EC, akcent #4ADE8B */
 @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
-  --bg:#0F1A14; --surface:#17271E; --soft:#1D3126; --line:#2A3D31; --ink:#E8F2EC; --muted:#A9BDB1;
-  --acc:#4ADE8B; --acc-hover:#6BE6A1; --on-acc:#0B2A18; --acc-soft:#183324; --focus:#CDF25E;
-  --cw:#8CC2F5; --cw-soft:#14283A; --w:#4ADE8B; --w-soft:#183324; --lab:#FF9F43; --lab-soft:#33240F;
-  --k:#CFE8D8; --k-soft:#1D3126; --s:#E8F2EC; --s-soft:#1D3126; --x:#A9BDB1; --x-soft:#1D3126; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
-  --red:#FF7A70; --red-soft:#3A1518; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#33240F; --odd:#4ADE8B; --even:#8CC2F5;
+  --bg:#0F1A14; --surface:#17271E; --soft:#1D4A36; --line:#1D4A36; --ink:#E8F2EC; --muted:#A9BDB1;
+  --acc:#4ADE8B; --acc-hover:#CDF25E; --on-acc:#0F1A14; --acc-soft:#1D4A36; --focus:#CDF25E;
+  --cw:#8CC2F5; --cw-soft:#1D4A36; --w:#4ADE8B; --w-soft:#1D4A36; --lab:#FF9F43; --lab-soft:#1D4A36;
+  --k:#CFE8D8; --k-soft:#1D4A36; --s:#E8F2EC; --s-soft:#1D4A36; --x:#A9BDB1; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
+  --red:#FF7A70; --red-soft:#1D4A36; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#1D4A36; --odd:#4ADE8B; --even:#8CC2F5;
   --sh:0 1px 2px rgba(0,0,0,.35), 0 12px 30px -14px rgba(0,0,0,.7); --sh-up:0 2px 4px rgba(0,0,0,.4), 0 20px 38px -14px rgba(0,0,0,.8);
   --sh-panel:inset 0 0 0 1px #1D4A36, 0 22px 44px -20px rgba(0,0,0,.85); color-scheme:dark }}
 :root[data-theme="dark"]{
-  --bg:#0F1A14; --surface:#17271E; --soft:#1D3126; --line:#2A3D31; --ink:#E8F2EC; --muted:#A9BDB1;
-  --acc:#4ADE8B; --acc-hover:#6BE6A1; --on-acc:#0B2A18; --acc-soft:#183324; --focus:#CDF25E;
-  --cw:#8CC2F5; --cw-soft:#14283A; --w:#4ADE8B; --w-soft:#183324; --lab:#FF9F43; --lab-soft:#33240F;
-  --k:#CFE8D8; --k-soft:#1D3126; --s:#E8F2EC; --s-soft:#1D3126; --x:#A9BDB1; --x-soft:#1D3126; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
-  --red:#FF7A70; --red-soft:#3A1518; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#33240F; --odd:#4ADE8B; --even:#8CC2F5;
+  --bg:#0F1A14; --surface:#17271E; --soft:#1D4A36; --line:#1D4A36; --ink:#E8F2EC; --muted:#A9BDB1;
+  --acc:#4ADE8B; --acc-hover:#CDF25E; --on-acc:#0F1A14; --acc-soft:#1D4A36; --focus:#CDF25E;
+  --cw:#8CC2F5; --cw-soft:#1D4A36; --w:#4ADE8B; --w-soft:#1D4A36; --lab:#FF9F43; --lab-soft:#1D4A36;
+  --k:#CFE8D8; --k-soft:#1D4A36; --s:#E8F2EC; --s-soft:#1D4A36; --x:#A9BDB1; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
+  --red:#FF7A70; --red-soft:#1D4A36; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#1D4A36; --odd:#4ADE8B; --even:#8CC2F5;
   --sh:0 1px 2px rgba(0,0,0,.35), 0 12px 30px -14px rgba(0,0,0,.7); --sh-up:0 2px 4px rgba(0,0,0,.4), 0 20px 38px -14px rgba(0,0,0,.8);
   --sh-panel:inset 0 0 0 1px #1D4A36, 0 22px 44px -20px rgba(0,0,0,.85); color-scheme:dark }
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) :is(.pill[aria-pressed="true"],.seg button[aria-pressed="true"]:not([data-mode="odd"]):not([data-mode="even"]),.tabs a[aria-current="page"]){background:#4ADE8B;color:#0F1A14;box-shadow:none} }
+:root[data-theme="dark"] :is(.pill[aria-pressed="true"],.seg button[aria-pressed="true"]:not([data-mode="odd"]):not([data-mode="even"]),.tabs a[aria-current="page"]){background:#4ADE8B;color:#0F1A14;box-shadow:none}
 /* Ciemny panel (dzisiejsza karta, „Dziś”): te same zmienne co ciemny motyw, tło #133B2A w obu motywach */
 .dark-panel,.day.is-today{
-  --surface:#133B2A; --soft:#1D4A36; --line:#2B5A43; --ink:#FFFFFF; --muted:#CFE8D8; --focus:#CDF25E;
-  --cw:#8CC2F5; --cw-soft:#173F48; --w:#4ADE8B; --w-soft:#1D4A36; --lab:#FF9F43; --lab-soft:#3A3A1E;
+  --surface:#133B2A; --soft:#1D4A36; --line:#1D4A36; --ink:#FFFFFF; --muted:#CFE8D8; --focus:#CDF25E;
+  --cw:#8CC2F5; --cw-soft:#1D4A36; --w:#4ADE8B; --w-soft:#1D4A36; --lab:#FF9F43; --lab-soft:#1D4A36;
   --k:#CFE8D8; --k-soft:#1D4A36; --s:#E8F2EC; --s-soft:#1D4A36; --x:#CFE8D8; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
-  --red:#FF7A70; --red-soft:#4A2422; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#3A3A1E; --acc:#4ADE8B; --on-acc:#0B2A18;
+  --red:#FF7A70; --red-soft:#1D4A36; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#1D4A36; --acc:#4ADE8B; --on-acc:#0B2A18;
   background:var(--panel); color:var(--ink);
 }
 
@@ -73,6 +75,7 @@ a{color:var(--acc)}
 /* Pasek górny: zakładki (pastylki), link do nauki, język */
 .topbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
 .tabs{display:flex;gap:4px;background:var(--surface);border-radius:999px;padding:4px;max-width:100%;min-width:0;box-shadow:var(--sh)}
+.tabs:not(:has(> a:not([hidden]) ~ a:not([hidden]))){display:none}
 .tabs a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;font:600 14px/1.2 var(--body);text-decoration:none;color:var(--muted);padding:0 16px;border-radius:999px;white-space:nowrap;transition:background-color .2s var(--out),color .2s var(--out)}
 .tabs a[aria-current="page"]{background:var(--panel);color:#FFFFFF}
 .tabs a:not([aria-current]):hover{color:var(--ink);background:var(--soft)}
@@ -97,6 +100,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .help summary .q{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--acc);color:var(--on-acc);font:700 14px/1 var(--body)}
 .help[open] summary{background:var(--panel);color:#FFFFFF}
 .help[open] summary .q{background:var(--lime);color:var(--lime-ink)}
+.help[open]::before{content:"";position:fixed;inset:0;background:rgba(16,35,26,.45);z-index:-1}
 .help-panel{position:absolute;right:0;top:calc(100% + 10px);width:min(380px,calc(100vw - 32px));max-height:min(72vh,640px);overflow:auto;background:var(--surface);border-radius:28px;box-shadow:var(--sh-up),0 30px 60px -30px rgba(16,35,26,.45);padding:20px 22px;display:flex;flex-direction:column;gap:12px;font-size:14.5px;line-height:1.5}
 .help-panel h3{margin:0;font-family:var(--display);font-weight:600;font-size:21px;letter-spacing:-.01em}
 .help-panel ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
@@ -154,6 +158,8 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .pill{min-height:44px;min-width:44px;font:700 14px/1 var(--body);border:0;background:var(--soft);color:var(--ink);border-radius:999px;padding:0 16px;cursor:pointer;font-variant-numeric:tabular-nums;transition:background-color .2s var(--out),color .2s var(--out),transform .15s var(--out)}
 .pill:hover{background:var(--line)}
 .pill[aria-pressed="true"]{background:var(--panel);color:#FFFFFF}
+.seg button[aria-pressed="true"]::before,.pill[aria-pressed="true"]::before{content:"";display:inline-block;width:10px;height:6px;border:solid currentColor;border-width:0 0 2.5px 2.5px;transform:translateY(-3px) rotate(-45deg);margin-right:7px}
+.seg button[data-mode][aria-pressed="true"]::before{display:none}
 .seg{display:inline-grid;grid-auto-flow:column;gap:4px;background:var(--soft);border-radius:999px;padding:4px;max-width:100%}
 .seg button{min-height:44px;font:600 14px/1.2 var(--body);border:0;border-radius:999px;padding:0 14px;background:transparent;color:var(--muted);cursor:pointer;transition:background-color .2s var(--out),color .2s var(--out)}
 .seg button:hover{color:var(--ink)}
@@ -166,7 +172,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 
 .ctl-toggle{display:none}
 .ctl-body{display:flex;flex-direction:column;gap:14px}
-.day.is-today .cls:not(.is-off):not(.is-now){background:rgba(255,255,255,.05)}
+@media (min-width:1000px){ .ctl-body{display:grid;grid-template-columns:1fr 1fr;gap:12px 28px} .ctl-body>.ctl{align-items:center} .ctl-label{min-width:110px} }
 /* Pasek tygodnia (przyklejony) */
 .weekbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:8px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}
 .nav{display:flex;align-items:center;gap:8px;min-width:0}
@@ -197,7 +203,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .day h2{margin:0;display:flex;justify-content:space-between;align-items:center;gap:8px;padding:16px 18px 10px;font-family:var(--display);font-weight:600;font-size:21px;letter-spacing:-.015em;line-height:1.15}
 .day h2 .dt{font:600 13.5px var(--body);color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
 .day h2 .now{display:inline-block;font:800 11.5px/1 var(--body);letter-spacing:.03em;text-transform:uppercase;color:var(--lime-ink);background:var(--lime);padding:5px 9px;border-radius:999px;margin-left:8px;vertical-align:3px}
-.day.is-today{box-shadow:var(--sh-panel),inset 0 0 0 2px #CDF25E}
+.day.is-today{box-shadow:var(--sh-panel)}
 .daynote{font-size:13px;font-weight:600;background:var(--note-soft);color:var(--note);padding:8px 18px;margin:0 12px 8px;border-radius:14px}
 .list{display:flex;flex-direction:column;padding:0 8px 8px;gap:4px}
 .cls{display:grid;grid-template-columns:52px 1fr;gap:10px;padding:10px 10px 10px 10px;border-radius:18px;border-left:4px solid transparent;position:relative}
@@ -214,15 +220,15 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:3px}
 .tg{font:600 12px/1 var(--body);padding:5px 9px;border-radius:999px;background:var(--soft);color:var(--ink)}
 .note{font-size:13px;background:var(--note-soft);color:var(--note);border-radius:12px;padding:6px 10px;margin-top:3px;font-weight:600}
-.cls.k-W{border-left-color:var(--cw);background:linear-gradient(90deg,var(--cw-soft),transparent 70%)}
-.cls.k-CW{border-left-color:var(--w);background:linear-gradient(90deg,var(--w-soft),transparent 70%)}
-.cls.k-LAB{border-left-color:var(--lab);background:linear-gradient(90deg,var(--lab-soft),transparent 70%)}
-.cls.k-K{border-left-color:var(--k);background:linear-gradient(90deg,var(--k-soft),transparent 70%)}
-.cls.k-S{border-left-color:var(--s);background:linear-gradient(90deg,var(--s-soft),transparent 70%)}
-.cls.k-X{border-left-color:var(--x);background:linear-gradient(90deg,var(--x-soft),transparent 70%)}
+.cls.k-W{border-left-color:var(--cw)}
+.cls.k-CW{border-left-color:var(--w)}
+.cls.k-LAB{border-left-color:var(--lab)}
+.cls.k-K{border-left-color:var(--k)}
+.cls.k-S{border-left-color:var(--s)}
+.cls.k-X{border-left-color:var(--x)}
 /* Teraz / następne w dzisiejszej karcie: limonkowa obwódka i etykieta */
-.cls.is-now{box-shadow:inset 0 0 0 2px #CDF25E;background:var(--soft)}
-.cls.is-next{box-shadow:inset 0 0 0 1.5px rgba(205,242,94,.55)}
+.cls.is-now{background:var(--soft);border-left-color:#CDF25E!important}
+.cls.is-next{background:var(--soft)}
 .flag{display:inline-flex;align-self:flex-start;align-items:center;gap:6px;background:var(--lime);color:var(--lime-ink);font:800 11.5px/1 var(--body);letter-spacing:.03em;text-transform:uppercase;padding:5px 9px;border-radius:999px;margin-bottom:2px}
 .flag.soft{background:transparent;color:var(--lime);box-shadow:inset 0 0 0 1.5px var(--lime)}
 .flag .dot{width:7px;height:7px;border-radius:50%;background:currentColor}
@@ -230,17 +236,16 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .badge{display:inline-flex;align-items:center;gap:5px;font:800 11.5px/1 var(--body);padding:5px 9px;border-radius:999px;letter-spacing:.03em;text-transform:uppercase}
 .badge.off{background:var(--red);color:var(--on-red)}
 .badge.add{background:var(--acc);color:var(--on-acc)}
-.days .cls.is-off{background:repeating-linear-gradient(135deg,var(--red-soft) 0 8px,transparent 8px 16px);border-left-color:var(--red);box-shadow:inset 0 0 0 1.5px var(--red-soft)}
+.days .cls.is-off{background:var(--soft);border-left-color:var(--red)!important;border-left-style:dashed}
 .cls.is-off .name,.cls.is-off .time{text-decoration:line-through;text-decoration-color:var(--red);text-decoration-thickness:2px}
 .cls.is-off .name,.cls.is-off .en,.cls.is-off .meta,.cls.is-off .room,.cls.is-off .time{color:var(--muted)}
 .cls.is-off .time span{color:var(--muted)}
-.cls.is-off .chip{opacity:.6}
-.days .cls.is-add{border-left-color:var(--acc);box-shadow:inset 0 0 0 1.5px var(--acc)}
-.dz{font-size:13px;line-height:1.45;border-radius:12px;padding:7px 10px;margin-top:4px;background:var(--red-soft);color:var(--ink)}
+.days .cls.is-add{border-left-color:var(--acc);background:var(--acc-soft)}
+.dz{font-size:13px;line-height:1.45;border-radius:12px;padding:7px 10px;margin-top:4px;background:var(--surface);color:var(--ink)}
 .dz.add{background:var(--acc-soft)}
 .dz a,.dznote a{color:inherit;font-weight:700}
 .dzsrc{font-weight:600}
-.dznote{font-size:13px;line-height:1.45;background:var(--red-soft);color:var(--ink);padding:10px 14px;margin:0 8px 8px;border-radius:16px}
+.dznote{font-size:13px;line-height:1.45;background:var(--soft);color:var(--ink);padding:10px 14px;margin:0 8px 8px;border-radius:16px}
 .dznote b{font-weight:700}
 .sem{margin:4px 0 0;padding:0;list-style:none;font-size:13px;display:flex;flex-direction:column;gap:2px}
 .sem li{display:flex;justify-content:space-between;gap:8px;color:var(--muted)}
@@ -249,6 +254,18 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .free .ico{color:var(--acc)}
 .days>.free{background:var(--surface);border-radius:28px;padding:22px;box-shadow:var(--sh);grid-column:1/-1}
 
+.hero-off{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:14px;color:var(--panel-sub)}
+.hero-off s{color:#FFFFFF;text-decoration-color:#FF7A70;text-decoration-thickness:2px}
+.err-card{grid-column:1/-1;display:flex;gap:16px;align-items:center;background:var(--surface);border-radius:28px;padding:22px;box-shadow:var(--sh)}
+.err-card .stas{flex:none;width:84px;height:84px}
+.err-card b{display:block;font:600 22px/1.2 var(--display);letter-spacing:-.015em}
+.err-card p{margin:4px 0 10px;color:var(--muted);font-size:14.5px}
+.err-act{display:flex;flex-wrap:wrap;gap:8px}
+.err-act a.pill{display:inline-flex;align-items:center;text-decoration:none}
+.dlg-top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.caldlg .x{flex:none;display:grid;place-items:center;width:44px;height:44px;border:0;border-radius:50%;background:var(--soft);color:var(--ink);cursor:pointer}
+.caldlg .x svg{width:20px;height:20px}
+@media (max-width:600px){ .err-card{flex-direction:column;align-items:flex-start} }
 /* Stopka */
 .foot{font-size:13.5px;color:var(--muted);display:flex;flex-direction:column;gap:6px;padding-inline:4px}
 .foot a{color:var(--ink);font-weight:600}
@@ -288,7 +305,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
   @media (hover:hover){
     .day{transition:transform .2s var(--out),box-shadow .2s var(--out)}
     .day:hover{transform:translateY(-3px);box-shadow:var(--sh-up)}
-    .day.is-today:hover{box-shadow:var(--sh-panel),inset 0 0 0 2px #CDF25E}
+    .day.is-today:hover{box-shadow:var(--sh-panel)}
     .cta:hover{transform:translateY(-1px)} .cta:hover .arr{transform:translateX(3px)}
     .nav button:not(:disabled):hover,.langbtn:hover{transform:translateY(-2px);box-shadow:var(--sh-up)}
     .caldlg .opt:hover{transform:translateX(2px)}
@@ -348,7 +365,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
           <li class="k-only" data-i18n="hk1"><b>Grupa:</b> wybierz kierunek, rok i swoją grupę. Przy laboratoriach wybierz podgrupę A lub B, a „Obie grupy” pokaże oba terminy.</li>
           <li class="bm-only" data-i18n="h1"><b>Grupa:</b> kliknij swoją grupę: C111, C112 albo C113.</li>
           <li class="bm-only" data-i18n="h2"><b>Laby:</b> wybierz podgrupę A lub B. Od niej zależy termin laboratorium z Narzędzi IT. „Obie grupy” pokazuje oba terminy.</li>
-          <li data-i18n="h3"><b>Kalendarz:</b> plan z prawdziwymi datami. Strzałkami ‹ › przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
+          <li data-i18n="h3"><b>Kalendarz:</b> plan z prawdziwymi datami. Przyciskami ze strzałkami przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
           <li data-i18n="h10"><b>Odwołane zajęcia:</b> plan czyta komunikaty dziekanatu. Odwołane zajęcia są przekreślone z napisem „Odwołane”, a odrabianie i zmiany sal pojawiają się jako dodatkowe zajęcia w odpowiednim dniu.</li>
           <li data-i18n="h4"><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
           <li data-i18n="h5"><b>Motyw:</b> „Jasny” albo „Ciemny” ustawia kolory na stałe, a „Auto” dopasowuje je do ustawień telefonu.</li>
@@ -462,7 +479,7 @@ const EN = {
   aHelp:"How to use", howto:"How to use", helpH:"Quick guide",
   h1:"<b>Group:</b> tap your group: C111, C112 or C113.",
   h2:"<b>Labs:</b> choose subgroup A or B. It decides when your IT Tools in Management lab takes place. “Both groups” shows both slots.",
-  h3:"<b>Calendar:</b> the timetable with real dates. Use the ‹ › arrows to move between weeks; “This week” takes you back. Days off and breaks are noted on the day cards.",
+  h3:"<b>Calendar:</b> the timetable with real dates. Use the arrow buttons to move between weeks; “This week” takes you back. Days off and breaks are noted on the day cards.",
   h10:"<b>Cancelled classes:</b> the timetable reads the dean's office notices. Cancelled classes are crossed out and marked “Cancelled”; make-up classes and room changes appear as extra classes on the right day.",
   h4:"<b>Odd / Even:</b> the fixed weekly layout without dates, e.g. for a screenshot.",
   h5:"<b>Theme:</b> “Light” or “Dark” fixes the colours; “Auto” follows your phone or computer settings.",
@@ -494,7 +511,7 @@ const EN_MSG = {
   "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje":"Summer semester: the week schedule will appear once the faculty publishes it",
   "Brak zajęć":"No classes"
 };
-const NAME_EN = {"Szkolenie z obrony cywilnej":"Civil Defence Training"};
+const NAME_EN = {"Szkolenie z obrony cywilnej":"Civil Defence Training", "Odrabianie zajęć":"Make-up class"};
 const LANG = (() => {
   let l = null;
   try { l = localStorage.getItem("bm-lang"); } catch (e) {}
@@ -671,7 +688,7 @@ const MONTHS_PL = ["stycznia","lutego","marca","kwietnia","maja","czerwca","lipc
 const MONTHS = () => isEN() ? MONTHS_EN : MONTHS_PL;
 const MON3 = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 const fmt = dt => isEN() ? `${dt.getDate()} ${MON3[dt.getMonth()]}` : `${dt.getDate()}.${pad(dt.getMonth()+1)}`;
-const trRoom = r => isEN() ? r.replace(/(^|, )s\. /g, "$1Room ").replace(/\(aula\)/g, "(lecture hall)").replace(/^Aula (\S+) /, "$1 Auditorium, ") : r;
+const trRoom = r0 => { const r = String(r0).replace(/^sala s\. /, "s. "); return isEN() ? r.replace(/^sala /, "Room ").replace(/(^|, )s\. /g, "$1Room ").replace(/\(aula\)/g, "(lecture hall)").replace(/^Aula (\S+) /, "$1 Auditorium, ") : r; };
 const trNote = n => !isEN() ? n : n.replace(/^Tylko: /, "Only on: ").replace(/^Jednorazowo: /, "One-off: ");
 
 function hasSubs(g){ return !!G()[g] && ["odd","even"].some(w => (G()[g][w]||[]).some(e => e.g)); }
@@ -700,7 +717,10 @@ const ICO = {
 };
 const STAS = '<svg class="stas" viewBox="52 62 196 196" aria-hidden="true"><defs><clipPath id="stasC"><circle cx="150" cy="160" r="116"/></clipPath></defs><circle cx="150" cy="160" r="116" fill="#DDE7D8"/><g clip-path="url(#stasC)"><g transform="translate(150 170) scale(1.2) translate(-150 -160)"><path d="M50 330C50 248 94 207 150 207C206 207 250 248 250 330Z" fill="#1A7F45"/><path d="M150 207C206 207 250 248 250 330H210C210 268 188 224 150 220Z" fill="#15703C"/><rect x="135" y="186" width="30" height="30" rx="12" fill="#EDB996"/><path d="M133 210L145 229L150 216ZM167 210L155 229L150 216Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/><path d="M114 216C106 240 102 268 100 300M186 216C194 240 198 268 200 300" fill="none" stroke="#23392E" stroke-width="10"/><rect x="101" y="238" width="14" height="10" rx="3" fill="#CDF25E"/><rect x="185" y="238" width="14" height="10" rx="3" fill="#CDF25E"/><g><ellipse cx="103" cy="161" rx="10" ry="13" fill="#FAD7B8"/><ellipse cx="104" cy="161" rx="5" ry="7.5" fill="#EDB996"/><ellipse cx="197" cy="161" rx="10" ry="13" fill="#FAD7B8"/><ellipse cx="196" cy="161" rx="5" ry="7.5" fill="#EDB996"/><ellipse cx="150" cy="153" rx="48" ry="50" fill="#FAD7B8"/><path d="M101 153C95 110 124 92 152 94C182 94 205 114 199 153C195 138 188 128 178 123C166 132 146 134 128 127C116 128 106 138 101 153Z" fill="#2B2118"/><path d="M126 102L117 84L141 96Z" fill="#2B2118"/><path d="M151 97L156 82L166 96Z" fill="#2B2118"/><path d="M167 97C169 80 188 78 187 92" fill="none" stroke="#2B2118" stroke-width="6" stroke-linecap="round"/><path d="M120 116C124 110 130 106 137 104" fill="none" stroke="#4E3D30" stroke-width="4" stroke-linecap="round"/><g ><path d="M117 135Q127 128 138 134" fill="none" stroke="#2B2118" stroke-width="5" stroke-linecap="round"/><path d="M162 134Q173 128 183 135" fill="none" stroke="#2B2118" stroke-width="5" stroke-linecap="round"/></g><path d="M132 186Q150 208 168 186Z" fill="#6E2A2C"/><path d="M135 187.5H165Q164 192 160 193H140Q136 192 135 187.5Z" fill="#FFFFFF"/><ellipse cx="115" cy="181" rx="8.5" ry="5" fill="#F4A38C" fill-opacity="0.55"/><ellipse cx="185" cy="181" rx="8.5" ry="5" fill="#F4A38C" fill-opacity="0.55"/><circle cx="111" cy="175" r="1.6" fill="#D9926B"/><circle cx="117" cy="178" r="1.6" fill="#D9926B"/><circle cx="189" cy="175" r="1.6" fill="#D9926B"/><circle cx="183" cy="178" r="1.6" fill="#D9926B"/><path d="M146 176Q150 181 154 176" fill="none" stroke="#DFA07C" stroke-width="3.5" stroke-linecap="round"/><path d="M113 156L104 152M187 156L196 152" stroke="#10231A" stroke-width="4" stroke-linecap="round"/><circle cx="130" cy="160" r="17" fill="#FFFFFF" fill-opacity="0.45" stroke="#10231A" stroke-width="5.5"/><circle cx="170" cy="160" r="17" fill="#FFFFFF" fill-opacity="0.45" stroke="#10231A" stroke-width="5.5"/><path d="M147 157Q150 153 153 157" fill="none" stroke="#10231A" stroke-width="4.5" stroke-linecap="round"/><g ><circle cx="131" cy="161" r="6.5" fill="#10231A"/><circle cx="133.2" cy="158.2" r="2.1" fill="#FFFFFF"/></g><g ><circle cx="169" cy="161" r="6.5" fill="#10231A"/><circle cx="171.2" cy="158.2" r="2.1" fill="#FFFFFF"/></g></g></g></g></svg>';
 const FLAG = { now: () => `<span class="flag"><span class="dot"></span>${L("Teraz","Now")}</span>`, next: () => `<span class="flag soft">${L("Następne","Next")}</span>` };
-function cls(e, showDates, flag){
+// Wpis „sala 002 dr Barbara Batóg” (prowadzący w polu sali w danych uczelni) → sala i prowadzący osobno, tylko na stronie
+const rozdzielSale = e => { if (e.p || !e.r) return e; const m = String(e.r).match(/^(.*?\S)\s+((?:dr|mgr|prof|doc)\b.*)$/); return m ? { ...e, r: m[1], p: m[2] } : e; };
+function cls(e0, showDates, flag){
+  const e = rozdzielSale(e0);
   const t = [startOf(e), endOf(e)];
   const pl = isEN() ? (e.en || NAME_EN[e.pl] || e.pl || "") : (e.pl || e.en || "");
   const en = !isEN() && e.en && e.en !== e.pl ? e.en : "";
@@ -959,8 +979,15 @@ const DOW_PL = ["niedziela","poniedziałek","wtorek","środa","czwartek","piąte
 const dow = dt => (isEN() ? DOW_EN : DOW_PL)[dt.getDay()];
 const longDate = dt => isEN() ? `${dow(dt)}, ${dt.getDate()} ${MONTHS_EN[dt.getMonth()]}` : `${dow(dt)}, ${dt.getDate()} ${MONTHS_PL[dt.getMonth()]}`;
 const nm = e => isEN() ? (e.en || NAME_EN[e.pl] || e.pl || "") : (e.pl || e.en || "");
-function slotMeta(e){
+function slotMeta(e0){
+  const e = rozdzielSale(e0);
   return `<div class="s-meta"><span>${ICO.clock}${startOf(e)}–${endOf(e)}</span>${e.r ? `<span>${ICO.pin}${esc(trRoom(e.r))}</span>` : ""}${e.p ? `<span class="who">${ICO.who}${esc(e.p)}</span>` : ""}</div>`;
+}
+// Odwołane dziś: jedna linia z przedmiotami i godzinami
+function offLine(items){
+  const o = items.filter(e => e.off);
+  if (!o.length) return "";
+  return `<div class="hero-off"><span class="badge off">${L("Odwołane", "Cancelled")}</span><span>${o.map(e => `<s>${esc(nm(e))}</s> ${startOf(e)}`).join(", ")}</span></div>`;
 }
 const chipOf = e => e.k && e.k !== "X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : "";
 function renderHero(){
@@ -979,15 +1006,15 @@ function renderHero(){
       : `<span class="lime">${L("Następne","Next")}</span>${esc(L(`o ${startOf(next)}`, `at ${startOf(next)}`))}`;
     const p = cur ? Math.round(100 * (n - toMin(startOf(cur))) / Math.max(1, toMin(endOf(cur)) - toMin(startOf(cur)))) : 0;
     html = `<div class="hero-body"><div class="slot big"><div class="s-lbl">${lab}${chipOf(big)}</div><div class="s-name">${esc(nm(big))}</div>${slotMeta(big)}${cur ? `<div class="bar" aria-hidden="true"><i style="--p:${p}%"></i></div>` : ""}</div>`
-      + (rest ? `<div class="slot next"><div class="s-lbl"><span>${L("Potem","Then")} · ${startOf(rest)}</span>${chipOf(rest)}</div><div class="s-name">${esc(nm(rest))}</div>${slotMeta(rest)}</div>` : "")
-      + `</div><div class="hero-count">${L(`Dziś zajęć: <b>${live.length}</b>, za Tobą: <b>${done}</b>`, `Classes today: <b>${live.length}</b>, done: <b>${done}</b>`)}${off ? L(` · odwołane: <b>${off}</b>`, ` · cancelled: <b>${off}</b>`) : ""}</div>`;
+      + (rest ? `<div class="slot next"><div class="s-lbl"><span class="flag soft">${L("Następne","Next")}</span><span>${startOf(rest)}</span>${chipOf(rest)}</div><div class="s-name">${esc(nm(rest))}</div>${slotMeta(rest)}</div>` : "")
+      + `</div><div class="hero-count">${L(`Dziś zajęć: <b>${live.length}</b>, za Tobą: <b>${done}</b>`, `Classes today: <b>${live.length}</b>, done: <b>${done}</b>`)}</div>${offLine(items)}`;
   } else {
     // nic więcej dziś: najbliższe zajęcia w ciągu 3 tygodni
     let nx = null;
     for (let d = 1; d <= 21 && !nx; d++) { const dt = addDays(now, d), f = dayItems(dt).find(e => !e.off); if (f) nx = { dt, e: f, d }; }
     const head = live.length ? L("Na dziś to wszystko", "That's all for today") : L("Dziś wolne", "No classes today");
     const kiedy = nx ? (nx.d === 1 ? L("jutro", "tomorrow") : esc(longDate(nx.dt))) : "";
-    html = `<div class="hero-free">${STAS}<div><b>${head}</b>${nx ? `<p>${L("Najbliższe zajęcia:", "Next class:")} <strong>${kiedy}, ${startOf(nx.e)}</strong> · ${esc(nm(nx.e))}${nx.e.r ? " · " + esc(trRoom(nx.e.r)) : ""}</p>` : ""}${off && !live.length ? `<p>${L("Dzisiejsze zajęcia są odwołane.", "Today's classes are cancelled.")}</p>` : ""}</div></div>`;
+    html = `<div class="hero-free">${STAS}<div><b>${head}</b>${nx ? `<p>${L("Najbliższe zajęcia:", "Next class:")} <strong>${kiedy}, ${startOf(nx.e)}</strong> · ${esc(nm(nx.e))}${nx.e.r ? " · " + esc(trRoom(nx.e.r)) : ""}</p>` : ""}</div></div>${offLine(items)}`;
   }
   el.innerHTML = top + html;
   el.hidden = false;
@@ -1017,7 +1044,15 @@ function render(){
   renderHero();
 
   const el = document.getElementById("days");
-  if (!Object.keys(G()).length) { el.innerHTML = `<div class="free">${L("Wczytuję plan…", "Loading the timetable…")}</div>`; return; }
+  if (!Object.keys(G()).length) {
+    if (PLAN_ERR) {
+      const url = infoW(R.cur.wydzial).url || "https://planyzajec-efz.usz.edu.pl/plan";
+      el.innerHTML = `<div class="err-card">${STAS}<div><b>${L("Nie udało się wczytać planu", "The timetable could not be loaded")}</b><p>${L("Sprawdź internet i spróbuj jeszcze raz. Do tego czasu plan jest na stronie uczelni.", "Check your connection and try again. In the meantime, the timetable is on the university website.")}</p>`
+        + `<div class="err-act"><button type="button" class="pill" id="retry">${L("Spróbuj ponownie", "Try again")}</button><a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${L("Oficjalny plan ↗", "Official timetable ↗")}</a></div></div></div>`;
+      document.getElementById("retry").onclick = () => { PLAN_ERR = false; render(); loadRemote(); };
+      return;
+    }
+    el.innerHTML = `<div class="free">${L("Wczytuję plan…", "Loading the timetable…")}</div>`; return; }
   if (state.mode !== "cal"){
     el.innerHTML = (isEN() ? DAYN_EN : DAYN_PL).map((dn,i) => dayCard(dn, "", entriesFor(state.mode,i,null), {fixed:true})).join("");
     return;
@@ -1062,13 +1097,13 @@ function showMeta(){
   const t = parts.join(" · ");
   document.getElementById("dataMeta").textContent = t ? t.charAt(0).toUpperCase() + t.slice(1) + "." : "";
 }
-let loading = false;
+let loading = false, PLAN_ERR = false;
 async function loadRemote(){
   if (loading) return; loading = true;
   const id = R.cur.id;
   try {
     const r = await fetch(R.cur.plik + "?t=" + Date.now(), {cache:"no-store"});
-    if (!r.ok) return;
+    if (!r.ok) { if (id === R.cur.id && !Object.keys(G()).length) { PLAN_ERR = true; render(); } return; }
     const j = await r.json();
     if (!j || !j.groups || !Object.keys(j.groups).length || id !== R.cur.id) return;
     if (isBM()) BM_DATA = j;
@@ -1078,7 +1113,9 @@ async function loadRemote(){
     buildCalendar();
     if (!sameGroups) buildGroups();
     render(); showMeta();
-  } catch (e) { /* brak plan.json (np. podgląd lokalny) - zostaje kopia zapasowa */ }
+    PLAN_ERR = false;
+  } catch (e) { /* brak plan.json (np. podgląd lokalny) - zostaje kopia zapasowa; bez kopii (inny rocznik) – komunikat o błędzie */
+    if (id === R.cur.id && !Object.keys(G()).length) { PLAN_ERR = true; render(); } }
   finally { loading = false; if (id !== R.cur.id) loadRemote(); }
 }
 document.querySelectorAll("#subs button").forEach(b => b.onclick = () => { state.sub = b.dataset.sub; store.set(subKey(), state.sub); render(); });
@@ -1094,13 +1131,13 @@ function openCal(){
   const which = `${g}${sub ? L(`, laby ${sub}`, `, lab group ${sub}`) : (hasSubs(g) ? L(", obie grupy labów", ", both lab groups") : "")}`;
   const opt = (href, color, letter, title, small, attrs="") => `<a class="opt" href="${href}" ${attrs}><span class="ico" style="background:${color}">${letter}</span><span><b>${title}</b><small>${small}</small></span></a>`;
   document.getElementById("calIn").innerHTML = `
-    <h3 id="calH">${L("Plan w Twoim kalendarzu","Timetable in your calendar")}</h3>
+    <div class="dlg-top"><h3 id="calH">${L("Plan w Twoim kalendarzu","Timetable in your calendar")}</h3><button type="button" class="x" id="calX" aria-label="${L("Zamknij","Close")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <p>${L("Dodasz plan dla:","You are adding the timetable for:")} <span class="which">${esc(which)}</span></p>
     <p class="muted">${L("To subskrypcja, nie jednorazowy import: gdy uczelnia zmieni plan, kalendarz sam się zaktualizuje. Inna grupa lub podgrupa? Zamknij okienko i zmień wybór wyżej.","This is a subscription, not a one-off import: when the university changes the timetable, your calendar updates itself. Different group? Close this and change your choice above.")}</p>
     <div class="opts">
       ${opt(`https://calendar.google.com/calendar/r?cid=${encodeURIComponent(webcal)}`, "#1C6FB8", "G", "Google Calendar", L("Android i komputer. Otwórz na koncie Google, którego używasz w telefonie.","Android and computer. Open it in the Google account you use on your phone."), 'target="_blank" rel="noopener"')}
-      ${opt(webcal, "#10231A", "A", L("iPhone, iPad, Mac","iPhone, iPad, Mac"), L("Kalendarz Apple. Potwierdź „Subskrybuj”.","Apple Calendar. Confirm “Subscribe”."))}
-      ${opt(`https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(https)}&name=${encodeURIComponent(name)}`, "#1A7F45", "O", "Outlook", L("Konto Outlook / Hotmail. Dla konta uczelnianego (Microsoft 365) skopiuj link niżej i wybierz „Dodaj kalendarz → Z internetu”.","Outlook / Hotmail account. For the university Microsoft 365 account, copy the link below and choose “Add calendar → From the internet”."), 'target="_blank" rel="noopener"')}
+      ${opt(webcal, "#1A7F45", "A", L("iPhone, iPad, Mac","iPhone, iPad, Mac"), L("Kalendarz Apple. Potwierdź „Subskrybuj”.","Apple Calendar. Confirm “Subscribe”."))}
+      ${opt(`https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(https)}&name=${encodeURIComponent(name)}`, "#B35400", "O", "Outlook", L("Konto Outlook / Hotmail. Dla konta uczelnianego (Microsoft 365) skopiuj link niżej i wybierz „Dodaj kalendarz → Z internetu”.","Outlook / Hotmail account. For the university Microsoft 365 account, copy the link below and choose “Add calendar → From the internet”."), 'target="_blank" rel="noopener"')}
     </div>
     <div class="copyrow"><input id="calUrl" readonly value="${https}" aria-label="${L("Link do kalendarza","Calendar link")}"><button type="button" id="calCopy">${L("Kopiuj link","Copy link")}</button></div>
     <div class="tip">
@@ -1110,6 +1147,7 @@ function openCal(){
     <button type="button" class="close" id="calClose">${L("Zamknij","Close")}</button>`;
   const dlg = document.getElementById("calDlg");
   document.getElementById("calClose").onclick = () => dlg.close();
+  document.getElementById("calX").onclick = () => dlg.close();
   document.getElementById("calCopy").onclick = async (ev) => {
     const inp = document.getElementById("calUrl");
     try { await navigator.clipboard.writeText(inp.value); } catch (e) { inp.select(); try { document.execCommand("copy"); } catch (e2) {} }
