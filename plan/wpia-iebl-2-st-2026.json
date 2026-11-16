@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-16T13:41:46.348Z",
+ "checkedAt": "2026-11-16T14:54:59.501Z",
  "groups": {
   "IEBL1": {
    "odd": [
@@ -653,6 +653,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/iebl-ii-st-i-r-przelozenie-zajec-z-przedmiotu-basic-legal-knowledge-wstep-do-prawoznawstwa-prof-dr-hab-agnieszka-bien-kacala/",
+    "title": "IEBL II st. I r. – Rescheduling of Basic Legal Knowledge Classes (wstęp do prawoznawstwa) (prof. dr hab. Agnieszka Bień-Kacała)",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Please be informed that the classes for Basic Legal Knowledge (wstęp do prawoznawstwa) scheduled for 2 December 2026 have been rescheduled to 27 January 2027, from 1:30 p.m. to 4:45 p.m. The classes will take place in Room 117, Narutowicza."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/1-st-iebl-ma-studies-schedule-update/",
     "title": "1 st. IEBL MA studies – schedule update",
     "ym": "2026-11",
@@ -714,13 +721,13 @@
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 5,
+     "post": 6,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 6,
+     "post": 7,
      "niska": true
     },
     {
@@ -728,49 +735,54 @@
      "date": "2026-10-15",
      "start": "17:00",
      "pl": "Public Business Law in International Context",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
      "type": "note",
      "date": "2026-10-20",
-     "post": 5,
+     "post": 6,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-28",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-18",
-     "post": 0,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-18",
-     "post": 3,
+     "post": 4,
      "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-02",
+     "post": 0
     },
     {
      "type": "note",
      "date": "2026-12-09",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2027-01-20",
-     "post": 0,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.429Z"
+  "updatedAt": "2026-11-16T15:01:54.983Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-16T13:41:46.348Z",
+ "checkedAt": "2026-11-16T14:54:59.501Z",
  "groups": {
   "PSM2": {
    "odd": [
@@ -543,6 +543,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/psm-ii-st-ii-rok-przelozenie-zajec-dydaktycznych-z-przedmiotu-cyberbezpieczenstwo-w-sektorze-ochrony-i-bezpieczenstwa-panstwa-dr-d-skoczylas/",
+    "title": "PSM II st. II rok – przełożenie zajęć dydaktycznych z przedmiotu Cyberbezpieczeństwo w sektorze ochrony i bezpieczeństwa państwa ( dr D. Skoczylas)",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Informujemy, że zajęcia z przedmiotu Cyberbezpieczeństwo w sektorze ochrony i bezpieczeństwa państwa (konwersatorium) z dr Dominiką Skoczylas w dniu 18.11.2026 r. nie odbędą się i zostaną odrobione dnia 23.11.2026 r. w godz. 10:00-12:30 w sali 218."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/zmiana-terminu-konsultacji-dr-hab-e-cala-wacinkiewicz-prof-us-z-dn-10-12-2026-r/",
     "title": "Zmiana terminu konsultacji dr hab. E. Cała-Wacinkiewicz, prof. US z dn. 10.12.2026 r.",
     "ym": "2026-11",
@@ -597,13 +604,7 @@
     {
      "type": "note",
      "date": "2026-10-08",
-     "post": 6,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-15",
-     "post": 3,
+     "post": 7,
      "niska": true
     },
     {
@@ -620,24 +621,52 @@
     },
     {
      "type": "note",
-     "date": "2026-10-29",
+     "date": "2026-10-15",
      "post": 6,
      "niska": true
     },
     {
      "type": "note",
-     "date": "2026-11-12",
-     "post": 2,
+     "date": "2026-10-29",
+     "post": 7,
      "niska": true
     },
     {
      "type": "note",
-     "date": "2026-12-10",
+     "date": "2026-11-12",
+     "post": 3,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "10:00",
+     "pl": "Cyberbezpieczeństwo w sektorze ochrony i bezpieczeństwa państwa - PDW",
      "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-23",
+     "start": "10:00",
+     "end": "12:30",
+     "pl": "Cyberbezpieczeństwo w sektorze ochrony i bezpieczeństwa państwa - PDW",
+     "k": "K",
+     "p": "dr D. Skoczylas",
+     "r": "s. 218",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-12-10",
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-12T13:55:23.478Z"
+  "updatedAt": "2026-11-16T15:01:55.149Z"
  }
 }

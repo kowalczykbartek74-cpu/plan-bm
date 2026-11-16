@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-16T13:41:46.348Z",
+ "checkedAt": "2026-11-16T14:54:59.501Z",
  "groups": {
   "PSM1": {
    "odd": [
@@ -869,6 +869,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/psm-i-st-i-r-odwolanie-zajec-z-przedmiotu-podstawy-prawoznawstwa-w-dn-20-11-2026-r-dr-m-peno/",
+    "title": "PSM I st. I r. – odwołanie zajęć z przedmiotu Podstawy prawoznawstwa w dn. 20.11.2026 r. (dr M. Peno)",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Informujemy, że wykład z przedmiotu Podstawy prawoznawstwa w dniu 20.11.2026 r. nie odbędzie się. Termin odrobienia zajęć zostanie ustalony wkrótce."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/psm-i-st-i-r-grupa-1-odwolanie-cwiczen-z-przedmiotu-podstawy-prawoznawstwa-mgr-m-sowa-w-dn-3-11-2026-r/",
     "title": "PSM I st. I r. (grupa 1) – odwołanie ćwiczeń z przedmiotu Podstawy prawoznawstwa (mgr M. Sowa) w dn. 3.11.2026 r.",
     "ym": "2026-11",
@@ -895,18 +902,28 @@
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-30",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
      "date": "2026-11-03",
      "start": "08:15",
+     "pl": "Podstawy prawoznawstwa",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-20",
+     "start": "13:45",
      "pl": "Podstawy prawoznawstwa",
      "post": 0,
      "posts": [
@@ -915,6 +932,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.575Z"
+  "updatedAt": "2026-11-16T15:01:55.137Z"
  }
 }

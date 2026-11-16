@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-16T13:41:46.348Z",
+ "checkedAt": "2026-11-16T14:54:59.501Z",
  "groups": {
   "ADM1": {
    "odd": [
@@ -947,6 +947,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-i-st-i-rok-przelozenie-zajec-dydaktycznych-z-przedmiotu-nauka-administracji-z-elementami-teorii-organizacji-i-zarzadzania-dr-d-skoczylas/",
+    "title": "SSA I st. I rok – Przełożenie zajęć dydaktycznych z przedmiotu Nauka administracji z elementami teorii organizacji i zarządzania (dr D.Skoczylas)",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Informujemy, że zajęcia z przedmiotu Nauka administracji z elementami teorii organizacji i zarządzania (ćwiczenia, grupa 2) z dr Dominiką Skoczylas w dniu 18.11.2026 r. nie odbędą się i zostaną odrobione dnia 14.12.2026 r. w godz. 10:45-12:30 sala 217."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ii-ssa-i-st-odrabianie-zajec-z-przedmiotu-instytucje-i-zrodla-prawa-ue-z-dnia-08-10-26-dr-k-slotwinska/",
     "title": "II SSA I st. – Odrabianie zajęć z przedmiotu Instytucje i źródła prawa UE z dnia 08.10.26 (dr K. Słotwińska)",
     "ym": "2026-11",
@@ -1014,7 +1021,7 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 403",
-     "post": 7
+     "post": 8
     },
     {
      "type": "extra",
@@ -1025,27 +1032,27 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 217",
-     "post": 6
+     "post": 7
     },
     {
      "type": "note",
      "date": "2026-10-08",
-     "post": 0,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 5
+     "post": 6
     },
     {
      "type": "cancel",
      "date": "2026-10-28",
      "start": "08:15",
      "pl": "Informatyka w administracji",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -1053,9 +1060,9 @@
      "date": "2026-10-28",
      "start": "10:00",
      "pl": "Informatyka w administracji",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -1063,24 +1070,34 @@
      "date": "2026-10-28",
      "start": "11:45",
      "pl": "Informatyka w administracji",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 3
+     "post": 4
     },
     {
      "type": "cancel",
      "date": "2026-11-04",
      "start": "10:00",
      "pl": "Podstawy prawoznawstwa",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "08:15",
+     "pl": "Nauka administracji z elementami teorii organizacji i zarządzania",
+     "post": 0,
+     "posts": [
+      0
      ]
     },
     {
@@ -1088,19 +1105,31 @@
      "date": "2026-12-01",
      "start": "14:30",
      "pl": "Mikroekonomia",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-14",
+     "start": "10:45",
+     "end": "12:30",
+     "pl": "Nauka administracji z elementami teorii organizacji i zarządzania",
+     "k": "CW",
+     "p": "dr D. Skoczylas",
+     "r": "s. 217",
+     "post": 0
     },
     {
      "type": "note",
      "date": "2027-01-19",
-     "post": 0,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.383Z"
+  "updatedAt": "2026-11-16T15:01:54.926Z"
  }
 }

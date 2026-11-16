@@ -1,11 +1,11 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-16T13:42:07.933Z",
+ "at": "2026-11-16T14:55:19.459Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -15,7 +15,7 @@
   {
    "id": "wefiz-af-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -25,7 +25,7 @@
   {
    "id": "wefiz-biwg-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -35,7 +35,7 @@
   {
    "id": "wefiz-biwg-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -45,7 +45,7 @@
   {
    "id": "wefiz-biwg-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -54,8 +54,8 @@
   },
   {
    "id": "wefiz-bm-1-st-2024",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -64,8 +64,8 @@
   },
   {
    "id": "wefiz-bm-1-st-2025",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -75,7 +75,7 @@
   {
    "id": "wefiz-bm-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -85,7 +85,7 @@
   {
    "id": "wefiz-bm-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -95,7 +95,7 @@
   {
    "id": "wefiz-ds-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -105,7 +105,7 @@
   {
    "id": "wefiz-ds-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -115,7 +115,7 @@
   {
    "id": "wefiz-eaia-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -125,7 +125,7 @@
   {
    "id": "wefiz-eaia-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -135,7 +135,7 @@
   {
    "id": "wefiz-ek-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -145,7 +145,7 @@
   {
    "id": "wefiz-ek-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -155,7 +155,7 @@
   {
    "id": "wefiz-ek-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -165,7 +165,7 @@
   {
    "id": "wefiz-ek-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -175,7 +175,7 @@
   {
    "id": "wefiz-ek-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -185,7 +185,7 @@
   {
    "id": "wefiz-fir-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -195,7 +195,7 @@
   {
    "id": "wefiz-fir-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -205,7 +205,7 @@
   {
    "id": "wefiz-fir-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -215,7 +215,7 @@
   {
    "id": "wefiz-fir-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -225,7 +225,7 @@
   {
    "id": "wefiz-fir-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -235,7 +235,7 @@
   {
    "id": "wefiz-gn-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -245,7 +245,7 @@
   {
    "id": "wefiz-gn-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -255,7 +255,7 @@
   {
    "id": "wefiz-gn-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -265,7 +265,7 @@
   {
    "id": "wefiz-gpi-1-st-2023",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -275,7 +275,7 @@
   {
    "id": "wefiz-gpi-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -285,7 +285,7 @@
   {
    "id": "wefiz-gpi-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -295,7 +295,7 @@
   {
    "id": "wefiz-gpi-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -305,7 +305,7 @@
   {
    "id": "wefiz-iie-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -315,7 +315,7 @@
   {
    "id": "wefiz-iie-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -325,7 +325,7 @@
   {
    "id": "wefiz-iie-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -335,7 +335,7 @@
   {
    "id": "wefiz-iwb-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -345,7 +345,7 @@
   {
    "id": "wefiz-iwb-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -355,7 +355,7 @@
   {
    "id": "wefiz-iwb-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -365,7 +365,7 @@
   {
    "id": "wefiz-iwb-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -375,7 +375,7 @@
   {
    "id": "wefiz-iwb-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -385,7 +385,7 @@
   {
    "id": "wefiz-kipb-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -395,7 +395,7 @@
   {
    "id": "wefiz-kipb-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -405,7 +405,7 @@
   {
    "id": "wefiz-kipb-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -415,7 +415,7 @@
   {
    "id": "wefiz-kipb-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -425,7 +425,7 @@
   {
    "id": "wefiz-kipb-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -435,7 +435,7 @@
   {
    "id": "wefiz-li-1-st-2023",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -445,7 +445,7 @@
   {
    "id": "wefiz-li-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -455,7 +455,7 @@
   {
    "id": "wefiz-li-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -465,7 +465,7 @@
   {
    "id": "wefiz-li-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -475,7 +475,7 @@
   {
    "id": "wefiz-log-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -484,8 +484,8 @@
   },
   {
    "id": "wefiz-log-1-st-2025",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -495,7 +495,7 @@
   {
    "id": "wefiz-log-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -505,7 +505,7 @@
   {
    "id": "wefiz-log-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -515,7 +515,7 @@
   {
    "id": "wefiz-log-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -525,7 +525,7 @@
   {
    "id": "wefiz-mbt-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -535,7 +535,7 @@
   {
    "id": "wefiz-mkt-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -545,7 +545,7 @@
   {
    "id": "wefiz-mkt-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -555,7 +555,7 @@
   {
    "id": "wefiz-pii-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -565,7 +565,7 @@
   {
    "id": "wefiz-pii-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -575,7 +575,7 @@
   {
    "id": "wefiz-pii-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -585,7 +585,7 @@
   {
    "id": "wefiz-rn-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -595,7 +595,7 @@
   {
    "id": "wefiz-rn-2-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -605,7 +605,7 @@
   {
    "id": "wefiz-tir-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -615,7 +615,7 @@
   {
    "id": "wefiz-tir-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -625,7 +625,7 @@
   {
    "id": "wefiz-tir-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -635,7 +635,7 @@
   {
    "id": "wefiz-zarz-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -645,7 +645,7 @@
   {
    "id": "wefiz-zarz-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -655,7 +655,7 @@
   {
    "id": "wefiz-zarz-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -665,7 +665,7 @@
   {
    "id": "wefiz-zarz-2-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -674,8 +674,8 @@
   },
   {
    "id": "wefiz-zarz-2-st-2026",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -685,7 +685,7 @@
   {
    "id": "wefiz-zloz-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -695,7 +695,7 @@
   {
    "id": "wefiz-zoze-1-st-2024",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -705,7 +705,7 @@
   {
    "id": "wefiz-zoze-1-st-2025",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -715,7 +715,7 @@
   {
    "id": "wefiz-zoze-1-st-2026",
    "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
    "wersja": "16.11.2026 09:29",
@@ -1007,8 +1007,8 @@
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
    "wersja": "planynst-d8eab336941e",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 122
   },
@@ -1047,8 +1047,8 @@
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
    "wersja": "dane-9f09a6270fa9",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 86
   },
@@ -1167,8 +1167,8 @@
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
    "wersja": "dane-daff4266270e",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 40
   },
@@ -1267,8 +1267,8 @@
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
    "wersja": "o4.html 2026-11-16 13:40:14",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 102
   },
@@ -1507,8 +1507,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-nr-2-z-16-XI-2026.xlsx",
    "wersja": "2026-11-16",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 36
   },
@@ -1517,8 +1517,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-nr-2-z-16-XI-2026.xlsx",
    "wersja": "2026-11-16",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 24
   },
@@ -1737,8 +1737,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.16-XI-2026.xlsx",
    "wersja": "2026-11-16",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 32
   },
@@ -2047,8 +2047,8 @@
    "wydzial": "wh",
    "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SM-I-I-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-16-XI-2026.xlsx",
    "wersja": "2026-11-16",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 42
   },
@@ -4642,8 +4642,8 @@
    "wydzial": "wpia",
    "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-EP-I-st.-11.pdf",
    "wersja": "II-EP-I-st.-11.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 16,
    "kolejka": {
