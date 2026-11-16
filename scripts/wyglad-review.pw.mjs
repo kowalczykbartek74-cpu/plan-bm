@@ -54,7 +54,7 @@ async function strona({ nazwa, url, czas = T_TERAZ, rozmiary = ["360", "375", "1
     page.on("console", (msg) => { if (msg.type() === "error") bledy.push(msg.text()); });
     page.on("pageerror", (e) => bledy.push(String(e)));
     if (js) await page.clock.setFixedTime(new Date(czas));
-    await page.addInitScript((d) => { try { if (!sessionStorage.getItem("ustawione")) { localStorage.clear(); for (const [k, v] of Object.entries(d)) localStorage.setItem(k, v); sessionStorage.setItem("ustawione", "1"); } } catch (e) {} }, { "bm-lang": lang, ...ls });
+    await page.addInitScript((d) => { try { if (!sessionStorage.getItem("ustawione")) { localStorage.clear(); for (const [k, v] of Object.entries(d)) localStorage.setItem(k, v); sessionStorage.setItem("ustawione", "1"); } } catch (e) {} }, { "bm-lang": lang, "bm-theme": m === "ciemny" ? "dark" : "light", ...ls });
     await page.goto(BASE + url, { waitUntil: "networkidle" });
     await page.evaluate(() => document.fonts && document.fonts.ready).catch(() => {});
     await page.waitForTimeout(400);

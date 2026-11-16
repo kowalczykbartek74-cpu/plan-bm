@@ -10,7 +10,7 @@
 <title>Plan zajęć BM</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Bricolage+Grotesque:opsz,wght@12..96,600&display=swap">
-<script>try{var t=localStorage.getItem("bm-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<script>/* motyw: domyślnie jasny; „dark” = ciemny, „auto” = jak telefon */try{var t=localStorage.getItem("bm-theme");if(t!=="auto")document.documentElement.setAttribute("data-theme",t==="dark"?"dark":"light");}catch(e){document.documentElement.setAttribute("data-theme","light")}</script>
 <meta name="theme-color" content="#F4F5F0" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0F1A14" media="(prefers-color-scheme: dark)">
 <style>
@@ -23,7 +23,7 @@
   --panel:#133B2A; --panel-2:#1D4A36; --panel-ink:#FFFFFF; --panel-sub:#CFE8D8; --lime:#CDF25E; --lime-ink:#10231A;
   /* typy zajęć: W wykład (niebieski), ĆW ćwiczenia (zieleń), LAB (pomarańcz), K (głęboka zieleń), S (tusz) */
   --cw:#1C6FB8; --cw-soft:#EDF1EA; --w:#1A7F45; --w-soft:#EAF5EE; --lab:#6D3FB0; --lab-soft:#F1EAFB;
-  --k:#0E5A30; --k-soft:#EDF1EA; --s:#10231A; --s-soft:#EDF1EA; --x:#3E5046; --x-soft:#EDF1EA; --chip-ink:#FFFFFF; --ks-ink:#FFFFFF;
+  --k:#B35400; --k-soft:#EDF1EA; --s:#A3261E; --s-soft:#EDF1EA; --x:#3E5046; --x-soft:#EDF1EA; --chip-ink:#FFFFFF; --ks-ink:#FFFFFF;
   --red:#A3261E; --red-soft:#EDF1EA; --on-red:#FFFFFF; --note:#6A3B00; --note-soft:#FFF4DE;
   --odd:#1A7F45; --even:#1C6FB8;
   --sh:0 1px 2px rgba(16,35,26,.06), 0 10px 28px -14px rgba(16,35,26,.22);
@@ -39,7 +39,7 @@
   --bg:#0F1A14; --surface:#17271E; --soft:#1D4A36; --line:#1D4A36; --ink:#E8F2EC; --muted:#A9BDB1;
   --acc:#4ADE8B; --acc-hover:#CDF25E; --on-acc:#0F1A14; --acc-soft:#1D4A36; --focus:#CDF25E;
   --cw:#8CC2F5; --cw-soft:#1D4A36; --w:#4ADE8B; --w-soft:#1D4A36; --lab:#C4A3F5; --lab-soft:#1D4A36;
-  --k:#CFE8D8; --k-soft:#1D4A36; --s:#E8F2EC; --s-soft:#1D4A36; --x:#A9BDB1; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
+  --k:#FF9F43; --k-soft:#1D4A36; --s:#FF7A70; --s-soft:#1D4A36; --x:#A9BDB1; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
   --red:#FF7A70; --red-soft:#1D4A36; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#1D4A36; --odd:#4ADE8B; --even:#8CC2F5;
   --sh:0 1px 2px rgba(0,0,0,.35), 0 12px 30px -14px rgba(0,0,0,.7); --sh-up:0 2px 4px rgba(0,0,0,.4), 0 20px 38px -14px rgba(0,0,0,.8);
   --sh-panel:inset 0 0 0 1px #1D4A36, 0 22px 44px -20px rgba(0,0,0,.85); color-scheme:dark }}
@@ -47,7 +47,7 @@
   --bg:#0F1A14; --surface:#17271E; --soft:#1D4A36; --line:#1D4A36; --ink:#E8F2EC; --muted:#A9BDB1;
   --acc:#4ADE8B; --acc-hover:#CDF25E; --on-acc:#0F1A14; --acc-soft:#1D4A36; --focus:#CDF25E;
   --cw:#8CC2F5; --cw-soft:#1D4A36; --w:#4ADE8B; --w-soft:#1D4A36; --lab:#C4A3F5; --lab-soft:#1D4A36;
-  --k:#CFE8D8; --k-soft:#1D4A36; --s:#E8F2EC; --s-soft:#1D4A36; --x:#A9BDB1; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
+  --k:#FF9F43; --k-soft:#1D4A36; --s:#FF7A70; --s-soft:#1D4A36; --x:#A9BDB1; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
   --red:#FF7A70; --red-soft:#1D4A36; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#1D4A36; --odd:#4ADE8B; --even:#8CC2F5;
   --sh:0 1px 2px rgba(0,0,0,.35), 0 12px 30px -14px rgba(0,0,0,.7); --sh-up:0 2px 4px rgba(0,0,0,.4), 0 20px 38px -14px rgba(0,0,0,.8);
   --sh-panel:inset 0 0 0 1px #1D4A36, 0 22px 44px -20px rgba(0,0,0,.85); color-scheme:dark }
@@ -57,7 +57,7 @@
 .dark-panel{
   --surface:#133B2A; --soft:#1D4A36; --line:#1D4A36; --ink:#FFFFFF; --muted:#CFE8D8; --focus:#CDF25E;
   --cw:#8CC2F5; --cw-soft:#1D4A36; --w:#4ADE8B; --w-soft:#1D4A36; --lab:#C4A3F5; --lab-soft:#1D4A36;
-  --k:#CFE8D8; --k-soft:#1D4A36; --s:#E8F2EC; --s-soft:#1D4A36; --x:#CFE8D8; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
+  --k:#FF9F43; --k-soft:#1D4A36; --s:#FF7A70; --s-soft:#1D4A36; --x:#CFE8D8; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
   --red:#FF7A70; --red-soft:#1D4A36; --on-red:#0F1A14; --note:#FF9F43; --note-soft:#1D4A36; --acc:#4ADE8B; --on-acc:#0B2A18;
   background:var(--panel); color:var(--ink);
 }
@@ -170,7 +170,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .calbtn svg{width:20px;height:20px;flex:none;color:var(--acc)}
 .calbtn:hover{background:var(--acc);color:var(--on-acc)} .calbtn:hover svg{color:var(--on-acc)}
 
-/* Ustawienia zwijane na każdym ekranie: po wyborze zostaje jedna linia „Twój plan: … · Zmień” */
+/* Ustawienia zwijane na każdym ekranie: po wyborze zostaje jedna linia „Twój plan: … · Rozwiń” */
 .controls{padding:8px}
 .ctl-body{display:flex;flex-direction:column;gap:14px;padding:10px 12px 12px}
 .controls:not(.open) .ctl-body{display:none}
@@ -182,6 +182,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .ct-btn{flex:none;display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 16px;border-radius:999px;background:var(--panel);color:#FFFFFF;font-weight:700;font-size:14px}
 .ct-btn svg{width:18px;height:18px;transition:transform .2s var(--out)}
 .controls.open .ct-btn svg{transform:rotate(180deg)}
+.controls.open .ct-open,.controls:not(.open) .ct-close{display:none}
 .ctl-done{grid-column:1/-1;display:flex;justify-content:flex-end}
 .ctl-done button{min-height:44px;border:0;border-radius:999px;padding:0 20px;background:var(--acc);color:var(--on-acc);font:700 14px/1 var(--body);cursor:pointer}
 @media (min-width:1000px){ .ctl-body{display:grid;grid-template-columns:1fr 1fr;gap:12px 28px} .ctl-body>.ctl{align-items:center} .ctl-label{min-width:110px} }
@@ -376,7 +377,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
           <li data-i18n="h3"><b>Kalendarz:</b> plan z prawdziwymi datami. Przyciskami ze strzałkami przechodzisz między tygodniami, a „Ten tydzień” wraca do bieżącego. Dni wolne i przerwy są opisane w kartach dni.</li>
           <li data-i18n="h10"><b>Odwołane zajęcia:</b> plan czyta komunikaty dziekanatu. Odwołane zajęcia są przekreślone z napisem „Odwołane”, a odrabianie i zmiany sal pojawiają się jako dodatkowe zajęcia w odpowiednim dniu.</li>
           <li data-i18n="h4"><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
-          <li data-i18n="h5"><b>Motyw:</b> „Jasny” albo „Ciemny” ustawia kolory na stałe, a „Auto” dopasowuje je do ustawień telefonu.</li>
+          <li data-i18n="h5"><b>Motyw:</b> domyślnie jasny. „Ciemny” ustawia ciemne kolory, a „Auto” dopasowuje je do ustawień telefonu. Wybór zapamiętuje się w tej przeglądarce.</li>
           <li data-i18n="h6"><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
           <li class="bm-only" data-i18n="h7"><b>Skrzynka do opiekunki:</b> druga zakładka u góry. Napiszesz tam sprawę do opiekunki roku, podpisaną albo anonimowo. Starosta zbiera wiadomości i przekazuje je dalej, a odpowiedź pojawia się przy wiadomości. Szczegóły są w „Jak używać” w tamtej zakładce.</li>
           <li class="bm-only" data-i18n="h9"><b>Twój kalendarz:</b> przycisk „Dodaj plan do kalendarza w telefonie” dodaje zajęcia Twojej grupy do Kalendarza Google, Apple albo Outlooka. Kalendarz aktualizuje się sam, gdy zmieni się plan.</li>
@@ -398,7 +399,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
   <section class="hero dark-panel" id="dzis" aria-label="Dziś" data-i18n-attr="aria-label=aToday" aria-live="polite" hidden></section>
 
   <section class="controls" id="controls" aria-label="Ustawienia" data-i18n-attr="aria-label=aSettings">
-    <button type="button" class="ctl-toggle" id="ctlToggle" aria-expanded="false" aria-controls="ctlBody"><span class="ct-txt"><small data-i18n="ctlYour">Twój plan</small><b id="ctlSum"></b></span><span class="ct-btn"><span data-i18n="ctlChange">Zmień</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></span></button>
+    <button type="button" class="ctl-toggle" id="ctlToggle" aria-expanded="false" aria-controls="ctlBody"><span class="ct-txt"><small data-i18n="ctlYour">Twój plan</small><b id="ctlSum"></b></span><span class="ct-btn"><span class="ct-open" data-i18n="ctlOpen">Rozwiń</span><span class="ct-close" data-i18n="ctlClose">Zwiń</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></span></button>
     <div class="ctl-body" id="ctlBody">
     <div class="ctl" id="wydzRow" hidden>
       <label class="ctl-label" for="wydz" data-i18n="lWydz">Wydział</label>
@@ -491,7 +492,7 @@ const EN = {
   h3:"<b>Calendar:</b> the timetable with real dates. Use the arrow buttons to move between weeks; “This week” takes you back. Days off and breaks are noted on the day cards.",
   h10:"<b>Cancelled classes:</b> the timetable reads the dean's office notices. Cancelled classes are crossed out and marked “Cancelled”; make-up classes and room changes appear as extra classes on the right day.",
   h4:"<b>Odd / Even:</b> the fixed weekly layout without dates, e.g. for a screenshot.",
-  h5:"<b>Theme:</b> “Light” or “Dark” fixes the colours; “Auto” follows your phone or computer settings.",
+  h5:"<b>Theme:</b> light by default. “Dark” switches to dark colours; “Auto” follows your phone or computer settings. Your choice is saved in this browser.",
   h6:"<b>Labels:</b> LEC is a lecture, CLASS a tutorial class and LAB a laboratory. Today's card has a frame and a “today” tag.",
   h7:"<b>Year Tutor Mailbox:</b> the second tab at the top. Write a request to the year tutor, signed or anonymous. Your class representative collects the messages and passes them on, and the reply appears next to your message. Details are under “How to use” in that tab.",
   h9:"<b>Your calendar:</b> the “Add the timetable to your phone calendar” button adds your group's classes to Google, Apple or Outlook Calendar. It updates itself when the timetable changes.",
@@ -503,7 +504,7 @@ const EN = {
   aSubs:"Lab subgroup", subAll:"Both groups", subA:"Group A", subB:"Group B", lPg:"Your subgroups",
   aModes:"Week view", mCal:"Calendar", mOdd:"Odd week", mEven:"Even week",
   aThemes:"Colour theme", tAuto:"Same as your phone or computer settings",
-  ctlYour:"Your timetable", ctlChange:"Change", ctlDone:"Done", thLight:"Light", thDark:"Dark", learn:"Study on Zdawalni", learnT:"Summaries, flashcards and quizzes for every subject", aToday:"Today",
+  ctlYour:"Your timetable", ctlOpen:"Expand", ctlClose:"Collapse", ctlDone:"Done", thLight:"Light", thDark:"Dark", learn:"Study on Zdawalni", learnT:"Summaries, flashcards and quizzes for every subject", aToday:"Today",
   lg1:'<i class="chip W">LEC</i> lecture', lg2:'<i class="chip CW">CLASS</i> tutorial class', lg3:'<i class="chip LAB">LAB</i> laboratory',
   lg4:'<i class="chip K">CONV</i> conversation class', lg5:'<i class="chip S">SEM</i> seminar',
   foot1:'Rooms without an address are in the building at ul. Cukrowa 8. Data from the <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">WEFiZ timetable</a>, checked automatically every morning. Odd and even weeks follow the faculty schedule for the winter semester 2026/27.',
@@ -1175,7 +1176,7 @@ function applyTheme(t){
   document.querySelectorAll('meta[name="theme-color"]').forEach((m, i) => { m.content = t === "auto" ? (i ? "#0F1A14" : "#F4F5F0") : (t === "dark" ? "#0F1A14" : "#F4F5F0"); });
   document.querySelectorAll("#themes button").forEach(b => b.setAttribute("aria-pressed", b.dataset.themeOpt === t));
 }
-applyTheme(store.get("bm-theme"));   // Auto (jak telefon) albo zapamiętany jasny / ciemny
+applyTheme(store.get("bm-theme") || "light");   // domyślnie jasny; zapamiętany wybór (jasny / ciemny / auto) wygrywa
 document.querySelectorAll("#themes button").forEach(b => b.onclick = () => { store.set("bm-theme", b.dataset.themeOpt); applyTheme(b.dataset.themeOpt); });
 
 /* ---------- Auto-refresh: keep "today" and the current week correct while the page stays open ---------- */
@@ -1203,11 +1204,13 @@ setInterval(refresh, REFRESH_MS);
 document.addEventListener("visibilitychange", () => { if (!document.hidden) refresh(); });
 window.addEventListener("pageshow", refresh);
 
-/* Ustawienia (każdy ekran): zwinięte do jednej linii („Twój plan: … · Zmień”), żeby plan był od razu pod panelem „Dziś”.
-   Pierwsza wizyta (bez zapamiętanej grupy) – rozwinięte; „Gotowe” zwija i wraca do planu. */
+/* Ustawienia (każdy ekran): zwinięte do jednej linii („Twój plan: … · Rozwiń / Zwiń”), żeby plan był od razu pod panelem „Dziś”.
+   Pierwsza wizyta (nic jeszcze nie wybrano) – rozwinięte; „Gotowe” zwija i wraca do planu. */
 const ctlBox = document.getElementById("controls"), ctlT = document.getElementById("ctlToggle");
 const ctlSet = o => { ctlBox.classList.toggle("open", o); ctlT.setAttribute("aria-expanded", String(o)); };
-ctlSet(!store.get(groupKey()) && !ROUTE?.g);
+// zwinięte, jeśli ktoś już wcześniej wybrał kierunek, grupę albo podgrupę (albo przyszedł z linkiem do grupy)
+const maWybor = (() => { try { return Object.keys(localStorage).some(k => /^(bm-group|bm-sub|plan-rocznik|plan-group:|plan-sub:|plan-pg:)/.test(k)); } catch (e) { return false; } })();
+ctlSet(!maWybor && !ROUTE?.g);
 ctlT.onclick = () => ctlSet(!ctlBox.classList.contains("open"));
 document.getElementById("ctlDone").onclick = () => { ctlSet(false); ctlT.focus(); };
 const help = document.getElementById("help");

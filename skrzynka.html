@@ -10,7 +10,7 @@
 <title>Skrzynka do opiekunki</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Bricolage+Grotesque:opsz,wght@12..96,600&display=swap">
-<script>try{var t=localStorage.getItem("bm-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+<script>/* motyw: domyślnie jasny; „dark” = ciemny, „auto” = jak telefon */try{var t=localStorage.getItem("bm-theme");if(t!=="auto")document.documentElement.setAttribute("data-theme",t==="dark"?"dark":"light");}catch(e){document.documentElement.setAttribute("data-theme","light")}</script>
 <meta name="theme-color" content="#F4F5F0" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0F1A14" media="(prefers-color-scheme: dark)">
 <style>
