@@ -53,8 +53,8 @@
   --sh-panel:inset 0 0 0 1px #1D4A36, 0 22px 44px -20px rgba(0,0,0,.85); color-scheme:dark }
 @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) :is(.pill[aria-pressed="true"],.seg button[aria-pressed="true"]:not([data-mode="odd"]):not([data-mode="even"]),.tabs a[aria-current="page"]){background:#4ADE8B;color:#0F1A14;box-shadow:none} }
 :root[data-theme="dark"] :is(.pill[aria-pressed="true"],.seg button[aria-pressed="true"]:not([data-mode="odd"]):not([data-mode="even"]),.tabs a[aria-current="page"]){background:#4ADE8B;color:#0F1A14;box-shadow:none}
-/* Ciemny panel (dzisiejsza karta, „Dziś”): te same zmienne co ciemny motyw, tło #133B2A w obu motywach */
-.dark-panel,.day.is-today{
+/* Ciemny panel („Dziś”): te same zmienne co ciemny motyw, tło #133B2A w obu motywach */
+.dark-panel{
   --surface:#133B2A; --soft:#1D4A36; --line:#1D4A36; --ink:#FFFFFF; --muted:#CFE8D8; --focus:#CDF25E;
   --cw:#8CC2F5; --cw-soft:#1D4A36; --w:#4ADE8B; --w-soft:#1D4A36; --lab:#C4A3F5; --lab-soft:#1D4A36;
   --k:#CFE8D8; --k-soft:#1D4A36; --s:#E8F2EC; --s-soft:#1D4A36; --x:#CFE8D8; --x-soft:#1D4A36; --chip-ink:#0F1A14; --ks-ink:#0F1A14;
@@ -215,7 +215,9 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .day h2{margin:0;display:flex;justify-content:space-between;align-items:center;gap:8px;padding:16px 18px 10px;font-family:var(--display);font-weight:600;font-size:21px;letter-spacing:-.015em;line-height:1.15}
 .day h2 .dt{font:600 13.5px var(--body);color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
 .day h2 .now{display:inline-block;font:800 11.5px/1 var(--body);letter-spacing:.03em;text-transform:uppercase;color:var(--lime-ink);background:var(--lime);padding:5px 9px;border-radius:999px;margin-left:8px;vertical-align:3px}
-.day.is-today{box-shadow:var(--sh-panel)}
+/* Dzisiejszy dzień: zwykła karta z wyraźną obwódką w kolorze akcentu */
+.day.is-today{box-shadow:inset 0 0 0 3px var(--acc),var(--sh-up)}
+.day.is-today h2{color:var(--ink)}
 .daynote{font-size:13px;font-weight:600;background:var(--note-soft);color:var(--note);padding:8px 18px;margin:0 12px 8px;border-radius:14px}
 .list{display:flex;flex-direction:column;padding:0 8px 8px;gap:4px}
 .cls{display:grid;grid-template-columns:52px 1fr;gap:10px;padding:10px 10px 10px 10px;border-radius:18px;border-left:4px solid transparent;position:relative}
@@ -240,12 +242,12 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .cls.k-X{border-left-color:var(--x);--tint:var(--x)}
 /* Cień w kolorze typu: od paska w głąb kafelka (jak dawniej, w miękkiej wersji motywu H) */
 .cls[class*=" k-"]{background:linear-gradient(90deg,color-mix(in srgb,var(--tint) 16%,transparent),color-mix(in srgb,var(--tint) 4%,transparent) 55%,transparent 85%)}
-.day.is-today .cls[class*=" k-"]:not(.is-now):not(.is-next):not(.is-off):not(.is-add){background:linear-gradient(90deg,color-mix(in srgb,var(--tint) 22%,transparent),transparent 80%)}
 /* Teraz / następne w dzisiejszej karcie: limonkowa obwódka i etykieta */
-.cls.is-now{background:var(--soft);border-left-color:#CDF25E!important}
+.cls.is-now{background:var(--acc-soft);border-left-color:var(--acc)!important}
 .cls.is-next{background:var(--soft)}
 .flag{display:inline-flex;align-self:flex-start;align-items:center;gap:6px;background:var(--lime);color:var(--lime-ink);font:800 11.5px/1 var(--body);letter-spacing:.03em;text-transform:uppercase;padding:5px 9px;border-radius:999px;margin-bottom:2px}
 .flag.soft{background:transparent;color:var(--lime);box-shadow:inset 0 0 0 1.5px var(--lime)}
+.day .flag.soft{color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--acc)}
 .flag .dot{width:7px;height:7px;border-radius:50%;background:currentColor}
 /* Komunikaty dziekanatu: odwołane przekreślone z etykietą, odrabianie i zmiany sal oznaczone */
 .badge{display:inline-flex;align-items:center;gap:5px;font:800 11.5px/1 var(--body);padding:5px 9px;border-radius:999px;letter-spacing:.03em;text-transform:uppercase}
@@ -320,7 +322,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
   @media (hover:hover){
     .day{transition:transform .2s var(--out),box-shadow .2s var(--out)}
     .day:hover{transform:translateY(-3px);box-shadow:var(--sh-up)}
-    .day.is-today:hover{box-shadow:var(--sh-panel)}
+    .day.is-today:hover{box-shadow:inset 0 0 0 3px var(--acc),var(--sh-up)}
     .cta:hover{transform:translateY(-1px)} .cta:hover .arr{transform:translateX(3px)}
     .nav button:not(:disabled):hover,.langbtn:hover{transform:translateY(-2px);box-shadow:var(--sh-up)}
     .caldlg .opt:hover{transform:translateX(2px)}
