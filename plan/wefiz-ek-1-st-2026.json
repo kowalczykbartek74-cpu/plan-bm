@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
+ "updated": "16.11.2026 09:29",
  "changedAt": "2026-11-08T18:35:54.901Z",
- "checkedAt": "2026-11-15T14:27:51.174Z",
+ "checkedAt": "2026-11-16T13:28:22.533Z",
  "groups": {
   "M110": {
    "odd": [
@@ -355,6 +355,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-m110-12/",
+    "title": "Grupa M110",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Dnia 16.11.2026 r. zostają odwołane zajęcia z dr Anną Ścibior-Butrym Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/grupa-m110-11/",
     "title": "Grupa M110",
     "ym": "2026-10",
@@ -376,10 +383,10 @@
      "date": "2026-10-19",
      "start": "13:45",
      "pl": "Wstęp do zarządzania",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0,
-      1
+      1,
+      2
      ]
     },
     {
@@ -392,10 +399,20 @@
      "k": "W",
      "p": "dr Anna Ścibior-Butrym",
      "r": "N020",
-     "post": 0
+     "post": 1
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-16",
+     "start": "13:45",
+     "pl": "Wstęp do zarządzania",
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:02:39.168Z"
+  "updatedAt": "2026-11-16T13:43:25.391Z"
  }
 }

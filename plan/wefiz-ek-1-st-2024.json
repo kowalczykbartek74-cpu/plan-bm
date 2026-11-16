@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
+ "updated": "16.11.2026 09:29",
  "changedAt": "2026-11-08T20:19:58.962Z",
- "checkedAt": "2026-11-15T14:27:51.173Z",
+ "checkedAt": "2026-11-16T13:28:13.763Z",
  "groups": {
   "M310": {
    "odd": [
@@ -421,6 +421,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-m310-zmiana-sali-w-dniu-17-11/",
+    "title": "Grupa M310 zmiana sali w dniu 17.11",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "W związku z organizacją Dnia Ekonomisty w dniu 17.11.2026 zajęcia z Auli Nowej zostają przeniesione do sali S08"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-m310-4/",
     "title": "Grupa M310",
     "ym": "2026-11",
@@ -461,7 +468,7 @@
      "k": "W",
      "p": "dr Mateusz Czerwiński",
      "r": "N203 MBA",
-     "post": 3
+     "post": 4
     },
     {
      "type": "extra",
@@ -473,20 +480,25 @@
      "k": "X",
      "p": "dr Ewa Bilewicz",
      "r": "S03",
-     "post": 2
+     "post": 3
     },
     {
      "type": "note",
      "date": "2026-11-09",
-     "post": 0
+     "post": 1
     },
     {
      "type": "note",
      "date": "2026-11-10",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2026-11-17",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:02:37.000Z"
+  "updatedAt": "2026-11-16T13:43:21.929Z"
  }
 }

@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
- "changedAt": "2026-11-08T20:23:01.427Z",
- "checkedAt": "2026-11-15T14:27:51.189Z",
+ "updated": "16.11.2026 09:29",
+ "changedAt": "2026-11-16T13:31:04.340Z",
+ "checkedAt": "2026-11-16T13:31:04.340Z",
  "groups": {
   "C231": {
    "odd": [
@@ -167,9 +167,10 @@
      "k": "X",
      "r": "sala 034 dr Joanna Drbioazgiewicz",
      "dates": [
+      "2026-12-02",
       "2026-12-16"
      ],
-     "n": "Jednorazowo: 16.12.2026"
+     "n": "Tylko: 2.12, 16.12"
     },
     {
      "d": 0,
@@ -484,6 +485,20 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c231-37/",
+    "title": "GRUPA C231",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Dnia 18.11.2026 r. zostają odwołane zajęcia z dr Joanną Drobiazgiewicz. Termin odrobienia zajęć to 2.12.2026 godz. 15.30 sala 034."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c231-36/",
+    "title": "GRUPA C231",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Dnia 18.11.2026 zostają odwołane zajęcia z dr inż. Magdaleną Malinowską. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c231-35/",
     "title": "GRUPA C231",
     "ym": "2026-11",
@@ -505,6 +520,16 @@
      "date": "2026-10-21",
      "start": "13:45",
      "pl": "Zarządzanie jakością w logistyce",
+     "post": 3,
+     "posts": [
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "10:00",
+     "pl": "Gospodarka magazynowa",
      "post": 1,
      "posts": [
       1
@@ -516,6 +541,16 @@
      "start": "12:00",
      "pl": "Gospodarka magazynowa",
      "guess": true,
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "13:45",
+     "pl": "Zarządzanie jakością w logistyce",
      "post": 0,
      "posts": [
       0
@@ -531,7 +566,20 @@
      "k": "W",
      "p": "dr Joanna Drobiazgiewicz",
      "r": "s. 307",
-     "post": 1,
+     "post": 3,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-02",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Zarządzanie jakością w logistyce",
+     "k": "W",
+     "p": "dr Joanna Drobiazgiewicz",
+     "r": "s. 034",
+     "post": 0,
      "dup": true
     },
     {
@@ -544,11 +592,11 @@
      "k": "W",
      "p": "dr Joanna Drobiazgiewicz",
      "r": "s. 034",
-     "post": 1,
+     "post": 3,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-13T13:13:25.989Z"
+  "updatedAt": "2026-11-16T13:44:45.551Z"
  }
 }

@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
- "changedAt": "2026-11-08T20:19:23.587Z",
- "checkedAt": "2026-11-15T14:27:51.167Z",
+ "updated": "16.11.2026 09:29",
+ "changedAt": "2026-11-16T13:27:35.276Z",
+ "checkedAt": "2026-11-16T13:27:35.276Z",
  "groups": {
   "C311": {
    "odd": [
@@ -175,6 +175,17 @@
      "p": "mgr inż. Justyna Szydłowska-Samsel",
      "r": "s. SIL 116 (lab)",
      "tag": "BLOK B1"
+    },
+    {
+     "d": 0,
+     "s": 5,
+     "pl": "Odrabianie seminarium dyplomowgo",
+     "k": "X",
+     "r": "gab. 405 prof. Jarosław Korpysa",
+     "dates": [
+      "2026-11-30"
+     ],
+     "n": "Jednorazowo: 30.11.2026"
     },
     {
      "d": 3,
@@ -487,58 +498,58 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/c311/",
+    "title": "C311",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Dnia 17.11.2026 zostaje odwołane seminarium dyplomowe z dr hab. prof. US Jarosławem Korpysa . Termin odrobienia zajęć: 30.11.2026 godz. 17:00 gab. 405"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c311-20/",
     "title": "GRUPA C311B",
     "ym": "2026-10",
     "pub": "2026-10-14",
     "text": "Dnia 21.10.2026 zostają odwołane zajęcia z mgr inż. Justyną Szydłowska-Samsel Termin odrobienia zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c311-19/",
-    "title": "GRUPA C311",
-    "ym": "2026-10",
-    "pub": "2026-10-02",
-    "text": "Dnia 06.10.2026 zostaje odwołane seminarium dyplomowe z dr hab. prof. US Jarosławem Korpysa Termin odrobienia: 13.10.2026 godz. 15:30 gab. 405"
    }
   ],
   "zmiany": {
    "C311": [
     {
      "type": "cancel",
-     "date": "2026-10-06",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
+     "date": "2026-10-21",
+     "start": "13:45",
+     "pl": "Uczenie maszynowe w aplikacjach biznesowych",
+     "g": "B",
      "post": 1,
      "posts": [
       1
      ]
     },
     {
+     "type": "cancel",
+     "date": "2026-11-17",
+     "start": "8:15",
+     "pl": "Seminarium dyplomowe",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
      "type": "extra",
      "kind": "makeup",
-     "date": "2026-10-13",
-     "start": "15:30",
-     "end": "17:00",
+     "date": "2026-11-30",
+     "start": "17:00",
+     "end": "18:30",
      "pl": "Seminarium dyplomowe",
      "en": "Diploma Seminar",
      "k": "S",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 405",
-     "post": 1
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-21",
-     "start": "13:45",
-     "pl": "Uczenie maszynowe w aplikacjach biznesowych",
-     "g": "B",
-     "post": 0,
-     "posts": [
-      0
-     ]
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:37:25.381Z"
+  "updatedAt": "2026-11-16T13:42:53.398Z"
  }
 }

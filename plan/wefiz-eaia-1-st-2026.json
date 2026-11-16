@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
+ "updated": "16.11.2026 09:29",
  "changedAt": "2026-11-08T20:54:21.350Z",
- "checkedAt": "2026-11-15T14:27:51.172Z",
+ "checkedAt": "2026-11-16T13:28:09.351Z",
  "groups": {
   "M190": {
    "odd": [
@@ -439,10 +439,24 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-m190-zmiana-sali-w-dniu-17-11/",
+    "title": "Grupa M190 – zmiana sali w dniu 17.11",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "W związku z organizacją Dnia Ekonomisty w dniu 17.11.2026 zajęcia z Auli Nowej zostają przeniesione jednorazowo do sali S0105"
+   }
+  ],
   "zmiany": {
-   "M190": []
+   "M190": [
+    {
+     "type": "note",
+     "date": "2026-11-17",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T18:37:59.025Z"
+  "updatedAt": "2026-11-16T13:43:16.595Z"
  }
 }

@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
- "changedAt": "2026-11-08T20:19:30.441Z",
- "checkedAt": "2026-11-15T14:27:51.168Z",
+ "updated": "16.11.2026 09:29",
+ "changedAt": "2026-11-16T13:27:41.079Z",
+ "checkedAt": "2026-11-16T13:27:41.079Z",
  "groups": {
   "C211": {
    "odd": [
@@ -433,6 +433,18 @@
      "r": "Sala Sportowa"
     },
     {
+     "d": 1,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 010 sala 507 dr Katarzyna Łobacz",
+     "dates": [
+      "2026-11-24",
+      "2026-12-08"
+     ],
+     "n": "Tylko: 24.11, 8.12"
+    },
+    {
      "d": 3,
      "s": 4,
      "pl": "Odrabianie zajęć",
@@ -648,11 +660,12 @@
      "s": 4,
      "pl": "Odrabianie zajęć:",
      "k": "X",
-     "r": "sala SIL 325 dr Anna Borawska",
+     "r": "sala SIL 325 dr Anna Borawska Odrabianie zajęć sala 507 dr Katarzyna Łobacz",
      "dates": [
-      "2026-11-17"
+      "2026-11-17",
+      "2026-12-15"
      ],
-     "n": "Jednorazowo: 17.11.2026"
+     "n": "Tylko: 17.11, 15.12"
     },
     {
      "d": 2,
@@ -1018,6 +1031,20 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c212-5/",
+    "title": "GRUPA C212",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Zajęcia z dr Katarzyną Łobacz w dniu 1.12.2026 z przedmiotu Innovative Business Models nie odbędą się. Zostaną odrobione w dniu 15.12.2026 o godz. 15.30 sala 507"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c211-41/",
+    "title": "GRUPA C211",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Zajęcia z dr Katarzyną Łobacz w dniu 24.11 z przedmiotu Innovative Business Models odbędą się o godz. 15.30 w sali 010. Zajęcia z dr Katarzyną Łobacz w dniu 1.12.2026 z przedmiotu Innovative Business Models nie odbędą się. Zostaną odrobione w dniu 8.12.2026 o godz. 15.30 sala 507"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c211-c212-13/",
     "title": "GRUPA C211, C212",
     "ym": "2026-11",
@@ -1088,9 +1115,9 @@
      "date": "2026-10-02",
      "start": "10:00",
      "pl": "Statystyka opisowa",
-     "post": 5,
+     "post": 7,
      "posts": [
-      5
+      7
      ]
     },
     {
@@ -1098,11 +1125,11 @@
      "date": "2026-10-07",
      "start": "8:15",
      "pl": "Modelowanie procesów biznesowych",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0,
-      3,
-      8
+      2,
+      5,
+      10
      ]
     },
     {
@@ -1111,9 +1138,9 @@
      "start": "12:00",
      "pl": "Modelowanie procesów biznesowych",
      "g": "A",
-     "post": 3,
+     "post": 5,
      "posts": [
-      3
+      5
      ]
     },
     {
@@ -1122,9 +1149,9 @@
      "start": "13:45",
      "pl": "Modelowanie procesów biznesowych",
      "g": "B",
-     "post": 3,
+     "post": 5,
      "posts": [
-      3
+      5
      ]
     },
     {
@@ -1133,9 +1160,9 @@
      "start": "8:15",
      "pl": "Statystyka opisowa",
      "g": "A",
-     "post": 7,
+     "post": 9,
      "posts": [
-      7
+      9
      ]
     },
     {
@@ -1149,7 +1176,7 @@
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. 002",
-     "post": 5,
+     "post": 7,
      "dup": true
     },
     {
@@ -1163,7 +1190,7 @@
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. 002",
-     "post": 5,
+     "post": 7,
      "dup": true
     },
     {
@@ -1171,9 +1198,9 @@
      "date": "2026-11-03",
      "start": "13:45",
      "pl": "Projektowanie produktów i usług",
-     "post": 2,
+     "post": 4,
      "posts": [
-      2
+      4
      ]
     },
     {
@@ -1187,16 +1214,16 @@
      "k": "X",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL325",
-     "post": 3
+     "post": 5
     },
     {
      "type": "cancel",
      "date": "2026-11-13",
      "start": "8:15",
      "pl": "Podstawy rachunkowości",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -1210,7 +1237,7 @@
      "k": "W",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL 325",
-     "post": 0,
+     "post": 2,
      "dup": true
     },
     {
@@ -1224,6 +1251,20 @@
      "k": "W",
      "p": "dr Ilona Kędzierska-Bujak",
      "r": "s. 003 „Fundamentals of",
+     "post": 3,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Innowacyjne modele biznesowe",
+     "en": "Innovative Business Models",
+     "k": "K",
+     "p": "dr Katarzyna Łobacz",
+     "r": "s. 507",
      "post": 1,
      "dup": true
     },
@@ -1232,9 +1273,9 @@
      "date": "2026-12-11",
      "start": "10:00",
      "pl": "Statystyka opisowa",
-     "post": 5,
+     "post": 7,
      "posts": [
-      5
+      7
      ]
     }
    ],
@@ -1244,10 +1285,10 @@
      "date": "2026-10-02",
      "start": "10:00",
      "pl": "Statystyka opisowa",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4,
-      5
+      6,
+      7
      ]
     },
     {
@@ -1255,10 +1296,10 @@
      "date": "2026-10-02",
      "start": "12:00",
      "pl": "Statystyka opisowa",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4,
-      5
+      6,
+      7
      ]
     },
     {
@@ -1266,11 +1307,11 @@
      "date": "2026-10-07",
      "start": "8:15",
      "pl": "Modelowanie procesów biznesowych",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0,
-      3,
-      8
+      2,
+      5,
+      10
      ]
     },
     {
@@ -1278,9 +1319,9 @@
      "date": "2026-10-07",
      "start": "15:30",
      "pl": "Modelowanie procesów biznesowych",
-     "post": 3,
+     "post": 5,
      "posts": [
-      3
+      5
      ]
     },
     {
@@ -1294,7 +1335,7 @@
      "k": "X",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. 002",
-     "post": 5,
+     "post": 7,
      "dup": true
     },
     {
@@ -1308,7 +1349,7 @@
      "k": "X",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. 002",
-     "post": 5,
+     "post": 7,
      "dup": true
     },
     {
@@ -1316,9 +1357,9 @@
      "date": "2026-11-03",
      "start": "13:45",
      "pl": "Projektowanie produktów i usług",
-     "post": 2,
+     "post": 4,
      "posts": [
-      2
+      4
      ]
     },
     {
@@ -1332,7 +1373,7 @@
      "k": "X",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL325",
-     "post": 3
+     "post": 5
     },
     {
      "type": "extra",
@@ -1345,7 +1386,7 @@
      "k": "X",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. SIL 145/146",
-     "post": 4,
+     "post": 6,
      "dup": true
     },
     {
@@ -1359,7 +1400,7 @@
      "k": "X",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. SIL 145/146",
-     "post": 4,
+     "post": 6,
      "dup": true
     },
     {
@@ -1367,9 +1408,9 @@
      "date": "2026-11-13",
      "start": "8:15",
      "pl": "Podstawy rachunkowości",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -1383,7 +1424,7 @@
      "k": "W",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL 325",
-     "post": 0,
+     "post": 2,
      "dup": true
     },
     {
@@ -1397,7 +1438,7 @@
      "k": "W",
      "p": "dr Ilona Kędzierska-Bujak",
      "r": "s. 003 „Fundamentals of",
-     "post": 1,
+     "post": 3,
      "dup": true
     },
     {
@@ -1405,10 +1446,10 @@
      "date": "2026-12-11",
      "start": "10:00",
      "pl": "Statystyka opisowa",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4,
-      5
+      6,
+      7
      ]
     },
     {
@@ -1416,14 +1457,28 @@
      "date": "2026-12-11",
      "start": "12:00",
      "pl": "Statystyka opisowa",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4,
-      5
+      6,
+      7
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-15",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Innowacyjne modele biznesowe",
+     "en": "Innovative Business Models",
+     "k": "K",
+     "p": "dr Katarzyna Łobacz",
+     "r": "s. 507",
+     "post": 0,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-10T13:29:36.797Z"
+  "updatedAt": "2026-11-16T13:43:05.490Z"
  }
 }

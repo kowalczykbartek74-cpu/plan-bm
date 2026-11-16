@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-15T14:36:11.458Z",
+ "checkedAt": "2026-11-16T13:41:26.735Z",
  "groups": {
   "OPTYKA1": {
    "odd": [
@@ -575,10 +575,29 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/optyka-okularowa-i-st-1-rok-odwolane-zajecia-z-dr-anna-bucior-kwaczynska/",
+    "title": "Optyka okularowa I st. 1 rok – odwołane zajęcia z dr Anną Bucior-Kwaczyńską",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "W środę 18.11.2026 r. odwołane zostają zajęcia elementy chemii [konwersatorium] z dr Anną Bucior-Kwaczyńską. Termin odrobienia zajęć zostanie ustalony na kolejnym spotkaniu."
+   }
+  ],
   "zmiany": {
-   "OPTYKA1": []
+   "OPTYKA1": [
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "08:15",
+     "pl": "Elementy chemii",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T23:32:06.329Z"
+  "updatedAt": "2026-11-16T13:46:41.307Z"
  }
 }

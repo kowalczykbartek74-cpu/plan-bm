@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-15T14:35:31.964Z",
+ "checkedAt": "2026-11-16T13:40:40.628Z",
  "groups": {
   "PSYCH1": {
    "odd": [
@@ -1409,6 +1409,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-realizacji-zajec-z-drem-tomaszem-szubartem/",
+    "title": "Zmiana terminu realizacji zajęć z drem Tomaszem Szubartem",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-12-21 10:00 2027-01-25 10:00 152 PSYC-SJM.26-11,PSYC-SJM.26-12,PSYC-SJM.26-13,PSYC-SJM.26-14 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 1 filozofia z elementami logiki ćwiczenia Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, w związku z wyjazdem naukowym jestem zmuszony przełożyć zajęcia 21.12, które odrobimy 25.01. Pozdrawiam Tomasz Szubart Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-12-21 11:45 2027-01-25 11:45 152 PSYC-SJM.26-11,PSYC-SJM.26-12,PSYC-SJM.26-13,PSYC-SJM.26-14 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 1 filozofia z elementami logiki ćwiczenia Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, w związku z wyjazdem naukowym jestem zmuszony przełożyć zajęcia 21.12, które odrobimy 25.01. Pozdrawiam Tomasz Szubart Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-12-21 13:30 2027-01-25 13:30 152 PSYC-SJM.26-11,PSYC-SJM.26-12,PSYC-SJM.26-13,PSYC-SJM.26-14 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 1 filozofia z elementami logiki ćwiczenia Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, w związku z wyjazdem naukowym jestem zmuszony przełożyć zajęcia 21.12, które odrobimy 25.01. Pozdrawiam Tomasz Szubart p. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 4 2026-12-21 15:15 2027-01-25 15:15 152 PSYC-SJM.26-11,PSYC-SJM.26-12,PSYC-SJM.26-13,PSYC-SJM.26-14 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 1 filozofia z elementami logiki ćwiczenia Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, w związku z wyjazdem naukowym jestem zmuszony przełożyć zajęcia 21.12, które odrobimy 25.01. Pozdrawiam Tomasz Szubart"
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-terminu-realizacji-zajec-z-mgr-anna-lipinska-za-dzien19-x/",
     "title": "Zmiana terminu realizacji zajęć z mgr Anna Lipińską (za dzień19 X )",
     "ym": "2026-10",
@@ -1435,11 +1442,91 @@
     {
      "type": "note",
      "date": "2026-10-19",
-     "post": 0,
+     "post": 1,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-21",
+     "start": "10:00",
+     "pl": "Filozofia z elementami logiki",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-21",
+     "start": "11:45",
+     "pl": "Filozofia z elementami logiki",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-21",
+     "start": "13:30",
+     "pl": "Filozofia z elementami logiki",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-21",
+     "start": "15:15",
+     "pl": "Filozofia z elementami logiki",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-25",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Filozofia z elementami logiki",
+     "k": "CW",
+     "p": "dr T. Szubart",
+     "r": "s. 152",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-25",
+     "start": "11:45",
+     "end": "13:15",
+     "pl": "Filozofia z elementami logiki",
+     "k": "CW",
+     "p": "dr T. Szubart",
+     "r": "s. 152",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-25",
+     "start": "13:30",
+     "end": "15:00",
+     "pl": "Filozofia z elementami logiki",
+     "k": "CW",
+     "p": "dr T. Szubart",
+     "r": "s. 152",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:31:06.881Z"
+  "updatedAt": "2026-11-16T13:46:33.699Z"
  }
 }

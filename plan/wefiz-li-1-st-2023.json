@@ -8,9 +8,9 @@
  "rok": 4,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
+ "updated": "16.11.2026 09:29",
  "changedAt": "2026-11-08T20:22:39.456Z",
- "checkedAt": "2026-11-15T14:27:51.187Z",
+ "checkedAt": "2026-11-16T13:30:41.237Z",
  "groups": {
   "C461": {
    "odd": [
@@ -336,27 +336,10 @@
     "ym": "2026-10",
     "pub": "2026-10-27",
     "text": "Dnia 28.10.2026 zostają odwołane zajęcia z dr Sylwią Kowalską. Termin odrobienia zajęć: 16.12.2026 o godz. 15:30, sala 104."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c461-15/",
-    "title": "GRUPA C461",
-    "ym": "2026-10",
-    "pub": "2026-10-02",
-    "text": "Dnia 14.10.2026 zostają odwołane zajęcia z prof. Beatą Sadowską. Termin odrobienia zajęć: 16.12.2026 godz. 13:45 sala 104"
    }
   ],
   "zmiany": {
    "C461": [
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "10:00",
-     "pl": "Rachunek kosztów dla inżynierów",
-     "post": 2,
-     "posts": [
-      2
-     ]
-    },
     {
      "type": "cancel",
      "date": "2026-10-28",
@@ -391,19 +374,6 @@
      "type": "extra",
      "kind": "makeup",
      "date": "2026-12-16",
-     "start": "13:45",
-     "end": "15:15",
-     "pl": "Rachunek kosztów dla inżynierów",
-     "k": "W",
-     "p": "dr hab. prof. US Beata Sadowska",
-     "r": "s. 104",
-     "post": 2,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-12-16",
      "start": "15:30",
      "end": "17:00",
      "pl": "Zarządzanie mobilnością",
@@ -415,6 +385,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:20.045Z"
+  "updatedAt": "2026-11-16T13:44:36.797Z"
  }
 }

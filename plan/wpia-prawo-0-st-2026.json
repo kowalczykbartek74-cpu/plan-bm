@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-15T14:36:27.400Z",
+ "checkedAt": "2026-11-16T13:41:46.348Z",
  "groups": {
   "PRAWO1": {
    "odd": [
@@ -3747,6 +3747,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-i-gr-10-odwolanie-warsztatu-z-przedmiotu-organizacja-czasu-i-efektywna-nauka-w-dniu-16-11-2026-r/",
+    "title": "SSP I (gr.10) – odwołanie warsztatu z przedmiotu Organizacja czasu i efektywna nauka w dniu 16.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Informujemy, że warsztat z przedmiotu Organizacja czasu i efektywna nauka (gr. 10) z w dniu 16.11.2026 r. nie odbędzie się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-i-gr-1-odrobienie-cwiczen-z-przedmiotu-wstep-do-prawoznawstwa-ktore-nie-odbyly-sie-w-dniach-14-10-2026-r/",
     "title": "SSP I (gr. 1) – odrobienie ćwiczeń z przedmiotu Wstęp do prawoznawstwa, które nie odbyły się w dniach 14.10.2026 r.",
     "ym": "2026-11",
@@ -3864,23 +3871,73 @@
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 14,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-12",
      "post": 15,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-10-12",
+     "post": 16,
+     "niska": true
+    },
+    {
+     "type": "note",
      "date": "2026-10-13",
-     "post": 10
+     "post": 11
     },
     {
      "type": "cancel",
      "date": "2026-10-13",
+     "start": "08:15",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 14,
+     "posts": [
+      14
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "10:00",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 14,
+     "posts": [
+      14
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "11:45",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 14,
+     "posts": [
+      14
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "13:30",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 14,
+     "posts": [
+      14
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "15:15",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 14,
+     "posts": [
+      14
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
      "start": "08:15",
      "pl": "Wstęp do prawoznawstwa",
      "post": 13,
@@ -3890,7 +3947,7 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "start": "10:00",
      "pl": "Wstęp do prawoznawstwa",
      "post": 13,
@@ -3900,7 +3957,7 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "start": "11:45",
      "pl": "Wstęp do prawoznawstwa",
      "post": 13,
@@ -3910,7 +3967,7 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "start": "13:30",
      "pl": "Wstęp do prawoznawstwa",
      "post": 13,
@@ -3920,73 +3977,23 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "start": "15:15",
      "pl": "Wstęp do prawoznawstwa",
      "post": 13,
      "posts": [
       13
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "08:15",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 12,
-     "posts": [
-      12
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "10:00",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 12,
-     "posts": [
-      12
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "11:45",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 12,
-     "posts": [
-      12
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "13:30",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 12,
-     "posts": [
-      12
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "15:15",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 12,
-     "posts": [
-      12
      ]
     },
     {
      "type": "note",
      "date": "2026-10-22",
-     "post": 7
+     "post": 8
     },
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 9,
+     "post": 10,
      "niska": true
     },
     {
@@ -3999,16 +4006,16 @@
      "k": "X",
      "p": "dr B. Kanarek, prof. US",
      "r": "s. 222",
-     "post": 6
+     "post": 7
     },
     {
      "type": "cancel",
      "date": "2026-10-29",
      "start": "10:00",
      "pl": "Prawo konstytucyjne - zasady i źródła prawa",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -4016,9 +4023,9 @@
      "date": "2026-10-29",
      "start": "13:30",
      "pl": "Prawo konstytucyjne - zasady i źródła prawa",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -4026,9 +4033,9 @@
      "date": "2026-10-29",
      "start": "15:15",
      "pl": "Prawo konstytucyjne - zasady i źródła prawa",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -4041,17 +4048,17 @@
      "k": "X",
      "p": "dr B. Kanarek, prof. US",
      "r": "s. 104 al",
-     "post": 6
+     "post": 7
     },
     {
      "type": "cancel",
      "date": "2026-11-05",
      "start": "10:00",
      "pl": "Wstęp do prawoznawstwa",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4,
-      8
+      5,
+      9
      ]
     },
     {
@@ -4064,7 +4071,17 @@
      "k": "X",
      "p": "dr B. Kanarek, prof. US",
      "r": "s. 121",
-     "post": 0
+     "post": 1
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-16",
+     "start": "08:15",
+     "pl": "Organizacja czasu i efektywna nauka",
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "extra",
@@ -4076,7 +4093,7 @@
      "k": "CW",
      "p": "mgr B. Boryca",
      "r": "s. 118 al",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -4088,7 +4105,7 @@
      "k": "CW",
      "p": "mgr B. Boryca",
      "r": "s. 118 al",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -4100,10 +4117,10 @@
      "k": "CW",
      "p": "mgr B. Boryca",
      "r": "s. 118 al",
-     "post": 1
+     "post": 2
     }
    ]
   },
-  "updatedAt": "2026-11-12T13:55:23.431Z"
+  "updatedAt": "2026-11-16T13:46:41.510Z"
  }
 }

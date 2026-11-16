@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
+ "updated": "16.11.2026 09:29",
  "changedAt": "2026-11-08T00:54:45.527Z",
- "checkedAt": "2026-11-15T14:27:51.197Z",
+ "checkedAt": "2026-11-16T13:32:30.638Z",
  "groups": {
   "C151": {
    "odd": [
@@ -932,20 +932,6 @@
     "ym": "2026-10",
     "pub": "2026-10-07",
     "text": "Dnia 09.10.2026 zostają odwołane zajęcia z mgr Krzysztofem Heberlein. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c152-c153/",
-    "title": "GRUPA C152, C153",
-    "ym": "2026-10",
-    "pub": "2026-10-02",
-    "text": "Dnia 07.10.2026 zostają odwołane zajęcia z mgr Mariuszem Toczkiem. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c151-c152-c153-6/",
-    "title": "GRUPA C151, C152, C153",
-    "ym": "2026-10",
-    "pub": "2026-10-02",
-    "text": "Dnia 06.10.2026 zostają odwołane zajęcia z dr hab. Moniką Różycką. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -957,8 +943,7 @@
      "pl": "Nauka o przedsiębiorstwie",
      "post": 2,
      "posts": [
-      2,
-      5
+      2
      ]
     },
     {
@@ -1064,18 +1049,7 @@
      "pl": "Nauka o przedsiębiorstwie",
      "post": 2,
      "posts": [
-      2,
-      5
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-07",
-     "start": "12:00",
-     "pl": "Podstawy prawa",
-     "post": 4,
-     "posts": [
-      4
+      2
      ]
     },
     {
@@ -1181,18 +1155,7 @@
      "pl": "Nauka o przedsiębiorstwie",
      "post": 2,
      "posts": [
-      2,
-      5
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-07",
-     "start": "10:00",
-     "pl": "Podstawy prawa",
-     "post": 4,
-     "posts": [
-      4
+      2
      ]
     },
     {
@@ -1233,6 +1196,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T13:44:37.048Z"
+  "updatedAt": "2026-11-16T13:45:44.069Z"
  }
 }

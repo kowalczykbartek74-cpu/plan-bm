@@ -1,6 +1,6 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "o4.html 2026-11-13 08:31:59",
+ "wersja": "o4.html 2026-11-16 13:40:14",
  "kierunek": "Wychowanie fizyczne",
  "kierunekEn": "Physical Education",
  "id": "wkfiz-wf-1-nst-2024",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:35:12.415Z",
- "checkedAt": "2026-11-15T14:35:23.553Z",
+ "changedAt": "2026-11-16T13:40:32.412Z",
+ "checkedAt": "2026-11-16T13:40:32.412Z",
  "groups": {
   "WF3": {
    "odd": [
@@ -157,20 +157,6 @@
     {
      "d": 5,
      "time": [
-      "10:00",
-      "11:30"
-     ],
-     "pl": "Teoria sportu",
-     "k": "W",
-     "p": "dr Marek Kolbowicz",
-     "r": "s. 201",
-     "dates": [
-      "2026-11-21"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
       "11:45",
       "13:15"
      ],
@@ -180,20 +166,6 @@
      "r": "s. 201",
      "dates": [
       "2027-01-16"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "11:45",
-      "13:15"
-     ],
-     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
-     "k": "W",
-     "p": "dr Lila Pławińska-Kopeć",
-     "r": "s. 201",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -495,6 +467,20 @@
       "08:15",
       "09:45"
      ],
+     "pl": "Teoria sportu",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 201",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
      "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
@@ -740,6 +726,20 @@
      "r": "s. 120",
      "dates": [
       "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 201",
+     "dates": [
+      "2026-11-22"
      ]
     },
     {
@@ -913,20 +913,6 @@
     {
      "d": 5,
      "time": [
-      "10:00",
-      "11:30"
-     ],
-     "pl": "Teoria sportu",
-     "k": "W",
-     "p": "dr Marek Kolbowicz",
-     "r": "s. 201",
-     "dates": [
-      "2026-11-21"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
       "11:45",
       "13:15"
      ],
@@ -936,20 +922,6 @@
      "r": "s. 201",
      "dates": [
       "2027-01-16"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "11:45",
-      "13:15"
-     ],
-     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
-     "k": "W",
-     "p": "dr Lila Pławińska-Kopeć",
-     "r": "s. 201",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -1251,6 +1223,20 @@
       "08:15",
       "09:45"
      ],
+     "pl": "Teoria sportu",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 201",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
      "pl": "Trener personalny",
      "k": "CW",
      "p": "dr Marek Kolbowicz",
@@ -1496,6 +1482,20 @@
      "r": "s. 120",
      "dates": [
       "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 201",
+     "dates": [
+      "2026-11-22"
      ]
     },
     {

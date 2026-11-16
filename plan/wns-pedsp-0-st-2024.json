@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-15T14:35:31.964Z",
+ "checkedAt": "2026-11-16T13:40:40.628Z",
  "groups": {
   "PEDSP3": {
    "odd": [
@@ -739,6 +739,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/odwolane-zajecia-z-dr-joanna-bulawa-halasz-9/",
+    "title": "Odwołane zajęcia z dr Joanną Buławą-Halasz",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Dnia 16 listopada (poniedziałek) zajęcia z dr Joanną Buławą-Halasz nie odbędą się. Zostaną odpracowane w innym terminie."
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zajecia-z-dr-joanna-bulawa-halasz-odwolane-4/",
     "title": "Zajęcia z dr Joanną Buławą-Halasz odwołane",
     "ym": "2026-11",
@@ -747,8 +754,15 @@
    }
   ],
   "zmiany": {
-   "PEDSP3": []
+   "PEDSP3": [
+    {
+     "type": "note",
+     "date": "2026-11-16",
+     "post": 0,
+     "niska": true
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T23:31:06.657Z"
+  "updatedAt": "2026-11-16T13:46:33.478Z"
  }
 }

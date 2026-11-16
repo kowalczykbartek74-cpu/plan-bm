@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
+ "updated": "16.11.2026 09:29",
  "changedAt": "2026-11-08T20:21:52.635Z",
- "checkedAt": "2026-11-15T14:27:51.182Z",
+ "checkedAt": "2026-11-16T13:29:50.598Z",
  "groups": {
   "C371": {
    "odd": [
@@ -485,29 +485,10 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
-  "posts": [
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c371-9/",
-    "title": "GRUPA C371",
-    "ym": "2026-10",
-    "pub": "2026-10-02",
-    "text": "Dnia 08.10.2026 zostają odwołane zajęcia z dr Katarzyną Kwiatkowską Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
-   }
-  ],
+  "posts": [],
   "zmiany": {
-   "C371": [
-    {
-     "type": "cancel",
-     "date": "2026-10-08",
-     "start": "10:00",
-     "pl": "Podstawy finansów",
-     "post": 0,
-     "posts": [
-      0
-     ]
-    }
-   ]
+   "C371": []
   },
-  "updatedAt": "2026-11-08T20:37:45.370Z"
+  "updatedAt": "2026-11-16T13:43:38.633Z"
  }
 }

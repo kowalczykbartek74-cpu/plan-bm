@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-15T14:35:31.964Z",
+ "checkedAt": "2026-11-16T13:40:40.628Z",
  "groups": {
   "PSYCH3": {
    "odd": [
@@ -839,6 +839,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-realizacji-zajec-z-dr-wojciechem-rodzeniem/",
+    "title": "Zmiana terminu realizacji zajęć z dr. Wojciechem Rodzeniem",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-12-16 8:15 2026-11-13 10:00 071 PSYC-SJM.24-32 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 3 psychologia społeczna ćwiczenia Proponowana treść ogłoszenia dla studentów: Ćwiczenia z psychologii społecznej w dniu 16.12 zostają odwołane i przełożone na dzień 13.11 w godz. 10:00-11:30 (sala 108) Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-12-23 8:15 2026-11-13 11:45 071 PSYC-SJM.24-32 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 3 psychologia społeczna ćwiczenia Proponowana treść ogłoszenia dla studentów: Ćwiczenia z psychologii społecznej w dniu 23.12 zostają odwołane i przełożone na dzień 13.11 w godz. 11:45-13:15 (sala 108) p. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 4 2026-12-23 10:00 2026-12-09 11:45 010 PSYC-SJM.25-23,PSYC-SJM.25-24 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 2 metodologia badań psychologicznych i statystyka ćwiczenia Proponowana treść ogłoszenia dla studentów: Ćwiczenia z metodologii badań psychologicznych i statystyki w dniu 23.12 zostają odwołane i przełożone na dzień 9.12 w godz. 11:45-13:15 (sala 22H) Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 5 2026-12-23 13:30 2027-01-28 13:30 21H PSYC-SJM.22-5-PW1.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 5 psychologia internetu ćwiczenia Proponowana treść ogłoszenia dla studentów: Zajęcia z psychologii internetu w dniu 17.12 zostają odwołane i przełożone na dzień 28.01 w godz. 13:30-15:00 (sala 22H)"
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odpracowanie-zajec-z-dr-magdalena-kerestey-kier-psychologia-3-rok/",
     "title": "Odpracowanie zajęć z dr Magdaleną Kerestey, kier. psychologia, 3 rok",
     "ym": "2026-10",
@@ -886,13 +893,7 @@
     {
      "type": "note",
      "date": "2026-10-06",
-     "post": 5,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-15",
-     "post": 1,
+     "post": 6,
      "niska": true
     },
     {
@@ -902,14 +903,20 @@
      "niska": true
     },
     {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 3,
+     "niska": true
+    },
+    {
      "type": "cancel",
      "date": "2026-10-15",
      "start": "10:00",
      "pl": "Medytacja – teoria i praktyka",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -922,16 +929,62 @@
      "k": "X",
      "p": "dr M. Kerestey",
      "r": "s. 108",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-13",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "p": "dr W. Rodzeń",
+     "r": "s. 071",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-13",
+     "start": "11:45",
+     "end": "13:15",
+     "pl": "Psychologia społeczna",
+     "k": "CW",
+     "p": "dr W. Rodzeń",
+     "r": "s. 071",
      "post": 0
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 1,
+     "post": 2,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-16",
+     "start": "08:15",
+     "pl": "Psychologia społeczna",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-23",
+     "start": "08:15",
+     "pl": "Psychologia społeczna",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:31:06.851Z"
+  "updatedAt": "2026-11-16T13:46:33.670Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-15T14:35:31.064Z",
+ "checkedAt": "2026-11-16T13:40:39.924Z",
  "groups": {
   "FA2": {
    "odd": [
@@ -873,6 +873,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-krystian-gradz-odwolanie-zajec-2/",
+    "title": "dr Krystian Grądz- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Dzień dobry, informujemy, że pracownik Krystian Grądz zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2027-01-25 11:45 2027-02-01 11:45 310 FANG-SI.24-31,FANG-SI.24-32,FANG-SI.24-33 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 3 literatura Ameryki Północnej/Literature of North America wykład – Przyczyna nieobecności spotkanie służbowe Proponowana treść ogłoszenia dla studentów: zgodnie z ustaleniami Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2027-01-25 13:30 2027-02-01 12:30 310 FANG-SII.25-2-PW1.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne drugiego stopnia 2 Death and culture: Dying in textual and visual art (śmierć a kultura: umieranie w sztuce tekstualnej i wizualnej) konwersatorium – Przyczyna nieobecności spotkanie służbowe Proponowana treść ogłoszenia dla studentów: zgodnie z ustaleniami Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2027-01-26 11:45 2027-02-01 14:00 310 FANG-SI.24-3-PW6.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 3 Methodologies in Cultural Studies: From Text to Image (metodologie studiów kulturowych: od tekstu do obrazu) wykład – Przyczyna nieobecności spotkanie służbowe Proponowana treść ogłoszenia dla studentów: zgodnie z ustaleniami"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/zmiana-terminu-zajec-szymczak-kordulasinska-monika-dr-4/",
     "title": "zmiana terminu zajęć- Szymczak-Kordulasińska Monika dr",
     "ym": "2026-11",
@@ -899,16 +906,16 @@
      "k": "S",
      "p": "dr Monika Szymczak - Kordulasińska",
      "r": "(online)",
-     "post": 0
+     "post": 1
     },
     {
      "type": "cancel",
      "date": "2026-10-28",
      "start": "08:15",
      "pl": "Konwersatorium do wyboru: Issues in Intercultural Communication",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -917,13 +924,36 @@
      "start": "10:00",
      "pl": "Seminarium mgr",
      "moved": true,
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2027-01-25",
+     "start": "13:30",
+     "pl": "(co 2 tyg.) Konwersatorium do wyboru: Death and Culture",
+     "moved": true,
      "post": 0,
      "posts": [
       0
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-02-01",
+     "start": "12:30",
+     "end": "15:45",
+     "pl": "(co 2 tyg.) Konwersatorium do wyboru: Death and Culture",
+     "k": "K",
+     "p": "dr Krystian Grądz",
+     "r": "s. 310",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-10T11:42:24.807Z"
+  "updatedAt": "2026-11-16T13:46:23.906Z"
  }
 }

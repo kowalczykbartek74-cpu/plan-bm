@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "13.11.2026 13:18",
+ "updated": "16.11.2026 09:29",
  "changedAt": "2026-11-08T18:37:55.356Z",
- "checkedAt": "2026-11-15T14:27:51.199Z",
+ "checkedAt": "2026-11-16T13:32:58.106Z",
  "groups": {
   "C141": {
    "odd": [
@@ -402,6 +402,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c141-73/",
+    "title": "GRUPA C141",
+    "ym": "2026-11",
+    "pub": "2026-11-16",
+    "text": "Dnia 27.11.2026 zostają odwołane zajęcia z dr Magdaleną Ławicką. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c141-72/",
     "title": "GRUPA C141",
     "ym": "2026-10",
@@ -444,10 +451,10 @@
      "date": "2026-10-05",
      "start": "12:00",
      "pl": "Technologie informatyczne",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3,
-      4
+      4,
+      5
      ]
     },
     {
@@ -460,7 +467,7 @@
      "k": "LAB",
      "p": "dr Magdalena Kotnis",
      "r": "s. SIL 124/125 lab",
-     "post": 3,
+     "post": 4,
      "dup": true
     },
     {
@@ -468,9 +475,9 @@
      "date": "2026-10-23",
      "start": "8:15",
      "pl": "Matematyka w zarządzaniu",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -478,9 +485,9 @@
      "date": "2026-10-30",
      "start": "8:15",
      "pl": "Podstawy zarządzania",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -488,9 +495,9 @@
      "date": "2026-10-30",
      "start": "10:00",
      "pl": "Podstawy zarządzania",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -503,11 +510,31 @@
      "k": "W",
      "p": "dr Barbara Batóg",
      "r": "s. 104",
-     "post": 0,
+     "post": 1,
      "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-27",
+     "start": "8:15",
+     "pl": "Podstawy zarządzania",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-27",
+     "start": "10:00",
+     "pl": "Podstawy zarządzania",
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-08T18:38:29.001Z"
+  "updatedAt": "2026-11-16T13:46:05.029Z"
  }
 }
