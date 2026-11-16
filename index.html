@@ -141,7 +141,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .hero-count b{color:var(--lime);font-weight:800}
 
 /* Ustawienia: karta bez obrysu, pastylki */
-.controls{display:flex;flex-direction:column;gap:14px;background:var(--surface);border-radius:32px;padding:18px 20px;box-shadow:var(--sh)}
+.controls{display:flex;flex-direction:column;gap:4px;background:var(--surface);border-radius:32px;box-shadow:var(--sh)}
 .ctl{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px}
 .ctl-label{font-size:14px;color:var(--ink);font-weight:700;min-width:96px}
 .years{display:flex;flex-wrap:wrap;gap:8px 16px}
@@ -170,8 +170,20 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .calbtn svg{width:20px;height:20px;flex:none;color:var(--acc)}
 .calbtn:hover{background:var(--acc);color:var(--on-acc)} .calbtn:hover svg{color:var(--on-acc)}
 
-.ctl-toggle{display:none}
-.ctl-body{display:flex;flex-direction:column;gap:14px}
+/* Ustawienia zwijane na każdym ekranie: po wyborze zostaje jedna linia „Twój plan: … · Zmień” */
+.controls{padding:8px}
+.ctl-body{display:flex;flex-direction:column;gap:14px;padding:10px 12px 12px}
+.controls:not(.open) .ctl-body{display:none}
+.ctl-toggle{display:flex;width:100%;align-items:center;justify-content:space-between;gap:10px;min-height:56px;border:0;background:transparent;color:var(--ink);text-align:left;padding:6px 8px 6px 14px;border-radius:24px;cursor:pointer;font:inherit}
+.ctl-toggle:hover{background:var(--soft)}
+.ct-txt{display:flex;flex-direction:column;min-width:0}
+.ct-txt small{font-size:12.5px;color:var(--muted);font-weight:600}
+.ct-txt b{font-size:15px;font-weight:700;line-height:1.3}
+.ct-btn{flex:none;display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 16px;border-radius:999px;background:var(--panel);color:#FFFFFF;font-weight:700;font-size:14px}
+.ct-btn svg{width:18px;height:18px;transition:transform .2s var(--out)}
+.controls.open .ct-btn svg{transform:rotate(180deg)}
+.ctl-done{grid-column:1/-1;display:flex;justify-content:flex-end}
+.ctl-done button{min-height:44px;border:0;border-radius:999px;padding:0 20px;background:var(--acc);color:var(--on-acc);font:700 14px/1 var(--body);cursor:pointer}
 @media (min-width:1000px){ .ctl-body{display:grid;grid-template-columns:1fr 1fr;gap:12px 28px} .ctl-body>.ctl{align-items:center} .ctl-label{min-width:110px} }
 /* Pasek tygodnia (przyklejony) */
 .weekbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:8px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}
@@ -323,16 +335,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
   .tabs{flex:1 1 100%} .tabs a{flex:1;padding:0 8px;font-size:13.5px;white-space:normal;text-align:center;line-height:1.2}
   .tb-right{flex:1 1 100%} .cta{flex:1}
   .ctl-label{min-width:0;width:100%}
-  .controls{border-radius:26px;padding:8px}
-  .ctl-body{padding:8px 8px 10px}
-  .controls:not(.open) .ctl-body{display:none}
-  .ctl-toggle{display:flex;width:100%;align-items:center;justify-content:space-between;gap:10px;min-height:56px;border:0;background:transparent;color:var(--ink);text-align:left;padding:6px 8px 6px 12px;border-radius:20px;cursor:pointer;font:inherit}
-  .ct-txt{display:flex;flex-direction:column;min-width:0}
-  .ct-txt small{font-size:12.5px;color:var(--muted);font-weight:600}
-  .ct-txt b{font-size:15px;font-weight:700;line-height:1.3}
-  .ct-btn{flex:none;display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 14px;border-radius:999px;background:var(--panel);color:#FFFFFF;font-weight:700;font-size:14px}
-  .ct-btn svg{width:18px;height:18px;transition:transform .2s var(--out)}
-  .controls.open .ct-btn svg{transform:rotate(180deg)}
+  .controls{border-radius:26px}
   .hero{border-radius:26px;padding:18px}
   .weekbar{flex-direction:column;align-items:stretch;gap:6px}
   .nav .wk{flex:1}
@@ -441,6 +444,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
       <div class="ctl-label" data-i18n="lCal">Twój kalendarz</div>
       <button class="calbtn" id="calBtn" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg><span data-i18n="calBtn">Dodaj plan do kalendarza w telefonie</span></button>
     </div>
+    <div class="ctl-done"><button type="button" id="ctlDone" data-i18n="ctlDone">Gotowe</button></div>
     </div>
   </section>
   <dialog class="caldlg" id="calDlg" aria-labelledby="calH"><div class="in" id="calIn"></div></dialog>
@@ -494,7 +498,7 @@ const EN = {
   aSubs:"Lab subgroup", subAll:"Both groups", subA:"Group A", subB:"Group B", lPg:"Your subgroups",
   aModes:"Week view", mCal:"Calendar", mOdd:"Odd week", mEven:"Even week",
   aThemes:"Colour theme", tAuto:"Same as your phone or computer settings",
-  ctlYour:"Your timetable", ctlChange:"Change", thLight:"Light", thDark:"Dark", learn:"Study on Zdawalni", learnT:"Summaries, flashcards and quizzes for every subject", aToday:"Today",
+  ctlYour:"Your timetable", ctlChange:"Change", ctlDone:"Done", thLight:"Light", thDark:"Dark", learn:"Study on Zdawalni", learnT:"Summaries, flashcards and quizzes for every subject", aToday:"Today",
   lg1:'<i class="chip W">LEC</i> lecture', lg2:'<i class="chip CW">CLASS</i> tutorial class', lg3:'<i class="chip LAB">LAB</i> laboratory',
   lg4:'<i class="chip K">CONV</i> conversation class', lg5:'<i class="chip S">SEM</i> seminar',
   foot1:'Rooms without an address are in the building at ul. Cukrowa 8. Data from the <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">WEFiZ timetable</a>, checked automatically every morning. Odd and even weeks follow the faculty schedule for the winter semester 2026/27.',
@@ -1162,6 +1166,8 @@ document.getElementById("calDlg").addEventListener("click", e => { if (e.target.
 function applyTheme(t){
   const root = document.documentElement;
   if (t === "light" || t === "dark") root.setAttribute("data-theme", t); else { root.removeAttribute("data-theme"); t = "auto"; }
+  // kolor paska przeglądarki jak wybrany motyw (Auto: według ustawień telefonu)
+  document.querySelectorAll('meta[name="theme-color"]').forEach((m, i) => { m.content = t === "auto" ? (i ? "#0F1A14" : "#F4F5F0") : (t === "dark" ? "#0F1A14" : "#F4F5F0"); });
   document.querySelectorAll("#themes button").forEach(b => b.setAttribute("aria-pressed", b.dataset.themeOpt === t));
 }
 applyTheme(store.get("bm-theme"));   // Auto (jak telefon) albo zapamiętany jasny / ciemny
@@ -1192,12 +1198,13 @@ setInterval(refresh, REFRESH_MS);
 document.addEventListener("visibilitychange", () => { if (!document.hidden) refresh(); });
 window.addEventListener("pageshow", refresh);
 
-/* Ustawienia na telefonie: zwinięte do jednej linii („Twój plan: … · Zmień”), żeby plan był od razu pod panelem „Dziś”.
-   Pierwsza wizyta (bez zapamiętanej grupy) – rozwinięte. */
+/* Ustawienia (każdy ekran): zwinięte do jednej linii („Twój plan: … · Zmień”), żeby plan był od razu pod panelem „Dziś”.
+   Pierwsza wizyta (bez zapamiętanej grupy) – rozwinięte; „Gotowe” zwija i wraca do planu. */
 const ctlBox = document.getElementById("controls"), ctlT = document.getElementById("ctlToggle");
 const ctlSet = o => { ctlBox.classList.toggle("open", o); ctlT.setAttribute("aria-expanded", String(o)); };
 ctlSet(!store.get(groupKey()) && !ROUTE?.g);
 ctlT.onclick = () => ctlSet(!ctlBox.classList.contains("open"));
+document.getElementById("ctlDone").onclick = () => { ctlSet(false); ctlT.focus(); };
 const help = document.getElementById("help");
 document.getElementById("helpClose").onclick = () => { help.open = false; help.querySelector("summary").focus(); };
 document.addEventListener("click", ev => { if (help.open && !help.contains(ev.target)) help.open = false; });
