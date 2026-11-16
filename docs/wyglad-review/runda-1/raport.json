@@ -1,0 +1,879 @@
+{
+  "podsum": {
+    "runda": "1",
+    "stron": 53,
+    "poziomePrzewijanie": [],
+    "bledyKonsoli": [],
+    "axe": [],
+    "maleCeleDotyku": [
+      "skrzynka-360-jasny: input#podpis. 22×22 „”",
+      "skrzynka-360-ciemny: input#podpis. 22×22 „”",
+      "skrzynka-375-jasny: input#podpis. 22×22 „”",
+      "skrzynka-375-ciemny: input#podpis. 22×22 „”",
+      "skrzynka-1280-jasny: input#podpis. 22×22 „”",
+      "skrzynka-1280-ciemny: input#podpis. 22×22 „”",
+      "skrzynka-375-jasny-en: input#podpis. 22×22 „”"
+    ],
+    "linkNauki": [
+      "bm-c112a-teraz-360-jasny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-360-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-375-jasny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-375-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-1280-jasny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-1280-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-375-jasny-en: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-375-ciemny-en: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-1280-jasny-en: [\"https://zdawalni.pl\"]",
+      "bm-c112a-teraz-1280-ciemny-en: [\"https://zdawalni.pl\"]",
+      "bm-c112a-dzis-wolne-375-jasny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-dzis-wolne-375-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-dzis-wolne-1280-jasny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-dzis-wolne-1280-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-odwolane-360-jasny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-odwolane-360-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-odwolane-375-jasny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-odwolane-375-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-odwolane-1280-jasny: [\"https://zdawalni.pl\"]",
+      "bm-c112a-odwolane-1280-ciemny: [\"https://zdawalni.pl\"]",
+      "zarz-c151-360-jasny: [\"https://zdawalni.pl\"]",
+      "zarz-c151-360-ciemny: [\"https://zdawalni.pl\"]",
+      "zarz-c151-375-jasny: [\"https://zdawalni.pl\"]",
+      "zarz-c151-375-ciemny: [\"https://zdawalni.pl\"]",
+      "zarz-c151-1280-jasny: [\"https://zdawalni.pl\"]",
+      "zarz-c151-1280-ciemny: [\"https://zdawalni.pl\"]",
+      "ustawienia-rozwiniete-360-jasny: [\"https://zdawalni.pl\"]",
+      "ustawienia-rozwiniete-360-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-tydzien-nieparzysty-375-jasny: [\"https://zdawalni.pl\"]",
+      "bm-tydzien-nieparzysty-375-ciemny: [\"https://zdawalni.pl\"]",
+      "bm-tydzien-nieparzysty-1280-jasny: [\"https://zdawalni.pl\"]",
+      "bm-tydzien-nieparzysty-1280-ciemny: [\"https://zdawalni.pl\"]",
+      "wybor-kierunku-bez-planu-375-jasny: [\"https://zdawalni.pl\"]",
+      "wybor-kierunku-bez-planu-375-ciemny: [\"https://zdawalni.pl\"]",
+      "wybor-kierunku-bez-planu-1280-jasny: [\"https://zdawalni.pl\"]",
+      "wybor-kierunku-bez-planu-1280-ciemny: [\"https://zdawalni.pl\"]",
+      "kalendarz-okno-375-jasny: [\"https://zdawalni.pl\"]",
+      "kalendarz-okno-375-ciemny: [\"https://zdawalni.pl\"]",
+      "kalendarz-okno-1280-jasny: [\"https://zdawalni.pl\"]",
+      "kalendarz-okno-1280-ciemny: [\"https://zdawalni.pl\"]",
+      "pomoc-375-jasny: [\"https://zdawalni.pl\"]",
+      "pomoc-375-ciemny: [\"https://zdawalni.pl\"]",
+      "skrzynka-360-jasny: [\"https://zdawalni.pl\"]",
+      "skrzynka-360-ciemny: [\"https://zdawalni.pl\"]",
+      "skrzynka-375-jasny: [\"https://zdawalni.pl\"]",
+      "skrzynka-375-ciemny: [\"https://zdawalni.pl\"]",
+      "skrzynka-1280-jasny: [\"https://zdawalni.pl\"]",
+      "skrzynka-1280-ciemny: [\"https://zdawalni.pl\"]",
+      "skrzynka-375-jasny-en: [\"https://zdawalni.pl\"]",
+      "przenies-bez-js-375-jasny: []",
+      "przenies-bez-js-375-ciemny: []",
+      "przenies-bez-js-1280-jasny: []",
+      "przenies-bez-js-1280-ciemny: []"
+    ],
+    "linkNaukiZly": [],
+    "staryTekstSkrotu": [],
+    "linkSkrotbm": []
+  },
+  "strony": [
+    {
+      "plik": "bm-c112a-teraz-360-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-360-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-375-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-375-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-1280-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-1280-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-375-jasny-en",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "en",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-375-ciemny-en",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "en",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-1280-jasny-en",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "en",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-teraz-1280-ciemny-en",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "en",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-dzis-wolne-375-jasny",
+      "url": "/",
+      "czas": "2026-11-16T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-dzis-wolne-375-ciemny",
+      "url": "/",
+      "czas": "2026-11-16T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-dzis-wolne-1280-jasny",
+      "url": "/",
+      "czas": "2026-11-16T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-dzis-wolne-1280-ciemny",
+      "url": "/",
+      "czas": "2026-11-16T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-odwolane-360-jasny",
+      "url": "/",
+      "czas": "2026-10-23T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-odwolane-360-ciemny",
+      "url": "/",
+      "czas": "2026-10-23T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-odwolane-375-jasny",
+      "url": "/",
+      "czas": "2026-10-23T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-odwolane-375-ciemny",
+      "url": "/",
+      "czas": "2026-10-23T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-odwolane-1280-jasny",
+      "url": "/",
+      "czas": "2026-10-23T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-c112a-odwolane-1280-ciemny",
+      "url": "/",
+      "czas": "2026-10-23T09:00:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "zarz-c151-360-jasny",
+      "url": "/#/wefiz/zarz/1/c151",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "zarz-c151-360-ciemny",
+      "url": "/#/wefiz/zarz/1/c151",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "zarz-c151-375-jasny",
+      "url": "/#/wefiz/zarz/1/c151",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "zarz-c151-375-ciemny",
+      "url": "/#/wefiz/zarz/1/c151",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "zarz-c151-1280-jasny",
+      "url": "/#/wefiz/zarz/1/c151",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "zarz-c151-1280-ciemny",
+      "url": "/#/wefiz/zarz/1/c151",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "ustawienia-rozwiniete-360-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "ustawienia-rozwiniete-360-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-tydzien-nieparzysty-375-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-tydzien-nieparzysty-375-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-tydzien-nieparzysty-1280-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "bm-tydzien-nieparzysty-1280-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "wybor-kierunku-bez-planu-375-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "wybor-kierunku-bez-planu-375-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "wybor-kierunku-bez-planu-1280-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "wybor-kierunku-bez-planu-1280-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "kalendarz-okno-375-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "kalendarz-okno-375-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "kalendarz-okno-1280-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "kalendarz-okno-1280-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "pomoc-375-jasny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "pomoc-375-ciemny",
+      "url": "/",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "skrzynka-360-jasny",
+      "url": "/skrzynka.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [
+        "input#podpis. 22×22 „”"
+      ],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "skrzynka-360-ciemny",
+      "url": "/skrzynka.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [
+        "input#podpis. 22×22 „”"
+      ],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "skrzynka-375-jasny",
+      "url": "/skrzynka.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [
+        "input#podpis. 22×22 „”"
+      ],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "skrzynka-375-ciemny",
+      "url": "/skrzynka.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [
+        "input#podpis. 22×22 „”"
+      ],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "skrzynka-1280-jasny",
+      "url": "/skrzynka.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [
+        "input#podpis. 22×22 „”"
+      ],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "skrzynka-1280-ciemny",
+      "url": "/skrzynka.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [
+        "input#podpis. 22×22 „”"
+      ],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "skrzynka-375-jasny-en",
+      "url": "/skrzynka.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "en",
+      "poziomo": 0,
+      "learnHref": [
+        "https://zdawalni.pl"
+      ],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [
+        "input#podpis. 22×22 „”"
+      ],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "przenies-bez-js-375-jasny",
+      "url": "/przenies.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "przenies-bez-js-375-ciemny",
+      "url": "/przenies.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "przenies-bez-js-1280-jasny",
+      "url": "/przenies.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    },
+    {
+      "plik": "przenies-bez-js-1280-ciemny",
+      "url": "/przenies.html",
+      "czas": "2026-11-19T10:40:00",
+      "lang": "pl",
+      "poziomo": 0,
+      "learnHref": [],
+      "staryTekst": false,
+      "skrotbmLink": false,
+      "maleCele": [],
+      "bledyKonsoli": [],
+      "axe": []
+    }
+  ]
+}
