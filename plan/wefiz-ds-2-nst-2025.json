@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-d8eab336941e",
+ "wersja": "planynst-1bcc8e49f76f",
  "kierunek": "Data Science",
  "kierunekEn": "Data Science",
  "id": "wefiz-ds-2-nst-2025",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-10T11:30:43.759Z",
- "checkedAt": "2026-11-16T18:11:21.868Z",
+ "changedAt": "2026-11-17T14:22:25.446Z",
+ "checkedAt": "2026-11-17T14:22:25.446Z",
  "groups": {
   "F40": {
    "odd": [
@@ -1090,7 +1090,7 @@
      "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
-     "r": "s. N08c lab Mic.64",
+     "r": "s. N105 lab Mic.64",
      "pg": "lab:A",
      "dates": [
       "2026-12-13"
@@ -2187,7 +2187,7 @@
      "pl": "Sztuczna inteligencja w analizie danych",
      "k": "LAB",
      "p": "dr Piotr Ładny",
-     "r": "s. N08c lab Mic.64",
+     "r": "s. N105 lab Mic.64",
      "pg": "lab:A",
      "dates": [
       "2026-12-13"

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-16T18:16:11.114Z",
+ "checkedAt": "2026-11-17T14:27:12.362Z",
  "groups": {
   "OPTYKA3": {
    "odd": [
@@ -393,10 +393,29 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/optyka-okularowa-i-t-3-rok-odwolane-zajecia-dr-inz-m-paczwa/",
+    "title": "Optyka okularowa I st. 3 rok – odwołane zajęcia dr inż. M. Paczwą",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "We wtorek, 17 listopada 2026 r., zajęcia laboratoryjne z przedmiotu „Metody fizyki doświadczalnej” prowadzone przez dr. inż. Mateusza Paczwę są odwołane. Zajęcia zostaną odrobione 12 stycznia 2027 r."
+   }
+  ],
   "zmiany": {
-   "OPTYKA3": []
+   "OPTYKA3": [
+    {
+     "type": "cancel",
+     "date": "2026-11-17",
+     "start": "10:00",
+     "pl": "Metody fizyki doświadczalnej",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T23:32:06.311Z"
+  "updatedAt": "2026-11-17T14:32:50.590Z"
  }
 }

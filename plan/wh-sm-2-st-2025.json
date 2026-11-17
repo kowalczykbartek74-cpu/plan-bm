@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-16T18:15:23.352Z",
+ "checkedAt": "2026-11-17T14:26:25.356Z",
  "groups": {
   "SM2": {
    "odd": [
@@ -849,6 +849,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-wiktoria-szczap-odwolanie-zajec/",
+    "title": "mgr Wiktoria Szczap- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Dzień dobry, informujemy, że pracownik Wiktoria Szczap zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Wydział Prawa i Administracji Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Prawa i Administracji Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-24 10:45 2026-12-03 15:30 134 SM-SII.25-21 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo stosunki międzynarodowe stacjonarne drugiego stopnia 2 kształtowanie prawa gospodarczego UE ćwiczenia – Przyczyna nieobecności delegacja Proponowana treść ogłoszenia dla studentów: Informujemy, że zajęcia z przedmiotu Kształtowanie prawa gospodarczego UE z mgr Wiktorią Szczap w dniu 24.11.2026 r. nie odbędą się i zostaną odrobione dnia 03.12.2026 r. w godz. 15:30-16:15 sala 134."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-frithjof-strauss-zastepstwo-dla-lektoratu-dla-kierunkow-itaarchhistsmdiksfilo/",
     "title": "dr Frithjof Strauss- zastępstwo dla lektoratu dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO",
     "ym": "2026-10",
@@ -861,11 +868,16 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 0,
+     "post": 1,
      "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-24",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.852Z"
+  "updatedAt": "2026-11-17T14:32:28.450Z"
  }
 }

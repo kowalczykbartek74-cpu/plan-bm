@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-16T18:15:23.352Z",
+ "checkedAt": "2026-11-17T14:26:25.356Z",
  "groups": {
   "BSK2": {
    "odd": [
@@ -533,6 +533,20 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-lukasz-swiercz-odwolanie-zajec-8/",
+    "title": "dr Łukasz Świercz- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Dzień dobry, informujemy, że pracownik Łukasz Świercz zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Nieprzewidziana nieobecność Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-06 17:00 2026-12-04 17:00 103 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo bałtyckie studia kulturowe stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności inne Uzasadnienie Choroba i pobyt szpitalny Proponowana treść ogłoszenia dla studentów: brak"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-lukasz-swiercz-odwolanie-zajec-7/",
+    "title": "dr Łukasz Świercz – odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Dzień dobry, informujemy, że pracownik Łukasz Świercz zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Nieprzewidziana nieobecność Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-13 17:00 2026-11-28 17:00 103 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo bałtyckie studia kulturowe stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności inne Uzasadnienie nieobecność z powodu choroby i pobytu szpitalnego Proponowana treść ogłoszenia dla studentów: brak"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/wyklad-ogolnouczelniany-bioterrorism-zaplanowany-na-dzien-29-10-2026-r-nie-odbyl-sie-zajecia-zrealizowane-zostana-w-dn-26-11-2026-w-godz-1745-1915-w-trybie-zdalnym/",
     "title": "wykład ogólnouczelniany Bioterrorism, zaplanowany na dzień 29.10.2026 r., nie odbył się. Zajęcia zrealizowane zostaną w dn. 26.11.2026, w godz. 17:45-19:15, w trybie zdalnym.",
     "ym": "2026-11",
@@ -559,10 +573,56 @@
     {
      "type": "note",
      "date": "2026-10-09",
+     "post": 3
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-06",
+     "start": "17:00",
+     "pl": "Seminarium magisterskie 30s seminarium magisterskie 30s Stacjonarnie 23.10, 30.10, 6.11, 13.11 oraz 22.01.27",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-13",
+     "start": "17:00",
+     "pl": "Seminarium magisterskie 30s seminarium magisterskie 30s Stacjonarnie 23.10, 30.10, 6.11, 13.11 oraz 22.01.27",
+     "moved": true,
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-28",
+     "start": "17:00",
+     "end": "18:30",
+     "pl": "Seminarium magisterskie 30s seminarium magisterskie 30s Stacjonarnie 23.10, 30.10, 6.11, 13.11 oraz 22.01.27",
+     "k": "S",
+     "p": "dr hab. T. Czerska, prof.US, dr Łukasz Świercz",
+     "r": "s. 103",
      "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-04",
+     "start": "17:00",
+     "end": "18:30",
+     "pl": "Seminarium magisterskie 30s seminarium magisterskie 30s Stacjonarnie 23.10, 30.10, 6.11, 13.11 oraz 22.01.27",
+     "k": "S",
+     "p": "dr hab. T. Czerska, prof.US, dr Łukasz Świercz",
+     "r": "s. 103",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:27.544Z"
+  "updatedAt": "2026-11-17T14:32:27.358Z"
  }
 }

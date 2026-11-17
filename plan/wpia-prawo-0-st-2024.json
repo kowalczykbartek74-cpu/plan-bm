@@ -1,7 +1,7 @@
 {
- "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSP-21.pdf",
- "wersja": "III-SSP-21.pdf",
- "sha256": "610d1063dbe1e036ca87b1166d12eddbb4351d47e01956bb5a42b7e548c5908a",
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-SSP-22.pdf",
+ "wersja": "III-SSP-22.pdf",
+ "sha256": "222859819cd2353d92b12def4e79992168f3a4cddb07a83a1f6feedd62f0e01f",
  "kierunek": "Prawo",
  "kierunekEn": "Law",
  "id": "wpia-prawo-0-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-16T18:16:26.686Z",
+ "changedAt": "2026-11-17T14:27:32.599Z",
+ "checkedAt": "2026-11-17T14:27:32.599Z",
  "groups": {
   "PRAWO3": {
    "odd": [
@@ -592,12 +592,11 @@
       "14:30",
       "16:00"
      ],
-     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "pl": "Prawo gospodarcze publiczne",
      "k": "CW",
      "p": "mgr W. Szczap",
      "r": "s. 201 Narutowicza",
-     "pg": "Postępowanie administracyjne i sądowoadministracyjne:7",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  15.00 - 16.30"
+     "pg": "Prawo gospodarcze publiczne:1"
     },
     {
      "d": 1,
@@ -609,8 +608,19 @@
      "k": "CW",
      "p": "dr D. Czesyk",
      "r": "s. 217 Narutowicza",
-     "pg": "Prawo samorządu terytorialnego:2",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  15.00 - 16.30"
+     "pg": "Prawo samorządu terytorialnego:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:7"
     },
     {
      "d": 1,
@@ -618,12 +628,11 @@
       "16:15",
       "17:45"
      ],
-     "pl": "Prawo gospodarcze publiczne",
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
      "k": "CW",
      "p": "mgr W. Szczap",
      "r": "s. 201 Narutowicza",
-     "pg": "Prawo gospodarcze publiczne:1",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  16.45 - 18.15"
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:7"
     },
     {
      "d": 1,
@@ -635,21 +644,7 @@
      "k": "CW",
      "p": "dr D. Czesyk",
      "r": "s. 217 Narutowicza",
-     "pg": "Prawo samorządu terytorialnego:6",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  16.45 - 18.15"
-    },
-    {
-     "d": 1,
-     "time": [
-      "16:15",
-      "17:45"
-     ],
-     "pl": "Prawo samorządu terytorialnego",
-     "k": "CW",
-     "p": "dr P. Jachimowicz- Jankowska",
-     "r": "s. 119 Narutowicza",
-     "pg": "Prawo samorządu terytorialnego:7",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz."
+     "pg": "Prawo samorządu terytorialnego:6"
     },
     {
      "d": 2,
@@ -1876,12 +1871,11 @@
       "14:30",
       "16:00"
      ],
-     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "pl": "Prawo gospodarcze publiczne",
      "k": "CW",
      "p": "mgr W. Szczap",
      "r": "s. 201 Narutowicza",
-     "pg": "Postępowanie administracyjne i sądowoadministracyjne:7",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  15.00 - 16.30"
+     "pg": "Prawo gospodarcze publiczne:1"
     },
     {
      "d": 1,
@@ -1893,8 +1887,19 @@
      "k": "CW",
      "p": "dr D. Czesyk",
      "r": "s. 217 Narutowicza",
-     "pg": "Prawo samorządu terytorialnego:2",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  15.00 - 16.30"
+     "pg": "Prawo samorządu terytorialnego:2"
+    },
+    {
+     "d": 1,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Prawo samorządu terytorialnego",
+     "k": "CW",
+     "p": "dr P. Jachimowicz- Jankowska",
+     "r": "s. 119 Narutowicza",
+     "pg": "Prawo samorządu terytorialnego:7"
     },
     {
      "d": 1,
@@ -1902,12 +1907,11 @@
       "16:15",
       "17:45"
      ],
-     "pl": "Prawo gospodarcze publiczne",
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
      "k": "CW",
      "p": "mgr W. Szczap",
      "r": "s. 201 Narutowicza",
-     "pg": "Prawo gospodarcze publiczne:1",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  16.45 - 18.15"
+     "pg": "Postępowanie administracyjne i sądowoadministracyjne:7"
     },
     {
      "d": 1,
@@ -1919,21 +1923,7 @@
      "k": "CW",
      "p": "dr D. Czesyk",
      "r": "s. 217 Narutowicza",
-     "pg": "Prawo samorządu terytorialnego:6",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz.; UWAGA!  16.45 - 18.15"
-    },
-    {
-     "d": 1,
-     "time": [
-      "16:15",
-      "17:45"
-     ],
-     "pl": "Prawo samorządu terytorialnego",
-     "k": "CW",
-     "p": "dr P. Jachimowicz- Jankowska",
-     "r": "s. 119 Narutowicza",
-     "pg": "Prawo samorządu terytorialnego:7",
-     "n": "Zajęcia dn.20.X wyjątkowo w godz."
+     "pg": "Prawo samorządu terytorialnego:6"
     },
     {
      "d": 2,
@@ -2729,6 +2719,27 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iii-zmiana-w-rozkladzie-zajec-od-dnia-24-11-2026-r/",
+    "title": "SSP III – zmiana w rozkładzie zajęć od dnia 24.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Informujemy, że nastąpiła zmiana w rozkładzie zajęć, która będzie obowiązywała od dnia 24.11.2026 r. Zmiana dotyczy ćwiczeń zaplanowanych na wtorki z przedmiotów Prawo administracyjne i samorządowe (grupa 7) oraz Prawo gospodarcze publiczne (grupa 1), a także z przedmiotu prawo samorządu terytorialnego (grupa 7). Rozkład zajęć na stronie: Rozkłady zajęć – Wydział Prawa i Administracji Uniwersytetu Szczecińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iii-przeniesienie-cwiczen-z-przedmiotu-prawo-cywilne-zobowiazania-i-gr-4-dr-adriana-tomczyk/",
+    "title": "SSP III – przeniesienie ćwiczeń z przedmiotu Prawo cywilne – zobowiązania I gr. 4 (dr Adriana Tomczyk)",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Prawo cywilne – zobowiązania I dla grupy 4, zaplanowane na dzień 11.01.2027 r. o godz. 8.15, zostają przeniesione na 21.12.2026 r. w godzinach 8.15–9.45 (sala 119 Narutowicza)."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/iv-ssp-przelozenie-seminarium-dyplomowego-prof-w-bozek/",
+    "title": "IV SSP – przełożenie seminarium dyplomowego (prof. W. Bożek)",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Informujemy, że seminarium dyplomowe dnia 3.12.2026 r. nie odbędzie się. Zostaje przeniesione na 26.11.2026 r., godz. 13.30, sala 117."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/repetytorium-z-przedmiotu-logika-prawnicza-dotyczy-osob-ktore-maja-do-zaliczenia-przedmiot-w-semestrze-zimowym/",
     "title": "Repetytorium z przedmiotu Logika prawnicza – dotyczy osób, które mają do zaliczenia przedmiot w semestrze zimowym",
     "ym": "2026-11",
@@ -2790,34 +2801,62 @@
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 5,
+     "post": 8,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 6,
+     "post": 9,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 3,
+     "post": 6,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 2
+     "post": 5
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 0,
+     "post": 3,
      "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-24",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-11",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Prawo cywilne - zobowiązania I",
+     "k": "CW",
+     "p": "dr A. Tomczyk",
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.495Z"
+  "updatedAt": "2026-11-17T14:32:50.783Z"
  }
 }

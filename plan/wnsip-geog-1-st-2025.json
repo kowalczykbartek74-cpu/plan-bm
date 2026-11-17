@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-16T18:16:11.114Z",
+ "checkedAt": "2026-11-17T14:27:12.362Z",
  "groups": {
   "GEOG2": {
    "odd": [
@@ -1043,10 +1043,86 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/odwolane-zajecia-w-dn-08-12-z-przedmiotu-bazy-danych-przestrzennych-geografia-i-st-2-rok/",
+    "title": "odwołane zajęcia w dn. 08.12. z przedmiotu bazy danych przestrzennych – Geografia I st. 2 rok",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Zajęcia z przedmiotu bazy danych przestrzennych na kierunku Geografia I st. 2 rok w dniu 07.12. zostają odwołane. Zajęcia zostały przeniesione na dzień 15.12. br. godz. 10:50, sala 307 M18."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/odwolane-zajecia-w-dn-07-12-geografia-i-st-2-rok-dr-n-bugajny/",
+    "title": "odwołane zajęcia w dn. 07.12. Geografia I st. 2 rok – dr N. Bugajny",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Zajęcia z przedmiotu Systemy Informacji Geograficznej, dla kierunku Geografia, I st. 2 rok dnia 7.12. nie odbędą się. W porozumieniu ze studentami ustalono następujące terminy odrobienia zajęć: 16.11 , 23.11 i 30.11 , godz. 9:15-10 (3x 45 min)."
+   }
+  ],
   "zmiany": {
-   "GEOG2": []
+   "GEOG2": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-16",
+     "start": "9:15",
+     "end": "10:45",
+     "pl": "Systemy informacji geograficznej",
+     "k": "LAB",
+     "p": "dr N. Bugajny",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-23",
+     "start": "9:15",
+     "end": "10:45",
+     "pl": "Systemy informacji geograficznej",
+     "k": "LAB",
+     "p": "dr N. Bugajny",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-30",
+     "start": "9:15",
+     "end": "10:45",
+     "pl": "Systemy informacji geograficznej",
+     "k": "LAB",
+     "p": "dr N. Bugajny",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-12-07",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-07",
+     "start": "10:00",
+     "pl": "Systemy informacji geograficznej",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-15",
+     "start": "10:50",
+     "end": "12:20",
+     "pl": "Danych przestrzennych",
+     "k": "LAB",
+     "p": "dr A. Giza",
+     "r": "s. 307 M18",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T23:32:06.139Z"
+  "updatedAt": "2026-11-17T14:32:50.402Z"
  }
 }

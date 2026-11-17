@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "16.11.2026 09:29",
- "changedAt": "2026-11-16T13:27:35.276Z",
- "checkedAt": "2026-11-16T18:07:43.089Z",
+ "updated": "17.11.2026 07:54",
+ "changedAt": "2026-11-17T14:13:21.489Z",
+ "checkedAt": "2026-11-17T14:13:21.489Z",
  "groups": {
   "C311": {
    "odd": [
@@ -342,6 +342,17 @@
      "k": "X"
     },
     {
+     "d": 2,
+     "s": 5,
+     "pl": "Odrabianie seminarium dyplomowgo",
+     "k": "X",
+     "r": "gab. 405 prof. Jarosław Korpysa",
+     "dates": [
+      "2026-12-08"
+     ],
+     "n": "Jednorazowo: 8.12.2026"
+    },
+    {
      "d": 3,
      "s": 5,
      "time": [
@@ -498,6 +509,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/c311-2/",
+    "title": "GRUPA C311",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Dnia 01.12.2026 zostaje odwołane seminarium dyplomowe z dr hab. prof. US Jarosławem Korpysa . Termin odrobienia zajęć: 08.12.2026 godz. 17:00 gab. 404"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/c311/",
     "title": "C311",
     "ym": "2026-11",
@@ -520,9 +538,9 @@
      "start": "13:45",
      "pl": "Uczenie maszynowe w aplikacjach biznesowych",
      "g": "B",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -530,9 +548,9 @@
      "date": "2026-11-17",
      "start": "8:15",
      "pl": "Seminarium dyplomowe",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -546,10 +564,33 @@
      "k": "S",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 405",
+     "post": 1
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "8:15",
+     "pl": "Seminarium dyplomowe",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "17:00",
+     "end": "18:30",
+     "pl": "Seminarium dyplomowe",
+     "en": "Diploma Seminar",
+     "k": "S",
+     "p": "dr hab. prof. US Jarosław Korpysa",
+     "r": "s. 404",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:42:53.398Z"
+  "updatedAt": "2026-11-17T14:28:42.166Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-16T18:15:23.352Z",
+ "checkedAt": "2026-11-17T14:26:25.356Z",
  "groups": {
   "FRZJO3": {
    "odd": [
@@ -513,6 +513,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-lukasz-swiercz-odwolanie-zajec-6/",
+    "title": "dr Łukasz Świercz- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Dzień dobry, informujemy, że pracownik Łukasz Świercz zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Nieprzewidziana nieobecność Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-09 13:30 2026-11-30 11:45 103 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska z językiem obcym do wyboru stacjonarne pierwszego stopnia 3 tłumaczenia pisemne (francusko-polskie, polsko-francuskie) ćwiczenia – Przyczyna nieobecności inne Uzasadnienie choroba i pobyt szpitalny Proponowana treść ogłoszenia dla studentów: brak"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-nelli-solonko-odwolanie-zajec-6/",
     "title": "dr Nelli Sołonko- odwołanie zajęć",
     "ym": "2026-11",
@@ -553,13 +560,13 @@
     {
      "type": "note",
      "date": "2026-10-06",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-16",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
@@ -567,9 +574,20 @@
      "date": "2026-10-23",
      "start": "10:00",
      "pl": "Analiza i interpretacja tekstu, 30 ćw",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-09",
+     "start": "13:30",
+     "pl": "Tłumaczenia pisemne (francusko-polskie, polsko-francuskie), 30",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
      ]
     },
     {
@@ -578,9 +596,9 @@
      "start": "10:00",
      "pl": "Analiza i interpretacja tekstu, 30 ćw",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -589,14 +607,14 @@
      "date": "2026-11-30",
      "start": "11:45",
      "end": "13:15",
-     "pl": "Analiza i interpretacja tekstu, 30 ćw",
+     "pl": "Tłumaczenia pisemne (francusko-polskie, polsko-francuskie), 30",
      "k": "X",
-     "p": "dr N. Sołonko",
-     "r": "bud. IV, s. 15",
+     "p": "dr Ł. Świercz",
+     "r": "s. 103",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:29:59.895Z"
+  "updatedAt": "2026-11-17T14:32:27.984Z"
  }
 }

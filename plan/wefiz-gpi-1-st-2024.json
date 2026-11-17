@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "16.11.2026 09:29",
+ "updated": "17.11.2026 07:54",
  "changedAt": "2026-11-08T20:21:04.946Z",
- "checkedAt": "2026-11-16T18:07:43.098Z",
+ "checkedAt": "2026-11-17T14:15:10.902Z",
  "groups": {
   "M360": {
    "odd": [
@@ -377,10 +377,30 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m360-odwolanie-zajec-z-mgr-sara-brecz-kupiec-w-dniu-18-11-2026-r/",
+    "title": "M360- odwołanie zajęć z mgr Sarą Bręcz-Kupiec w dniu 18.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Odwołanie zajęć z mgr Sarą Bręcz-Kupiec w dniu 18.11.2026 r. Termin odrobienia zajęć: 23.11.2026, godz. 10.00, sala N019lab."
+   }
+  ],
   "zmiany": {
-   "M360": []
+   "M360": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-23",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "N019lab",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:37:44.076Z"
+  "updatedAt": "2026-11-17T14:29:27.458Z"
  }
 }

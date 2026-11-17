@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "16.11.2026 09:29",
+ "updated": "17.11.2026 07:54",
  "changedAt": "2026-11-08T18:37:55.356Z",
- "checkedAt": "2026-11-16T18:07:43.112Z",
+ "checkedAt": "2026-11-17T14:18:44.110Z",
  "groups": {
   "C141": {
    "odd": [
@@ -435,13 +435,6 @@
     "ym": "2026-10",
     "pub": "2026-10-09",
     "text": "Dnia 22.10.2026 o godz. 13:45 w sali SIL 124/125 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 05.10.2026r."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c122-c131a-c131b-c141-zajecia-z-dr-m-kotnis/",
-    "title": "GRUPA C122, C131A, C131B, C141 zajęcia z dr M. Kotnis",
-    "ym": "2026-10",
-    "pub": "2026-10-05",
-    "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Magdaleną Kotnis. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -453,8 +446,7 @@
      "pl": "Technologie informatyczne",
      "post": 4,
      "posts": [
-      4,
-      5
+      4
      ]
     },
     {
@@ -535,6 +527,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:46:05.029Z"
+  "updatedAt": "2026-11-17T14:31:53.805Z"
  }
 }

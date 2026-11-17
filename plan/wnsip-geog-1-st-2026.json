@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-16T18:16:11.114Z",
+ "checkedAt": "2026-11-17T14:27:12.362Z",
  "groups": {
   "GEOG1": {
    "odd": [
@@ -925,6 +925,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/odwolane-zajecia-w-dn-07-12-z-przedmiotu-kartografia-i-topografia-na-kierunku-geografia-i-st-1-rok-l1-i-l2/",
+    "title": "odwołane zajęcia w dn. 07.12. z przedmiotu kartografia i topografia na kierunku Geografia I st. 1 rok (L1 i L2)",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Zajęcia w dn. 07.12. z przedmiotu kartografia i topografia na kierunku Geografia I st. 1 rok zostają odwołane. Termin odpracowania zajęć zostanie ustalony w porozumieniu ze studentami."
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/geografia-i-st-1-rok-odwolane-zajecia-z-matematyki-z-dr-m-wieczorek-w-dniu-16-11-2026-r/",
     "title": "Geografia I st. 1 rok – odwołane zajęcia z matematyki z dr M. Wieczorek w dniu 16.11.2026 r.",
     "ym": "2026-11",
@@ -939,6 +946,16 @@
      "date": "2026-11-16",
      "start": "16:05",
      "pl": "Matematyka",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-07",
+     "start": "10:00",
+     "pl": "Kartografia i topograf",
      "post": 0,
      "posts": [
       0
@@ -946,6 +963,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.150Z"
+  "updatedAt": "2026-11-17T14:32:50.413Z"
  }
 }

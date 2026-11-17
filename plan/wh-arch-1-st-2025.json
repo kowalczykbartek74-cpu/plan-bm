@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
- "wersja": "2026-11-05",
- "sha256": "0cee4c2aa452e9528ef1324a0322ca4d7433b40fa964be28fb51bdcf8fff0c6e",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/ARCH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-17-XI-2026.xlsx",
+ "wersja": "2026-11-17",
+ "sha256": "73e78332419647a9475846fca5869ef1b6c7d67033d34901715ba2271fa7833d",
  "kierunek": "Archeologia",
  "kierunekEn": "Archaeology",
  "id": "wh-arch-1-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-16T18:15:23.352Z",
+ "changedAt": "2026-11-17T14:26:25.356Z",
+ "checkedAt": "2026-11-17T14:26:25.356Z",
  "groups": {
   "ARCH2": {
    "odd": [
@@ -73,7 +73,6 @@
      "p": "dr R. Fetner",
      "n": "e-learning:",
      "dates": [
-      "2026-11-17",
       "2026-11-24",
       "2026-12-01",
       "2026-12-08",
@@ -124,6 +123,7 @@
      "p": "dr R. Fetner",
      "n": "e-learning:",
      "dates": [
+      "2026-12-08",
       "2026-12-15",
       "2027-01-12",
       "2027-01-19",
@@ -372,7 +372,6 @@
      "p": "dr R. Fetner",
      "n": "e-learning:",
      "dates": [
-      "2026-11-17",
       "2026-11-24",
       "2026-12-01",
       "2026-12-08",
@@ -423,6 +422,7 @@
      "p": "dr R. Fetner",
      "n": "e-learning:",
      "dates": [
+      "2026-12-08",
       "2026-12-15",
       "2027-01-12",
       "2027-01-19",

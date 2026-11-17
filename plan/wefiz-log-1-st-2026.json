@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "16.11.2026 09:29",
+ "updated": "17.11.2026 07:54",
  "changedAt": "2026-11-08T18:35:57.622Z",
- "checkedAt": "2026-11-16T18:07:43.106Z",
+ "checkedAt": "2026-11-17T14:16:56.287Z",
  "groups": {
   "C131": {
    "odd": [
@@ -606,13 +606,6 @@
     "ym": "2026-10",
     "pub": "2026-10-08",
     "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr Agnieszką Smalec Termin odrobienia: 25.11.2026 godz. 15:30 sala 003"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c122-c131a-c131b-c141-zajecia-z-dr-m-kotnis/",
-    "title": "GRUPA C122, C131A, C131B, C141 zajęcia z dr M. Kotnis",
-    "ym": "2026-10",
-    "pub": "2026-10-05",
-    "text": "Dnia 05.10.2026 zostają odwołane zajęcia z dr Magdaleną Kotnis. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -625,8 +618,7 @@
      "g": "A",
      "post": 3,
      "posts": [
-      3,
-      6
+      3
      ]
     },
     {
@@ -637,8 +629,7 @@
      "g": "B",
      "post": 2,
      "posts": [
-      2,
-      6
+      2
      ]
     },
     {
@@ -763,6 +754,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T13:44:31.990Z"
+  "updatedAt": "2026-11-17T14:30:41.210Z"
  }
 }

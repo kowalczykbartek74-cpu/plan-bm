@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-16T18:16:11.114Z",
+ "checkedAt": "2026-11-17T14:27:12.362Z",
  "groups": {
   "HYDRO2": {
    "odd": [
@@ -1127,6 +1127,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/hydrobiology-1st-degree-2nd-year-ornithology-class-has-been-moved-from-december-1st-to-december-2nd/",
+    "title": "Hydrobiology 1st degree 2nd year – Ornithology class has been moved from December 1st to December 2nd",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "As we agreed, the Ornithology discussion class has been moved from December 1st to December 2nd at 15:00 (room 323W). dr Michał Szkudlarek"
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/hydrobiology-1st-degree-2nd-year-climatology-practical-class-cancelled-on-17th-nov/",
     "title": "Hydrobiology 1st degree 2nd year – climatology practical class cancelled on 17th Nov",
     "ym": "2026-11",
@@ -1174,7 +1181,7 @@
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 5,
+     "post": 6,
      "niska": true
     },
     {
@@ -1182,9 +1189,9 @@
      "date": "2026-11-03",
      "start": "08:15",
      "pl": "Ornithology",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -1192,9 +1199,9 @@
      "date": "2026-11-05",
      "start": "10:00",
      "pl": "Microbiology of the aquatic environment",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1206,20 +1213,32 @@
      "pl": "Ornithology",
      "k": "CW",
      "p": "dr M. Szkudlarek",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
      "date": "2026-11-17",
      "start": "12:45",
      "pl": "Climatology",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-02",
+     "start": "15:00",
+     "end": "16:30",
+     "pl": "Ornithology",
+     "k": "CW",
+     "p": "dr M. Szkudlarek",
+     "post": 0,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-13T14:30:14.146Z"
+  "updatedAt": "2026-11-17T14:32:50.482Z"
  }
 }

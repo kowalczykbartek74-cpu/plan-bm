@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-16T18:15:23.352Z",
+ "checkedAt": "2026-11-17T14:26:25.356Z",
  "groups": {
   "FP3": {
    "odd": [
@@ -675,6 +675,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-hab-prof-us-dorota-kozaryn-przelozenie-zajec-2/",
+    "title": "dr hab., prof. US Dorota Kozaryn- przełożenie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-17",
+    "text": "Dzień dobry, informujemy, że pracownik Dorota Kozaryn zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Językoznawstwa Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-24 10:11 2026-11-25 17:18 s. 216 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia polska stacjonarne pierwszego stopnia 3 seminarium licencjackie seminarium – Przyczyna nieobecności inne Uzasadnienie niemożność odbycia zajęć z powodów osobistych Proponowana treść ogłoszenia dla studentów: Dotyczy: filologia polska III r. , I st., seminarium językoznawcze prowadzone przez dr hab. Dorotę Kozaryn, prof. US: Seminarium licencjackie z dn. 24.11.2026 r. za zgodą studentek odbędzie się dn. 25.11.2026 r. w godz. 17.00-18.30 w s. 216."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-barbara-popiel-kobielska-odwolanie-zajec-2/",
     "title": "dr Barbara Popiel-Kobielska-odwołanie zajęć",
     "ym": "2026-11",
@@ -711,9 +718,9 @@
      "start": "11:45",
      "pl": "Kultura języka",
      "moved": true,
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -722,9 +729,9 @@
      "start": "13:30",
      "pl": "Kultura języka",
      "moved": true,
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -737,7 +744,7 @@
      "k": "W",
      "p": "prof. dr hab. Ewa Kołodziejek",
      "r": "s. 206",
-     "post": 3
+     "post": 4
     },
     {
      "type": "extra",
@@ -749,16 +756,16 @@
      "k": "K",
      "p": "prof. dr hab. Ewa Kołodziejek",
      "r": "s. 206",
-     "post": 3
+     "post": 4
     },
     {
      "type": "cancel",
      "date": "2026-11-04",
      "start": "13:30",
      "pl": "Literatura środkowoeuropejska",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -766,13 +773,18 @@
      "date": "2026-11-10",
      "start": "15:15",
      "pl": "Seminarium dyplomowe s",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-24",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:29:59.748Z"
+  "updatedAt": "2026-11-17T14:32:27.824Z"
  }
 }
