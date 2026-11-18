@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-125.pdf",
- "wersja": "EA-I-125.pdf",
- "sha256": "01707f463cd18b5890c89dd05e129a2841c4b8e2e5010bb723350b14e8382cc8",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-126.pdf",
+ "wersja": "EA-I-126.pdf",
+ "sha256": "1a046e42fcd3969122b598407425c1f4ceb248d3506cd319ea2b9ead9f4f425b",
  "kierunek": "Edukacja artystyczna",
  "kierunekEn": "Art Education",
  "id": "wns-ea-1-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-18T13:57:56.927Z",
+ "changedAt": "2026-11-18T15:28:22.302Z",
+ "checkedAt": "2026-11-18T15:28:22.302Z",
  "groups": {
   "EA1": {
    "odd": [
@@ -186,30 +186,6 @@
     },
     {
      "d": 1,
-     "pl": "Propedeutyka pracy nauczyciela",
-     "k": "W",
-     "time": [
-      "08:15",
-      "09:45"
-     ],
-     "p": "dr P. Wężniejewska",
-     "r": "s. 026 ul. Krakowska 71-79",
-     "pg": "lab:1",
-     "dates": [
-      "2026-10-06",
-      "2026-10-13",
-      "2026-10-20",
-      "2026-10-27",
-      "2026-11-03",
-      "2026-11-10",
-      "2026-11-17",
-      "2026-11-24",
-      "2026-12-01",
-      "2026-12-08"
-     ]
-    },
-    {
-     "d": 1,
      "pl": "Gr 1 lab: Instalacje artystyczne",
      "k": "CW",
      "time": [
@@ -345,7 +321,6 @@
      "p": "prof. M. Szajda",
      "r": "s. 50 ul. Ogińskiego 16-17",
      "n": "ost zaj do g. 9:45",
-     "pg": "lab:2",
      "dates": [
       "2026-10-07",
       "2026-10-14",
@@ -356,6 +331,29 @@
       "2026-11-18",
       "2026-11-25",
       "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Zasady muzyki z metodyką",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr E. Szydłowska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:15",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
      ]
     },
     {
@@ -448,15 +446,15 @@
     },
     {
      "d": 3,
-     "pl": "Komunikacja i kultura języka",
-     "k": "CW",
+     "pl": "Zasady muzyki z metodyką",
+     "k": "LAB",
      "time": [
       "08:15",
       "09:45"
      ],
-     "p": "dr P. Wężniejewska",
-     "r": "s. 53 ul. Ogińskiego 16-17",
-     "n": "pierwsze zaj od g. 9:00",
+     "p": "mgr E. Szydłowska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 10:50",
      "pg": "lab:1",
      "dates": [
       "2026-11-26",
@@ -507,32 +505,6 @@
      "p": "dr A. Całużyńska",
      "r": "s. 53 ul. Ogińskiego 16-17",
      "n": "pierwsze zaj od g. 10:50",
-     "pg": "lab:2",
-     "dates": [
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
-    },
-    {
-     "d": 3,
-     "pl": "Zasady muzyki z metodyką",
-     "k": "LAB",
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "p": "mgr E. Szydłowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "n": "pierwsze zaj od g. 10:50",
-     "pg": "lab:1",
      "dates": [
       "2026-11-26",
       "2026-12-03",
@@ -592,6 +564,23 @@
     },
     {
      "d": 3,
+     "pl": "Propedeutyka pracy nauczyciela",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr P. Wężniejewska",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "n": "zaj do g. 15:45",
+     "pg": "lab:1",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 3,
      "pl": "Udzielanie pierwszej pomocy przedmedycznej",
      "k": "CW",
      "time": [
@@ -600,6 +589,7 @@
      ],
      "p": "mgr A. Kurylczyk",
      "n": "ost zaj do g. 17:30",
+     "pg": "lab:2",
      "dates": [
       "2026-12-10",
       "2026-12-17",
@@ -622,6 +612,25 @@
      "dates": [
       "2027-01-21",
       "2027-01-28"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Komunikacja i kultura języka",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr P. Wężniejewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "ostatnie zaj od g. 10:50",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
      ]
     },
     {
@@ -841,30 +850,6 @@
     },
     {
      "d": 1,
-     "pl": "Propedeutyka pracy nauczyciela",
-     "k": "W",
-     "time": [
-      "08:15",
-      "09:45"
-     ],
-     "p": "dr P. Wężniejewska",
-     "r": "s. 026 ul. Krakowska 71-79",
-     "pg": "lab:1",
-     "dates": [
-      "2026-10-06",
-      "2026-10-13",
-      "2026-10-20",
-      "2026-10-27",
-      "2026-11-03",
-      "2026-11-10",
-      "2026-11-17",
-      "2026-11-24",
-      "2026-12-01",
-      "2026-12-08"
-     ]
-    },
-    {
-     "d": 1,
      "pl": "Gr 1 lab: Instalacje artystyczne",
      "k": "CW",
      "time": [
@@ -1000,7 +985,6 @@
      "p": "prof. M. Szajda",
      "r": "s. 50 ul. Ogińskiego 16-17",
      "n": "ost zaj do g. 9:45",
-     "pg": "lab:2",
      "dates": [
       "2026-10-07",
       "2026-10-14",
@@ -1011,6 +995,29 @@
       "2026-11-18",
       "2026-11-25",
       "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Zasady muzyki z metodyką",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr E. Szydłowska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:15",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
      ]
     },
     {
@@ -1103,15 +1110,15 @@
     },
     {
      "d": 3,
-     "pl": "Komunikacja i kultura języka",
-     "k": "CW",
+     "pl": "Zasady muzyki z metodyką",
+     "k": "LAB",
      "time": [
       "08:15",
       "09:45"
      ],
-     "p": "dr P. Wężniejewska",
-     "r": "s. 53 ul. Ogińskiego 16-17",
-     "n": "pierwsze zaj od g. 9:00",
+     "p": "mgr E. Szydłowska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 10:50",
      "pg": "lab:1",
      "dates": [
       "2026-11-26",
@@ -1162,32 +1169,6 @@
      "p": "dr A. Całużyńska",
      "r": "s. 53 ul. Ogińskiego 16-17",
      "n": "pierwsze zaj od g. 10:50",
-     "pg": "lab:2",
-     "dates": [
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
-    },
-    {
-     "d": 3,
-     "pl": "Zasady muzyki z metodyką",
-     "k": "LAB",
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "p": "mgr E. Szydłowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "n": "pierwsze zaj od g. 10:50",
-     "pg": "lab:1",
      "dates": [
       "2026-11-26",
       "2026-12-03",
@@ -1247,6 +1228,23 @@
     },
     {
      "d": 3,
+     "pl": "Propedeutyka pracy nauczyciela",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr P. Wężniejewska",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "n": "zaj do g. 15:45",
+     "pg": "lab:1",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03"
+     ]
+    },
+    {
+     "d": 3,
      "pl": "Udzielanie pierwszej pomocy przedmedycznej",
      "k": "CW",
      "time": [
@@ -1255,6 +1253,7 @@
      ],
      "p": "mgr A. Kurylczyk",
      "n": "ost zaj do g. 17:30",
+     "pg": "lab:2",
      "dates": [
       "2026-12-10",
       "2026-12-17",
@@ -1277,6 +1276,25 @@
      "dates": [
       "2027-01-21",
       "2027-01-28"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Komunikacja i kultura języka",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr P. Wężniejewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "ostatnie zaj od g. 10:50",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18"
      ]
     },
     {
