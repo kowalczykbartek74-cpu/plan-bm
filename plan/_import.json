@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-18T15:29:34.443Z",
+ "at": "2026-11-18T16:15:55.147Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -2364,8 +2364,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-126.pdf",
    "wersja": "EA-I-126.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 60,
    "kolejka": {
@@ -2381,8 +2381,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-126.pdf",
    "wersja": "EA-I-126.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 52,
    "kolejka": {
@@ -2398,8 +2398,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-126.pdf",
    "wersja": "EA-I-126.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 32,
    "kolejka": {
@@ -5249,6 +5249,11 @@
   },
   {
    "at": "2026-11-18T15:29:34.443Z",
+   "id": "wns-pedsp-0-st-2024",
+   "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
+  },
+  {
+   "at": "2026-11-18T16:15:55.147Z",
    "id": "wns-pedsp-0-st-2024",
    "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
   }
