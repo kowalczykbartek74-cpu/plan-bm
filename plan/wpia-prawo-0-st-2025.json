@@ -2235,6 +2235,20 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolany-dyzur-dydaktyczny-mgra-j-mroza-w-dniu-19-11-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny mgra J. Mroza w dniu 19.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Informujemy, że dyżur dydaktyczny mgra J. Mroza w dniu 19.11.2026 r. nie odbędzie się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-ii-gr-12-odwolanie-cwiczen-z-prawa-karnego-i-mgr-j-mroz-w-dn-20-11-2026/",
+    "title": "SSP II (gr. 1,2) – odwołanie ćwiczeń z Prawa karnego I (mgr J. Mróz) w dn. 20.11.2026",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Prawo karne I dla grup 1 i 2 (mgr J. Mróz) w dniu 20.11.2026 nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-ii-gr-1-i-5-przelozenie-cwiczen-z-przedmiotu-prawo-cywilne-czesc-ogolna-z-dnia-27-11-2026-r/",
     "title": "SSP II (gr 1 i 5) – przełożenie ćwiczeń z przedmiotu prawo cywilne część ogólna z dnia 27.11.2026 r. (dr K. Ziemianin)",
     "ym": "2026-11",
@@ -2380,24 +2394,24 @@
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 17,
+     "post": 19,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 18,
+     "post": 20,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 15
+     "post": 17
     },
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 12,
+     "post": 14,
      "niska": true
     },
     {
@@ -2405,9 +2419,9 @@
      "date": "2026-10-30",
      "start": "17:00",
      "pl": "Międzynarodowe prawo publiczne - wersja PBL",
-     "post": 11,
+     "post": 13,
      "posts": [
-      11
+      13
      ]
     },
     {
@@ -2415,9 +2429,9 @@
      "date": "2026-10-30",
      "start": "13:30",
      "pl": "Międzynarodowe prawo publiczne",
-     "post": 11,
+     "post": 13,
      "posts": [
-      11
+      13
      ]
     },
     {
@@ -2425,6 +2439,16 @@
      "date": "2026-10-30",
      "start": "15:15",
      "pl": "Międzynarodowe prawo publiczne",
+     "post": 13,
+     "posts": [
+      13
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-09",
+     "start": "17:00",
+     "pl": "Prawo administracyjne I",
      "post": 11,
      "posts": [
       11
@@ -2433,38 +2457,48 @@
     {
      "type": "cancel",
      "date": "2026-11-09",
-     "start": "17:00",
-     "pl": "Prawo administracyjne I",
-     "post": 9,
-     "posts": [
-      9
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-11-09",
      "start": "15:15",
      "pl": "Prawo administracyjne I",
-     "post": 9,
+     "post": 11,
      "posts": [
-      9
+      11
      ]
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 8,
+     "post": 10,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-20",
+     "start": "13:30",
+     "pl": "Prawo karne I",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-20",
+     "start": "15:15",
+     "pl": "Prawo karne I",
+     "post": 1,
+     "posts": [
+      1
+     ]
     },
     {
      "type": "note",
      "date": "2026-11-25",
-     "post": 2
+     "post": 4
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 5,
+     "post": 7,
      "niska": true
     },
     {
@@ -2472,9 +2506,9 @@
      "date": "2026-11-27",
      "start": "10:00",
      "pl": "Prawo cywilne część ogólna",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
      ]
     },
     {
@@ -2482,19 +2516,19 @@
      "date": "2026-11-27",
      "start": "11:45",
      "pl": "Prawo cywilne część ogólna",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
      ]
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 5,
+     "post": 7,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:08:21.626Z"
+  "updatedAt": "2026-11-18T23:30:49.925Z"
  }
 }
