@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "38 plików zjazdów (12 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "wersja": "42 plików zjazdów (15 dni)",
+ "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2025",
@@ -12,11 +12,25 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "PPIW2": {
    "odd": [
+    {
+     "d": 4,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A.Linka",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
     {
      "d": 4,
      "pl": "Podstawy edukacji zdrowotnej",
@@ -162,6 +176,34 @@
      "pl": "Podstawy edukacji matematycznej",
      "k": "CW",
      "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
       "14:15",
       "16:00"
      ],
@@ -270,6 +312,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M.Grabowska, mgr A. Meyer",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język niemiecki",
      "k": "CW",
      "time": [
@@ -293,7 +349,8 @@
      "p": "mgr J. Paśnicka Stopa",
      "r": "s. 308",
      "dates": [
-      "2026-11-08"
+      "2026-11-08",
+      "2026-12-13"
      ]
     },
     {
@@ -336,6 +393,20 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy dydaktyki ogólnej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr hab.J. Moroz",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -397,6 +468,20 @@
    "even": [
     {
      "d": 4,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A.Linka",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Podstawy edukacji zdrowotnej",
      "k": "W",
      "time": [
@@ -540,6 +625,34 @@
      "pl": "Podstawy edukacji matematycznej",
      "k": "CW",
      "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "13:30",
+      "17:45"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
       "14:15",
       "16:00"
      ],
@@ -648,6 +761,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M.Grabowska, mgr A. Meyer",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język niemiecki",
      "k": "CW",
      "time": [
@@ -671,7 +798,8 @@
      "p": "mgr J. Paśnicka Stopa",
      "r": "s. 308",
      "dates": [
-      "2026-11-08"
+      "2026-11-08",
+      "2026-12-13"
      ]
     },
     {
@@ -714,6 +842,20 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy dydaktyki ogólnej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr hab.J. Moroz",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

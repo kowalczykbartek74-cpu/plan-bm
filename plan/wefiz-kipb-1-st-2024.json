@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
+ "updated": "18.11.2026 14:03",
  "changedAt": "2026-11-08T20:22:15.468Z",
- "checkedAt": "2026-11-17T16:37:37.660Z",
+ "checkedAt": "2026-11-18T13:47:27.433Z",
  "groups": {
   "C321": {
    "odd": [
@@ -973,13 +973,6 @@
     "ym": "2026-10",
     "pub": "2026-10-08",
     "text": "Dnia 03.11.2026 i 10.11.2026 zostaje odwołane seminarium dyplomowe z dr hab. prof. US Katarzyną Kozioł-Nadolna Termin odrobienia: 15.10.2026 godz. 08:30 gab. 525 22.10.2026 godz. 10:00 gab. 525"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c321322/",
-    "title": "GRUPA C321,322",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Dnia 14.10.2026 zostają odwołane zajęcia z dr Celiną Timoszyk-Tomczyk. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -998,11 +991,6 @@
      "posts": [
       0
      ]
-    },
-    {
-     "type": "note",
-     "date": "2026-10-14",
-     "post": 5
     },
     {
      "type": "extra",
@@ -1137,11 +1125,6 @@
      ]
     },
     {
-     "type": "note",
-     "date": "2026-10-14",
-     "post": 5
-    },
-    {
      "type": "extra",
      "kind": "makeup",
      "date": "2026-10-15",
@@ -1258,6 +1241,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:43:56.266Z"
+  "updatedAt": "2026-11-18T14:01:01.592Z"
  }
 }

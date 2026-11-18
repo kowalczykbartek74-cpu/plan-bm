@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "38 plików zjazdów (13 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "wersja": "42 plików zjazdów (16 dni)",
+ "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "PPIW3": {
    "odd": [
@@ -29,6 +29,20 @@
      "r": "online (MS Teams)",
      "dates": [
       "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Całuzyńska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-11"
      ]
     },
     {
@@ -118,6 +132,20 @@
     },
     {
      "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Pedagogika wczesnoszkolna",
      "k": "W",
      "time": [
@@ -128,6 +156,20 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -205,18 +247,18 @@
      "pl": "Pedagogika wczesnoszkolna",
      "k": "CW",
      "time": [
-      "16:00",
-      "19:30"
+      "14:15",
+      "17:45"
      ],
      "p": "mgr J. Majchrzak",
-     "r": "s. 43 ul. Ogińskiego 16-17",
+     "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2026-12-12"
      ]
     },
     {
      "d": 5,
-     "pl": "Podstawy edukacji matematycznej",
+     "pl": "Metodyk edukacji matematycznej",
      "k": "W",
      "time": [
       "16:00",
@@ -226,6 +268,20 @@
      "r": "s. 58 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
      ]
     },
     {
@@ -273,6 +329,20 @@
     },
     {
      "d": 6,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język angielski",
      "k": "CW",
      "time": [
@@ -283,6 +353,20 @@
      "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -302,7 +386,7 @@
     },
     {
      "d": 6,
-     "pl": "Podstawy edukacji matematycznej",
+     "pl": "Metodyk edukacji matematycznej",
      "k": "W",
      "time": [
       "11:45",
@@ -312,6 +396,20 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zaj. do godz. 14.00 Język niemiecki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr J. Paśnicka - Stopa",
+     "r": "s. ul. Narutowicza 17A",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -360,6 +458,20 @@
     },
     {
      "d": 4,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Całuzyńska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Pedagogika opiekuńcza",
      "k": "W",
      "time": [
@@ -445,6 +557,20 @@
     },
     {
      "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Pedagogika wczesnoszkolna",
      "k": "W",
      "time": [
@@ -455,6 +581,20 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka edukacji polonistycznej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Całużyńska",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -532,18 +672,18 @@
      "pl": "Pedagogika wczesnoszkolna",
      "k": "CW",
      "time": [
-      "16:00",
-      "19:30"
+      "14:15",
+      "17:45"
      ],
      "p": "mgr J. Majchrzak",
-     "r": "s. 43 ul. Ogińskiego 16-17",
+     "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2026-12-12"
      ]
     },
     {
      "d": 5,
-     "pl": "Podstawy edukacji matematycznej",
+     "pl": "Metodyk edukacji matematycznej",
      "k": "W",
      "time": [
       "16:00",
@@ -553,6 +693,20 @@
      "r": "s. 58 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
      ]
     },
     {
@@ -600,6 +754,20 @@
     },
     {
      "d": 6,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język angielski",
      "k": "CW",
      "time": [
@@ -610,6 +778,20 @@
      "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -629,7 +811,7 @@
     },
     {
      "d": 6,
-     "pl": "Podstawy edukacji matematycznej",
+     "pl": "Metodyk edukacji matematycznej",
      "k": "W",
      "time": [
       "11:45",
@@ -639,6 +821,20 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zaj. do godz. 14.00 Język niemiecki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr J. Paśnicka - Stopa",
+     "r": "s. ul. Narutowicza 17A",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

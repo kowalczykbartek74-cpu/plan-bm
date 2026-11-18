@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "38 plików zjazdów (13 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "wersja": "42 plików zjazdów (16 dni)",
+ "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
  "kierunek": "Pedagogika",
  "kierunekEn": "Pedagogy",
  "id": "wns-pedo-1-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "PEDO2": {
    "odd": [
@@ -56,7 +56,8 @@
      "p": "dr B. Kozińska",
      "r": "online (MS Teams)",
      "dates": [
-      "2026-11-13"
+      "2026-11-20",
+      "2026-12-11"
      ]
     },
     {
@@ -70,6 +71,20 @@
      "dates": [
       "2026-10-23",
       "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr Jerzy Jagodzinski",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -214,6 +229,20 @@
     },
     {
      "d": 5,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "17:45"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Emisja głosu",
      "k": "CW",
      "time": [
@@ -312,6 +341,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M.Grabowska, mgr A. Meyer",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Psychologia ogólna",
      "k": "CW",
      "time": [
@@ -336,6 +379,20 @@
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr hab. M. Chutorański prof.",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -378,6 +435,20 @@
      "r": "online (MS Teams)",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -435,7 +506,8 @@
      "p": "dr B. Kozińska",
      "r": "online (MS Teams)",
      "dates": [
-      "2026-11-13"
+      "2026-11-20",
+      "2026-12-11"
      ]
     },
     {
@@ -449,6 +521,20 @@
      "dates": [
       "2026-10-23",
       "2026-11-06"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr Jerzy Jagodzinski",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -593,6 +679,20 @@
     },
     {
      "d": 5,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "17:45"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Emisja głosu",
      "k": "CW",
      "time": [
@@ -691,6 +791,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M.Grabowska, mgr A. Meyer",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Psychologia ogólna",
      "k": "CW",
      "time": [
@@ -715,6 +829,20 @@
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr hab. M. Chutorański prof.",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -757,6 +885,20 @@
      "r": "online (MS Teams)",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-17T16:46:06.843Z",
+ "checkedAt": "2026-11-18T13:58:54.301Z",
  "groups": {
   "PRAWO4": {
    "odd": [
@@ -2635,6 +2635,20 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-v-zmiana-terminu-seminarium-dyplomowego-dra-hab-d-wacinkiewicza-prof-us-z-dnia-19-11-2026/",
+    "title": "SSP IV/V – zmiana terminu seminarium dyplomowego dra hab. D. Wacinkiewicza, prof. US (z dnia 19.11.2026)",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Informujemy, że seminaria dyplomowe dra hab. D. Wacinkiewicza, prof. US z dnia 19.11.2026 zostają przełożone na dzień 10.12.2026 w godzinach: IV rok SSP – godz. 13.30 – 16.45 V rok SSP – godz. 17.00 – 20.15"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolany-dyzur-dydaktyczny-dr-e-michalkiewicz-kadzieli-w-dniu-19-11-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny dr E. Michałkiewicz-Kądzieli w dniu 19.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Informujemy, że dyżur dydaktyczny dr E. Michałkiewicz-Kądzieli w dniu 19.11.2026 r. nie odbędzie się."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-ssp-v-przelozenie-seminarium-dyplomowego-dr-hab-k-flagi-gieruszynskiej-prof-us-z-dnia-26-11-2026/",
     "title": "SSP IV / SSP V – przełożenie seminarium dyplomowego dr hab. K. Flagi-Gieruszyńskiej, prof. US z dnia 26.11.2026 .",
     "ym": "2026-11",
@@ -2822,54 +2836,54 @@
      "k": "W",
      "p": "prof. dr hab. Z. Ofiarski",
      "r": "s. 220",
-     "post": 20,
+     "post": 22,
      "dup": true
     },
     {
      "type": "note",
      "date": "2026-10-12",
+     "post": 16
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 19,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 20,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-15",
+     "post": 9
+    },
+    {
+     "type": "note",
+     "date": "2026-10-15",
      "post": 14
     },
     {
      "type": "note",
-     "date": "2026-10-12",
-     "post": 17,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-12",
-     "post": 18,
-     "niska": true
-    },
-    {
-     "type": "note",
      "date": "2026-10-15",
-     "post": 7
-    },
-    {
-     "type": "note",
-     "date": "2026-10-15",
-     "post": 12
-    },
-    {
-     "type": "note",
-     "date": "2026-10-15",
-     "post": 13
+     "post": 15
     },
     {
      "type": "note",
      "date": "2026-10-16",
-     "post": 11
+     "post": 13
     },
     {
      "type": "cancel",
      "date": "2026-11-03",
      "start": "08:15",
      "pl": "Prawo rodzinne",
-     "post": 8,
+     "post": 10,
      "posts": [
-      8
+      10
      ]
     },
     {
@@ -2877,9 +2891,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Prawo rodzinne",
-     "post": 8,
+     "post": 10,
      "posts": [
-      8
+      10
      ]
     },
     {
@@ -2887,9 +2901,9 @@
      "date": "2026-11-03",
      "start": "11:45",
      "pl": "Prawo rodzinne",
-     "post": 8,
+     "post": 10,
      "posts": [
-      8
+      10
      ]
     },
     {
@@ -2897,15 +2911,15 @@
      "date": "2026-11-03",
      "start": "13:30",
      "pl": "Prawo rodzinne",
-     "post": 8,
+     "post": 10,
      "posts": [
-      8
+      10
      ]
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 6,
+     "post": 8,
      "niska": true
     },
     {
@@ -2913,26 +2927,36 @@
      "date": "2026-11-12",
      "start": "10:00",
      "pl": "Prawo spadkowe",
-     "post": 3,
+     "post": 5,
      "posts": [
-      3
+      5
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-19",
+     "start": "13:30",
+     "pl": "Seminarium dyplomowe",
+     "post": 0,
+     "posts": [
+      0
      ]
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 0
+     "post": 2
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 1,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 1,
+     "post": 3,
      "niska": true
     },
     {
@@ -2940,9 +2964,9 @@
      "date": "2027-01-12",
      "start": "11:45",
      "pl": "Postępowanie cywilne I",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4
+      6
      ]
     },
     {
@@ -2950,13 +2974,13 @@
      "date": "2027-01-12",
      "start": "13:30",
      "pl": "Postępowanie cywilne I",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4
+      6
      ]
     }
    ]
   },
-  "updatedAt": "2026-11-17T14:32:50.758Z"
+  "updatedAt": "2026-11-18T14:08:21.543Z"
  }
 }

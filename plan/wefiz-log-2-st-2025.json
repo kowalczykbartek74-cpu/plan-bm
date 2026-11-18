@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
+ "updated": "18.11.2026 14:03",
  "changedAt": "2026-11-08T20:23:06.341Z",
- "checkedAt": "2026-11-17T16:37:37.663Z",
+ "checkedAt": "2026-11-18T13:48:27.951Z",
  "groups": {
   "C631": {
    "odd": [
@@ -429,22 +429,10 @@
     "ym": "2026-10",
     "pub": "2026-10-22",
     "text": "Dnia 17.11.2026 zostają odwołane zajęcia z dr Agnieszką Kwarcińską. Termin odrobienia zajęć: 03.11.2026 godz. 15:15 sala 623"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c631a-i-c631b/",
-    "title": "GRUPA C631a i C631b",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Dnia 27.10.2026 zostają odwołane zajęcia z dr inż. Piotrem Gutowskim. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
    "C631": [
-    {
-     "type": "note",
-     "date": "2026-10-27",
-     "post": 1
-    },
     {
      "type": "extra",
      "kind": "makeup",
@@ -469,6 +457,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:31.209Z"
+  "updatedAt": "2026-11-18T14:01:58.882Z"
  }
 }

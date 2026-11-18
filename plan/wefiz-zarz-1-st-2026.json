@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
+ "updated": "18.11.2026 14:03",
  "changedAt": "2026-11-08T00:54:45.527Z",
- "checkedAt": "2026-11-17T16:37:37.667Z",
+ "checkedAt": "2026-11-18T13:49:43.912Z",
  "groups": {
   "C151": {
    "odd": [
@@ -925,13 +925,6 @@
     "ym": "2026-10",
     "pub": "2026-10-12",
     "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr hab. Moniką Różycką. Termin odrabiania zajęć: 29.10.2026 godz. 10:00 sala 307 Termin odrobienia zajęć z dnia 06.10.2026: 29.10.2026 godz. 12:00 sala 307"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c151-c152-7/",
-    "title": "GRUPA C151, C152",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Dnia 09.10.2026 zostają odwołane zajęcia z mgr Krzysztofem Heberlein. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -944,16 +937,6 @@
      "post": 2,
      "posts": [
       2
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-09",
-     "start": "8:15",
-     "pl": "Matematyka",
-     "post": 3,
-     "posts": [
-      3
      ]
     },
     {
@@ -1050,16 +1033,6 @@
      "post": 2,
      "posts": [
       2
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-09",
-     "start": "10:00",
-     "pl": "Matematyka",
-     "post": 3,
-     "posts": [
-      3
      ]
     },
     {
@@ -1196,6 +1169,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:45:44.069Z"
+  "updatedAt": "2026-11-18T14:02:46.187Z"
  }
 }

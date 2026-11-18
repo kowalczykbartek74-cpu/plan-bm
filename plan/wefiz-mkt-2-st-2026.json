@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
- "changedAt": "2026-11-08T20:23:30.204Z",
- "checkedAt": "2026-11-17T16:37:37.664Z",
+ "updated": "18.11.2026 14:03",
+ "changedAt": "2026-11-18T13:48:49.979Z",
+ "checkedAt": "2026-11-18T13:48:49.979Z",
  "groups": {
   "C591": {
    "odd": [
@@ -83,13 +83,25 @@
     {
      "d": 3,
      "s": 2,
-     "pl": "Szkolenie z obrony cywilnej",
+     "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
      "dates": [
+      "2026-12-03",
       "2026-12-17"
      ],
-     "n": "Jednorazowo: 17.12.2026"
+     "n": "Tylko: 3.12, 17.12"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 104 dr Marcin Janowski",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     }
    ],
    "even": [
@@ -217,13 +229,25 @@
     {
      "d": 3,
      "s": 2,
-     "pl": "Szkolenie z obrony cywilnej",
+     "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
      "dates": [
+      "2026-12-03",
       "2026-12-17"
      ],
-     "n": "Jednorazowo: 17.12.2026"
+     "n": "Tylko: 3.12, 17.12"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 104 dr Marcin Janowski",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     }
    ],
    "even": [
@@ -333,13 +357,14 @@
     {
      "d": 3,
      "s": 2,
-     "pl": "Szkolenie z obrony cywilnej",
+     "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
      "dates": [
+      "2026-12-03",
       "2026-12-17"
      ],
-     "n": "Jednorazowo: 17.12.2026"
+     "n": "Tylko: 3.12, 17.12"
     },
     {
      "d": 0,
@@ -357,6 +382,17 @@
      "k": "CW",
      "p": "mgr Karolina Białas",
      "r": "s. 623"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 104 dr Marcin Janowski",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     }
    ],
    "even": [
@@ -538,6 +574,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c591592593/",
+    "title": "GRUPA C591,592,593",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Dnia 03.12.2026 o godz.12:00 w sali 104; o godz.13:45 w sali 104 odbędzie się odrabianie zajęć z dr Marcinem Janowskim."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c593/",
     "title": "GRUPA C593",
     "ym": "2026-10",
@@ -559,10 +602,23 @@
      "date": "2026-10-21",
      "start": "8:15",
      "pl": "Współczesne trendy konsumenckie",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Marcin Janowski",
+     "r": "s. 104",
+     "post": 0,
+     "dup": true
     }
    ],
    "C592": [
@@ -571,10 +627,23 @@
      "date": "2026-10-21",
      "start": "8:15",
      "pl": "Współczesne trendy konsumenckie",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Marcin Janowski",
+     "r": "s. 104",
+     "post": 0,
+     "dup": true
     }
    ],
    "C593": [
@@ -583,13 +652,26 @@
      "date": "2026-10-21",
      "start": "8:15",
      "pl": "Współczesne trendy konsumenckie",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Marcin Janowski",
+     "r": "s. 104",
+     "post": 0,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:35.514Z"
+  "updatedAt": "2026-11-18T14:02:07.664Z"
  }
 }

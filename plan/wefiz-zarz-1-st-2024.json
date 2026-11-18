@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
+ "updated": "18.11.2026 14:03",
  "changedAt": "2026-11-09T17:53:15.972Z",
- "checkedAt": "2026-11-17T16:37:37.666Z",
+ "checkedAt": "2026-11-18T13:49:32.896Z",
  "groups": {
   "C351": {
    "odd": [
@@ -930,38 +930,10 @@
     "ym": "2026-10",
     "pub": "2026-10-08",
     "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr Agnieszką Smalec Termin odrobienia: 17.11.2026 godz. 15:30 sala SIL 315"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c351352-2/",
-    "title": "GRUPA C351,352",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Dnia 13.10.2026 i 20.10.2026 zostają odwołane seminarium dyplomowe z dr hab. prof. US Ewą Mazur-Wierzbicka Termin odrobienia seminarium: 08.10.2026 godz. 12:00 pok.624 29.10.2026 godz. 10:00 MS Teams"
    }
   ],
   "zmiany": {
    "C351": [
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-08",
-     "start": "12:00",
-     "end": "13:30",
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
-     "post": 9
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-13",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
-     "post": 9,
-     "posts": [
-      9
-     ]
-    },
     {
      "type": "cancel",
      "date": "2026-10-19",
@@ -978,31 +950,9 @@
      "post": 8
     },
     {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
-     "post": 9,
-     "posts": [
-      9
-     ]
-    },
-    {
      "type": "note",
      "date": "2026-10-27",
      "post": 5
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-29",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
-     "r": "MS Teams",
-     "post": 9
     },
     {
      "type": "cancel",
@@ -1066,27 +1016,6 @@
    ],
    "C352": [
     {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-08",
-     "start": "12:00",
-     "end": "13:30",
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
-     "post": 9
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-13",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
-     "post": 9,
-     "posts": [
-      9
-     ]
-    },
-    {
      "type": "cancel",
      "date": "2026-10-19",
      "start": "10:00",
@@ -1102,31 +1031,9 @@
      "post": 8
     },
     {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
-     "post": 9,
-     "posts": [
-      9
-     ]
-    },
-    {
      "type": "note",
      "date": "2026-10-27",
      "post": 5
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-29",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
-     "r": "MS Teams",
-     "post": 9
     },
     {
      "type": "cancel",
@@ -1201,6 +1108,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:45:32.964Z"
+  "updatedAt": "2026-11-18T14:02:37.363Z"
  }
 }

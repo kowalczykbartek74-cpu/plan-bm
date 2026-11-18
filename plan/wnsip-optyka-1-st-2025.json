@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-17T16:45:51.291Z",
+ "checkedAt": "2026-11-18T13:58:37.015Z",
  "groups": {
   "OPTYKA2": {
    "odd": [
@@ -624,7 +624,7 @@
     "title": "Optyka okularowa I st. 2 rok – odwołane wykłady z dr A. Maruszewską",
     "ym": "2026-10",
     "pub": "2026-10-26",
-    "text": "W dniach 26.10.2026 r. oraz 02.11. 2026r. odwołane zostają wykłady z przemiotu: biochemia i patobiochemia narządu wzroku z dr Agnieszką Maruszewską. Terminy realizacji zajęć zostaną uzgodniony w porozumieniu ze Studentami po zakończeniu zwolnienia lekarskiego dr A. Maruszewskiej."
+    "text": "W dniach 26.10.2026 r. oraz 09.11. 2026r. odwołane zostają wykłady z przemiotu: biochemia i patobiochemia narządu wzroku z dr Agnieszką Maruszewską. Terminy realizacji zajęć zostaną uzgodniony w porozumieniu ze Studentami po zakończeniu zwolnienia lekarskiego dr A. Maruszewskiej."
    },
    {
     "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/10/optyka-okularowa-i-st-2-rok-odwolane-zajecia-z-mgr-k-manka-w-dniu-20-10-2026-r/",
@@ -669,9 +669,14 @@
      "post": 2
     },
     {
-     "type": "note",
-     "date": "2026-11-02",
-     "post": 1
+     "type": "cancel",
+     "date": "2026-11-09",
+     "start": "09:40",
+     "pl": "Biochemia i patobiochemia narządu wzroku",
+     "post": 1,
+     "posts": [
+      1
+     ]
     },
     {
      "type": "extra",
@@ -699,6 +704,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.321Z"
+  "updatedAt": "2026-11-18T14:08:21.340Z"
  }
 }

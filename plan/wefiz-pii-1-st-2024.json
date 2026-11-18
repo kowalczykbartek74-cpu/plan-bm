@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
+ "updated": "18.11.2026 14:03",
  "changedAt": "2026-11-08T20:23:34.477Z",
- "checkedAt": "2026-11-17T16:37:37.664Z",
+ "checkedAt": "2026-11-18T13:48:54.378Z",
  "groups": {
   "C381": {
    "odd": [
@@ -432,39 +432,10 @@
     "ym": "2026-10",
     "pub": "2026-10-19",
     "text": "Dnia 22.10.2026 zostają odwołane zajęcia z dr Mateuszem Czerwińskim. Termin odrobienia zajęć: 29.10.2026 godz. 12:00 sala 423lab."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c181-60/",
-    "title": "GRUPA C381",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Dnia 08.10.2026 zostają odwołane zajęcia z dr Aurelią Bajerską-Osman Termin odrobienia zajęć: 15.10.2026 godz. 12:00 sala 034"
    }
   ],
   "zmiany": {
    "C381": [
-    {
-     "type": "cancel",
-     "date": "2026-10-08",
-     "start": "10:00",
-     "pl": "Wycena przedsiębiorstw",
-     "post": 4,
-     "posts": [
-      4
-     ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-15",
-     "start": "12:00",
-     "end": "13:30",
-     "pl": "Wycena przedsiębiorstw",
-     "k": "CW",
-     "p": "dr Aurelia Bajerska-Osman",
-     "r": "s. 034",
-     "post": 4
-    },
     {
      "type": "cancel",
      "date": "2026-10-21",
@@ -517,6 +488,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:38.387Z"
+  "updatedAt": "2026-11-18T14:02:12.045Z"
  }
 }

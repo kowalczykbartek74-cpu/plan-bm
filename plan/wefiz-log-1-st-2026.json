@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
- "changedAt": "2026-11-08T18:35:57.622Z",
- "checkedAt": "2026-11-17T16:37:37.663Z",
+ "updated": "18.11.2026 14:03",
+ "changedAt": "2026-11-18T13:48:23.574Z",
+ "checkedAt": "2026-11-18T13:48:23.574Z",
  "groups": {
   "C131": {
    "odd": [
@@ -125,6 +125,22 @@
      "n": "Tylko: 12.10, 26.10, 9.11, 23.11"
     },
     {
+     "d": 2,
+     "s": 0,
+     "time": [
+      "8:15",
+      "11:30"
+     ],
+     "pl": "Zajęcia z dr natalią sypion",
+     "k": "X",
+     "p": "26, ,",
+     "r": "sala S0205/0206 na",
+     "dates": [
+      "2026-11-25"
+     ],
+     "n": "Jednorazowo: 25.11.2026"
+    },
+    {
      "d": 3,
      "s": 0,
      "pl": "Podstawy logistyki",
@@ -140,6 +156,22 @@
      "g": "A",
      "p": "dr Magdalena Kotnis",
      "r": "s. SIL 134/136 (lab)"
+    },
+    {
+     "d": 2,
+     "s": 1,
+     "time": [
+      "8:15",
+      "11:30"
+     ],
+     "pl": "Zajęcia z dr natalią sypion",
+     "k": "X",
+     "p": "26, ,",
+     "r": "sala S0205/0206 na",
+     "dates": [
+      "2026-11-25"
+     ],
+     "n": "Jednorazowo: 25.11.2026"
     },
     {
      "d": 3,
@@ -272,15 +304,32 @@
      "r": "s. 607"
     },
     {
+     "d": 2,
+     "s": 2,
+     "time": [
+      "12:00",
+      "15:15"
+     ],
+     "pl": "Dr natalia sypion",
+     "k": "X",
+     "p": ",",
+     "r": "sala S0100 na",
+     "dates": [
+      "2026-12-02"
+     ],
+     "n": "Jednorazowo: 2.12.2026"
+    },
+    {
      "d": 3,
      "s": 2,
-     "pl": "Szkolenie z obrony cywilnej",
+     "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "Aula WNS ul. Krakowska 71-79, Szczecin",
      "dates": [
+      "2026-12-03",
       "2026-12-17"
      ],
-     "n": "Jednorazowo: 17.12.2026"
+     "n": "Tylko: 3.12, 17.12"
     },
     {
      "d": 4,
@@ -305,6 +354,22 @@
      "k": "CW",
      "p": "mgr inż. Loran Nermend",
      "r": "s. 507"
+    },
+    {
+     "d": 2,
+     "s": 3,
+     "time": [
+      "12:00",
+      "15:15"
+     ],
+     "pl": "Dr natalia sypion",
+     "k": "X",
+     "p": ",",
+     "r": "sala S0100 na",
+     "dates": [
+      "2026-12-02"
+     ],
+     "n": "Jednorazowo: 2.12.2026"
     },
     {
      "d": 4,
@@ -566,6 +631,20 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/c131-c171-c161-c132-m130-131-terminy-warsztatow-z-dr-natalia-sypion-z-podstaw-projektowania-uniwersalnego/",
+    "title": "C131, C171, C161, C132, M130-131- terminy warsztatów z dr Natalią Sypion z podstaw projektowania uniwersalnego",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Kampus Cukrowa: C131 – 25.11.26, godz. 08.15-11.30, sala S0205/0206 na Mic. 64 C171 – 26.11.2026, godz. 10.00-13.30, sala S0205/0206 na Mic. 64 C161 – 10.12.26, godz.10.00-13.30, sala S0205/0206 na Mic. 64 C132 – 02.12.26, godz. 12.00-15.15, sala S0100 na Mic. 64 Kampus Mickiewicza: M130 – 17.12.2026, godz.12.00-15.15, sala S0205/0206 na Mic. 64 M131 – 03.12.26, godz. 14.00-17.15, sala S0205/0206 na Mic. 64"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c132-29/",
+    "title": "GRUPA C132",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Z uwagi na wyjazd służbowy dnia 25.11 br. zajęcia z Podstaw zarządzania dla grupy 132 z dr Małgorzatą Smolską nie odbędą się. Termin odrobienia zajęć: 3.12. , godz. 12.00, sala 112."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c132-28/",
     "title": "GRUPA C132",
     "ym": "2026-10",
@@ -616,9 +695,9 @@
      "start": "10:00",
      "pl": "Technologie informatyczne",
      "g": "A",
-     "post": 3,
+     "post": 5,
      "posts": [
-      3
+      5
      ]
     },
     {
@@ -627,9 +706,9 @@
      "start": "13:45",
      "pl": "Technologie informatyczne",
      "g": "B",
-     "post": 2,
+     "post": 4,
      "posts": [
-      2
+      4
      ]
     },
     {
@@ -637,9 +716,9 @@
      "date": "2026-10-20",
      "start": "10:00",
      "pl": "Podstawy marketingu",
-     "post": 5,
+     "post": 7,
      "posts": [
-      5
+      7
      ]
     },
     {
@@ -653,7 +732,7 @@
      "p": "dr Magdalena Kotnis",
      "r": "s. SIL 116 lab",
      "g": "A",
-     "post": 3
+     "post": 5
     },
     {
      "type": "extra",
@@ -666,7 +745,19 @@
      "p": "dr Magdalena Kotnis",
      "r": "s. SIL 124/125 lab",
      "g": "B",
-     "post": 2
+     "post": 4
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-25",
+     "start": "8:15",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0,
+     "dup": true
     },
     {
      "type": "extra",
@@ -678,7 +769,63 @@
      "k": "W",
      "p": "dr Agnieszka Smalec",
      "r": "s. 003",
-     "post": 5,
+     "post": 7,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-02",
+     "start": "12:00",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0100",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "14:00",
+     "end": "17:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "10:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-17",
+     "start": "12:00",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0,
      "dup": true
     }
    ],
@@ -688,9 +835,9 @@
      "date": "2026-10-02",
      "start": "12:00",
      "pl": "Technologie informatyczne",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4
+      6
      ]
     },
     {
@@ -698,9 +845,9 @@
      "date": "2026-10-16",
      "start": "12:00",
      "pl": "Technologie informatyczne",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
      ]
     },
     {
@@ -708,9 +855,9 @@
      "date": "2026-10-20",
      "start": "10:00",
      "pl": "Podstawy marketingu",
-     "post": 5,
+     "post": 7,
      "posts": [
-      5
+      7
      ]
     },
     {
@@ -723,7 +870,7 @@
      "k": "LAB",
      "p": "dr Magdalena Kotnis",
      "r": "s. SIL 126/127 lab",
-     "post": 4,
+     "post": 6,
      "dup": true
     },
     {
@@ -736,8 +883,19 @@
      "k": "LAB",
      "p": "dr Magdalena Kotnis",
      "r": "s. SIL 126/127",
-     "post": 0,
+     "post": 2,
      "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-25",
+     "start": "8:15",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
     },
     {
      "type": "extra",
@@ -749,11 +907,68 @@
      "k": "W",
      "p": "dr Agnieszka Smalec",
      "r": "s. 003",
-     "post": 5,
+     "post": 7,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-02",
+     "start": "12:00",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0100",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "14:00",
+     "end": "17:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "10:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-17",
+     "start": "12:00",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-17T14:30:41.210Z"
+  "updatedAt": "2026-11-18T14:01:57.791Z"
  }
 }

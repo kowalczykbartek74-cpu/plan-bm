@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
- "changedAt": "2026-11-09T13:43:21.330Z",
- "checkedAt": "2026-11-17T16:37:37.659Z",
+ "updated": "18.11.2026 14:03",
+ "changedAt": "2026-11-18T13:47:13.100Z",
+ "checkedAt": "2026-11-18T13:47:13.100Z",
  "groups": {
   "C171": {
    "odd": [
@@ -171,6 +171,22 @@
      "r": "s. 104"
     },
     {
+     "d": 3,
+     "s": 1,
+     "time": [
+      "10:00",
+      "13:30"
+     ],
+     "pl": "Zajęcia z dr natalią sypion",
+     "k": "X",
+     "p": ",",
+     "r": "sala S0205/0206 na",
+     "dates": [
+      "2026-11-26"
+     ],
+     "n": "Jednorazowo: 26.11.2026"
+    },
+    {
      "d": 4,
      "s": 1,
      "pl": "Przedsiębiorczość",
@@ -193,6 +209,22 @@
      "k": "CW",
      "p": "dr Agnieszka Łopatka",
      "r": "s. 112"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "time": [
+      "10:00",
+      "13:30"
+     ],
+     "pl": "Zajęcia z dr natalią sypion",
+     "k": "X",
+     "p": ",",
+     "r": "sala S0205/0206 na",
+     "dates": [
+      "2026-11-26"
+     ],
+     "n": "Jednorazowo: 26.11.2026"
     },
     {
      "d": 4,
@@ -348,6 +380,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/c131-c171-c161-c132-m130-131-terminy-warsztatow-z-dr-natalia-sypion-z-podstaw-projektowania-uniwersalnego/",
+    "title": "C131, C171, C161, C132, M130-131- terminy warsztatów z dr Natalią Sypion z podstaw projektowania uniwersalnego",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Kampus Cukrowa: C131 – 25.11.26, godz. 08.15-11.30, sala S0205/0206 na Mic. 64 C171 – 26.11.2026, godz. 10.00-13.30, sala S0205/0206 na Mic. 64 C161 – 10.12.26, godz.10.00-13.30, sala S0205/0206 na Mic. 64 C132 – 02.12.26, godz. 12.00-15.15, sala S0100 na Mic. 64 Kampus Mickiewicza: M130 – 17.12.2026, godz.12.00-15.15, sala S0205/0206 na Mic. 64 M131 – 03.12.26, godz. 14.00-17.15, sala S0205/0206 na Mic. 64"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c171-27/",
     "title": "GRUPA C171",
     "ym": "2026-11",
@@ -374,11 +413,79 @@
      "k": "X",
      "p": "dr Zbigniew Stempnakowski",
      "r": "s. SIL 145/146 LAB",
+     "post": 1,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-25",
+     "start": "8:15",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-02",
+     "start": "12:00",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0100",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "14:00",
+     "end": "17:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "10:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-17",
+     "start": "12:00",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
      "post": 0,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-13T13:12:25.506Z"
+  "updatedAt": "2026-11-18T14:00:51.675Z"
  }
 }

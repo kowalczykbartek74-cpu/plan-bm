@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-17T16:46:06.843Z",
+ "checkedAt": "2026-11-18T13:58:54.301Z",
  "groups": {
   "IEBL1": {
    "odd": [
@@ -653,6 +653,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/iebl-canceled-classes-on-18-11-2026-legal-english-business-english/",
+    "title": "IEBL – canceled classes on 18.11.2026 (Legal English, Business English)",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "We inform you that Legal English (1st eyar) and Business English classes (2nd year) will not take place on November 18, 2026."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/iebl-ii-st-i-r-przelozenie-zajec-z-przedmiotu-basic-legal-knowledge-wstep-do-prawoznawstwa-prof-dr-hab-agnieszka-bien-kacala/",
     "title": "IEBL II st. I r. – Rescheduling of Basic Legal Knowledge Classes (wstęp do prawoznawstwa) (prof. dr hab. Agnieszka Bień-Kacała)",
     "ym": "2026-11",
@@ -721,13 +728,13 @@
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 6,
+     "post": 7,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 7,
+     "post": 8,
      "niska": true
     },
     {
@@ -735,54 +742,60 @@
      "date": "2026-10-15",
      "start": "17:00",
      "pl": "Public Business Law in International Context",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
      "type": "note",
      "date": "2026-10-20",
-     "post": 6,
+     "post": 7,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-28",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-18",
-     "post": 1,
+     "post": 0,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-18",
-     "post": 4,
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-18",
+     "post": 5,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-02",
-     "post": 0
+     "post": 1
     },
     {
      "type": "note",
      "date": "2026-12-09",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
      "type": "note",
      "date": "2027-01-20",
-     "post": 1,
+     "post": 2,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-16T15:01:54.983Z"
+  "updatedAt": "2026-11-18T14:08:21.477Z"
  }
 }

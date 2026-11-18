@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
- "changedAt": "2026-11-08T20:24:40.098Z",
- "checkedAt": "2026-11-17T16:37:37.667Z",
+ "updated": "18.11.2026 14:03",
+ "changedAt": "2026-11-18T13:49:48.570Z",
+ "checkedAt": "2026-11-18T13:49:48.570Z",
  "groups": {
   "C651": {
    "odd": [
@@ -35,6 +35,17 @@
      "k": "X",
      "p": "dr hab. prof. US Krzysztof Janasz",
      "r": "s. 033"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 104 dr Marcin Janowski",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     },
     {
      "d": 4,
@@ -89,6 +100,17 @@
      "k": "CW",
      "p": "dr Małgorzata Smolska",
      "r": "s. 033"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 104 dr Marcin Janowski",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     },
     {
      "d": 0,
@@ -271,6 +293,30 @@
     },
     {
      "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "- wykład",
+     "r": "sala 720 dr Małgorzata Smolska",
+     "dates": [
+      "2026-12-10"
+     ],
+     "n": "Jednorazowo: 10.12.2026"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "- ćwiczenia",
+     "r": "sala 720 dr Małgorzata Smolska",
+     "dates": [
+      "2026-12-10"
+     ],
+     "n": "Jednorazowo: 10.12.2026"
+    },
+    {
+     "d": 3,
      "s": 5,
      "time": [
       "17:45",
@@ -426,6 +472,20 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c651-47/",
+    "title": "GRUPA C651",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Z uwagi na wyjazd służbowy dnia 25.11 br. zajęcia z Zarządzania strategicznego dla grupy 651 z dr Małgorzatą Smolską nie odbędą się. Termin odrobienia zajęć: wykład 10.12. , godz. 12.00, sala 720; ćwiczenia 10.12., godz. 13:45, sala 720."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c651-46/",
+    "title": "GRUPA C651",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Dnia 03.12.2026 o godz.8:15 w sali 104; o godz.10:00 w sali 104 odbędzie się odrabianie zajęć z dr Marcinem Janowskim."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c651-45/",
     "title": "GRUPA C651",
     "ym": "2026-10",
@@ -452,7 +512,7 @@
     {
      "type": "note",
      "date": "2026-10-19",
-     "post": 1
+     "post": 3
     },
     {
      "type": "extra",
@@ -463,7 +523,20 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 046",
-     "post": 0,
+     "post": 2,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Zarządzanie marką (ćw) moduł zb",
+     "k": "X",
+     "p": "dr Marcin Janowski",
+     "r": "s. 104",
+     "post": 1,
      "dup": true
     },
     {
@@ -476,7 +549,7 @@
      "k": "X",
      "p": "dr Karolina Drela",
      "r": "s. 607",
-     "post": 2
+     "post": 4
     },
     {
      "type": "extra",
@@ -488,7 +561,7 @@
      "k": "X",
      "p": "dr Karolina Drela",
      "r": "MS Teams",
-     "post": 2,
+     "post": 4,
      "dup": true
     },
     {
@@ -501,15 +574,15 @@
      "k": "X",
      "p": "dr Karolina Drela",
      "r": "s. 003",
-     "post": 2
+     "post": 4
     },
     {
      "type": "note",
      "date": "2027-10-19",
-     "post": 2
+     "post": 4
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:39:07.862Z"
+  "updatedAt": "2026-11-18T14:02:51.684Z"
  }
 }

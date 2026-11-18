@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
- "wersja": "PEDSPEC-JM-13.pdf",
- "sha256": "ff0c3c7979f4d4db7cc9ed72c155dbe3b6a81deebec2a7ff5dbc527bfbf4650c",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-14.pdf",
+ "wersja": "PEDSPEC-JM-14.pdf",
+ "sha256": "92c6a9486961ebaa572cdb49b7e09ebbcf056579e023ad6bb550fb669e4cbcf8",
  "kierunek": "Pedagogika specjalna",
  "kierunekEn": "Special Education",
  "id": "wns-pedsp-0-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "PEDSP2": {
    "odd": [
@@ -85,30 +85,6 @@
     },
     {
      "d": 0,
-     "pl": "Pedagogika opiekuńcza",
-     "k": "W",
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "p": "dr A. Jarzębińska",
-     "r": "s. 2 ul. Ogińskiego 16-17",
-     "n": "pierwsze zaj do g. 16:00",
-     "dates": [
-      "2026-11-30",
-      "2026-12-07",
-      "2026-12-14",
-      "2026-12-21",
-      "2026-12-28",
-      "2027-01-04",
-      "2027-01-11",
-      "2027-01-18",
-      "2027-01-25",
-      "2027-02-01"
-     ]
-    },
-    {
-     "d": 0,
      "pl": "Praca z uczniem ze specyficznymi trudnościami w uczeniu się",
      "k": "W",
      "time": [
@@ -127,6 +103,26 @@
       "2026-11-09",
       "2026-11-16",
       "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Szkoła jako instytucja wychowawcza",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:30"
+     ],
+     "p": "dr hab. J. Nowotniak., prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
      ]
     },
     {
@@ -197,6 +193,21 @@
      "r": "Aula WNS",
      "dates": [
       "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Pedagogika opiekuńcza",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:00",
+     "dates": [
+      "2027-01-28"
      ]
     },
     {
@@ -461,30 +472,6 @@
     },
     {
      "d": 0,
-     "pl": "Pedagogika opiekuńcza",
-     "k": "W",
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "p": "dr A. Jarzębińska",
-     "r": "s. 2 ul. Ogińskiego 16-17",
-     "n": "pierwsze zaj do g. 16:00",
-     "dates": [
-      "2026-11-30",
-      "2026-12-07",
-      "2026-12-14",
-      "2026-12-21",
-      "2026-12-28",
-      "2027-01-04",
-      "2027-01-11",
-      "2027-01-18",
-      "2027-01-25",
-      "2027-02-01"
-     ]
-    },
-    {
-     "d": 0,
      "pl": "Praca z uczniem ze specyficznymi trudnościami w uczeniu się",
      "k": "W",
      "time": [
@@ -503,6 +490,26 @@
       "2026-11-09",
       "2026-11-16",
       "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Szkoła jako instytucja wychowawcza",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:30"
+     ],
+     "p": "dr hab. J. Nowotniak., prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
      ]
     },
     {
@@ -573,6 +580,21 @@
      "r": "Aula WNS",
      "dates": [
       "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Pedagogika opiekuńcza",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:00",
+     "dates": [
+      "2027-01-28"
      ]
     },
     {

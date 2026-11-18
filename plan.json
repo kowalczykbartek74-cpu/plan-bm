@@ -3,9 +3,9 @@
  "kierunek": "Business Management",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
- "changedAt": "2026-11-09T13:42:41.157Z",
- "checkedAt": "2026-11-17T16:37:37.144Z",
+ "updated": "18.11.2026 14:03",
+ "changedAt": "2026-11-18T13:44:22.111Z",
+ "checkedAt": "2026-11-18T13:44:22.111Z",
  "groups": {
   "C111": {
    "odd": [
@@ -45,17 +45,6 @@
      "k": "W",
      "p": "dr hab. prof. US Dariusz Milewski",
      "r": "s. 002"
-    },
-    {
-     "d": 3,
-     "s": 1,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 002 dr Barbara Batóg",
-     "dates": [
-      "2026-11-19"
-     ],
-     "n": "Jednorazowo: 19.11.2026"
     },
     {
      "d": 4,
@@ -302,17 +291,6 @@
      "r": "s. 002"
     },
     {
-     "d": 3,
-     "s": 1,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 002 dr Barbara Batóg",
-     "dates": [
-      "2026-11-19"
-     ],
-     "n": "Jednorazowo: 19.11.2026"
-    },
-    {
      "d": 4,
      "s": 1,
      "pl": "Analiza matematyczna",
@@ -510,17 +488,6 @@
      "k": "W",
      "p": "dr hab. prof. US Dariusz Milewski",
      "r": "s. 002"
-    },
-    {
-     "d": 3,
-     "s": 1,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 002 dr Barbara Batóg",
-     "dates": [
-      "2026-11-19"
-     ],
-     "n": "Jednorazowo: 19.11.2026"
     },
     {
      "d": 4,
@@ -1045,8 +1012,7 @@
      "k": "W",
      "p": "dr Barbara Batóg",
      "r": "s. 002",
-     "post": 3,
-     "dup": true
+     "post": 3
     }
    ],
    "C112": [
@@ -1175,8 +1141,7 @@
      "k": "X",
      "p": "dr Barbara Batóg",
      "r": "s. 002",
-     "post": 3,
-     "dup": true
+     "post": 3
     },
     {
      "type": "extra",
@@ -1281,11 +1246,10 @@
      "k": "W",
      "p": "dr Barbara Batóg",
      "r": "s. 002",
-     "post": 3,
-     "dup": true
+     "post": 3
     }
    ]
   },
-  "updatedAt": "2026-11-10T21:51:44.247Z"
+  "updatedAt": "2026-11-18T13:59:32.555Z"
  }
 }

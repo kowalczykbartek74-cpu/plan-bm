@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-17T16:46:06.843Z",
+ "checkedAt": "2026-11-18T13:58:54.301Z",
  "groups": {
   "ADM3": {
    "odd": [
@@ -715,6 +715,20 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-i-st-iii-r-zmiana-zajec-w-dniach-24-11-2026-oraz-2-12-i-9-12-2026-r-postepowanie-administracyjne-ogolne-prawo-podatkowe/",
+    "title": "SSA I st. III r. – zmiana zajęć w dniach 24.11.2026 oraz 2.12 i 9.12.2026 r. (postępowanie administracyjne, ogólne prawo podatkowe)",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Szanowni Państwo, uprzejmie informujemy, że w następujących terminach nastąpi zamiana zajęć dydaktycznych, tj.: w dniu 24.11.2026 r. w godzinach 8.15 – 12.30 w miejsce zajęć dr E. Koniuszewskiej odbędą się zajęcia z przedmiotu Ogólne prawo podatkowe (dr hab. K. Święch-Kujawska, prof. US), które są zaplanowane w rozkładzie na dni 2.12 i 9.12.2026; w dniu 2.12.2026 r. w godzinach 10.30 – 13.45 w miejsce zajęć dr hab. K. Święch-Kujawskiej, prof. US odbędą się zajęcia z przedmiotu Postępowanie administracyjne, które są zaplanowane w rozkładzie na dzień 24.11.2026 r. w dniu 9.12.2026 r. w godzinach 12.15 – 13.00 w miejsce ćwiczeń dr hab. K. Święch-Kujawskiej, prof. US odbędzie się wykład (1 godz.) z przedmiotu Postępowanie administracyjne (brakująca godzina z dnia 24.11.2026)."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-ii-iii-ssa-i-st-ii-iii-odwolane-zajecia-z-jezyka-niemieckiego-w-dniach-24-25-11-2026/",
+    "title": "SSP II, III / SSA I st. II, III – odwołane zajęcia z języka niemieckiego w dniach 24-25.11.2026",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Informujemy, że w dniach 24-25.11.2026 r. zajęcia z języka niemieckiego dla: II i III roku kier. prawo, studia stacjonarne; II i III roku kier. administracja, studia stacjonarne nie odbędą się. Termin odrobienia zajęć zostanie ustalony wkrótce."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ii-ssa-i-st-odrabianie-zajec-z-przedmiotu-instytucje-i-zrodla-prawa-ue-z-dnia-08-10-26-dr-k-slotwinska/",
     "title": "II SSA I st. – Odrabianie zajęć z przedmiotu Instytucje i źródła prawa UE z dnia 08.10.26 (dr K. Słotwińska)",
     "ym": "2026-11",
@@ -769,7 +783,7 @@
     {
      "type": "note",
      "date": "2026-10-08",
-     "post": 0,
+     "post": 2,
      "niska": true
     },
     {
@@ -777,15 +791,15 @@
      "date": "2026-10-14",
      "start": "14:00",
      "pl": "Reglamentacja wykonywania zawodów zaufania publicznego",
-     "post": 4,
+     "post": 6,
      "posts": [
-      4
+      6
      ]
     },
     {
      "type": "note",
      "date": "2026-11-10",
-     "post": 1,
+     "post": 3,
      "niska": true
     },
     {
@@ -793,10 +807,36 @@
      "date": "2026-11-10",
      "start": "12:45",
      "pl": "Wybrane aspekty postępowania karnego",
-     "post": 2,
+     "post": 4,
      "posts": [
-      2
+      4
      ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "08:15",
+     "pl": "Postępowanie administracyjne",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "11:00",
+     "pl": "Postępowanie administracyjne",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-25",
+     "post": 1,
+     "niska": true
     },
     {
      "type": "extra",
@@ -808,17 +848,17 @@
      "k": "K",
      "p": "dr hab. K. Nizioł, prof. US",
      "r": "s. 104 al",
-     "post": 3,
+     "post": 5,
      "dup": true
     },
     {
      "type": "note",
      "date": "2027-01-19",
-     "post": 0,
+     "post": 2,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.357Z"
+  "updatedAt": "2026-11-18T14:08:21.379Z"
  }
 }

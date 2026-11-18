@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "38 plików zjazdów (13 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "wersja": "42 plików zjazdów (16 dni)",
+ "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "PPIW1": {
    "odd": [
@@ -28,7 +28,8 @@
      "p": "dr hab. J.Król, prof. US",
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-20"
+      "2026-11-20",
+      "2026-12-11"
      ]
     },
     {
@@ -91,6 +92,20 @@
     },
     {
      "d": 5,
+     "pl": "Historia wychowania",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Psychologia rozwojowa",
      "k": "CW",
      "time": [
@@ -144,6 +159,20 @@
      "r": "s. 152 ul. Krakowska 71-79",
      "dates": [
       "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr M. Chmiel",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -204,6 +233,20 @@
     },
     {
      "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Tutoring",
      "k": "CW",
      "time": [
@@ -228,6 +271,20 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "mgr M. Adamczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -299,6 +356,20 @@
      "n": "kod MS Teams: 3i8ykkd",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwoju osobistego",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr M. Bratos-Stepień",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -385,7 +456,8 @@
      "p": "dr hab. J.Król, prof. US",
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-20"
+      "2026-11-20",
+      "2026-12-11"
      ]
     },
     {
@@ -448,6 +520,20 @@
     },
     {
      "d": 5,
+     "pl": "Historia wychowania",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Psychologia rozwojowa",
      "k": "CW",
      "time": [
@@ -501,6 +587,20 @@
      "r": "s. 152 ul. Krakowska 71-79",
      "dates": [
       "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr M. Chmiel",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -561,6 +661,20 @@
     },
     {
      "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Tutoring",
      "k": "CW",
      "time": [
@@ -585,6 +699,20 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "mgr M. Adamczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -656,6 +784,20 @@
      "n": "kod MS Teams: 3i8ykkd",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Psychologia rozwoju osobistego",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr M. Bratos-Stepień",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

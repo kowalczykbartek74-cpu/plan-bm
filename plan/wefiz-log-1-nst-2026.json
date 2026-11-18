@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-1bcc8e49f76f",
+ "wersja": "planynst-ab567f22d89f",
  "kierunek": "Logistyka",
  "kierunekEn": "Logistics",
  "id": "wefiz-log-1-nst-2026",
@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:31:18.542Z",
- "checkedAt": "2026-11-17T16:41:16.490Z",
+ "checkedAt": "2026-11-18T13:53:56.065Z",
  "groups": {
   "A31": {
    "odd": [
@@ -1982,10 +1982,18 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/c131-c171-c161-c132-m130-131-terminy-warsztatow-z-dr-natalia-sypion-z-podstaw-projektowania-uniwersalnego/",
+    "title": "C131, C171, C161, C132, M130-131- terminy warsztatów z dr Natalią Sypion z podstaw projektowania uniwersalnego",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Kampus Cukrowa: C131 – 25.11.26, godz. 08.15-11.30, sala S0205/0206 na Mic. 64 C171 – 26.11.2026, godz. 10.00-13.30, sala S0205/0206 na Mic. 64 C161 – 10.12.26, godz.10.00-13.30, sala S0205/0206 na Mic. 64 C132 – 02.12.26, godz. 12.00-15.15, sala S0100 na Mic. 64 Kampus Mickiewicza: M130 – 17.12.2026, godz.12.00-15.15, sala S0205/0206 na Mic. 64 M131 – 03.12.26, godz. 14.00-17.15, sala S0205/0206 na Mic. 64"
+   }
+  ],
   "zmiany": {
    "A31": []
   },
-  "updatedAt": "2026-11-09T18:06:00.715Z"
+  "updatedAt": "2026-11-18T14:05:54.496Z"
  }
 }

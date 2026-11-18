@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "38 plików zjazdów (13 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "wersja": "42 plików zjazdów (16 dni)",
+ "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
  "kierunek": "Praca socjalna",
  "kierunekEn": "Social Work",
  "id": "wns-ps-1-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "PS3": {
    "odd": [
@@ -43,7 +43,8 @@
      "p": "dr A. Tomczyk",
      "r": "online (MS Teams)",
      "dates": [
-      "2026-11-27"
+      "2026-11-27",
+      "2026-12-11"
      ]
     },
     {
@@ -100,6 +101,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -175,6 +190,20 @@
     },
     {
      "d": 5,
+     "pl": "Projekt socjalny",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "mgr J. Kaliska",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Diagnoza psychospołeczna",
      "k": "W",
      "time": [
@@ -227,6 +256,20 @@
      "r": "s. 100 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika resocjalizacyjna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -302,6 +345,20 @@
     },
     {
      "d": 6,
+     "pl": "Poradnictwo socjalne",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Diagnoza psychospołeczna",
      "k": "CW",
      "time": [
@@ -331,6 +388,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język niemiecki",
      "k": "CW",
      "time": [
@@ -355,6 +426,20 @@
      "r": "s. 308",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zaj. do godz. 14.00 Język niemiecki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr J. Paśnicka - Stopa",
+     "r": "s. ul. Narutowicza 17A",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -399,7 +484,8 @@
      "p": "dr A. Tomczyk",
      "r": "online (MS Teams)",
      "dates": [
-      "2026-11-27"
+      "2026-11-27",
+      "2026-12-11"
      ]
     },
     {
@@ -456,6 +542,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -531,6 +631,20 @@
     },
     {
      "d": 5,
+     "pl": "Projekt socjalny",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "mgr J. Kaliska",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Diagnoza psychospołeczna",
      "k": "W",
      "time": [
@@ -583,6 +697,20 @@
      "r": "s. 100 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pedagogika resocjalizacyjna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -658,6 +786,20 @@
     },
     {
      "d": 6,
+     "pl": "Poradnictwo socjalne",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Diagnoza psychospołeczna",
      "k": "CW",
      "time": [
@@ -687,6 +829,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język niemiecki",
      "k": "CW",
      "time": [
@@ -711,6 +867,20 @@
      "r": "s. 308",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zaj. do godz. 14.00 Język niemiecki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr J. Paśnicka - Stopa",
+     "r": "s. ul. Narutowicza 17A",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

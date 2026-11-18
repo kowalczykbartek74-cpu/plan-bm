@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "38 plików zjazdów (13 dni)",
- "sha256": "5151788266cfb74c5efd07fb213173aef46a89042a183c78d4c8235879e40ff3",
+ "wersja": "42 plików zjazdów (16 dni)",
+ "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
  "kierunek": "Pedagogika specjalna",
  "kierunekEn": "Special Education",
  "id": "wns-pedsp-0-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-12T13:45:03.355Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "PEDSP3": {
    "odd": [
@@ -28,7 +28,8 @@
      "p": "dr L. Konopska",
      "r": "online",
      "dates": [
-      "2026-11-06"
+      "2026-11-06",
+      "2026-12-11"
      ]
     },
     {
@@ -59,6 +60,20 @@
      "dates": [
       "2026-10-09",
       "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -157,6 +172,20 @@
      "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -273,6 +302,20 @@
     },
     {
      "d": 6,
+     "pl": "Logopedia",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Konopska, prof.US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Podstawy języka migowego",
      "k": "CW",
      "time": [
@@ -315,6 +358,34 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zaj. do godz. 14.00 Język niemiecki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr J. Paśnicka - Stopa",
+     "r": "s. ul. Narutowicza 17A",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Logopedia",
      "k": "CW",
      "time": [
@@ -329,6 +400,20 @@
     },
     {
      "d": 6,
+     "pl": "Logopedia",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr L. Konopska, prof.US",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Podstawy języka migowego",
      "k": "CW",
      "time": [
@@ -339,6 +424,20 @@
      "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Praca z uczniem z zaburzeniem ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ],
@@ -354,7 +453,8 @@
      "p": "dr L. Konopska",
      "r": "online",
      "dates": [
-      "2026-11-06"
+      "2026-11-06",
+      "2026-12-11"
      ]
     },
     {
@@ -385,6 +485,20 @@
      "dates": [
       "2026-10-09",
       "2026-10-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -483,6 +597,20 @@
      "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -599,6 +727,20 @@
     },
     {
      "d": 6,
+     "pl": "Logopedia",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Konopska, prof.US",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Podstawy języka migowego",
      "k": "CW",
      "time": [
@@ -641,6 +783,34 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zaj. do godz. 14.00 Język niemiecki",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr J. Paśnicka - Stopa",
+     "r": "s. ul. Narutowicza 17A",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Logopedia",
      "k": "CW",
      "time": [
@@ -655,6 +825,20 @@
     },
     {
      "d": 6,
+     "pl": "Logopedia",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr L. Konopska, prof.US",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Podstawy języka migowego",
      "k": "CW",
      "time": [
@@ -665,6 +849,20 @@
      "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Praca z uczniem z zaburzeniem ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ]

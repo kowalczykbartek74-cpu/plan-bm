@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
- "changedAt": "2026-11-16T13:32:40.494Z",
- "checkedAt": "2026-11-17T16:37:37.667Z",
+ "updated": "18.11.2026 14:03",
+ "changedAt": "2026-11-18T13:49:53.840Z",
+ "checkedAt": "2026-11-18T13:49:53.840Z",
  "groups": {
   "C551": {
    "odd": [
@@ -119,12 +119,34 @@
    ],
    "even": [
     {
+     "d": 0,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 003 dr Marcin Janowski",
+     "dates": [
+      "2026-11-23"
+     ],
+     "n": "Jednorazowo: 23.11.2026"
+    },
+    {
      "d": 4,
      "s": 0,
      "pl": "Planowanie marketingowe",
      "k": "LAB",
      "p": "dr Monika Spychalska-Wojtkiewicz",
      "r": "s. SIL 137/138 (lab)"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 407 dr Marcin Janowski",
+     "dates": [
+      "2026-11-23"
+     ],
+     "n": "Jednorazowo: 23.11.2026"
     },
     {
      "d": 3,
@@ -270,6 +292,28 @@
     }
    ],
    "even": [
+    {
+     "d": 0,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 003 dr Marcin Janowski",
+     "dates": [
+      "2026-11-23"
+     ],
+     "n": "Jednorazowo: 23.11.2026"
+    },
+    {
+     "d": 0,
+     "s": 1,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 407 dr Marcin Janowski",
+     "dates": [
+      "2026-11-23"
+     ],
+     "n": "Jednorazowo: 23.11.2026"
+    },
     {
      "d": 1,
      "s": 1,
@@ -476,6 +520,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c551-c552-21/",
+    "title": "GRUPA C551, C552",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Dnia 23.11.2026 o godz.8:15 w sali 003; o godz.10:00 w sali 407 odbędzie się odrabianie zajęć z dr Marcinem Janowskim."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c551-c552-20/",
     "title": "GRUPA C551, C552",
     "ym": "2026-11",
@@ -504,9 +555,9 @@
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Konsument w globalnej gospodarce",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -514,10 +565,23 @@
      "date": "2026-11-17",
      "start": "10:00",
      "pl": "Ekonomia menadżerska",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-23",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 003",
+     "post": 0,
+     "dup": true
     },
     {
      "type": "extra",
@@ -529,7 +593,7 @@
      "k": "W",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 104",
-     "post": 1,
+     "post": 2,
      "dup": true
     },
     {
@@ -537,9 +601,9 @@
      "date": "2026-12-01",
      "start": "10:00",
      "pl": "Ekonomia menadżerska",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -552,7 +616,7 @@
      "k": "W",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 104",
-     "post": 0,
+     "post": 1,
      "dup": true
     }
    ],
@@ -562,9 +626,9 @@
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Konsument w globalnej gospodarce",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -572,10 +636,23 @@
      "date": "2026-11-17",
      "start": "10:00",
      "pl": "Ekonomia menadżerska",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-23",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Konsument w globalnej gospodarce",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 003",
+     "post": 0,
+     "dup": true
     },
     {
      "type": "extra",
@@ -587,7 +664,7 @@
      "k": "W",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 104",
-     "post": 1,
+     "post": 2,
      "dup": true
     },
     {
@@ -595,9 +672,9 @@
      "date": "2026-12-01",
      "start": "10:00",
      "pl": "Ekonomia menadżerska",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -610,11 +687,11 @@
      "k": "W",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 104",
-     "post": 0,
+     "post": 1,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:45:50.661Z"
+  "updatedAt": "2026-11-18T14:02:56.047Z"
  }
 }

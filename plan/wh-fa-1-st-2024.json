@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-17T16:45:16.421Z",
+ "checkedAt": "2026-11-18T13:57:56.018Z",
  "groups": {
   "FA3": {
    "odd": [
@@ -1021,6 +1021,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-antoni-gorny-odwolanie-zajec-2/",
+    "title": "dr Antoni Górny- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Dzień dobry, informujemy, że pracownik Antoni Górny zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-19 15:15 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 3 seminarium dyplomowe seminarium – Przyczyna nieobecności inne Uzasadnienie Wyjazd zaplanowany wiosną 2026 r., niemozliwy do przełożenia. Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, zgodnie z przekazanymi wcześniej informacjami odwołuję nasze jutrzejsze seminarium. Zobaczymy się ponownie 26 listopada. Termin odrabiania zajęć ustalę z Państwem w najbliższym czasie. Pozdrawiam serdecznie Antoni Górny Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-19 17:00 – – – FANG-SII.26-1-L.1,FANG-SII.26-1-L.2 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne drugiego stopnia 1 praktyczna nauka języka angielskiego – podstawy języka biznesu laboratorium – Przyczyna nieobecności inne Uzasadnienie Wyjazd zaplanowany wiosną 2026 r., niemozliwy do przełożenia. Proponowana treść ogłoszenia dla studentów: Dear participants, in accordance with the information previously relayed to you, this week’s class will not take place. I will see you again next week. Over the next few days, I will try again to come up with possible dates for a make-up class – hopefully, we’ll be able to settle on a viable option. Kind regards, Antoni Górny Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-11-20 10:00 – – – FANG-SII.26-1-L.1,FANG-SII.26-1-L.2 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne drugiego stopnia 1 praktyczna nauka języka angielskiego – podstawy języka biznesu laboratorium – Przyczyna nieobecności inne Uzasadnienie Wyjazd zaplanowany wiosną 2026 r., niemozliwy do przełożenia. Proponowana treść ogłoszenia dla studentów: Dear participants, in accordance with the information previously relayed to you, this week’s class will not take place. I will see you again next week. Over the next few days, I will try again to come up with possible dates for a make-up class – hopefully, we’ll be able to settle on a viable option. Kind regards, Antoni Górny"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-krystian-gradz-odwolanie-zajec-2/",
     "title": "dr Krystian Grądz- odwołanie zajęć",
     "ym": "2026-11",
@@ -1039,13 +1046,23 @@
    "FA3": [
     {
      "type": "cancel",
+     "date": "2026-11-19",
+     "start": "15:15",
+     "pl": "Sem. dyplomowe",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
      "date": "2026-12-10",
      "start": "15:15",
      "pl": "Sem. dyplomowe",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1058,7 +1075,7 @@
      "k": "S",
      "p": "dr Antoni Górny",
      "r": "s. 120",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
@@ -1066,9 +1083,9 @@
      "start": "11:45",
      "pl": "(co 2 tyg.) Literatura Ameryki Północnej ewentualnie Wielkopolska",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1077,9 +1094,9 @@
      "start": "11:45",
      "pl": "Do wyboru (co 2 tyg.) Methodologies of Cultural Studies: From Text to Image",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1092,7 +1109,7 @@
      "k": "W",
      "p": "dr Krystian Grądz",
      "r": "s. 310",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -1104,10 +1121,10 @@
      "k": "W",
      "p": "dr Krystian Grądz",
      "r": "s. 310",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:46:23.841Z"
+  "updatedAt": "2026-11-18T14:06:07.737Z"
  }
 }

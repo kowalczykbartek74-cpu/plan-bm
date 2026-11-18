@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "38 plików zjazdów (13 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "wersja": "42 plików zjazdów (16 dni)",
+ "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
  "kierunek": "Pedagogika resocjalizacyjna",
  "kierunekEn": "Rehabilitation Pedagogy",
  "id": "wns-reso-1-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "RESO2": {
    "odd": [
@@ -29,6 +29,20 @@
      "r": "online (MS Teams)",
      "dates": [
       "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Warsztaty pracy kuratora sądowego",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr P. Popek",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-11"
      ]
     },
     {
@@ -98,7 +112,8 @@
      "p": "dr M. Zięciak, dr A. Sander",
      "r": "s. 35 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-07"
+      "2026-11-07",
+      "2026-12-12"
      ]
     },
     {
@@ -145,6 +160,20 @@
     },
     {
      "d": 5,
+     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Profilaktyka społeczna",
      "k": "W",
      "time": [
@@ -183,6 +212,20 @@
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr U. Kaubowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -252,6 +295,19 @@
      "r": "s. 49 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Warsztaty pracy kuratora sądowego A. Kachlicka - Klimek",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -340,6 +396,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M.Grabowska, mgr A. Meyer",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
      "k": "CW",
      "time": [
@@ -396,6 +466,20 @@
     },
     {
      "d": 6,
+     "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr u. Kazubowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Profilaktyka społeczna",
      "k": "W",
      "time": [
@@ -448,6 +532,20 @@
      "r": "s. 50 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr u. Kazubowska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -510,6 +608,20 @@
     },
     {
      "d": 4,
+     "pl": "Warsztaty pracy kuratora sądowego",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr P. Popek",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Wykład ogólnouczelniany",
      "k": "W",
      "time": [
@@ -575,7 +687,8 @@
      "p": "dr M. Zięciak, dr A. Sander",
      "r": "s. 35 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-07"
+      "2026-11-07",
+      "2026-12-12"
      ]
     },
     {
@@ -622,6 +735,20 @@
     },
     {
      "d": 5,
+     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Profilaktyka społeczna",
      "k": "W",
      "time": [
@@ -660,6 +787,20 @@
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr U. Kaubowska",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -729,6 +870,19 @@
      "r": "s. 49 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Warsztaty pracy kuratora sądowego A. Kachlicka - Klimek",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -817,6 +971,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M.Grabowska, mgr A. Meyer",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
      "k": "CW",
      "time": [
@@ -873,6 +1041,20 @@
     },
     {
      "d": 6,
+     "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr u. Kazubowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Profilaktyka społeczna",
      "k": "W",
      "time": [
@@ -925,6 +1107,20 @@
      "r": "s. 50 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr u. Kazubowska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

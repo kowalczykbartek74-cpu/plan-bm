@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-17T16:45:51.291Z",
+ "checkedAt": "2026-11-18T13:58:37.015Z",
  "groups": {
   "MIKR3": {
    "odd": [
@@ -1311,6 +1311,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/odwolane-zajecia-z-jezyka-niemieckiego-z-mgr-m-kisiel-spychala/",
+    "title": "Odwołane zajęcia z języka niemieckiego z mgr M. Kisiel-Spychałą",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "W dniach 18.11-27.11.2026 zajęcia z języka niemieckiego z mgr Magdaleną Kisiel-Spychłą są odwołane. Odrobienie zajęć zostanie ustalone z prowadzącą na kolejnym spotkaniu. Ogłoszenie dotyczy następujących kierunków WNŚiP: biologia I st. 2 i 3 rok , fizyka I st. 2 i 3 rok , geografia I st. 2 rok , GiBE I st. 2 rok , matematyka I st. 2 rok , mikrobiologia I st. 3 rok"
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/10/mikrobiologia-i-st-3-rok-odwolany-wyklad-z-dr-a-maruszewska-w-dniu-28-10/",
     "title": "Mikrobiologia I st. 3 rok – odwołany wykład z dr A. Maruszewską w dniu 28.10",
     "ym": "2026-10",
@@ -1325,13 +1332,19 @@
      "date": "2026-10-28",
      "start": "12:35",
      "pl": "Metody instrumentalne w diagnostyce laboratoryjnej",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-27",
+     "post": 0,
+     "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.262Z"
+  "updatedAt": "2026-11-18T14:08:21.237Z"
  }
 }

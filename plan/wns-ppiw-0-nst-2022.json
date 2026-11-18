@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "38 plików zjazdów (10 dni)",
- "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "wersja": "42 plików zjazdów (12 dni)",
+ "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2022",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-17T16:45:17.001Z",
+ "changedAt": "2026-11-18T13:57:56.927Z",
+ "checkedAt": "2026-11-18T13:57:56.927Z",
  "groups": {
   "PPIW5": {
    "odd": [
@@ -89,6 +89,19 @@
     },
     {
      "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
      "k": "W",
      "time": [
@@ -113,6 +126,19 @@
      "r": "s. 44 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -202,6 +228,19 @@
     {
      "d": 5,
      "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
      "k": "CW",
      "time": [
       "13:30",
@@ -226,6 +265,19 @@
      "dates": [
       "2026-10-10",
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -300,6 +352,20 @@
     },
     {
      "d": 5,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Seminarium dyplomowe",
      "k": "S",
      "time": [
@@ -370,6 +436,20 @@
     },
     {
      "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. L. Orzelska, prof. US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Trudności i niepowodzenia szkolne uczniów w młodszym wieku szkolnym",
      "k": "W",
      "time": [
@@ -436,6 +516,20 @@
      "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Trudności i niepowodzenia szkolne uczniów w młodszym wieku szkolnym",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -554,6 +648,19 @@
     },
     {
      "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
      "k": "W",
      "time": [
@@ -578,6 +685,19 @@
      "r": "s. 44 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -667,6 +787,19 @@
     {
      "d": 5,
      "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
      "k": "CW",
      "time": [
       "13:30",
@@ -691,6 +824,19 @@
      "dates": [
       "2026-10-10",
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -765,6 +911,20 @@
     },
     {
      "d": 5,
+     "pl": "Organizowanie środowiska i przestrzeni edukacji dziecka",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr inż.. M. Nermend",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Seminarium dyplomowe",
      "k": "S",
      "time": [
@@ -835,6 +995,20 @@
     },
     {
      "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. L. Orzelska, prof. US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Trudności i niepowodzenia szkolne uczniów w młodszym wieku szkolnym",
      "k": "W",
      "time": [
@@ -901,6 +1075,20 @@
      "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Trudności i niepowodzenia szkolne uczniów w młodszym wieku szkolnym",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "mgr J. Majchrzak",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

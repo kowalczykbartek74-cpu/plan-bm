@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-17T16:46:06.843Z",
+ "checkedAt": "2026-11-18T13:58:54.301Z",
  "groups": {
   "ADM1": {
    "odd": [
@@ -947,6 +947,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-ii-iii-ssa-i-st-ii-iii-odwolane-zajecia-z-jezyka-niemieckiego-w-dniach-24-25-11-2026/",
+    "title": "SSP II, III / SSA I st. II, III – odwołane zajęcia z języka niemieckiego w dniach 24-25.11.2026",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Informujemy, że w dniach 24-25.11.2026 r. zajęcia z języka niemieckiego dla: II i III roku kier. prawo, studia stacjonarne; II i III roku kier. administracja, studia stacjonarne nie odbędą się. Termin odrobienia zajęć zostanie ustalony wkrótce."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-i-st-i-rok-przelozenie-zajec-dydaktycznych-z-przedmiotu-nauka-administracji-z-elementami-teorii-organizacji-i-zarzadzania-dr-d-skoczylas/",
     "title": "SSA I st. I rok – Przełożenie zajęć dydaktycznych z przedmiotu Nauka administracji z elementami teorii organizacji i zarządzania (dr D.Skoczylas)",
     "ym": "2026-11",
@@ -1021,7 +1028,7 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 403",
-     "post": 8
+     "post": 9
     },
     {
      "type": "extra",
@@ -1032,27 +1039,27 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 217",
-     "post": 7
+     "post": 8
     },
     {
      "type": "note",
      "date": "2026-10-08",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 6
+     "post": 7
     },
     {
      "type": "cancel",
      "date": "2026-10-28",
      "start": "08:15",
      "pl": "Informatyka w administracji",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -1060,9 +1067,9 @@
      "date": "2026-10-28",
      "start": "10:00",
      "pl": "Informatyka w administracji",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -1070,24 +1077,24 @@
      "date": "2026-10-28",
      "start": "11:45",
      "pl": "Informatyka w administracji",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 4
+     "post": 5
     },
     {
      "type": "cancel",
      "date": "2026-11-04",
      "start": "10:00",
      "pl": "Podstawy prawoznawstwa",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -1095,19 +1102,25 @@
      "date": "2026-11-18",
      "start": "08:15",
      "pl": "Nauka administracji z elementami teorii organizacji i zarządzania",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-25",
+     "post": 0,
+     "niska": true
     },
     {
      "type": "cancel",
      "date": "2026-12-01",
      "start": "14:30",
      "pl": "Mikroekonomia",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -1120,16 +1133,16 @@
      "k": "CW",
      "p": "dr D. Skoczylas",
      "r": "s. 217",
-     "post": 0
+     "post": 1
     },
     {
      "type": "note",
      "date": "2027-01-19",
-     "post": 1,
+     "post": 2,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-16T15:01:54.926Z"
+  "updatedAt": "2026-11-18T14:08:21.413Z"
  }
 }

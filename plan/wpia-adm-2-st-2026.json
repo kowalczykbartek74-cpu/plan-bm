@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-17T16:46:06.843Z",
+ "checkedAt": "2026-11-18T13:58:54.301Z",
  "groups": {
   "ADM1": {
    "odd": [
@@ -677,6 +677,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolany-dyzur-dydaktyczny-dra-hab-w-staszewskiego-prof-us-w-dniu-19-11-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny dra hab. W. Staszewskiego, prof. US w dniu 19.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Informujemy, że dyżur dydaktyczny dra hab. W. Staszewskiego, prof. US w dniu 19.11.2026 r. nie odbędzie się."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-ii-st-i-r-zmiana-sali-w-dniach-4-xi-oraz-26-xi/",
     "title": "SSA II st. I r. – zmiana sali w dniach 4.XI oraz 26.XI",
     "ym": "2026-10",
@@ -726,28 +733,28 @@
      "date": "2026-10-13",
      "start": "10:00",
      "pl": "Historia myśli ustrojowo-administracyjnej",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 4
+     "post": 5
     },
     {
      "type": "note",
      "date": "2026-10-20",
-     "post": 3
+     "post": 4
     },
     {
      "type": "note",
      "date": "2026-11-04",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.406Z"
+  "updatedAt": "2026-11-18T14:08:21.444Z"
  }
 }

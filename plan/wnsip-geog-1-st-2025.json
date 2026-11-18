@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-17T16:45:51.291Z",
+ "checkedAt": "2026-11-18T13:58:37.015Z",
  "groups": {
   "GEOG2": {
    "odd": [
@@ -1045,6 +1045,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/odwolane-zajecia-z-jezyka-niemieckiego-z-mgr-m-kisiel-spychala/",
+    "title": "Odwołane zajęcia z języka niemieckiego z mgr M. Kisiel-Spychałą",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "W dniach 18.11-27.11.2026 zajęcia z języka niemieckiego z mgr Magdaleną Kisiel-Spychłą są odwołane. Odrobienie zajęć zostanie ustalone z prowadzącą na kolejnym spotkaniu. Ogłoszenie dotyczy następujących kierunków WNŚiP: biologia I st. 2 i 3 rok , fizyka I st. 2 i 3 rok , geografia I st. 2 rok , GiBE I st. 2 rok , matematyka I st. 2 rok , mikrobiologia I st. 3 rok"
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/odwolane-zajecia-w-dn-08-12-z-przedmiotu-bazy-danych-przestrzennych-geografia-i-st-2-rok/",
     "title": "odwołane zajęcia w dn. 08.12. z przedmiotu bazy danych przestrzennych – Geografia I st. 2 rok",
     "ym": "2026-11",
@@ -1070,7 +1077,7 @@
      "pl": "Systemy informacji geograficznej",
      "k": "LAB",
      "p": "dr N. Bugajny",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -1081,7 +1088,7 @@
      "pl": "Systemy informacji geograficznej",
      "k": "LAB",
      "p": "dr N. Bugajny",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -1092,21 +1099,21 @@
      "pl": "Systemy informacji geograficznej",
      "k": "LAB",
      "p": "dr N. Bugajny",
-     "post": 1
+     "post": 2
     },
     {
      "type": "note",
      "date": "2026-12-07",
-     "post": 0
+     "post": 1
     },
     {
      "type": "cancel",
      "date": "2026-12-07",
      "start": "10:00",
      "pl": "Systemy informacji geograficznej",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1119,10 +1126,10 @@
      "k": "LAB",
      "p": "dr A. Giza",
      "r": "s. 307 M18",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-17T14:32:50.402Z"
+  "updatedAt": "2026-11-18T14:08:21.063Z"
  }
 }

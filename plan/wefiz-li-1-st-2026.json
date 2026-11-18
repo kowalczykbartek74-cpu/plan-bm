@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "17.11.2026 07:54",
- "changedAt": "2026-11-08T18:37:42.403Z",
- "checkedAt": "2026-11-17T16:37:37.662Z",
+ "updated": "18.11.2026 14:03",
+ "changedAt": "2026-11-18T13:48:08.165Z",
+ "checkedAt": "2026-11-18T13:48:08.165Z",
  "groups": {
   "C161": {
    "odd": [
@@ -161,6 +161,18 @@
      "r": "s. 523"
     },
     {
+     "d": 3,
+     "s": 1,
+     "pl": "Zajęcia z dr natalią sypion",
+     "k": "X",
+     "p": "26, godz. .30,",
+     "r": "sala S0205/0206 na",
+     "dates": [
+      "2026-12-10"
+     ],
+     "n": "Jednorazowo: 10.12.2026"
+    },
+    {
      "d": 0,
      "s": 2,
      "pl": "Inżynieria systemów i analiza systemowa",
@@ -183,6 +195,18 @@
      "k": "W",
      "p": "dr inż. Tomasz Wiśniewski",
      "r": "s. 607"
+    },
+    {
+     "d": 3,
+     "s": 2,
+     "pl": "Zajęcia z dr natalią sypion",
+     "k": "X",
+     "p": "26, godz. .30,",
+     "r": "sala S0205/0206 na",
+     "dates": [
+      "2026-12-10"
+     ],
+     "n": "Jednorazowo: 10.12.2026"
     },
     {
      "d": 0,
@@ -362,6 +386,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/c131-c171-c161-c132-m130-131-terminy-warsztatow-z-dr-natalia-sypion-z-podstaw-projektowania-uniwersalnego/",
+    "title": "C131, C171, C161, C132, M130-131- terminy warsztatów z dr Natalią Sypion z podstaw projektowania uniwersalnego",
+    "ym": "2026-11",
+    "pub": "2026-11-18",
+    "text": "Kampus Cukrowa: C131 – 25.11.26, godz. 08.15-11.30, sala S0205/0206 na Mic. 64 C171 – 26.11.2026, godz. 10.00-13.30, sala S0205/0206 na Mic. 64 C161 – 10.12.26, godz.10.00-13.30, sala S0205/0206 na Mic. 64 C132 – 02.12.26, godz. 12.00-15.15, sala S0100 na Mic. 64 Kampus Mickiewicza: M130 – 17.12.2026, godz.12.00-15.15, sala S0205/0206 na Mic. 64 M131 – 03.12.26, godz. 14.00-17.15, sala S0205/0206 na Mic. 64"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c161-53/",
     "title": "GRUPA C161",
     "ym": "2026-11",
@@ -388,7 +419,7 @@
      "k": "X",
      "p": "dr inż. Tomasz Wiśniewski",
      "r": "s. 109",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -396,9 +427,9 @@
      "date": "2026-11-18",
      "start": "12:00",
      "pl": "Matematyka",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -406,13 +437,81 @@
      "date": "2026-11-18",
      "start": "13:45",
      "pl": "Matematyka",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-25",
+     "start": "8:15",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-02",
+     "start": "12:00",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0100",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "14:00",
+     "end": "17:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "10:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-17",
+     "start": "12:00",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S0205/0206",
+     "post": 0,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-10T13:31:11.328Z"
+  "updatedAt": "2026-11-18T14:01:44.772Z"
  }
 }
