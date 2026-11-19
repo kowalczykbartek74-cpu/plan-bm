@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
- "wersja": "BW-I-68.pdf",
- "sha256": "60d2ee3a5a0b2eec15037d1c2120e2374184c20b4df2ebd4df61e5bed4d0ce34",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-69.pdf",
+ "wersja": "BW-I-69.pdf",
+ "sha256": "a99e929a423625685ff560605573b19dfa34a53f2c816643500478495d254633",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-1-st-2026",
@@ -12,15 +12,15 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-18T16:14:26.342Z",
+ "changedAt": "2026-11-19T14:05:46.797Z",
+ "checkedAt": "2026-11-19T14:05:46.797Z",
  "groups": {
   "BW1": {
    "odd": [
     {
      "d": 1,
      "pl": "Najnowsza historia polityczna",
-     "k": "X",
+     "k": "CW",
      "time": [
       "08:15",
       "09:45"
@@ -28,7 +28,7 @@
      "p": "dr M. Mieczkowska",
      "r": "s. 239",
      "n": "ostatnie zajęcia w godz. 8.15-9.00",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -51,7 +51,7 @@
      "p": "dr R. Zych",
      "r": "s. 237",
      "n": "pierwsze zajęcia w godz. 9.00-9.45",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -76,7 +76,7 @@
      "p": "dr D. Kowalewska",
      "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 8.15-9.00",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -98,8 +98,8 @@
      ],
      "p": "prof. H. Więcław",
      "r": "s. 009",
-     "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:2",
+     "n": "pierwsze zajęcia w godz. 9.00-9.45",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -124,7 +124,7 @@
      "p": "dr M. Szulc",
      "r": "s. 258",
      "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -149,7 +149,7 @@
      "p": "dr M. Szulc",
      "r": "s. 258",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -164,7 +164,7 @@
     {
      "d": 1,
      "pl": "Najnowsza historia polityczna",
-     "k": "X",
+     "k": "CW",
      "time": [
       "10:00",
       "11:30"
@@ -172,7 +172,7 @@
      "p": "dr M. Mieczkowska",
      "r": "s. 239",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -195,7 +195,7 @@
      "p": "dr R. Zych",
      "r": "s. 237",
      "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -220,7 +220,7 @@
      "p": "dr D. Kowalewska",
      "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -243,7 +243,7 @@
      "p": "dr A. Raba-Schulze",
      "r": "s. 257",
      "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -268,7 +268,7 @@
      "p": "prof. H. Więcław",
      "r": "s. 009",
      "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -293,7 +293,7 @@
      "p": "dr M. Szulc",
      "r": "s. 258",
      "n": "pierwsze zajęcia w godz. 12.30-13.15",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -318,7 +318,7 @@
      "p": "dr M. Szulc",
      "r": "s. 258",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -333,7 +333,7 @@
     {
      "d": 1,
      "pl": "Najnowsza historia polityczna",
-     "k": "X",
+     "k": "CW",
      "time": [
       "11:45",
       "13:15"
@@ -341,7 +341,7 @@
      "p": "dr M. Mieczkowska",
      "r": "s. 239",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -364,7 +364,7 @@
      "p": "dr R. Zych",
      "r": "s. 237",
      "n": "pierwsze zajęcia w godz. 12.30-13.15",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -389,7 +389,7 @@
      "p": "dr D. Kowalewska",
      "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -412,7 +412,7 @@
      "p": "dr A. Raba-Schulze",
      "r": "s. 257",
      "n": "pierwsze zajęcia w godz. 12.30-13.15",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -437,7 +437,7 @@
      "p": "prof. H. Więcław",
      "r": "s. 009",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -460,7 +460,7 @@
      "p": "prof. H. Więcław",
      "r": "s. 009",
      "n": "pierwsze zajęcia w godz. 12.30-13.15",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -477,7 +477,7 @@
     {
      "d": 1,
      "pl": "Najnowsza historia polityczna",
-     "k": "X",
+     "k": "CW",
      "time": [
       "13:30",
       "15:00"
@@ -485,7 +485,7 @@
      "p": "dr M. Mieczkowska",
      "r": "s. 239",
      "n": "ostatnie zajęcia w godz. 13.30-14.15",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -507,7 +507,7 @@
      ],
      "p": "dr K. Głowacka",
      "r": "s. 228",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -539,7 +539,7 @@
      "p": "dr R. Zych",
      "r": "s. 237",
      "n": "pierwsze zajęcia w godz. 14.15-15.00",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -564,7 +564,7 @@
      "p": "dr A. Raba-Schulze",
      "r": "s. 257",
      "n": "pierwsze zajęcia w godz. 14.15-15.00",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -588,7 +588,7 @@
      ],
      "p": "dr K. Głowacka",
      "r": "s. 228",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -620,7 +620,7 @@
      "p": "dr D. Kowalewska",
      "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 15.15.16.00",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -643,7 +643,7 @@
      "p": "dr A. Raba-Schulze",
      "r": "s. 257",
      "n": "pierwsze zajęcia w godz. 16.00-16.45",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -914,7 +914,7 @@
      ],
      "p": "dr K. Głowacka",
      "r": "s. 235",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -946,7 +946,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (21I) w godz.",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-08",
       "2026-10-22",
@@ -968,7 +968,7 @@
      ],
      "p": "dr K. Głowacka",
      "r": "s. 235",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -1000,7 +1000,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (21I) w godz.",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-08",
       "2026-10-22",
@@ -1023,7 +1023,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (22I) w godz.",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-10-09",
       "2026-10-23",
@@ -1046,7 +1046,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (22I) w godz.",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-09",
       "2026-10-23",
@@ -1069,7 +1069,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (22I) w godz.",
-     "pg": "gr:5",
+     "pg": "gr:BW- SI.26- 15",
      "dates": [
       "2026-10-09",
       "2026-10-23",
@@ -1101,7 +1101,7 @@
     {
      "d": 1,
      "pl": "Najnowsza historia polityczna",
-     "k": "X",
+     "k": "CW",
      "time": [
       "08:15",
       "09:45"
@@ -1109,7 +1109,7 @@
      "p": "dr M. Mieczkowska",
      "r": "s. 239",
      "n": "ostatnie zajęcia w godz. 8.15-9.00",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1132,7 +1132,7 @@
      "p": "dr R. Zych",
      "r": "s. 237",
      "n": "pierwsze zajęcia w godz. 9.00-9.45",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1157,7 +1157,7 @@
      "p": "dr D. Kowalewska",
      "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 8.15-9.00",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1179,8 +1179,8 @@
      ],
      "p": "prof. H. Więcław",
      "r": "s. 009",
-     "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:2",
+     "n": "pierwsze zajęcia w godz. 9.00-9.45",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1205,7 +1205,7 @@
      "p": "dr M. Szulc",
      "r": "s. 258",
      "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1230,7 +1230,7 @@
      "p": "dr M. Szulc",
      "r": "s. 258",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1245,7 +1245,7 @@
     {
      "d": 1,
      "pl": "Najnowsza historia polityczna",
-     "k": "X",
+     "k": "CW",
      "time": [
       "10:00",
       "11:30"
@@ -1253,7 +1253,7 @@
      "p": "dr M. Mieczkowska",
      "r": "s. 239",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1276,7 +1276,7 @@
      "p": "dr R. Zych",
      "r": "s. 237",
      "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1301,7 +1301,7 @@
      "p": "dr D. Kowalewska",
      "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1324,7 +1324,7 @@
      "p": "dr A. Raba-Schulze",
      "r": "s. 257",
      "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1349,7 +1349,7 @@
      "p": "prof. H. Więcław",
      "r": "s. 009",
      "n": "pierwsze zajęcia w godz. 10.45-11.30",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1374,7 +1374,7 @@
      "p": "dr M. Szulc",
      "r": "s. 258",
      "n": "pierwsze zajęcia w godz. 12.30-13.15",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1399,7 +1399,7 @@
      "p": "dr M. Szulc",
      "r": "s. 258",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1414,7 +1414,7 @@
     {
      "d": 1,
      "pl": "Najnowsza historia polityczna",
-     "k": "X",
+     "k": "CW",
      "time": [
       "11:45",
       "13:15"
@@ -1422,7 +1422,7 @@
      "p": "dr M. Mieczkowska",
      "r": "s. 239",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1445,7 +1445,7 @@
      "p": "dr R. Zych",
      "r": "s. 237",
      "n": "pierwsze zajęcia w godz. 12.30-13.15",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1470,7 +1470,7 @@
      "p": "dr D. Kowalewska",
      "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1493,7 +1493,7 @@
      "p": "dr A. Raba-Schulze",
      "r": "s. 257",
      "n": "pierwsze zajęcia w godz. 12.30-13.15",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1518,7 +1518,7 @@
      "p": "prof. H. Więcław",
      "r": "s. 009",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1541,7 +1541,7 @@
      "p": "prof. H. Więcław",
      "r": "s. 009",
      "n": "pierwsze zajęcia w godz. 12.30-13.15",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1558,7 +1558,7 @@
     {
      "d": 1,
      "pl": "Najnowsza historia polityczna",
-     "k": "X",
+     "k": "CW",
      "time": [
       "13:30",
       "15:00"
@@ -1566,7 +1566,7 @@
      "p": "dr M. Mieczkowska",
      "r": "s. 239",
      "n": "ostatnie zajęcia w godz. 13.30-14.15",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1588,7 +1588,7 @@
      ],
      "p": "dr K. Głowacka",
      "r": "s. 228",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1620,7 +1620,7 @@
      "p": "dr R. Zych",
      "r": "s. 237",
      "n": "pierwsze zajęcia w godz. 14.15-15.00",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1645,7 +1645,7 @@
      "p": "dr A. Raba-Schulze",
      "r": "s. 257",
      "n": "pierwsze zajęcia w godz. 14.15-15.00",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1669,7 +1669,7 @@
      ],
      "p": "dr K. Głowacka",
      "r": "s. 228",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1701,7 +1701,7 @@
      "p": "dr D. Kowalewska",
      "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 15.15.16.00",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -1724,7 +1724,7 @@
      "p": "dr A. Raba-Schulze",
      "r": "s. 257",
      "n": "pierwsze zajęcia w godz. 16.00-16.45",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -1995,7 +1995,7 @@
      ],
      "p": "dr K. Głowacka",
      "r": "s. 235",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -2027,7 +2027,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (21I) w godz.",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-08",
       "2026-10-22",
@@ -2049,7 +2049,7 @@
      ],
      "p": "dr K. Głowacka",
      "r": "s. 235",
-     "pg": "gr:1",
+     "pg": "gr:BW- SI.26- 11",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -2081,7 +2081,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (21I) w godz.",
-     "pg": "gr:3",
+     "pg": "gr:BW- SI.26- 13",
      "dates": [
       "2026-10-08",
       "2026-10-22",
@@ -2104,7 +2104,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (22I) w godz.",
-     "pg": "gr:2",
+     "pg": "gr:BW- SI.26- 12",
      "dates": [
       "2026-10-09",
       "2026-10-23",
@@ -2127,7 +2127,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (22I) w godz.",
-     "pg": "gr:4",
+     "pg": "gr:BW- SI.26- 14",
      "dates": [
       "2026-10-09",
       "2026-10-23",
@@ -2150,7 +2150,7 @@
      "p": "dr M. Smolaga",
      "r": "s. 237",
      "n": "Ostatnie zajęcia (22I) w godz.",
-     "pg": "gr:5",
+     "pg": "gr:BW- SI.26- 15",
      "dates": [
       "2026-10-09",
       "2026-10-23",

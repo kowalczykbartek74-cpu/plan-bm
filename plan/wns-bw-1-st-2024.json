@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
- "wersja": "BW-I-68.pdf",
- "sha256": "60d2ee3a5a0b2eec15037d1c2120e2374184c20b4df2ebd4df61e5bed4d0ce34",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-69.pdf",
+ "wersja": "BW-I-69.pdf",
+ "sha256": "a99e929a423625685ff560605573b19dfa34a53f2c816643500478495d254633",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-18T16:14:26.342Z",
+ "changedAt": "2026-11-19T14:05:46.797Z",
+ "checkedAt": "2026-11-19T14:05:46.797Z",
  "groups": {
   "BW3": {
    "odd": [
@@ -330,7 +330,7 @@
       "09:45"
      ],
      "p": "prof. R. Podgórzańska, prof. M. Cupryjak, prof. M. Orzechowski, prof. J. Ruszkowski, dr A. Raba-Schulze",
-     "n": "Seminaria odbywają się w gabinetach Promotorów",
+     "n": "Seminaria odbywają",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -399,14 +399,13 @@
     },
     {
      "d": 3,
-     "pl": "Bezpieczeństwo człowieka",
+     "pl": "Grupa 2 PiNwSK Bezpieczeństwo człowieka",
      "k": "W",
      "time": [
       "13:30",
       "15:00"
      ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 257",
+     "p": "dr M. Brzostek",
      "n": "pierwsze zajęcia w godz. 14.15-15.00",
      "dates": [
       "2026-11-26",
@@ -430,8 +429,8 @@
       "15:00"
      ],
      "p": "dr M. Sikora",
-     "r": "s. 248",
-     "n": "ostatnie zajęcia w godz. 13.30-14.15 TYLKO GR. 2 PiNwSK",
+     "r": "s. 257",
+     "n": "ostatnie zajęcia w godz. 13.30-14.15",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -451,7 +450,7 @@
       "15:15",
       "16:45"
      ],
-     "p": "dr M. Sifkora",
+     "p": "dr M. Sikora",
      "r": "s. 248",
      "pg": "spec:PiNwSK",
      "dates": [
@@ -512,7 +511,8 @@
      "time": [
       "17:00",
       "18:30"
-     ]
+     ],
+     "n": "według harmonogramu na stronie wydziału"
     },
     {
      "d": 4,
@@ -859,7 +859,7 @@
       "09:45"
      ],
      "p": "prof. R. Podgórzańska, prof. M. Cupryjak, prof. M. Orzechowski, prof. J. Ruszkowski, dr A. Raba-Schulze",
-     "n": "Seminaria odbywają się w gabinetach Promotorów",
+     "n": "Seminaria odbywają",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -928,14 +928,13 @@
     },
     {
      "d": 3,
-     "pl": "Bezpieczeństwo człowieka",
+     "pl": "Grupa 2 PiNwSK Bezpieczeństwo człowieka",
      "k": "W",
      "time": [
       "13:30",
       "15:00"
      ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 257",
+     "p": "dr M. Brzostek",
      "n": "pierwsze zajęcia w godz. 14.15-15.00",
      "dates": [
       "2026-11-26",
@@ -959,8 +958,8 @@
       "15:00"
      ],
      "p": "dr M. Sikora",
-     "r": "s. 248",
-     "n": "ostatnie zajęcia w godz. 13.30-14.15 TYLKO GR. 2 PiNwSK",
+     "r": "s. 257",
+     "n": "ostatnie zajęcia w godz. 13.30-14.15",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -980,7 +979,7 @@
       "15:15",
       "16:45"
      ],
-     "p": "dr M. Sifkora",
+     "p": "dr M. Sikora",
      "r": "s. 248",
      "pg": "spec:PiNwSK",
      "dates": [
@@ -1041,7 +1040,8 @@
      "time": [
       "17:00",
       "18:30"
-     ]
+     ],
+     "n": "według harmonogramu na stronie wydziału"
     },
     {
      "d": 4,

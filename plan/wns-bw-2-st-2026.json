@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-56.pdf",
- "wersja": "BW-II-56.pdf",
- "sha256": "49ea4640ae4ed993e28558fe7f03150de29adf235b033a27bcadadd711c5b6c5",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-57.pdf",
+ "wersja": "BW-II-57.pdf",
+ "sha256": "37789108ed75071a088b5ce5eb0222b2b424c5ecc9928052dd1e66a3e658836e",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-2-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-18T16:14:26.342Z",
+ "changedAt": "2026-11-19T14:05:46.797Z",
+ "checkedAt": "2026-11-19T14:05:46.797Z",
  "groups": {
   "BW1": {
    "odd": [
@@ -178,7 +178,7 @@
       "10:00",
       "11:30"
      ],
-     "p": "dr J. Kołodziejska",
+     "p": "dr J. Kołodziejska/dr K. Głowacka",
      "r": "s. 142",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
      "pg": "spec:TiTK",
@@ -250,7 +250,7 @@
       "11:45",
       "13:15"
      ],
-     "p": "dr J. Kołodziejska",
+     "p": "dr J. Kołodziejska/dr K. Głowacka",
      "r": "s. 142",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
      "pg": "spec:TiTK",
@@ -415,21 +415,7 @@
       "08:15",
       "09:45"
      ],
-     "p": "dr P. Ostrowski",
-     "r": "s. 228",
-     "n": "pierwsze zajęcia w godz. 9.00-9.45",
-     "dates": [
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
+     "p": "dr P. Ostrowski"
     },
     {
      "d": 3,
@@ -440,26 +426,7 @@
       "11:30"
      ],
      "p": "prof. L. Wojnicz-Smal",
-     "r": "s. 178",
-     "dates": [
-      "2026-10-08",
-      "2026-10-15",
-      "2026-10-22",
-      "2026-10-29",
-      "2026-11-05",
-      "2026-11-12",
-      "2026-11-19",
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
+     "r": "s. 178"
     },
     {
      "d": 3,
@@ -469,27 +436,7 @@
       "15:15",
       "16:45"
      ],
-     "p": "prof. L. Wojnicz-Smal, prof. T. Czapiewski, prof. R. Podgórzańska, prof. E. Kochanek, prof. B. Toszek, prof. K. Kowalczyk",
-     "n": "Seminaria odbywają się w gabinetach Promotorów",
-     "dates": [
-      "2026-10-08",
-      "2026-10-15",
-      "2026-10-22",
-      "2026-10-29",
-      "2026-11-05",
-      "2026-11-12",
-      "2026-11-19",
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
+     "p": "prof. L. Wojnicz-Smal, prof. T. Czapiewski"
     },
     {
      "d": 3,
@@ -499,27 +446,7 @@
       "17:00",
       "18:30"
      ],
-     "p": "prof. J. Piątek, prof. G. Ciechanowski",
-     "n": "Seminaria odbywają się w gabinetach Promotorów",
-     "dates": [
-      "2026-10-08",
-      "2026-10-15",
-      "2026-10-22",
-      "2026-10-29",
-      "2026-11-05",
-      "2026-11-12",
-      "2026-11-19",
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
+     "p": "prof. J. Piątek, prof. G. Ciechanowski"
     },
     {
      "d": 4,
@@ -706,7 +633,7 @@
       "10:00",
       "11:30"
      ],
-     "p": "dr J. Kołodziejska",
+     "p": "dr J. Kołodziejska/dr K. Głowacka",
      "r": "s. 142",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
      "pg": "spec:TiTK",
@@ -778,7 +705,7 @@
       "11:45",
       "13:15"
      ],
-     "p": "dr J. Kołodziejska",
+     "p": "dr J. Kołodziejska/dr K. Głowacka",
      "r": "s. 142",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
      "pg": "spec:TiTK",
@@ -943,21 +870,7 @@
       "08:15",
       "09:45"
      ],
-     "p": "dr P. Ostrowski",
-     "r": "s. 228",
-     "n": "pierwsze zajęcia w godz. 9.00-9.45",
-     "dates": [
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
+     "p": "dr P. Ostrowski"
     },
     {
      "d": 3,
@@ -968,26 +881,7 @@
       "11:30"
      ],
      "p": "prof. L. Wojnicz-Smal",
-     "r": "s. 178",
-     "dates": [
-      "2026-10-08",
-      "2026-10-15",
-      "2026-10-22",
-      "2026-10-29",
-      "2026-11-05",
-      "2026-11-12",
-      "2026-11-19",
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
+     "r": "s. 178"
     },
     {
      "d": 3,
@@ -997,27 +891,7 @@
       "15:15",
       "16:45"
      ],
-     "p": "prof. L. Wojnicz-Smal, prof. T. Czapiewski, prof. R. Podgórzańska, prof. E. Kochanek, prof. B. Toszek, prof. K. Kowalczyk",
-     "n": "Seminaria odbywają się w gabinetach Promotorów",
-     "dates": [
-      "2026-10-08",
-      "2026-10-15",
-      "2026-10-22",
-      "2026-10-29",
-      "2026-11-05",
-      "2026-11-12",
-      "2026-11-19",
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
+     "p": "prof. L. Wojnicz-Smal, prof. T. Czapiewski"
     },
     {
      "d": 3,
@@ -1027,27 +901,7 @@
       "17:00",
       "18:30"
      ],
-     "p": "prof. J. Piątek, prof. G. Ciechanowski",
-     "n": "Seminaria odbywają się w gabinetach Promotorów",
-     "dates": [
-      "2026-10-08",
-      "2026-10-15",
-      "2026-10-22",
-      "2026-10-29",
-      "2026-11-05",
-      "2026-11-12",
-      "2026-11-19",
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ]
+     "p": "prof. J. Piątek, prof. G. Ciechanowski"
     },
     {
      "d": 4,
@@ -1217,13 +1071,6 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
-    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/termin-odrobienia-zajec-z-dr-hab-b-toszkiem-prof-us/",
-    "title": "Termin odrobienia zajęć z dr hab. B. Toszkiem, prof. US",
-    "ym": "2026-10",
-    "pub": "2026-10-12",
-    "text": "Zajęcia z Podstaw prawa (BW I st. I r.) w środę 14.10 w godz. 15.15-16.45 nie odbędą się. Odrobienie zajęć nastąpi 9.12 (śr.) w godz. 15.15 – 16.45."
-   },
-   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-terminu-zajec-dr-hab-m-kamoli-cieslik-prof-us/",
     "title": "Zmiana terminu zajęć dr hab. M. Kamoli-Cieślik, prof. US",
     "ym": "2026-10",
@@ -1243,29 +1090,29 @@
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 2,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-21",
-     "post": 2,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-25",
-     "post": 2,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-02",
-     "post": 2,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:31:06.437Z"
+  "updatedAt": "2026-11-19T14:15:58.197Z"
  }
 }

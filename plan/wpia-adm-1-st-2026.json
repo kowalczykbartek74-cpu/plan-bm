@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-18T16:15:33.159Z",
+ "checkedAt": "2026-11-19T14:07:19.038Z",
  "groups": {
   "ADM1": {
    "odd": [
@@ -947,6 +947,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-i-st-i-r-zmiana-sali-w-dniu-3-12-2026-zajecia-z-przedmiotu-prawo-administracyjne-rzymian/",
+    "title": "SSA I st. I r. – zmiana sali w dniu 3.12.2026 (zajęcia z przedmiotu Prawo administracyjne Rzymian)",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Informujemy, że zajęcia z przedmiotu Prawo administracyjne Rzymian (dr M. Kubala) w dniu 3.12.2026 wyjątkowo odbędzie się w sali 219 Narutowicza."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-i-st-i-r-odrobienie-cwiczen-z-przedmiotu-podstawy-prawoznawstwa-gr-3-mgr-m-sowa/",
     "title": "SSA I st. I r. – odrobienie ćwiczeń z przedmiotu Podstawy prawoznawstwa gr. 3 (mgr M. Sowa)",
     "ym": "2026-11",
@@ -1015,28 +1022,10 @@
     "ym": "2026-09",
     "pub": "2026-09-18",
     "text": "Informujemy, że egzamin z przedmiotu Elementy logiki praktycznej dla osób, które uzyskały zgodę na usprawiedliwienie nieobecności odbędzie się 25.09.2026 r. o godzinie 15.30, sala 217 Narutowicza"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/ssa-i-st-i-r-termin-egzaminu-z-przedmiotu-konstytucyjny-system-organow-panstwowych-dr-j-uniejewski-dla-osob-z-usprawiedliwiona-nieobecnoscia/",
-    "title": "SSA I st. I r. – termin egzaminu z przedmiotu Konstytucyjny system organów państwowych (dr J. Uniejewski) dla osób z usprawiedliwioną nieobecnością",
-    "ym": "2026-09",
-    "pub": "2026-09-10",
-    "text": "Informujemy, że osoby, które uzyskały zgodę na usprawiedliwienie terminu nieobecności na egzaminie z przedmiotu Konstytucyjny system organów państwowych mogą przystąpić do egzaminu w dniu 21.09.2026 r. o godzinie 14.00 w gabinecie 403 Narutowicza."
    }
   ],
   "zmiany": {
    "ADM1": [
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-09-21",
-     "start": "14:00",
-     "end": "15:30",
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "s. 403",
-     "post": 10
-    },
     {
      "type": "extra",
      "kind": "change",
@@ -1046,27 +1035,27 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 217",
-     "post": 9
+     "post": 10
     },
     {
      "type": "note",
      "date": "2026-10-08",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 8
+     "post": 9
     },
     {
      "type": "cancel",
      "date": "2026-10-28",
      "start": "08:15",
      "pl": "Informatyka w administracji",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
@@ -1074,9 +1063,9 @@
      "date": "2026-10-28",
      "start": "10:00",
      "pl": "Informatyka w administracji",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
@@ -1084,29 +1073,29 @@
      "date": "2026-10-28",
      "start": "11:45",
      "pl": "Informatyka w administracji",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 6
+     "post": 7
     },
     {
      "type": "note",
      "date": "2026-11-04",
-     "post": 0
+     "post": 1
     },
     {
      "type": "cancel",
      "date": "2026-11-04",
      "start": "10:00",
      "pl": "Podstawy prawoznawstwa",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -1114,15 +1103,15 @@
      "date": "2026-11-18",
      "start": "08:15",
      "pl": "Nauka administracji z elementami teorii organizacji i zarządzania",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
      "type": "note",
      "date": "2026-11-25",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
@@ -1130,10 +1119,15 @@
      "date": "2026-12-01",
      "start": "14:30",
      "pl": "Mikroekonomia",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 0
     },
     {
      "type": "extra",
@@ -1145,16 +1139,16 @@
      "k": "CW",
      "p": "dr D. Skoczylas",
      "r": "s. 217",
-     "post": 2
+     "post": 3
     },
     {
      "type": "note",
      "date": "2027-01-19",
-     "post": 3,
+     "post": 4,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-18T16:22:35.553Z"
+  "updatedAt": "2026-11-19T14:17:03.757Z"
  }
 }

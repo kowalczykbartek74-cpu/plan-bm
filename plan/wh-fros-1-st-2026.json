@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-18T16:14:25.648Z",
+ "checkedAt": "2026-11-19T14:05:46.165Z",
  "groups": {
   "FROS1": {
    "odd": [
@@ -521,10 +521,24 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-katarzyna-kondziola-pich-przelozenie-zajec/",
+    "title": "dr Katarzyna Kondzioła-Pich- przełożenie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Dzień dobry, informujemy, że pracownik Katarzyna Kondzioła-Pich zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Językoznawstwa Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-19 8:00 2026-12-03 8:00 14 FRDJ-SI.26-11 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia rosyjska z dodatkowym językiem obcym stacjonarne pierwszego stopnia 1 wstęp do językoznawstwa konwersatorium – Przyczyna nieobecności inne Uzasadnienie Zmiana terminu zajęć na prośbę studentów Proponowana treść ogłoszenia dla studentów: Zajęcia z dr Katarzyną Kondziołą-Pich zostają przeniesione z 19.11.2026, godz. 8:00 na 3.12.2026, godz. 8:00."
+   }
+  ],
   "zmiany": {
-   "FROS1": []
+   "FROS1": [
+    {
+     "type": "note",
+     "date": "2026-11-19",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T18:07:28.266Z"
+  "updatedAt": "2026-11-19T14:14:46.380Z"
  }
 }

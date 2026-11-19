@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "18.11.2026 14:03",
- "changedAt": "2026-11-13T12:59:09.144Z",
- "checkedAt": "2026-11-18T16:06:34.763Z",
+ "updated": "19.11.2026 11:15",
+ "changedAt": "2026-11-19T13:55:34.050Z",
+ "checkedAt": "2026-11-19T13:55:34.050Z",
  "groups": {
   "C621": {
    "odd": [
@@ -151,14 +151,6 @@
      "r": "s. SIL 203 (lab)"
     },
     {
-     "d": 2,
-     "s": 3,
-     "pl": "Psychologia uczenia się i rozwoju (ćw) moduł prk",
-     "k": "X",
-     "p": "dr Paulina Dąbrosz-Drewnowska",
-     "r": "s. 707"
-    },
-    {
      "d": 3,
      "s": 3,
      "pl": "Język angielski gr. 2 ul. cukrowa 8, s. 507 mgr a. hancewicz",
@@ -183,6 +175,14 @@
      "pl": "Design thinking (ćw) moduł kiwb",
      "k": "X",
      "p": "mgr inż. Loran Nermend",
+     "r": "s. SIL 323"
+    },
+    {
+     "d": 2,
+     "s": 0,
+     "pl": "Psychologia uczenia się i rozwoju (ćw) moduł prk",
+     "k": "X",
+     "p": "dr Paulina Dąbrosz-Drewnowska",
      "r": "s. SIL 323"
     },
     {
@@ -764,6 +764,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c621-zmiana-w-planie/",
+    "title": "GRUPA C621– ZMIANA W PLANIE",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Szanowni Studenci od 25.11.2026 nastąpi zmiana w planie zajęcia PSYCHOLOGIA UCZENIA SIĘ I ROZWOJU (ĆW) MODUŁ PRK z dr Pauliną Dąbrosz-Drewnowska odbywać się będą w środy parzyste o 8:15 w Sali SIL 323 ."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c621-c622-31/",
     "title": "GRUPA C621, C622",
     "ym": "2026-11",
@@ -825,7 +832,8 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. SIL 213",
-     "post": 5
+     "post": 6,
+     "dup": true
     },
     {
      "type": "extra",
@@ -836,7 +844,7 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. SIL 116lab",
-     "post": 4,
+     "post": 5,
      "dup": true
     },
     {
@@ -844,9 +852,9 @@
      "date": "2026-10-20",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -859,7 +867,7 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 525",
-     "post": 6
+     "post": 7
     },
     {
      "type": "cancel",
@@ -867,9 +875,9 @@
      "start": "12:00",
      "pl": "Psychologia reklamy (ćw) moduł pm",
      "guess": true,
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -877,9 +885,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6
+      7
      ]
     },
     {
@@ -887,9 +895,9 @@
      "date": "2026-11-10",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -902,8 +910,13 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 525",
-     "post": 1,
+     "post": 2,
      "dup": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-25",
+     "post": 0
     },
     {
      "type": "extra",
@@ -914,7 +927,7 @@
      "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Karolina Muszyńska",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -922,9 +935,9 @@
      "date": "2026-12-08",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     }
    ],
@@ -939,16 +952,16 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. SIL 213",
-     "post": 5
+     "post": 6
     },
     {
      "type": "cancel",
      "date": "2026-10-20",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -961,7 +974,7 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 525",
-     "post": 6
+     "post": 7
     },
     {
      "type": "cancel",
@@ -969,9 +982,9 @@
      "start": "13:45",
      "pl": "Psychologia reklamy (ćw) moduł pm",
      "guess": true,
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -983,7 +996,7 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. SIL 116lab",
-     "post": 3,
+     "post": 4,
      "dup": true
     },
     {
@@ -991,9 +1004,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6
+      7
      ]
     },
     {
@@ -1001,9 +1014,9 @@
      "date": "2026-11-10",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1016,7 +1029,7 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Gadomska-Lila",
      "r": "s. 525",
-     "post": 1,
+     "post": 2,
      "dup": true
     },
     {
@@ -1028,7 +1041,7 @@
      "pl": "Seminarium dyplomowe",
      "k": "S",
      "p": "dr Karolina Muszyńska",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -1036,13 +1049,13 @@
      "date": "2026-12-08",
      "start": "10:00",
      "pl": "Seminarium dyplomowe",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     }
    ]
   },
-  "updatedAt": "2026-11-13T13:13:03.857Z"
+  "updatedAt": "2026-11-19T14:09:56.889Z"
  }
 }

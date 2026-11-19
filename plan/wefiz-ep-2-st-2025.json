@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T23:22:54.646Z",
- "checkedAt": "2026-11-18T16:15:33.159Z",
+ "checkedAt": "2026-11-19T14:07:19.038Z",
  "groups": {
   "EP2": {
    "odd": [
@@ -543,18 +543,10 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
-  "posts": [
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dra-p-manczyka-w-dn-10-09-2026-r/",
-    "title": "Odwołany dyżur dydaktyczny dra P. Mańczyka w dn. 10.09.2026 r.",
-    "ym": "2026-09",
-    "pub": "2026-09-10",
-    "text": "Informujemy, że dyżur dydaktyczny dra P. Mańczyka w dniu 10.09.2026 r. nie odbędzie się."
-   }
-  ],
+  "posts": [],
   "zmiany": {
    "EP2": []
   },
-  "updatedAt": "2026-11-09T23:29:53.690Z"
+  "updatedAt": "2026-11-19T14:14:25.823Z"
  }
 }

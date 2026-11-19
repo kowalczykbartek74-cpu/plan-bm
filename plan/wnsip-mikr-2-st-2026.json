@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:50:40.599Z",
- "checkedAt": "2026-11-18T16:15:13.382Z",
+ "checkedAt": "2026-11-19T14:06:56.772Z",
  "groups": {
   "MIKR1": {
    "odd": [
@@ -1145,6 +1145,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-ii-st-1-rok-odwolany-wyklad-z-genetyki-drobnoustrojow-w-dniu-19-11/",
+    "title": "Mikrobiologia II st. 1 rok – odwołany wykład z genetyki drobnoustrojów w dniu 19.11.",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Wykład z przedmiotu genetyka drobnoustrojów z dr Anną Wierzbicką-Woś w czwartek 19.11 zostaje odwołany. W związku z tym, termin ostatniego wykładu przesunął się na 21.01.2027r."
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-ii-st-1-rok-gr-2-odwolane-laboratorium-z-diagnostyki-bakteriologicznej-w-dniu-10-11/",
     "title": "Mikrobiologia II st. 1 rok (Gr. 2) – odwołane laboratorium z diagnostyki bakteriologicznej w dniu 10.11",
     "ym": "2026-11",
@@ -1166,9 +1173,9 @@
      "date": "2026-11-04",
      "start": "09:00",
      "pl": "Epidemiologia i profilaktyka chorób zakaźnych",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1176,6 +1183,16 @@
      "date": "2026-11-10",
      "start": "08:30",
      "pl": "Diagnostyka bakteriologiczna",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-19",
+     "start": "14:30",
+     "pl": "Genetyka drobnoustrojów",
      "post": 0,
      "posts": [
       0
@@ -1191,10 +1208,10 @@
      "k": "LAB",
      "p": "dr Dominika Bębnowska",
      "r": "s. 102F",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.283Z"
+  "updatedAt": "2026-11-19T14:17:03.660Z"
  }
 }

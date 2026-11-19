@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "18.11.2026 14:03",
+ "updated": "19.11.2026 11:15",
  "changedAt": "2026-11-13T12:59:14.603Z",
- "checkedAt": "2026-11-18T16:06:34.763Z",
+ "checkedAt": "2026-11-19T13:55:39.533Z",
  "groups": {
   "C521": {
    "odd": [
@@ -582,47 +582,10 @@
     "ym": "2026-10",
     "pub": "2026-10-08",
     "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: 11.01.2027 godz. 8:15 sala 623"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/c522/",
-    "title": "GRUPA C522",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Dnia 13.10.2026 i 20.10.2026 zostają odwołane zajęcia z dr hab. prof. US Ewą Mazur-Wierzbicka. Termin odrabiania zajęć: 26.10.2026 godz. 13:45-17:00 Sala 707"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-22/",
-    "title": "GRUPA C521",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Dnia 13.10.2026 i 20.10.2026 zostają odwołane zajęcia z dr hab. prof. US Ewą Mazur-Wierzbicka. Termin odrabiania zajęć: 08.10.2026 godz. 8:15-11:30 Sala 623"
    }
   ],
   "zmiany": {
    "C521": [
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-08",
-     "start": "8:15",
-     "end": "11:30",
-     "pl": "CSR",
-     "en": "Społeczna Odpowiedzialność Biznesu",
-     "k": "CW",
-     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
-     "r": "s. 623",
-     "post": 10
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-13",
-     "start": "10:00",
-     "pl": "CSR",
-     "post": 10,
-     "posts": [
-      10
-     ]
-    },
     {
      "type": "cancel",
      "date": "2026-10-19",
@@ -631,16 +594,6 @@
      "post": 8,
      "posts": [
       8
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "10:00",
-     "pl": "CSR",
-     "post": 10,
-     "posts": [
-      10
      ]
     },
     {
@@ -752,16 +705,6 @@
    "C522": [
     {
      "type": "cancel",
-     "date": "2026-10-13",
-     "start": "12:00",
-     "pl": "CSR",
-     "post": 9,
-     "posts": [
-      9
-     ]
-    },
-    {
-     "type": "cancel",
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Metody postępowania ze stresem",
@@ -779,29 +722,6 @@
      "posts": [
       4
      ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "12:00",
-     "pl": "CSR",
-     "post": 9,
-     "posts": [
-      9
-     ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-26",
-     "start": "13:45",
-     "end": "17:00",
-     "pl": "CSR",
-     "en": "Społeczna Odpowiedzialność Biznesu",
-     "k": "CW",
-     "p": "dr hab. prof. US Ewa Mazur-Wierzbicka",
-     "r": "s. 707",
-     "post": 9
     },
     {
      "type": "extra",
@@ -876,6 +796,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-13T13:13:16.128Z"
+  "updatedAt": "2026-11-19T14:10:06.535Z"
  }
 }

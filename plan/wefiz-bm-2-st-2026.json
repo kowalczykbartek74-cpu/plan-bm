@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "18.11.2026 14:03",
+ "updated": "19.11.2026 11:15",
  "changedAt": "2026-11-08T20:19:40.503Z",
- "checkedAt": "2026-11-18T16:06:34.750Z",
+ "checkedAt": "2026-11-19T13:52:53.114Z",
  "groups": {
   "C511": {
    "odd": [
@@ -454,13 +454,6 @@
     "ym": "2026-10",
     "pub": "2026-10-08",
     "text": "Zmiana sali w poniedziałek parzysty godz. 12:00. Nowa sala na zajęcia z dr J. Markiewicz – s. 112"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c511-i-c512-2/",
-    "title": "GRUPA C511 i C512",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "W dniu 21.10.2026 zajęcia online z Entrepreneurship są odwołane, termin odrobienie zajęć zostanie ustalony z grupą. The online Entrepreneurship class scheduled for October 21, 2026, is cancelled; the date for the make-up class will be arranged with the group."
    }
   ],
   "zmiany": {
@@ -487,21 +480,10 @@
      "p": "dr Barbara Czerniachowicz",
      "r": "s. SIL 323",
      "post": 0
-    },
-    {
-     "type": "note",
-     "date": "2026-10-21",
-     "post": 2
     }
    ],
-   "C512": [
-    {
-     "type": "note",
-     "date": "2026-10-21",
-     "post": 2
-    }
-   ]
+   "C512": []
   },
-  "updatedAt": "2026-11-08T20:37:41.619Z"
+  "updatedAt": "2026-11-19T14:08:47.184Z"
  }
 }

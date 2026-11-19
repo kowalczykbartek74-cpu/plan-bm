@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "18.11.2026 14:03",
+ "updated": "19.11.2026 11:15",
  "changedAt": "2026-11-17T14:18:39.669Z",
- "checkedAt": "2026-11-18T16:06:34.773Z",
+ "checkedAt": "2026-11-19T13:57:56.038Z",
  "groups": {
   "C241": {
    "odd": [
@@ -545,13 +545,6 @@
     "ym": "2026-10",
     "pub": "2026-10-19",
     "text": "Dnia 20.10.2026 zostają odwołane zajęcia z mgr Stanisławem Kaup. Termin odrobienia zostanie ustalony na kolejnych zajęciach. Termin odrobienia zajęć z dnia 13.10.2026: 27.10.2026 godz. 17:15 sala 033"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c241-40/",
-    "title": "GRUPA C241",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Dnia 13.10.2026 zostają odwołane zajęcia z mgr Stanisławem Kaup. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
    }
   ],
   "zmiany": {
@@ -583,8 +576,7 @@
      "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
      "post": 2,
      "posts": [
-      2,
-      3
+      2
      ]
     },
     {
@@ -659,6 +651,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:46:00.623Z"
+  "updatedAt": "2026-11-19T14:11:35.870Z"
  }
 }

@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/BN-II-50.pdf",
- "wersja": "BN-II-50.pdf",
- "sha256": "59ca0dd694a5aba82d9d7a19356f8d2eb3f056007e3f322b17326b9e5e37309e",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/BN-II-51.pdf",
+ "wersja": "BN-II-51.pdf",
+ "sha256": "ef6516068f5f3d33ef6ffecb5b3951ca7f4ba6db2f9ac3816acc91a978eb1b89",
  "kierunek": "Bezpieczeństwo narodowe",
  "kierunekEn": "National Security",
  "id": "wns-bn-2-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-18T16:14:26.342Z",
+ "changedAt": "2026-11-19T14:05:46.797Z",
+ "checkedAt": "2026-11-19T14:05:46.797Z",
  "groups": {
   "BN2": {
    "odd": [
@@ -142,29 +142,6 @@
     },
     {
      "d": 2,
-     "pl": "Pokojowe rozwiązywanie konfliktów",
-     "k": "CW",
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 142",
-     "n": "pierwsze zajęcia w godz. 10.45-11.30; termin w inny dzień: 29.01",
-     "dates": [
-      "2026-12-02",
-      "2026-12-09",
-      "2026-12-16",
-      "2026-12-23",
-      "2026-12-30",
-      "2027-01-06",
-      "2027-01-13",
-      "2027-01-20",
-      "2027-01-27"
-     ]
-    },
-    {
-     "d": 2,
      "pl": "Zarządzanie logistyczne w sytuacjach kryzysowych",
      "k": "K",
      "time": [
@@ -238,29 +215,6 @@
       "2027-01-13",
       "2027-01-20",
       "2027-01-27"
-     ]
-    },
-    {
-     "d": 2,
-     "pl": "Pokojowe rozwiązywanie konfliktów",
-     "k": "W",
-     "time": [
-      "13:30",
-      "15:00"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 142",
-     "n": "ostatnie zajęcia w godz. 13.30-14.15",
-     "dates": [
-      "2026-10-07",
-      "2026-10-14",
-      "2026-10-21",
-      "2026-10-28",
-      "2026-11-04",
-      "2026-11-11",
-      "2026-11-18",
-      "2026-11-25",
-      "2026-12-02"
      ]
     },
     {
@@ -378,6 +332,24 @@
     },
     {
      "d": 3,
+     "pl": "Pokojowe rozwiązywanie konfliktów",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
      "pl": "Wykład z dziedziny nauk humanistycznych",
      "k": "W",
      "time": [
@@ -423,6 +395,24 @@
       "2026-10-09",
       "2026-10-23",
       "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Pokojowe rozwiązywanie konfliktów",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
       "2026-11-20",
       "2026-11-27",
       "2026-12-11",
@@ -557,29 +547,6 @@
     },
     {
      "d": 2,
-     "pl": "Pokojowe rozwiązywanie konfliktów",
-     "k": "CW",
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 142",
-     "n": "pierwsze zajęcia w godz. 10.45-11.30; termin w inny dzień: 29.01",
-     "dates": [
-      "2026-12-02",
-      "2026-12-09",
-      "2026-12-16",
-      "2026-12-23",
-      "2026-12-30",
-      "2027-01-06",
-      "2027-01-13",
-      "2027-01-20",
-      "2027-01-27"
-     ]
-    },
-    {
-     "d": 2,
      "pl": "Zarządzanie logistyczne w sytuacjach kryzysowych",
      "k": "K",
      "time": [
@@ -653,29 +620,6 @@
       "2027-01-13",
       "2027-01-20",
       "2027-01-27"
-     ]
-    },
-    {
-     "d": 2,
-     "pl": "Pokojowe rozwiązywanie konfliktów",
-     "k": "W",
-     "time": [
-      "13:30",
-      "15:00"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 142",
-     "n": "ostatnie zajęcia w godz. 13.30-14.15",
-     "dates": [
-      "2026-10-07",
-      "2026-10-14",
-      "2026-10-21",
-      "2026-10-28",
-      "2026-11-04",
-      "2026-11-11",
-      "2026-11-18",
-      "2026-11-25",
-      "2026-12-02"
      ]
     },
     {
@@ -793,6 +737,24 @@
     },
     {
      "d": 3,
+     "pl": "Pokojowe rozwiązywanie konfliktów",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-21"
+     ]
+    },
+    {
+     "d": 3,
      "pl": "Wykład z dziedziny nauk humanistycznych",
      "k": "W",
      "time": [
@@ -838,6 +800,24 @@
       "2026-10-09",
       "2026-10-23",
       "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Pokojowe rozwiązywanie konfliktów",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
       "2026-11-20",
       "2026-11-27",
       "2026-12-11",

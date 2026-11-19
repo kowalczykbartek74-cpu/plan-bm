@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-18T16:15:33.159Z",
+ "checkedAt": "2026-11-19T14:07:19.038Z",
  "groups": {
   "ADM2": {
    "odd": [
@@ -571,6 +571,20 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolany-dyzur-dydaktyczny-prof-k-swiech-kujawskiej-w-dniu-03-12-2026-r/",
+    "title": "Odwołany dyżur dydaktyczny prof. K. Święch-Kujawskiej w dniu 03.12.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Informujemy, że dyżur dydaktyczny prof. K. Święch-Kujawskiej w dniu 03.12.2026 r. nie odbędzie się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-ii-st-ii-r-przelozenie-zajec-dydaktycznych-z-przedmiotu-system-podatkow-i-oplat-lokalnych-prof-k-swiech-kujawska/",
+    "title": "SSA II st. II r. – przełożenie zajęć dydaktycznych z przedmiotu System podatków i opłat lokalnych (prof. K.Święch-Kujawska)",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Informujemy, że zajęcia z przedmiotu System podatków i opłat lokalnych z dnia 03.12.2026 r. zostają przełożone na dzień 10.12.2026 r. w godzinach 8.15-11.30, sala 118 Narutowicza."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-ii-st-ii-r-odrobienie-zajec-z-przedmiotow-podstawy-audytu-w-administracji-publicznej-oraz-gospodarka-komunalna-z-dnia-07-10-26/",
     "title": "SSA II st. II r. – odrobienie zajęć z przedmiotów Podstawy audytu w administracji publicznej oraz Gospodarka komunalna z dnia 07.10.26",
     "ym": "2026-10",
@@ -592,9 +606,9 @@
      "date": "2026-10-07",
      "start": "08:15",
      "pl": "Podstawy audytu w administracji publicznej - PDW 2",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -602,14 +616,30 @@
      "date": "2026-10-07",
      "start": "11:45",
      "pl": "Gospodarka komunalna",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0,
+      2,
+      3
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-03",
+     "start": "08:15",
+     "pl": "System podatków i opłat lokalnych",
+     "post": 1,
+     "posts": [
       1
      ]
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.391Z"
+  "updatedAt": "2026-11-19T14:17:03.767Z"
  }
 }

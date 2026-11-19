@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-18T16:15:33.159Z",
+ "checkedAt": "2026-11-19T14:07:19.038Z",
  "groups": {
   "PRAWO4": {
    "odd": [
@@ -2635,6 +2635,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-r-przelozenie-seminarium-dyplomowego-prof-k-swiech-kujawska/",
+    "title": "SSP IV r. – przełożenie seminarium dyplomowego ( prof. K.Święch-Kujawska)",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Informujemy, że seminarium z dnia 03.12.2026 r. zostaje przełożone na dzień 10.12.2026 r. w godzinach 13.30-16.45, pok. 321 Narutowicza."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-v-zmiana-terminu-seminarium-dyplomowego-dra-hab-d-wacinkiewicza-prof-us-z-dnia-19-11-2026/",
     "title": "SSP IV/V – zmiana terminu seminarium dyplomowego dra hab. D. Wacinkiewicza, prof. US (z dnia 19.11.2026)",
     "ym": "2026-11",
@@ -2794,34 +2801,6 @@
     "ym": "2026-09",
     "pub": "2026-09-23",
     "text": "Informujemy, że egzamin z przedmiotu Prawo i postępowanie podatkowe II dla kierunku prawo (SSP) dla osób, które uzyskały zgodę Prodziekana ds. Studenckich na usprawiedliwienie nieobecności we wcześniejszych terminach odbędzie się 6 października 2026 r. (wtorek) o godz. 10.00, s. 220 (budynek ul. G. Narutowicza 17a)."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dr-a-tomczyk-w-dniu-10-09-2026-r/",
-    "title": "Odwołany dyżur dydaktyczny dr A. Tomczyk w dniu 10.09.2026 r.",
-    "ym": "2026-09",
-    "pub": "2026-09-10",
-    "text": "Informujemy, że dyżur dydaktyczny dr A. Tomczyk w dniu 10.09.2026 r. nie odbędzie się."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dra-p-manczyka-w-dn-10-09-2026-r/",
-    "title": "Odwołany dyżur dydaktyczny dra P. Mańczyka w dn. 10.09.2026 r.",
-    "ym": "2026-09",
-    "pub": "2026-09-10",
-    "text": "Informujemy, że dyżur dydaktyczny dra P. Mańczyka w dniu 10.09.2026 r. nie odbędzie się."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dr-hab-k-flagi-gieruszynskiej-prof-us-w-dniu-10-09-2026-r/",
-    "title": "Odwołany dyżur dydaktyczny dr hab. K. Flagi-Gieruszyńskiej, prof. US w dniu 10.09.2026 r.",
-    "ym": "2026-09",
-    "pub": "2026-09-07",
-    "text": "Informujemy, że dyżur dydaktyczny dr hab. K. Flagi-Gieruszyńskiej, prof. US w dniu 10.09.2026 r. nie odbędzie się."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/odwolany-dyzur-dydaktyczny-dra-m-wojdaly-w-dn-10-09-2026/",
-    "title": "Odwołany dyżur dydaktyczny dra M. Wojdały w dn. 10.09.2026",
-    "ym": "2026-09",
-    "pub": "2026-09-01",
-    "text": "Informujemy, że dyżur dydaktyczny dra M. Wojdały w dn. 10.09.2026 r. nie odbędzie się."
    }
   ],
   "zmiany": {
@@ -2836,19 +2815,13 @@
      "k": "W",
      "p": "prof. dr hab. Z. Ofiarski",
      "r": "s. 220",
-     "post": 22,
+     "post": 23,
      "dup": true
     },
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 16
-    },
-    {
-     "type": "note",
-     "date": "2026-10-12",
-     "post": 19,
-     "niska": true
+     "post": 17
     },
     {
      "type": "note",
@@ -2858,13 +2831,14 @@
     },
     {
      "type": "note",
-     "date": "2026-10-15",
-     "post": 9
+     "date": "2026-10-12",
+     "post": 21,
+     "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 14
+     "post": 10
     },
     {
      "type": "note",
@@ -2873,17 +2847,22 @@
     },
     {
      "type": "note",
+     "date": "2026-10-15",
+     "post": 16
+    },
+    {
+     "type": "note",
      "date": "2026-10-16",
-     "post": 13
+     "post": 14
     },
     {
      "type": "cancel",
      "date": "2026-11-03",
      "start": "08:15",
      "pl": "Prawo rodzinne",
-     "post": 10,
+     "post": 11,
      "posts": [
-      10
+      11
      ]
     },
     {
@@ -2891,9 +2870,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Prawo rodzinne",
-     "post": 10,
+     "post": 11,
      "posts": [
-      10
+      11
      ]
     },
     {
@@ -2901,9 +2880,9 @@
      "date": "2026-11-03",
      "start": "11:45",
      "pl": "Prawo rodzinne",
-     "post": 10,
+     "post": 11,
      "posts": [
-      10
+      11
      ]
     },
     {
@@ -2911,15 +2890,15 @@
      "date": "2026-11-03",
      "start": "13:30",
      "pl": "Prawo rodzinne",
-     "post": 10,
+     "post": 11,
      "posts": [
-      10
+      11
      ]
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 8,
+     "post": 9,
      "niska": true
     },
     {
@@ -2927,14 +2906,41 @@
      "date": "2026-11-12",
      "start": "10:00",
      "pl": "Prawo spadkowe",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
      "type": "cancel",
      "date": "2026-11-19",
+     "start": "13:30",
+     "pl": "Seminarium dyplomowe",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 3
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 4,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 4,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-03",
      "start": "13:30",
      "pl": "Seminarium dyplomowe",
      "post": 0,
@@ -2943,30 +2949,13 @@
      ]
     },
     {
-     "type": "note",
-     "date": "2026-11-26",
-     "post": 2
-    },
-    {
-     "type": "note",
-     "date": "2026-11-26",
-     "post": 3,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-12-03",
-     "post": 3,
-     "niska": true
-    },
-    {
      "type": "cancel",
      "date": "2027-01-12",
      "start": "11:45",
      "pl": "Postępowanie cywilne I",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6
+      7
      ]
     },
     {
@@ -2974,13 +2963,13 @@
      "date": "2027-01-12",
      "start": "13:30",
      "pl": "Postępowanie cywilne I",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6
+      7
      ]
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:08:21.543Z"
+  "updatedAt": "2026-11-19T14:17:03.866Z"
  }
 }

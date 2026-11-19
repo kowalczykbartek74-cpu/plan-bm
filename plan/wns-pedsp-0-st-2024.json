@@ -739,6 +739,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-zajec-z-dr-aleksandra-prus-3/",
+    "title": "Zmiana terminu zajęć z dr Aleksandrą Prus",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Zmiana terminu zajęć z dr Aleksandrą Prus — Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-26 8:15 2026-11-20 9:45 208/Ogińskiego PSP-SJM.24-31 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo pedagogika specjalna stacjonarne jednolite magisterskie 3 wsparcie w pracy i doradztwo zawodowe dla osób z niepełnosprawnością wykład – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: W związku z nieobecnością w dn. 26.11., spowodowaną udziałem w konferencji, wykład z przedmiotu „Wsparcie w pracy i doradztwo zawodowe dla osób z niepełnosprawnością” zostaje przełożony na dzień 20.11. Wiadomość została wygenerowana automatycznie, prosimy na nią nie odpowiadać."
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/odwolane-zajecia-z-dr-joanna-bulawa-halasz-9/",
     "title": "Odwołane zajęcia z dr Joanną Buławą-Halasz",
     "ym": "2026-11",
@@ -758,11 +765,34 @@
     {
      "type": "note",
      "date": "2026-11-16",
-     "post": 0,
+     "post": 1,
      "niska": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-20",
+     "start": "9:45",
+     "end": "11:15",
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla osób z niepełnosprawnością",
+     "k": "W",
+     "p": "dr A. Prus",
+     "r": "s. 208/Ogińskiego",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-26",
+     "start": "08:15",
+     "pl": "Wsparcie w pracy i doradztwo zawodowe dla osób z niepełnosprawnością",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:46:33.478Z"
+  "updatedAt": "2026-11-19T14:15:58.403Z"
  }
 }

@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T23:16:01.392Z",
- "checkedAt": "2026-11-18T16:10:23.699Z",
+ "checkedAt": "2026-11-19T14:01:46.314Z",
  "groups": {
   "F60": {
    "odd": [
@@ -3278,6 +3278,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/odwolanie-zajec-z-mgr-magdalena-kisiel-spychala-w-dniach-18-11-27-11/",
+    "title": "Odwołanie zajęć z mgr Magdaleną Kisiel-Spychałą w dniach 18.11- 27.11",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Wszystkie zajęcia j.niemieckiego z mgr M.Kisiel – Spychałą w dniach 18.11- 27.11.2026 zostają odwołane."
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/zmiana-terminow-zajec-audyt-finansowy-2-rok-ii-stopnia-studia-niestacjonarne-grupy-f60-f61/",
     "title": "Zmiana terminów zajęć-Audyt Finansowy, 2 rok II stopnia, studia niestacjonarne (grupy F60, F61)",
     "ym": "2026-10",
@@ -3290,17 +3297,17 @@
     {
      "type": "note",
      "date": "2026-11-08",
-     "post": 0
+     "post": 1
     }
    ],
    "F61": [
     {
      "type": "note",
      "date": "2026-11-08",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:05:48.480Z"
+  "updatedAt": "2026-11-19T14:11:43.466Z"
  }
 }

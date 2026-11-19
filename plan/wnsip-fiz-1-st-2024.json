@@ -1,7 +1,7 @@
 {
- "source": "https://spr.usz.edu.pl/wp-content/uploads/fiz_3-rok-I-st.-akt.-05.11.pdf",
- "wersja": "2026-11-05",
- "sha256": "4402ca079a9b5bdf5c30d58d84299c7cf0c14904649b1490ac0bc51bdcb2b36b",
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/fiz_3-rok-I-st.-akt.-19.11-2.pdf",
+ "wersja": "2026-11-19",
+ "sha256": "570c81a7bad2aa3393e519c2b6877fb2d78e8ae5de02d208bbd0b24acac8c5f8",
  "kierunek": "Fizyka",
  "kierunekEn": "Physics",
  "id": "wnsip-fiz-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-18T16:15:13.382Z",
+ "changedAt": "2026-11-19T14:06:56.772Z",
+ "checkedAt": "2026-11-19T14:06:56.772Z",
  "groups": {
   "FIZ3": {
    "odd": [
@@ -296,9 +296,8 @@
      ],
      "p": "dr L. Ivzhenko",
      "r": "s. 319",
-     "n": "(ostatnie zajęcia 1 h)",
+     "n": "(ostatnie zajęcia 3 h)",
      "dates": [
-      "2026-11-20",
       "2026-11-27",
       "2026-12-04",
       "2026-12-11",
@@ -601,9 +600,8 @@
      ],
      "p": "dr L. Ivzhenko",
      "r": "s. 319",
-     "n": "(ostatnie zajęcia 1 h)",
+     "n": "(ostatnie zajęcia 3 h)",
      "dates": [
-      "2026-11-20",
       "2026-11-27",
       "2026-12-04",
       "2026-12-11",
@@ -771,6 +769,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/fizyka-i-st-3-rok-odwolany-wyklad-z-dr-l-ivzhenko/",
+    "title": "Fizyka I st. 3 rok – odwołany wykład z dr L. Ivzhenko",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "W dniu 20.11.2026 r. odwołany zostaje wykład z przedmiotu wstęp do chemii radionuklidów z dr L. Ivzhenko, Zajęcia zostaną odrobione w dniu 22.01.2027 r."
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/odwolane-zajecia-z-jezyka-niemieckiego-z-mgr-m-kisiel-spychala/",
     "title": "Odwołane zajęcia z języka niemieckiego z mgr M. Kisiel-Spychałą",
     "ym": "2026-11",
@@ -792,15 +797,20 @@
      "date": "2026-11-04",
      "start": "11:45",
      "pl": "Optyka przyrządowa",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
      "type": "note",
+     "date": "2026-11-20",
+     "post": 0
+    },
+    {
+     "type": "note",
      "date": "2026-11-27",
-     "post": 0,
+     "post": 1,
      "niska": true
     },
     {
@@ -813,10 +823,10 @@
      "k": "LAB",
      "p": "dr M. Ślęczka",
      "r": "s. 110",
-     "post": 1
+     "post": 2
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:08:21.034Z"
+  "updatedAt": "2026-11-19T14:17:03.488Z"
  }
 }

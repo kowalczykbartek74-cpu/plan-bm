@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-nr-2-z-16-XI-2026.xlsx",
- "wersja": "2026-11-16",
- "sha256": "c94c594ce41ecf2f4cbb2831fd202504d8748d791f7c3a0262658910d045d4dc",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-19-XI-2026.xlsx",
+ "wersja": "2026-11-19",
+ "sha256": "0089fabf909a75d31f1f1fa09c9794d10eb42078fb03b1314e0151d4338ba957",
  "kierunek": "Filologia germańska z dodatkowym językiem obcym",
  "kierunekEn": "German Philology with an Additional Foreign Language",
  "id": "wh-fgzdjo-1-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-18T16:14:25.648Z",
+ "changedAt": "2026-11-19T14:05:46.165Z",
+ "checkedAt": "2026-11-19T14:05:46.165Z",
  "groups": {
   "FGZDJO1": {
    "odd": [
@@ -348,7 +348,7 @@
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
-     "r": "s. 313, bud. 6 WKFiZ"
+     "r": "s. 119, bud. 4 WH"
     },
     {
      "d": 2,
@@ -370,7 +370,7 @@
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
-     "r": "s. 313, bud. 6 WKFiZ"
+     "r": "s. 119, bud. 4 WH"
     },
     {
      "d": 3,
@@ -946,7 +946,7 @@
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
-     "r": "s. 313, bud. 6 WKFiZ"
+     "r": "s. 119, bud. 4 WH"
     },
     {
      "d": 2,
@@ -968,7 +968,7 @@
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
-     "r": "s. 313, bud. 6 WKFiZ"
+     "r": "s. 119, bud. 4 WH"
     },
     {
      "d": 3,
@@ -1357,6 +1357,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-ramona-funke-odwolanie-zajec-3/",
+    "title": "mgr Ramona Funke- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Szanowni Studenci, 19.11.2026- zajęcia z mgr Ramona Funke zostają odwołane z powodu choroby, O odrobieniu zajęć zostaniecie poinformowani w późniejszym terminie."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/odwolane-zajecia-dr-k-ciarcinska/",
     "title": "odwołane zajęcia- dr K. Ciarcińska",
     "ym": "2026-11",
@@ -1397,7 +1404,7 @@
     {
      "type": "note",
      "date": "2026-10-07",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
@@ -1410,7 +1417,7 @@
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
      "r": "s. 221, bud. 6",
-     "post": 3
+     "post": 4
     },
     {
      "type": "extra",
@@ -1422,7 +1429,7 @@
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
      "r": "s. 221, bud. 6",
-     "post": 3
+     "post": 4
     },
     {
      "type": "cancel",
@@ -1430,9 +1437,9 @@
      "start": "17:00",
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "moved": true,
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -1441,13 +1448,19 @@
      "start": "18:45",
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "moved": true,
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-19",
+     "post": 0,
+     "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:29:59.630Z"
+  "updatedAt": "2026-11-19T14:14:46.141Z"
  }
 }

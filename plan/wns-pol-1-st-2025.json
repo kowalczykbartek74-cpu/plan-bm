@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-29.pdf",
- "wersja": "POL-I-29.pdf",
- "sha256": "51b27d22396df35c2e6063eabde696a78cbf56e5fd5e7e7c00233e16daaf1c39",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/POL-I-30.pdf",
+ "wersja": "POL-I-30.pdf",
+ "sha256": "c67668487a6ed43e32cca820a44f2e7025404297e49b1ad2267cdba90afff0b4",
  "kierunek": "Politologia",
  "kierunekEn": "Political Science",
  "id": "wns-pol-1-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-18T16:14:26.342Z",
+ "changedAt": "2026-11-19T14:05:46.797Z",
+ "checkedAt": "2026-11-19T14:05:46.797Z",
  "groups": {
   "POL2": {
    "odd": [
@@ -25,8 +25,8 @@
       "11:45",
       "13:15"
      ],
-     "p": "mgr K. Radziecka-Filipowiak",
-     "r": "s. 141"
+     "p": "mgr I. Rokita-Lisiecka",
+     "r": "s. 142"
     },
     {
      "d": 0,
@@ -66,6 +66,54 @@
      "time": [
       "13:30",
       "18:30"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Organizacje międzynarodowe i dyplomacja wielostronna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr M. Brzostek",
+     "r": "s. 011",
+     "n": "pierwsze zajęcia w godz. 12.30-13.15",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Organizacje międzynarodowe i dyplomacja wielostronna",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr M. Brzostek",
+     "r": "s. 011",
+     "n": "pierwsze zajęcia w godz. 14.15-15.00",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
      ]
     },
     {
@@ -138,75 +186,6 @@
      ]
     },
     {
-     "d": 2,
-     "pl": "Organizacje międzynarodowe i dyplomacja wielostronna",
-     "k": "W",
-     "time": [
-      "13:30",
-      "15:00"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 142",
-     "n": "pierwsze zajęcia w godz.; termin w inny dzień: 29.01",
-     "dates": [
-      "2026-12-02",
-      "2026-12-09",
-      "2026-12-16",
-      "2026-12-23",
-      "2026-12-30",
-      "2027-01-06",
-      "2027-01-13",
-      "2027-01-20",
-      "2027-01-27"
-     ]
-    },
-    {
-     "d": 2,
-     "pl": "Organizacje międzynarodowe i dyplomacja wielostronna",
-     "k": "CW",
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 142",
-     "n": "pierwsze zajęcia w godz.; termin w inny dzień: 29.01",
-     "dates": [
-      "2026-12-02",
-      "2026-12-09",
-      "2026-12-16",
-      "2026-12-23",
-      "2026-12-30",
-      "2027-01-06",
-      "2027-01-13",
-      "2027-01-20",
-      "2027-01-27"
-     ]
-    },
-    {
-     "d": 2,
-     "pl": "Myśl polityczna",
-     "k": "CW",
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "p": "prof. A. Staszczyk",
-     "r": "s. 177",
-     "n": "pierwsze zajęcia w godz.; termin w inny dzień: 29.01",
-     "dates": [
-      "2026-12-02",
-      "2026-12-09",
-      "2026-12-16",
-      "2026-12-23",
-      "2026-12-30",
-      "2027-01-06",
-      "2027-01-13",
-      "2027-01-20",
-      "2027-01-27"
-     ]
-    },
-    {
      "d": 3,
      "pl": "Fakultet Służby specjalne w Polsce – historia i współczesność",
      "k": "X",
@@ -254,6 +233,28 @@
     },
     {
      "d": 3,
+     "pl": "Myśl polityczna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 142",
+     "dates": [
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
      "pl": "Spory i konflikty międzynarodowe we współczesnym świecie",
      "k": "W",
      "time": [
@@ -273,30 +274,6 @@
       "2026-11-19",
       "2026-11-26"
      ]
-    },
-    {
-     "d": 3,
-     "pl": "Organizacje terrorystyczne i zwalczanie terroryzmu",
-     "k": "W",
-     "time": [
-      "11:45",
-      "13:15"
-     ],
-     "p": "dr S. Ozdyk",
-     "r": "s. 178",
-     "n": "Ostatnie zajęcia (22I) w godz.; termin w inny dzień: 9.10, 23.10, 6.11, 20.11, 27.11, 11.12, 8.01, 22.01"
-    },
-    {
-     "d": 3,
-     "pl": "Organizacje terrorystyczne i zwalczanie terroryzmu",
-     "k": "CW",
-     "time": [
-      "13:30",
-      "15:00"
-     ],
-     "p": "dr S. Ozdyk",
-     "r": "s. 178",
-     "n": "Ostatnie zajęcia (22I) w; termin w inny dzień: 9.10, 23.10, 6.11, 20.11, 27.11, 11.12, 8.01, 22.01"
     },
     {
      "d": 3,
@@ -346,16 +323,7 @@
       "2026-11-05",
       "2026-11-12",
       "2026-11-19",
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
+      "2026-11-26"
      ]
     },
     {
@@ -367,6 +335,50 @@
       "18:30"
      ],
      "n": "według harmonogramu na stronie wydziału"
+    },
+    {
+     "d": 4,
+     "pl": "Organizacje terrorystyczne i zwalczanie terroryzmu",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 178",
+     "n": "Ostatnie zajęcia (22I) w godz.",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Organizacje terrorystyczne i zwalczanie terroryzmu",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 178",
+     "n": "Ostatnie zajęcia (22I) w",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
     }
    ],
    "even": [
@@ -378,8 +390,8 @@
       "11:45",
       "13:15"
      ],
-     "p": "mgr K. Radziecka-Filipowiak",
-     "r": "s. 141"
+     "p": "mgr I. Rokita-Lisiecka",
+     "r": "s. 142"
     },
     {
      "d": 0,
@@ -419,6 +431,54 @@
      "time": [
       "13:30",
       "18:30"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Organizacje międzynarodowe i dyplomacja wielostronna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr M. Brzostek",
+     "r": "s. 011",
+     "n": "pierwsze zajęcia w godz. 12.30-13.15",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Organizacje międzynarodowe i dyplomacja wielostronna",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr M. Brzostek",
+     "r": "s. 011",
+     "n": "pierwsze zajęcia w godz. 14.15-15.00",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
      ]
     },
     {
@@ -491,75 +551,6 @@
      ]
     },
     {
-     "d": 2,
-     "pl": "Organizacje międzynarodowe i dyplomacja wielostronna",
-     "k": "W",
-     "time": [
-      "13:30",
-      "15:00"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 142",
-     "n": "pierwsze zajęcia w godz.; termin w inny dzień: 29.01",
-     "dates": [
-      "2026-12-02",
-      "2026-12-09",
-      "2026-12-16",
-      "2026-12-23",
-      "2026-12-30",
-      "2027-01-06",
-      "2027-01-13",
-      "2027-01-20",
-      "2027-01-27"
-     ]
-    },
-    {
-     "d": 2,
-     "pl": "Organizacje międzynarodowe i dyplomacja wielostronna",
-     "k": "CW",
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 142",
-     "n": "pierwsze zajęcia w godz.; termin w inny dzień: 29.01",
-     "dates": [
-      "2026-12-02",
-      "2026-12-09",
-      "2026-12-16",
-      "2026-12-23",
-      "2026-12-30",
-      "2027-01-06",
-      "2027-01-13",
-      "2027-01-20",
-      "2027-01-27"
-     ]
-    },
-    {
-     "d": 2,
-     "pl": "Myśl polityczna",
-     "k": "CW",
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "p": "prof. A. Staszczyk",
-     "r": "s. 177",
-     "n": "pierwsze zajęcia w godz.; termin w inny dzień: 29.01",
-     "dates": [
-      "2026-12-02",
-      "2026-12-09",
-      "2026-12-16",
-      "2026-12-23",
-      "2026-12-30",
-      "2027-01-06",
-      "2027-01-13",
-      "2027-01-20",
-      "2027-01-27"
-     ]
-    },
-    {
      "d": 3,
      "pl": "Fakultet Służby specjalne w Polsce – historia i współczesność",
      "k": "X",
@@ -607,6 +598,28 @@
     },
     {
      "d": 3,
+     "pl": "Myśl polityczna",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. D. Wybranowski",
+     "r": "s. 142",
+     "dates": [
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
      "pl": "Spory i konflikty międzynarodowe we współczesnym świecie",
      "k": "W",
      "time": [
@@ -626,30 +639,6 @@
       "2026-11-19",
       "2026-11-26"
      ]
-    },
-    {
-     "d": 3,
-     "pl": "Organizacje terrorystyczne i zwalczanie terroryzmu",
-     "k": "W",
-     "time": [
-      "11:45",
-      "13:15"
-     ],
-     "p": "dr S. Ozdyk",
-     "r": "s. 178",
-     "n": "Ostatnie zajęcia (22I) w godz.; termin w inny dzień: 9.10, 23.10, 6.11, 20.11, 27.11, 11.12, 8.01, 22.01"
-    },
-    {
-     "d": 3,
-     "pl": "Organizacje terrorystyczne i zwalczanie terroryzmu",
-     "k": "CW",
-     "time": [
-      "13:30",
-      "15:00"
-     ],
-     "p": "dr S. Ozdyk",
-     "r": "s. 178",
-     "n": "Ostatnie zajęcia (22I) w; termin w inny dzień: 9.10, 23.10, 6.11, 20.11, 27.11, 11.12, 8.01, 22.01"
     },
     {
      "d": 3,
@@ -699,16 +688,7 @@
       "2026-11-05",
       "2026-11-12",
       "2026-11-19",
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
+      "2026-11-26"
      ]
     },
     {
@@ -720,6 +700,50 @@
       "18:30"
      ],
      "n": "według harmonogramu na stronie wydziału"
+    },
+    {
+     "d": 4,
+     "pl": "Organizacje terrorystyczne i zwalczanie terroryzmu",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 178",
+     "n": "Ostatnie zajęcia (22I) w godz.",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Organizacje terrorystyczne i zwalczanie terroryzmu",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr S. Ozdyk",
+     "r": "s. 178",
+     "n": "Ostatnie zajęcia (22I) w",
+     "dates": [
+      "2026-10-09",
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-22"
+     ]
     }
    ]
   }

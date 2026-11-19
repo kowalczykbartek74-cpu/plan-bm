@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-nr-2-z-16-XI-2026.xlsx",
- "wersja": "2026-11-16",
- "sha256": "c94c594ce41ecf2f4cbb2831fd202504d8748d791f7c3a0262658910d045d4dc",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-19-XI-2026.xlsx",
+ "wersja": "2026-11-19",
+ "sha256": "0089fabf909a75d31f1f1fa09c9794d10eb42078fb03b1314e0151d4338ba957",
  "kierunek": "Filologia germańska z dodatkowym językiem obcym",
  "kierunekEn": "German Philology with an Additional Foreign Language",
  "id": "wh-fgzdjo-1-st-2024",
@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-16T13:40:39.924Z",
- "checkedAt": "2026-11-18T16:14:25.648Z",
+ "checkedAt": "2026-11-19T14:05:46.165Z",
  "groups": {
   "FGZDJO3": {
    "odd": [
@@ -583,6 +583,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-ramona-funke-odwolanie-zajec-3/",
+    "title": "mgr Ramona Funke- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Szanowni Studenci, 19.11.2026- zajęcia z mgr Ramona Funke zostają odwołane z powodu choroby, O odrobieniu zajęć zostaniecie poinformowani w późniejszym terminie."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-emil-lesner-przelozenie-zajec/",
     "title": "dr Emil Lesner- przełożenie zajęć",
     "ym": "2026-10",
@@ -591,8 +598,15 @@
    }
   ],
   "zmiany": {
-   "FGZDJO3": []
+   "FGZDJO3": [
+    {
+     "type": "note",
+     "date": "2026-11-19",
+     "post": 0,
+     "niska": true
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T18:07:27.881Z"
+  "updatedAt": "2026-11-19T14:14:46.108Z"
  }
 }

@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-68.pdf",
- "wersja": "BW-I-68.pdf",
- "sha256": "60d2ee3a5a0b2eec15037d1c2120e2374184c20b4df2ebd4df61e5bed4d0ce34",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-I-69.pdf",
+ "wersja": "BW-I-69.pdf",
+ "sha256": "a99e929a423625685ff560605573b19dfa34a53f2c816643500478495d254633",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-1-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-18T16:14:26.342Z",
+ "changedAt": "2026-11-19T14:05:46.797Z",
+ "checkedAt": "2026-11-19T14:05:46.797Z",
  "groups": {
   "BW2": {
    "odd": [
@@ -30,14 +30,14 @@
     },
     {
      "d": 0,
-     "pl": "Język niemiecki",
+     "pl": "Język rosyjski",
      "k": "CW",
      "time": [
       "11:45",
       "13:15"
      ],
-     "p": "mgr J. Paśnicka-Stopa",
-     "r": "s. 144",
+     "p": "mgr L. Smędzik",
+     "r": "s. 048",
      "dates": [
       "2026-10-05",
       "2026-10-12",
@@ -339,7 +339,7 @@
       "11:30"
      ],
      "p": "mgr D. Kłodziński",
-     "r": "s. 143",
+     "r": "s. 153",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
      "pg": "spec:ABW",
      "dates": [
@@ -411,7 +411,7 @@
       "13:15"
      ],
      "p": "mgr D. Kłodziński",
-     "r": "s. 143",
+     "r": "s. 102",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
      "pg": "spec:ABW",
      "dates": [
@@ -507,7 +507,7 @@
       "15:00"
      ],
      "p": "mgr D. Kłodziński",
-     "r": "s. 143",
+     "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 13.30-14.15",
      "pg": "gr:3 Bezp. publ.",
      "dates": [
@@ -603,7 +603,7 @@
       "16:45"
      ],
      "p": "mgr D. Kłodziński",
-     "r": "s. 143",
+     "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 15.15-16.00",
      "pg": "gr:3 Bezp. publ.",
      "dates": [
@@ -686,6 +686,15 @@
       "2026-11-18",
       "2026-11-25",
       "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Ćwiczenia dla grupy 2 abw",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "18:30"
      ]
     },
     {
@@ -796,7 +805,11 @@
      ],
      "p": "prof. D. Rdzanek",
      "r": "s. 228",
+     "n": "pierwsze zajęcia w godz. 14.15-15.00",
      "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
       "2026-12-17",
       "2026-12-24",
       "2026-12-31",
@@ -835,7 +848,8 @@
      "time": [
       "17:00",
       "18:30"
-     ]
+     ],
+     "n": "według harmonogramu na stronie wydziału"
     }
    ],
    "even": [
@@ -852,14 +866,14 @@
     },
     {
      "d": 0,
-     "pl": "Język niemiecki",
+     "pl": "Język rosyjski",
      "k": "CW",
      "time": [
       "11:45",
       "13:15"
      ],
-     "p": "mgr J. Paśnicka-Stopa",
-     "r": "s. 144",
+     "p": "mgr L. Smędzik",
+     "r": "s. 048",
      "dates": [
       "2026-10-05",
       "2026-10-12",
@@ -1161,7 +1175,7 @@
       "11:30"
      ],
      "p": "mgr D. Kłodziński",
-     "r": "s. 143",
+     "r": "s. 153",
      "n": "ostatnie zajęcia w godz. 10.00-10.45",
      "pg": "spec:ABW",
      "dates": [
@@ -1233,7 +1247,7 @@
       "13:15"
      ],
      "p": "mgr D. Kłodziński",
-     "r": "s. 143",
+     "r": "s. 102",
      "n": "ostatnie zajęcia w godz. 11.45-12.30",
      "pg": "spec:ABW",
      "dates": [
@@ -1329,7 +1343,7 @@
       "15:00"
      ],
      "p": "mgr D. Kłodziński",
-     "r": "s. 143",
+     "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 13.30-14.15",
      "pg": "gr:3 Bezp. publ.",
      "dates": [
@@ -1425,7 +1439,7 @@
       "16:45"
      ],
      "p": "mgr D. Kłodziński",
-     "r": "s. 143",
+     "r": "s. 248",
      "n": "ostatnie zajęcia w godz. 15.15-16.00",
      "pg": "gr:3 Bezp. publ.",
      "dates": [
@@ -1508,6 +1522,15 @@
       "2026-11-18",
       "2026-11-25",
       "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Ćwiczenia dla grupy 2 abw",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "18:30"
      ]
     },
     {
@@ -1618,7 +1641,11 @@
      ],
      "p": "prof. D. Rdzanek",
      "r": "s. 228",
+     "n": "pierwsze zajęcia w godz. 14.15-15.00",
      "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
       "2026-12-17",
       "2026-12-24",
       "2026-12-31",
@@ -1657,7 +1684,8 @@
      "time": [
       "17:00",
       "18:30"
-     ]
+     ],
+     "n": "według harmonogramu na stronie wydziału"
     }
    ]
   }

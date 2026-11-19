@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:31:18.542Z",
- "checkedAt": "2026-11-18T16:10:23.699Z",
+ "checkedAt": "2026-11-19T14:01:46.314Z",
  "groups": {
   "F31": {
    "odd": [
@@ -1552,10 +1552,18 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/zajecia-z-jezyka-niemieckiego-z-mgr-m-kisiel-spychala/",
+    "title": "Zajęcia z języka niemieckiego z mgr M.Kisiel – Spychałą",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Zajęcia j.niemieckiego z mgr M.Kisiel – Spychałą w dniach 18.11- 27.11.2026 zostają odwołane."
+   }
+  ],
   "zmiany": {
    "F31": []
   },
-  "updatedAt": "2026-11-09T18:06:00.737Z"
+  "updatedAt": "2026-11-19T14:14:28.220Z"
  }
 }

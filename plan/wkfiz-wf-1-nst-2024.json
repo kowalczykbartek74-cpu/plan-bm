@@ -1,6 +1,6 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "o4.html 2026-11-16 13:40:14",
+ "wersja": "o4.html 2026-11-19 09:45:05",
  "kierunek": "Wychowanie fizyczne",
  "kierunekEn": "Physical Education",
  "id": "wkfiz-wf-1-nst-2024",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-16T13:40:32.412Z",
- "checkedAt": "2026-11-18T16:14:18.117Z",
+ "changedAt": "2026-11-19T14:05:38.616Z",
+ "checkedAt": "2026-11-19T14:05:38.616Z",
  "groups": {
   "WF3": {
    "odd": [
@@ -46,6 +46,20 @@
       "2026-11-20",
       "2026-12-18",
       "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 201",
+     "dates": [
+      "2026-12-12"
      ]
     },
     {
@@ -120,7 +134,7 @@
       "2026-10-24",
       "2026-11-07",
       "2026-11-28",
-      "2026-12-12"
+      "2027-01-09"
      ]
     },
     {
@@ -135,23 +149,9 @@
      "r": "s. 201",
      "dates": [
       "2026-12-05",
-      "2027-01-09",
+      "2026-12-12",
       "2027-01-16",
       "2027-01-30"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
-     "k": "LAB",
-     "p": "dr Lila Pławińska-Kopeć",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "dates": [
-      "2026-12-19"
      ]
     },
     {
@@ -505,8 +505,22 @@
       "2026-11-08",
       "2026-11-29",
       "2026-12-06",
-      "2026-12-20",
+      "2026-12-13",
       "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 201",
+     "dates": [
+      "2026-12-20"
      ]
     },
     {
@@ -726,20 +740,6 @@
      "r": "s. 120",
      "dates": [
       "2026-12-20"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
-     "k": "W",
-     "p": "dr Lila Pławińska-Kopeć",
-     "r": "s. 201",
-     "dates": [
-      "2026-11-22"
      ]
     },
     {
@@ -810,6 +810,20 @@
       "08:15",
       "09:45"
      ],
+     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
+     "k": "W",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 201",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
      "pl": "Dydaktyka przedmiotu w szkole podstawowej",
      "k": "CW",
      "p": "dr Lila Pławińska-Kopeć",
@@ -876,7 +890,7 @@
       "2026-10-24",
       "2026-11-07",
       "2026-11-28",
-      "2026-12-12"
+      "2027-01-09"
      ]
     },
     {
@@ -891,23 +905,9 @@
      "r": "s. 201",
      "dates": [
       "2026-12-05",
-      "2027-01-09",
+      "2026-12-12",
       "2027-01-16",
       "2027-01-30"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
-     "k": "LAB",
-     "p": "dr Lila Pławińska-Kopeć",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "dates": [
-      "2026-12-19"
      ]
     },
     {
@@ -1261,8 +1261,22 @@
       "2026-11-08",
       "2026-11-29",
       "2026-12-06",
-      "2026-12-20",
+      "2026-12-13",
       "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Dydaktyka przedmiotu w szkole podstawowej",
+     "k": "LAB",
+     "p": "dr Lila Pławińska-Kopeć",
+     "r": "s. 201",
+     "dates": [
+      "2026-12-20"
      ]
     },
     {
@@ -1482,20 +1496,6 @@
      "r": "s. 120",
      "dates": [
       "2026-12-20"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "pl": "Dydaktyka przedmiotu szkole podstawowej w",
-     "k": "W",
-     "p": "dr Lila Pławińska-Kopeć",
-     "r": "s. 201",
-     "dates": [
-      "2026-11-22"
      ]
     },
     {

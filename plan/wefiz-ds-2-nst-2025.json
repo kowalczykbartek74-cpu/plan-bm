@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-17T14:22:25.446Z",
- "checkedAt": "2026-11-18T16:10:23.699Z",
+ "checkedAt": "2026-11-19T14:01:46.314Z",
  "groups": {
   "F40": {
    "odd": [
@@ -2354,6 +2354,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/odwolanie-zajec-z-mgr-magdalena-kisiel-spychala-w-dniach-18-11-27-11/",
+    "title": "Odwołanie zajęć z mgr Magdaleną Kisiel-Spychałą w dniach 18.11- 27.11",
+    "ym": "2026-11",
+    "pub": "2026-11-19",
+    "text": "Wszystkie zajęcia j.niemieckiego z mgr M.Kisiel – Spychałą w dniach 18.11- 27.11.2026 zostają odwołane."
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m550-m641-m350-odwolanie-zajec-z-mgrem-mateuszem-mostowskim-w-dniach-13-14-10-2026-r/",
     "title": "M550, M641, M350- odwołanie zajęć z mgrem Mateuszem Mostowskim w dniach 13-14.10.2026 r.",
     "ym": "2026-10",
@@ -2364,6 +2371,6 @@
   "zmiany": {
    "F40": []
   },
-  "updatedAt": "2026-11-09T18:05:48.510Z"
+  "updatedAt": "2026-11-19T14:11:43.492Z"
  }
 }
