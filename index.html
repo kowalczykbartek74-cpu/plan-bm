@@ -9,7 +9,7 @@
 <meta name="description" content="Plan zajęć 1. roku Business Management, Uniwersytet Szczeciński (WEFiZ)">
 <title>Plan zajęć BM</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Bricolage+Grotesque:opsz,wght@12..96,600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400..800&display=swap">
 <script>/* motyw: domyślnie jasny; „dark” = ciemny, „auto” = jak telefon */try{var t=localStorage.getItem("bm-theme");if(t!=="auto")document.documentElement.setAttribute("data-theme",t==="dark"?"dark":"light");}catch(e){document.documentElement.setAttribute("data-theme","light")}</script>
 <meta name="theme-color" content="#F4F5F0" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0F1A14" media="(prefers-color-scheme: dark)">
@@ -30,8 +30,8 @@
   --sh-up:0 2px 4px rgba(16,35,26,.08), 0 18px 36px -14px rgba(16,35,26,.3);
   --sh-panel:0 2px 4px rgba(16,35,26,.12), 0 22px 44px -20px rgba(16,35,26,.6);
   --out:cubic-bezier(.2,.8,.2,1);
-  --display:"Bricolage Grotesque","Plus Jakarta Sans","Trebuchet MS",sans-serif;
-  --body:"Plus Jakarta Sans","Segoe UI",system-ui,sans-serif;
+  --display:"Onest",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --body:"Onest",system-ui,-apple-system,"Segoe UI",sans-serif;
   color-scheme:light;
 }
 /* Ciemny zielony (H): tło #0F1A14, karta #17271E, tekst #E8F2EC, akcent #4ADE8B */
@@ -102,7 +102,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .help[open] summary .q{background:var(--lime);color:var(--lime-ink)}
 .help[open]::before{content:"";position:fixed;inset:0;background:rgba(16,35,26,.45);z-index:-1}
 .help-panel{position:absolute;right:0;top:calc(100% + 10px);width:min(380px,calc(100vw - 32px));max-height:min(72vh,640px);overflow:auto;background:var(--surface);border-radius:28px;box-shadow:var(--sh-up),0 30px 60px -30px rgba(16,35,26,.45);padding:20px 22px;display:flex;flex-direction:column;gap:12px;font-size:14.5px;line-height:1.5}
-.help-panel h3{margin:0;font-family:var(--display);font-weight:600;font-size:21px;letter-spacing:-.01em}
+.help-panel h2{margin:0;font-family:var(--display);font-weight:600;font-size:21px;letter-spacing:-.01em}
 .help-panel ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
 .help-panel li::marker{color:var(--muted);font-weight:700}
 .help-panel b{font-weight:700}
@@ -294,7 +294,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 .caldlg{border:0;border-radius:28px;padding:0;width:min(440px,calc(100vw - 32px));background:var(--surface);color:var(--ink);box-shadow:0 30px 70px -20px rgba(16,35,26,.55)}
 .caldlg::backdrop{background:rgba(16,35,26,.5)}
 .caldlg .in{padding:22px;display:flex;flex-direction:column;gap:12px;font-size:14.5px}
-.caldlg h3{margin:0;font-family:var(--display);font-weight:600;font-size:22px;letter-spacing:-.015em}
+.caldlg h2{margin:0;font-family:var(--display);font-weight:600;font-size:22px;letter-spacing:-.015em}
 .caldlg p{margin:0}
 .caldlg .muted{color:var(--muted);font-size:13.5px}
 .caldlg .which{display:inline-block;font-weight:700;background:var(--soft);border-radius:999px;padding:3px 10px}
@@ -348,6 +348,64 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
   .day{border-radius:26px}
   .pg-typ>span{min-width:0;flex-basis:100%}
 }
+
+/* ===== Wygląd pro (19.11.2026), wspólny ze Zdawalni (skrot-bm/DESIGN.md): Onest, płaskie karty z ramką 2 px,
+   zaokrąglenia 10/16/22, typ zajęć słowami w trzech kolorach (wykład szary, ćwiczenia zielone, laboratorium niebieskie),
+   bez pasków z lewej, gradientów i miękkich cieni. ===== */
+:root{ --r-s:10px; --r-m:16px; --r-l:22px; --edge:color-mix(in srgb,var(--line) 55%,var(--ink) 18%);
+  --t-w:#EEF1EC; --t-w-ink:#10231A; --t-cw:#DDF3D0; --t-cw-ink:#0F5A2F; --t-lab:#E3F0FD; --t-lab-ink:#174E82;
+  --sh:0 0 0 2px var(--line); --sh-up:0 0 0 2px var(--edge); --sh-panel:none }
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){ --t-w:#1D3126; --t-w-ink:#E8F2EC; --t-cw:#183324; --t-cw-ink:#4ADE8B; --t-lab:#14283A; --t-lab-ink:#8CC2F5; --sh:0 0 0 2px #22382B; --sh-up:0 0 0 2px #36503F }}
+:root[data-theme="dark"]{ --t-w:#1D3126; --t-w-ink:#E8F2EC; --t-cw:#183324; --t-cw-ink:#4ADE8B; --t-lab:#14283A; --t-lab-ink:#8CC2F5; --sh:0 0 0 2px #22382B; --sh-up:0 0 0 2px #36503F }
+h1{font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1.1}
+.day h2,.hero-day,.help-panel h2,.caldlg h2{font-weight:700}
+.help-panel h2{margin:0;font-size:20px}
+.caldlg h2{margin:0;font-size:22px}
+.day,.controls,.hero,.days>.free,.help-panel,.err-card{border-radius:var(--r-l)}
+.tabs{border-radius:var(--r-m)} .tabs a{border-radius:var(--r-s)}
+.langbtn,.help summary,.nav .today-btn,.ctl-done button,.help-panel .close,.caldlg .copyrow button,.caldlg .close{border-radius:var(--r-m)}
+.foot .zapis a{border-radius:0;background:none;box-shadow:none;padding:0;min-height:44px;color:var(--acc)}
+.day.is-today{box-shadow:0 0 0 2px var(--acc)}
+.day.is-today:hover{box-shadow:0 0 0 2px var(--acc)}
+.day:hover,.nav button:not(:disabled):hover,.langbtn:hover{transform:none}
+.legend{display:none}
+/* Wiersz zajęć: płaski, separator zamiast paska i gradientu */
+.days .cls,.days .cls[class*=" k-"]{border-left:0;background:none;border-radius:0;padding:12px 4px}
+.days .list>.cls+.cls{border-top:2px solid var(--line)}
+.days .cls.is-now,.days .cls.is-add{background:var(--acc-soft);border-radius:var(--r-m);padding-inline:10px}
+.days .cls.is-next{background:none}
+.days .cls.is-off{background:var(--soft);border-radius:var(--r-m);padding-inline:10px}
+.days .list>.cls:is(.is-now,.is-add,.is-off)+.cls,.days .list>.cls+.cls:is(.is-now,.is-add,.is-off){border-top-color:transparent}
+.chip{font:700 12px/1 var(--body);letter-spacing:0;padding:5px 9px;border-radius:999px;text-transform:none}
+.chip.W,.chip.X{background:var(--t-w);color:var(--t-w-ink)}
+.chip.CW,.chip.K,.chip.S{background:var(--t-cw);color:var(--t-cw-ink)}
+.chip.LAB{background:var(--t-lab);color:var(--t-lab-ink)}
+.dark-panel .chip{background:rgba(255,255,255,.14);color:#FFFFFF}
+.cls .tags{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+/* Wybór planu: widok, motyw i kalendarz pod „Więcej opcji” */
+.ctl-more{grid-column:1/-1}
+.ctl-more>summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:8px;min-height:44px;font:700 14px/1 var(--body);color:var(--acc)}
+.ctl-more>summary::-webkit-details-marker{display:none}
+.ctl-more>summary::after{content:"";width:8px;height:8px;border:solid currentColor;border-width:0 2px 2px 0;transform:rotate(45deg) translateY(-2px);transition:transform .15s}
+.ctl-more[open]>summary::after{transform:rotate(-135deg) translateY(-2px)}
+.ctl-more-in{display:flex;flex-direction:column;gap:14px;padding-top:6px}
+@media (min-width:1000px){ .ctl-more-in{display:grid;grid-template-columns:1fr 1fr;gap:12px 28px} }
+/* Reklama apki: na dole, karta ze Stasiem */
+.promo{display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:var(--r-l);background:var(--acc-soft);box-shadow:0 0 0 2px color-mix(in srgb,var(--acc) 25%,var(--line));color:var(--ink);text-decoration:none}
+.promo:hover{box-shadow:0 0 0 2px var(--acc)}
+.promo-stas{flex:none;width:52px;height:52px}
+.promo-stas svg{width:100%;height:100%;display:block}
+.promo-t{flex:1;display:flex;flex-direction:column;gap:2px;font-size:15px;line-height:1.35}
+.promo-t span{color:var(--muted);font-size:14px}
+.promo-arr{flex:none;width:22px;height:22px;color:var(--acc)}
+/* Stopka: stan planu na wierzchu, źródła pod „Skąd są te dane?” */
+.foot-more>summary{cursor:pointer;min-height:44px;display:inline-flex;align-items:center;font-weight:600;color:var(--ink)}
+.foot-more>div{margin-top:6px}
+/* Pasek górny bez CTA: zakładki i język w jednym wierszu także na telefonie */
+.tabs{flex:1 1 0} .tb-right{flex:none}
+/* Pola wyboru: zaokrąglenia z apki zamiast pigułek (pigułki tylko dla etykiet) */
+.ksel,.pill,.ct-btn,.ctl-toggle,.calbtn,.seg{border-radius:var(--r-m)}
+.seg button{border-radius:var(--r-s)}
 </style>
 </head>
 <body>
@@ -358,7 +416,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
       <a href="skrzynka.html" class="bm-only" data-i18n="tabBox">Skrzynka do opiekunki</a>
     </nav>
     <div class="tb-right">
-      <a class="cta" id="learn" href="https://zdawalni.pl" title="Skróty, fiszki i quizy do wszystkich przedmiotów" data-i18n-attr="title=learnT"><span data-i18n="learn">Ucz się w Zdawalni</span><span class="arr"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+
       <button class="langbtn" id="langBtn" type="button"></button>
     </div>
   </div>
@@ -369,7 +427,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
     <details class="help" id="help">
       <summary aria-label="Instrukcja obsługi" data-i18n-attr="aria-label=aHelp"><span class="q">?</span><span class="t" data-i18n="howto">Jak używać</span></summary>
       <div class="help-panel">
-        <h3 data-i18n="helpH">Szybka instrukcja</h3>
+        <h2 data-i18n="helpH">Szybka instrukcja</h2>
         <ol>
           <li class="k-only" data-i18n="hk1"><b>Grupa:</b> wybierz kierunek, rok i swoją grupę. Przy laboratoriach wybierz podgrupę A lub B, a „Obie grupy” pokaże oba terminy.</li>
           <li class="bm-only" data-i18n="h1"><b>Grupa:</b> kliknij swoją grupę: C111, C112 albo C113.</li>
@@ -378,7 +436,7 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
           <li data-i18n="h10"><b>Odwołane zajęcia:</b> plan czyta komunikaty dziekanatu. Odwołane zajęcia są przekreślone z napisem „Odwołane”, a odrabianie i zmiany sal pojawiają się jako dodatkowe zajęcia w odpowiednim dniu.</li>
           <li data-i18n="h4"><b>Nieparzysty / Parzysty:</b> stały układ tygodnia bez dat, np. do zrobienia zrzutu ekranu.</li>
           <li data-i18n="h5"><b>Motyw:</b> domyślnie jasny. „Ciemny” ustawia ciemne kolory, a „Auto” dopasowuje je do ustawień telefonu. Wybór zapamiętuje się w tej przeglądarce.</li>
-          <li data-i18n="h6"><b>Oznaczenia:</b> W to wykład, ĆW ćwiczenia, a LAB laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
+          <li data-i18n="h6"><b>Oznaczenia:</b> przy każdych zajęciach jest napisane, czy to wykład, ćwiczenia czy laboratorium. Dzisiejszy dzień ma ramkę i znacznik „dziś”.</li>
           <li class="bm-only" data-i18n="h7"><b>Skrzynka do opiekunki:</b> druga zakładka u góry. Napiszesz tam sprawę do opiekunki roku, podpisaną albo anonimowo. Starosta zbiera wiadomości i przekazuje je dalej, a odpowiedź pojawia się przy wiadomości. Szczegóły są w „Jak używać” w tamtej zakładce.</li>
           <li class="bm-only" data-i18n="h9"><b>Twój kalendarz:</b> przycisk „Dodaj plan do kalendarza w telefonie” dodaje zajęcia Twojej grupy do Kalendarza Google, Apple albo Outlooka. Kalendarz aktualizuje się sam, gdy zmieni się plan.</li>
           <li data-i18n="h8"><b>Język:</b> przycisk EN / PL u góry przełącza całą stronę między polskim a angielskim.</li>
@@ -430,6 +488,8 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
       <div class="ctl-label" data-i18n="lPg">Twoje podgrupy</div>
       <div class="pgs" id="pgs"></div>
     </div>
+    <details class="ctl-more"><summary data-i18n="moreOpts">Więcej opcji</summary>
+    <div class="ctl-more-in">
     <div class="ctl">
       <div class="ctl-label" data-i18n="lView">Widok</div>
       <div class="seg" id="modes" role="group" aria-label="Widok tygodnia" data-i18n-attr="aria-label=aModes">
@@ -450,6 +510,8 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
       <div class="ctl-label" data-i18n="lCal">Twój kalendarz</div>
       <button class="calbtn" id="calBtn" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg><span data-i18n="calBtn">Dodaj plan do kalendarza w telefonie</span></button>
     </div>
+    </div>
+    </details>
     <div class="ctl-done"><button type="button" id="ctlDone" data-i18n="ctlDone">Gotowe</button></div>
     </div>
   </section>
@@ -468,12 +530,20 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 
   <main class="days" id="days" aria-live="polite"></main>
 
+  <a class="promo" id="promo" href="https://zdawalni.pl" title="Skróty, fiszki i quizy do wszystkich przedmiotów" data-i18n-attr="title=learnT">
+    <span class="promo-stas" id="promoStas" aria-hidden="true"></span>
+    <span class="promo-t"><b data-i18n="promoT">Uczysz się do kolokwium?</b><span data-i18n="promoP">Skróty, fiszki i próbne testy do Twoich przedmiotów w Zdawalni</span></span>
+    <svg class="promo-arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+  </a>
+
   <div class="foot">
     <div class="zapis"><a href="https://zdawalni.pl/?zapisz=plan" data-i18n="footZapis">Studiujesz inny kierunek? Zdawalni dla Twojego kierunku: zapisz się ↗</a></div>
+    <div id="dataMeta"></div>
+    <details class="foot-more"><summary data-i18n="footMore">Skąd są te dane?</summary>
     <div data-i18n="foot1">Sale bez adresu są w budynku przy ul. Cukrowej 8. Dane z <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">planu zajęć WEFiZ</a>, sprawdzane automatycznie codziennie rano. Podział tygodni: harmonogram wydziału na semestr zimowy 2026/27.</div>
     <div data-i18n="foot2">Odwołane zajęcia i odrabianie: <a href="https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/" target="_blank" rel="noopener">komunikaty dziekanatu (Cukrowa)</a>, sprawdzane automatycznie co godzinę w ciągu dnia.</div>
-    <div id="dataMeta"></div>
     <div data-i18n="foot3">Plan może się zmieniać. W razie wątpliwości sprawdź oficjalną stronę.</div>
+    </details>
     <div id="refreshed"></div>
   </div>
 </div>
@@ -493,7 +563,7 @@ const EN = {
   h10:"<b>Cancelled classes:</b> the timetable reads the dean's office notices. Cancelled classes are crossed out and marked “Cancelled”; make-up classes and room changes appear as extra classes on the right day.",
   h4:"<b>Odd / Even:</b> the fixed weekly layout without dates, e.g. for a screenshot.",
   h5:"<b>Theme:</b> light by default. “Dark” switches to dark colours; “Auto” follows your phone or computer settings. Your choice is saved in this browser.",
-  h6:"<b>Labels:</b> LEC is a lecture, CLASS a tutorial class and LAB a laboratory. Today's card has a frame and a “today” tag.",
+  h6:"<b>Labels:</b> every class says whether it is a lecture, a class or a lab. Today has a frame and a “today” tag.",
   h7:"<b>Year Tutor Mailbox:</b> the second tab at the top. Write a request to the year tutor, signed or anonymous. Your class representative collects the messages and passes them on, and the reply appears next to your message. Details are under “How to use” in that tab.",
   h9:"<b>Your calendar:</b> the “Add the timetable to your phone calendar” button adds your group's classes to Google, Apple or Outlook Calendar. It updates itself when the timetable changes.",
   h8:"<b>Language:</b> the PL / EN button at the top switches the whole site between Polish and English.",
@@ -504,7 +574,7 @@ const EN = {
   aSubs:"Lab subgroup", subAll:"Both groups", subA:"Group A", subB:"Group B", lPg:"Your subgroups",
   aModes:"Week view", mCal:"Calendar", mOdd:"Odd week", mEven:"Even week",
   aThemes:"Colour theme", tAuto:"Same as your phone or computer settings",
-  ctlYour:"Your timetable", ctlOpen:"Expand", ctlClose:"Collapse", ctlDone:"Done", thLight:"Light", thDark:"Dark", learn:"Study on Zdawalni", learnT:"Summaries, flashcards and quizzes for every subject", aToday:"Today",
+  ctlYour:"Your timetable", ctlOpen:"Expand", ctlClose:"Collapse", ctlDone:"Done", thLight:"Light", thDark:"Dark", learn:"Study on Zdawalni", promoT:"Studying for a test?", promoP:"Summaries, flashcards and practice tests for your subjects on Zdawalni", moreOpts:"More options", footMore:"Where the data comes from", learnT:"Summaries, flashcards and quizzes for every subject", aToday:"Today",
   lg1:'<i class="chip W">LEC</i> lecture', lg2:'<i class="chip CW">CLASS</i> tutorial class', lg3:'<i class="chip LAB">LAB</i> laboratory',
   lg4:'<i class="chip K">CONV</i> conversation class', lg5:'<i class="chip S">SEM</i> seminar',
   foot1:'Rooms without an address are in the building at ul. Cukrowa 8. Data from the <a id="src" href="https://planyzajec-efz.usz.edu.pl/plan" target="_blank" rel="noopener">WEFiZ timetable</a>, checked automatically every morning. Odd and even weeks follow the faculty schedule for the winter semester 2026/27.',
@@ -691,7 +761,7 @@ function ensureGroup(){
 
 /* ---------- Rendering ---------- */
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const LBL_PL = {W:"W", CW:"ĆW", LAB:"LAB", K:"K", S:"S"}, LBL_EN = {W:"LEC", CW:"CLASS", LAB:"LAB", K:"CONV", S:"SEM"};
+const LBL_PL = {W:"Wykład", CW:"Ćwiczenia", LAB:"Laboratorium", K:"Konwersatorium", S:"Seminarium"}, LBL_EN = {W:"Lecture", CW:"Class", LAB:"Lab", K:"Conversation", S:"Seminar"};
 const lbl = k => (isEN() ? LBL_EN : LBL_PL)[k] || k;
 const MONTHS_EN = ["January","February","March","April","May","June","July","August","September","October","November","December"];
 const MONTHS_PL = ["stycznia","lutego","marca","kwietnia","maja","czerwca","lipca","sierpnia","września","października","listopada","grudnia"];
@@ -726,6 +796,7 @@ const ICO = {
   sun: '<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></svg>'
 };
 const STAS = '<svg class="stas" viewBox="52 62 196 196" aria-hidden="true"><defs><clipPath id="stasC"><circle cx="150" cy="160" r="116"/></clipPath></defs><circle cx="150" cy="160" r="116" fill="#DDE7D8"/><g clip-path="url(#stasC)"><g transform="translate(150 170) scale(1.2) translate(-150 -160)"><path d="M50 330C50 248 94 207 150 207C206 207 250 248 250 330Z" fill="#1A7F45"/><path d="M150 207C206 207 250 248 250 330H210C210 268 188 224 150 220Z" fill="#15703C"/><rect x="135" y="186" width="30" height="30" rx="12" fill="#EDB996"/><path d="M133 210L145 229L150 216ZM167 210L155 229L150 216Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/><path d="M114 216C106 240 102 268 100 300M186 216C194 240 198 268 200 300" fill="none" stroke="#23392E" stroke-width="10"/><rect x="101" y="238" width="14" height="10" rx="3" fill="#CDF25E"/><rect x="185" y="238" width="14" height="10" rx="3" fill="#CDF25E"/><g><ellipse cx="103" cy="161" rx="10" ry="13" fill="#FAD7B8"/><ellipse cx="104" cy="161" rx="5" ry="7.5" fill="#EDB996"/><ellipse cx="197" cy="161" rx="10" ry="13" fill="#FAD7B8"/><ellipse cx="196" cy="161" rx="5" ry="7.5" fill="#EDB996"/><ellipse cx="150" cy="153" rx="48" ry="50" fill="#FAD7B8"/><path d="M101 153C95 110 124 92 152 94C182 94 205 114 199 153C195 138 188 128 178 123C166 132 146 134 128 127C116 128 106 138 101 153Z" fill="#2B2118"/><path d="M126 102L117 84L141 96Z" fill="#2B2118"/><path d="M151 97L156 82L166 96Z" fill="#2B2118"/><path d="M167 97C169 80 188 78 187 92" fill="none" stroke="#2B2118" stroke-width="6" stroke-linecap="round"/><path d="M120 116C124 110 130 106 137 104" fill="none" stroke="#4E3D30" stroke-width="4" stroke-linecap="round"/><g ><path d="M117 135Q127 128 138 134" fill="none" stroke="#2B2118" stroke-width="5" stroke-linecap="round"/><path d="M162 134Q173 128 183 135" fill="none" stroke="#2B2118" stroke-width="5" stroke-linecap="round"/></g><path d="M132 186Q150 208 168 186Z" fill="#6E2A2C"/><path d="M135 187.5H165Q164 192 160 193H140Q136 192 135 187.5Z" fill="#FFFFFF"/><ellipse cx="115" cy="181" rx="8.5" ry="5" fill="#F4A38C" fill-opacity="0.55"/><ellipse cx="185" cy="181" rx="8.5" ry="5" fill="#F4A38C" fill-opacity="0.55"/><circle cx="111" cy="175" r="1.6" fill="#D9926B"/><circle cx="117" cy="178" r="1.6" fill="#D9926B"/><circle cx="189" cy="175" r="1.6" fill="#D9926B"/><circle cx="183" cy="178" r="1.6" fill="#D9926B"/><path d="M146 176Q150 181 154 176" fill="none" stroke="#DFA07C" stroke-width="3.5" stroke-linecap="round"/><path d="M113 156L104 152M187 156L196 152" stroke="#10231A" stroke-width="4" stroke-linecap="round"/><circle cx="130" cy="160" r="17" fill="#FFFFFF" fill-opacity="0.45" stroke="#10231A" stroke-width="5.5"/><circle cx="170" cy="160" r="17" fill="#FFFFFF" fill-opacity="0.45" stroke="#10231A" stroke-width="5.5"/><path d="M147 157Q150 153 153 157" fill="none" stroke="#10231A" stroke-width="4.5" stroke-linecap="round"/><g ><circle cx="131" cy="161" r="6.5" fill="#10231A"/><circle cx="133.2" cy="158.2" r="2.1" fill="#FFFFFF"/></g><g ><circle cx="169" cy="161" r="6.5" fill="#10231A"/><circle cx="171.2" cy="158.2" r="2.1" fill="#FFFFFF"/></g></g></g></g></svg>';
+{ const p = document.getElementById("promoStas"); if (p) p.innerHTML = STAS; }
 const FLAG = { now: () => `<span class="flag"><span class="dot"></span>${L("Teraz","Now")}</span>`, next: () => `<span class="flag soft">${L("Następne","Next")}</span>` };
 // Wpis „sala 002 dr Barbara Batóg” (prowadzący w polu sali w danych uczelni) → sala i prowadzący osobno, tylko na stronie
 const rozdzielSale = e => { if (e.p || !e.r) return e; const m = String(e.r).match(/^(.*?\S)\s+((?:dr|mgr|prof|doc)\b.*)$/); return m ? { ...e, r: m[1], p: m[2] } : e; };
@@ -743,7 +814,7 @@ function cls(e0, showDates, flag){
   const dz = e.off ? dzCancelInfo(e) : e.add ? dzExtraInfo(e) : null;
   const badge = dz ? `<span class="badge ${dz.cls}">${esc(dz.badge)}</span>` : "";
   return `<div class="cls k-${e.k}${e.off ? " is-off" : ""}${e.add ? " is-add" : ""}${flag ? " is-" + flag : ""}">
-    <div class="time">${t[0]}<span>${t[1]}</span>${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}</div>
+    <div class="time">${t[0]}<span>${t[1]}</span></div>
     <div class="info">
       ${flag ? FLAG[flag]() : ""}
       <div class="name">${esc(pl)}</div>
@@ -751,7 +822,7 @@ function cls(e0, showDates, flag){
       ${e.r ? `<div class="room">${ICO.pin}<span><span class="sr">${L("Sala: ","Room: ")}</span>${esc(trRoom(e.r))}</span></div>` : ""}
       ${e.p ? `<div class="meta who">${ICO.who}<span>${esc(e.p)}</span></div>` : ""}
       ${e.x ? `<div class="meta">${esc(e.x)}</div>` : ""}
-      ${tags.length || badge ? `<div class="tags">${badge}${tags.map(x=>`<span class="tg">${esc(x)}</span>`).join("")}</div>` : ""}
+      ${tags.length || badge || e.k!=="X" ? `<div class="tags">${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}${badge}${tags.map(x=>`<span class="tg">${esc(x)}</span>`).join("")}</div>` : ""}
       ${note ? `<div class="note">${esc(note)}</div>` : ""}
       ${dz && dz.text ? `<div class="dz ${dz.cls}">${dz.text}</div>` : ""}
     </div></div>`;
@@ -882,7 +953,8 @@ function renderRocznik(){
   const trybL = r => !zTrybem ? "" : r.tryb === "nst" ? L(" · niestacjonarne", " · part-time") : L(" · stacjonarne", " · full-time");
   document.getElementById("roky").innerHTML = `<div class="year">${lata.map(r => `<button class="pill" data-r="${esc(r.id)}" aria-pressed="${r.id === R.cur.id}">${L(`${r.rok}. rok`, `${ROK_EN[r.rok] || r.rok} year`)}${esc(trybL(r))}</button>`).join("")}</div>`;
   document.querySelectorAll("#roky .pill").forEach(b => b.onclick = () => setRocznik(b.dataset.r));
-  if (bm) return;   // BM: nagłówek bez zmian (teksty w HTML i w EN)
+  // BM: teksty z HTML i EN; przywracamy je, bo po zmianie kierunku bez przeładowania zostawał podpis poprzedniego.
+  if (bm) { for (const id of ["eyebrow", "sub"]) { const el = document.getElementById(id); if (el.dataset.pl !== undefined) el.innerHTML = isEN() && EN[el.dataset.i18n] != null ? EN[el.dataset.i18n] : el.dataset.pl; } return; }
   const sem = DATA.semestr === "zimowy" ? L("semestr zimowy", "winter semester") : DATA.semestr === "letni" ? L("semestr letni", "summer semester") : "";
   const rokAk = DATA.rokAkademicki ? DATA.rokAkademicki.replace(/\/20/, "/") : "";
   document.getElementById("eyebrow").textContent = [L("Uniwersytet Szczeciński", "University of Szczecin"), R.cur.wydzial, nazwaK(R.cur),
@@ -1036,7 +1108,7 @@ function render(){
   renderRocznik();
   // grupa bez litery („1”, „2” – plany z plików wydziałów): „Plan zajęć – grupa 1”; BM i WEFiZ jak dotąd („Plan zajęć C112”)
   document.getElementById("title").textContent = /^\d+$/.test(g) ? L(`Plan zajęć – grupa ${g}`, `Timetable – group ${g}`) : L(`Plan zajęć ${g}`, `Timetable ${g}`);
-  document.title = isBM() ? L("Plan zajęć BM", "BM Timetable") : L(`Plan zajęć ${R.cur.pl}`, `${R.cur.en || R.cur.pl} Timetable`);
+  document.title = `${document.getElementById("title").textContent} · ${isBM() ? "BM" : L(R.cur.pl, R.cur.en || R.cur.pl)}`;
   seoRocznika();
   document.querySelectorAll("#groups .pill").forEach(b => b.setAttribute("aria-pressed", b.dataset.g===g));
   const subs = hasSubs(g);
@@ -1141,7 +1213,7 @@ function openCal(){
   const which = `${g}${sub ? L(`, laby ${sub}`, `, lab group ${sub}`) : (hasSubs(g) ? L(", obie grupy labów", ", both lab groups") : "")}`;
   const opt = (href, color, letter, title, small, attrs="") => `<a class="opt" href="${href}" ${attrs}><span class="ico" style="background:${color}">${letter}</span><span><b>${title}</b><small>${small}</small></span></a>`;
   document.getElementById("calIn").innerHTML = `
-    <div class="dlg-top"><h3 id="calH">${L("Plan w Twoim kalendarzu","Timetable in your calendar")}</h3><button type="button" class="x" id="calX" aria-label="${L("Zamknij","Close")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="dlg-top"><h2 id="calH">${L("Plan w Twoim kalendarzu","Timetable in your calendar")}</h2><button type="button" class="x" id="calX" aria-label="${L("Zamknij","Close")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <p>${L("Dodasz plan dla:","You are adding the timetable for:")} <span class="which">${esc(which)}</span></p>
     <p class="muted">${L("To subskrypcja, nie jednorazowy import: gdy uczelnia zmieni plan, kalendarz sam się zaktualizuje. Inna grupa lub podgrupa? Zamknij okienko i zmień wybór wyżej.","This is a subscription, not a one-off import: when the university changes the timetable, your calendar updates itself. Different group? Close this and change your choice above.")}</p>
     <div class="opts">
