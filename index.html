@@ -399,6 +399,26 @@ h1{font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1.1}
 ::selection{background:color-mix(in srgb,var(--acc) 30%,transparent);color:var(--ink)}
 html{scrollbar-color:var(--edge) transparent;caret-color:var(--acc);accent-color:var(--acc)}
 .time,.hero time,.hero-top,.nav,.foot{font-variant-numeric:tabular-nums}
+/* Odwołania i zmiany dobrze widoczne (Bartek 20.11): czerwony wiersz „Odwołane”, bursztynowy „Odrabianie / Zmiana”,
+   etykieta z ikoną na górze wiersza i podsumowanie pod nazwą dnia. */
+:root{ --off:#A3261E; --off-soft:#FDE4E1; --off-on:#FFFFFF; --chg:#B35400; --chg-ink:#6A3B00; --chg-soft:#FFF1DB; --chg-on:#FFFFFF }
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){ --off:#FF7A70; --off-soft:#3A1518; --off-on:#0F1A14; --chg:#FF9F43; --chg-ink:#FFC98A; --chg-soft:#33240F; --chg-on:#0F1A14 }}
+:root[data-theme="dark"]{ --off:#FF7A70; --off-soft:#3A1518; --off-on:#0F1A14; --chg:#FF9F43; --chg-ink:#FFC98A; --chg-soft:#33240F; --chg-on:#0F1A14 }
+.days .cls.is-off{background:var(--off-soft)!important;border-left:6px solid var(--off)!important;box-shadow:inset 0 0 0 2px color-mix(in srgb,var(--off) 55%,transparent)}
+.days .cls.is-add{background:var(--chg-soft)!important;border-left:6px solid var(--chg)!important;box-shadow:inset 0 0 0 2px color-mix(in srgb,var(--chg) 55%,transparent)}
+.cls.is-off .name,.cls.is-off .time{text-decoration-color:var(--off)}
+.cls.is-off .name{color:var(--ink)}
+.dzst{margin-bottom:4px}
+.badge{gap:6px;font-size:13px;padding:6px 11px 6px 8px}
+.badge .ico{width:16px;height:16px;vertical-align:0}
+.badge.off{background:var(--off);color:var(--off-on)}
+.badge.add{background:var(--chg);color:var(--chg-on)}
+.dz{background:var(--surface)!important;color:var(--ink)}
+.dzsum{display:flex;flex-wrap:wrap;gap:6px;padding:0 18px 10px;margin-top:-4px}
+.dzsum span{display:inline-flex;align-items:center;gap:6px;font:700 13px/1 var(--body);padding:6px 10px;border-radius:999px}
+.dzsum .ico{width:15px;height:15px;vertical-align:0}
+.dzsum .off{background:var(--off-soft);color:var(--off)}
+.dzsum .add{background:var(--chg-soft);color:var(--chg-ink)}
 </style>
 </head>
 <body>
@@ -788,6 +808,10 @@ const ICO = {
   clock: '<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>',
   sun: '<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></svg>'
 };
+const DZ_ICO = {
+  off: '<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9 9l6 6M15 9l-6 6"/></svg>',
+  add: '<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9h13l-3-3M20 15H7l3 3"/></svg>'
+};
 const STAS = '<svg class="stas" viewBox="52 62 196 196" aria-hidden="true"><defs><clipPath id="stasC"><circle cx="150" cy="160" r="116"/></clipPath></defs><circle cx="150" cy="160" r="116" fill="#DDE7D8"/><g clip-path="url(#stasC)"><g transform="translate(150 170) scale(1.2) translate(-150 -160)"><path d="M50 330C50 248 94 207 150 207C206 207 250 248 250 330Z" fill="#1A7F45"/><path d="M150 207C206 207 250 248 250 330H210C210 268 188 224 150 220Z" fill="#15703C"/><rect x="135" y="186" width="30" height="30" rx="12" fill="#EDB996"/><path d="M133 210L145 229L150 216ZM167 210L155 229L150 216Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/><path d="M114 216C106 240 102 268 100 300M186 216C194 240 198 268 200 300" fill="none" stroke="#23392E" stroke-width="10"/><rect x="101" y="238" width="14" height="10" rx="3" fill="#CDF25E"/><rect x="185" y="238" width="14" height="10" rx="3" fill="#CDF25E"/><g><ellipse cx="103" cy="161" rx="10" ry="13" fill="#FAD7B8"/><ellipse cx="104" cy="161" rx="5" ry="7.5" fill="#EDB996"/><ellipse cx="197" cy="161" rx="10" ry="13" fill="#FAD7B8"/><ellipse cx="196" cy="161" rx="5" ry="7.5" fill="#EDB996"/><ellipse cx="150" cy="153" rx="48" ry="50" fill="#FAD7B8"/><path d="M101 153C95 110 124 92 152 94C182 94 205 114 199 153C195 138 188 128 178 123C166 132 146 134 128 127C116 128 106 138 101 153Z" fill="#2B2118"/><path d="M126 102L117 84L141 96Z" fill="#2B2118"/><path d="M151 97L156 82L166 96Z" fill="#2B2118"/><path d="M167 97C169 80 188 78 187 92" fill="none" stroke="#2B2118" stroke-width="6" stroke-linecap="round"/><path d="M120 116C124 110 130 106 137 104" fill="none" stroke="#4E3D30" stroke-width="4" stroke-linecap="round"/><g ><path d="M117 135Q127 128 138 134" fill="none" stroke="#2B2118" stroke-width="5" stroke-linecap="round"/><path d="M162 134Q173 128 183 135" fill="none" stroke="#2B2118" stroke-width="5" stroke-linecap="round"/></g><path d="M132 186Q150 208 168 186Z" fill="#6E2A2C"/><path d="M135 187.5H165Q164 192 160 193H140Q136 192 135 187.5Z" fill="#FFFFFF"/><ellipse cx="115" cy="181" rx="8.5" ry="5" fill="#F4A38C" fill-opacity="0.55"/><ellipse cx="185" cy="181" rx="8.5" ry="5" fill="#F4A38C" fill-opacity="0.55"/><circle cx="111" cy="175" r="1.6" fill="#D9926B"/><circle cx="117" cy="178" r="1.6" fill="#D9926B"/><circle cx="189" cy="175" r="1.6" fill="#D9926B"/><circle cx="183" cy="178" r="1.6" fill="#D9926B"/><path d="M146 176Q150 181 154 176" fill="none" stroke="#DFA07C" stroke-width="3.5" stroke-linecap="round"/><path d="M113 156L104 152M187 156L196 152" stroke="#10231A" stroke-width="4" stroke-linecap="round"/><circle cx="130" cy="160" r="17" fill="#FFFFFF" fill-opacity="0.45" stroke="#10231A" stroke-width="5.5"/><circle cx="170" cy="160" r="17" fill="#FFFFFF" fill-opacity="0.45" stroke="#10231A" stroke-width="5.5"/><path d="M147 157Q150 153 153 157" fill="none" stroke="#10231A" stroke-width="4.5" stroke-linecap="round"/><g ><circle cx="131" cy="161" r="6.5" fill="#10231A"/><circle cx="133.2" cy="158.2" r="2.1" fill="#FFFFFF"/></g><g ><circle cx="169" cy="161" r="6.5" fill="#10231A"/><circle cx="171.2" cy="158.2" r="2.1" fill="#FFFFFF"/></g></g></g></g></svg>';
 { const p = document.getElementById("promoStas"); if (p) p.innerHTML = STAS; }
 const FLAG = { now: () => `<span class="flag"><span class="dot"></span>${L("Teraz","Now")}</span>`, next: () => `<span class="flag soft">${L("Następne","Next")}</span>` };
@@ -805,17 +829,18 @@ function cls(e0, showDates, flag){
   if (e.tag) tags.push(e.tag);
   const note = e.n && (showDates || !e.dates) ? trNote(e.n) : "";
   const dz = e.off ? dzCancelInfo(e) : e.add ? dzExtraInfo(e) : null;
-  const badge = dz ? `<span class="badge ${dz.cls}">${esc(dz.badge)}</span>` : "";
+  const badge = dz ? `<span class="badge ${dz.cls}">${DZ_ICO[dz.cls] || ""}${esc(dz.badge)}</span>` : "";
   return `<div class="cls k-${e.k}${e.off ? " is-off" : ""}${e.add ? " is-add" : ""}${flag ? " is-" + flag : ""}">
     <div class="time">${t[0]}<span>${t[1]}</span></div>
     <div class="info">
+      ${badge ? `<div class="dzst">${badge}</div>` : ""}
       ${flag ? FLAG[flag]() : ""}
       <div class="name">${esc(pl)}</div>
       ${en ? `<div class="en">${esc(en)}</div>` : ""}
       ${e.r ? `<div class="room">${ICO.pin}<span><span class="sr">${L("Sala: ","Room: ")}</span>${esc(trRoom(e.r))}</span></div>` : ""}
       ${e.p ? `<div class="meta who">${ICO.who}<span>${esc(e.p)}</span></div>` : ""}
       ${e.x ? `<div class="meta">${esc(e.x)}</div>` : ""}
-      ${tags.length || badge || e.k!=="X" ? `<div class="tags">${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}${badge}${tags.map(x=>`<span class="tg">${esc(x)}</span>`).join("")}</div>` : ""}
+      ${tags.length || e.k!=="X" ? `<div class="tags">${e.k!=="X" ? `<i class="chip ${e.k}">${lbl(e.k)}</i>` : ""}${tags.map(x=>`<span class="tg">${esc(x)}</span>`).join("")}</div>` : ""}
       ${note ? `<div class="note">${esc(note)}</div>` : ""}
       ${dz && dz.text ? `<div class="dz ${dz.cls}">${dz.text}</div>` : ""}
     </div></div>`;
@@ -881,6 +906,17 @@ function nowNext(items){
   const next = live.find(e => toMin(startOf(e)) > n);
   return { now, next };
 }
+// Pod nazwą dnia: ile zajęć odwołano, przeniesiono, odrabia się albo zmieniono (żeby było widać przy przewijaniu tygodnia).
+function dzSum(items){
+  const n = f => items.filter(f).length;
+  const off = n(e => e.off && !e.off.moved), moved = n(e => e.off && e.off.moved), make = n(e => e.add && e.add.kind !== "change"), chg = n(e => e.add && e.add.kind === "change");
+  const out = [];
+  if (off) out.push(`<span class="off">${DZ_ICO.off}${L(`Odwołane: ${off}`, `Cancelled: ${off}`)}</span>`);
+  if (moved) out.push(`<span class="off">${DZ_ICO.add}${L(`Przeniesione: ${moved}`, `Moved: ${moved}`)}</span>`);
+  if (make) out.push(`<span class="add">${DZ_ICO.add}${L(`Odrabianie: ${make}`, `Make-up: ${make}`)}</span>`);
+  if (chg) out.push(`<span class="add">${DZ_ICO.add}${L(`Zmiana: ${chg}`, `Changed: ${chg}`)}</span>`);
+  return out.length ? `<div class="dzsum">${out.join("")}</div>` : "";
+}
 function dayCard(title, dateLbl, items, opts={}){
   const nn = opts.today ? nowNext(items) : {};
   const body = items.length ? items.map(e => cls(e, opts.fixed, e === nn.now ? "now" : e === nn.next ? "next" : null)).join("") : `<div class="free">${ICO.sun}${esc(tr(opts.empty || "Brak zajęć"))}</div>`;
@@ -888,6 +924,7 @@ function dayCard(title, dateLbl, items, opts={}){
       return `${startOf(f)}–${endOf(l)}`; })() : "";
   return `<section class="day${opts.today ? " is-today":""}">
     <h2><span>${title}${opts.today ? `<span class="now">${L("dziś","today")}</span>`:""}</span><span class="dt">${esc(dateLbl || span || "")}</span></h2>
+    ${dzSum(items)}
     ${opts.note ? `<div class="daynote">${esc(tr(opts.note))}</div>` : ""}
     <div class="list">${body}</div>
     ${(opts.dz || []).map(x => { const p = dzPost(x.post); return p ? `<div class="dznote"><b>${L("Komunikat dziekanatu","Dean's office notice")}:</b> ${esc(shorten(p.text || p.title, 220))}${dzLink(x.post).replace(/>[^<]*↗</, `>${L("Więcej","More")} ↗<`)}</div>` : ""; }).join("")}</section>`;
