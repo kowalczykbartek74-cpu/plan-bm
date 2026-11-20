@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
+ "updated": "20.11.2026 10:53",
  "changedAt": "2026-11-08T20:21:15.646Z",
- "checkedAt": "2026-11-19T15:27:24.443Z",
+ "checkedAt": "2026-11-20T13:56:50.922Z",
  "groups": {
   "M340": {
    "odd": [
@@ -416,10 +416,31 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m340-odwolanie-zajec-z-mgrem-marcinem-podlewskim-w-dniu-24-11-2026-r/",
+    "title": "M340- odwołanie zajęć z mgrem Marcinem Podlewskim w dniu 24.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-20",
+    "text": "Zajęcia z przedmiotu „Zakładanie i prowadzenie działalności gospodarczej” (ćwiczenia) dla kierunku Informatyka i Ekonometria, zaplanowane na dzień 24.11.2026 r., zostają przeniesione na dzień 1.12.2026 r., w godz. 8:15–9:45. Zajęcia odbędą się w sali s. S02, Mic.64."
+   }
+  ],
   "zmiany": {
-   "M340": []
+   "M340": [
+    {
+     "type": "extra",
+     "kind": "change",
+     "date": "2026-12-01",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Zakładanie i prowadzenie działalności gospodarczej",
+     "k": "CW",
+     "p": "mgr Marcin Podlewski",
+     "r": "s",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:37:44.083Z"
+  "updatedAt": "2026-11-20T14:11:17.760Z"
  }
 }

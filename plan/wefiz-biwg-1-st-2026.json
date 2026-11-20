@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
- "changedAt": "2026-11-08T18:39:33.474Z",
- "checkedAt": "2026-11-19T15:27:24.430Z",
+ "updated": "20.11.2026 10:53",
+ "changedAt": "2026-11-20T13:54:44.346Z",
+ "checkedAt": "2026-11-20T13:54:44.346Z",
  "groups": {
   "M100": {
    "odd": [
@@ -23,15 +23,6 @@
      "h": 15,
      "p": "dr Daniel Szostak",
      "r": "s. N08e (lab)"
-    },
-    {
-     "d": 4,
-     "s": 0,
-     "pl": "Ekonomia",
-     "k": "W",
-     "h": 15,
-     "p": "dr Wiesława Kostanciak",
-     "r": "s. S0102"
     },
     {
      "d": 0,
@@ -60,15 +51,6 @@
      "h": 15,
      "p": "dr Barbara Królikowska",
      "r": "s. S08"
-    },
-    {
-     "d": 4,
-     "s": 1,
-     "pl": "Ekonomia",
-     "k": "CW",
-     "h": 15,
-     "p": "dr Wiesława Kostanciak",
-     "r": "s. S0102"
     },
     {
      "d": 0,
@@ -169,6 +151,15 @@
    ],
    "even": [
     {
+     "d": 3,
+     "s": 0,
+     "pl": "Ekonomia",
+     "k": "W",
+     "h": 15,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S019"
+    },
+    {
      "d": 4,
      "s": 0,
      "pl": "Procesy przetwarzania danych w excelu",
@@ -196,6 +187,15 @@
      "h": 15,
      "p": "dr hab. prof. US Małgorzata Łatuszyńska",
      "r": "s. S04/05"
+    },
+    {
+     "d": 3,
+     "s": 1,
+     "pl": "Ekonomia",
+     "k": "CW",
+     "h": 15,
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S019"
     },
     {
      "d": 4,

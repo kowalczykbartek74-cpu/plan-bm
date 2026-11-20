@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
- "changedAt": "2026-11-17T14:18:39.669Z",
- "checkedAt": "2026-11-19T15:27:24.459Z",
+ "updated": "20.11.2026 10:53",
+ "changedAt": "2026-11-20T14:00:06.496Z",
+ "checkedAt": "2026-11-20T14:00:06.496Z",
  "groups": {
   "C241": {
    "odd": [
@@ -286,13 +286,13 @@
      "s": 2,
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "p": "wykład: ćwiczenia:",
-     "r": "sala 112 dr Artur Pomianowski",
+     "p": "ćwiczenia:",
+     "r": "sala 112 dr Artur Pomianowski Wyjście w ramach zajęć terenowych dr Jarosław Jaworski",
      "dates": [
-      "2026-11-12",
-      "2026-11-26"
+      "2026-11-26",
+      "2027-01-14"
      ],
-     "n": "Tylko: 12.11, 26.11"
+     "n": "Tylko: 26.11, 14.01"
     },
     {
      "d": 0,
@@ -319,6 +319,17 @@
      "r": "s. SIL 124/125 (lab)"
     },
     {
+     "d": 3,
+     "s": 3,
+     "pl": "Wyjście w ramach zajęć terenowych",
+     "k": "X",
+     "dates": [
+      "2027-01-14"
+     ],
+     "n": "Jednorazowo: 14.01.2027",
+     "x": "dr Jarosław Jaworski"
+    },
+    {
      "d": 0,
      "s": 4,
      "pl": "Wychowanie fizyczne",
@@ -341,6 +352,17 @@
      "k": "K",
      "p": "dr Mateusz Lewiński",
      "r": "s. 407"
+    },
+    {
+     "d": 3,
+     "s": 4,
+     "pl": "Wyjście w ramach zajęć terenowych",
+     "k": "X",
+     "dates": [
+      "2027-01-14"
+     ],
+     "n": "Jednorazowo: 14.01.2027",
+     "x": "dr Jarosław Jaworski"
     },
     {
      "d": 0,
@@ -611,8 +633,7 @@
      "k": "X",
      "p": "dr Artur Pomianowski",
      "r": "s. 112",
-     "post": 1,
-     "dup": true
+     "post": 1
     },
     {
      "type": "cancel",
@@ -651,6 +672,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:11:35.870Z"
+  "updatedAt": "2026-11-20T14:13:40.995Z"
  }
 }

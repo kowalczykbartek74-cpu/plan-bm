@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
+ "updated": "20.11.2026 10:53",
  "changedAt": "2026-11-08T20:23:13.992Z",
- "checkedAt": "2026-11-19T15:27:24.452Z",
+ "checkedAt": "2026-11-20T13:58:33.269Z",
  "groups": {
   "C531": {
    "odd": [
@@ -589,7 +589,8 @@
      "k": "W",
      "p": "dr Karolina Drela",
      "r": "s. 104",
-     "post": 3
+     "post": 3,
+     "dup": true
     },
     {
      "type": "extra",
@@ -602,7 +603,8 @@
      "p": "dr inż. Piotr Gutowski",
      "r": "s. SIL 126/127",
      "g": "B",
-     "post": 2
+     "post": 2,
+     "dup": true
     },
     {
      "type": "extra",
@@ -615,7 +617,8 @@
      "p": "dr inż. Piotr Gutowski",
      "r": "s. SIL 126/127",
      "g": "A",
-     "post": 2
+     "post": 2,
+     "dup": true
     },
     {
      "type": "extra",
@@ -628,7 +631,8 @@
      "p": "dr inż. Piotr Gutowski",
      "r": "s. SIL 126/127",
      "g": "B",
-     "post": 2
+     "post": 2,
+     "dup": true
     }
    ],
    "C532": [
@@ -657,6 +661,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:38:34.643Z"
+  "updatedAt": "2026-11-20T14:12:37.008Z"
  }
 }

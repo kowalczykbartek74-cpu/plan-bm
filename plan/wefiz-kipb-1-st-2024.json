@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
+ "updated": "20.11.2026 10:53",
  "changedAt": "2026-11-08T20:22:15.468Z",
- "checkedAt": "2026-11-19T15:27:24.446Z",
+ "checkedAt": "2026-11-20T13:57:26.918Z",
  "groups": {
   "C321": {
    "odd": [
@@ -966,13 +966,6 @@
     "ym": "2026-10",
     "pub": "2026-10-13",
     "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr hab. Moniką Różycką. Termin odrabiania zajęć: 29.10.2026 godz. 13:45 sala 112 Termin odrobienia zajęć z dnia 06.10.2026: 29.10.2026 godz. 15:30 sala 112"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c321322-2/",
-    "title": "GRUPA C321,322",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Dnia 03.11.2026 i 10.11.2026 zostaje odwołane seminarium dyplomowe z dr hab. prof. US Katarzyną Kozioł-Nadolna Termin odrobienia: 15.10.2026 godz. 08:30 gab. 525 22.10.2026 godz. 10:00 gab. 525"
    }
   ],
   "zmiany": {
@@ -993,18 +986,6 @@
      ]
     },
     {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-15",
-     "start": "8:30",
-     "end": "10:00",
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "p": "dr hab. prof. US Wojciech Jarecki",
-     "r": "s. 525",
-     "post": 4
-    },
-    {
      "type": "note",
      "date": "2026-10-20",
      "post": 3
@@ -1013,19 +994,6 @@
      "type": "note",
      "date": "2026-10-21",
      "post": 2
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-22",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
-     "r": "s. 525",
-     "post": 4,
-     "dup": true
     },
     {
      "type": "cancel",
@@ -1060,26 +1028,6 @@
      "r": "s. 112",
      "post": 3,
      "dup": true
-    },
-    {
-     "type": "cancel",
-     "date": "2026-11-03",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
-     "post": 4,
-     "posts": [
-      4
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-11-10",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
-     "post": 4,
-     "posts": [
-      4
-     ]
     },
     {
      "type": "extra",
@@ -1125,18 +1073,6 @@
      ]
     },
     {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-15",
-     "start": "8:30",
-     "end": "10:00",
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "p": "dr hab. prof. US Wojciech Jarecki",
-     "r": "s. 525",
-     "post": 4
-    },
-    {
      "type": "note",
      "date": "2026-10-20",
      "post": 3
@@ -1145,19 +1081,6 @@
      "type": "note",
      "date": "2026-10-21",
      "post": 2
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-22",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "p": "dr hab. prof. US Katarzyna Kozioł-Nadolna",
-     "r": "s. 525",
-     "post": 4,
-     "dup": true
     },
     {
      "type": "cancel",
@@ -1194,26 +1117,6 @@
      "dup": true
     },
     {
-     "type": "cancel",
-     "date": "2026-11-03",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
-     "post": 4,
-     "posts": [
-      4
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-11-10",
-     "start": "8:15",
-     "pl": "Seminarium dyplomowe",
-     "post": 4,
-     "posts": [
-      4
-     ]
-    },
-    {
      "type": "extra",
      "kind": "makeup",
      "date": "2026-11-16",
@@ -1241,6 +1144,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:01:01.592Z"
+  "updatedAt": "2026-11-20T14:11:34.137Z"
  }
 }

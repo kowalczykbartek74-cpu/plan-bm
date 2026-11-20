@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-19T15:35:11.038Z",
+ "checkedAt": "2026-11-20T14:08:03.597Z",
  "groups": {
   "EA1": {
    "odd": [
@@ -521,6 +521,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/odwolanie-wykladu-ogolnouczelnianego-z-marketingu-i-komunikacji-z-dr-malgorzata-wiscicka-fernando/",
+    "title": "Odwołanie wykładu ogólnouczelnianego z „Marketingu i komunikacji” z dr Małgorzatą Wiścicką-Fernando",
+    "ym": "2026-11",
+    "pub": "2026-11-20",
+    "text": "Uprzejmie informujemy, że wykład ogólnouczelniany z dr Małgorzatą Wiścicką-Fernando z „Marketingu i komunikacji” zostanie odwołany w dniu 26.11.2026 r. godz. 17:45 (online). Termin odrobienia zajęć zostanie podany w późniejszym terminie, po uzgodnieniu ze studentami."
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolane-zajecia-z-dr-a-materne-i-dr-hab-m-szajda-prof-us/",
     "title": "Odwołane zajęcia z dr A. Materne i dr hab. M. Szajdą, prof. US",
     "ym": "2026-10",
@@ -538,6 +545,6 @@
   "zmiany": {
    "EA1": []
   },
-  "updatedAt": "2026-11-09T23:31:06.503Z"
+  "updatedAt": "2026-11-20T14:18:07.218Z"
  }
 }

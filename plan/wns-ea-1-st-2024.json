@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-126.pdf",
- "wersja": "EA-I-126.pdf",
- "sha256": "1a046e42fcd3969122b598407425c1f4ceb248d3506cd319ea2b9ead9f4f425b",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-127.pdf",
+ "wersja": "EA-I-127.pdf",
+ "sha256": "ec822f797c62eb7fa193a4c9ec3eccdffcae65c43693583a4a1f6a4ff6518a3a",
  "kierunek": "Edukacja artystyczna",
  "kierunekEn": "Art Education",
  "id": "wns-ea-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T15:28:22.302Z",
- "checkedAt": "2026-11-19T15:35:11.038Z",
+ "changedAt": "2026-11-20T14:08:03.597Z",
+ "checkedAt": "2026-11-20T14:08:03.597Z",
  "groups": {
   "EA3": {
    "odd": [
@@ -150,6 +150,74 @@
       "2027-01-12",
       "2027-01-19",
       "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Psychofizjologia percepcji sztuki",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr A. Świątek",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "n": "ostatnie zaj do g. 10:45",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Dydaktyka przedmiotów artystycznych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr K. Sołtys",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 13:15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Historia rozwoju myśli technologicznej",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr K. Łuszczek",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 15:15; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
      ]
     },
     {
@@ -411,6 +479,74 @@
       "2027-01-12",
       "2027-01-19",
       "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Psychofizjologia percepcji sztuki",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr A. Świątek",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "n": "ostatnie zaj do g. 10:45",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Dydaktyka przedmiotów artystycznych",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "mgr K. Sołtys",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 13:15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Historia rozwoju myśli technologicznej",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr K. Łuszczek",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 15:15; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
      ]
     },
     {

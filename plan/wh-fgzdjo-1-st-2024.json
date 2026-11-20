@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-19-XI-2026.xlsx",
- "wersja": "2026-11-19",
- "sha256": "0089fabf909a75d31f1f1fa09c9794d10eb42078fb03b1314e0151d4338ba957",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-20-XI-2026.xlsx",
+ "wersja": "2026-11-20",
+ "sha256": "47df9d0b8e58daba84a8a7f62b24066f215e85845b68bfe9f277d4759f12b4d6",
  "kierunek": "Filologia germańska z dodatkowym językiem obcym",
  "kierunekEn": "German Philology with an Additional Foreign Language",
  "id": "wh-fgzdjo-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-16T13:40:39.924Z",
- "checkedAt": "2026-11-19T15:35:10.161Z",
+ "changedAt": "2026-11-20T14:08:02.709Z",
+ "checkedAt": "2026-11-20T14:08:02.709Z",
  "groups": {
   "FGZDJO3": {
    "odd": [
@@ -86,7 +86,7 @@
     {
      "d": 1,
      "time": [
-      "17:45",
+      "17:00",
       "18:30"
      ],
      "pl": "Warsztaty pisania prac naukowych – literaturoznawatwo -ćw",
@@ -94,7 +94,6 @@
      "p": "dr Ewa Hendryk",
      "r": "s. 221, bud. 6 WKFiZ",
      "dates": [
-      "2026-11-24",
       "2026-12-01",
       "2026-12-08",
       "2026-12-15",
@@ -104,8 +103,7 @@
       "2027-01-12",
       "2027-01-19",
       "2027-01-26"
-     ],
-     "n": "24.11."
+     ]
     },
     {
      "d": 1,
@@ -126,7 +124,7 @@
      ],
      "pl": "Literatura krajów niemieckiego obszaru językowego",
      "k": "W",
-     "p": "dr Joanna Sumbor",
+     "p": "dr Joanna Sumbor, dr Sumbor, dr hab. Ewelina Kamińska-Ossowska, prof. US",
      "r": "s. 116, bud. 4 WH",
      "dates": [
       "2026-12-02",
@@ -165,12 +163,12 @@
     {
      "d": 2,
      "time": [
-      "17:00",
-      "18:30"
+      "18:00",
+      "20:30"
      ],
      "pl": "Literatura krajów niemieckiego obszaru językowego",
      "k": "CW",
-     "p": "dr Joanna Sumbor",
+     "p": "dr Joanna Sumbor, dr hab. Ewelina Kamińska-Ossowska, prof. US, dr Sumbor",
      "r": "s.116, bud. 4 WH",
      "dates": [
       "2026-12-02",
@@ -192,7 +190,7 @@
      ],
      "pl": "Literatura krajów niemieckiego obszaru językowego",
      "k": "CW",
-     "p": "dr Joanna Sumbor",
+     "p": "dr Joanna Sumbor, dr Sumbor, dr hab. Ewelina Kamińska-Ossowska, prof. US",
      "r": "s. 116, bud. 4 WH",
      "dates": [
       "2026-12-02",
@@ -297,7 +295,7 @@
     {
      "d": 1,
      "time": [
-      "17:45",
+      "17:00",
       "18:30"
      ],
      "pl": "Warsztaty pisania prac naukowych – literaturoznawatwo -ćw",
@@ -305,7 +303,6 @@
      "p": "dr Ewa Hendryk",
      "r": "s. 221, bud. 6 WKFiZ",
      "dates": [
-      "2026-11-24",
       "2026-12-01",
       "2026-12-08",
       "2026-12-15",
@@ -315,8 +312,7 @@
       "2027-01-12",
       "2027-01-19",
       "2027-01-26"
-     ],
-     "n": "24.11."
+     ]
     },
     {
      "d": 1,
@@ -337,7 +333,7 @@
      ],
      "pl": "Literatura krajów niemieckiego obszaru językowego",
      "k": "W",
-     "p": "dr Joanna Sumbor",
+     "p": "dr Joanna Sumbor, dr Sumbor, dr hab. Ewelina Kamińska-Ossowska, prof. US",
      "r": "s. 116, bud. 4 WH",
      "dates": [
       "2026-12-02",
@@ -376,12 +372,12 @@
     {
      "d": 2,
      "time": [
-      "17:00",
-      "18:30"
+      "18:00",
+      "20:30"
      ],
      "pl": "Literatura krajów niemieckiego obszaru językowego",
      "k": "CW",
-     "p": "dr Joanna Sumbor",
+     "p": "dr Joanna Sumbor, dr hab. Ewelina Kamińska-Ossowska, prof. US, dr Sumbor",
      "r": "s.116, bud. 4 WH",
      "dates": [
       "2026-12-02",
@@ -403,7 +399,7 @@
      ],
      "pl": "Literatura krajów niemieckiego obszaru językowego",
      "k": "CW",
-     "p": "dr Joanna Sumbor",
+     "p": "dr Joanna Sumbor, dr Sumbor, dr hab. Ewelina Kamińska-Ossowska, prof. US",
      "r": "s. 116, bud. 4 WH",
      "dates": [
       "2026-12-02",

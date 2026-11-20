@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
+ "updated": "20.11.2026 10:53",
  "changedAt": "2026-11-18T13:49:48.570Z",
- "checkedAt": "2026-11-19T15:27:24.457Z",
+ "checkedAt": "2026-11-20T13:59:48.153Z",
  "groups": {
   "C651": {
    "odd": [
@@ -549,7 +549,8 @@
      "k": "X",
      "p": "dr Karolina Drela",
      "r": "s. 607",
-     "post": 4
+     "post": 4,
+     "dup": true
     },
     {
      "type": "extra",
@@ -574,7 +575,8 @@
      "k": "X",
      "p": "dr Karolina Drela",
      "r": "s. 003",
-     "post": 4
+     "post": 4,
+     "dup": true
     },
     {
      "type": "note",
@@ -583,6 +585,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:02:51.684Z"
+  "updatedAt": "2026-11-20T14:13:25.783Z"
  }
 }

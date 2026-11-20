@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
- "changedAt": "2026-11-19T13:57:46.882Z",
- "checkedAt": "2026-11-19T15:27:24.458Z",
+ "updated": "20.11.2026 10:53",
+ "changedAt": "2026-11-20T13:59:57.666Z",
+ "checkedAt": "2026-11-20T13:59:57.666Z",
  "groups": {
   "C101": {
    "odd": [
@@ -244,10 +244,9 @@
       "2026-10-26",
       "2026-11-09",
       "2026-11-23",
-      "2026-12-07",
-      "2027-01-25"
+      "2026-12-07"
      ],
-     "n": "Tylko: 12.10, 26.10, 9.11, 23.11, 7.12, 25.01",
+     "n": "Tylko: 12.10, 26.10, 9.11, 23.11, 7.12",
      "x": "dr Jarosław Poteralski s.044 Aula"
     },
     {
@@ -848,7 +847,8 @@
      "k": "K",
      "p": "lek. Norbert Szram",
      "r": "MS Teams",
-     "post": 2
+     "post": 2,
+     "dup": true
     },
     {
      "type": "extra",
@@ -887,6 +887,17 @@
      "post": 0
     },
     {
+     "type": "cancel",
+     "date": "2027-01-25",
+     "start": "12:00",
+     "pl": "Prawodawstwo i kompetencje w pielęgniarstwie",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
      "type": "extra",
      "kind": "change",
      "date": "2027-01-26",
@@ -923,6 +934,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:11:31.333Z"
+  "updatedAt": "2026-11-20T14:13:36.434Z"
  }
 }

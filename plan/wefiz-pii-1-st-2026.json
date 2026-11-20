@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
+ "updated": "20.11.2026 10:53",
  "changedAt": "2026-11-18T13:49:03.168Z",
- "checkedAt": "2026-11-19T15:27:24.454Z",
+ "checkedAt": "2026-11-20T13:59:02.673Z",
  "groups": {
   "C181": {
    "odd": [
@@ -576,6 +576,16 @@
     {
      "type": "cancel",
      "date": "2027-01-11",
+     "start": "10:00",
+     "pl": "Metody twórczego rozwiązywania problemów",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2027-01-11",
      "start": "12:00",
      "pl": "Metody twórczego rozwiązywania problemów",
      "post": 1,
@@ -593,7 +603,8 @@
      "k": "CW",
      "p": "mgr Sebastian Matysik",
      "r": "s. 507",
-     "post": 1
+     "post": 1,
+     "dup": true
     },
     {
      "type": "extra",
@@ -605,10 +616,11 @@
      "k": "CW",
      "p": "mgr Sebastian Matysik",
      "r": "s. 607",
-     "post": 1
+     "post": 1,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:02:20.881Z"
+  "updatedAt": "2026-11-20T14:12:54.801Z"
  }
 }

@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
  "wersja": "42 plików zjazdów (18 dni)",
- "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
+ "sha256": "e7e0a9ad35691636b0b3ceb41671adca700ac6e684ccc6507937b15c8abdd291",
  "kierunek": "Bezpieczeństwo narodowe",
  "kierunekEn": "National Security",
  "id": "wns-bn-1-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-19T15:35:11.038Z",
+ "changedAt": "2026-11-20T14:08:03.597Z",
+ "checkedAt": "2026-11-20T14:08:03.597Z",
  "groups": {
   "BN2": {
    "odd": [
@@ -76,8 +76,21 @@
      "n": "kod MS Teams: nu31702",
      "dates": [
       "2026-10-09",
-      "2026-11-20",
       "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-21"
      ]
     },
     {
@@ -119,8 +132,7 @@
      "p": "dr K. Głowacka",
      "r": "s. 141",
      "dates": [
-      "2026-11-07",
-      "2026-11-21"
+      "2026-11-07"
      ]
     },
     {
@@ -153,6 +165,20 @@
     },
     {
      "d": 5,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "mgr W. Wilczko",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Fundamentalizm islamski",
      "k": "W",
      "time": [
@@ -163,20 +189,6 @@
      "r": "s. 143",
      "dates": [
       "2026-11-07"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Polityka bezpieczeństwa",
-     "k": "CW",
-     "time": [
-      "11:45",
-      "14:15"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 143",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {
@@ -572,8 +584,21 @@
      "n": "kod MS Teams: nu31702",
      "dates": [
       "2026-10-09",
-      "2026-11-20",
       "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodologia badań nad bezpieczeństwem",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-21"
      ]
     },
     {
@@ -615,8 +640,7 @@
      "p": "dr K. Głowacka",
      "r": "s. 141",
      "dates": [
-      "2026-11-07",
-      "2026-11-21"
+      "2026-11-07"
      ]
     },
     {
@@ -649,6 +673,20 @@
     },
     {
      "d": 5,
+     "pl": "Polityka bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "mgr W. Wilczko",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Fundamentalizm islamski",
      "k": "W",
      "time": [
@@ -659,20 +697,6 @@
      "r": "s. 143",
      "dates": [
       "2026-11-07"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Polityka bezpieczeństwa",
-     "k": "CW",
-     "time": [
-      "11:45",
-      "14:15"
-     ],
-     "p": "dr J. Kołodziejska",
-     "r": "s. 143",
-     "dates": [
-      "2026-11-21"
      ]
     },
     {

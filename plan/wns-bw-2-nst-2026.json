@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
  "wersja": "42 plików zjazdów (15 dni)",
- "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
+ "sha256": "e7e0a9ad35691636b0b3ceb41671adca700ac6e684ccc6507937b15c8abdd291",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-2-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-19T15:35:11.038Z",
+ "changedAt": "2026-11-20T14:08:03.597Z",
+ "checkedAt": "2026-11-20T14:08:03.597Z",
  "groups": {
   "BW1": {
    "odd": [
@@ -326,6 +326,21 @@
      "r": "s. 228",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "prof. K. Kowalczyk, prof. D. Wybranowski, prof. J. Piątek, prof. M. Siedziako",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: b80rbea",
+     "dates": [
+      "2026-11-21"
      ]
     },
     {
@@ -826,6 +841,21 @@
      "r": "s. 228",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "prof. K. Kowalczyk, prof. D. Wybranowski, prof. J. Piątek, prof. M. Siedziako",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: b80rbea",
+     "dates": [
+      "2026-11-21"
      ]
     },
     {

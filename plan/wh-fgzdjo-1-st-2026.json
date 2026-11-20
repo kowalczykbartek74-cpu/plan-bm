@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-19-XI-2026.xlsx",
- "wersja": "2026-11-19",
- "sha256": "0089fabf909a75d31f1f1fa09c9794d10eb42078fb03b1314e0151d4338ba957",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzDJO-I-st.-plan-zajec-semestr-zimowy-2026_-2027-zm.-20-XI-2026.xlsx",
+ "wersja": "2026-11-20",
+ "sha256": "47df9d0b8e58daba84a8a7f62b24066f215e85845b68bfe9f277d4759f12b4d6",
  "kierunek": "Filologia germańska z dodatkowym językiem obcym",
  "kierunekEn": "German Philology with an Additional Foreign Language",
  "id": "wh-fgzdjo-1-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-19T14:05:46.165Z",
- "checkedAt": "2026-11-19T15:35:10.161Z",
+ "changedAt": "2026-11-20T14:08:02.709Z",
+ "checkedAt": "2026-11-20T14:08:02.709Z",
  "groups": {
   "FGZDJO1": {
    "odd": [
@@ -54,29 +54,9 @@
      ],
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
-     "p": "dr Katarzyna Ciarcińska",
-     "r": "ul. Krakowska 71-79, s.227",
-     "n": "VACAT",
-     "dates": [
-      "2027-01-25",
-      "2027-02-01"
-     ]
-    },
-    {
-     "d": 0,
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
-     "k": "LAB",
      "p": "dr Joanna Franek-Zaborowska",
-     "r": "s.115, bud.4 WH",
+     "r": "s. 217, bud. 4 Wh",
      "dates": [
-      "2026-12-21",
-      "2026-12-28",
-      "2027-01-04",
-      "2027-01-11",
       "2027-01-18",
       "2027-01-25",
       "2027-02-01"
@@ -86,9 +66,28 @@
      "d": 0,
      "time": [
       "17:00",
+      "20:15"
+     ],
+     "pl": "11.01.-godz.17.00-19.30 18.01.-godz.17.00-19.30 praktyczna nauka języka niemieckiego – kurs podstawowy 1, s bud.4",
+     "k": "LAB",
+     "p": "dr Ewa Hendryk",
+     "r": "s.208",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ],
+     "n": "21.12"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
       "18:30"
      ],
-     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "pl": "R praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
      "p": "dr Joanna Franek-Zaborowska",
      "r": "s. 115, bud. 4 Wh",
@@ -103,21 +102,7 @@
       "2026-11-23",
       "2026-11-30",
       "2026-12-07",
-      "2026-12-14"
-     ]
-    },
-    {
-     "d": 0,
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
-     "k": "LAB",
-     "p": "dr Joanna Franek-Zaborowska",
-     "r": "s. 115, bud. 4 Wh",
-     "n": "VACAT s. 115, bud. 4 Wh",
-     "dates": [
+      "2026-12-14",
       "2026-12-21",
       "2026-12-28",
       "2027-01-04",
@@ -154,24 +139,12 @@
      "d": 0,
      "time": [
       "18:45",
-      "21:15"
+      "20:15"
      ],
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
-     "k": "LAB",
-     "n": "vacat terminy zajęć zostaną podane w późniejszym terminie",
-     "dates": [
-      "2026-11-23",
-      "2026-11-30",
-      "2026-12-07",
-      "2026-12-14",
-      "2026-12-21",
-      "2026-12-28",
-      "2027-01-04",
-      "2027-01-11",
-      "2027-01-18",
-      "2027-01-25",
-      "2027-02-01"
-     ]
+     "k": "CW",
+     "p": "dr Ewa Hendryk",
+     "r": "s.115, bud.4 WH"
     },
     {
      "d": 0,
@@ -273,6 +246,22 @@
     {
      "d": 1,
      "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "R.- 12.012027r.- godz.17.00-20.15 r- r.- godz.17.00-19.30 praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 120, bud. 6 WKFiZ",
+     "dates": [
+      "2026-12-15",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
       "18:45",
       "21:15"
      ],
@@ -285,6 +274,21 @@
       "2026-11-10",
       "2026-11-17",
       "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "R- r.- praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "Aula przy ul. Wielkopolskiej",
+     "dates": [
+      "2026-12-01",
+      "2026-12-08"
      ]
     },
     {
@@ -652,29 +656,9 @@
      ],
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
-     "p": "dr Katarzyna Ciarcińska",
-     "r": "ul. Krakowska 71-79, s.227",
-     "n": "VACAT",
-     "dates": [
-      "2027-01-25",
-      "2027-02-01"
-     ]
-    },
-    {
-     "d": 0,
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
-     "k": "LAB",
      "p": "dr Joanna Franek-Zaborowska",
-     "r": "s.115, bud.4 WH",
+     "r": "s. 217, bud. 4 Wh",
      "dates": [
-      "2026-12-21",
-      "2026-12-28",
-      "2027-01-04",
-      "2027-01-11",
       "2027-01-18",
       "2027-01-25",
       "2027-02-01"
@@ -684,9 +668,28 @@
      "d": 0,
      "time": [
       "17:00",
+      "20:15"
+     ],
+     "pl": "11.01.-godz.17.00-19.30 18.01.-godz.17.00-19.30 praktyczna nauka języka niemieckiego – kurs podstawowy 1, s bud.4",
+     "k": "LAB",
+     "p": "dr Ewa Hendryk",
+     "r": "s.208",
+     "dates": [
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18"
+     ],
+     "n": "21.12"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
       "18:30"
      ],
-     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "pl": "R praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "k": "LAB",
      "p": "dr Joanna Franek-Zaborowska",
      "r": "s. 115, bud. 4 Wh",
@@ -701,21 +704,7 @@
       "2026-11-23",
       "2026-11-30",
       "2026-12-07",
-      "2026-12-14"
-     ]
-    },
-    {
-     "d": 0,
-     "time": [
-      "17:00",
-      "18:30"
-     ],
-     "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
-     "k": "LAB",
-     "p": "dr Joanna Franek-Zaborowska",
-     "r": "s. 115, bud. 4 Wh",
-     "n": "VACAT s. 115, bud. 4 Wh",
-     "dates": [
+      "2026-12-14",
       "2026-12-21",
       "2026-12-28",
       "2027-01-04",
@@ -752,24 +741,12 @@
      "d": 0,
      "time": [
       "18:45",
-      "21:15"
+      "20:15"
      ],
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
-     "k": "LAB",
-     "n": "vacat terminy zajęć zostaną podane w późniejszym terminie",
-     "dates": [
-      "2026-11-23",
-      "2026-11-30",
-      "2026-12-07",
-      "2026-12-14",
-      "2026-12-21",
-      "2026-12-28",
-      "2027-01-04",
-      "2027-01-11",
-      "2027-01-18",
-      "2027-01-25",
-      "2027-02-01"
-     ]
+     "k": "CW",
+     "p": "dr Ewa Hendryk",
+     "r": "s.115, bud.4 WH"
     },
     {
      "d": 0,
@@ -871,6 +848,22 @@
     {
      "d": 1,
      "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "R.- 12.012027r.- godz.17.00-20.15 r- r.- godz.17.00-19.30 praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "s. 120, bud. 6 WKFiZ",
+     "dates": [
+      "2026-12-15",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
       "18:45",
       "21:15"
      ],
@@ -883,6 +876,21 @@
       "2026-11-10",
       "2026-11-17",
       "2026-11-24"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "pl": "R- r.- praktyczna nauka języka niemieckiego – kurs podstawowy 1",
+     "k": "LAB",
+     "p": "mgr Barbara Witek",
+     "r": "Aula przy ul. Wielkopolskiej",
+     "dates": [
+      "2026-12-01",
+      "2026-12-08"
      ]
     },
     {

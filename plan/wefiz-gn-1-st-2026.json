@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "19.11.2026 11:15",
+ "updated": "20.11.2026 10:53",
  "changedAt": "2026-11-13T12:57:53.182Z",
- "checkedAt": "2026-11-19T15:27:24.442Z",
+ "checkedAt": "2026-11-20T13:56:28.594Z",
  "groups": {
   "M150": {
    "odd": [
@@ -699,6 +699,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m151-odwolanie-zajec-z-dr-agnieszka-lopatka-w-dniu-01-12-2026-r/",
+    "title": "M151- odwołanie zajęć z dr Agnieszką Łopatką w dniu 01.12.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-20",
+    "text": "Ćwiczenia z mikroekonomii dla studentów kierunku gospodarka nieruchomościami, prowadzone przez dr Agnieszkę Łopatkę, zaplanowane na 1 grudnia 2026 r., zostają odwołane. Zajęcia zostaną odrobione 28 stycznia 2027 r. w godz. 12.00–13.30 w sali 202 MBA."
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m150-m151-m160-m240-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniach-03-04-11-2026-r/",
     "title": "M150, M151, M160, M240- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r.",
     "ym": "2026-10",
@@ -718,7 +725,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M151",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -730,7 +737,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M160",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -742,7 +749,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S07 M160",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -754,7 +761,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S103 M150",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -766,7 +773,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S08 M240",
-     "post": 0
+     "post": 1
     }
    ],
    "M151": [
@@ -780,7 +787,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M151",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -792,7 +799,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M160",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -804,7 +811,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S07 M160",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -816,7 +823,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S103 M150",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -828,10 +835,32 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S08 M240",
+     "post": 1
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "8:15",
+     "pl": "Mikroekonomia",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-28",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Mikroekonomia",
+     "k": "CW",
+     "p": "dr Agnieszka Łopatka",
+     "r": "s. 202 MBA",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:02:50.004Z"
+  "updatedAt": "2026-11-20T14:11:14.509Z"
  }
 }

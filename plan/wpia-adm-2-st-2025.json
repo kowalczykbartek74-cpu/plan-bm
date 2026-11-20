@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-19T15:36:12.708Z",
+ "checkedAt": "2026-11-20T14:09:23.620Z",
  "groups": {
   "ADM2": {
    "odd": [
@@ -571,6 +571,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/2026/11/m270-odwolanie-cwiczen-z-postepowania-administracyjnego-w-dniu-27-11-2026-r/",
+    "title": "M270- odwołanie ćwiczeń z postępowania administracyjnego w dniu 27.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-20",
+    "text": "Ćwiczenia z „Postępowania administracyjnego” (dr Bartosz Wilk), zaplanowane na 27 listopada 2026 r., nie odbędą się. Odrobienie zajęć nastąpi w piątek 11 grudnia 2026 r. o godz. 14.15 w sali s.218, ul Narutowicza."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolany-dyzur-dydaktyczny-prof-k-swiech-kujawskiej-w-dniu-03-12-2026-r/",
     "title": "Odwołany dyżur dydaktyczny prof. K. Święch-Kujawskiej w dniu 03.12.2026 r.",
     "ym": "2026-11",
@@ -606,9 +613,9 @@
      "date": "2026-10-07",
      "start": "08:15",
      "pl": "Podstawy audytu w administracji publicznej - PDW 2",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -616,16 +623,22 @@
      "date": "2026-10-07",
      "start": "11:45",
      "pl": "Gospodarka komunalna",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2,
-      3
+      3,
+      4
      ]
     },
     {
      "type": "note",
-     "date": "2026-12-03",
+     "date": "2026-11-27",
      "post": 0,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 1,
      "niska": true
     },
     {
@@ -633,13 +646,19 @@
      "date": "2026-12-03",
      "start": "08:15",
      "pl": "System podatków i opłat lokalnych",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-12-11",
+     "post": 0,
+     "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:17:03.767Z"
+  "updatedAt": "2026-11-20T14:19:12.857Z"
  }
 }

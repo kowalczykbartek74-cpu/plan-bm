@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-ab567f22d89f",
+ "wersja": "planynst-f71bdd08944c",
  "kierunek": "Logistyka inż.",
  "kierunekEn": "Logistics (Eng.)",
  "id": "wefiz-li-1-nst-2024",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T09:23:11.440Z",
- "checkedAt": "2026-11-19T15:31:10.103Z",
+ "changedAt": "2026-11-20T14:04:00.503Z",
+ "checkedAt": "2026-11-20T14:04:00.503Z",
  "groups": {
   "C61": {
    "odd": [
@@ -505,6 +505,20 @@
       "08:15",
       "10:45"
      ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
      "pl": "Logistyka zwrotna",
      "k": "CW",
      "p": "dr Ewa Puzio",
@@ -571,6 +585,20 @@
      "n": "e-zajęcia",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2027-01-31"
      ]
     },
     {
@@ -1294,6 +1322,20 @@
       "08:15",
       "10:45"
      ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "CW",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
      "pl": "Logistyka zwrotna",
      "k": "CW",
      "p": "dr Ewa Puzio",
@@ -1360,6 +1402,20 @@
      "n": "e-zajęcia",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Inżynieria ruchu drogowego",
+     "k": "LAB",
+     "p": "dr inż. Damian Bonk",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2027-01-31"
      ]
     },
     {

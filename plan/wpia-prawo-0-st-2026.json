@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-19T15:36:12.708Z",
+ "checkedAt": "2026-11-20T14:09:23.620Z",
  "groups": {
   "PRAWO1": {
    "odd": [
@@ -3747,6 +3747,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-i-zaliczenie-z-przedmiotu-legal-tech-start-gr-2-6-10-mgr-b-skrendo/",
+    "title": "SSP I – zaliczenie z przedmiotu Legal tech start gr. 2, 6, 10 (mgr B. Skrendo)",
+    "ym": "2026-11",
+    "pub": "2026-11-20",
+    "text": "Informujemy, że zaliczenie z warsztatu Legal Tech start gr. 2, 6, 10 z mgr B. Skrendo odbędzie się 24.11.2026 r. o godzinie 11.45, s. 7-9 al. Piastów 40b"
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolany-dyzur-dydaktyczny-dra-hab-w-staszewskiego-prof-us-w-dniu-19-11-2026-r/",
     "title": "Odwołany dyżur dydaktyczny dra hab. W. Staszewskiego, prof. US w dniu 19.11.2026 r.",
     "ym": "2026-11",
@@ -3885,23 +3892,73 @@
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 17,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-12",
      "post": 18,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-10-12",
+     "post": 19,
+     "niska": true
+    },
+    {
+     "type": "note",
      "date": "2026-10-13",
-     "post": 13
+     "post": 14
     },
     {
      "type": "cancel",
      "date": "2026-10-13",
+     "start": "08:15",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 17,
+     "posts": [
+      17
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "10:00",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 17,
+     "posts": [
+      17
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "11:45",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 17,
+     "posts": [
+      17
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "13:30",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 17,
+     "posts": [
+      17
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-13",
+     "start": "15:15",
+     "pl": "Wstęp do prawoznawstwa",
+     "post": 17,
+     "posts": [
+      17
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-14",
      "start": "08:15",
      "pl": "Wstęp do prawoznawstwa",
      "post": 16,
@@ -3911,7 +3968,7 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "start": "10:00",
      "pl": "Wstęp do prawoznawstwa",
      "post": 16,
@@ -3921,7 +3978,7 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "start": "11:45",
      "pl": "Wstęp do prawoznawstwa",
      "post": 16,
@@ -3931,7 +3988,7 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "start": "13:30",
      "pl": "Wstęp do prawoznawstwa",
      "post": 16,
@@ -3941,73 +3998,23 @@
     },
     {
      "type": "cancel",
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "start": "15:15",
      "pl": "Wstęp do prawoznawstwa",
      "post": 16,
      "posts": [
       16
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "08:15",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 15,
-     "posts": [
-      15
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "10:00",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 15,
-     "posts": [
-      15
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "11:45",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 15,
-     "posts": [
-      15
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "13:30",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 15,
-     "posts": [
-      15
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-14",
-     "start": "15:15",
-     "pl": "Wstęp do prawoznawstwa",
-     "post": 15,
-     "posts": [
-      15
      ]
     },
     {
      "type": "note",
      "date": "2026-10-22",
-     "post": 10
+     "post": 11
     },
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 12,
+     "post": 13,
      "niska": true
     },
     {
@@ -4020,16 +4027,16 @@
      "k": "X",
      "p": "dr B. Kanarek, prof. US",
      "r": "s. 222",
-     "post": 9
+     "post": 10
     },
     {
      "type": "cancel",
      "date": "2026-10-29",
      "start": "10:00",
      "pl": "Prawo konstytucyjne - zasady i źródła prawa",
-     "post": 8,
+     "post": 9,
      "posts": [
-      8
+      9
      ]
     },
     {
@@ -4037,9 +4044,9 @@
      "date": "2026-10-29",
      "start": "13:30",
      "pl": "Prawo konstytucyjne - zasady i źródła prawa",
-     "post": 8,
+     "post": 9,
      "posts": [
-      8
+      9
      ]
     },
     {
@@ -4047,9 +4054,9 @@
      "date": "2026-10-29",
      "start": "15:15",
      "pl": "Prawo konstytucyjne - zasady i źródła prawa",
-     "post": 8,
+     "post": 9,
      "posts": [
-      8
+      9
      ]
     },
     {
@@ -4062,17 +4069,17 @@
      "k": "X",
      "p": "dr B. Kanarek, prof. US",
      "r": "s. 104 al",
-     "post": 9
+     "post": 10
     },
     {
      "type": "cancel",
      "date": "2026-11-05",
      "start": "10:00",
      "pl": "Wstęp do prawoznawstwa",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7,
-      11
+      8,
+      12
      ]
     },
     {
@@ -4085,16 +4092,16 @@
      "k": "X",
      "p": "dr B. Kanarek, prof. US",
      "r": "s. 121",
-     "post": 3
+     "post": 4
     },
     {
      "type": "cancel",
      "date": "2026-11-16",
      "start": "08:15",
      "pl": "Organizacja czasu i efektywna nauka",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -4107,7 +4114,7 @@
      "k": "CW",
      "p": "mgr B. Boryca",
      "r": "s. 118 al",
-     "post": 4
+     "post": 5
     },
     {
      "type": "extra",
@@ -4119,7 +4126,7 @@
      "k": "CW",
      "p": "mgr B. Boryca",
      "r": "s. 118 al",
-     "post": 4
+     "post": 5
     },
     {
      "type": "extra",
@@ -4131,22 +4138,67 @@
      "k": "CW",
      "p": "mgr B. Boryca",
      "r": "s. 118 al",
-     "post": 4
+     "post": 5
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "08:15",
+     "pl": "Legal Tech start",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "11:00",
+     "pl": "Legal Tech start",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "change",
+     "date": "2026-11-24",
+     "start": "11:45",
+     "end": "13:15",
+     "pl": "Legal Tech start",
+     "k": "CW",
+     "p": "mgr J. Cieślicki",
+     "r": "s. 7-9 al",
+     "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "13:45",
+     "pl": "Legal Tech start",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 1,
+     "post": 2,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:08:21.668Z"
+  "updatedAt": "2026-11-20T14:19:13.104Z"
  }
 }

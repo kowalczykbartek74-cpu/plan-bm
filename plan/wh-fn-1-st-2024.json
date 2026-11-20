@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-10-XI-2026.xlsx",
- "wersja": "2026-11-10",
- "sha256": "51e0a3b985896ed223d3061aae56cf55990986efd0897a31ff28d5283a3eba56",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-20-XI-2026.xlsx",
+ "wersja": "2026-11-20",
+ "sha256": "840246ca869b8d79b2e0dea4fa281f122c896c32f4ed0a0568644dc7997e7049",
  "kierunek": "Filologia norweska",
  "kierunekEn": "Norwegian Philology",
  "id": "wh-fn-1-st-2024",
@@ -12,35 +12,11 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-11T09:58:34.199Z",
- "checkedAt": "2026-11-19T15:35:10.161Z",
+ "changedAt": "2026-11-20T14:08:02.709Z",
+ "checkedAt": "2026-11-20T14:08:02.709Z",
  "groups": {
   "FN3": {
    "odd": [
-    {
-     "d": 0,
-     "time": [
-      "11:45",
-      "13:15"
-     ],
-     "pl": "Historia literatury norweskiej",
-     "k": "W",
-     "p": "dr Strauss",
-     "r": "s. 117 WH",
-     "dates": [
-      "2026-11-23",
-      "2026-11-30",
-      "2026-12-07",
-      "2026-12-14",
-      "2026-12-21",
-      "2026-12-28",
-      "2027-01-04",
-      "2027-01-11",
-      "2027-01-18",
-      "2027-01-25",
-      "2027-02-01"
-     ]
-    },
     {
      "d": 0,
      "time": [
@@ -271,33 +247,30 @@
      "pl": "Dziedzinowy z nauk społecznych online",
      "k": "W",
      "r": "online"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:30",
+      "13:00"
+     ],
+     "pl": "Historia literatury norweskiej, e- kod Teams: 80ot0rv 13:15-14: terminach: oraz",
+     "k": "W",
+     "p": "dr Katarzyna Maćkała",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ],
+     "r": "online"
     }
    ],
    "even": [
-    {
-     "d": 0,
-     "time": [
-      "11:45",
-      "13:15"
-     ],
-     "pl": "Historia literatury norweskiej",
-     "k": "W",
-     "p": "dr Strauss",
-     "r": "s. 117 WH",
-     "dates": [
-      "2026-11-23",
-      "2026-11-30",
-      "2026-12-07",
-      "2026-12-14",
-      "2026-12-21",
-      "2026-12-28",
-      "2027-01-04",
-      "2027-01-11",
-      "2027-01-18",
-      "2027-01-25",
-      "2027-02-01"
-     ]
-    },
     {
      "d": 0,
      "time": [
@@ -527,6 +500,27 @@
      ],
      "pl": "Dziedzinowy z nauk społecznych online",
      "k": "W",
+     "r": "online"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:30",
+      "13:00"
+     ],
+     "pl": "Historia literatury norweskiej, e- kod Teams: 80ot0rv 13:15-14: terminach: oraz",
+     "k": "W",
+     "p": "dr Katarzyna Maćkała",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ],
      "r": "online"
     }
    ]
@@ -673,18 +667,10 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
-  "posts": [
-   {
-    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/09/dr-straus-przelozenie-zajec/",
-    "title": "dr Frithjof Strauß – przełożenie zajęć",
-    "ym": "2026-09",
-    "pub": "2026-09-30",
-    "text": "Szanowni Państwo, uprzejmie informujemy, że dr Frithjof Strauß jest w dniach 28.09.-12.10.26r. na zwolnieniu lekarskim. Zajęcia na filologii norweskiej z historii literatury norweskiej w tych dniach nie odbędą się."
-   }
-  ],
+  "posts": [],
   "zmiany": {
    "FN3": []
   },
-  "updatedAt": "2026-11-11T10:06:04.817Z"
+  "updatedAt": "2026-11-20T14:16:53.625Z"
  }
 }

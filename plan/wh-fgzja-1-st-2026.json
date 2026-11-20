@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-plan-zajec-semestr-zimowy-2026_-2027-po-redukcji-grup-od-dnia-12.10.2026-r.xlsx",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FGzJA-I-st.-plan-zajec-semestr-zimowy-2026_-2027-po-redukcji-grup-od-dnia-12.X.2026-r.xlsx",
  "wersja": "2026-10-12",
- "sha256": "abfee83aaded68cf07f494f6c672296da6eb3241b836300e699608746911ea07",
+ "sha256": "a71e55a094b53e641bd795f55459d338551042a6a5f39aefdeb8befc204fc09f",
  "kierunek": "Filologia germańska z językiem angielskim",
  "kierunekEn": "German Philology with English",
  "id": "wh-fgzja-1-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-19T15:35:10.161Z",
+ "changedAt": "2026-11-20T14:08:02.709Z",
+ "checkedAt": "2026-11-20T14:08:02.709Z",
  "groups": {
   "FGZJA1": {
    "odd": [
@@ -88,6 +88,31 @@
     {
      "d": 0,
      "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Historia i kultura krajów niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr Aleksander Jakovljević",
+     "r": "s. 216, bud. 4 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
       "17:00",
       "18:30"
      ],
@@ -113,23 +138,22 @@
       "18:45",
       "20:15"
      ],
-     "pl": "Historia i kultura krajów niemieckiego obszaru językowego",
+     "pl": "Technologie informacyjne",
      "k": "CW",
-     "p": "dr Aleksander Jakovljević",
-     "r": "s. 113, bud. 4 WH",
+     "p": "dr Ivzhenko Liubov",
+     "r": "s.207",
      "pg": "gr:1",
      "dates": [
-      "2026-10-05",
-      "2026-10-12",
-      "2026-10-19",
-      "2026-10-26",
-      "2026-11-02",
-      "2026-11-09",
-      "2026-11-16",
-      "2026-11-23",
       "2026-11-30",
       "2026-12-07",
-      "2026-12-14"
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
      ]
     },
     {
@@ -276,31 +300,6 @@
       "2026-11-26"
      ],
      "n": "26 XI; do godz.9.00"
-    },
-    {
-     "d": 3,
-     "time": [
-      "09:00",
-      "09:45"
-     ],
-     "pl": "Technologie informacyjne",
-     "k": "CW",
-     "p": "dr Mateusz Paczwa",
-     "r": "s.208",
-     "pg": "gr:1",
-     "dates": [
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ],
-     "n": "26.XI"
     },
     {
      "d": 3,
@@ -425,6 +424,31 @@
     {
      "d": 0,
      "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Historia i kultura krajów niemieckiego obszaru językowego",
+     "k": "CW",
+     "p": "dr Aleksander Jakovljević",
+     "r": "s. 216, bud. 4 WH",
+     "pg": "gr:1",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
       "17:00",
       "18:30"
      ],
@@ -450,23 +474,22 @@
       "18:45",
       "20:15"
      ],
-     "pl": "Historia i kultura krajów niemieckiego obszaru językowego",
+     "pl": "Technologie informacyjne",
      "k": "CW",
-     "p": "dr Aleksander Jakovljević",
-     "r": "s. 113, bud. 4 WH",
+     "p": "dr Ivzhenko Liubov",
+     "r": "s.207",
      "pg": "gr:1",
      "dates": [
-      "2026-10-05",
-      "2026-10-12",
-      "2026-10-19",
-      "2026-10-26",
-      "2026-11-02",
-      "2026-11-09",
-      "2026-11-16",
-      "2026-11-23",
       "2026-11-30",
       "2026-12-07",
-      "2026-12-14"
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
      ]
     },
     {
@@ -613,31 +636,6 @@
       "2026-11-26"
      ],
      "n": "26 XI; do godz.9.00"
-    },
-    {
-     "d": 3,
-     "time": [
-      "09:00",
-      "09:45"
-     ],
-     "pl": "Technologie informacyjne",
-     "k": "CW",
-     "p": "dr Mateusz Paczwa",
-     "r": "s.208",
-     "pg": "gr:1",
-     "dates": [
-      "2026-11-26",
-      "2026-12-03",
-      "2026-12-10",
-      "2026-12-17",
-      "2026-12-24",
-      "2026-12-31",
-      "2027-01-07",
-      "2027-01-14",
-      "2027-01-21",
-      "2027-01-28"
-     ],
-     "n": "26.XI"
     },
     {
      "d": 3,
