@@ -350,8 +350,8 @@ h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8vw,52px);lin
 }
 
 /* ===== Wygląd pro (19.11.2026), wspólny ze Zdawalni (skrot-bm/DESIGN.md): Onest, płaskie karty z ramką 2 px,
-   zaokrąglenia 10/16/22, typ zajęć słowami w trzech kolorach (wykład szary, ćwiczenia zielone, laboratorium niebieskie),
-   bez pasków z lewej, gradientów i miękkich cieni. ===== */
+   zaokrąglenia 10/16/22, typ zajęć słowami. Kolory typów (pasek z lewej, tło wiersza, pełna etykieta) zostają jak dawniej:
+   Bartek 20.11 – plan z kolorami jest czytelniejszy. ===== */
 :root{ --r-s:10px; --r-m:16px; --r-l:22px; --edge:color-mix(in srgb,var(--line) 55%,var(--ink) 18%);
   --t-w:#EEF1EC; --t-w-ink:#10231A; --t-cw:#DDF3D0; --t-cw-ink:#0F5A2F; --t-lab:#E3F0FD; --t-lab-ink:#174E82;
   --sh:0 0 0 2px var(--line); --sh-up:0 0 0 2px var(--edge); --sh-panel:none }
@@ -369,18 +369,7 @@ h1{font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1.1}
 .day.is-today:hover{box-shadow:0 0 0 2px var(--acc)}
 .day:hover,.nav button:not(:disabled):hover,.langbtn:hover{transform:none}
 .legend{display:none}
-/* Wiersz zajęć: płaski, separator zamiast paska i gradientu */
-.days .cls,.days .cls[class*=" k-"]{border-left:0;background:none;border-radius:0;padding:12px 4px}
-.days .list>.cls+.cls{border-top:2px solid var(--line)}
-.days .cls.is-now,.days .cls.is-add{background:var(--acc-soft);border-radius:var(--r-m);padding-inline:10px}
-.days .cls.is-next{background:none}
-.days .cls.is-off{background:var(--soft);border-radius:var(--r-m);padding-inline:10px}
-.days .list>.cls:is(.is-now,.is-add,.is-off)+.cls,.days .list>.cls+.cls:is(.is-now,.is-add,.is-off){border-top-color:transparent}
 .chip{font:700 12px/1 var(--body);letter-spacing:0;padding:5px 9px;border-radius:999px;text-transform:none}
-.chip.W,.chip.X{background:var(--t-w);color:var(--t-w-ink)}
-.chip.CW,.chip.K,.chip.S{background:var(--t-cw);color:var(--t-cw-ink)}
-.chip.LAB{background:var(--t-lab);color:var(--t-lab-ink)}
-.dark-panel .chip{background:rgba(255,255,255,.14);color:#FFFFFF}
 .cls .tags{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
 /* Wybór planu: widok, motyw i kalendarz pod „Więcej opcji” */
 .ctl-more{grid-column:1/-1}
