@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-22T14:27:02.147Z",
+ "at": "2026-11-22T15:08:35.551Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -5074,11 +5074,6 @@
  "log": [
   {
    "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-fir-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
    "id": "wefiz-gn-1-st-2026",
    "blad": "brak odpowiedzi uczelni: plan"
   },
@@ -6069,6 +6064,11 @@
   },
   {
    "at": "2026-11-22T14:27:02.147Z",
+   "id": "wns-pedsp-0-st-2024",
+   "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
+  },
+  {
+   "at": "2026-11-22T15:08:35.551Z",
    "id": "wns-pedsp-0-st-2024",
    "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
   }
