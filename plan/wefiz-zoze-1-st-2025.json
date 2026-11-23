@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
- "changedAt": "2026-11-20T14:00:06.496Z",
- "checkedAt": "2026-11-22T14:59:36.239Z",
+ "updated": "23.11.2026 13:17",
+ "changedAt": "2026-11-23T15:53:09.687Z",
+ "checkedAt": "2026-11-23T15:53:09.687Z",
  "groups": {
   "C241": {
    "odd": [
@@ -379,9 +379,9 @@
      "k": "X",
      "r": "sala 033 mrg Stanisław Kaup",
      "dates": [
-      "2026-11-27"
+      "2026-12-08"
      ],
-     "n": "Jednorazowo: 27.11.2026"
+     "n": "Jednorazowo: 8.12.2026"
     },
     {
      "d": 3,
@@ -548,6 +548,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c241-44/",
+    "title": "GRUPA C241",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Odrobienie zajęć z mgr Stanisławem Kaup odbędzie się 8.12.2026 sala 033 godz. 17:15"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c241-43/",
     "title": "GRUPA C241",
     "ym": "2026-11",
@@ -576,9 +583,9 @@
      "date": "2026-10-09",
      "start": "10:00",
      "pl": "Ochrona środowiska w energetyce",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -586,9 +593,9 @@
      "date": "2026-10-09",
      "start": "12:00",
      "pl": "Ochrona środowiska w energetyce",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -596,9 +603,9 @@
      "date": "2026-10-13",
      "start": "15:30",
      "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -606,9 +613,9 @@
      "date": "2026-10-20",
      "start": "15:30",
      "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -621,7 +628,7 @@
      "k": "CW",
      "p": "mgr Stanisław Kaup",
      "r": "s. 033",
-     "post": 2
+     "post": 3
     },
     {
      "type": "extra",
@@ -633,16 +640,16 @@
      "k": "X",
      "p": "dr Artur Pomianowski",
      "r": "s. 112",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
      "date": "2026-11-18",
      "start": "10:00",
      "pl": "Modelowanie procesów w energetyce",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -655,7 +662,7 @@
      "k": "X",
      "p": "dr Artur Pomianowski",
      "r": "s. 112",
-     "post": 1,
+     "post": 2,
      "dup": true
     },
     {
@@ -668,10 +675,23 @@
      "k": "LAB",
      "p": "dr Andrzej Rzeczycki",
      "r": "s. 134/136 SIL",
-     "post": 0
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "17:15",
+     "end": "18:45",
+     "pl": "Podstawy prawne funkcjonowania odnawialnych źródeł energii",
+     "k": "CW",
+     "p": "mgr Stanisław Kaup",
+     "r": "s. 033",
+     "post": 0,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:13:40.995Z"
+  "updatedAt": "2026-11-23T16:06:15.505Z"
  }
 }

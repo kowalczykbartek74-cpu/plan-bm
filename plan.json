@@ -3,9 +3,9 @@
  "kierunek": "Business Management",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
+ "updated": "23.11.2026 13:17",
  "changedAt": "2026-11-18T13:44:22.111Z",
- "checkedAt": "2026-11-22T14:59:35.583Z",
+ "checkedAt": "2026-11-23T15:47:22.873Z",
  "groups": {
   "C111": {
    "odd": [
@@ -872,27 +872,6 @@
     "text": "Zmiana sali na przedmiot Ochrona własności intelektualnej – nowa sala 044 Aula Cuk. 8"
    },
    {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c113-20/",
-    "title": "GRUPA C113",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "The classes are cancelled because I’m at the conference dr hab. prof. US Dariusz Milewski"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c112-25/",
-    "title": "GRUPA C112",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "The classes are cancelled because I’m at the conference dr hab. prof. US Dariusz Milewski"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c111-c112-c113-9/",
-    "title": "GRUPA C111, C112, C113",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "The lecture will be cancelled because I’m at the conference. dr hab. prof. US Dariusz Milewski"
-   },
-   {
     "src": "teams",
     "id": "omw2hk7x0",
     "tid": "i-log-odwolane-0311",
@@ -930,10 +909,10 @@
      "date": "2026-10-21",
      "start": "10:00",
      "pl": "Podstawy zarządzania",
-     "guess": true,
-     "post": 8,
+     "src": "teams",
+     "post": 7,
      "posts": [
-      8
+      7
      ]
     },
     {
@@ -982,9 +961,9 @@
      "start": "8:15",
      "pl": "Logistyka",
      "src": "teams",
-     "post": 9,
+     "post": 6,
      "posts": [
-      9
+      6
      ]
     },
     {
@@ -999,7 +978,7 @@
      "p": "dr Aleksandra Gąsior",
      "r": "s. 044",
      "src": "teams",
-     "post": 11
+     "post": 8
     },
     {
      "type": "extra",
@@ -1021,11 +1000,10 @@
      "date": "2026-10-21",
      "start": "10:00",
      "pl": "Podstawy zarządzania",
-     "guess": true,
+     "src": "teams",
      "post": 7,
      "posts": [
-      7,
-      8
+      7
      ]
     },
     {
@@ -1033,7 +1011,7 @@
      "date": "2026-10-21",
      "start": "12:00",
      "pl": "Podstawy zarządzania",
-     "guess": true,
+     "src": "teams",
      "post": 7,
      "posts": [
       7
@@ -1097,9 +1075,9 @@
      "start": "8:15",
      "pl": "Logistyka",
      "src": "teams",
-     "post": 9,
+     "post": 6,
      "posts": [
-      9
+      6
      ]
     },
     {
@@ -1114,7 +1092,7 @@
      "p": "dr Aleksandra Gąsior",
      "r": "s. 003",
      "src": "teams",
-     "post": 11
+     "post": 8
     },
     {
      "type": "extra",
@@ -1128,7 +1106,7 @@
      "p": "dr Aleksandra Gąsior",
      "r": "s. 044",
      "src": "teams",
-     "post": 11
+     "post": 8
     },
     {
      "type": "extra",
@@ -1163,11 +1141,10 @@
      "date": "2026-10-21",
      "start": "10:00",
      "pl": "Podstawy zarządzania",
-     "guess": true,
-     "post": 6,
+     "src": "teams",
+     "post": 7,
      "posts": [
-      6,
-      8
+      7
      ]
     },
     {
@@ -1175,10 +1152,10 @@
      "date": "2026-10-21",
      "start": "13:45",
      "pl": "Podstawy zarządzania",
-     "guess": true,
-     "post": 6,
+     "src": "teams",
+     "post": 7,
      "posts": [
-      6
+      7
      ]
     },
     {
@@ -1233,7 +1210,7 @@
      "p": "dr Aleksandra Gąsior",
      "r": "s. 044",
      "src": "teams",
-     "post": 11
+     "post": 8
     },
     {
      "type": "extra",
@@ -1250,6 +1227,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-18T13:59:32.555Z"
+  "updatedAt": "2026-11-23T16:02:38.208Z"
  }
 }

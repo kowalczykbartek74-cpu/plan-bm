@@ -1,6 +1,6 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "dane-cb792fc05952",
+ "wersja": "dane-9f8ba32769ea",
  "kierunek": "Management w sporcie",
  "kierunekEn": "Sports Management",
  "id": "wkfiz-mws-1-st-2024",
@@ -11,8 +11,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:35:12.415Z",
- "checkedAt": "2026-11-22T15:07:14.915Z",
+ "changedAt": "2026-11-23T16:00:55.467Z",
+ "checkedAt": "2026-11-23T16:00:55.467Z",
  "groups": {
   "MWS3": {
    "odd": [
@@ -420,6 +420,26 @@
     {
      "d": 4,
      "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "MOS: eventy sportowo-rekreacyjne",
+     "k": "X",
+     "p": "dr Daria Buczkowska",
+     "r": "s. 119",
+     "pg": "zt1",
+     "dates": [
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
       "10:00",
       "11:30"
      ],
@@ -439,6 +459,24 @@
      "p": "dr Daria Buczkowska",
      "r": "s. 26",
      "pg": "sem3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "MOS: eventy sportowo-rekreacyjne",
+     "k": "X",
+     "p": "dr Daria Buczkowska",
+     "r": "s. 26",
+     "pg": "zt2",
+     "dates": [
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
     }
    ],
    "even": [
@@ -846,6 +884,26 @@
     {
      "d": 4,
      "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "MOS: eventy sportowo-rekreacyjne",
+     "k": "X",
+     "p": "dr Daria Buczkowska",
+     "r": "s. 119",
+     "pg": "zt1",
+     "dates": [
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
       "10:00",
       "11:30"
      ],
@@ -865,6 +923,24 @@
      "p": "dr Daria Buczkowska",
      "r": "s. 26",
      "pg": "sem3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "MOS: eventy sportowo-rekreacyjne",
+     "k": "X",
+     "p": "dr Daria Buczkowska",
+     "r": "s. 26",
+     "pg": "zt2",
+     "dates": [
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-08",
+      "2027-01-15"
+     ]
     }
    ]
   }

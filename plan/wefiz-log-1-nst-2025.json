@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-f71bdd08944c",
+ "wersja": "planynst-fab9db0ee715",
  "kierunek": "Logistyka",
  "kierunekEn": "Logistics",
  "id": "wefiz-log-1-nst-2025",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:31:18.542Z",
- "checkedAt": "2026-11-22T15:03:21.578Z",
+ "changedAt": "2026-11-23T15:57:02.825Z",
+ "checkedAt": "2026-11-23T15:57:02.825Z",
  "groups": {
   "B31": {
    "odd": [
@@ -648,21 +648,6 @@
      "dates": [
       "2026-10-18",
       "2026-11-08"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "13:45",
-      "15:20"
-     ],
-     "pl": "Logistyka miejska",
-     "k": "W",
-     "p": "dr hab. Prof. US Blanka Tundys",
-     "r": "MS Teams",
-     "n": "e-zajęcia",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -1462,21 +1447,6 @@
      "dates": [
       "2026-10-18",
       "2026-11-08"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "13:45",
-      "15:20"
-     ],
-     "pl": "Logistyka miejska",
-     "k": "W",
-     "p": "dr hab. Prof. US Blanka Tundys",
-     "r": "MS Teams",
-     "n": "e-zajęcia",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {

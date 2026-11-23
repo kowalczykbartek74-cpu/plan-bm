@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
- "changedAt": "2026-11-16T13:27:41.079Z",
- "checkedAt": "2026-11-22T14:59:36.206Z",
+ "updated": "23.11.2026 13:17",
+ "changedAt": "2026-11-23T15:47:55.365Z",
+ "checkedAt": "2026-11-23T15:47:55.365Z",
  "groups": {
   "C211": {
    "odd": [
@@ -113,6 +113,17 @@
      "r": "Sala Sportowa"
     },
     {
+     "d": 1,
+     "s": 2,
+     "pl": "Odrabianie zajęć: grupa c211b",
+     "k": "X",
+     "r": "sala 423 lab mgr inż. Anna Marszałek",
+     "dates": [
+      "2026-12-01"
+     ],
+     "n": "Jednorazowo: 1.12.2026"
+    },
+    {
      "d": 2,
      "s": 2,
      "pl": "Modelowanie procesów biznesowych",
@@ -205,13 +216,13 @@
     {
      "d": 1,
      "s": 4,
-     "pl": "Odrabianie zajęć:",
+     "pl": "Odrabianie zajęć: grupa c211a",
      "k": "X",
-     "r": "sala SIL 325 dr Anna Borawska",
+     "r": "sala SIL 116 lab mgr inż. Anna Marszałek",
      "dates": [
-      "2026-11-17"
+      "2026-12-01"
      ],
-     "n": "Jednorazowo: 17.11.2026"
+     "n": "Jednorazowo: 1.12.2026"
     },
     {
      "d": 0,
@@ -1031,6 +1042,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c211a-i-c211b/",
+    "title": "GRUPA C211A i C211B",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dnia 09.12.2026 zostają odwołane zajęcia z mgr inż. Anną Marszałek. Termin odrobienia zajęć: Grupa C211a: 01.12.2026 godz. 15:30 sala SIL 116 lab Grupa C211b: 01.12.2026 godz. 12:00 sala 423 lab"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c212-5/",
     "title": "GRUPA C212",
     "ym": "2026-11",
@@ -1108,9 +1126,9 @@
      "date": "2026-10-02",
      "start": "10:00",
      "pl": "Statystyka opisowa",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
@@ -1118,10 +1136,10 @@
      "date": "2026-10-07",
      "start": "8:15",
      "pl": "Modelowanie procesów biznesowych",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2,
-      5
+      3,
+      6
      ]
     },
     {
@@ -1130,9 +1148,9 @@
      "start": "12:00",
      "pl": "Modelowanie procesów biznesowych",
      "g": "A",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -1141,9 +1159,9 @@
      "start": "13:45",
      "pl": "Modelowanie procesów biznesowych",
      "g": "B",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -1152,9 +1170,9 @@
      "start": "8:15",
      "pl": "Statystyka opisowa",
      "g": "A",
-     "post": 9,
+     "post": 10,
      "posts": [
-      9
+      10
      ]
     },
     {
@@ -1168,7 +1186,7 @@
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. 002",
-     "post": 7,
+     "post": 8,
      "dup": true
     },
     {
@@ -1182,7 +1200,7 @@
      "k": "W",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. 002",
-     "post": 7,
+     "post": 8,
      "dup": true
     },
     {
@@ -1190,9 +1208,9 @@
      "date": "2026-11-03",
      "start": "13:45",
      "pl": "Projektowanie produktów i usług",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -1206,16 +1224,16 @@
      "k": "X",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL325",
-     "post": 5
+     "post": 6
     },
     {
      "type": "cancel",
      "date": "2026-11-13",
      "start": "8:15",
      "pl": "Podstawy rachunkowości",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -1229,7 +1247,51 @@
      "k": "W",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL 325",
-     "post": 2,
+     "post": 3
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Zachowania konsumentów",
+     "en": "Consumer Behaviour",
+     "k": "LAB",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 423 lab",
+     "g": "A",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Zachowania konsumentów",
+     "en": "Consumer Behaviour",
+     "k": "LAB",
+     "p": "mgr Anna Marszałek",
+     "r": "s. 423 lab",
+     "g": "B",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Zachowania konsumentów",
+     "en": "Consumer Behaviour",
+     "k": "LAB",
+     "p": "mgr Anna Marszałek",
+     "r": "s. SIL 116 lab",
+     "g": "B",
+     "post": 0,
      "dup": true
     },
     {
@@ -1243,7 +1305,7 @@
      "k": "W",
      "p": "dr Ilona Kędzierska-Bujak",
      "r": "s. 003 „Fundamentals of",
-     "post": 3,
+     "post": 4,
      "dup": true
     },
     {
@@ -1257,17 +1319,39 @@
      "k": "K",
      "p": "dr Katarzyna Łobacz",
      "r": "s. 507",
-     "post": 1,
+     "post": 2,
      "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-09",
+     "start": "8:15",
+     "pl": "Zachowania konsumentów",
+     "g": "A",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-09",
+     "start": "12:00",
+     "pl": "Zachowania konsumentów",
+     "g": "B",
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "cancel",
      "date": "2026-12-11",
      "start": "10:00",
      "pl": "Statystyka opisowa",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     }
    ],
@@ -1277,10 +1361,10 @@
      "date": "2026-10-02",
      "start": "10:00",
      "pl": "Statystyka opisowa",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6,
-      7
+      7,
+      8
      ]
     },
     {
@@ -1288,10 +1372,10 @@
      "date": "2026-10-02",
      "start": "12:00",
      "pl": "Statystyka opisowa",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6,
-      7
+      7,
+      8
      ]
     },
     {
@@ -1299,10 +1383,10 @@
      "date": "2026-10-07",
      "start": "8:15",
      "pl": "Modelowanie procesów biznesowych",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2,
-      5
+      3,
+      6
      ]
     },
     {
@@ -1310,9 +1394,9 @@
      "date": "2026-10-07",
      "start": "15:30",
      "pl": "Modelowanie procesów biznesowych",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
@@ -1326,7 +1410,7 @@
      "k": "X",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. 002",
-     "post": 7,
+     "post": 8,
      "dup": true
     },
     {
@@ -1340,7 +1424,7 @@
      "k": "X",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. 002",
-     "post": 7,
+     "post": 8,
      "dup": true
     },
     {
@@ -1348,9 +1432,9 @@
      "date": "2026-11-03",
      "start": "13:45",
      "pl": "Projektowanie produktów i usług",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -1364,7 +1448,7 @@
      "k": "X",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL325",
-     "post": 5
+     "post": 6
     },
     {
      "type": "extra",
@@ -1377,7 +1461,7 @@
      "k": "X",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. SIL 145/146",
-     "post": 6,
+     "post": 7,
      "dup": true
     },
     {
@@ -1391,7 +1475,7 @@
      "k": "X",
      "p": "dr Krzysztof Dmytrów",
      "r": "s. SIL 145/146",
-     "post": 6,
+     "post": 7,
      "dup": true
     },
     {
@@ -1399,9 +1483,9 @@
      "date": "2026-11-13",
      "start": "8:15",
      "pl": "Podstawy rachunkowości",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -1415,7 +1499,7 @@
      "k": "W",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL 325",
-     "post": 2,
+     "post": 3,
      "dup": true
     },
     {
@@ -1429,7 +1513,7 @@
      "k": "W",
      "p": "dr Ilona Kędzierska-Bujak",
      "r": "s. 003 „Fundamentals of",
-     "post": 3,
+     "post": 4,
      "dup": true
     },
     {
@@ -1437,10 +1521,10 @@
      "date": "2026-12-11",
      "start": "10:00",
      "pl": "Statystyka opisowa",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6,
-      7
+      7,
+      8
      ]
     },
     {
@@ -1448,10 +1532,10 @@
      "date": "2026-12-11",
      "start": "12:00",
      "pl": "Statystyka opisowa",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6,
-      7
+      7,
+      8
      ]
     },
     {
@@ -1465,11 +1549,11 @@
      "k": "K",
      "p": "dr Katarzyna Łobacz",
      "r": "s. 507",
-     "post": 0,
+     "post": 1,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:00:09.981Z"
+  "updatedAt": "2026-11-23T16:03:17.311Z"
  }
 }

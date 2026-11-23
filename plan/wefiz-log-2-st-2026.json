@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
+ "updated": "23.11.2026 13:17",
  "changedAt": "2026-11-08T20:23:13.992Z",
- "checkedAt": "2026-11-22T14:59:36.230Z",
+ "checkedAt": "2026-11-23T15:51:34.146Z",
  "groups": {
   "C531": {
    "odd": [
@@ -499,27 +499,6 @@
     "ym": "2026-10",
     "pub": "2026-10-30",
     "text": "Szanowni Studenci od listopada nastąpi zmiana w planie. Dodanie grupy ćwiczeniowej C532"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c531a-i-c531b-3/",
-    "title": "GRUPA C531a i C531b",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Dnia 29.10.2026 zostają odwołane zajęcia z dr inż. Piotrem Gutowskim. Termin odrobienia: Grupa C531A: 28.01.2027 godz. 12:00 sala SIL 126/127. Grupa C531B: 28.01.2027 godz. 13:45 sala SIL 126/127."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c531-46/",
-    "title": "GRUPA C531",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: 12.01.2027 godz. 8:15 sala 104"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c531-45/",
-    "title": "GRUPA C531",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Zmiana sali w poniedziałek parzysty godz. 12:00 I 13:45. Nowa sala na zajęcia z dr M. Smolską – s. SIL 314"
    }
   ],
   "zmiany": {
@@ -535,38 +514,6 @@
      ]
     },
     {
-     "type": "cancel",
-     "date": "2026-10-19",
-     "start": "13:45",
-     "pl": "Zarządzanie zasobami ludzkimi",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-29",
-     "start": "8:15",
-     "pl": "Informatyka w logistyce",
-     "g": "A",
-     "post": 2,
-     "posts": [
-      2
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-29",
-     "start": "10:00",
-     "pl": "Informatyka w logistyce",
-     "g": "B",
-     "post": 2,
-     "posts": [
-      2
-     ]
-    },
-    {
      "type": "extra",
      "kind": "makeup",
      "date": "2026-11-19",
@@ -577,61 +524,6 @@
      "p": "dr Artur Pomianowski",
      "r": "s. 003",
      "post": 0,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-01-12",
-     "start": "8:15",
-     "end": "9:45",
-     "pl": "Zarządzanie zasobami ludzkimi",
-     "k": "W",
-     "p": "dr Karolina Drela",
-     "r": "s. 104",
-     "post": 3,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-01-28",
-     "start": "12:00",
-     "end": "13:30",
-     "pl": "Informatyka w logistyce",
-     "k": "LAB",
-     "p": "dr inż. Piotr Gutowski",
-     "r": "s. SIL 126/127",
-     "g": "B",
-     "post": 2,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-01-28",
-     "start": "13:45",
-     "end": "15:15",
-     "pl": "Informatyka w logistyce",
-     "k": "LAB",
-     "p": "dr inż. Piotr Gutowski",
-     "r": "s. SIL 126/127",
-     "g": "A",
-     "post": 2,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-01-28",
-     "start": "13:45",
-     "end": "15:15",
-     "pl": "Informatyka w logistyce",
-     "k": "LAB",
-     "p": "dr inż. Piotr Gutowski",
-     "r": "s. SIL 126/127",
-     "g": "B",
-     "post": 2,
      "dup": true
     }
    ],
@@ -661,6 +553,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:12:37.008Z"
+  "updatedAt": "2026-11-23T16:05:07.211Z"
  }
 }

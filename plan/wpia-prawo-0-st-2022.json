@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-22T15:08:17.970Z",
+ "checkedAt": "2026-11-23T16:02:05.026Z",
  "groups": {
   "PRAWO5": {
    "odd": [
@@ -877,6 +877,20 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolane-konsultacje-dydaktyczne-dra-hab-o-boguckiego-prof-us-w-dniu-26-11-2026-r/",
+    "title": "Odwołane konsultacje dydaktyczne dra hab. O. Boguckiego, prof. US w dniu 26.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Informujemy, że konsultacje dydaktyczne dra hab. O. Boguckiego, prof. US w dniu 26.11.2026 nie odbędą się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-v-odwolane-zajecia-z-prof-o-boguckim-w-dniu-24-11-2026-r/",
+    "title": "SSP V – odwołane zajęcia z prof. O. Boguckim w dniu 24.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Informujemy, że zajęcia z przedmiotów Zasady techniki normotwórczej oraz Filozofia prawa w dniu 24.11.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-v-r-zmiana-terminu-seminarium-dyplomowego-prof-k-swiech-kujawska/",
     "title": "SSP V r. – zmiana terminu seminarium dyplomowego (prof. K. Święch-Kujawska)",
     "ym": "2026-11",
@@ -996,9 +1010,9 @@
      "date": "2026-10-08",
      "start": "13:30",
      "pl": "Seminarium dyplomowe",
-     "post": 13,
+     "post": 15,
      "posts": [
-      13
+      15
      ]
     },
     {
@@ -1006,15 +1020,15 @@
      "date": "2026-10-21",
      "start": "15:15",
      "pl": "Przestępstwa przeciwko życiu i zdrowiu - WMDW V",
-     "post": 8,
+     "post": 10,
      "posts": [
-      8
+      10
      ]
     },
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 10,
+     "post": 12,
      "niska": true
     },
     {
@@ -1025,7 +1039,7 @@
      "end": "20:15",
      "pl": "Seminarium dyplomowe",
      "k": "S",
-     "post": 13
+     "post": 15
     },
     {
      "type": "extra",
@@ -1036,18 +1050,18 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 118",
-     "post": 9
+     "post": 11
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 6,
+     "post": 8,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-13",
-     "post": 4,
+     "post": 6,
      "niska": true
     },
     {
@@ -1055,15 +1069,35 @@
      "date": "2026-11-13",
      "start": "11:45",
      "pl": "Wina w polskim prawie karnym - KDW V",
-     "post": 5,
+     "post": 7,
      "posts": [
-      5
+      7
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "08:15",
+     "pl": "Zasady techniki normotwórczej",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "10:00",
+     "pl": "Filozofia prawa",
+     "post": 1,
+     "posts": [
+      1
      ]
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 2,
+     "post": 4,
      "niska": true
     },
     {
@@ -1076,12 +1110,12 @@
      "k": "K",
      "p": "mgr K. Dzwonkowska",
      "r": "s. 112-114 al",
-     "post": 5
+     "post": 7
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 2,
+     "post": 4,
      "niska": true
     },
     {
@@ -1089,18 +1123,18 @@
      "date": "2026-12-03",
      "start": "13:30",
      "pl": "Seminarium dyplomowe",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
      ]
     },
     {
      "type": "note",
      "date": "2026-12-22",
-     "post": 3
+     "post": 5
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:17:03.834Z"
+  "updatedAt": "2026-11-23T16:14:13.429Z"
  }
 }

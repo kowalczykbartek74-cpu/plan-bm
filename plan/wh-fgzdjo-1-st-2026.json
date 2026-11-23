@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-20T14:08:02.709Z",
- "checkedAt": "2026-11-22T15:07:22.432Z",
+ "checkedAt": "2026-11-23T16:01:02.980Z",
  "groups": {
   "FGZDJO1": {
    "odd": [
@@ -1365,6 +1365,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-pawel-kucharski-odwolanie-zajec/",
+    "title": "mgr Paweł Kucharski- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dzień dobry, Chciałbym poinformować, że ze względu na chorobę musiałem odwołać dzisiejsze zajęcia z Technologii Informacyjnej z grupą 1 FGzDJO o godzinie 17.00-18.35. Studenci zostali już poinformowani, a termin odrabiania zajęć ustalę z nimi na zajęciach za tydzień. Pozdrawiam, Paweł Kucharski"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-ramona-funke-odwolanie-zajec-3/",
     "title": "mgr Ramona Funke- odwołanie zajęć",
     "ym": "2026-11",
@@ -1412,7 +1419,7 @@
     {
      "type": "note",
      "date": "2026-10-07",
-     "post": 5,
+     "post": 6,
      "niska": true
     },
     {
@@ -1425,7 +1432,7 @@
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
      "r": "s. 221, bud. 6",
-     "post": 4
+     "post": 5
     },
     {
      "type": "extra",
@@ -1437,7 +1444,7 @@
      "k": "LAB",
      "p": "dr Katarzyna Sztandarska",
      "r": "s. 221, bud. 6",
-     "post": 4
+     "post": 5
     },
     {
      "type": "cancel",
@@ -1445,9 +1452,9 @@
      "start": "17:00",
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "moved": true,
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -1456,19 +1463,19 @@
      "start": "18:45",
      "pl": "Praktyczna nauka języka niemieckiego – kurs podstawowy 1",
      "moved": true,
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
      "type": "note",
      "date": "2026-11-19",
-     "post": 0,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:14:46.141Z"
+  "updatedAt": "2026-11-23T16:11:47.098Z"
  }
 }

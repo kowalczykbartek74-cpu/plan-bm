@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-22T15:08:17.970Z",
+ "checkedAt": "2026-11-23T16:02:05.026Z",
  "groups": {
   "PSM1": {
    "odd": [
@@ -869,6 +869,20 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolane-konsultacje-dydaktyczne-dra-hab-o-boguckiego-prof-us-w-dniu-26-11-2026-r/",
+    "title": "Odwołane konsultacje dydaktyczne dra hab. O. Boguckiego, prof. US w dniu 26.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Informujemy, że konsultacje dydaktyczne dra hab. O. Boguckiego, prof. US w dniu 26.11.2026 nie odbędą się."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/psm-i-st-i-r-odwolane-zajecia-z-przedmiotu-filozofia-prawa-dr-hab-o-bogucki-prof-us-w-dn-26-11-2026-r/",
+    "title": "PSM I st. I r. – odwołane zajęcia z przedmiotu Filozofia prawa (dr hab. O. Bogucki, prof. US) w dn. 26.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Informujemy, że zajęcia z przedmiotu Filozofia prawa w dniu 26.11.2026 nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/psm-i-st-i-r-odwolanie-zajec-z-przedmiotu-podstawy-prawoznawstwa-w-dn-20-11-2026-r-dr-m-peno/",
     "title": "PSM I st. I r. – odwołanie zajęć z przedmiotu Podstawy prawoznawstwa w dn. 20.11.2026 r. (dr M. Peno)",
     "ym": "2026-11",
@@ -902,22 +916,22 @@
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 3,
+     "post": 5,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-30",
-     "post": 2
+     "post": 4
     },
     {
      "type": "cancel",
      "date": "2026-11-03",
      "start": "08:15",
      "pl": "Podstawy prawoznawstwa",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -925,13 +939,29 @@
      "date": "2026-11-20",
      "start": "13:45",
      "pl": "Podstawy prawoznawstwa",
-     "post": 0,
+     "post": 2,
      "posts": [
-      0
+      2
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-26",
+     "start": "13:30",
+     "pl": "Filozofia prawa",
+     "post": 1,
+     "posts": [
+      1
      ]
     }
    ]
   },
-  "updatedAt": "2026-11-16T15:01:55.137Z"
+  "updatedAt": "2026-11-23T16:14:13.609Z"
  }
 }

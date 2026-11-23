@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
+ "updated": "23.11.2026 13:17",
  "changedAt": "2026-11-18T13:49:53.840Z",
- "checkedAt": "2026-11-22T14:59:36.237Z",
+ "checkedAt": "2026-11-23T15:52:56.258Z",
  "groups": {
   "C551": {
    "odd": [
@@ -520,6 +520,20 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c552-17/",
+    "title": "GRUPA C552",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dnia 24.11.2026 zostają odwołane zajęcia z dr Joanną Rzempałą. Termin odrabiania zajęć zostanie podany po ustaleniu ze studentami."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c551-44/",
+    "title": "GRUPA C551",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dnia 24.11.2026 zostają odwołane zajęcia z dr Joanną Rzempałą. Termin odrabiania zajęć zostanie podany po ustaleniu ze studentami."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c551-c552-21/",
     "title": "GRUPA C551, C552",
     "ym": "2026-11",
@@ -555,9 +569,9 @@
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Konsument w globalnej gospodarce",
-     "post": 3,
+     "post": 5,
      "posts": [
-      3
+      5
      ]
     },
     {
@@ -565,9 +579,9 @@
      "date": "2026-11-17",
      "start": "10:00",
      "pl": "Ekonomia menadżerska",
-     "post": 2,
+     "post": 4,
      "posts": [
-      2
+      4
      ]
     },
     {
@@ -580,8 +594,18 @@
      "k": "W",
      "p": "dr Marcin Janowski",
      "r": "s. 003",
-     "post": 0,
+     "post": 2,
      "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "12:00",
+     "pl": "Metody zarządzania projektami",
+     "post": 1,
+     "posts": [
+      1
+     ]
     },
     {
      "type": "extra",
@@ -593,7 +617,7 @@
      "k": "W",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 104",
-     "post": 2,
+     "post": 4,
      "dup": true
     },
     {
@@ -601,9 +625,9 @@
      "date": "2026-12-01",
      "start": "10:00",
      "pl": "Ekonomia menadżerska",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -616,7 +640,7 @@
      "k": "W",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 104",
-     "post": 1,
+     "post": 3,
      "dup": true
     }
    ],
@@ -626,9 +650,9 @@
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Konsument w globalnej gospodarce",
-     "post": 3,
+     "post": 5,
      "posts": [
-      3
+      5
      ]
     },
     {
@@ -636,9 +660,9 @@
      "date": "2026-11-17",
      "start": "10:00",
      "pl": "Ekonomia menadżerska",
-     "post": 2,
+     "post": 4,
      "posts": [
-      2
+      4
      ]
     },
     {
@@ -651,8 +675,18 @@
      "k": "W",
      "p": "dr Marcin Janowski",
      "r": "s. 003",
-     "post": 0,
+     "post": 2,
      "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "13:45",
+     "pl": "Metody zarządzania projektami",
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "extra",
@@ -664,7 +698,7 @@
      "k": "W",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 104",
-     "post": 2,
+     "post": 4,
      "dup": true
     },
     {
@@ -672,9 +706,9 @@
      "date": "2026-12-01",
      "start": "10:00",
      "pl": "Ekonomia menadżerska",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -687,11 +721,11 @@
      "k": "W",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 104",
-     "post": 1,
+     "post": 3,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:02:56.047Z"
+  "updatedAt": "2026-11-23T16:06:03.405Z"
  }
 }

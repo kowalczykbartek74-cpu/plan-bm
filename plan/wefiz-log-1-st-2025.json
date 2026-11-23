@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
- "changedAt": "2026-11-16T13:31:04.340Z",
- "checkedAt": "2026-11-22T14:59:36.228Z",
+ "updated": "23.11.2026 13:17",
+ "changedAt": "2026-11-23T15:51:18.915Z",
+ "checkedAt": "2026-11-23T15:51:18.915Z",
  "groups": {
   "C231": {
    "odd": [
@@ -208,6 +208,17 @@
      "k": "CW",
      "p": "SWFiS",
      "r": "Sala Sportowa"
+    },
+    {
+     "d": 1,
+     "s": 0,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 046 dr Marta Sidorkiewicz",
+     "dates": [
+      "2027-01-26"
+     ],
+     "n": "Jednorazowo: 26.01.2027"
     },
     {
      "d": 3,
@@ -485,6 +496,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c231-38/",
+    "title": "GRUPA C231",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dnia 12.01.2027r. zostają odwołane zajęcia z dr Martą Sidorkiewicz. Termin odrobienia: 26.01.2027 godz. 8:15 sala 046"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c231-37/",
     "title": "GRUPA C231",
     "ym": "2026-11",
@@ -504,43 +522,15 @@
     "ym": "2026-11",
     "pub": "2026-11-13",
     "text": "Dnia 18.112026 zostają odwołane zajęcia z dr Agnieszką Pokorską. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c231-34/",
-    "title": "GRUPA C231",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Dnia 14 i 21.10.2026 zostają odwołane zajęcia z dr Joanną Drobiazgiewicz. Termin odrobienia zajęć: Ćwiczenia: 25.11.2026 godz. 15:30 sala 307 Wykład: 16.12.2026 godz. 15:30 sala 034"
    }
   ],
   "zmiany": {
    "C231": [
     {
      "type": "cancel",
-     "date": "2026-10-21",
-     "start": "13:45",
-     "pl": "Zarządzanie jakością w logistyce",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "cancel",
      "date": "2026-11-18",
      "start": "10:00",
      "pl": "Gospodarka magazynowa",
-     "post": 1,
-     "posts": [
-      1
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-11-18",
-     "start": "12:00",
-     "pl": "Gospodarka magazynowa",
-     "guess": true,
      "post": 2,
      "posts": [
       2
@@ -549,25 +539,23 @@
     {
      "type": "cancel",
      "date": "2026-11-18",
-     "start": "13:45",
-     "pl": "Zarządzanie jakością w logistyce",
-     "post": 0,
+     "start": "12:00",
+     "pl": "Gospodarka magazynowa",
+     "guess": true,
+     "post": 3,
      "posts": [
-      0
+      3
      ]
     },
     {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-11-25",
-     "start": "15:30",
-     "end": "17:00",
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "13:45",
      "pl": "Zarządzanie jakością w logistyce",
-     "k": "W",
-     "p": "dr Joanna Drobiazgiewicz",
-     "r": "s. 307",
-     "post": 3,
-     "dup": true
+     "post": 1,
+     "posts": [
+      1
+     ]
     },
     {
      "type": "extra",
@@ -579,24 +567,34 @@
      "k": "W",
      "p": "dr Joanna Drobiazgiewicz",
      "r": "s. 034",
-     "post": 0,
+     "post": 1,
      "dup": true
+    },
+    {
+     "type": "cancel",
+     "date": "2027-01-12",
+     "start": "12:00",
+     "pl": "Transport w handlu międzynarodowym",
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "extra",
      "kind": "makeup",
-     "date": "2026-12-16",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Zarządzanie jakością w logistyce",
-     "k": "W",
-     "p": "dr Joanna Drobiazgiewicz",
-     "r": "s. 034",
-     "post": 3,
+     "date": "2027-01-26",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Transport w handlu międzynarodowym",
+     "k": "CW",
+     "p": "dr Marta Sidorkiewicz",
+     "r": "s. 046",
+     "post": 0,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:44:45.551Z"
+  "updatedAt": "2026-11-23T16:04:56.323Z"
  }
 }

@@ -1,8 +1,8 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "dane-dc5dc33db071",
+ "wersja": "dane-472742dedf5e",
  "kierunek": "Erasmus+ (studenci z wymiany)",
- "kierunekEn": "Erasmus+ (studenci z wymiany)",
+ "kierunekEn": "Erasmus+ (exchange students)",
  "id": "wkfiz-eras-1-st-2026",
  "kod": "eras26",
  "wydzial": "WKFiZ",
@@ -11,8 +11,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:48:18.778Z",
- "checkedAt": "2026-11-22T15:07:14.915Z",
+ "changedAt": "2026-11-23T16:00:55.467Z",
+ "checkedAt": "2026-11-23T16:00:55.467Z",
  "groups": {
   "ERASMUS1": {
    "odd": [
@@ -443,7 +443,7 @@
      "pl": "Basice of nutrition",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
-     "r": "s. 26"
+     "r": "s. 201"
     }
    ],
    "even": [
@@ -874,7 +874,7 @@
      "pl": "Basice of nutrition",
      "k": "CW",
      "p": "dr inż. Anna Krajewska-Pędzik",
-     "r": "s. 26"
+     "r": "s. 201"
     }
    ]
   }

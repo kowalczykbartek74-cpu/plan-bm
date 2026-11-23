@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-22T15:07:23.311Z",
+ "checkedAt": "2026-11-23T16:01:03.706Z",
  "groups": {
   "PSYCH1": {
    "odd": [
@@ -1409,6 +1409,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-realizacji-zajec-dydaktycznych-z-dr-agnieszka-malinowska/",
+    "title": "Zmiana terminu realizacji zajęć dydaktycznych z dr Agnieszką Malinowską",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-24 8:15 2026-11-26 13:30 116 PSYC-SJM.24-31 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 3 psychologia społeczna ćwiczenia – Proponowana treść ogłoszenia dla studentów: Zajęcia zaplanowane na 24.11.2026r. o godzinie 8:15 nie odbędą się. Ich odrobienie nastąpi 26.11.2026r. o 13:30. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-24 10:00 2026-12-08 10:00 12H PSYC-SJM.26-1-L.5,PSYC-SJM.26-1-L.6 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 1 psychologia rozwoju człowieka w cyklu życia laboratorium Proponowana treść ogłoszenia dla studentów: Zajęcia zaplanowane na 24.11.2026r. o 10:00 nie odbędą się. Zostaną zrealizowane 8.12.2026r. o godzinie 10:00. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-24 11:45 2026-12-15 10:00 12H PSYC-SJM.26-13 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo psychologia stacjonarne jednolite magisterskie 1 psychologia rozwoju człowieka w cyklu życia ćwiczenia Proponowana treść ogłoszenia dla studentów: Zajęcia zaplanowane na 24.11.2026r. o 10:00 nie odbędą się. Zostaną zrealizowane 15.12.2026r. o godzinie 10:00."
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-realizacji-zajec-z-drem-tomaszem-szubartem/",
     "title": "Zmiana terminu realizacji zajęć z drem Tomaszem Szubartem",
     "ym": "2026-11",
@@ -1442,8 +1449,54 @@
     {
      "type": "note",
      "date": "2026-10-19",
-     "post": 1,
+     "post": 2,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "10:00",
+     "pl": "Psychologia rozwoju człowieka w cyklu życia",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "11:45",
+     "pl": "Psychologia rozwoju człowieka w cyklu życia",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Psychologia rozwoju człowieka w cyklu życia",
+     "k": "LAB",
+     "p": "dr A. Malinowska",
+     "r": "s. 12H",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-15",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Psychologia rozwoju człowieka w cyklu życia",
+     "k": "CW",
+     "p": "dr A. Malinowska",
+     "r": "s. 12H",
+     "post": 0
     },
     {
      "type": "cancel",
@@ -1451,9 +1504,9 @@
      "start": "10:00",
      "pl": "Filozofia z elementami logiki",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1462,9 +1515,9 @@
      "start": "11:45",
      "pl": "Filozofia z elementami logiki",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1473,9 +1526,9 @@
      "start": "13:30",
      "pl": "Filozofia z elementami logiki",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1484,9 +1537,9 @@
      "start": "15:15",
      "pl": "Filozofia z elementami logiki",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1499,7 +1552,7 @@
      "k": "CW",
      "p": "dr T. Szubart",
      "r": "s. 152",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -1511,7 +1564,7 @@
      "k": "CW",
      "p": "dr T. Szubart",
      "r": "s. 152",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -1523,10 +1576,10 @@
      "k": "CW",
      "p": "dr T. Szubart",
      "r": "s. 152",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:46:33.699Z"
+  "updatedAt": "2026-11-23T16:13:05.088Z"
  }
 }

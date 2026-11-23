@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-22T15:08:17.970Z",
+ "checkedAt": "2026-11-23T16:02:05.026Z",
  "groups": {
   "ADM1": {
    "odd": [
@@ -677,6 +677,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssa-ii-st-i-r-odwolane-cwiczenia-z-przedmiotu-prawo-gospodarcze-publiczne-mgr-w-szczap-w-dn-24-11-2026-r/",
+    "title": "SSA II st. I r. odwołane ćwiczenia z przedmiotu Prawo gospodarcze publiczne (mgr W. Szczap) w dn. 24.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Informujemy, że ćwiczenia z przedmotu Prawo gospodarcze publiczne, zaplanowane na 24 listopada 2026 r. nie odbędą się. Odrobienie zajęć nastąpi 10.12.2026 r. w godz. 13:30-15:00 s. 121 Narutowicza."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/2026/11/m270-odwolanie-cwiczen-z-postepowania-administracyjnego-w-dniu-27-11-2026-r/",
     "title": "M270- odwołanie ćwiczeń z postępowania administracyjnego w dniu 27.11.2026 r.",
     "ym": "2026-11",
@@ -740,28 +747,50 @@
      "date": "2026-10-13",
      "start": "10:00",
      "pl": "Historia myśli ustrojowo-administracyjnej",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 6
+     "post": 7
     },
     {
      "type": "note",
      "date": "2026-10-20",
-     "post": 5
+     "post": 6
     },
     {
      "type": "note",
      "date": "2026-11-04",
-     "post": 2
+     "post": 3
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "11:45",
+     "pl": "Prawo gospodarcze publiczne",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "13:30",
+     "end": "15:00",
+     "pl": "Prawo gospodarcze publiczne",
+     "k": "CW",
+     "p": "mgr W. Szczap",
+     "r": "s. 121",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:19:12.881Z"
+  "updatedAt": "2026-11-23T16:14:13.378Z"
  }
 }

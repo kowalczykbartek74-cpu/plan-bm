@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
+ "updated": "23.11.2026 13:17",
  "changedAt": "2026-11-13T12:59:14.603Z",
- "checkedAt": "2026-11-22T14:59:36.225Z",
+ "checkedAt": "2026-11-23T15:50:51.417Z",
  "groups": {
   "C521": {
    "odd": [
@@ -568,34 +568,10 @@
     "ym": "2026-10",
     "pub": "2026-10-27",
     "text": "Dnia 29.10.2026 o godz. 12:00 w sali 104 odbędzie się odrabianie zajęć z dr hab. prof. US Jakubem Swacha z dnia 03.11.2026 r."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c522-24/",
-    "title": "GRUPA C522",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: 25.01.2027 godz. 8:15 sala 623"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c521-23/",
-    "title": "GRUPA C521",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: 11.01.2027 godz. 8:15 sala 623"
    }
   ],
   "zmiany": {
    "C521": [
-    {
-     "type": "cancel",
-     "date": "2026-10-19",
-     "start": "8:15",
-     "pl": "Metody postępowania ze stresem",
-     "post": 8,
-     "posts": [
-      8
-     ]
-    },
     {
      "type": "cancel",
      "date": "2026-10-20",
@@ -687,32 +663,9 @@
      "posts": [
       0
      ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-01-11",
-     "start": "8:15",
-     "end": "9:45",
-     "pl": "Metody postępowania ze stresem",
-     "k": "K",
-     "p": "dr Karolina Drela",
-     "r": "s. 623",
-     "post": 8,
-     "dup": true
     }
    ],
    "C522": [
-    {
-     "type": "cancel",
-     "date": "2026-10-19",
-     "start": "10:00",
-     "pl": "Metody postępowania ze stresem",
-     "post": 7,
-     "posts": [
-      7
-     ]
-    },
     {
      "type": "cancel",
      "date": "2026-10-20",
@@ -781,22 +734,9 @@
      "posts": [
       1
      ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-01-25",
-     "start": "8:15",
-     "end": "9:45",
-     "pl": "Metody postępowania ze stresem",
-     "k": "K",
-     "p": "dr Karolina Drela",
-     "r": "s. 623",
-     "post": 7,
-     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:12:09.725Z"
+  "updatedAt": "2026-11-23T16:04:41.998Z"
  }
 }

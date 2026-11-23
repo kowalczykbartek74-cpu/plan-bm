@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
+ "updated": "23.11.2026 13:17",
  "changedAt": "2026-11-08T20:22:21.414Z",
- "checkedAt": "2026-11-22T14:59:36.224Z",
+ "checkedAt": "2026-11-23T15:50:33.653Z",
  "groups": {
   "C221": {
    "odd": [
@@ -884,6 +884,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c221-c222-7/",
+    "title": "GRUPA C221, C222",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "W dniu 24.11.2026 nie odbędą się zajęcia z przedmiotu Etyka zawodowa psychologa (prowadzący: dr Marta Młokosiewicz). Zajęcia zostaną odrobione po ustaleniu terminu ze studentami."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c221-c222-6/",
     "title": "GRUPA C221, C222",
     "ym": "2026-10",
@@ -905,9 +912,9 @@
      "date": "2026-10-20",
      "start": "8:15",
      "pl": "Public relations",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -915,9 +922,9 @@
      "date": "2026-10-20",
      "start": "12:00",
      "pl": "Podstawy badań marketingowych",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -930,7 +937,7 @@
      "k": "X",
      "p": "dr Agnieszka Smalec",
      "r": "s. 044",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -943,6 +950,11 @@
      "k": "X",
      "p": "dr Agnieszka Smalec",
      "r": "s. 044",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-11-24",
      "post": 0
     }
    ],
@@ -952,9 +964,9 @@
      "date": "2026-10-20",
      "start": "8:15",
      "pl": "Public relations",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -962,9 +974,9 @@
      "date": "2026-10-20",
      "start": "12:00",
      "pl": "Podstawy badań marketingowych",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -977,7 +989,7 @@
      "k": "X",
      "p": "dr Agnieszka Smalec",
      "r": "s. 044",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -990,10 +1002,15 @@
      "k": "X",
      "p": "dr Agnieszka Smalec",
      "r": "s. 044",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-11-24",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-08T20:37:56.535Z"
+  "updatedAt": "2026-11-23T16:04:11.207Z"
  }
 }

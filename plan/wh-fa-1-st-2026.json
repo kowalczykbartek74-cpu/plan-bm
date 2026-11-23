@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-22T15:07:22.432Z",
+ "checkedAt": "2026-11-23T16:01:02.980Z",
  "groups": {
   "FA1": {
    "odd": [
@@ -1581,6 +1581,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-pawel-kucharski-odwolanie-zajec/",
+    "title": "mgr Paweł Kucharski- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dzień dobry, Chciałbym poinformować, że ze względu na chorobę musiałem odwołać dzisiejsze zajęcia z Technologii Informacyjnej z grupą 1 FGzDJO o godzinie 17.00-18.35. Studenci zostali już poinformowani, a termin odrabiania zajęć ustalę z nimi na zajęciach za tydzień. Pozdrawiam, Paweł Kucharski"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-becca-borton-odrobienie-zajec-2/",
     "title": "mgr Becca Borton- odrobienie zajęć",
     "ym": "2026-11",
@@ -1635,17 +1642,17 @@
      "k": "LAB",
      "p": "mgr Mateusz Dudek",
      "r": "s. 120",
-     "post": 0
+     "post": 1
     },
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 5
+     "post": 6
     },
     {
      "type": "note",
      "date": "2026-10-07",
-     "post": 0
+     "post": 1
     },
     {
      "type": "cancel",
@@ -1653,15 +1660,15 @@
      "start": "18:45",
      "pl": "PNJA: Pisanie akad.",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 0
+     "post": 1
     },
     {
      "type": "cancel",
@@ -1669,15 +1676,15 @@
      "start": "18:45",
      "pl": "PNJA: Pisanie akad.",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
      "type": "note",
      "date": "2026-10-21",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
@@ -1686,9 +1693,9 @@
      "start": "17:00",
      "pl": "PNJA: Pisanie akad.",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1697,9 +1704,9 @@
      "start": "15:15",
      "pl": "PNJA: Pisanie akad.",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1712,7 +1719,7 @@
      "k": "LAB",
      "p": "mgr Mateusz Dudek",
      "r": "s. 120",
-     "post": 0
+     "post": 1
     },
     {
      "type": "cancel",
@@ -1720,9 +1727,9 @@
      "start": "13:30",
      "pl": "PNJA: Gram. Prakt.",
      "moved": true,
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -1735,7 +1742,7 @@
      "k": "LAB",
      "p": "dr M. Szymczak - Kordulasińska",
      "r": "s. 310 A",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -1747,7 +1754,7 @@
      "k": "LAB",
      "p": "dr M. Szymczak - Kordulasińska",
      "r": "s. 310 A",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
@@ -1755,9 +1762,9 @@
      "start": "17:00",
      "pl": "PNJA: Konwersacje",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1766,9 +1773,9 @@
      "start": "18:45",
      "pl": "PNJA: Konwersacje",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1781,7 +1788,7 @@
      "k": "LAB",
      "p": "mgr Becca Borton",
      "r": "s. 120",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -1793,7 +1800,7 @@
      "k": "LAB",
      "p": "mgr Becca Borton",
      "r": "s. 120",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -1805,10 +1812,10 @@
      "k": "LAB",
      "p": "dr Iryna Penza",
      "r": "s. 120",
-     "post": 2
+     "post": 3
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:14:45.989Z"
+  "updatedAt": "2026-11-23T16:11:46.918Z"
  }
 }

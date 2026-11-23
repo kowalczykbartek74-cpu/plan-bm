@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-09-X-2026.xlsx",
- "wersja": "2026-10-09",
- "sha256": "0fd26eff6a6b2ba380f7124b961f3b4f95a42e706a003371406c3ae0da8f61aa",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/HIST-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-23-XI-2026.xlsx",
+ "wersja": "2026-11-23",
+ "sha256": "e6f80cc288acc45fae3b3406c75a2dbb62a9539d639198c42bc07453a638d66c",
  "kierunek": "Historia",
  "kierunekEn": "History",
  "id": "wh-hist-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-22T15:07:22.432Z",
+ "changedAt": "2026-11-23T16:01:02.980Z",
+ "checkedAt": "2026-11-23T16:01:02.980Z",
  "groups": {
   "HIST3": {
    "odd": [
@@ -437,14 +437,14 @@
     {
      "d": 4,
      "time": [
-      "13:30",
-      "15:00"
+      "10:00",
+      "11:30"
      ],
      "pl": "Wykład monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
      "k": "W",
      "p": "dr hab. P. Weber, prof. US",
-     "r": "s. 070 (IH)",
-     "n": "pierwsze zajęcia 1h od godz. 14:15",
+     "r": "s. 068 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 10:45",
      "dates": [
       "2026-11-20",
       "2026-11-27",
@@ -881,14 +881,14 @@
     {
      "d": 4,
      "time": [
-      "13:30",
-      "15:00"
+      "10:00",
+      "11:30"
      ],
      "pl": "Wykład monograficzny w języku obcym The fear of Germany in Europe, 1945-1991 (lęk przed Niemcami w Europie, 1945-1991)",
      "k": "W",
      "p": "dr hab. P. Weber, prof. US",
-     "r": "s. 070 (IH)",
-     "n": "pierwsze zajęcia 1h od godz. 14:15",
+     "r": "s. 068 (IH)",
+     "n": "pierwsze zajęcia 1h od godz. 10:45",
      "dates": [
       "2026-11-20",
       "2026-11-27",

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-22T15:08:17.970Z",
+ "checkedAt": "2026-11-23T16:02:05.026Z",
  "groups": {
   "PRAWO4": {
    "odd": [
@@ -2794,30 +2794,10 @@
     "ym": "2026-10",
     "pub": "2026-10-01",
     "text": "Przedstawimy podział na grupy modułowe dla IV roku studiów stacjonarnych dla kierunku prawo (IV rok SSP). MODUŁ: Praktyczn e aspekty wykonywania zawodów prawniczych I 1. Warsztaty prawnicze z pisania pism sądowych i urzędowych gr. 1: A – Czyż, gr. 2: Ćw – Jaś, gr. 3: Jesi – Kubiak D, gr. 4 : Kubik – Mr, gr. 5: Mul – Rom, gr. 6: Ryb – Szydł, gr. 7: Szyn – Ż. 2. Rozprawa sądowa: gr. 1: B – Mak, gr. 2: Mal – Żuk."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/2026/09/ssp-iv-2025-2026-prawo-i-postepowanie-podatkowe-ii-termin-egzaminu-dla-osob-z-usprawiedliwiona-nieobecnoscia-prof-dr-hab-z-ofiarski/",
-    "title": "SSP IV (2025/2026) – Prawo i postępowanie podatkowe II – termin egzaminu dla osób z usprawiedliwioną nieobecnością (prof. dr hab. Z. Ofiarski)",
-    "ym": "2026-09",
-    "pub": "2026-09-23",
-    "text": "Informujemy, że egzamin z przedmiotu Prawo i postępowanie podatkowe II dla kierunku prawo (SSP) dla osób, które uzyskały zgodę Prodziekana ds. Studenckich na usprawiedliwienie nieobecności we wcześniejszych terminach odbędzie się 6 października 2026 r. (wtorek) o godz. 10.00, s. 220 (budynek ul. G. Narutowicza 17a)."
    }
   ],
   "zmiany": {
    "PRAWO4": [
-    {
-     "type": "extra",
-     "kind": "change",
-     "date": "2026-10-06",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Prawo i postępowanie podatkowe I",
-     "k": "W",
-     "p": "prof. dr hab. Z. Ofiarski",
-     "r": "s. 220",
-     "post": 23,
-     "dup": true
-    },
     {
      "type": "note",
      "date": "2026-10-12",
@@ -2970,6 +2950,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:17:03.866Z"
+  "updatedAt": "2026-11-23T16:14:13.460Z"
  }
 }

@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
+ "updated": "23.11.2026 13:17",
  "changedAt": "2026-11-18T13:49:48.570Z",
- "checkedAt": "2026-11-22T14:59:36.237Z",
+ "checkedAt": "2026-11-23T15:52:51.122Z",
  "groups": {
   "C651": {
    "odd": [
@@ -498,13 +498,6 @@
     "ym": "2026-10",
     "pub": "2026-10-16",
     "text": "Dnia 19.10.2026 zostają odwołane zajęcia z dr Marcinem Janowskim. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c651-43/",
-    "title": "GRUPA C651",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "Dnia 12, 13 i 19 października 2027 zostają odwołane zajęcia z dr Karoliną Drelą. Termin odrobienia zajęć: Zarządzanie stresem (ćw): 18.01.2027 godz. 15:30 sala 607 Współczesne teorie firmy (w e-learning): 26.01.2027 godz. 8:15 MS Teams Współczesne teorie firmy (ćw): 01.02.2027 godz. 15:30 sala 003"
    }
   ],
   "zmiany": {
@@ -538,53 +531,9 @@
      "r": "s. 104",
      "post": 1,
      "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-01-18",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "p": "dr Karolina Drela",
-     "r": "s. 607",
-     "post": 4,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-01-26",
-     "start": "8:15",
-     "end": "9:45",
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "p": "dr Karolina Drela",
-     "r": "MS Teams",
-     "post": 4,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2027-02-01",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "p": "dr Karolina Drela",
-     "r": "s. 003",
-     "post": 4,
-     "dup": true
-    },
-    {
-     "type": "note",
-     "date": "2027-10-19",
-     "post": 4
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:13:25.783Z"
+  "updatedAt": "2026-11-23T16:05:56.816Z"
  }
 }

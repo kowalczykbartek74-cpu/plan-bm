@@ -1,7 +1,7 @@
 {
- "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-6.pdf",
- "wersja": "I-NPSM-I-st.-6.pdf",
- "sha256": "04291a649c0abb293c370d777b9ff7fb8793592fc1f1800fb08b3f5e8155145d",
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-7.pdf",
+ "wersja": "I-NPSM-I-st.-7.pdf",
+ "sha256": "7a745094dfa87cc83250172f45fea333d411ce075897432d184137d94e922ff8",
  "kierunek": "Prawo służb mundurowych",
  "kierunekEn": "Law for Uniformed Services",
  "id": "wpia-psm-1-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:51:41.490Z",
- "checkedAt": "2026-11-22T15:08:17.970Z",
+ "changedAt": "2026-11-23T16:02:05.026Z",
+ "checkedAt": "2026-11-23T16:02:05.026Z",
  "groups": {
   "PSM1": {
    "odd": [
@@ -677,20 +677,6 @@
      "d": 6,
      "time": [
       "11:45",
-      "13:15"
-     ],
-     "pl": "Podstawy prawoznawstwa",
-     "k": "W",
-     "p": "dr hab. R. Piszko, prof. US",
-     "r": "s. 121 Narutowicza",
-     "dates": [
-      "2026-11-08"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "11:45",
       "14:15"
      ],
      "pl": "Technologie informacyjne",
@@ -713,6 +699,20 @@
      "r": "s. 121 Narutowicza",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:00",
+      "14:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -1433,20 +1433,6 @@
      "d": 6,
      "time": [
       "11:45",
-      "13:15"
-     ],
-     "pl": "Podstawy prawoznawstwa",
-     "k": "W",
-     "p": "dr hab. R. Piszko, prof. US",
-     "r": "s. 121 Narutowicza",
-     "dates": [
-      "2026-11-08"
-     ]
-    },
-    {
-     "d": 6,
-     "time": [
-      "11:45",
       "14:15"
      ],
      "pl": "Technologie informacyjne",
@@ -1469,6 +1455,20 @@
      "r": "s. 121 Narutowicza",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:00",
+      "14:30"
+     ],
+     "pl": "Podstawy prawoznawstwa",
+     "k": "W",
+     "p": "dr hab. R. Piszko, prof. US",
+     "r": "s. 121 Narutowicza",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {

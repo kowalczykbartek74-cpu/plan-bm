@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-22T15:08:01.792Z",
+ "checkedAt": "2026-11-23T16:01:49.111Z",
  "groups": {
   "MIKR2": {
    "odd": [
@@ -1239,6 +1239,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-i-st-2-rok-odwolany-wyklad-z-immunologii-ogolnej-w-dniu-25-11/",
+    "title": "Mikrobiologia I st. 2 rok – odwołany wykład z immunologii ogólnej w dniu 25.11",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Szanowni Państwo, w związku z wyjazdem na konferencję, zmuszona jestem odwołać zajęcia, za co bardzo przepraszam. Termin odrobienia ustalimy wspólnie. Prof. dr hab. Paulina Niedźwiedzka-Rystwej"
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/10/mikrobiologia-i-st-2-rok-odwolany-wyklad-z-biochemii-w-dniu-25-11/",
     "title": "Mikrobiologia I st. 2 rok – odwołany wykład z biochemii w dniu 25.11",
     "ym": "2026-10",
@@ -1260,9 +1267,9 @@
      "date": "2026-10-19",
      "start": "08:15",
      "pl": "Mykologia ogólna",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1275,7 +1282,17 @@
      "k": "LAB",
      "p": "prof US dr hab M. Stasińska",
      "r": "s. 05F",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-25",
+     "start": "11:45",
+     "pl": "Immunologia ogólna",
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "extra",
@@ -1286,10 +1303,10 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 30aF",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.270Z"
+  "updatedAt": "2026-11-23T16:14:13.234Z"
  }
 }

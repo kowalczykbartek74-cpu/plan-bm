@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-f71bdd08944c",
+ "wersja": "planynst-fab9db0ee715",
  "kierunek": "Data Science",
  "kierunekEn": "Data Science",
  "id": "wefiz-ds-2-nst-2025",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-17T14:22:25.446Z",
- "checkedAt": "2026-11-22T15:03:21.578Z",
+ "changedAt": "2026-11-23T15:57:02.825Z",
+ "checkedAt": "2026-11-23T15:57:02.825Z",
  "groups": {
   "F40": {
    "odd": [
@@ -24,7 +24,7 @@
      ],
      "pl": "Seminarium",
      "k": "S",
-     "p": "dr Paweł Baran",
+     "p": "dr Paweł Baran, dr inż. Krzysztof Lorenz",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -999,7 +999,7 @@
      ],
      "pl": "Seminarium",
      "k": "S",
-     "p": "dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
+     "p": "dr Krzysztof Dmytrów, dr Magdalena Mojsiewicz",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -1121,7 +1121,7 @@
      ],
      "pl": "Seminarium",
      "k": "S",
-     "p": "dr Paweł Baran",
+     "p": "dr Paweł Baran, dr inż. Krzysztof Lorenz",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -2096,7 +2096,7 @@
      ],
      "pl": "Seminarium",
      "k": "S",
-     "p": "dr Krzysztof Dmytrów, dr inż. Krzysztof Lorenz, dr Magdalena Mojsiewicz",
+     "p": "dr Krzysztof Dmytrów, dr Magdalena Mojsiewicz",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [

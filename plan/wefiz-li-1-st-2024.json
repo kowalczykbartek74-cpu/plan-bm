@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
+ "updated": "23.11.2026 13:17",
  "changedAt": "2026-11-08T20:22:45.308Z",
- "checkedAt": "2026-11-22T14:59:36.227Z",
+ "checkedAt": "2026-11-23T15:51:00.232Z",
  "groups": {
   "C361": {
    "odd": [
@@ -401,10 +401,29 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c361-36/",
+    "title": "GRUPA C361",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dnia 25.11.2026 zostają odwołane zajęcia z dr Agnieszką Gozdek. Termin odrabiania zajęć zostanie ustalony na kolejnych zajęciach."
+   }
+  ],
   "zmiany": {
-   "C361": []
+   "C361": [
+    {
+     "type": "cancel",
+     "date": "2026-11-25",
+     "start": "10:00",
+     "pl": "Inżynieria ruchu drogowego",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:38:20.049Z"
+  "updatedAt": "2026-11-23T16:04:46.422Z"
  }
 }

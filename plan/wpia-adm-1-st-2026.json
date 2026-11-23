@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-22T15:08:17.970Z",
+ "checkedAt": "2026-11-23T16:02:05.026Z",
  "groups": {
   "ADM1": {
    "odd": [
@@ -1015,45 +1015,15 @@
     "ym": "2026-10",
     "pub": "2026-10-27",
     "text": "Informujemy, że zajęcia z przedmiotu Informatyka w administracji w dn. 28.10.2026 r. nie odbędą się i zostają przełożone na następujące terminy: grupa 1 – 19.11.2026 r. w godzinach 10.00 – 11.30, s. 17a Narutowicza (sala komputerowa) grupa 2 – 7.12.2026 r. w godzinach 11.00 – 12.30, s. 17a Narutowicza (sala komputerowa) grupa 3 – 19.11.2026 r. w godzinach 15.15 – 16.45, s. 17a Narutowicza (sala komputerowa)"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-i-st-i-r-zmiana-terminu-realizacji-zajec-z-przedmiotu-historia-administracji-dr-hab-m-tkaczuk-prof-us/",
-    "title": "SSA I st. I r. – zmiana terminu realizacji zajęć z przedmiotu Historia administracji (dr hab. M. Tkaczuk, prof. US)",
-    "ym": "2026-10",
-    "pub": "2026-10-01",
-    "text": "Informujemy, że wykład z przedmiotu Historia administracji wyjątkowo w dniu 13.10.2026 r. odbędzie się w bloku 1 godz. (w godzinach 8.15 – 9.00). Wykład w dniu 24.11.2026 r. odbędzie się w wymiarze 2 godzin w godzinach 8.15 – 9.45."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/09/ssa-i-st-i-r-25-26-termin-egzaminu-z-przedmiotu-elementy-logiki-praktycznej-dla-osob-z-usprawiedliwiona-nieobecnoscia-prof-w-patryas/",
-    "title": "SSA I st. I r. 25-26 termin egzaminu z przedmiotu Elementy logiki praktycznej dla osób z usprawiedliwioną nieobecnością (prof. W. Patryas)",
-    "ym": "2026-09",
-    "pub": "2026-09-18",
-    "text": "Informujemy, że egzamin z przedmiotu Elementy logiki praktycznej dla osób, które uzyskały zgodę na usprawiedliwienie nieobecności odbędzie się 25.09.2026 r. o godzinie 15.30, sala 217 Narutowicza"
    }
   ],
   "zmiany": {
    "ADM1": [
     {
-     "type": "extra",
-     "kind": "change",
-     "date": "2026-09-25",
-     "start": "15:30",
-     "end": "17:00",
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "s. 217",
-     "post": 11
-    },
-    {
      "type": "note",
      "date": "2026-10-08",
      "post": 5,
      "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-13",
-     "post": 10
     },
     {
      "type": "cancel",
@@ -1156,6 +1126,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:19:12.843Z"
+  "updatedAt": "2026-11-23T16:14:13.352Z"
  }
 }

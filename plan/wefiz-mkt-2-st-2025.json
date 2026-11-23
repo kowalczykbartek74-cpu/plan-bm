@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "20.11.2026 10:53",
+ "updated": "23.11.2026 13:17",
  "changedAt": "2026-11-08T20:23:23.500Z",
- "checkedAt": "2026-11-22T14:59:36.230Z",
+ "checkedAt": "2026-11-23T15:51:44.066Z",
  "groups": {
   "C691": {
    "odd": [
@@ -624,11 +624,41 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c691-c692-2/",
+    "title": "GRUPA C691, C692",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dnia 24.11.2026 zostają odwołane zajęcia z dr Joanną Rzempałą. Termin odrabiania zajęć zostanie podany po ustaleniu ze studentami."
+   }
+  ],
   "zmiany": {
-   "C691": [],
-   "C692": []
+   "C691": [
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "10:00",
+     "pl": "Zarządzanie projektami",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ],
+   "C692": [
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "10:00",
+     "pl": "Zarządzanie projektami",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:38:34.652Z"
+  "updatedAt": "2026-11-23T16:05:08.307Z"
  }
 }

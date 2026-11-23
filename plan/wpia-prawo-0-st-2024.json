@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-22T15:08:17.970Z",
- "checkedAt": "2026-11-22T15:08:17.970Z",
+ "changedAt": "2026-11-23T16:02:05.026Z",
+ "checkedAt": "2026-11-23T16:02:05.026Z",
  "groups": {
   "PRAWO3": {
    "odd": [
@@ -2719,6 +2719,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iii-odwolane-cwiczenia-z-przedmiotu-postepowanie-administracyjne-i-sadowoadministracyjne-mgr-w-szczap-w-dn-24-11-2026-r-gr-1-7/",
+    "title": "SSP III – odwołane ćwiczenia z przedmiotu Postępowanie administracyjne i sądowoadministracyjne (mgr W. Szczap) w dn. 24.11.2026 r. (gr 1, 7)",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Informujemy, że ćwiczenia z przedmotu Postępowanie administracyjne i sądowoadministracyjne, zaplanowane na 24 listopada 2026 r. dla grup 1 i 7 nie odbędą się. Odrobienie zajęć nastąpi: Dla grupy 1 – 26.11.2026 w godz. 10:00-11:30 s. 220 Narutowicza, Dla grupy 7 – 10.12.2026 w godz 10:00-11:3 s. 201 Narutowicza."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iii-odrobienie-zajec-z-przedmiotu-podstawy-retoryki-i-erystyki-dr-hab-a-kapuscinska-jawara-prof-us/",
     "title": "SSP III – odrobienie zajęć z przedmiotu Podstawy retoryki i erystyki (dr hab. A. Kapuścińska-Jawara, prof. US)",
     "ym": "2026-11",
@@ -2808,53 +2815,97 @@
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 10,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-12",
      "post": 11,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-10-12",
+     "post": 12,
+     "niska": true
+    },
+    {
+     "type": "note",
      "date": "2026-10-29",
-     "post": 8,
+     "post": 9,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 7
+     "post": 8
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 0
+     "post": 1
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 5,
+     "post": 6,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-24",
-     "post": 2
+     "post": 3
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "14:30",
+     "pl": "Prawo gospodarcze publiczne",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-24",
+     "start": "16:15",
+     "pl": "Postępowanie administracyjne i sądowoadministracyjne",
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 4,
+     "post": 5,
      "niska": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "mgr W. Szczap",
+     "r": "s. 220",
+     "post": 0
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 4,
+     "post": 5,
      "niska": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "mgr W. Szczap",
+     "r": "s. 201",
+     "post": 0
     },
     {
      "type": "extra",
@@ -2865,10 +2916,10 @@
      "pl": "Prawo cywilne - zobowiązania I",
      "k": "CW",
      "p": "dr A. Tomczyk",
-     "post": 3
+     "post": 4
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:17:03.890Z"
+  "updatedAt": "2026-11-23T16:14:13.496Z"
  }
 }

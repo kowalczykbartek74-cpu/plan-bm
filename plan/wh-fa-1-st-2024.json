@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-22T15:07:22.432Z",
+ "checkedAt": "2026-11-23T16:01:02.980Z",
  "groups": {
   "FA3": {
    "odd": [
@@ -1021,6 +1021,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-jakobiak-agnieszka-odwolanie-zajec/",
+    "title": "mgr Jakóbiak Agnieszka – odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Dzień dobry, informujemy, że pracownik Agnieszka Jakóbiak zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Zespół Języków Klasycznych, Neołacińskich i Słowiańskich Sekcja kształcenia wg jednostki zatrudnienia: Akademickie Centrum Kształcenia Językowego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-26 10:00 – – – FANG-SI.24-3-PW1.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 3 język hiszpański lektorat – Przyczyna nieobecności inne Uzasadnienie Zajęcia zostały odbrobione w dniu 12.11 o godz.11.30 w ACKJ w sali 6 Proponowana treść ogłoszenia dla studentów: Zajęcia zostały odbrobione w dniu 12.11 o godz.11.30 w ACKJ w sali 6 Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-12-03 10:00 – – – FANG-SI.24-3-PW1.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 3 język hiszpański lektorat – Przyczyna nieobecności inne Uzasadnienie Zajęcia zostały odbrobione w dniu 5.11 o godz.11.30 w ACKJ w sali 6 Proponowana treść ogłoszenia dla studentów: Zajęcia zostały odbrobione w dniu 5.11 o godz.11.30 w ACKJ w sali 6 Wiadomość została wygenerowana automatycznie, prosimy na nią nie odpowiadać."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-antoni-gorny-odwolanie-zajec-2/",
     "title": "dr Antoni Górny- odwołanie zajęć",
     "ym": "2026-11",
@@ -1049,6 +1056,26 @@
      "date": "2026-11-19",
      "start": "15:15",
      "pl": "Sem. dyplomowe",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "pl": "Lektorat język hiszpański – ACKJ od grudnia w bud. Nr 6",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-03",
+     "start": "10:00",
+     "pl": "Lektorat język hiszpański – ACKJ od grudnia w bud. Nr 6",
      "post": 0,
      "posts": [
       0
@@ -1060,9 +1087,9 @@
      "start": "15:15",
      "pl": "Sem. dyplomowe",
      "moved": true,
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -1075,7 +1102,7 @@
      "k": "S",
      "p": "dr Antoni Górny",
      "r": "s. 120",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
@@ -1083,9 +1110,9 @@
      "start": "11:45",
      "pl": "(co 2 tyg.) Literatura Ameryki Północnej ewentualnie Wielkopolska",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1094,9 +1121,9 @@
      "start": "11:45",
      "pl": "Do wyboru (co 2 tyg.) Methodologies of Cultural Studies: From Text to Image",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1109,7 +1136,7 @@
      "k": "W",
      "p": "dr Krystian Grądz",
      "r": "s. 310",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -1121,10 +1148,10 @@
      "k": "W",
      "p": "dr Krystian Grądz",
      "r": "s. 310",
-     "post": 1
+     "post": 2
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:06:07.737Z"
+  "updatedAt": "2026-11-23T16:11:46.850Z"
  }
 }

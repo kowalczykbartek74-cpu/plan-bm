@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-22T15:08:17.970Z",
+ "checkedAt": "2026-11-23T16:02:05.026Z",
  "groups": {
   "IEBL2": {
    "odd": [
@@ -631,6 +631,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/attention-first-year-students-of-the-masters-programme-in-international-and-european-business-law/",
+    "title": "Attention First-Year Students of the Master’s Programme in International and European Business Law",
+    "ym": "2026-11",
+    "pub": "2026-11-23",
+    "text": "Please be informed that registration for the compulsory Humanities lectures offered in the summer semester of the 2026/2027 academic year will take place from 4 December 2026 at 00:00 until 7 December 2026 at 23:59. Registration must be completed via the e-proDziekan platform. To register, select “Elections and Tuition Fee Declaration” from the menu and then choose “Humanities Lecture”.Please review the list of available courses and their syllabuses published on the Faculty’s website under: Education / Study Plans / Lecture in the humanities. A lecture will be offered only if at least 20 students register for it. IMPORTANT Students who fail to make their selection within the specified registration period will be assigned administratively to a lecture with available places."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/iebl-canceled-classes-on-18-11-2026-legal-english-business-english/",
     "title": "IEBL – canceled classes on 18.11.2026 (Legal English, Business English)",
     "ym": "2026-11",
@@ -727,13 +734,13 @@
     {
      "type": "note",
      "date": "2026-10-09",
-     "post": 12,
+     "post": 13,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 11,
+     "post": 12,
      "niska": true
     },
     {
@@ -741,27 +748,27 @@
      "date": "2026-10-13",
      "start": "17:00",
      "pl": "Diploma seminar",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 10,
+     "post": 11,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-20",
-     "post": 10,
+     "post": 11,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-28",
-     "post": 8,
+     "post": 9,
      "niska": true
     },
     {
@@ -769,28 +776,28 @@
      "date": "2026-11-04",
      "start": "17:00",
      "pl": "Environmental Law and Business",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2,
-      4
+      3,
+      5
      ]
     },
     {
      "type": "note",
      "date": "2026-11-18",
-     "post": 0,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-18",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-18",
-     "post": 8,
+     "post": 9,
      "niska": true
     },
     {
@@ -798,25 +805,37 @@
      "date": "2026-11-26",
      "start": "13:45",
      "pl": "German language",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
      "type": "note",
+     "date": "2026-12-04",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-07",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "note",
      "date": "2026-12-09",
-     "post": 8,
+     "post": 9,
      "niska": true
     },
     {
      "type": "note",
      "date": "2027-01-20",
-     "post": 3,
+     "post": 4,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-19T15:41:25.916Z"
+  "updatedAt": "2026-11-23T16:14:13.393Z"
  }
 }

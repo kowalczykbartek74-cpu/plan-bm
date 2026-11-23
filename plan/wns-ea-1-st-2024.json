@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-127.pdf",
- "wersja": "EA-I-127.pdf",
- "sha256": "ec822f797c62eb7fa193a4c9ec3eccdffcae65c43693583a4a1f6a4ff6518a3a",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-128.pdf",
+ "wersja": "EA-I-128.pdf",
+ "sha256": "be2ebb85b0a6e636cf6447bebddb3c139b002c90e1b26e396365cb037b96f03b",
  "kierunek": "Edukacja artystyczna",
  "kierunekEn": "Art Education",
  "id": "wns-ea-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-20T14:08:03.597Z",
- "checkedAt": "2026-11-22T15:07:23.311Z",
+ "changedAt": "2026-11-23T16:01:03.706Z",
+ "checkedAt": "2026-11-23T16:01:03.706Z",
  "groups": {
   "EA3": {
    "odd": [
@@ -154,6 +154,27 @@
     },
     {
      "d": 2,
+     "pl": "Historia kultury Pomorza Zachodniego",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr hab. R. Skrycki, prof.",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
      "pl": "Psychofizjologia percepcji sztuki",
      "k": "CW",
      "time": [
@@ -172,6 +193,28 @@
       "2026-11-11",
       "2026-11-18",
       "2026-11-25"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Historia kultury Pomorza Zachodniego",
+     "k": "CW",
+     "time": [
+      "11:40",
+      "13:15"
+     ],
+     "p": "dr hab. R. Skrycki, prof. US",
+     "r": "s. 103",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
      ]
     },
     {
@@ -483,6 +526,27 @@
     },
     {
      "d": 2,
+     "pl": "Historia kultury Pomorza Zachodniego",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr hab. R. Skrycki, prof.",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
      "pl": "Psychofizjologia percepcji sztuki",
      "k": "CW",
      "time": [
@@ -501,6 +565,28 @@
       "2026-11-11",
       "2026-11-18",
       "2026-11-25"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Historia kultury Pomorza Zachodniego",
+     "k": "CW",
+     "time": [
+      "11:40",
+      "13:15"
+     ],
+     "p": "dr hab. R. Skrycki, prof. US",
+     "r": "s. 103",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
      ]
     },
     {

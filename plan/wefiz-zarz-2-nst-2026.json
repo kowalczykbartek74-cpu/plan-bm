@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-f71bdd08944c",
+ "wersja": "planynst-fab9db0ee715",
  "kierunek": "Zarządzanie",
  "kierunekEn": "Management",
  "id": "wefiz-zarz-2-nst-2026",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T09:23:11.440Z",
- "checkedAt": "2026-11-22T15:03:21.578Z",
+ "changedAt": "2026-11-23T15:57:02.825Z",
+ "checkedAt": "2026-11-23T15:57:02.825Z",
  "groups": {
   "E51": {
    "odd": [
@@ -264,11 +264,11 @@
       "16:15"
      ],
      "pl": "Metody zarządzania projektami",
-     "k": "W",
-     "p": "dr Joanna Rzempała",
-     "r": "s. 523 Cuk.8",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 307 Cuk.8",
      "dates": [
-      "2026-11-07"
+      "2026-11-28"
      ]
     },
     {
@@ -277,12 +277,12 @@
       "13:45",
       "16:15"
      ],
-     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
-     "k": "CW",
-     "p": "dr hab. Prof. US Marek Kunasz",
-     "r": "s. 307 Cuk.8",
+     "pl": "Metody zarządzania projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 523 Cuk.8",
      "dates": [
-      "2026-11-28"
+      "2026-11-07"
      ]
     },
     {
@@ -591,6 +591,20 @@
      "r": "s. 523 Cuk.8",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-17"
      ]
     },
     {
@@ -857,11 +871,11 @@
       "16:15"
      ],
      "pl": "Metody zarządzania projektami",
-     "k": "W",
-     "p": "dr Joanna Rzempała",
-     "r": "s. 523 Cuk.8",
+     "k": "CW",
+     "p": "dr Monika Ruta-Kujawa",
+     "r": "s. 307 Cuk.8",
      "dates": [
-      "2026-11-07"
+      "2026-11-28"
      ]
     },
     {
@@ -870,12 +884,12 @@
       "13:45",
       "16:15"
      ],
-     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
-     "k": "CW",
-     "p": "dr hab. Prof. US Marek Kunasz",
-     "r": "s. 307 Cuk.8",
+     "pl": "Metody zarządzania projektami",
+     "k": "W",
+     "p": "dr Joanna Rzempała",
+     "r": "s. 523 Cuk.8",
      "dates": [
-      "2026-11-28"
+      "2026-11-07"
      ]
     },
     {
@@ -1184,6 +1198,20 @@
      "r": "s. 523 Cuk.8",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Strategiczne zarządzanie kapitałem ludzkim",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marek Kunasz",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2027-01-17"
      ]
     },
     {
