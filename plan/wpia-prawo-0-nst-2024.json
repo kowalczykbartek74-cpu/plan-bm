@@ -1,7 +1,7 @@
 {
- "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSP-5.pdf",
- "wersja": "III-NSP-5.pdf",
- "sha256": "6a9df56baf3c9d26c9ff06d37a411b47a4ffcea21e540d0c66f575c82b9630a8",
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSP-6.pdf",
+ "wersja": "III-NSP-6.pdf",
+ "sha256": "d4ef0293f38daf5281a3fa3cecc70321b05208e508db7edaa625e45657e9d6ff",
  "kierunek": "Prawo",
  "kierunekEn": "Law",
  "id": "wpia-prawo-0-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-23T19:03:47.007Z",
+ "changedAt": "2026-11-24T15:53:40.429Z",
+ "checkedAt": "2026-11-24T15:53:40.429Z",
  "groups": {
   "PRAWO3": {
    "odd": [
@@ -366,6 +366,7 @@
      "pl": "Prawo gospodarcze publiczne",
      "k": "CW",
      "p": "mgr W. Szczap",
+     "r": "s. 219 Narutowicza",
      "pg": "Prawo gospodarcze publiczne:2",
      "dates": [
       "2026-11-21"
@@ -1877,6 +1878,7 @@
      "pl": "Prawo gospodarcze publiczne",
      "k": "CW",
      "p": "mgr W. Szczap",
+     "r": "s. 219 Narutowicza",
      "pg": "Prawo gospodarcze publiczne:2",
      "dates": [
       "2026-11-21"

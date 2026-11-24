@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-20T14:08:02.709Z",
- "checkedAt": "2026-11-23T19:02:36.110Z",
+ "checkedAt": "2026-11-24T15:52:18.717Z",
  "groups": {
   "FG2": {
    "odd": [
@@ -713,6 +713,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-mariusz-strzezek-zastepstwo-na-zajeciach/",
+    "title": "dr Mariusz Strzeżek- zastępstwo na zajęciach",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "zastępstwo za dr Mariusza Strzeżka W terminie od 24.11 – do 15.12 odbędą się zastępstwa za dr Mariusza Strzeżka dla kierunków SP-SI 1 i 2 rok oraz SP-SII 1 rok."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-ramona-funke-odwolanie-zajec-3/",
     "title": "mgr Ramona Funke- odwołanie zajęć",
     "ym": "2026-11",
@@ -746,17 +753,17 @@
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-21",
-     "post": 3,
+     "post": 4,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:14:46.088Z"
+  "updatedAt": "2026-11-24T15:58:44.358Z"
  }
 }

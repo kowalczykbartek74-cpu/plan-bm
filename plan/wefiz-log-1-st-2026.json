@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "23.11.2026 13:17",
+ "updated": "24.11.2026 12:48",
  "changedAt": "2026-11-18T13:48:23.574Z",
- "checkedAt": "2026-11-23T18:54:48.895Z",
+ "checkedAt": "2026-11-24T15:42:40.814Z",
  "groups": {
   "C131": {
    "odd": [
@@ -664,79 +664,10 @@
     "ym": "2026-10",
     "pub": "2026-10-12",
     "text": "Zmiana sali na przedmiot Ochrona własności intelektualnej – nowa sala 044 Aula Cuk. 8"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c131b-3/",
-    "title": "GRUPA C131B",
-    "ym": "2026-10",
-    "pub": "2026-10-09",
-    "text": "Dnia 21.10.2026 o godz. 10:00 w sali SIL 124/125 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 05.10.2026r."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c131a-2/",
-    "title": "GRUPA C131A",
-    "ym": "2026-10",
-    "pub": "2026-10-09",
-    "text": "Dnia 21.10.2026 o godz. 8:15 w sali SIL 116 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 05.10.2026r."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c132-27/",
-    "title": "GRUPA C132",
-    "ym": "2026-10",
-    "pub": "2026-10-09",
-    "text": "Dnia 30.10.2026 o godz. 10:00 w sali SIL 126/127 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 02.10.2026r."
    }
   ],
   "zmiany": {
    "C131": [
-    {
-     "type": "cancel",
-     "date": "2026-10-05",
-     "start": "10:00",
-     "pl": "Technologie informatyczne",
-     "g": "A",
-     "post": 6,
-     "posts": [
-      6
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-05",
-     "start": "13:45",
-     "pl": "Technologie informatyczne",
-     "g": "B",
-     "post": 5,
-     "posts": [
-      5
-     ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-21",
-     "start": "8:15",
-     "end": "9:45",
-     "pl": "Technologie informatyczne",
-     "k": "LAB",
-     "p": "dr Magdalena Kotnis",
-     "r": "s. SIL 116 lab",
-     "g": "A",
-     "post": 6
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-21",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Technologie informatyczne",
-     "k": "LAB",
-     "p": "dr Magdalena Kotnis",
-     "r": "s. SIL 124/125 lab",
-     "g": "B",
-     "post": 5
-    },
     {
      "type": "note",
      "date": "2026-11-22",
@@ -814,16 +745,6 @@
    "C132": [
     {
      "type": "cancel",
-     "date": "2026-10-02",
-     "start": "12:00",
-     "pl": "Technologie informatyczne",
-     "post": 7,
-     "posts": [
-      7
-     ]
-    },
-    {
-     "type": "cancel",
      "date": "2026-10-16",
      "start": "12:00",
      "pl": "Technologie informatyczne",
@@ -831,19 +752,6 @@
      "posts": [
       3
      ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-30",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Technologie informatyczne",
-     "k": "LAB",
-     "p": "dr Magdalena Kotnis",
-     "r": "s. SIL 126/127 lab",
-     "post": 7,
-     "dup": true
     },
     {
      "type": "extra",
@@ -928,6 +836,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:05:03.910Z"
+  "updatedAt": "2026-11-24T15:56:43.492Z"
  }
 }

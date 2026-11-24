@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-19T14:05:46.797Z",
- "checkedAt": "2026-11-23T19:02:36.991Z",
+ "checkedAt": "2026-11-24T15:52:19.576Z",
  "groups": {
   "BN3": {
    "odd": [
@@ -1337,6 +1337,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zajecia-z-dr-diana-bluszcz-odwolane/",
+    "title": "Zajęcia z dr Dianą Bluszcz odwołane",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Informujemy, że w dniach 24 XI – 26 XI zajęcia z panią dr Dianą Bluszcz są odwołane."
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-realizacji-zajec-z-mgr-wojciechem-wilczko/",
     "title": "Zmiana terminu realizacji zajęć z mgr. Wojciechem Wilczko",
     "ym": "2026-11",
@@ -1369,18 +1376,24 @@
    "BN3": [
     {
      "type": "note",
-     "date": "2026-12-03",
+     "date": "2026-11-24",
      "post": 0,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-12-03",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
      "date": "2026-12-10",
-     "post": 0,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:13:04.456Z"
+  "updatedAt": "2026-11-24T15:58:56.068Z"
  }
 }

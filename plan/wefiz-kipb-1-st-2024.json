@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "23.11.2026 13:17",
- "changedAt": "2026-11-08T20:22:15.468Z",
- "checkedAt": "2026-11-23T18:54:48.890Z",
+ "updated": "24.11.2026 12:48",
+ "changedAt": "2026-11-24T15:41:44.701Z",
+ "checkedAt": "2026-11-24T15:41:44.701Z",
  "groups": {
   "C321": {
    "odd": [
@@ -112,17 +112,6 @@
      "k": "X",
      "p": "dr Marcin Janowski",
      "r": "s. 003"
-    },
-    {
-     "d": 3,
-     "s": 1,
-     "pl": "Odrabianie seminarium",
-     "k": "X",
-     "dates": [
-      "2026-10-22"
-     ],
-     "n": "Jednorazowo: 22.10.2026",
-     "x": "dr hab. prof. US Katarzyna Kozioł-Nadolna gab.525"
     },
     {
      "d": 4,
@@ -354,18 +343,6 @@
      "r": "s. SIL 325"
     },
     {
-     "d": 3,
-     "s": 3,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "p": "dr hab. M. Różycka",
-     "r": "sala 112",
-     "dates": [
-      "2026-10-29"
-     ],
-     "n": "Jednorazowo: 29.10.2026"
-    },
-    {
      "d": 4,
      "s": 3,
      "pl": "Język angielski gr. 3 ul. wawrzyniaka 15, s.209 mgr. a. szubryt",
@@ -378,18 +355,6 @@
      "k": "S",
      "p": "dr Arkadiusz Marchewka",
      "r": "gab. 413"
-    },
-    {
-     "d": 3,
-     "s": 4,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "p": "dr hab. M. Różycka",
-     "r": "sala 112",
-     "dates": [
-      "2026-10-29"
-     ],
-     "n": "Jednorazowo: 29.10.2026"
     },
     {
      "d": 3,
@@ -506,17 +471,6 @@
      "r": "s. 003"
     },
     {
-     "d": 3,
-     "s": 1,
-     "pl": "Odrabianie seminarium",
-     "k": "X",
-     "dates": [
-      "2026-10-22"
-     ],
-     "n": "Jednorazowo: 22.10.2026",
-     "x": "dr hab. prof. US Katarzyna Kozioł-Nadolna gab.525"
-    },
-    {
      "d": 4,
      "s": 1,
      "pl": "Język angielski gr. 1 ul. wawrzyniaka 15, s.209 mgr a. szubryt",
@@ -746,18 +700,6 @@
      "r": "s. SIL 325"
     },
     {
-     "d": 3,
-     "s": 3,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "p": "dr hab. M. Różycka",
-     "r": "sala 112",
-     "dates": [
-      "2026-10-29"
-     ],
-     "n": "Jednorazowo: 29.10.2026"
-    },
-    {
      "d": 4,
      "s": 3,
      "pl": "Język angielski gr. 3 ul. wawrzyniaka 15, s.209 mgr. a. szubryt",
@@ -770,18 +712,6 @@
      "k": "S",
      "p": "dr Arkadiusz Marchewka",
      "r": "gab. 413"
-    },
-    {
-     "d": 3,
-     "s": 4,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "p": "dr hab. M. Różycka",
-     "r": "sala 112",
-     "dates": [
-      "2026-10-29"
-     ],
-     "n": "Jednorazowo: 29.10.2026"
     },
     {
      "d": 3,
@@ -1013,9 +943,9 @@
      "end": "15:15",
      "pl": "Odrabianie zajęć",
      "k": "X",
+     "p": "dr hab. Monika Różycka",
      "r": "s. 112",
-     "post": 3,
-     "dup": true
+     "post": 3
     },
     {
      "type": "extra",
@@ -1025,9 +955,9 @@
      "end": "17:00",
      "pl": "Odrabianie zajęć",
      "k": "X",
+     "p": "dr hab. Monika Różycka",
      "r": "s. 112",
-     "post": 3,
-     "dup": true
+     "post": 3
     },
     {
      "type": "extra",
@@ -1100,9 +1030,9 @@
      "end": "15:15",
      "pl": "Odrabianie zajęć",
      "k": "X",
+     "p": "dr hab. Monika Różycka",
      "r": "s. 112",
-     "post": 3,
-     "dup": true
+     "post": 3
     },
     {
      "type": "extra",
@@ -1112,9 +1042,9 @@
      "end": "17:00",
      "pl": "Odrabianie zajęć",
      "k": "X",
+     "p": "dr hab. Monika Różycka",
      "r": "s. 112",
-     "post": 3,
-     "dup": true
+     "post": 3
     },
     {
      "type": "extra",
@@ -1144,6 +1074,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:11:34.137Z"
+  "updatedAt": "2026-11-24T15:55:49.484Z"
  }
 }

@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
  "wersja": "42 plików zjazdów (16 dni)",
- "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
+ "sha256": "29847f978d61035eebdcd3ea125f90fe23f7aa50a5704dca71f3843ab567ff1b",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-23T19:02:36.991Z",
+ "changedAt": "2026-11-24T15:52:19.576Z",
+ "checkedAt": "2026-11-24T15:52:19.576Z",
  "groups": {
   "PPIW3": {
    "odd": [
@@ -160,6 +160,20 @@
     },
     {
      "d": 5,
+     "pl": "Metodyk edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Metodyka edukacji polonistycznej",
      "k": "CW",
      "time": [
@@ -170,20 +184,6 @@
      "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
-     "k": "W",
-     "time": [
-      "11:45",
-      "14:15"
-     ],
-     "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
      ]
     },
     {
@@ -226,20 +226,6 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-10"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
-     "k": "CW",
-     "time": [
-      "14:15",
-      "16:00"
-     ],
-     "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
      ]
     },
     {
@@ -386,14 +372,14 @@
     },
     {
      "d": 6,
-     "pl": "Metodyk edukacji matematycznej",
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
      "k": "W",
      "time": [
       "11:45",
-      "16:00"
+      "14:15"
      ],
-     "p": "dr L. Pawlusińska",
-     "r": "s. 40 ul. Ogińskiego 16-17",
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
      ]
@@ -424,6 +410,19 @@
      "r": "online",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "dates": [
+      "2026-11-29"
      ]
     },
     {
@@ -585,6 +584,20 @@
     },
     {
      "d": 5,
+     "pl": "Metodyk edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Metodyka edukacji polonistycznej",
      "k": "CW",
      "time": [
@@ -595,20 +608,6 @@
      "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
-     "k": "W",
-     "time": [
-      "11:45",
-      "14:15"
-     ],
-     "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
      ]
     },
     {
@@ -651,20 +650,6 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-10"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
-     "k": "CW",
-     "time": [
-      "14:15",
-      "16:00"
-     ],
-     "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
      ]
     },
     {
@@ -811,14 +796,14 @@
     },
     {
      "d": 6,
-     "pl": "Metodyk edukacji matematycznej",
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
      "k": "W",
      "time": [
       "11:45",
-      "16:00"
+      "14:15"
      ],
-     "p": "dr L. Pawlusińska",
-     "r": "s. 40 ul. Ogińskiego 16-17",
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
      ]
@@ -849,6 +834,19 @@
      "r": "online",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr hab.K. Nerlicki, prof.US",
+     "dates": [
+      "2026-11-29"
      ]
     },
     {

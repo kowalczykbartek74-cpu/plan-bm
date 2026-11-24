@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "23.11.2026 13:17",
+ "updated": "24.11.2026 12:48",
  "changedAt": "2026-11-23T15:47:55.365Z",
- "checkedAt": "2026-11-23T18:54:48.874Z",
+ "checkedAt": "2026-11-24T15:39:11.694Z",
  "groups": {
   "C211": {
    "odd": [
@@ -1110,13 +1110,6 @@
     "ym": "2026-10",
     "pub": "2026-10-13",
     "text": "Nastąpiła zmiana w planie w środę parzystą bardzo proszę o zapoznanie się z nowym planem zajęć. GODZ. 8:15 CONSUMER BEHAVIOUR (ZACHOWANIA KONSUMENTÓW) (LB) GRUPA A"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c211-grupa-a/",
-    "title": "GRUPA C211 grupa A",
-    "ym": "2026-10",
-    "pub": "2026-10-09",
-    "text": "Dnia 13.10.2026 zostają odwołane zajęcia grupa A z mgr Mateuszem Mostowskim Termin odrobienia zostanie ustalony na kolejnych zajęciach. Dear Students, as I will be away on a business trip to attend a conference from 13 to 17 October, our classes (group A labs) will not take place. We will agree on a date to make them up together at our next meeting. Best regards!"
    }
   ],
   "zmiany": {
@@ -1162,17 +1155,6 @@
      "post": 6,
      "posts": [
       6
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-13",
-     "start": "8:15",
-     "pl": "Statystyka opisowa",
-     "g": "A",
-     "post": 10,
-     "posts": [
-      10
      ]
     },
     {
@@ -1554,6 +1536,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:03:17.311Z"
+  "updatedAt": "2026-11-24T15:54:57.760Z"
  }
 }

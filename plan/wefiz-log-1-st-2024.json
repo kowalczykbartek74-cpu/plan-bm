@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "23.11.2026 13:17",
+ "updated": "24.11.2026 12:48",
  "changedAt": "2026-11-08T20:22:57.701Z",
- "checkedAt": "2026-11-23T18:54:48.894Z",
+ "checkedAt": "2026-11-24T15:42:30.945Z",
  "groups": {
   "C331": {
    "odd": [
@@ -730,6 +730,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c321-c332-c361/",
+    "title": "GRUPA C331, C332, C361",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Dnia 27.11.2026 i 04.12.2026 zajęcia 3r. I stopnia Logistyka i Logistyka inż. z mgr Agnieszką Jakóbiak zostają odwołane zajęcia. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c331-19/",
     "title": "GRUPA C331",
     "ym": "2026-10",
@@ -744,10 +751,20 @@
      "date": "2026-10-28",
      "start": "10:00",
      "pl": "Systemy informatyczne w transporcie ładunków",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-27",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-12-04",
+     "post": 0
     },
     {
      "type": "extra",
@@ -759,12 +776,23 @@
      "k": "LAB",
      "p": "dr Sylwia Kowalska",
      "r": "s. 124/125 SIL",
-     "post": 0,
+     "post": 1,
      "dup": true
     }
    ],
-   "C332": []
+   "C332": [
+    {
+     "type": "note",
+     "date": "2026-11-27",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-12-04",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-08T20:38:22.602Z"
+  "updatedAt": "2026-11-24T15:56:34.724Z"
  }
 }

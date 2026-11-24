@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-23T19:03:47.007Z",
+ "checkedAt": "2026-11-24T15:53:40.429Z",
  "groups": {
   "PRAWO4": {
    "odd": [
@@ -2635,6 +2635,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-gr-2-odrobienie-cwiczen-z-przedmiotu-prawo-spadkowe-dr-m-bialkowski/",
+    "title": "SSP IV (gr. 2) – odrobienie ćwiczeń z przedmiotu Prawo spadkowe (dr M. Białkowski)",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Informujemy, że ćwiczenia z przedmiotu Prawo spadkowe (gr. 2) odbędzie się w terminie 26.11.2026 (poprzez wydłużenie planowych zajęć do godziny 11.30) oraz w dniu 3.12.2026 w godzinach 10.45 – 11.30 (sala 119 Narutowicza)."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iv-r-przelozenie-seminarium-dyplomowego-prof-k-swiech-kujawska/",
     "title": "SSP IV r. – przełożenie seminarium dyplomowego ( prof. K.Święch-Kujawska)",
     "ym": "2026-11",
@@ -2787,13 +2794,6 @@
     "ym": "2026-10",
     "pub": "2026-10-07",
     "text": "Informujemy, że wykład z przedmiotu historia prawa i myśli polityczno-prawnych w dniu 12.10.2026 r. odbędzie się w godzinach 8:15-10:45 aula 7-9 Al. Piastów 40b."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/iv-r-ssp-podzial-na-grupy-modulowe/",
-    "title": "IV r. SSP – Podział na grupy modułowe",
-    "ym": "2026-10",
-    "pub": "2026-10-01",
-    "text": "Przedstawimy podział na grupy modułowe dla IV roku studiów stacjonarnych dla kierunku prawo (IV rok SSP). MODUŁ: Praktyczn e aspekty wykonywania zawodów prawniczych I 1. Warsztaty prawnicze z pisania pism sądowych i urzędowych gr. 1: A – Czyż, gr. 2: Ćw – Jaś, gr. 3: Jesi – Kubiak D, gr. 4 : Kubik – Mr, gr. 5: Mul – Rom, gr. 6: Ryb – Szydł, gr. 7: Szyn – Ż. 2. Rozprawa sądowa: gr. 1: B – Mak, gr. 2: Mal – Żuk."
    }
   ],
   "zmiany": {
@@ -2801,13 +2801,7 @@
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 17
-    },
-    {
-     "type": "note",
-     "date": "2026-10-12",
-     "post": 20,
-     "niska": true
+     "post": 18
     },
     {
      "type": "note",
@@ -2817,13 +2811,14 @@
     },
     {
      "type": "note",
-     "date": "2026-10-15",
-     "post": 10
+     "date": "2026-10-12",
+     "post": 22,
+     "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 15
+     "post": 11
     },
     {
      "type": "note",
@@ -2832,17 +2827,22 @@
     },
     {
      "type": "note",
+     "date": "2026-10-15",
+     "post": 17
+    },
+    {
+     "type": "note",
      "date": "2026-10-16",
-     "post": 14
+     "post": 15
     },
     {
      "type": "cancel",
      "date": "2026-11-03",
      "start": "08:15",
      "pl": "Prawo rodzinne",
-     "post": 11,
+     "post": 12,
      "posts": [
-      11
+      12
      ]
     },
     {
@@ -2850,9 +2850,9 @@
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Prawo rodzinne",
-     "post": 11,
+     "post": 12,
      "posts": [
-      11
+      12
      ]
     },
     {
@@ -2860,9 +2860,9 @@
      "date": "2026-11-03",
      "start": "11:45",
      "pl": "Prawo rodzinne",
-     "post": 11,
+     "post": 12,
      "posts": [
-      11
+      12
      ]
     },
     {
@@ -2870,15 +2870,15 @@
      "date": "2026-11-03",
      "start": "13:30",
      "pl": "Prawo rodzinne",
-     "post": 11,
+     "post": 12,
      "posts": [
-      11
+      12
      ]
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 9,
+     "post": 10,
      "niska": true
     },
     {
@@ -2886,14 +2886,46 @@
      "date": "2026-11-12",
      "start": "10:00",
      "pl": "Prawo spadkowe",
-     "post": 6,
+     "post": 7,
      "posts": [
-      6
+      7
      ]
     },
     {
      "type": "cancel",
      "date": "2026-11-19",
+     "start": "13:30",
+     "pl": "Seminarium dyplomowe",
+     "post": 2,
+     "posts": [
+      2
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 4
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 5,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 5,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-03",
      "start": "13:30",
      "pl": "Seminarium dyplomowe",
      "post": 1,
@@ -2902,40 +2934,13 @@
      ]
     },
     {
-     "type": "note",
-     "date": "2026-11-26",
-     "post": 3
-    },
-    {
-     "type": "note",
-     "date": "2026-11-26",
-     "post": 4,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-12-03",
-     "post": 4,
-     "niska": true
-    },
-    {
-     "type": "cancel",
-     "date": "2026-12-03",
-     "start": "13:30",
-     "pl": "Seminarium dyplomowe",
-     "post": 0,
-     "posts": [
-      0
-     ]
-    },
-    {
      "type": "cancel",
      "date": "2027-01-12",
      "start": "11:45",
      "pl": "Postępowanie cywilne I",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
@@ -2943,13 +2948,13 @@
      "date": "2027-01-12",
      "start": "13:30",
      "pl": "Postępowanie cywilne I",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:14:13.460Z"
+  "updatedAt": "2026-11-24T15:59:16.957Z"
  }
 }

@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-fab9db0ee715",
+ "wersja": "planynst-0b4a55babbb5",
  "kierunek": "Ekonomia",
  "kierunekEn": "Economics",
  "id": "wefiz-ek-1-nst-2026",
@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-17T14:22:25.446Z",
- "checkedAt": "2026-11-23T18:58:36.102Z",
+ "checkedAt": "2026-11-24T15:48:17.294Z",
  "groups": {
   "A10": {
    "odd": [
@@ -1454,6 +1454,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m110-odrabianie-zajec-z-dr-anna-scibior-butrym-w-dniu-08-12-2026-r/",
+    "title": "M110-odrabianie zajęć z dr Anną Ścibior-Butrym w dniu 08.12.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Odrobienie zajęć z przedmiotu wstęp do zarządzania z Panią dr Anną Ścibior_Butrym z 16.11.2026 odbędzie się 08.12.2026 w godz. 13.45-15.15, sala S03"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/grupa-m110-ekonomia-1-rok-i-stopien/",
     "title": "Grupa M110 – Ekonomia 1 rok I stopień",
     "ym": "2026-10",
@@ -1466,10 +1473,10 @@
     {
      "type": "note",
      "date": "2026-10-19",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:05:48.586Z"
+  "updatedAt": "2026-11-24T15:58:02.231Z"
  }
 }

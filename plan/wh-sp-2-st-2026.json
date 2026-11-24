@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-23-XI-2026-1.xlsx",
- "wersja": "2026-11-23",
- "sha256": "93fb5c700082b610408c5e21a7cb3faac868a22192190db32eff48f240eec7e2",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+ "wersja": "2026-11-24",
+ "sha256": "a02bbbe4824430f50c32239be53b8c26935f53e3694b49efbc1ec8840b5da2ae",
  "kierunek": "Studia pisarskie",
  "kierunekEn": "Creative Writing",
  "id": "wh-sp-2-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-23T16:01:02.980Z",
- "checkedAt": "2026-11-23T19:02:36.110Z",
+ "changedAt": "2026-11-24T15:52:18.717Z",
+ "checkedAt": "2026-11-24T15:52:18.717Z",
  "groups": {
   "SP1": {
    "odd": [
@@ -44,10 +44,10 @@
     {
      "d": 0,
      "time": [
-      "15:15",
-      "18:30"
+      "18:45",
+      "20:15"
      ],
-     "pl": "Literackie rewolucje i skandale w + od 17:00, kolejne od g. )",
+     "pl": "Literackie rewolucje i skandale w + w tym: 30.11 – o g. 15:15-16:45 i od",
      "k": "W",
      "p": "dr Mariusz Strzeżek",
      "r": "s. 17-19",
@@ -62,7 +62,8 @@
       "2027-01-18",
       "2027-01-25",
       "2027-02-01"
-     ]
+     ],
+     "n": "14.12 – 18:30"
     },
     {
      "d": 1,
@@ -174,10 +175,10 @@
     {
      "d": 0,
      "time": [
-      "15:15",
-      "18:30"
+      "18:45",
+      "20:15"
      ],
-     "pl": "Literackie rewolucje i skandale w + od 17:00, kolejne od g. )",
+     "pl": "Literackie rewolucje i skandale w + w tym: 30.11 – o g. 15:15-16:45 i od",
      "k": "W",
      "p": "dr Mariusz Strzeżek",
      "r": "s. 17-19",
@@ -192,7 +193,8 @@
       "2027-01-18",
       "2027-01-25",
       "2027-02-01"
-     ]
+     ],
+     "n": "14.12 – 18:30"
     },
     {
      "d": 1,
@@ -421,6 +423,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-mariusz-strzezek-zastepstwo-na-zajeciach/",
+    "title": "dr Mariusz Strzeżek- zastępstwo na zajęciach",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "zastępstwo za dr Mariusza Strzeżka W terminie od 24.11 – do 15.12 odbędą się zastępstwa za dr Mariusza Strzeżka dla kierunków SP-SI 1 i 2 rok oraz SP-SII 1 rok."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-jedrzej-wijas-przelozenie-zajec/",
     "title": "dr Jędrzej Wijas- przełożenie zajęć",
     "ym": "2026-10",
@@ -433,11 +442,11 @@
     {
      "type": "note",
      "date": "2026-10-27",
-     "post": 0,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.944Z"
+  "updatedAt": "2026-11-24T15:58:45.572Z"
  }
 }

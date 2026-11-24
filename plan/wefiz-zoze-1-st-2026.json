@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "23.11.2026 13:17",
- "changedAt": "2026-11-08T18:37:55.356Z",
- "checkedAt": "2026-11-23T18:54:48.906Z",
+ "updated": "24.11.2026 12:48",
+ "changedAt": "2026-11-24T15:44:28.843Z",
+ "checkedAt": "2026-11-24T15:44:28.843Z",
  "groups": {
   "C141": {
    "odd": [
@@ -233,6 +233,17 @@
      "r": "s. 507"
     },
     {
+     "d": 3,
+     "s": 2,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 307 dr Magdalena Ławicka",
+     "dates": [
+      "2027-01-14"
+     ],
+     "n": "Jednorazowo: 14.01.2027"
+    },
+    {
      "d": 4,
      "s": 2,
      "pl": "Ekonomia",
@@ -247,6 +258,17 @@
      "k": "W",
      "p": "dr Magdalena Kogut-Jaworska",
      "r": "s. 507"
+    },
+    {
+     "d": 3,
+     "s": 3,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala 307 dr Magdalena Ławicka",
+     "dates": [
+      "2027-01-14"
+     ],
+     "n": "Jednorazowo: 14.01.2027"
     },
     {
      "d": 4,

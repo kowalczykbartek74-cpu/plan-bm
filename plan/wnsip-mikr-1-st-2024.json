@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-23T19:03:26.259Z",
+ "checkedAt": "2026-11-24T15:53:19.057Z",
  "groups": {
   "MIKR3": {
    "odd": [
@@ -1311,6 +1311,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-i-st-3-rok-odwolany-wyklad-z-diagnostyki-zakazen-w-dniu-24-11/",
+    "title": "Mikrobiologia I st. 3 rok – odwołany wykład z diagnostyki zakażeń w dniu 24.11",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Ze względu na zaistnienie nieprzewidzianych spraw osobistych przekładam wykład. dr hab. Beata Hukowska-Szematowicz, prof US Termin odrobienia wykładu należy ustalić z prowadzącą na kolejnym spotkaniu."
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/odwolane-zajecia-z-jezyka-niemieckiego-z-mgr-m-kisiel-spychala/",
     "title": "Odwołane zajęcia z języka niemieckiego z mgr M. Kisiel-Spychałą",
     "ym": "2026-11",
@@ -1332,19 +1339,24 @@
      "date": "2026-10-28",
      "start": "12:35",
      "pl": "Metody instrumentalne w diagnostyce laboratoryjnej",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
      "type": "note",
+     "date": "2026-11-24",
+     "post": 0
+    },
+    {
+     "type": "note",
      "date": "2026-11-27",
-     "post": 0,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-18T14:08:21.237Z"
+  "updatedAt": "2026-11-24T15:59:16.668Z"
  }
 }

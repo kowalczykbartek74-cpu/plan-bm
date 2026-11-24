@@ -1,7 +1,7 @@
 {
- "source": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt.-09.11..pdf",
- "wersja": "2026-11-09",
- "sha256": "4b8ca011816314dbde12cfed5e9cf0d038208c9ebcdc4a1368654029d32f1402",
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt.-24.11.pdf",
+ "wersja": "2026-11-24",
+ "sha256": "dfe69606cd3235f5aa8ed591a2a8fd4884c27f0ffa8e37eff51679e84ebb26c2",
  "kierunek": "Oceanografia",
  "kierunekEn": "Oceanography",
  "id": "wnsip-ocean-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:50:40.599Z",
- "checkedAt": "2026-11-23T19:03:26.259Z",
+ "changedAt": "2026-11-24T15:53:19.057Z",
+ "checkedAt": "2026-11-24T15:53:19.057Z",
  "groups": {
   "OCEAN3": {
    "odd": [
@@ -57,7 +57,8 @@
       "2026-11-23",
       "2026-11-30",
       "2026-12-07",
-      "2026-12-14"
+      "2026-12-14",
+      "2026-12-21"
      ]
     },
     {
@@ -443,7 +444,8 @@
       "2026-11-23",
       "2026-11-30",
       "2026-12-07",
-      "2026-12-14"
+      "2026-12-14",
+      "2026-12-21"
      ]
     },
     {

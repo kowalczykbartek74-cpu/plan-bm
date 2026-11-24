@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-23T19:03:47.007Z",
+ "checkedAt": "2026-11-24T15:53:40.429Z",
  "groups": {
   "PSM3": {
    "odd": [
@@ -713,6 +713,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/psm-i-st-iii-r-zmiana-sali-w-dn-25-11-2026-r-zajecia-z-przedmiotu-typologia-broni/",
+    "title": "PSM I st. III r. – zmiana sali w dn. 25.11.2026 r. (zajęcia z przedmiotu Typologia broni)",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Informujemy, ze zajęcia z przedmiotu Typologia broni w dn. 25.11.2026 r. odbędą się w sali 117 Narutowicza o godz. 14:45."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/psm-i-st-iii-r-zmiana-sali-w-dn-30-x-uslugi-detektywistyczne-mgr-n-michalska/",
     "title": "PSM I st. III r. – zmiana sali w dn. 30.X (usługi detektywistyczne, mgr N. Michalska)",
     "ym": "2026-10",
@@ -739,16 +746,39 @@
     {
      "type": "note",
      "date": "2026-10-22",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-30",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "change",
+     "date": "2026-11-25",
+     "start": "14:45",
+     "end": "16:15",
+     "pl": "Typologia broni",
+     "k": "K",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 117",
      "post": 0
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-25",
+     "start": "15:15",
+     "pl": "Typologia broni",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.554Z"
+  "updatedAt": "2026-11-24T15:59:17.083Z"
  }
 }

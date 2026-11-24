@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-128.pdf",
- "wersja": "EA-I-128.pdf",
- "sha256": "be2ebb85b0a6e636cf6447bebddb3c139b002c90e1b26e396365cb037b96f03b",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-129.pdf",
+ "wersja": "EA-I-129.pdf",
+ "sha256": "230d66014c831ef2aaee2adfdfdd51a46f9aadf83ef5013570f336761644cab5",
  "kierunek": "Edukacja artystyczna",
  "kierunekEn": "Art Education",
  "id": "wns-ea-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-23T16:01:03.706Z",
- "checkedAt": "2026-11-23T19:02:36.991Z",
+ "changedAt": "2026-11-24T15:52:19.576Z",
+ "checkedAt": "2026-11-24T15:52:19.576Z",
  "groups": {
   "EA3": {
    "odd": [
@@ -86,6 +86,28 @@
      ],
      "p": "dr L. Marek",
      "r": "s. 011 ul. Krakowska 71-79"
+    },
+    {
+     "d": 1,
+     "pl": "Dyrygowanie z czytaniem partytur",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
     },
     {
      "d": 1,
@@ -251,6 +273,28 @@
      "p": "dr K. Łuszczek",
      "r": "s. 49 ul. Ogińskiego 16-17",
      "n": "pierwsze zaj od g. 15:15; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Harmonia z elementami kompozycji i akompaniamentu",
+     "k": "LAB",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "mgr J. Jagodziński",
+     "r": "s. 58 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-02",
       "2026-12-09",
@@ -461,6 +505,28 @@
     },
     {
      "d": 1,
+     "pl": "Dyrygowanie z czytaniem partytur",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
      "pl": "Rysunek i malarstwo",
      "k": "LAB",
      "time": [
@@ -623,6 +689,28 @@
      "p": "dr K. Łuszczek",
      "r": "s. 49 ul. Ogińskiego 16-17",
      "n": "pierwsze zaj od g. 15:15; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Harmonia z elementami kompozycji i akompaniamentu",
+     "k": "LAB",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "mgr J. Jagodziński",
+     "r": "s. 58 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-02",
       "2026-12-09",

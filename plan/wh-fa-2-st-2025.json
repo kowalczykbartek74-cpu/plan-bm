@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-23T19:02:36.110Z",
+ "checkedAt": "2026-11-24T15:52:18.717Z",
  "groups": {
   "FA2": {
    "odd": [
@@ -873,6 +873,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-barbara-braid-odwolanie-zajec-9/",
+    "title": "dr Barbara Braid- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Dzień dobry, informujemy, że pracownik Barbara Braid zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-25 17:00 – – – FANG-SII.25-2-SEM4.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności inne Uzasadnienie Pobyt członka rodziny w szpitalu Proponowana treść ogłoszenia dla studentów: Zajęcia dr Barbary Braid w dniu 25 listopada zostają odwołane. Zostaną one odrobione w późniejszym terminie."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-krystian-gradz-odwolanie-zajec-2/",
     "title": "dr Krystian Grądz- odwołanie zajęć",
     "ym": "2026-11",
@@ -906,16 +913,16 @@
      "k": "S",
      "p": "dr Monika Szymczak - Kordulasińska",
      "r": "(online)",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
      "date": "2026-10-28",
      "start": "08:15",
      "pl": "Konwersatorium do wyboru: Issues in Intercultural Communication",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -924,9 +931,19 @@
      "start": "10:00",
      "pl": "Seminarium mgr",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-25",
+     "start": "17:00",
+     "pl": "Seminaria magisterskie ONLINE -wszyscy promotorzy (dokładne zostaną ustalone przez promotora na I ch)",
+     "post": 0,
+     "posts": [
+      0
      ]
     },
     {
@@ -935,9 +952,9 @@
      "start": "13:30",
      "pl": "(co 2 tyg.) Konwersatorium do wyboru: Death and Culture",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -950,10 +967,10 @@
      "k": "K",
      "p": "dr Krystian Grądz",
      "r": "s. 310",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:46:23.906Z"
+  "updatedAt": "2026-11-24T15:58:44.219Z"
  }
 }

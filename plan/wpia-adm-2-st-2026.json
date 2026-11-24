@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-23T19:03:47.007Z",
+ "checkedAt": "2026-11-24T15:53:40.429Z",
  "groups": {
   "ADM1": {
    "odd": [
@@ -731,27 +731,10 @@
     "ym": "2026-10",
     "pub": "2026-10-14",
     "text": "Terminy zapisów: od dnia 15 października 2026 r. do dnia 20 października 2026 r. Miejsce zapisów: zapisy odbywają się w systemie e-PRODZIEKAN – na indywidualnym koncie studenta. Instrukcja zapisów jest dostępna na stronie: https://wpia.usz.edu.pl/zapisy-na-przedmioty-specjalnosci-i-seminaria w zakładce E-PRODZIEKAN – dokonywanie WYBORÓW/ZAPISÓW – instrukcja (kliknij TUTAJ) Sylabusy: Kształcenie → Plany i sylabusy → Sylabusy → administracja – Studia stacjonarne → Sylabusy do planu studiów 2026/2027 Ważne : w ramach każdego modułu należy wybrać tylko jeden przedmiot. W przypadku problemów prosimy o zgłoszenie na adres e-mail Sekcji ds. Kształcenia: sk.pia@usz.edu.pl Przedmioty do wyboru w ramach modułu (przedmioty będą realizowane w semestrze letnim w roku akademickim 2026/2027): Przedmiot do wyboru 1 Electoral law Prawo wyborcze Moduł Postępowanie sądowoadministracyjne Postępowanie sądowoadministracyjne – wersja klasyczna Postępowanie sądowoadministracyjne – wersja PBL Wyniki zapisów zostaną przedstawione w formie ogłoszenia na stronie Ogłoszenia DOS Narutowicza | Dział Obsługi Studenta"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-ii-st-i-r-zmiana-terminu-wykladu-z-przedmiotu-historia-mysli-ustrojowo-administracyjnej-dr-hab-m-tkaczuk-prof-us/",
-    "title": "SSA II st. I r. – zmiana terminu wykładu z przedmiotu Historia myśli ustrojowo-administracyjnej (dr hab. M. Tkaczuk, prof. US)",
-    "ym": "2026-10",
-    "pub": "2026-10-01",
-    "text": "Informujemy, że wykład z przedmiotu Historia myśli ustrojowo-administracyjnej w dniu 13.10.2026 r. nie odbędzie się i zostaje przełożony na dzień 6.10.2026 r. w godzinach 10.00 – 11.30, s. 119 Narutowicza"
    }
   ],
   "zmiany": {
    "ADM1": [
-    {
-     "type": "cancel",
-     "date": "2026-10-13",
-     "start": "10:00",
-     "pl": "Historia myśli ustrojowo-administracyjnej",
-     "post": 8,
-     "posts": [
-      8
-     ]
-    },
     {
      "type": "note",
      "date": "2026-10-15",
@@ -791,6 +774,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:14:13.378Z"
+  "updatedAt": "2026-11-24T15:59:16.863Z"
  }
 }

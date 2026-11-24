@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
- "wersja": "PedO-II-79.pdf",
- "sha256": "b6212bd0146bf1b02a5b81d77ba1fd5763d4923eba2c6a8559e90c58cc221886",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-81.pdf",
+ "wersja": "PedO-II-81.pdf",
+ "sha256": "dd0413ff4cbbca7ae16709eb9b2b0fd371b5f09c9e256a4284a68e9fe56ccd1c",
  "kierunek": "Pedagogika",
  "kierunekEn": "Pedagogy",
  "id": "wns-pedo-2-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-23T19:02:36.991Z",
+ "changedAt": "2026-11-24T15:52:19.576Z",
+ "checkedAt": "2026-11-24T15:52:19.576Z",
  "groups": {
   "PEDO1": {
    "odd": [
@@ -204,8 +204,8 @@
       "16:45"
      ],
      "p": "dr hab. L. Dziaczkowska, prof. US",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "n": "ost zaj do g. 12:30",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "ost zaj w g. 13:30-14:15,s.",
      "dates": [
       "2026-10-07",
       "2026-10-14",
@@ -482,8 +482,8 @@
       "16:45"
      ],
      "p": "dr hab. L. Dziaczkowska, prof. US",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "n": "ost zaj do g. 12:30",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "ost zaj w g. 13:30-14:15,s.",
      "dates": [
       "2026-10-07",
       "2026-10-14",

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-23T19:03:26.259Z",
+ "checkedAt": "2026-11-24T15:53:19.057Z",
  "groups": {
   "BIOL1": {
    "odd": [
@@ -1141,6 +1141,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-i-st-1-rok-odwolane-laboratorium-z-biologii-komorki-w-dniu-25-11/",
+    "title": "Mikrobiologia I st. 1 rok – odwołane laboratorium z biologii komórki w dniu 25.11",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Szanowni Państwo, uprzejmie informuję, że z uwagi na mój udział w konferencji naukowej zajęcia zostają odwołane. Termin odrobienia zajęć zostanie ustalony w późniejszym czasie, o czym poinformuję Państwa w osobnej wiadomości. Z poważaniem, Ewa Filip"
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/zajecia-waska/2026/11/odwolane-zajecia-z-botaniki-ogolnej-w-dn-13-11-biologia-i-st-1-rok/",
     "title": "odwołane zajęcia z botaniki ogólnej w dn. 13.11. Biologia I st. 1 rok",
     "ym": "2026-11",
@@ -1174,22 +1181,22 @@
     {
      "type": "note",
      "date": "2026-10-23",
-     "post": 3
+     "post": 4
     },
     {
      "type": "note",
      "date": "2026-10-27",
-     "post": 2
+     "post": 3
     },
     {
      "type": "note",
      "date": "2026-11-04",
-     "post": 1
+     "post": 2
     },
     {
      "type": "note",
      "date": "2026-11-13",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -1200,10 +1207,15 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 5",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-11-25",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.072Z"
+  "updatedAt": "2026-11-24T15:59:16.381Z"
  }
 }

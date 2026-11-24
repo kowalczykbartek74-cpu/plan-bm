@@ -1,7 +1,7 @@
 {
- "source": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSP-12.pdf",
- "wersja": "II-NSP-12.pdf",
- "sha256": "a563a35d2d281249b9197e61e8b5afd1048cfa870aa674c65464ff1ab5af8f50",
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSP-13.pdf",
+ "wersja": "II-NSP-13.pdf",
+ "sha256": "e686b5bf775e47ed34b82baab2ae9ff0f7c8fbf5dcaa393ea26ebec1f9ee2a24",
  "kierunek": "Prawo",
  "kierunekEn": "Law",
  "id": "wpia-prawo-0-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-23T19:03:47.007Z",
+ "changedAt": "2026-11-24T15:53:40.429Z",
+ "checkedAt": "2026-11-24T15:53:40.429Z",
  "groups": {
   "PRAWO2": {
    "odd": [
@@ -600,6 +600,7 @@
      "pl": "Prawo cywilne część ogólna",
      "k": "CW",
      "p": "dr D. Ambrożuk- Wesołowska",
+     "r": "s. 220 Narutowicza",
      "pg": "Prawo cywilne część ogólna:1",
      "dates": [
       "2026-12-05"
@@ -2248,6 +2249,7 @@
      "pl": "Prawo cywilne część ogólna",
      "k": "CW",
      "p": "dr D. Ambrożuk- Wesołowska",
+     "r": "s. 220 Narutowicza",
      "pg": "Prawo cywilne część ogólna:1",
      "dates": [
       "2026-12-05"

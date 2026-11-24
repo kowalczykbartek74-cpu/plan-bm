@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "23.11.2026 13:17",
+ "updated": "24.11.2026 12:48",
  "changedAt": "2026-11-08T18:35:54.901Z",
- "checkedAt": "2026-11-23T18:54:48.879Z",
+ "checkedAt": "2026-11-24T15:39:53.531Z",
  "groups": {
   "M110": {
    "odd": [
@@ -355,6 +355,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m110-odrabianie-zajec-z-dr-anna-scibior-butrym-w-dniu-08-12-2026-r/",
+    "title": "M110-odrabianie zajęć z dr Anną Ścibior-Butrym w dniu 08.12.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Odrobienie zajęć z przedmiotu wstęp do zarządzania z Panią dr Anną Ścibior_Butrym z 16.11.2026 odbędzie się 08.12.2026 w godz. 13.45-15.15, sala S03"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-m110-12/",
     "title": "Grupa M110",
     "ym": "2026-11",
@@ -383,10 +390,10 @@
      "date": "2026-10-19",
      "start": "13:45",
      "pl": "Wstęp do zarządzania",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1,
-      2
+      2,
+      3
      ]
     },
     {
@@ -399,20 +406,32 @@
      "k": "W",
      "p": "dr Anna Ścibior-Butrym",
      "r": "N020",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
      "date": "2026-11-16",
      "start": "13:45",
      "pl": "Wstęp do zarządzania",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Wstęp do zarządzania",
+     "k": "W",
+     "p": "dr Anna Ścibior-Butrym",
+     "r": "S03",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:43:25.391Z"
+  "updatedAt": "2026-11-24T15:55:16.410Z"
  }
 }

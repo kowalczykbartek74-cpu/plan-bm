@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:48:25.524Z",
- "checkedAt": "2026-11-23T19:02:36.110Z",
+ "checkedAt": "2026-11-24T15:52:18.717Z",
  "groups": {
   "FA2": {
    "odd": [
@@ -1563,6 +1563,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-mariusz-strzezek-zastepstwo-na-zajeciach/",
+    "title": "dr Mariusz Strzeżek- zastępstwo na zajęciach",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "zastępstwo za dr Mariusza Strzeżka W terminie od 24.11 – do 15.12 odbędą się zastępstwa za dr Mariusza Strzeżka dla kierunków SP-SI 1 i 2 rok oraz SP-SII 1 rok."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-hab-lukasz-neubauer-odrobienie-zajec/",
     "title": "dr hab. Łukasz Neubauer- odrobienie zajęć",
     "ym": "2026-11",
@@ -1610,13 +1617,13 @@
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-21",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
@@ -1625,9 +1632,9 @@
      "start": "13:30",
      "pl": "Literatura Wysp Brytyjskich",
      "moved": true,
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -1636,9 +1643,9 @@
      "start": "13:30",
      "pl": "Literatura Wysp Brytyjskich",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1651,7 +1658,7 @@
      "k": "CW",
      "p": "dr Jacqueline Woroniec",
      "r": "s. 218",
-     "post": 3
+     "post": 4
     },
     {
      "type": "cancel",
@@ -1659,15 +1666,15 @@
      "start": "13:30",
      "pl": "Literatura Wysp Brytyjskich",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
      "type": "note",
      "date": "2026-12-09",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
@@ -1680,7 +1687,7 @@
      "k": "CW",
      "p": "dr Jacqueline Woroniec",
      "r": "s. 310a",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -1692,10 +1699,10 @@
      "k": "CW",
      "p": "dr Monika Szymczak-Kordulasińska",
      "r": "s. 310",
-     "post": 1
+     "post": 2
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:16:53.234Z"
+  "updatedAt": "2026-11-24T15:58:44.175Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-23T19:03:26.259Z",
+ "checkedAt": "2026-11-24T15:53:19.057Z",
  "groups": {
   "BIOTEC3": {
    "odd": [
@@ -1011,6 +1011,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/biotechnologia-i-st-3-rok-przelozone-zajecia-biofarmaceutyki-w-endokrynologii-z-dr-ewa-skotnicka/",
+    "title": "Biotechnologia I st. 3 rok – przełożone zajęcia – biofarmaceutyki w endokrynologii z dr Ewą Skotnicką",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Szanowni Państwo, wykład i ćwiczenia z przedmiotu „Biofarmaceutyki w endokrynologii” zaplanowane na 15.12.2026. są odwołane. Zajęcia będą zrealizowane w dniu 7.12.2026 (poniedziałek) w godzinach 11.30-13.00 (wykład) i 13:00-16:00 (laboratorium)"
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/biotechnologia-i-st-3-rok-odwolany-wyklad-z-prof-us-dr-hab-m-soroka-w-dniu-25-11/",
     "title": "Biotechnologia I st. 3 rok – odwołany wykład z prof US dr hab. M. Soroką w dniu 25.11",
     "ym": "2026-11",
@@ -1060,26 +1067,6 @@
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Zarys histologii i organografii roślin",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-19",
-     "start": "11:45",
-     "pl": "Zarys histologii i organografii roślin",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "10:00",
-     "pl": "Immunologia",
      "post": 4,
      "posts": [
       4
@@ -1087,12 +1074,32 @@
     },
     {
      "type": "cancel",
+     "date": "2026-10-19",
+     "start": "11:45",
+     "pl": "Zarys histologii i organografii roślin",
+     "post": 4,
+     "posts": [
+      4
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-20",
+     "start": "10:00",
+     "pl": "Immunologia",
+     "post": 5,
+     "posts": [
+      5
+     ]
+    },
+    {
+     "type": "cancel",
      "date": "2026-10-27",
      "start": "10:00",
      "pl": "Immunologia",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -1104,16 +1111,16 @@
      "pl": "Immunologia",
      "k": "X",
      "p": "Prof. P. Niedźwiedzka-Rystwej",
-     "post": 5
+     "post": 6
     },
     {
      "type": "cancel",
      "date": "2026-11-25",
      "start": "10:00",
      "pl": "Diagnostyka molekularna w medycynie",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -1125,7 +1132,7 @@
      "pl": "Diagnostyka molekularna w medycynie",
      "k": "W",
      "p": "prof US dr hab M. Soroka",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -1137,10 +1144,30 @@
      "pl": "Epigenetyka",
      "k": "LAB",
      "p": "dr A. Kalinka",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-15",
+     "start": "08:15",
+     "pl": "Biofarmaceutyki w endokrynologii",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-15",
+     "start": "10:00",
+     "pl": "Biofarmaceutyki w endokrynologii",
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:14:13.021Z"
+  "updatedAt": "2026-11-24T15:59:16.401Z"
  }
 }

@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "23.11.2026 13:17",
+ "updated": "24.11.2026 12:48",
  "changedAt": "2026-11-23T15:47:49.811Z",
- "checkedAt": "2026-11-23T18:54:48.873Z",
+ "checkedAt": "2026-11-24T15:39:06.241Z",
  "groups": {
   "C311": {
    "odd": [
@@ -528,6 +528,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c311-21/",
+    "title": "GRUPA C311",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Dnia 25.11.2026 zostają odwołane zajęcia z dr Pauliną Dąbrosz-Drewnowską. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c311a-2/",
     "title": "GRUPA C311a",
     "ym": "2026-11",
@@ -564,9 +571,9 @@
      "start": "13:45",
      "pl": "Uczenie maszynowe w aplikacjach biznesowych",
      "g": "B",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -574,9 +581,19 @@
      "date": "2026-11-17",
      "start": "8:15",
      "pl": "Seminarium dyplomowe",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-25",
+     "start": "10:00",
+     "pl": "Zarządzanie stresem i konfliktem",
+     "post": 0,
+     "posts": [
+      0
      ]
     },
     {
@@ -585,9 +602,9 @@
      "start": "12:00",
      "pl": "Uczenie maszynowe w aplikacjach biznesowych",
      "g": "A",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -601,16 +618,16 @@
      "k": "S",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 405",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
      "date": "2026-12-01",
      "start": "8:15",
      "pl": "Seminarium dyplomowe",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -624,7 +641,7 @@
      "k": "S",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 404",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -638,10 +655,10 @@
      "p": "mgr inż. Justyna Szydłowska-Samsel",
      "r": "s. SIL 145/146",
      "g": "A",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:03:05.231Z"
+  "updatedAt": "2026-11-24T15:54:46.824Z"
  }
 }

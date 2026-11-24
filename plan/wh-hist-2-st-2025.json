@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-23T19:02:36.110Z",
+ "checkedAt": "2026-11-24T15:52:18.717Z",
  "groups": {
   "HIST2": {
    "odd": [
@@ -743,6 +743,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-mariusz-strzezek-zastepstwo-na-zajeciach/",
+    "title": "dr Mariusz Strzeżek- zastępstwo na zajęciach",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "zastępstwo za dr Mariusza Strzeżka W terminie od 24.11 – do 15.12 odbędą się zastępstwa za dr Mariusza Strzeżka dla kierunków SP-SI 1 i 2 rok oraz SP-SII 1 rok."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/prof-marino-balducci-zmiana-terminow-zajec/",
     "title": "prof Marino Balducci- zmiana terminów zajęć",
     "ym": "2026-10",
@@ -762,23 +769,23 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 0,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-21",
-     "post": 0,
+     "post": 1,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.503Z"
+  "updatedAt": "2026-11-24T15:58:45.078Z"
  }
 }

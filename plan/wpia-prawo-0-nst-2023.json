@@ -1,7 +1,7 @@
 {
- "source": "https://wpia.usz.edu.pl/wp-content/uploads/IV-NSP-7.pdf",
- "wersja": "IV-NSP-7.pdf",
- "sha256": "6c9713df1c9a9c3d11c2602ba2b70126ea0fde544d282fca6ebc6c727928f89a",
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/IV-NSP-8.pdf",
+ "wersja": "IV-NSP-8.pdf",
+ "sha256": "42346c345f0f6fd595df08a405372f20b281b4faaed6cd7eb81f67f8fa3d4bc4",
  "kierunek": "Prawo",
  "kierunekEn": "Law",
  "id": "wpia-prawo-0-nst-2023",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-23T19:03:47.007Z",
+ "changedAt": "2026-11-24T15:53:40.429Z",
+ "checkedAt": "2026-11-24T15:53:40.429Z",
  "groups": {
   "PRAWO4": {
    "odd": [
@@ -333,7 +333,7 @@
      "pl": "Prawo Unii Europejskiej",
      "k": "CW",
      "p": "mgr A. Poczewski",
-     "r": "s. 215 Narutowicza",
+     "r": "s. 218 Narutowicza",
      "pg": "Prawo Unii Europejskiej:1",
      "dates": [
       "2026-12-19"
@@ -731,21 +731,9 @@
      "pl": "Prawo Unii Europejskiej",
      "k": "W",
      "p": "dr hab. A. Kosińska, prof. US",
-     "dates": [
-      "2026-12-05"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "14:00",
-      "17:15"
-     ],
-     "pl": "Prawo Unii Europejskiej",
-     "k": "W",
-     "p": "dr hab. A. Kosińska, prof. US",
      "r": "s. 215 Narutowicza",
      "dates": [
+      "2026-12-05",
       "2027-01-09"
      ]
     },
@@ -1957,7 +1945,7 @@
      "pl": "Prawo Unii Europejskiej",
      "k": "CW",
      "p": "mgr A. Poczewski",
-     "r": "s. 215 Narutowicza",
+     "r": "s. 218 Narutowicza",
      "pg": "Prawo Unii Europejskiej:1",
      "dates": [
       "2026-12-19"
@@ -2355,21 +2343,9 @@
      "pl": "Prawo Unii Europejskiej",
      "k": "W",
      "p": "dr hab. A. Kosińska, prof. US",
-     "dates": [
-      "2026-12-05"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "14:00",
-      "17:15"
-     ],
-     "pl": "Prawo Unii Europejskiej",
-     "k": "W",
-     "p": "dr hab. A. Kosińska, prof. US",
      "r": "s. 215 Narutowicza",
      "dates": [
+      "2026-12-05",
       "2027-01-09"
      ]
     },

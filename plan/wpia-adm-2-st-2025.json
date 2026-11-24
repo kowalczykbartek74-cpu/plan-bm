@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-23T19:03:47.007Z",
+ "checkedAt": "2026-11-24T15:53:40.429Z",
  "groups": {
   "ADM2": {
    "odd": [
@@ -597,13 +597,6 @@
     "ym": "2026-10",
     "pub": "2026-10-30",
     "text": "Informuję, że zajęcia z przedmiotów Podstawy audytu w administracji publicznej oraz Gospodarka komunalna odbędą się w terminach: Podstawy audytu w administracji publicznej: 2 grudnia 2026 w godz. 8,15-9,00 oraz 9 grudnia 2026 w godz. 9,00-9,45 s. 102 Al. Piastów 40b Gospodarka komunalna: 13 stycznia 2027 w godz. 8,15-9,45 s. 102 Al. Piastów 40b"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-ii-st-ii-r-przelozenie-zajec-dydaktycznych-z-przedmiotu-podstawy-audytu-w-administracji-publicznej-oraz-gospodarka-komunalna-prof-dr-hab-robert-suwaj/",
-    "title": "SSA II st. II r. – przełożenie zajęć dydaktycznych z przedmiotu podstawy audytu w administracji publicznej oraz gospodarka komunalna (prof. dr hab. Robert Suwaj)",
-    "ym": "2026-10",
-    "pub": "2026-10-06",
-    "text": "Informujemy, że zajęcia z przedmiotu podstawy audytu w administracji oraz gospodarka komunalna z dnia 07.10.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
    }
   ],
   "zmiany": {
@@ -611,22 +604,11 @@
     {
      "type": "cancel",
      "date": "2026-10-07",
-     "start": "08:15",
-     "pl": "Podstawy audytu w administracji publicznej - PDW 2",
-     "post": 4,
-     "posts": [
-      4
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-07",
      "start": "11:45",
      "pl": "Gospodarka komunalna",
      "post": 3,
      "posts": [
-      3,
-      4
+      3
      ]
     },
     {
@@ -659,6 +641,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:19:12.857Z"
+  "updatedAt": "2026-11-24T15:59:16.844Z"
  }
 }

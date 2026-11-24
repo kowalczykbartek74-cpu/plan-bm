@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-23T19:02:36.110Z",
+ "checkedAt": "2026-11-24T15:52:18.717Z",
  "groups": {
   "HIST2": {
    "odd": [
@@ -871,6 +871,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-mariusz-strzezek-zastepstwo-na-zajeciach/",
+    "title": "dr Mariusz Strzeżek- zastępstwo na zajęciach",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "zastępstwo za dr Mariusza Strzeżka W terminie od 24.11 – do 15.12 odbędą się zastępstwa za dr Mariusza Strzeżka dla kierunków SP-SI 1 i 2 rok oraz SP-SII 1 rok."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/prof-dr-hab-radoslaw-gazinski-odwolanie-zajec-2/",
     "title": "prof. dr hab. Radosław Gaziński-odwołanie zajęć",
     "ym": "2026-11",
@@ -904,7 +911,7 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
@@ -912,9 +919,9 @@
      "date": "2026-10-07",
      "start": "10:00",
      "pl": "Archiwoznawstwo",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -922,21 +929,21 @@
      "date": "2026-10-07",
      "start": "11:45",
      "pl": "Historia ustroju administracyjnego",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
@@ -944,9 +951,9 @@
      "date": "2026-11-12",
      "start": "08:15",
      "pl": "Nowożytne dzieje Pomorza",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -954,9 +961,9 @@
      "date": "2026-11-12",
      "start": "10:00",
      "pl": "Historia powszechna XVI – XVIII w.",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -965,9 +972,9 @@
      "start": "10:00",
      "pl": "Archiwoznawstwo",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -976,9 +983,9 @@
      "start": "11:45",
      "pl": "Historia ustroju administracyjnego",
      "moved": true,
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -986,10 +993,16 @@
      "date": "2026-11-19",
      "start": "08:15",
      "pl": "Nowożytne dzieje Pomorza",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-24",
+     "post": 0,
+     "niska": true
     },
     {
      "type": "extra",
@@ -1001,12 +1014,12 @@
      "k": "W",
      "p": "prof. dr hab. R. Gaziński",
      "r": "sala 134",
-     "post": 0
+     "post": 1
     },
     {
      "type": "note",
      "date": "2026-12-01",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
@@ -1019,16 +1032,16 @@
      "k": "W",
      "p": "prof. dr hab. R. Gaziński",
      "r": "sala 134",
-     "post": 0
+     "post": 1
     },
     {
      "type": "note",
      "date": "2026-12-08",
-     "post": 1,
+     "post": 2,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:30:00.046Z"
+  "updatedAt": "2026-11-24T15:58:45.039Z"
  }
 }
