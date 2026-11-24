@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-24T17:22:14.202Z",
+ "at": "2026-11-24T18:42:50.169Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -5029,36 +5029,6 @@
  "log": [
   {
    "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-fir-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-gn-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-gpi-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-iie-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-iwb-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-kipb-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
    "id": "wefiz-li-1-st-2026",
    "blad": "brak odpowiedzi uczelni: plan"
   },
@@ -6024,6 +5994,36 @@
   },
   {
    "at": "2026-11-24T17:22:14.202Z",
+   "id": "wt-nor-2-st-2025",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T18:42:50.169Z",
+   "id": "wns-pedsp-0-st-2024",
+   "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
+  },
+  {
+   "at": "2026-11-24T18:42:50.169Z",
+   "id": "wt-nor-1-st-2026",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T18:42:50.169Z",
+   "id": "wt-nor-1-st-2025",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T18:42:50.169Z",
+   "id": "wt-nor-1-st-2024",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T18:42:50.169Z",
+   "id": "wt-nor-2-st-2026",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T18:42:50.169Z",
    "id": "wt-nor-2-st-2025",
    "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
   }
