@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
- "wersja": "2026-11-24",
- "sha256": "3953208671d518c01408d230ab2dd5d7ccb7a418de94074f2f5172cf5a11b23c",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-25-XI-2026.xlsx",
+ "wersja": "2026-11-25",
+ "sha256": "e2da5d817f45768c869f4d3e09754620e3661cf93e9a9700c5136ac818ca4830",
  "kierunek": "Filologia hiszpańska",
  "kierunekEn": "Spanish Philology",
  "id": "wh-fh-2-st-2026",
@@ -12,11 +12,22 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-24T18:41:17.182Z",
+ "changedAt": "2026-11-25T15:37:15.548Z",
+ "checkedAt": "2026-11-25T15:37:15.548Z",
  "groups": {
   "FH1": {
    "odd": [
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium magisterskie, 30s, bud 4",
+     "k": "S",
+     "p": "dr J. Tomczak-Boczko",
+     "r": "gabinet 106"
+    },
     {
      "d": 0,
      "time": [
@@ -37,20 +48,6 @@
      "pl": "Praktyczna nauka języka hiszpańskiego: kurs poszerzony 1, s119",
      "k": "LAB",
      "p": "dr A.Vega"
-    },
-    {
-     "d": 2,
-     "time": [
-      "13:30",
-      "15:00"
-     ],
-     "pl": "Seminarium magisterskie, 30s",
-     "k": "S",
-     "p": "dr Nina Pielacińska",
-     "r": "s. 15 WH",
-     "dates": [
-      "2026-10-21"
-     ]
     },
     {
      "d": 2,
@@ -115,6 +112,17 @@
     {
      "d": 0,
      "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium magisterskie, 30s, bud 4",
+     "k": "S",
+     "p": "dr J. Tomczak-Boczko",
+     "r": "gabinet 106"
+    },
+    {
+     "d": 0,
+     "time": [
       "15:15",
       "16:45"
      ],
@@ -132,20 +140,6 @@
      "pl": "Praktyczna nauka języka hiszpańskiego: kurs poszerzony 1, s119",
      "k": "LAB",
      "p": "dr A.Vega"
-    },
-    {
-     "d": 2,
-     "time": [
-      "13:30",
-      "15:00"
-     ],
-     "pl": "Seminarium magisterskie, 30s",
-     "k": "S",
-     "p": "dr Nina Pielacińska",
-     "r": "s. 15 WH",
-     "dates": [
-      "2026-10-21"
-     ]
     },
     {
      "d": 2,

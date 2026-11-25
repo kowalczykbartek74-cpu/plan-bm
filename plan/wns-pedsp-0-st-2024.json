@@ -739,6 +739,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-zajec-z-dr-a-prus/",
+    "title": "Zmiana terminu zajęć z dr A. Prus",
+    "ym": "2026-11",
+    "pub": "2026-11-25",
+    "text": "Zmiana terminu zajęć z dr A. Prus — Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-26 10:00 2026-11-27 9:45 208/Ogińskiego – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo pedagogika specjalna stacjonarne jednolite magisterskie 3 koncepcje i organizacja edukacji włączającej ćwiczenia – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: W związku z moją nieobecnością w dniu 26.11., spowodowaną udziałem w konferencji, ćwiczenia z przedmiotu „Koncepcje i organizacja edukacji włączającej” zostają przełożone na dzień 27.11."
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-zajec-z-dr-aleksandra-prus-3/",
     "title": "Zmiana terminu zajęć z dr Aleksandrą Prus",
     "ym": "2026-11",
@@ -765,7 +772,7 @@
     {
      "type": "note",
      "date": "2026-11-16",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
@@ -778,7 +785,7 @@
      "k": "W",
      "p": "dr A. Prus",
      "r": "s. 208/Ogińskiego",
-     "post": 0
+     "post": 1
     },
     {
      "type": "cancel",
@@ -786,13 +793,36 @@
      "start": "08:15",
      "pl": "Wsparcie w pracy i doradztwo zawodowe dla osób z niepełnosprawnością",
      "moved": true,
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-26",
+     "start": "10:00",
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "moved": true,
      "post": 0,
      "posts": [
       0
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-27",
+     "start": "9:45",
+     "end": "11:15",
+     "pl": "Koncepcje i organizacja edukacji włączającej",
+     "k": "CW",
+     "p": "dr A. Prus",
+     "r": "s. 208/Ogińskiego",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-19T14:15:58.403Z"
+  "updatedAt": "2026-11-25T15:43:38.873Z"
  }
 }

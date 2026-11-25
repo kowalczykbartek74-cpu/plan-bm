@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "24.11.2026 12:48",
- "changedAt": "2026-11-24T15:43:50.157Z",
- "checkedAt": "2026-11-24T18:33:27.162Z",
+ "updated": "25.11.2026 14:16",
+ "changedAt": "2026-11-25T15:28:32.898Z",
+ "checkedAt": "2026-11-25T15:28:32.898Z",
  "groups": {
   "C351": {
    "odd": [
@@ -73,9 +73,14 @@
     {
      "d": 3,
      "s": 0,
-     "pl": "17.12.2026",
+     "pl": "Odrabianie zajęć:",
      "k": "X",
-     "r": "sala 046 mgr Maciej Lewandowski"
+     "r": "sala SIL 316 dr H. Soroka-Potrzebna sala 046 mgr Maciej Lewandowski",
+     "dates": [
+      "2026-11-19",
+      "2026-12-17"
+     ],
+     "n": "Tylko: 19.11, 17.12"
     },
     {
      "d": 4,
@@ -112,11 +117,13 @@
      "s": 1,
      "pl": "Odrabianie zajęć:",
      "k": "X",
-     "r": "sala 046 mgr Maciej Lewandowski",
+     "p": "dr. K. Beyer",
+     "r": "sala 104 Odrabianie zajęć: sala 046 mgr Maciej Lewandowski",
      "dates": [
+      "2026-11-19",
       "2026-12-17"
      ],
-     "n": "Jednorazowo: 17.12.2026"
+     "n": "Tylko: 19.11, 17.12"
     },
     {
      "d": 4,
@@ -180,6 +187,17 @@
      "k": "X",
      "p": "dr Agnieszka Smalec",
      "r": "s. SIL 315"
+    },
+    {
+     "d": 0,
+     "s": 4,
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "sala SIL 324 dr Aleksandra Rudawska",
+     "dates": [
+      "2026-12-14"
+     ],
+     "n": "Jednorazowo: 14.12.2026"
     },
     {
      "d": 1,
@@ -260,17 +278,6 @@
      "tag": "e-learning"
     },
     {
-     "d": 3,
-     "s": 0,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 002 dr Anna Ścibior-Butrym",
-     "dates": [
-      "2026-12-10"
-     ],
-     "n": "Jednorazowo: 10.12.2026"
-    },
-    {
      "d": 4,
      "s": 0,
      "pl": "Język niemiecki ul. wawrzyniaka 15, s. 6 mgr. m. kisiel-spychała",
@@ -299,17 +306,6 @@
      "k": "X",
      "p": "dr Agnieszka Malkowska",
      "r": "s. 044 (aula)"
-    },
-    {
-     "d": 3,
-     "s": 1,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 002 dr Anna Ścibior-Butrym",
-     "dates": [
-      "2026-12-10"
-     ],
-     "n": "Jednorazowo: 10.12.2026"
     },
     {
      "d": 4,
@@ -465,6 +461,18 @@
      "r": "s. 044 (aula)"
     },
     {
+     "d": 3,
+     "s": 1,
+     "pl": "Odrabianie zajęć:",
+     "k": "X",
+     "p": "dr. K. Beyer",
+     "r": "sala 104",
+     "dates": [
+      "2026-11-19"
+     ],
+     "n": "Jednorazowo: 19.11.2026"
+    },
+    {
      "d": 4,
      "s": 1,
      "pl": "Język angielski gr. 1 ul. cukrowa 8, s. 042 mgr m.wiśniewskaprzymusińska",
@@ -541,11 +549,12 @@
      "s": 4,
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "r": "sala s. 044 Aula godz. odrabiania:13:45 i 15:15 mgr Maciej Lewandowski",
+     "r": "sala s. 044 Aula godz. odrabiania:13:45 i 15:15 mgr Maciej Lewandowski Odrabianie zajęć sala SIL 324 dr Aleksandra Rudawska",
      "dates": [
-      "2026-11-30"
+      "2026-11-30",
+      "2026-12-14"
      ],
-     "n": "Jednorazowo: 30.11.2026"
+     "n": "Tylko: 30.11, 14.12"
     },
     {
      "d": 1,
@@ -634,17 +643,6 @@
      "r": "s. 623"
     },
     {
-     "d": 3,
-     "s": 0,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 002 dr Anna Ścibior-Butrym",
-     "dates": [
-      "2026-12-10"
-     ],
-     "n": "Jednorazowo: 10.12.2026"
-    },
-    {
      "d": 4,
      "s": 0,
      "pl": "Język niemiecki ul. wawrzyniaka 15, s. 6 mgr. m. kisiel-spychała",
@@ -673,17 +671,6 @@
      "k": "X",
      "p": "dr Agnieszka Malkowska",
      "r": "s. 044 (aula)"
-    },
-    {
-     "d": 3,
-     "s": 1,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 002 dr Anna Ścibior-Butrym",
-     "dates": [
-      "2026-12-10"
-     ],
-     "n": "Jednorazowo: 10.12.2026"
     },
     {
      "d": 4,
@@ -894,6 +881,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c351-c352-26/",
+    "title": "GRUPA C351, C352",
+    "ym": "2026-11",
+    "pub": "2026-11-25",
+    "text": "Dnia 08.12.2026 zostają odwołane zajęcia z dr Aleksandrą Rudawską. Termin odrobienia zajęć: 14.12.2026 godz. 15:30 sala SIL 324"
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c351-c352-25/",
     "title": "GRUPA C351, C352",
     "ym": "2026-11",
@@ -971,24 +965,24 @@
      "date": "2026-10-19",
      "start": "12:00",
      "pl": "Zarządzanie relacjami z klientem",
-     "post": 9,
+     "post": 10,
      "posts": [
-      9
+      10
      ]
     },
     {
      "type": "note",
      "date": "2026-10-27",
-     "post": 7
+     "post": 8
     },
     {
      "type": "cancel",
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Contemporary business models",
-     "post": 8,
+     "post": 9,
      "posts": [
-      8
+      9
      ]
     },
     {
@@ -1001,7 +995,7 @@
      "k": "CW",
      "p": "dr Hanna Soroka-Potrzebna",
      "r": "s. SIL 316",
-     "post": 4,
+     "post": 5,
      "dup": true
     },
     {
@@ -1014,23 +1008,29 @@
      "k": "CW",
      "p": "dr Karolina Beyer",
      "r": "s. 104",
-     "post": 8
+     "post": 9,
+     "dup": true
     },
     {
      "type": "note",
      "date": "2026-11-24",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
      "date": "2026-11-30",
      "start": "8:15",
      "pl": "Metody i techniki heurystyczne",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4,
-      6
+      5,
+      7
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-12-08",
+     "post": 0
     },
     {
      "type": "extra",
@@ -1042,6 +1042,18 @@
      "k": "X",
      "p": "dr Anna Ścibior-Butrym",
      "r": "s. 002",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-14",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Projektowanie organizacji (ćw) moduł kwb",
+     "k": "X",
+     "p": "dr Aleksandra Rudawska",
+     "r": "s. SIL 324",
      "post": 0,
      "dup": true
     }
@@ -1052,24 +1064,24 @@
      "date": "2026-10-19",
      "start": "10:00",
      "pl": "Zarządzanie relacjami z klientem",
-     "post": 9,
+     "post": 10,
      "posts": [
-      9
+      10
      ]
     },
     {
      "type": "note",
      "date": "2026-10-27",
-     "post": 7
+     "post": 8
     },
     {
      "type": "cancel",
      "date": "2026-11-03",
      "start": "10:00",
      "pl": "Contemporary business models",
-     "post": 8,
+     "post": 9,
      "posts": [
-      8
+      9
      ]
     },
     {
@@ -1082,7 +1094,8 @@
      "k": "CW",
      "p": "dr Karolina Beyer",
      "r": "s. 104",
-     "post": 8
+     "post": 9,
+     "dup": true
     },
     {
      "type": "extra",
@@ -1094,13 +1107,13 @@
      "k": "CW",
      "p": "dr Hanna Soroka-Potrzebna",
      "r": "s. SIL 316",
-     "post": 3,
+     "post": 4,
      "dup": true
     },
     {
      "type": "note",
      "date": "2026-11-24",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -1112,18 +1125,23 @@
      "k": "CW",
      "p": "mgr Maciej Lewandowski",
      "r": "s. 044",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
      "date": "2026-11-30",
      "start": "13:45",
      "pl": "Metody i techniki heurystyczne",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3,
-      5
+      4,
+      6
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-12-08",
+     "post": 0
     },
     {
      "type": "extra",
@@ -1135,11 +1153,23 @@
      "k": "X",
      "p": "dr Anna Ścibior-Butrym",
      "r": "s. 002",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-14",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Projektowanie organizacji (ćw) moduł kwb",
+     "k": "X",
+     "p": "dr Aleksandra Rudawska",
+     "r": "s. SIL 324",
      "post": 0,
      "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-24T15:57:24.220Z"
+  "updatedAt": "2026-11-25T15:42:12.633Z"
  }
 }

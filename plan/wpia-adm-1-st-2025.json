@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-24T18:42:28.330Z",
+ "checkedAt": "2026-11-25T15:38:27.083Z",
  "groups": {
   "ADM2": {
    "odd": [
@@ -699,20 +699,6 @@
     "ym": "2026-10",
     "pub": "2026-10-30",
     "text": "Informujemy, że zajęcia z przedmiotów Organizacja ochrony środowiska oraz Doktryny polityczne i prawne w dn. 3.12.2026 nie odbędą się i zostają przełożone na dzień 10.11.2026 r. w godzinach: Doktryny polityczne i prawne godz. 12.15 – 13.45, s. 121 Narutowicza Organizacja ochrony środowiska godz. 14.00 – 15.30, s. 121 Narutowicza"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-i-st-ii-r-przelozenie-zajec-dydaktycznych-z-przedmiotu-wprowadzenie-do-prawa-gospodarczego-publicznego-mgr-wiktoria-szczap/",
-    "title": "SSA I st. II r. – przełożenie zajęć dydaktycznych z przedmiotu wprowadzenie do prawa gospodarczego publicznego (mgr Wiktoria Szczap)",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Informujemy, że zajęcia z przedmiotu wprowadzenie do prawa gospodarczego publicznego z dnia 08.10.2026 r. odbęda się wyjątkowo o godzinie 13:30-15:00 s. 201 Narutowicza."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/ssa-i-st-ii-r-przelozenie-zajec-dydaktycznych-z-przedmiotu-instytucje-i-zrodla-prawa-unii-europejskiej-dr-karolina-slotwinska/",
-    "title": "SSA I st. II r. – przełożenie zajęć dydaktycznych z przedmiotu Instytucje i źródła prawa Unii Europejskiej (dr Karolina Słotwińska)",
-    "ym": "2026-10",
-    "pub": "2026-10-07",
-    "text": "Informujemy, że zajęcia z przedmiotu Instytucje i źródła prawa Unii Europejskiej z dnia 08.10.2026 r. nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
    }
   ],
   "zmiany": {
@@ -722,21 +708,6 @@
      "date": "2026-10-08",
      "post": 2,
      "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-10-08",
-     "post": 4
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-08",
-     "start": "13:30",
-     "pl": "Instytucje i źródła prawa Unii Europejskiej",
-     "post": 5,
-     "posts": [
-      5
-     ]
     },
     {
      "type": "note",
@@ -766,6 +737,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:19:12.825Z"
+  "updatedAt": "2026-11-25T15:43:47.250Z"
  }
 }

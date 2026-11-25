@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-II-22.pdf",
- "wersja": "EA-II-22.pdf",
- "sha256": "8d9cd90eaa41bdcc1a8b7814400382ea2476c88f0706ad841e6152a816f6d1b3",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/EA-II-23.pdf",
+ "wersja": "EA-II-23.pdf",
+ "sha256": "145dc8a97540f2dba7be5a2fb69cffac851a73a2bb41dd52cf4a3148099570e9",
  "kierunek": "Edukacja artystyczna",
  "kierunekEn": "Art Education",
  "id": "wns-ea-2-st-2025",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-24T18:41:17.983Z",
+ "changedAt": "2026-11-25T15:37:16.282Z",
+ "checkedAt": "2026-11-25T15:37:16.282Z",
  "groups": {
   "EA2": {
    "odd": [
@@ -57,7 +57,7 @@
     {
      "d": 1,
      "pl": "Laboratorium kultury",
-     "k": "CW",
+     "k": "LAB",
      "time": [
       "10:00",
       "11:30"
@@ -439,7 +439,7 @@
     {
      "d": 1,
      "pl": "Laboratorium kultury",
-     "k": "CW",
+     "k": "LAB",
      "time": [
       "10:00",
       "11:30"

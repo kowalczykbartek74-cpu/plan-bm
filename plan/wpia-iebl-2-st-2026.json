@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-24T18:42:28.330Z",
+ "checkedAt": "2026-11-25T15:38:27.083Z",
  "groups": {
   "IEBL1": {
    "odd": [
@@ -653,6 +653,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/iebl-1st-year-legal-english-class-canceled-from-18-11-new-class-date/",
+    "title": "IEBL – 1st year – Legal English class (canceled from 18.11) – new class date",
+    "ym": "2026-11",
+    "pub": "2026-11-25",
+    "text": "Legal English classes (canceled from 18.11) will take place on 27.01.2027 (from 5:00 PM to 6:30 PM, room 117 Narutowicza) and on 29.01.2027 from 5:00 PM to 5:45 PM, room 117 Narutowicza"
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/attention-first-year-students-of-the-masters-programme-in-international-and-european-business-law/",
     "title": "Attention First-Year Students of the Master’s Programme in International and European Business Law",
     "ym": "2026-11",
@@ -735,13 +742,13 @@
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 8,
+     "post": 9,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-15",
-     "post": 9,
+     "post": 10,
      "niska": true
     },
     {
@@ -749,72 +756,82 @@
      "date": "2026-10-15",
      "start": "17:00",
      "pl": "Public Business Law in International Context",
-     "post": 5,
+     "post": 6,
      "posts": [
-      5
+      6
      ]
     },
     {
      "type": "note",
      "date": "2026-10-20",
-     "post": 8,
+     "post": 9,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-28",
-     "post": 6,
+     "post": 7,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-18",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-18",
+     "post": 4,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-18",
+     "post": 7,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-18",
+     "start": "17:00",
+     "pl": "Legal English",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-12-02",
+     "post": 3
+    },
+    {
+     "type": "note",
+     "date": "2026-12-04",
      "post": 1,
      "niska": true
     },
     {
      "type": "note",
-     "date": "2026-11-18",
-     "post": 3,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-11-18",
-     "post": 6,
-     "niska": true
-    },
-    {
-     "type": "note",
-     "date": "2026-12-02",
-     "post": 2
-    },
-    {
-     "type": "note",
-     "date": "2026-12-04",
-     "post": 0,
-     "niska": true
-    },
-    {
-     "type": "note",
      "date": "2026-12-07",
-     "post": 0,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-09",
-     "post": 6,
+     "post": 7,
      "niska": true
     },
     {
      "type": "note",
      "date": "2027-01-20",
-     "post": 3,
+     "post": 4,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:14:13.404Z"
+  "updatedAt": "2026-11-25T15:43:47.316Z"
  }
 }

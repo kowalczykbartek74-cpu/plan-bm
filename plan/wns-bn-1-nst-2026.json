@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "42 plików zjazdów (16 dni)",
- "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
+ "wersja": "51 plików zjazdów (23 dni)",
+ "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
  "kierunek": "Bezpieczeństwo narodowe",
  "kierunekEn": "National Security",
  "id": "wns-bn-1-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-24T18:41:17.983Z",
+ "changedAt": "2026-11-25T15:37:16.282Z",
+ "checkedAt": "2026-11-25T15:37:16.282Z",
  "groups": {
   "BN1": {
    "odd": [
@@ -66,6 +66,36 @@
     },
     {
      "d": 4,
+     "pl": "Historia najnowsza",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t0qt20o",
+     "dates": [
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Protokół dyplomatyczny",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: gkki2gz",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Geografia bezpieczeństwa",
      "k": "W",
      "time": [
@@ -93,7 +123,8 @@
      "dates": [
       "2026-10-23",
       "2026-11-06",
-      "2026-11-27"
+      "2026-11-27",
+      "2027-01-29"
      ]
     },
     {
@@ -108,7 +139,8 @@
      "r": "online (MS Teams)",
      "n": "kod MS Teams: gkki2gz",
      "dates": [
-      "2026-12-11"
+      "2026-12-11",
+      "2027-01-22"
      ]
     },
     {
@@ -150,7 +182,22 @@
      "p": "prof. J. Piątek",
      "r": "s. 114",
      "dates": [
-      "2026-12-12"
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teorie bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -212,6 +259,20 @@
     },
     {
      "d": 5,
+     "pl": "Psychologia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Teorie bezpieczeństwa",
      "k": "W",
      "time": [
@@ -236,6 +297,20 @@
      "r": "s. 153",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 178",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -279,6 +354,34 @@
      "dates": [
       "2026-11-07",
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "mgr P. Władzimiruk",
+     "r": "s. 144",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy wyszkolenia strzeleckiego",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -367,6 +470,20 @@
     },
     {
      "d": 5,
+     "pl": "Podstawy wyszkolenia strzeleckiego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Międzynarodowe stosunki wojskowe",
      "k": "W",
      "time": [
@@ -451,6 +568,36 @@
     },
     {
      "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3j42ocg",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia najnowsza",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t0qt20o",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Międzynarodowe stosunki wojskowe",
      "k": "CW",
      "time": [
@@ -505,6 +652,21 @@
      "dates": [
       "2026-11-08",
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3j42ocg",
+     "dates": [
+      "2027-01-24"
      ]
     },
     {
@@ -700,6 +862,36 @@
     },
     {
      "d": 4,
+     "pl": "Historia najnowsza",
+     "k": "W",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t0qt20o",
+     "dates": [
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Protokół dyplomatyczny",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "prof. E. Kochanek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: gkki2gz",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Geografia bezpieczeństwa",
      "k": "W",
      "time": [
@@ -727,7 +919,8 @@
      "dates": [
       "2026-10-23",
       "2026-11-06",
-      "2026-11-27"
+      "2026-11-27",
+      "2027-01-29"
      ]
     },
     {
@@ -742,7 +935,8 @@
      "r": "online (MS Teams)",
      "n": "kod MS Teams: gkki2gz",
      "dates": [
-      "2026-12-11"
+      "2026-12-11",
+      "2027-01-22"
      ]
     },
     {
@@ -784,7 +978,22 @@
      "p": "prof. J. Piątek",
      "r": "s. 114",
      "dates": [
-      "2026-12-12"
+      "2026-12-12",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Teorie bezpieczeństwa",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. J. Piątek",
+     "r": "s. 114",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -846,6 +1055,20 @@
     },
     {
      "d": 5,
+     "pl": "Psychologia bezpieczeństwa",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Teorie bezpieczeństwa",
      "k": "W",
      "time": [
@@ -870,6 +1093,20 @@
      "r": "s. 153",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "prof. G. Ciechanowski",
+     "r": "s. 178",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -913,6 +1150,34 @@
      "dates": [
       "2026-11-07",
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Międzynarodowe stosunki wojskowe",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "mgr P. Władzimiruk",
+     "r": "s. 144",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy wyszkolenia strzeleckiego",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -1001,6 +1266,20 @@
     },
     {
      "d": 5,
+     "pl": "Podstawy wyszkolenia strzeleckiego",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "s. 144",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Międzynarodowe stosunki wojskowe",
      "k": "W",
      "time": [
@@ -1085,6 +1364,36 @@
     },
     {
      "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3j42ocg",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia najnowsza",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: t0qt20o",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Międzynarodowe stosunki wojskowe",
      "k": "CW",
      "time": [
@@ -1139,6 +1448,21 @@
      "dates": [
       "2026-11-08",
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Terroryzm i zagrożenia asymetryczne współczesnego świata",
+     "k": "W",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3j42ocg",
+     "dates": [
+      "2027-01-24"
      ]
     },
     {

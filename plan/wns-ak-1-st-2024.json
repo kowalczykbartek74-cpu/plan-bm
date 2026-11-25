@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-24T18:41:17.983Z",
+ "checkedAt": "2026-11-25T15:37:16.282Z",
  "groups": {
   "AK3": {
    "odd": [
@@ -581,10 +581,24 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-zajec-z-dr-a-makowska/",
+    "title": "Zmiana terminu zajęć z dr A. Makowską",
+    "ym": "2026-11",
+    "pub": "2026-11-24",
+    "text": "Zmiana terminu zajęć z dr A. Makowską — Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-24 8:15 2026-12-01 15:00 52 AK-SI.24-31 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo animacja kultury stacjonarne pierwszego stopnia 3 polityka kulturalna wykład – Przyczyna nieobecności inne Uzasadnienie Zajęcia przełożone zgodnie z prośbą Studentów. Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, informuję, że zajęcia z przedmiotu **Polityka kulturalna**, zaplanowane na 24 listopada 2026 r., zostaną odrobione 1 grudnia 2026 r. Zajęcia odbędą się w sali 52 w Instytucie Pedagogiki przy ul. Ogińskiego."
+   }
+  ],
   "zmiany": {
-   "AK3": []
+   "AK3": [
+    {
+     "type": "note",
+     "date": "2026-11-24",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T23:31:06.288Z"
+  "updatedAt": "2026-11-25T15:43:38.457Z"
  }
 }

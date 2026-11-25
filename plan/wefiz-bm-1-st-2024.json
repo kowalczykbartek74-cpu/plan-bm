@@ -8,9 +8,9 @@
  "rok": 3,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "24.11.2026 12:48",
- "changedAt": "2026-11-23T15:47:49.811Z",
- "checkedAt": "2026-11-24T18:33:27.142Z",
+ "updated": "25.11.2026 14:16",
+ "changedAt": "2026-11-25T15:23:48.627Z",
+ "checkedAt": "2026-11-25T15:23:48.627Z",
  "groups": {
   "C311": {
    "odd": [
@@ -179,6 +179,17 @@
      "p": "mgr inż. Justyna Szydłowska-Samsel",
      "r": "s. SIL 116 (lab)",
      "tag": "BLOK B1"
+    },
+    {
+     "d": 2,
+     "s": 4,
+     "pl": "Odrabianie seminarium dyplomowgo",
+     "k": "X",
+     "r": "gab. 214 dr Aleksandra Rudawska",
+     "dates": [
+      "2026-12-16"
+     ],
+     "n": "Jednorazowo: 16.12.2026"
     },
     {
      "d": 0,
@@ -528,6 +539,13 @@
   "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c311-22/",
+    "title": "GRUPA C311",
+    "ym": "2026-11",
+    "pub": "2026-11-25",
+    "text": "Dnia 08.12.2026 zostaje odwołane seminarium dyplomowe z dr Aleksandrą Rudawską. Termin odrobienia: 16.12.2026 godz. 15:30 gab. 214 Due to a business trip, the seminar on 8 December will not take place. You are welcome to attend the seminar on 16 December from 3.30 pm to 5 pm in SIL 214."
+   },
+   {
     "url": "https://dos.usz.edu.pl/cukrowa/2026/11/grupa-c311-21/",
     "title": "GRUPA C311",
     "ym": "2026-11",
@@ -571,9 +589,9 @@
      "start": "13:45",
      "pl": "Uczenie maszynowe w aplikacjach biznesowych",
      "g": "B",
-     "post": 4,
+     "post": 5,
      "posts": [
-      4
+      5
      ]
     },
     {
@@ -581,9 +599,9 @@
      "date": "2026-11-17",
      "start": "8:15",
      "pl": "Seminarium dyplomowe",
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
     },
     {
@@ -591,9 +609,9 @@
      "date": "2026-11-25",
      "start": "10:00",
      "pl": "Zarządzanie stresem i konfliktem",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -602,9 +620,9 @@
      "start": "12:00",
      "pl": "Uczenie maszynowe w aplikacjach biznesowych",
      "g": "A",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -618,16 +636,16 @@
      "k": "S",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 405",
-     "post": 3
+     "post": 4
     },
     {
      "type": "cancel",
      "date": "2026-12-01",
      "start": "8:15",
      "pl": "Seminarium dyplomowe",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -641,7 +659,17 @@
      "k": "S",
      "p": "dr hab. prof. US Jarosław Korpysa",
      "r": "s. 404",
-     "post": 2
+     "post": 3
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-08",
+     "start": "8:15",
+     "pl": "Seminarium dyplomowe",
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "extra",
@@ -655,10 +683,24 @@
      "p": "mgr inż. Justyna Szydłowska-Samsel",
      "r": "s. SIL 145/146",
      "g": "A",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-16",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Seminarium dyplomowe",
+     "en": "Diploma Seminar",
+     "k": "S",
+     "p": "dr hab. prof. US Jarosław Korpysa",
+     "r": "s. 214 Due to a",
+     "post": 0,
+     "dup": true
     }
    ]
   },
-  "updatedAt": "2026-11-24T15:54:46.824Z"
+  "updatedAt": "2026-11-25T15:39:35.296Z"
  }
 }

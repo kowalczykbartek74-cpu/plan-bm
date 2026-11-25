@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "24.11.2026 12:48",
- "changedAt": "2026-11-23T15:51:18.915Z",
- "checkedAt": "2026-11-24T18:33:27.158Z",
+ "updated": "25.11.2026 14:16",
+ "changedAt": "2026-11-25T15:27:17.705Z",
+ "checkedAt": "2026-11-25T15:27:17.705Z",
  "groups": {
   "C231": {
    "odd": [
@@ -42,7 +42,13 @@
      "d": 3,
      "s": 0,
      "pl": "Język niemiecki ul. wawrzyniaka 15, s. 107 mgr magdalena kisiel-spychała",
-     "k": "X"
+     "k": "X",
+     "p": "Odrabianie zajęć",
+     "r": "sala SIL 134/136 lab dr Magdalena Malinowska",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     },
     {
      "d": 4,

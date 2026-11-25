@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "24.11.2026 12:48",
- "changedAt": "2026-11-24T15:44:28.843Z",
- "checkedAt": "2026-11-24T18:33:27.164Z",
+ "updated": "25.11.2026 14:16",
+ "changedAt": "2026-11-25T15:29:11.065Z",
+ "checkedAt": "2026-11-25T15:29:11.065Z",
  "groups": {
   "C141": {
    "odd": [
@@ -233,17 +233,6 @@
      "r": "s. 507"
     },
     {
-     "d": 3,
-     "s": 2,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 307 dr Magdalena Ławicka",
-     "dates": [
-      "2027-01-14"
-     ],
-     "n": "Jednorazowo: 14.01.2027"
-    },
-    {
      "d": 4,
      "s": 2,
      "pl": "Ekonomia",
@@ -258,17 +247,6 @@
      "k": "W",
      "p": "dr Magdalena Kogut-Jaworska",
      "r": "s. 507"
-    },
-    {
-     "d": 3,
-     "s": 3,
-     "pl": "Odrabianie zajęć",
-     "k": "X",
-     "r": "sala 307 dr Magdalena Ławicka",
-     "dates": [
-      "2027-01-14"
-     ],
-     "n": "Jednorazowo: 14.01.2027"
     },
     {
      "d": 4,
@@ -443,47 +421,10 @@
     "ym": "2026-10",
     "pub": "2026-10-16",
     "text": "Dnia 30.10.2026 zostają odwołane zajęcia z dr Magdaleną Ławicką. Termin odrobienia zostanie ustalony na kolejnych zajęciach."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c101-c131-c132-c141/",
-    "title": "GRUPA C101, C131, C132, C141",
-    "ym": "2026-10",
-    "pub": "2026-10-12",
-    "text": "Zmiana sali na przedmiot Ochrona własności intelektualnej – nowa sala 044 Aula Cuk. 8"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c141-70/",
-    "title": "GRUPA C141",
-    "ym": "2026-10",
-    "pub": "2026-10-09",
-    "text": "Dnia 22.10.2026 o godz. 13:45 w sali SIL 124/125 lab odbędzie się odrabianie zajęć z dr Magdalena Kotnis z dnia 05.10.2026r."
    }
   ],
   "zmiany": {
    "C141": [
-    {
-     "type": "cancel",
-     "date": "2026-10-05",
-     "start": "12:00",
-     "pl": "Technologie informatyczne",
-     "post": 4,
-     "posts": [
-      4
-     ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-22",
-     "start": "13:45",
-     "end": "15:15",
-     "pl": "Technologie informatyczne",
-     "k": "LAB",
-     "p": "dr Magdalena Kotnis",
-     "r": "s. SIL 124/125 lab",
-     "post": 4,
-     "dup": true
-    },
     {
      "type": "cancel",
      "date": "2026-10-23",
@@ -549,6 +490,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-17T14:31:53.805Z"
+  "updatedAt": "2026-11-25T15:42:48.925Z"
  }
 }

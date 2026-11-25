@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "24.11.2026 12:48",
- "changedAt": "2026-11-19T13:55:34.050Z",
- "checkedAt": "2026-11-24T18:33:27.155Z",
+ "updated": "25.11.2026 14:16",
+ "changedAt": "2026-11-25T15:26:44.742Z",
+ "checkedAt": "2026-11-25T15:26:44.742Z",
  "groups": {
   "C621": {
    "odd": [
@@ -29,6 +29,18 @@
      "k": "X",
      "p": "JĘZYK NIEMIECKI ul. Wawrzyniaka 15,",
      "r": "s. 107 M. Kisiel-Spychała"
+    },
+    {
+     "d": 4,
+     "s": 0,
+     "pl": "Odrabianie języka angielskiego",
+     "k": "X",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "sala 033",
+     "dates": [
+      "2026-11-27"
+     ],
+     "n": "Jednorazowo: 27.11.2026"
     },
     {
      "d": 0,
@@ -101,6 +113,18 @@
      "k": "LAB",
      "p": "dr Konrad Biercewicz",
      "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Odrabianie języka angielskiego",
+     "k": "X",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "sala 033",
+     "dates": [
+      "2026-11-27"
+     ],
+     "n": "Jednorazowo: 27.11.2026"
     },
     {
      "d": 0,
@@ -194,6 +218,18 @@
      "r": "s. 107 mgr M. Kisiel-Spychała"
     },
     {
+     "d": 4,
+     "s": 0,
+     "pl": "Odrabianie języka angielskiego",
+     "k": "X",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "sala 033",
+     "dates": [
+      "2026-12-04"
+     ],
+     "n": "Jednorazowo: 4.12.2026"
+    },
+    {
      "d": 1,
      "s": 1,
      "pl": "Seminarium dyplomowe",
@@ -256,6 +292,18 @@
      "k": "LAB",
      "p": "dr Konrad Biercewicz",
      "r": "s. SIL 116 (lab)"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Odrabianie języka angielskiego",
+     "k": "X",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "sala 033",
+     "dates": [
+      "2026-12-04"
+     ],
+     "n": "Jednorazowo: 4.12.2026"
     },
     {
      "d": 1,
@@ -343,6 +391,18 @@
      "r": "s. 107 M. Kisiel-Spychała"
     },
     {
+     "d": 4,
+     "s": 0,
+     "pl": "Odrabianie języka angielskiego",
+     "k": "X",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "sala 033",
+     "dates": [
+      "2026-11-27"
+     ],
+     "n": "Jednorazowo: 27.11.2026"
+    },
+    {
      "d": 0,
      "s": 1,
      "pl": "Zarządzanie czasem własnym (ćw) moduł prk",
@@ -405,6 +465,18 @@
      "k": "S",
      "p": "dr hab. prof. US Katarzyna Włodarczyk",
      "r": "gab. 718"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Odrabianie języka angielskiego",
+     "k": "X",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "sala 033",
+     "dates": [
+      "2026-11-27"
+     ],
+     "n": "Jednorazowo: 27.11.2026"
     },
     {
      "d": 0,
@@ -498,6 +570,18 @@
      "r": "s. 107 mgr M. Kisiel-Spychała"
     },
     {
+     "d": 4,
+     "s": 0,
+     "pl": "Odrabianie języka angielskiego",
+     "k": "X",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "sala 033",
+     "dates": [
+      "2026-12-04"
+     ],
+     "n": "Jednorazowo: 4.12.2026"
+    },
+    {
      "d": 1,
      "s": 1,
      "pl": "Seminarium dyplomowe",
@@ -560,6 +644,18 @@
      "k": "X",
      "p": "mgr inż. Loran Nermend",
      "r": "s. 112"
+    },
+    {
+     "d": 4,
+     "s": 1,
+     "pl": "Odrabianie języka angielskiego",
+     "k": "X",
+     "p": "mgr Aleksandra Hancewicz",
+     "r": "sala 033",
+     "dates": [
+      "2026-12-04"
+     ],
+     "n": "Jednorazowo: 4.12.2026"
     },
     {
      "d": 1,

@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "42 plików zjazdów (16 dni)",
- "sha256": "e7e0a9ad35691636b0b3ceb41671adca700ac6e684ccc6507937b15c8abdd291",
+ "wersja": "51 plików zjazdów (22 dni)",
+ "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-2-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-20T14:08:03.597Z",
- "checkedAt": "2026-11-24T18:41:17.983Z",
+ "changedAt": "2026-11-25T15:37:16.282Z",
+ "checkedAt": "2026-11-25T15:37:16.282Z",
  "groups": {
   "BW2": {
    "odd": [
@@ -60,7 +60,8 @@
      "dates": [
       "2026-10-23",
       "2026-11-06",
-      "2026-12-11"
+      "2026-12-11",
+      "2027-01-08"
      ]
     },
     {
@@ -125,6 +126,21 @@
     },
     {
      "d": 5,
+     "pl": "Procesy migracyjne we współczesnym świecie",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: W59bh86",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Polityka w czasie rzeczywistym i jej medialne konteksty (przedmiot do wyboru)",
      "k": "K",
      "time": [
@@ -170,6 +186,36 @@
     },
     {
      "d": 5,
+     "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: nwwrhhu",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Ochrona ludności i obrona cywilna",
      "k": "W",
      "time": [
@@ -195,6 +241,21 @@
      "r": "s. 177",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -243,6 +304,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr M. Troczyńska - gr. 1, mgr A. Hancewicz - gr. 2",
+     "r": "s. 102",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
      "k": "W",
      "time": [
@@ -254,6 +329,21 @@
      "n": "kod MS Teams: nwwrhhu",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2027-01-31"
      ]
     },
     {
@@ -359,6 +449,21 @@
     },
     {
      "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Zapobieganie i zachowanie podczas ataków terrorystycznych",
      "k": "W",
      "time": [
@@ -385,6 +490,21 @@
      "n": "kod MS Teams: nwwrhhu",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ],
@@ -432,7 +552,8 @@
      "dates": [
       "2026-10-23",
       "2026-11-06",
-      "2026-12-11"
+      "2026-12-11",
+      "2027-01-08"
      ]
     },
     {
@@ -497,6 +618,21 @@
     },
     {
      "d": 5,
+     "pl": "Procesy migracyjne we współczesnym świecie",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "prof. J. Mieczkowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: W59bh86",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Polityka w czasie rzeczywistym i jej medialne konteksty (przedmiot do wyboru)",
      "k": "K",
      "time": [
@@ -542,6 +678,36 @@
     },
     {
      "d": 5,
+     "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "prof. Sz. Stempiński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: nwwrhhu",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Ochrona ludności i obrona cywilna",
      "k": "W",
      "time": [
@@ -567,6 +733,21 @@
      "r": "s. 177",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -615,6 +796,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr M. Troczyńska - gr. 1, mgr A. Hancewicz - gr. 2",
+     "r": "s. 102",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Przywództwo w zarządzaniu bezpieczeństwem lokalnym",
      "k": "W",
      "time": [
@@ -626,6 +821,21 @@
      "n": "kod MS Teams: nwwrhhu",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2027-01-31"
      ]
     },
     {
@@ -731,6 +941,21 @@
     },
     {
      "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Zapobieganie i zachowanie podczas ataków terrorystycznych",
      "k": "W",
      "time": [
@@ -757,6 +982,21 @@
      "n": "kod MS Teams: nwwrhhu",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "prof. K. Kowalczyk, prof. F. Jomma, prof. B. Toszek, prof. D. Wybranowski, prof. M. Orzechowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: zbu3ho8",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ]

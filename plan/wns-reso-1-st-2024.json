@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-95.pdf",
- "wersja": "RESO-I-95.pdf",
- "sha256": "69e87ae9abadea73993e7e4fbd83b854b87e01e95335bc83071a6ef19f38cdb7",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/RESO-I-96.pdf",
+ "wersja": "RESO-I-96.pdf",
+ "sha256": "47a8f9ab5810add8b471d68319e1fee98d4a5b5d87a261d92df95032f61094c2",
  "kierunek": "Pedagogika resocjalizacyjna",
  "kierunekEn": "Rehabilitation Pedagogy",
  "id": "wns-reso-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-24T18:41:17.983Z",
+ "changedAt": "2026-11-25T15:37:16.282Z",
+ "checkedAt": "2026-11-25T15:37:16.282Z",
  "groups": {
   "RESO3": {
    "odd": [
@@ -290,6 +290,21 @@
      "r": "Aula WNS",
      "dates": [
       "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Ul. Krakowska Diagnoza w resocjalizacji",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr M. Zięciak",
+     "r": "s. 237 ul. Krakowska 71-79",
+     "n": "ost zaj do g. 12:30",
+     "dates": [
+      "2027-01-21"
      ]
     },
     {
@@ -623,6 +638,21 @@
      "r": "Aula WNS",
      "dates": [
       "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Ul. Krakowska Diagnoza w resocjalizacji",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr M. Zięciak",
+     "r": "s. 237 ul. Krakowska 71-79",
+     "n": "ost zaj do g. 12:30",
+     "dates": [
+      "2027-01-21"
      ]
     },
     {

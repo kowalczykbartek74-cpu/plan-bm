@@ -8,9 +8,9 @@
  "rok": 2,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "24.11.2026 12:48",
- "changedAt": "2026-11-23T15:47:55.365Z",
- "checkedAt": "2026-11-24T18:33:27.143Z",
+ "updated": "25.11.2026 14:16",
+ "changedAt": "2026-11-25T15:23:54.467Z",
+ "checkedAt": "2026-11-25T15:23:54.467Z",
  "groups": {
   "C211": {
    "odd": [
@@ -113,17 +113,6 @@
      "r": "Sala Sportowa"
     },
     {
-     "d": 1,
-     "s": 2,
-     "pl": "Odrabianie zajęć: grupa c211b",
-     "k": "X",
-     "r": "sala 423 lab mgr inż. Anna Marszałek",
-     "dates": [
-      "2026-12-01"
-     ],
-     "n": "Jednorazowo: 1.12.2026"
-    },
-    {
      "d": 2,
      "s": 2,
      "pl": "Modelowanie procesów biznesowych",
@@ -216,13 +205,13 @@
     {
      "d": 1,
      "s": 4,
-     "pl": "Odrabianie zajęć: grupa c211a",
+     "pl": "Odrabianie zajęć:",
      "k": "X",
-     "r": "sala SIL 116 lab mgr inż. Anna Marszałek",
+     "r": "sala SIL 325 dr Anna Borawska",
      "dates": [
-      "2026-12-01"
+      "2026-11-17"
      ],
-     "n": "Jednorazowo: 1.12.2026"
+     "n": "Jednorazowo: 17.11.2026"
     },
     {
      "d": 0,
@@ -1229,7 +1218,8 @@
      "k": "W",
      "p": "dr inż. Anna Borawska",
      "r": "s. SIL 325",
-     "post": 3
+     "post": 3,
+     "dup": true
     },
     {
      "type": "extra",
@@ -1243,8 +1233,7 @@
      "p": "mgr Anna Marszałek",
      "r": "s. 423 lab",
      "g": "A",
-     "post": 0,
-     "dup": true
+     "post": 0
     },
     {
      "type": "extra",
@@ -1258,8 +1247,7 @@
      "p": "mgr Anna Marszałek",
      "r": "s. 423 lab",
      "g": "B",
-     "post": 0,
-     "dup": true
+     "post": 0
     },
     {
      "type": "extra",
@@ -1273,8 +1261,7 @@
      "p": "mgr Anna Marszałek",
      "r": "s. SIL 116 lab",
      "g": "B",
-     "post": 0,
-     "dup": true
+     "post": 0
     },
     {
      "type": "extra",
@@ -1536,6 +1523,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-24T15:54:57.760Z"
+  "updatedAt": "2026-11-25T15:39:46.148Z"
  }
 }

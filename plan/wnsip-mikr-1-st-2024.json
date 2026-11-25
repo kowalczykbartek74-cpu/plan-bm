@@ -1,7 +1,7 @@
 {
- "source": "https://spr.usz.edu.pl/wp-content/uploads/mikr_3-rok-I-st.-akt.-03.11.pdf",
- "wersja": "2026-11-03",
- "sha256": "793199482d72f179e3039c0aae7d0c11e505617e47ae98019ee1bb405381b82b",
+ "source": "https://spr.usz.edu.pl/wp-content/uploads/mikr_3-rok-I-st.-akt.-25.11.pdf",
+ "wersja": "2026-11-25",
+ "sha256": "863d3039dc140177812740eabb9a57ab01c96ad27f17b421e13473083534e90e",
  "kierunek": "Mikrobiologia",
  "kierunekEn": "Microbiology",
  "id": "wnsip-mikr-1-st-2024",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-24T18:42:07.171Z",
+ "changedAt": "2026-11-25T15:38:06.562Z",
+ "checkedAt": "2026-11-25T15:38:06.562Z",
  "groups": {
   "MIKR3": {
    "odd": [
@@ -458,6 +458,7 @@
      ],
      "p": "dr P. Król",
      "r": "s. 211W",
+     "n": "inne godziny: 26.11 - 12:40-14:10",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -1033,6 +1034,7 @@
      ],
      "p": "dr P. Król",
      "r": "s. 211W",
+     "n": "inne godziny: 26.11 - 12:40-14:10",
      "dates": [
       "2026-10-08",
       "2026-10-15",
@@ -1311,6 +1313,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-i-st-3-rok-zmiana-godziny-zajec-z-dr-p-krol-w-dniu-26-11/",
+    "title": "Mikrobiologia I st. 3 rok – zmiana godziny zajęć z dr P. Król w dniu 26.11",
+    "ym": "2026-11",
+    "pub": "2026-11-25",
+    "text": "Szanowni Państwo, Informuję, że w czwartek 26.11 zajęcia z mikrobiologii materiałów z dr Pauliną Król rozpoczną się o godz.12:40."
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-i-st-3-rok-odwolany-wyklad-z-diagnostyki-zakazen-w-dniu-24-11/",
     "title": "Mikrobiologia I st. 3 rok – odwołany wykład z diagnostyki zakażeń w dniu 24.11",
     "ym": "2026-11",
@@ -1339,24 +1348,35 @@
      "date": "2026-10-28",
      "start": "12:35",
      "pl": "Metody instrumentalne w diagnostyce laboratoryjnej",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
      "type": "note",
      "date": "2026-11-24",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "12:40",
+     "end": "14:10",
+     "pl": "Mikrobiologia materiałów",
+     "k": "X",
+     "p": "dr P. Król",
      "post": 0
     },
     {
      "type": "note",
      "date": "2026-11-27",
-     "post": 1,
+     "post": 2,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-24T15:59:16.668Z"
+  "updatedAt": "2026-11-25T15:43:47.133Z"
  }
 }

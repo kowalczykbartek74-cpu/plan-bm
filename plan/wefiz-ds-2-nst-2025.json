@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-0b4a55babbb5",
+ "wersja": "planynst-c0cc0121f8d0",
  "kierunek": "Data Science",
  "kierunekEn": "Data Science",
  "id": "wefiz-ds-2-nst-2025",
@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-23T15:57:02.825Z",
- "checkedAt": "2026-11-24T18:37:13.989Z",
+ "checkedAt": "2026-11-25T15:33:13.460Z",
  "groups": {
   "F40": {
    "odd": [
@@ -2354,6 +2354,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-f40-zmiana-terminu-zajec-seminarium-z-dr-k-lorenzem/",
+    "title": "Grupa F40-Zmiana terminu zajęć seminarium z dr K. Lorenzem",
+    "ym": "2026-11",
+    "pub": "2026-11-25",
+    "text": "Informujemy, że seminarium z dr Krzysztofem Lorenzem dla studentów kierunku Data Science 2 rok II stopień, studia niestacjonarne (grupa F40), zaplanowane pierwotnie na 6 grudnia 2026 r. , zostały przełożone na: 4 grudnia 2026 r. (piątek), godz. 17:15–20:55 (e-zajęcia) Zmiana terminu została wprowadzona do harmonogramu zajęć . Prosimy o zapoznanie się z aktualnym harmonogramem."
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/odwolanie-zajec-z-mgr-magdalena-kisiel-spychala-w-dniach-18-11-27-11/",
     "title": "Odwołanie zajęć z mgr Magdaleną Kisiel-Spychałą w dniach 18.11- 27.11",
     "ym": "2026-11",
@@ -2369,8 +2376,15 @@
    }
   ],
   "zmiany": {
-   "F40": []
+   "F40": [
+    {
+     "type": "note",
+     "date": "2026-12-04",
+     "post": 0,
+     "niska": true
+    }
+   ]
   },
-  "updatedAt": "2026-11-19T14:11:43.492Z"
+  "updatedAt": "2026-11-25T15:42:54.695Z"
  }
 }

@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-0b4a55babbb5",
+ "wersja": "planynst-c0cc0121f8d0",
  "kierunek": "Audyt finansowy",
  "kierunekEn": "Financial Audit",
  "id": "wefiz-af-2-nst-2026",
@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-18T13:53:56.065Z",
- "checkedAt": "2026-11-24T18:37:13.989Z",
+ "checkedAt": "2026-11-25T15:33:13.460Z",
  "groups": {
   "E60": {
    "odd": [
@@ -2832,11 +2832,19 @@
  },
  "dziekanat": {
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
-  "posts": [],
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-e61-a-zmiana-sali-na-laboratoria-z-przedmiotu-metody-ilosciowe-w-audycie-i-controllingu-z-dr-wojciechem-kuzminskim/",
+    "title": "Grupa E61 A-zmiana sali na laboratoria z przedmiotu „Metody ilościowe w audycie i controllingu” z dr. Wojciechem Kuźmińskim",
+    "ym": "2026-11",
+    "pub": "2026-11-25",
+    "text": "Informujemy, że laboratoria z przedmiotu „Metody ilościowe w audycie i controllingu” z dr. Wojciechem Kuźmińskim dla studentów kierunku audyt finansowy 1 rok II stopień, studia niestacjonarne ( grupa E61 A ) w dniu 05.12.2026 r. (sobota) zostały przeniesione do sali N08D lab . Zmiana sali została wprowadzona do harmonogramu zajęć . Prosimy o zapoznanie się z aktualnym harmonogramem."
+   }
+  ],
   "zmiany": {
    "E60": [],
    "E61": []
   },
-  "updatedAt": "2026-11-09T18:05:48.494Z"
+  "updatedAt": "2026-11-25T15:42:54.674Z"
  }
 }

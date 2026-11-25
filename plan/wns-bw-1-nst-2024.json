@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "42 plików zjazdów (17 dni)",
- "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
+ "wersja": "51 plików zjazdów (22 dni)",
+ "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-1-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-24T18:41:17.983Z",
+ "changedAt": "2026-11-25T15:37:16.282Z",
+ "checkedAt": "2026-11-25T15:37:16.282Z",
  "groups": {
   "BW3": {
    "odd": [
@@ -59,7 +59,8 @@
      "dates": [
       "2026-10-23",
       "2026-11-06",
-      "2026-12-11"
+      "2026-12-11",
+      "2027-01-08"
      ]
     },
     {
@@ -75,6 +76,21 @@
      "n": "kod MS Teams: 205b7ji",
      "dates": [
       "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Etyka zawodowa funkcjonariuszy służb państwowych",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: Rwi6dif",
+     "dates": [
+      "2027-01-22"
      ]
     },
     {
@@ -119,6 +135,36 @@
      "r": "s. 235",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Etyka zawodowa funkcjonariuszy służb państwowych",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: Rwi6dif",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. P. Chrobak, dr L. Hurska-Kowalczyk, dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vlu57ps",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -205,6 +251,21 @@
      "r": "s. 048",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. P. Chrobak, dr L. Hurska-Kowalczyk, dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vlu57ps",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -340,6 +401,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr K. Radziecka- Filipowiak",
+     "r": "s. 237",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Zarządzanie w sytuacjach kryzysowych",
      "k": "CW",
      "time": [
@@ -365,6 +440,20 @@
      "n": "kod MS Teams: dwpgkq9",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo człowieka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr M. Brzostek",
+     "r": "s. 177",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -467,6 +556,20 @@
      "n": "kod MS Teams: 205b7ji",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo człowieka",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr M. Brzostek",
+     "r": "s. 177",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ],
@@ -513,7 +616,8 @@
      "dates": [
       "2026-10-23",
       "2026-11-06",
-      "2026-12-11"
+      "2026-12-11",
+      "2027-01-08"
      ]
     },
     {
@@ -529,6 +633,21 @@
      "n": "kod MS Teams: 205b7ji",
      "dates": [
       "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Etyka zawodowa funkcjonariuszy służb państwowych",
+     "k": "W",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: Rwi6dif",
+     "dates": [
+      "2027-01-22"
      ]
     },
     {
@@ -573,6 +692,36 @@
      "r": "s. 235",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Etyka zawodowa funkcjonariuszy służb państwowych",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr P. Ostrowski",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: Rwi6dif",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. P. Chrobak, dr L. Hurska-Kowalczyk, dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vlu57ps",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -659,6 +808,21 @@
      "r": "s. 048",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "prof. P. Chrobak, dr L. Hurska-Kowalczyk, dr R. Zych",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: vlu57ps",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -794,6 +958,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr K. Radziecka- Filipowiak",
+     "r": "s. 237",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Zarządzanie w sytuacjach kryzysowych",
      "k": "CW",
      "time": [
@@ -819,6 +997,20 @@
      "n": "kod MS Teams: dwpgkq9",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo człowieka",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr M. Brzostek",
+     "r": "s. 177",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -921,6 +1113,20 @@
      "n": "kod MS Teams: 205b7ji",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bezpieczeństwo człowieka",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr M. Brzostek",
+     "r": "s. 177",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ]

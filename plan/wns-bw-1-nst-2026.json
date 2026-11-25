@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "42 plików zjazdów (16 dni)",
- "sha256": "e7e0a9ad35691636b0b3ceb41671adca700ac6e684ccc6507937b15c8abdd291",
+ "wersja": "51 plików zjazdów (23 dni)",
+ "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-1-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-20T14:08:03.597Z",
- "checkedAt": "2026-11-24T18:41:17.983Z",
+ "changedAt": "2026-11-25T15:37:16.282Z",
+ "checkedAt": "2026-11-25T15:37:16.282Z",
  "groups": {
   "BW1": {
    "odd": [
@@ -46,6 +46,22 @@
      "dates": [
       "2026-11-27",
       "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Administracja publiczna",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr M. Szulc",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: wnkr1us",
+     "dates": [
+      "2027-01-08",
+      "2027-01-22"
      ]
     },
     {
@@ -141,6 +157,20 @@
     },
     {
      "d": 5,
+     "pl": "Psychologia",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Teoria bezpieczeństwa",
      "k": "W",
      "time": [
@@ -151,6 +181,21 @@
      "r": "s. 114",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: n0no8rz",
+     "dates": [
+      "2027-01-30"
      ]
     },
     {
@@ -227,6 +272,20 @@
     },
     {
      "d": 5,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Ochrona własności intelektualnej",
      "k": "W",
      "time": [
@@ -237,6 +296,20 @@
      "r": "s. 114",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-28"
      ]
     },
     {
@@ -255,20 +328,6 @@
     },
     {
      "d": 5,
-     "pl": "Psychologia",
-     "k": "CW",
-     "time": [
-      "10:45",
-      "13:15"
-     ],
-     "p": "dr A. Raba-Schulze",
-     "r": "s. 228",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Ochrona własności intelektualnej",
      "k": "W",
      "time": [
@@ -279,6 +338,21 @@
      "r": "s. 114",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2027-01-09",
+      "2027-01-23"
      ]
     },
     {
@@ -312,14 +386,14 @@
     },
     {
      "d": 5,
-     "pl": "Podstawy prawa",
+     "pl": "Psychologia",
      "k": "CW",
      "time": [
       "13:30",
       "16:00"
      ],
-     "p": "prof. B. Toszek",
-     "r": "s. 114",
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
      "dates": [
       "2026-11-28"
      ]
@@ -343,13 +417,27 @@
      "pl": "Najnowsza historia polityczna",
      "k": "W",
      "time": [
-      "16:00",
-      "19:30"
+      "14:15",
+      "16:45"
      ],
      "p": "prof. M. Siedziako",
      "r": "s. 114",
      "dates": [
-      "2026-11-28"
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -358,7 +446,7 @@
      "k": "W",
      "time": [
       "16:00",
-      "18:30"
+      "19:30"
      ],
      "p": "prof. M. Siedziako",
      "r": "s. 114",
@@ -378,6 +466,20 @@
      "r": "s. 248",
      "dates": [
       "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-28"
      ]
     },
     {
@@ -482,6 +584,21 @@
     },
     {
      "d": 6,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: n0no8rz",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
      "k": "W",
      "time": [
@@ -507,6 +624,35 @@
      "pg": "gr:11",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Administracja publiczna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Szulc",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: wnkr1us",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -645,6 +791,22 @@
     },
     {
      "d": 4,
+     "pl": "Administracja publiczna",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr M. Szulc",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: wnkr1us",
+     "dates": [
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Nauka o państwie i prawie",
      "k": "W",
      "time": [
@@ -736,6 +898,20 @@
     },
     {
      "d": 5,
+     "pl": "Psychologia",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Teoria bezpieczeństwa",
      "k": "W",
      "time": [
@@ -746,6 +922,21 @@
      "r": "s. 114",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: n0no8rz",
+     "dates": [
+      "2027-01-30"
      ]
     },
     {
@@ -822,6 +1013,20 @@
     },
     {
      "d": 5,
+     "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Ochrona własności intelektualnej",
      "k": "W",
      "time": [
@@ -832,6 +1037,20 @@
      "r": "s. 114",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-28"
      ]
     },
     {
@@ -850,20 +1069,6 @@
     },
     {
      "d": 5,
-     "pl": "Psychologia",
-     "k": "CW",
-     "time": [
-      "10:45",
-      "13:15"
-     ],
-     "p": "dr A. Raba-Schulze",
-     "r": "s. 228",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Ochrona własności intelektualnej",
      "k": "W",
      "time": [
@@ -874,6 +1079,21 @@
      "r": "s. 114",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2027-01-09",
+      "2027-01-23"
      ]
     },
     {
@@ -907,14 +1127,14 @@
     },
     {
      "d": 5,
-     "pl": "Podstawy prawa",
+     "pl": "Psychologia",
      "k": "CW",
      "time": [
       "13:30",
       "16:00"
      ],
-     "p": "prof. B. Toszek",
-     "r": "s. 114",
+     "p": "dr A. Raba-Schulze",
+     "r": "s. 228",
      "dates": [
       "2026-11-28"
      ]
@@ -938,13 +1158,27 @@
      "pl": "Najnowsza historia polityczna",
      "k": "W",
      "time": [
-      "16:00",
-      "19:30"
+      "14:15",
+      "16:45"
      ],
      "p": "prof. M. Siedziako",
      "r": "s. 114",
      "dates": [
-      "2026-11-28"
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy prawa",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "prof. B. Toszek",
+     "r": "s. 114",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -953,7 +1187,7 @@
      "k": "W",
      "time": [
       "16:00",
-      "18:30"
+      "19:30"
      ],
      "p": "prof. M. Siedziako",
      "r": "s. 114",
@@ -973,6 +1207,20 @@
      "r": "s. 248",
      "dates": [
       "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2026-11-28"
      ]
     },
     {
@@ -1077,6 +1325,21 @@
     },
     {
      "d": 6,
+     "pl": "Podstawy projektowania uniwersalnego",
+     "k": "K",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: n0no8rz",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Polityka zagraniczna i bezpieczeństwa Polski",
      "k": "W",
      "time": [
@@ -1102,6 +1365,35 @@
      "pg": "gr:11",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Współczesne stosunki międzynarodowe",
+     "k": "W",
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "p": "prof. J. Ruszkowski",
+     "r": "s. 114",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Administracja publiczna",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Szulc",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: wnkr1us",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {

@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "42 plików zjazdów (17 dni)",
- "sha256": "123bea1624b857c8c4a95e6cf18b49dfb86933b27844a2e1d32ff0d63cb88fec",
+ "wersja": "51 plików zjazdów (23 dni)",
+ "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
  "kierunek": "Management instytucji publicznych i Public Relations",
  "kierunekEn": "Public Institution Management and Public Relations",
  "id": "wns-mipipr-1-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-24T18:41:17.983Z",
+ "changedAt": "2026-11-25T15:37:16.282Z",
+ "checkedAt": "2026-11-25T15:37:16.282Z",
  "groups": {
   "MIPIPR2": {
    "odd": [
@@ -50,6 +50,21 @@
     },
     {
      "d": 4,
+     "pl": "Władza i przywództwo",
+     "k": "K",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: hpfyorm",
+     "dates": [
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Wykład ogólnouczelniany",
      "k": "W",
      "time": [
@@ -65,6 +80,22 @@
     },
     {
      "d": 4,
+     "pl": "Media relations",
+     "k": "K",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 6fmy4ic",
+     "dates": [
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Władza i przywództwo",
      "k": "K",
      "time": [
@@ -76,6 +107,20 @@
      "n": "kod MS Teams: hpfyorm",
      "dates": [
       "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -111,6 +156,20 @@
     },
     {
      "d": 5,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Design Thinking",
      "k": "W",
      "time": [
@@ -118,8 +177,24 @@
       "10:45"
      ],
      "p": "dr K. Kukiełko",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: z8kz3aw",
      "dates": [
       "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-30"
      ]
     },
     {
@@ -170,6 +245,34 @@
     },
     {
      "d": 5,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikowanie społeczne",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "s. 141",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Organizacja i zarządzanie w instytucjach publicznych",
      "k": "W",
      "time": [
@@ -181,6 +284,20 @@
      "n": "kod MS Teams: xavuezd",
      "dates": [
       "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -206,6 +323,8 @@
       "16:00"
      ],
      "p": "dr K. Kukiełko",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: z8kz3aw",
      "dates": [
       "2026-11-28"
      ]
@@ -243,6 +362,20 @@
     },
     {
      "d": 5,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Content marketing",
      "k": "CW",
      "time": [
@@ -253,6 +386,20 @@
      "r": "s. 237",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -319,6 +466,20 @@
     },
     {
      "d": 5,
+     "pl": "Wykład fakultatywny: Badanie struktur organizacyjnych instytucji politycznych",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "prof. Ł. Tomczak",
+     "r": "s. 237",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Władza i przywództwo",
      "k": "W",
      "time": [
@@ -330,6 +491,20 @@
      "n": "kod MS Teams: d6l8v20",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład fakultatywny: Badanie struktur organizacyjnych instytucji politycznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "prof. Ł. Tomczak",
+     "r": "s. 237",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -361,6 +536,20 @@
      "n": "kod MS Teams: 3kuvern",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr J. Witczak",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -437,6 +626,20 @@
     },
     {
      "d": 6,
+     "pl": "Komunikowanie społeczne",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Władza i przywództwo",
      "k": "W",
      "time": [
@@ -509,6 +712,20 @@
     },
     {
      "d": 6,
+     "pl": "Design Thinking",
+     "k": "K",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Organizacja i zarządzanie w instytucjach publicznych",
      "k": "W",
      "time": [
@@ -548,6 +765,20 @@
      "r": "s. 141",
      "dates": [
       "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -600,6 +831,21 @@
     },
     {
      "d": 4,
+     "pl": "Władza i przywództwo",
+     "k": "K",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: hpfyorm",
+     "dates": [
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Wykład ogólnouczelniany",
      "k": "W",
      "time": [
@@ -615,6 +861,22 @@
     },
     {
      "d": 4,
+     "pl": "Media relations",
+     "k": "K",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 6fmy4ic",
+     "dates": [
+      "2027-01-08",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Władza i przywództwo",
      "k": "K",
      "time": [
@@ -626,6 +888,20 @@
      "n": "kod MS Teams: hpfyorm",
      "dates": [
       "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-23"
      ]
     },
     {
@@ -661,6 +937,20 @@
     },
     {
      "d": 5,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Design Thinking",
      "k": "W",
      "time": [
@@ -668,8 +958,24 @@
       "10:45"
      ],
      "p": "dr K. Kukiełko",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: z8kz3aw",
      "dates": [
       "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-30"
      ]
     },
     {
@@ -720,6 +1026,34 @@
     },
     {
      "d": 5,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikowanie społeczne",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "s. 141",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Organizacja i zarządzanie w instytucjach publicznych",
      "k": "W",
      "time": [
@@ -731,6 +1065,20 @@
      "n": "kod MS Teams: xavuezd",
      "dates": [
       "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -756,6 +1104,8 @@
       "16:00"
      ],
      "p": "dr K. Kukiełko",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: z8kz3aw",
      "dates": [
       "2026-11-28"
      ]
@@ -793,6 +1143,20 @@
     },
     {
      "d": 5,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Content marketing",
      "k": "CW",
      "time": [
@@ -803,6 +1167,20 @@
      "r": "s. 237",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -869,6 +1247,20 @@
     },
     {
      "d": 5,
+     "pl": "Wykład fakultatywny: Badanie struktur organizacyjnych instytucji politycznych",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "prof. Ł. Tomczak",
+     "r": "s. 237",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Władza i przywództwo",
      "k": "W",
      "time": [
@@ -880,6 +1272,20 @@
      "n": "kod MS Teams: d6l8v20",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład fakultatywny: Badanie struktur organizacyjnych instytucji politycznych",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "prof. Ł. Tomczak",
+     "r": "s. 237",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -911,6 +1317,20 @@
      "n": "kod MS Teams: 3kuvern",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr J. Witczak",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -987,6 +1407,20 @@
     },
     {
      "d": 6,
+     "pl": "Komunikowanie społeczne",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Władza i przywództwo",
      "k": "W",
      "time": [
@@ -1059,6 +1493,20 @@
     },
     {
      "d": 6,
+     "pl": "Design Thinking",
+     "k": "K",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 239",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Organizacja i zarządzanie w instytucjach publicznych",
      "k": "W",
      "time": [
@@ -1098,6 +1546,20 @@
      "r": "s. 141",
      "dates": [
       "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

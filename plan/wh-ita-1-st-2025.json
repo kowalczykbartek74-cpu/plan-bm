@@ -1,7 +1,7 @@
 {
- "source": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
- "wersja": "2026-11-24",
- "sha256": "08151dd23cc5b85f4308b08e28885964bedbd2a9e4e4400c976986d65c6db8df",
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-25-XI-2026.xlsx",
+ "wersja": "2026-11-25",
+ "sha256": "8960fcece63fd8499af0d2091c27dc392a5c62228397a8152b64d72723f98ff5",
  "kierunek": "Italianistyka",
  "kierunekEn": "Italian Studies",
  "id": "wh-ita-1-st-2025",
@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-24T18:41:17.182Z",
+ "checkedAt": "2026-11-25T15:37:15.548Z",
  "groups": {
   "ITA2": {
    "odd": [
@@ -475,6 +475,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/zmiana-terminu-zajec-jakobiak-agnieszka-mgr/",
+    "title": "zmiana terminu zajęć-Jakóbiak Agnieszka mgr",
+    "ym": "2026-11",
+    "pub": "2026-11-25",
+    "text": "Dzień dobry, informujemy, że pracownik Agnieszka Jakóbiak zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Zespół Języków Klasycznych, Neołacińskich i Słowiańskich Sekcja kształcenia wg jednostki zatrudnienia: Akademickie Centrum Kształcenia Językowego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-26 8:10 – – – ITA-SI.25-2-PW3.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo italianistyka stacjonarne pierwszego stopnia 2 język hiszpański lektorat – Przyczyna nieobecności inne Uzasadnienie zajecia odrobione 20.11 o godz.13.00 Proponowana treść ogłoszenia dla studentów: zajecia odrobione 20.11 o godz.13.00 2 2026-12-03 8:10 – – – ITA-SI.25-2-PW3.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo italianistyka stacjonarne pierwszego stopnia 2 język hiszpański lektorat – Przyczyna nieobecności inne Uzasadnienie zajecia przeniesione na 11.12. godz.13.00 Proponowana treść ogłoszenia dla studentów: zajecia przeniesione na. 11.12. godz.13.00"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-edyta-bocian-przelozenie-zajec/",
     "title": "dr Edyta Bocian- przełożenie zajęć",
     "ym": "2026-10",
@@ -501,25 +508,25 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
@@ -527,43 +534,48 @@
      "date": "2026-11-04",
      "start": "10:00",
      "pl": "Gramatyka opisowa języka włoskiego WT",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
      "type": "note",
      "date": "2026-11-09",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-11-26",
+     "post": 0
+    },
+    {
+     "type": "note",
      "date": "2026-12-01",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-08",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-14",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-15",
-     "post": 1,
+     "post": 2,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:30:00.134Z"
+  "updatedAt": "2026-11-25T15:43:28.576Z"
  }
 }
