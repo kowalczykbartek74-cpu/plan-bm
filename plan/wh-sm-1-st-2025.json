@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-16T13:40:39.924Z",
- "checkedAt": "2026-11-25T17:52:37.294Z",
+ "checkedAt": "2026-11-26T14:59:55.144Z",
  "groups": {
   "SM2": {
    "odd": [
@@ -795,6 +795,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-agnieszka-jakobiak-odwolanie-zajec/",
+    "title": "mgr Agnieszka Jakóbiak- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Dzień dobry, informujemy, że pracownik Agnieszka Jakóbiak zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Zespół Języków Klasycznych, Neołacińskich i Słowiańskich Sekcja kształcenia wg jednostki zatrudnienia: Akademickie Centrum Kształcenia Językowego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-26 8:10 – – – SM-SI.25-2-PW4.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo stosunki międzynarodowe stacjonarne pierwszego stopnia 2 język hiszpański lektorat – Przyczyna nieobecności inne Uzasadnienie Zajęcia odrobione w dniu 20.11 o godz.13 00 Proponowana treść ogłoszenia dla studentów: Zajęcia odrobione w dniu 20.11 o godz.13 00 Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-12-03 8:10 – – – SM-SI.25-2-PW4.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo stosunki międzynarodowe stacjonarne pierwszego stopnia 2 język hiszpański lektorat – Przyczyna nieobecności inne Uzasadnienie Zajęcia bedą odrobione w dniu 11.12 o godz.13 00 Proponowana treść ogłoszenia dla studentów: Zajęcia odrobione w dniu 11.12 o godz.13 00"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-aleksander-poczewski-odwolanie-zajec/",
     "title": "mgr Aleksander Poczewski- odwołanie zajęć",
     "ym": "2026-10",
@@ -814,7 +821,7 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 1,
+     "post": 2,
      "niska": true
     },
     {
@@ -822,13 +829,23 @@
      "date": "2026-10-27",
      "start": "10:00",
      "pl": "Prawo dyplomatyczne i konsularne; ewolucja w ujęciu historycznym Odrabianie zajęc w dniu 24.XI. w sali nr 976 i w dniu 01.XII. w sali nr",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:46:24.744Z"
+  "updatedAt": "2026-11-26T15:05:43.886Z"
  }
 }

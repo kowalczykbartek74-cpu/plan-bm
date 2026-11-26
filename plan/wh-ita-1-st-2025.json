@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-25T17:52:37.294Z",
+ "checkedAt": "2026-11-26T14:59:55.144Z",
  "groups": {
   "ITA2": {
    "odd": [
@@ -475,6 +475,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-agnieszka-jakobiak-odwoloanie-zajec/",
+    "title": "mgr Agnieszka Jakóbiak- odwołoanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Dzień dobry, informujemy, że pracownik Agnieszka Jakóbiak zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Zespół Języków Klasycznych, Neołacińskich i Słowiańskich Sekcja kształcenia wg jednostki zatrudnienia: Akademickie Centrum Kształcenia Językowego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-26 8:10 – – – ITA-SI.25-2-PW3.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo italianistyka stacjonarne pierwszego stopnia 2 język hiszpański lektorat – Przyczyna nieobecności inne Uzasadnienie zajecia odrobione 20.11 o godz.13.00 Proponowana treść ogłoszenia dla studentów: zajecia odrobione 20.11 o godz.13.00 Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-12-03 8:10 – – – ITA-SI.25-2-PW3.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo italianistyka stacjonarne pierwszego stopnia 2 język hiszpański lektorat – Przyczyna nieobecności inne Uzasadnienie zajecia przeniesione na 11.12. godz.13.00 Proponowana treść ogłoszenia dla studentów: zajecia przeniesione na. 11.12. godz.13.00"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/zmiana-terminu-zajec-jakobiak-agnieszka-mgr/",
     "title": "zmiana terminu zajęć-Jakóbiak Agnieszka mgr",
     "ym": "2026-11",
@@ -508,25 +515,25 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
@@ -534,15 +541,15 @@
      "date": "2026-11-04",
      "start": "10:00",
      "pl": "Gramatyka opisowa języka włoskiego WT",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
      "type": "note",
      "date": "2026-11-09",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
@@ -552,30 +559,40 @@
     },
     {
      "type": "note",
+     "date": "2026-11-26",
+     "post": 1
+    },
+    {
+     "type": "note",
      "date": "2026-12-01",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
+     "date": "2026-12-03",
+     "post": 0
+    },
+    {
+     "type": "note",
      "date": "2026-12-08",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-14",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-15",
-     "post": 2,
+     "post": 3,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-25T15:43:28.576Z"
+  "updatedAt": "2026-11-26T15:05:43.681Z"
  }
 }

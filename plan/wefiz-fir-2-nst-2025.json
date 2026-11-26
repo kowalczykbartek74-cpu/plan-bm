@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-c0cc0121f8d0",
+ "wersja": "planynst-dee11581b201",
  "kierunek": "Finanse i rachunkowość",
  "kierunekEn": "Finance and Accounting",
  "id": "wefiz-fir-2-nst-2025",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-20T14:04:00.503Z",
- "checkedAt": "2026-11-25T17:48:35.452Z",
+ "changedAt": "2026-11-26T14:55:54.655Z",
+ "checkedAt": "2026-11-26T14:55:54.655Z",
  "groups": {
   "F20": {
    "odd": [
@@ -72,7 +72,7 @@
      ],
      "pl": "Seminarium magisterskie",
      "k": "S",
-     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. Prof. US Beata Sadowska",
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. prof. US Beata Sadowska",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -210,20 +210,6 @@
     {
      "d": 5,
      "time": [
-      "09:05",
-      "10:45"
-     ],
-     "pl": "Zarządzanie instytucjami kredytowymi",
-     "k": "CW",
-     "p": "dr Dorota Skała",
-     "r": "s. S04/05 Mic.64",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
       "10:00",
       "13:20"
      ],
@@ -257,7 +243,7 @@
      ],
      "pl": "Seminarium magisterskie",
      "k": "S",
-     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. Prof. US Beata Sadowska",
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. prof. US Beata Sadowska",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -548,6 +534,20 @@
     {
      "d": 5,
      "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "Zarządzanie instytucjami kredytowymi",
+     "k": "CW",
+     "p": "dr Dorota Skała",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
       "15:30",
       "18:50"
      ],
@@ -611,7 +611,7 @@
      ],
      "pl": "Seminarium magisterskie",
      "k": "S",
-     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. Prof. US Beata Sadowska",
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. prof. US Beata Sadowska",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -858,7 +858,7 @@
      ],
      "pl": "Seminarium magisterskie",
      "k": "S",
-     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. Prof. US Beata Sadowska",
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. prof. US Beata Sadowska",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -924,7 +924,7 @@
      ],
      "pl": "Seminarium magisterskie",
      "k": "S",
-     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. Prof. US Beata Sadowska",
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. prof. US Beata Sadowska",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -1062,20 +1062,6 @@
     {
      "d": 5,
      "time": [
-      "09:05",
-      "10:45"
-     ],
-     "pl": "Zarządzanie instytucjami kredytowymi",
-     "k": "CW",
-     "p": "dr Dorota Skała",
-     "r": "s. S04/05 Mic.64",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
       "10:00",
       "13:20"
      ],
@@ -1109,7 +1095,7 @@
      ],
      "pl": "Seminarium magisterskie",
      "k": "S",
-     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. Prof. US Beata Sadowska",
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. prof. US Beata Sadowska",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -1400,6 +1386,20 @@
     {
      "d": 5,
      "time": [
+      "14:35",
+      "16:15"
+     ],
+     "pl": "Zarządzanie instytucjami kredytowymi",
+     "k": "CW",
+     "p": "dr Dorota Skała",
+     "r": "s. S04/05 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
       "15:30",
       "18:50"
      ],
@@ -1463,7 +1463,7 @@
      ],
      "pl": "Seminarium magisterskie",
      "k": "S",
-     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. Prof. US Beata Sadowska",
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. prof. US Beata Sadowska",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [
@@ -1710,7 +1710,7 @@
      ],
      "pl": "Seminarium magisterskie",
      "k": "S",
-     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. Prof. US Beata Sadowska",
+     "p": "prof. dr hab. Jolanta Iwin-Garzyńska, dr hab. prof. US Agnieszka Majewska, dr hab. Agnieszka Preś-Perepeczo, dr hab. prof. US Beata Sadowska",
      "r": "online",
      "n": "e-zajęcia",
      "dates": [

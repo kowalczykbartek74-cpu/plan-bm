@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-13T13:10:38.170Z",
- "checkedAt": "2026-11-25T17:53:54.288Z",
+ "checkedAt": "2026-11-26T15:00:56.911Z",
  "groups": {
   "PRAWO2": {
    "odd": [
@@ -2235,6 +2235,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-ii-gr-1-2-4-5-odwolanie-cwiczen-z-przedmiotu-prawo-administracyjne-z-dnia-27-11-2026-mgr-a-budysz/",
+    "title": "SSP II (gr. 1, 2, 4, 5) – odwołanie ćwiczeń z przedmiotu Prawo administracyjne z dnia 27.11.2026 (mgr A. Budysz)",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Informujemy, że ćwiczenia dla grupy 1, 2, 4 i 5 z przedmiotu Prawo administracyjne w dniu 27.11.2026 nie odbędą się. Termin odrobienia zajęć zostanie podany do wiadomości wkrótce."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/odwolane-konsultacje-dydaktyczne-prof-dra-hab-l-pohla-w-dn-26-11-2026-r/",
     "title": "Odwołane konsultacje dydaktyczne prof. dra hab. Ł. Pohla w dn. 26.11.2026 r.",
     "ym": "2026-11",
@@ -2408,12 +2415,12 @@
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 23
+     "post": 24
     },
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 20,
+     "post": 21,
      "niska": true
     },
     {
@@ -2421,9 +2428,9 @@
      "date": "2026-10-30",
      "start": "17:00",
      "pl": "Międzynarodowe prawo publiczne - wersja PBL",
-     "post": 19,
+     "post": 20,
      "posts": [
-      19
+      20
      ]
     },
     {
@@ -2431,9 +2438,9 @@
      "date": "2026-10-30",
      "start": "13:30",
      "pl": "Międzynarodowe prawo publiczne",
-     "post": 19,
+     "post": 20,
      "posts": [
-      19
+      20
      ]
     },
     {
@@ -2441,9 +2448,9 @@
      "date": "2026-10-30",
      "start": "15:15",
      "pl": "Międzynarodowe prawo publiczne",
-     "post": 19,
+     "post": 20,
      "posts": [
-      19
+      20
      ]
     },
     {
@@ -2451,9 +2458,9 @@
      "date": "2026-11-09",
      "start": "17:00",
      "pl": "Prawo administracyjne I",
-     "post": 17,
+     "post": 18,
      "posts": [
-      17
+      18
      ]
     },
     {
@@ -2461,15 +2468,15 @@
      "date": "2026-11-09",
      "start": "15:15",
      "pl": "Prawo administracyjne I",
-     "post": 17,
+     "post": 18,
      "posts": [
-      17
+      18
      ]
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 16,
+     "post": 17,
      "niska": true
     },
     {
@@ -2477,9 +2484,9 @@
      "date": "2026-11-20",
      "start": "13:30",
      "pl": "Prawo karne I",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
@@ -2487,26 +2494,26 @@
      "date": "2026-11-20",
      "start": "15:15",
      "pl": "Prawo karne I",
-     "post": 7,
+     "post": 8,
      "posts": [
-      7
+      8
      ]
     },
     {
      "type": "note",
      "date": "2026-11-25",
-     "post": 10
+     "post": 11
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 0,
+     "post": 1,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 13,
+     "post": 14,
      "niska": true
     },
     {
@@ -2514,9 +2521,19 @@
      "date": "2026-11-26",
      "start": "10:00",
      "pl": "Prawo karne I",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-27",
+     "start": "10:00",
+     "pl": "Prawo administracyjne I",
+     "post": 0,
+     "posts": [
+      0
      ]
     },
     {
@@ -2524,9 +2541,19 @@
      "date": "2026-11-27",
      "start": "10:00",
      "pl": "Prawo cywilne część ogólna",
-     "post": 8,
+     "post": 9,
      "posts": [
-      8
+      9
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-27",
+     "start": "11:45",
+     "pl": "Prawo administracyjne I",
+     "post": 0,
+     "posts": [
+      0
      ]
     },
     {
@@ -2534,9 +2561,29 @@
      "date": "2026-11-27",
      "start": "11:45",
      "pl": "Prawo cywilne część ogólna",
-     "post": 8,
+     "post": 9,
      "posts": [
-      8
+      9
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-27",
+     "start": "13:30",
+     "pl": "Prawo administracyjne I",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-27",
+     "start": "15:15",
+     "pl": "Prawo administracyjne I",
+     "post": 0,
+     "posts": [
+      0
      ]
     },
     {
@@ -2549,12 +2596,12 @@
      "k": "CW",
      "p": "mgr W. Brewka",
      "r": "s. 220",
-     "post": 2
+     "post": 3
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 13,
+     "post": 14,
      "niska": true
     },
     {
@@ -2567,10 +2614,10 @@
      "k": "CW",
      "p": "mgr W. Brewka",
      "r": "s. 218",
-     "post": 2
+     "post": 3
     }
    ]
   },
-  "updatedAt": "2026-11-25T15:43:47.422Z"
+  "updatedAt": "2026-11-26T15:06:05.215Z"
  }
 }

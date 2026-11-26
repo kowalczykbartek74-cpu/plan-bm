@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-25T17:53:54.288Z",
- "checkedAt": "2026-11-25T17:53:54.288Z",
+ "changedAt": "2026-11-26T15:00:56.911Z",
+ "checkedAt": "2026-11-26T15:00:56.911Z",
  "groups": {
   "PRAWO3": {
    "odd": [
@@ -2719,6 +2719,13 @@
   "source": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iii-odwolanie-zajec-z-przedmiotu-podstawy-retoryki-i-erystyki-w-dn-26-11-2026-r/",
+    "title": "SSP III – odwołanie zajęć z przedmiotu Podstawy retoryki i erystyki w dn. 26.11.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Informujemy, że zajęcia z przedmiotu Podstawy retoryki i erystyki w dniu 26.11.2026 nie odbędą się i zostaną odrobione poprzez wydłużenie zajęć w dniu 3.12.2026 tj. zajęcia odbędą się w godzinach 15.00 – 18.15."
+   },
+   {
     "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/11/ssp-iii-odwolane-cwiczenia-z-przedmiotu-postepowanie-administracyjne-i-sadowoadministracyjne-mgr-w-szczap-w-dn-24-11-2026-r-gr-1-7/",
     "title": "SSP III – odwołane ćwiczenia z przedmiotu Postępowanie administracyjne i sądowoadministracyjne (mgr W. Szczap) w dn. 24.11.2026 r. (gr 1, 7)",
     "ym": "2026-11",
@@ -2801,38 +2808,38 @@
     {
      "type": "note",
      "date": "2026-10-29",
-     "post": 9,
+     "post": 10,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 8
+     "post": 9
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 1
+     "post": 2
     },
     {
      "type": "note",
      "date": "2026-11-12",
-     "post": 6,
+     "post": 7,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-24",
-     "post": 3
+     "post": 4
     },
     {
      "type": "cancel",
      "date": "2026-11-24",
      "start": "14:30",
      "pl": "Prawo gospodarcze publiczne",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
@@ -2840,15 +2847,20 @@
      "date": "2026-11-24",
      "start": "16:15",
      "pl": "Postępowanie administracyjne i sądowoadministracyjne",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 5,
+     "post": 0
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 6,
      "niska": true
     },
     {
@@ -2861,12 +2873,12 @@
      "k": "X",
      "p": "mgr W. Szczap",
      "r": "s. 220",
-     "post": 0
+     "post": 1
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 5,
+     "post": 6,
      "niska": true
     },
     {
@@ -2879,7 +2891,7 @@
      "k": "X",
      "p": "mgr W. Szczap",
      "r": "s. 201",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -2890,10 +2902,10 @@
      "pl": "Prawo cywilne - zobowiązania I",
      "k": "CW",
      "p": "dr A. Tomczyk",
-     "post": 4
+     "post": 5
     }
    ]
   },
-  "updatedAt": "2026-11-25T15:43:47.392Z"
+  "updatedAt": "2026-11-26T15:06:05.181Z"
  }
 }

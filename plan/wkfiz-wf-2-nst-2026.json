@@ -1,6 +1,6 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "o5.html 2026-11-19 09:45:05",
+ "wersja": "o5.html 2026-11-26 10:44:39",
  "kierunek": "Wychowanie fizyczne",
  "kierunekEn": "Physical Education",
  "id": "wkfiz-wf-2-nst-2026",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-13T13:09:36.485Z",
- "checkedAt": "2026-11-25T17:52:29.808Z",
+ "changedAt": "2026-11-26T14:59:47.591Z",
+ "checkedAt": "2026-11-26T14:59:47.591Z",
  "groups": {
   "WF1": {
    "odd": [
@@ -145,6 +145,20 @@
       "11:30"
      ],
      "pl": "Metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Metodyka edukacji zdrowotnej",
      "k": "LAB",
      "p": "dr Halina Budis",
      "r": "s. 218",
@@ -164,20 +178,6 @@
      "r": "s. 218",
      "dates": [
       "2027-01-09"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "pl": "Statystyka",
-     "k": "CW",
-     "p": "mgr Robert Terczyński",
-     "r": "s. 127 komputerowa",
-     "dates": [
-      "2027-01-16"
      ]
     },
     {
@@ -374,8 +374,7 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-10-17",
-      "2027-01-16"
+      "2026-10-17"
      ]
     },
     {
@@ -390,6 +389,20 @@
      "r": "s. 218",
      "dates": [
       "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2027-01-16"
      ]
     },
     {
@@ -855,6 +868,20 @@
       "11:30"
      ],
      "pl": "Metodyka edukacji zdrowotnej",
+     "k": "W",
+     "p": "dr Halina Budis",
+     "r": "s. 218",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Metodyka edukacji zdrowotnej",
      "k": "LAB",
      "p": "dr Halina Budis",
      "r": "s. 218",
@@ -874,20 +901,6 @@
      "r": "s. 218",
      "dates": [
       "2027-01-09"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "10:00",
-      "11:30"
-     ],
-     "pl": "Statystyka",
-     "k": "CW",
-     "p": "mgr Robert Terczyński",
-     "r": "s. 127 komputerowa",
-     "dates": [
-      "2027-01-16"
      ]
     },
     {
@@ -1084,8 +1097,7 @@
      "p": "dr Halina Budis",
      "r": "s. 218",
      "dates": [
-      "2026-10-17",
-      "2027-01-16"
+      "2026-10-17"
      ]
     },
     {
@@ -1100,6 +1112,20 @@
      "r": "s. 218",
      "dates": [
       "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Statystyka",
+     "k": "CW",
+     "p": "mgr Robert Terczyński",
+     "r": "s. 127 komputerowa",
+     "dates": [
+      "2027-01-16"
      ]
     },
     {

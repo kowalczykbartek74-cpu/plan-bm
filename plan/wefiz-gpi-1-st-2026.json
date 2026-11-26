@@ -10,7 +10,7 @@
  "semestr": "zimowy",
  "updated": "25.11.2026 14:16",
  "changedAt": "2026-11-09T13:43:12.536Z",
- "checkedAt": "2026-11-25T17:44:36.867Z",
+ "checkedAt": "2026-11-26T14:51:59.883Z",
  "groups": {
   "M160": {
    "odd": [
@@ -371,6 +371,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m160-m260-m360-harmonogram-odrobienia-zajec-z-dni-4-7-12-2026-r/",
+    "title": "M160, M260, M360- harmonogram odrobienia zajęć z dni 4, 7.12.2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Z uwagi na wyjazd studyjny w ramach projektu green economy w terminie 03-07.12.2026 r. zajęcia objęte planem studiów dla 1,2 i 3 roku nie odbędą się. Poniżej harmonogram odrobienia zajęć: 1 rok GP, M160 Przedmiot Prowadzący Termin zajęć Termin odrobienia sala wprowadzenie do socjologii dr Żaneta Stasieniuk 04.12.26 godz. 08.15 30.11.26 godz. 15.30 (poniedziałek TN) sala S04/05 geografia gospodarcza (ćw) dr hab. prof. Paweł Czapliński 04.12.26 godz. 10.00 30.11.26 godz. 08.15 (poniedziałek TN) S0104 podstawy gospodarki przestrzennej mgr Sara Bręcz-Kupiec 04.12.26 godz. 12.00 27.11.26 godz. 13.45 (piątek TP) S0123B lab systemy i techniki informatyczne dr Rafał Czyżycki 07.12.26 godz. 10.00 14.12.26 godz. 08.15 (poniedziałek TN) N021A lab geografia gospodarcza (w) dr hab. prof. Paweł Czapliński 07.12.26 godz. 12.00 27.11.26 godz. 08.15 (piątek TP) S0104 matematyka dr Anna Landowska 07.12.26 godz. 13.45 08.12.26 godz. 13.45 (wtorek TP) S019 2 rok GP, M260 planowanie przestrzenne dr hab. prof. US Igor Kavetskyy 07.12.26 godz. 08.15 08.12.26 godz. 13.45 (wtorek TP) N21 podstawy projektowania dr Jacek Rudewicz 07.12.26 godz. 10.00 (godz. realizowane na wyjeździe) geografia osadnictwa dr Anna Czaplińska 07.12.26 godz. 12.00 21.12.26 godz. 13.45 (poniedziałek TP) S0104 3 GP, M360 j. niemiecki mgr M. Kisiel Spychała 04.12.26 godz. 08.15 indywidualne konsultacje (GP ma łączony język z innymi kierunkami) infrastruktura danych przestrzennych w Polsce dr Natalia Sypion 04.12.26 godz. 10.00 27.11.26 godz. 12.00 (piątek TP) N103 lab projektowanie urbanistyczne dr hab. prof. US Michał Kupiec 07.12.26 godz. 12.00 (godz. realizowane na wyjeździe) statystyka publiczna i rejestry urzędowe dr Rafał Czyżycki 07.12.26 godz. 13.45 30.11.26 godz. 15.30 (poniedziałek TN) N105 lab seminarium dyplomowe dr Jacek Rudewicz 07.12.26 godz. 15.30 (godz. realizowane na wyjeździe)"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m150-m151-m160-m240-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniach-03-04-11-2026-r/",
     "title": "M150, M151, M160, M240- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r.",
     "ym": "2026-10",
@@ -390,7 +397,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M151",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -402,7 +409,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M160",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -414,7 +421,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S07 M160",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -426,7 +433,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S103 M150",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -438,10 +445,183 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S08 M240",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-27",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-27",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-27",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-30",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-30",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "r": "S04/05",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-04",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Wprowadzenie do socjologii",
+     "k": "X",
+     "p": "dr Żaneta Stasieniuk",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-04",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Geografia gospodarcza",
+     "k": "X",
+     "p": "dr hab. prof. US Paweł Czapliński",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-04",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy gospodarki przestrzennej",
+     "k": "X",
+     "p": "dr hab. prof. US Igor Kavetskyy",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-07",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-07",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Systemy i techniki informatyczne",
+     "k": "LAB",
+     "p": "dr Rafał Czyżycki",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-07",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Geografia gospodarcza",
+     "k": "X",
+     "p": "dr hab. prof. US Paweł Czapliński",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-07",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Matematyka",
+     "k": "X",
+     "p": "dr Anna Landowska",
+     "post": 0,
+     "dup": true
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-07",
+     "start": "15:30",
+     "end": "17:00",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-14",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-21",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:02:51.114Z"
+  "updatedAt": "2026-11-26T15:02:46.719Z"
  }
 }

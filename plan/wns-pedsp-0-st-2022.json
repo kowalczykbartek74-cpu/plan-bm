@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:36:16.379Z",
- "checkedAt": "2026-11-25T17:52:38.196Z",
+ "checkedAt": "2026-11-26T14:59:55.826Z",
  "groups": {
   "PEDSP5": {
    "odd": [
@@ -541,6 +541,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/odwolanie-zajec-z-dr-joanna-bulawa-halasz-2/",
+    "title": "Odwołanie zajęć z dr Joanną Buławą-Halasz.",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Odwołanie zajęć z dr Joanną Buławą-Halasz. — Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-26 11:45 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo pedagogika specjalna stacjonarne jednolite magisterskie 5 metody wspomagające rozwój osób ze spektrum autyzmu wykład – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, dnia 26.11. wykład z dr Joanną Buławą-Halasz nie odbędą się ze względu na wyjazd na konferencję. Zajęcia zostaną odpracowane w późniejszym, wspólnie ustalonym terminie."
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/odwolane-zajecia-z-dr-joanna-bulawa-halasz-9/",
     "title": "Odwołane zajęcia z dr Joanną Buławą-Halasz",
     "ym": "2026-11",
@@ -574,7 +581,7 @@
     {
      "type": "note",
      "date": "2026-11-05",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
@@ -582,19 +589,29 @@
      "date": "2026-11-09",
      "start": "10:00",
      "pl": "Diagnoza i ocena funkcjonowania osób ze spektrum autyzmu",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
      "type": "note",
      "date": "2026-11-16",
-     "post": 0,
+     "post": 1,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-26",
+     "start": "11:45",
+     "pl": "Metody wspomagania rozwoju osób ze spektrum autyzmu",
+     "post": 0,
+     "posts": [
+      0
+     ]
     }
    ]
   },
-  "updatedAt": "2026-11-16T13:46:33.458Z"
+  "updatedAt": "2026-11-26T15:05:54.826Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-19T14:05:46.797Z",
- "checkedAt": "2026-11-25T17:52:38.196Z",
+ "checkedAt": "2026-11-26T14:59:55.826Z",
  "groups": {
   "POL2": {
    "odd": [
@@ -891,6 +891,13 @@
   "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-zajec-z-dr-slawomirem-ozdykiem/",
+    "title": "Zmiana terminu zajęć z dr Sławomirem Ozdykiem",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Informujemy, iż zajęcia zaplanowane na dzień 27 XI 2026 r. nie odbędą się. Zajęcia te zostały odrobione w dniach 6 i 20 XI 2026 r."
+   },
+   {
     "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/termin-odrobienia-zajec-z-dr-t-bodnarem/",
     "title": "Termin odrobienia zajęć z dr. T. Bodnarem",
     "ym": "2026-10",
@@ -906,8 +913,21 @@
    }
   ],
   "zmiany": {
-   "POL2": []
+   "POL2": [
+    {
+     "type": "note",
+     "date": "2026-11-20",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-27",
+     "post": 0,
+     "niska": true
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T23:31:06.706Z"
+  "updatedAt": "2026-11-26T15:05:54.905Z"
  }
 }

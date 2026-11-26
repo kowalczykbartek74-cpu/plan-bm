@@ -1,6 +1,6 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "o2.html 2026-11-19 09:45:05",
+ "wersja": "o2.html 2026-11-26 10:44:39",
  "kierunek": "Wychowanie fizyczne",
  "kierunekEn": "Physical Education",
  "id": "wkfiz-wf-1-nst-2026",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-13T13:09:36.485Z",
- "checkedAt": "2026-11-25T17:52:29.808Z",
+ "changedAt": "2026-11-26T14:59:47.591Z",
+ "checkedAt": "2026-11-26T14:59:47.591Z",
  "groups": {
   "WF1": {
    "odd": [
@@ -117,7 +117,7 @@
      "r": "s. 127 komputerowa",
      "pg": "lb2",
      "dates": [
-      "2026-12-05"
+      "2027-01-16"
      ]
     },
     {
@@ -165,21 +165,6 @@
      "dates": [
       "2026-11-28",
       "2026-12-05"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "08:15",
-      "09:45"
-     ],
-     "pl": "Zabawy i gry ruchowe",
-     "k": "CW",
-     "p": "dr Maciej Zawadzki",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "pg": "ćs1",
-     "dates": [
-      "2026-12-19"
      ]
     },
     {
@@ -245,6 +230,21 @@
       "10:00",
       "11:30"
      ],
+     "pl": "Muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
      "pl": "Technologia informacyjna",
      "k": "W",
      "p": "dr Jarosław Nadobnik",
@@ -265,7 +265,8 @@
      "r": "s. 127 komputerowa",
      "pg": "lb1",
      "dates": [
-      "2026-12-05"
+      "2026-12-05",
+      "2027-01-16"
      ]
     },
     {
@@ -352,7 +353,7 @@
      "k": "LAB",
      "p": "dr hab. Katarzyna Leźnicka, prof. US",
      "r": "s. 217 anatomia",
-     "pg": "lb1",
+     "pg": "lb2",
      "dates": [
       "2027-01-09"
      ]
@@ -366,7 +367,7 @@
      "pl": "Biologiczne podstawy wysiłku",
      "k": "CW",
      "p": "dr Maciej Buryta",
-     "r": "s. 223",
+     "r": "s. 119",
      "dates": [
       "2027-01-16"
      ]
@@ -396,7 +397,7 @@
      "k": "CW",
      "p": "mgr Klaudia Wirkus",
      "r": "salka 13, hala WKFiZ",
-     "pg": "ćs2",
+     "pg": "ćs1",
      "dates": [
       "2027-01-09"
      ]
@@ -435,11 +436,11 @@
       "11:45",
       "13:15"
      ],
-     "pl": "Pierwsz pomoc",
+     "pl": "Pierwsza pomoc",
      "k": "LAB",
      "p": "dr Maciej Zawadzki",
      "r": "salka 13, hala WKFiZ",
-     "pg": "lb2",
+     "pg": "lb1",
      "dates": [
       "2026-12-05"
      ]
@@ -484,7 +485,7 @@
      "k": "LAB",
      "p": "dr hab. Katarzyna Leźnicka, prof. US",
      "r": "s. 217 anatomia",
-     "pg": "lb2",
+     "pg": "lb1",
      "dates": [
       "2027-01-09"
      ]
@@ -516,7 +517,21 @@
      "r": "salka 13, hala WKFiZ",
      "pg": "ćs1",
      "dates": [
-      "2026-12-12",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
       "2027-01-09"
      ]
     },
@@ -532,7 +547,7 @@
      "r": "s. 127 komputerowa",
      "pg": "lb2",
      "dates": [
-      "2027-01-16"
+      "2026-12-05"
      ]
     },
     {
@@ -577,7 +592,8 @@
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs1",
      "dates": [
-      "2026-11-21"
+      "2026-11-21",
+      "2026-12-05"
      ]
     },
     {
@@ -592,7 +608,7 @@
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs2",
      "dates": [
-      "2026-12-05"
+      "2027-01-16"
      ]
     },
     {
@@ -652,8 +668,7 @@
      "r": "s. 127 komputerowa",
      "pg": "lb1",
      "dates": [
-      "2027-01-09",
-      "2027-01-16"
+      "2027-01-09"
      ]
     },
     {
@@ -698,7 +713,23 @@
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs2",
      "dates": [
-      "2026-11-21"
+      "2026-11-21",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-16"
      ]
     },
     {
@@ -773,36 +804,6 @@
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs1",
-     "dates": [
-      "2027-01-09",
-      "2027-01-16"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "18:45",
-      "20:15"
-     ],
-     "pl": "Teoria i metodyka lekkiej atletyki",
-     "k": "W",
-     "p": "dr Marek Kolbowicz",
-     "r": "s. 223",
-     "dates": [
-      "2026-12-05"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "18:45",
-      "20:15"
-     ],
-     "pl": "Zabawy i gry ruchowe",
-     "k": "CW",
-     "p": "dr Maciej Zawadzki",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "pg": "ćs2",
      "dates": [
       "2027-01-09"
      ]
@@ -1335,13 +1336,12 @@
       "15:15",
       "16:45"
      ],
-     "pl": "Pierwsza pomoc",
-     "k": "LAB",
-     "p": "dr Maciej Zawadzki",
-     "r": "salka 13, hala WKFiZ",
-     "pg": "lb1",
+     "pl": "Teoria i metodyka lekkiej atletyki",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 223",
      "dates": [
-      "2026-12-06"
+      "2026-12-13"
      ]
     },
     {
@@ -1477,7 +1477,7 @@
      "r": "s. 127 komputerowa",
      "pg": "lb2",
      "dates": [
-      "2026-12-05"
+      "2027-01-16"
      ]
     },
     {
@@ -1525,21 +1525,6 @@
      "dates": [
       "2026-11-28",
       "2026-12-05"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "08:15",
-      "09:45"
-     ],
-     "pl": "Zabawy i gry ruchowe",
-     "k": "CW",
-     "p": "dr Maciej Zawadzki",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "pg": "ćs1",
-     "dates": [
-      "2026-12-19"
      ]
     },
     {
@@ -1605,6 +1590,21 @@
       "10:00",
       "11:30"
      ],
+     "pl": "Muzyka, rytm, taniec",
+     "k": "CW",
+     "p": "mgr Klaudia Wirkus",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "ćs2",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
      "pl": "Technologia informacyjna",
      "k": "W",
      "p": "dr Jarosław Nadobnik",
@@ -1625,7 +1625,8 @@
      "r": "s. 127 komputerowa",
      "pg": "lb1",
      "dates": [
-      "2026-12-05"
+      "2026-12-05",
+      "2027-01-16"
      ]
     },
     {
@@ -1712,7 +1713,7 @@
      "k": "LAB",
      "p": "dr hab. Katarzyna Leźnicka, prof. US",
      "r": "s. 217 anatomia",
-     "pg": "lb1",
+     "pg": "lb2",
      "dates": [
       "2027-01-09"
      ]
@@ -1726,7 +1727,7 @@
      "pl": "Biologiczne podstawy wysiłku",
      "k": "CW",
      "p": "dr Maciej Buryta",
-     "r": "s. 223",
+     "r": "s. 119",
      "dates": [
       "2027-01-16"
      ]
@@ -1756,7 +1757,7 @@
      "k": "CW",
      "p": "mgr Klaudia Wirkus",
      "r": "salka 13, hala WKFiZ",
-     "pg": "ćs2",
+     "pg": "ćs1",
      "dates": [
       "2027-01-09"
      ]
@@ -1795,11 +1796,11 @@
       "11:45",
       "13:15"
      ],
-     "pl": "Pierwsz pomoc",
+     "pl": "Pierwsza pomoc",
      "k": "LAB",
      "p": "dr Maciej Zawadzki",
      "r": "salka 13, hala WKFiZ",
-     "pg": "lb2",
+     "pg": "lb1",
      "dates": [
       "2026-12-05"
      ]
@@ -1844,7 +1845,7 @@
      "k": "LAB",
      "p": "dr hab. Katarzyna Leźnicka, prof. US",
      "r": "s. 217 anatomia",
-     "pg": "lb2",
+     "pg": "lb1",
      "dates": [
       "2027-01-09"
      ]
@@ -1876,7 +1877,21 @@
      "r": "salka 13, hala WKFiZ",
      "pg": "ćs1",
      "dates": [
-      "2026-12-12",
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Pierwsz pomoc",
+     "k": "LAB",
+     "p": "dr Maciej Zawadzki",
+     "r": "salka 13, hala WKFiZ",
+     "pg": "lb2",
+     "dates": [
       "2027-01-09"
      ]
     },
@@ -1892,7 +1907,7 @@
      "r": "s. 127 komputerowa",
      "pg": "lb2",
      "dates": [
-      "2027-01-16"
+      "2026-12-05"
      ]
     },
     {
@@ -1937,7 +1952,8 @@
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs1",
      "dates": [
-      "2026-11-21"
+      "2026-11-21",
+      "2026-12-05"
      ]
     },
     {
@@ -1952,7 +1968,7 @@
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs2",
      "dates": [
-      "2026-12-05"
+      "2027-01-16"
      ]
     },
     {
@@ -2012,8 +2028,7 @@
      "r": "s. 127 komputerowa",
      "pg": "lb1",
      "dates": [
-      "2027-01-09",
-      "2027-01-16"
+      "2027-01-09"
      ]
     },
     {
@@ -2058,7 +2073,23 @@
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs2",
      "dates": [
-      "2026-11-21"
+      "2026-11-21",
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Zabawy i gry ruchowe",
+     "k": "CW",
+     "p": "dr Maciej Zawadzki",
+     "r": "hala WKFiZ al.Piastów 40b, bud.7",
+     "pg": "ćs1",
+     "dates": [
+      "2027-01-16"
      ]
     },
     {
@@ -2133,36 +2164,6 @@
      "p": "dr Maciej Zawadzki",
      "r": "hala WKFiZ al.Piastów 40b, bud.7",
      "pg": "ćs1",
-     "dates": [
-      "2027-01-09",
-      "2027-01-16"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "18:45",
-      "20:15"
-     ],
-     "pl": "Teoria i metodyka lekkiej atletyki",
-     "k": "W",
-     "p": "dr Marek Kolbowicz",
-     "r": "s. 223",
-     "dates": [
-      "2026-12-05"
-     ]
-    },
-    {
-     "d": 5,
-     "time": [
-      "18:45",
-      "20:15"
-     ],
-     "pl": "Zabawy i gry ruchowe",
-     "k": "CW",
-     "p": "dr Maciej Zawadzki",
-     "r": "hala WKFiZ al.Piastów 40b, bud.7",
-     "pg": "ćs2",
      "dates": [
       "2027-01-09"
      ]
@@ -2695,13 +2696,12 @@
       "15:15",
       "16:45"
      ],
-     "pl": "Pierwsza pomoc",
-     "k": "LAB",
-     "p": "dr Maciej Zawadzki",
-     "r": "salka 13, hala WKFiZ",
-     "pg": "lb1",
+     "pl": "Teoria i metodyka lekkiej atletyki",
+     "k": "W",
+     "p": "dr Marek Kolbowicz",
+     "r": "s. 223",
      "dates": [
-      "2026-12-06"
+      "2026-12-13"
      ]
     },
     {

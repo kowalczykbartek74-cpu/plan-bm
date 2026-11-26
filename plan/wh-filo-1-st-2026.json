@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-25T17:52:37.294Z",
+ "checkedAt": "2026-11-26T14:59:55.144Z",
  "groups": {
   "FILO1": {
    "odd": [
@@ -513,6 +513,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/78813/",
+    "title": "utworzone przez Małgorzata Kwiatkowska",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Dzień dobry, informujemy, że pracownik Tomasz Szubart zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Filozofii i Kognitywistyki Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-01 15:15 2026-12-08 17:00 089 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filozofia stacjonarne drugiego stopnia 1 seminarium dyplomowe seminarium – Przyczyna nieobecności wyjazd służbowy Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z uwagi na wyjazd służbowy muszę przełożyć zajęcia 1.12. Odrobimy je 12.08. Pozdrawiam Tomasz Szubart informujemy, że pracownik Tomasz Szubart zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Filozofii i Kognitywistyki Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-12-01 13:30 2027-01-20 10:00 90 FILO-SI.26-11 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filozofia stacjonarne pierwszego stopnia 1 kultura logicznego myślenia ćwiczenia – Przyczyna nieobecności wyjazd służbowy Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z uwagi na wyjazd służbowy muszę przełożyć zajęcia 1.12. Odrobimy je w środę 20.1.27 o 10:00. Pozdrawiam Tomasz Szubart"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/odwolane-zajecia-dr-k-ciarcinska/",
     "title": "odwołane zajęcia- dr K. Ciarcińska",
     "ym": "2026-11",
@@ -535,8 +542,32 @@
    }
   ],
   "zmiany": {
-   "FILO1": []
+   "FILO1": [
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "13:30",
+     "pl": "Kultura logicznego myślenia",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2027-01-20",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Kultura logicznego myślenia",
+     "k": "CW",
+     "p": "dr Tomasz Szubart",
+     "r": "s. 90",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-09T18:07:28.037Z"
+  "updatedAt": "2026-11-26T15:05:43.222Z"
  }
 }

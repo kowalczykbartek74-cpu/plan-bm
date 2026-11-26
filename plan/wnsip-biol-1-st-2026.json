@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-25T17:53:32.828Z",
+ "checkedAt": "2026-11-26T15:00:39.040Z",
  "groups": {
   "BIOL1": {
    "odd": [
@@ -1141,6 +1141,20 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/biotechnologia-i-st-1-rok-odwolane-zajecia-z-biologii-komorki-w-dniu-01-12/",
+    "title": "Biotechnologia I st. 1 rok – odwołane zajęcia z biologii komórki w dniu 01.12.",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Drodzy Studenci, informuję, że zajęcia zaplanowane na 1 grudnia 2026 r. zostają odwołane w związku z pogrzebem mojej Mamy. Bardzo proszę Państwa o wyrozumiałość w tym trudnym dla mnie czasie. Jednocześnie proszę starostę grupy o kontakt ze mną w celu wspólnego ustalenia dogodnego terminu odrobienia zajęć. Dziękuję za zrozumienie. Pozdrawiam serdecznie Ewa Filip"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/gibe-i-st-1-rok-gr-2-odwolane-zajecia-z-biologii-komorki-w-dniu-30-11/",
+    "title": "GiBE I st. 1 rok (GR. 2) – odwołane zajęcia z biologii komórki w dniu 30.11",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Drodzy Studenci, informuję, że zajęcia zaplanowane na 30 listopada 2026 r. zostają odwołane w związku z pogrzebem mojej Mamy. Bardzo proszę Państwa o wyrozumiałość w tym trudnym dla mnie czasie. Jednocześnie proszę starostę grupy o kontakt ze mną w celu wspólnego ustalenia dogodnego terminu odrobienia zajęć. Dziękuję za zrozumienie. Pozdrawiam serdecznie Ewa Filip"
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/11/mikrobiologia-i-st-1-rok-odwolane-laboratorium-z-biologii-komorki-w-dniu-25-11/",
     "title": "Mikrobiologia I st. 1 rok – odwołane laboratorium z biologii komórki w dniu 25.11",
     "ym": "2026-11",
@@ -1181,22 +1195,22 @@
     {
      "type": "note",
      "date": "2026-10-23",
-     "post": 4
+     "post": 6
     },
     {
      "type": "note",
      "date": "2026-10-27",
-     "post": 3
+     "post": 5
     },
     {
      "type": "note",
      "date": "2026-11-04",
-     "post": 2
+     "post": 4
     },
     {
      "type": "note",
      "date": "2026-11-13",
-     "post": 1
+     "post": 3
     },
     {
      "type": "extra",
@@ -1207,15 +1221,25 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "s. 5",
-     "post": 1
+     "post": 3
     },
     {
      "type": "note",
      "date": "2026-11-25",
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2026-11-30",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2026-12-01",
      "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-24T15:59:16.381Z"
+  "updatedAt": "2026-11-26T15:06:04.699Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-23T16:01:02.980Z",
- "checkedAt": "2026-11-25T17:52:37.294Z",
+ "checkedAt": "2026-11-26T14:59:55.144Z",
  "groups": {
   "FGZJA1": {
    "odd": [
@@ -833,6 +833,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/i-rok-filologii-germanskiej-z-jezykiem-angielskim-grupa-1-technologia-informacyjna/",
+    "title": "I rok filologii germańskiej z językiem angielskim (grupa 1)-technologia informacyjna",
+    "ym": "2026-11",
+    "pub": "2026-11-26",
+    "text": "Szanowni studenci I roku filologii germańskiej z językiem angielskim (grupa 1): W związku ze zmianą prowadzącego zajęcia z przedmiotu Technologia informacyjna ( grupa 1) uprzejmie informuję, że od dnia 30 listopada 2026 r. zajęcia będą odbywać się w następującym terminie: dzień: poniedziałek, godziny: 18:45–20:15, miejsce: ul. Wielkopolska 15, sala 207, prowadzący: dr Ivzhenko Liubov"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/1-rok-fgzja-zajecia-z-dr-jakovljevicem/",
     "title": "1 rok FGzJA-zajęcia z dr Jakovljevićem",
     "ym": "2026-11",
@@ -880,7 +887,7 @@
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 4
+     "post": 5
     },
     {
      "type": "extra",
@@ -892,7 +899,7 @@
      "k": "LAB",
      "p": "mgr Sylwia Hałub",
      "r": "s. 116 bud. 4",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
@@ -900,13 +907,18 @@
      "start": "13:30",
      "pl": "Praktyczna nauka języka angielskiego – kurs podstawowy",
      "moved": true,
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-30",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:11:47.124Z"
+  "updatedAt": "2026-11-26T15:05:43.157Z"
  }
 }
