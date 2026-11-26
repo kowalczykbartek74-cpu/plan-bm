@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (16 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (19 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Praca socjalna",
  "kierunekEn": "Social Work",
  "id": "wns-ps-1-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-24T15:52:19.576Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PS3": {
    "odd": [
@@ -45,6 +45,21 @@
      "dates": [
       "2026-11-27",
       "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Prawo rodzinne i opiekuńcze w Polsce, system świadczeń rodzinnych i postępowanie wobec dłużników alimentacyjnych",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Tomczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3nfhdob",
+     "dates": [
+      "2027-01-08"
      ]
     },
     {
@@ -101,6 +116,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Profilaktyka społeczna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -162,6 +191,20 @@
     },
     {
      "d": 5,
+     "pl": "Profilaktyka społeczna",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Diagnoza psychospołeczna",
      "k": "CW",
      "time": [
@@ -214,6 +257,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -288,6 +345,20 @@
     },
     {
      "d": 5,
+     "pl": "Projekt socjalny",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "mgr J. Kalińska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Poradnictwo socjalne",
      "k": "CW",
      "time": [
@@ -313,6 +384,20 @@
      "dates": [
       "2026-10-11",
       "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Poradnictwo socjalne",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -345,6 +430,20 @@
     },
     {
      "d": 6,
+     "pl": "Projekt socjalny",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "p": "mgr J. Kalińska",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Seminarium dyplomowe",
      "k": "S",
      "time": [
@@ -362,7 +461,7 @@
      "pl": "Poradnictwo socjalne",
      "k": "W",
      "time": [
-      "09:00",
+      "10:00",
       "11:30"
      ],
      "p": "dr U. Kazubowska",
@@ -450,7 +549,7 @@
       "11:45",
       "14:15"
      ],
-     "p": "mgr J. Paśnicka - Stopa",
+     "p": "mgr Magdalenę Kisiel",
      "r": "s. ul. Narutowicza 17A",
      "dates": [
       "2026-12-13"
@@ -468,6 +567,62 @@
      "r": "s. 100 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zaj. do godz. 14.00 Język niemiecki",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "mgr Magdalenę Kisiel",
+     "r": "s. ul. Narutowicza 17A",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Patologie społeczne",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr P. Popek",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ],
@@ -503,6 +658,21 @@
      ]
     },
     {
+     "d": 4,
+     "pl": "Prawo rodzinne i opiekuńcze w Polsce, system świadczeń rodzinnych i postępowanie wobec dłużników alimentacyjnych",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr A. Tomczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3nfhdob",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
      "d": 5,
      "pl": "Prawo rodzinne i opiekuńcze w Polsce, system świadczeń rodzinnych i postępowanie wobec dłużników alimentacyjnych",
      "k": "CW",
@@ -556,6 +726,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Profilaktyka społeczna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -617,6 +801,20 @@
     },
     {
      "d": 5,
+     "pl": "Profilaktyka społeczna",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Diagnoza psychospołeczna",
      "k": "CW",
      "time": [
@@ -669,6 +867,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -743,6 +955,20 @@
     },
     {
      "d": 5,
+     "pl": "Projekt socjalny",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "mgr J. Kalińska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Poradnictwo socjalne",
      "k": "CW",
      "time": [
@@ -768,6 +994,20 @@
      "dates": [
       "2026-10-11",
       "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Poradnictwo socjalne",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -800,6 +1040,20 @@
     },
     {
      "d": 6,
+     "pl": "Projekt socjalny",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "p": "mgr J. Kalińska",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Seminarium dyplomowe",
      "k": "S",
      "time": [
@@ -817,7 +1071,7 @@
      "pl": "Poradnictwo socjalne",
      "k": "W",
      "time": [
-      "09:00",
+      "10:00",
       "11:30"
      ],
      "p": "dr U. Kazubowska",
@@ -905,7 +1159,7 @@
       "11:45",
       "14:15"
      ],
-     "p": "mgr J. Paśnicka - Stopa",
+     "p": "mgr Magdalenę Kisiel",
      "r": "s. ul. Narutowicza 17A",
      "dates": [
       "2026-12-13"
@@ -923,6 +1177,62 @@
      "r": "s. 100 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Zaj. do godz. 14.00 Język niemiecki",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "mgr Magdalenę Kisiel",
+     "r": "s. ul. Narutowicza 17A",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Patologie społeczne",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr P. Popek",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr E. Sielicka",
+     "r": "s. 116 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ]

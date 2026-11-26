@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (16 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (17 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika specjalna",
  "kierunekEn": "Special Education",
  "id": "wns-pedsp-0-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PEDSP3": {
    "odd": [
@@ -245,20 +245,6 @@
      ]
     },
     {
-     "d": 5,
-     "pl": "Praca z uczniem z zaburzeniem ze spektrum autyzmu",
-     "k": "CW",
-     "time": [
-      "17:45",
-      "19:30"
-     ],
-     "p": "mgr N. Mruszczyk-Orman",
-     "r": "s. 44 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
      "d": 6,
      "pl": "Koncepcje i organizacja edukacji włączającej",
      "k": "W",
@@ -330,6 +316,20 @@
     },
     {
      "d": 6,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Rodzina a niepełnosprawność",
      "k": "CW",
      "time": [
@@ -372,16 +372,31 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Zaj. do godz. 14.00 Język niemiecki",
      "k": "CW",
      "time": [
       "11:45",
       "14:15"
      ],
-     "p": "mgr J. Paśnicka - Stopa",
+     "p": "mgr Magdalenę Kisiel",
      "r": "s. ul. Narutowicza 17A",
      "dates": [
-      "2026-12-13"
+      "2026-12-13",
+      "2027-01-10"
      ]
     },
     {
@@ -670,20 +685,6 @@
      ]
     },
     {
-     "d": 5,
-     "pl": "Praca z uczniem z zaburzeniem ze spektrum autyzmu",
-     "k": "CW",
-     "time": [
-      "17:45",
-      "19:30"
-     ],
-     "p": "mgr N. Mruszczyk-Orman",
-     "r": "s. 44 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
      "d": 6,
      "pl": "Koncepcje i organizacja edukacji włączającej",
      "k": "W",
@@ -755,6 +756,20 @@
     },
     {
      "d": 6,
+     "pl": "Podstawy języka migowego",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "mgr A. Kosztowny",
+     "r": "s. 117 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Rodzina a niepełnosprawność",
      "k": "CW",
      "time": [
@@ -797,16 +812,31 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Zaj. do godz. 14.00 Język niemiecki",
      "k": "CW",
      "time": [
       "11:45",
       "14:15"
      ],
-     "p": "mgr J. Paśnicka - Stopa",
+     "p": "mgr Magdalenę Kisiel",
      "r": "s. ul. Narutowicza 17A",
      "dates": [
-      "2026-12-13"
+      "2026-12-13",
+      "2027-01-10"
      ]
     },
     {

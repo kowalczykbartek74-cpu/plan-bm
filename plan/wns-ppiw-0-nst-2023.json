@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (15 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (18 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2023",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-24T15:52:19.576Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PPIW4": {
    "odd": [
@@ -88,6 +88,19 @@
      ]
     },
     {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
      "d": 5,
      "pl": "Emisja głosu",
      "k": "CW",
@@ -121,6 +134,34 @@
      "pl": "Metodyka wychowania fizycznego",
      "k": "W",
      "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "W",
+     "time": [
       "10:00",
       "11:30"
      ],
@@ -130,8 +171,7 @@
       "2026-10-10",
       "2026-10-24",
       "2026-11-07",
-      "2026-11-28",
-      "2026-12-12"
+      "2026-11-28"
      ]
     },
     {
@@ -146,6 +186,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -214,7 +268,7 @@
      "k": "W",
      "time": [
       "15:15",
-      "18:30"
+      "20:15"
      ],
      "p": "dr J. Karapuda",
      "r": "s. 58 ul. Ogińskiego 16-17",
@@ -264,6 +318,20 @@
     },
     {
      "d": 6,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Metodyka edukacji technicznej",
      "k": "W",
      "time": [
@@ -288,6 +356,20 @@
      "r": "s. 58 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -344,6 +426,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -416,6 +512,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "18:45",
+      "19:30"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ],
@@ -491,6 +601,19 @@
      ]
     },
     {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab.J. Orzelska, prof. US",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
      "d": 5,
      "pl": "Emisja głosu",
      "k": "CW",
@@ -524,6 +647,34 @@
      "pl": "Metodyka wychowania fizycznego",
      "k": "W",
      "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "W",
+     "time": [
       "10:00",
       "11:30"
      ],
@@ -533,8 +684,7 @@
       "2026-10-10",
       "2026-10-24",
       "2026-11-07",
-      "2026-11-28",
-      "2026-12-12"
+      "2026-11-28"
      ]
     },
     {
@@ -549,6 +699,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka wychowania fizycznego",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "prof. M. Nowak",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -617,7 +781,7 @@
      "k": "W",
      "time": [
       "15:15",
-      "18:30"
+      "20:15"
      ],
      "p": "dr J. Karapuda",
      "r": "s. 58 ul. Ogińskiego 16-17",
@@ -667,6 +831,20 @@
     },
     {
      "d": 6,
+     "pl": "Emisja głosu",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Osuchowski",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Metodyka edukacji technicznej",
      "k": "W",
      "time": [
@@ -691,6 +869,20 @@
      "r": "s. 58 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -747,6 +939,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 44 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -819,6 +1025,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Metodyka nauczania języka obcego",
+     "k": "CW",
+     "time": [
+      "18:45",
+      "19:30"
+     ],
+     "p": "dr B.Żakowska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     }
    ]

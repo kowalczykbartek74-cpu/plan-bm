@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (15 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (16 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika",
  "kierunekEn": "Pedagogy",
  "id": "wns-pedo-1-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-24T15:52:19.576Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PEDO1": {
    "odd": [
@@ -29,7 +29,21 @@
      "r": "online (MS Teams)",
      "n": "kod MS Teams: aD6z8XQ3",
      "dates": [
-      "2026-11-20",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Pedagogika opiekuńcza",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr I. Walczowska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: aD6z8XQ3",
+     "dates": [
       "2026-11-27"
      ]
     },
@@ -43,6 +57,7 @@
      ],
      "p": "dr I. Kość. Prof.US",
      "r": "online (MS Teams)",
+     "n": "kod MS Teams: aD6z8XQ3",
      "dates": [
       "2026-12-11"
      ]
@@ -190,6 +205,20 @@
     },
     {
      "d": 5,
+     "pl": "Prawne podstawy opieki i wychowania",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr R. Zych",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Pedagogika opiekuńcza",
      "k": "CW",
      "time": [
@@ -283,6 +312,19 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju i wychowania",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -411,7 +453,21 @@
      "r": "online (MS Teams)",
      "n": "kod MS Teams: aD6z8XQ3",
      "dates": [
-      "2026-11-20",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Pedagogika opiekuńcza",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr I. Walczowska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: aD6z8XQ3",
+     "dates": [
       "2026-11-27"
      ]
     },
@@ -425,6 +481,7 @@
      ],
      "p": "dr I. Kość. Prof.US",
      "r": "online (MS Teams)",
+     "n": "kod MS Teams: aD6z8XQ3",
      "dates": [
       "2026-12-11"
      ]
@@ -572,6 +629,20 @@
     },
     {
      "d": 5,
+     "pl": "Prawne podstawy opieki i wychowania",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr R. Zych",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Pedagogika opiekuńcza",
      "k": "CW",
      "time": [
@@ -665,6 +736,19 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju i wychowania",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {

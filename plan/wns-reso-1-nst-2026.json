@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (17 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (16 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika resocjalizacyjna",
  "kierunekEn": "Rehabilitation Pedagogy",
  "id": "wns-reso-1-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "RESO1": {
    "odd": [
@@ -75,20 +75,6 @@
      ]
     },
     {
-     "d": 4,
-     "pl": "Teoretyczne podstawy wychowania",
-     "k": "W",
-     "time": [
-      "17:00",
-      "20:15"
-     ],
-     "p": "dr E. Kopaczewska",
-     "r": "online",
-     "dates": [
-      "2026-11-27"
-     ]
-    },
-    {
      "d": 5,
      "pl": "Metody badań pedagogicznych",
      "k": "W",
@@ -118,16 +104,16 @@
     },
     {
      "d": 5,
-     "pl": "Psychologia rozwojowa",
+     "pl": "Psychologia ogólna i społeczna",
      "k": "CW",
      "time": [
       "08:15",
       "12:30"
      ],
-     "p": "mgr M. Wojciechowska",
+     "p": "mgr K. Szalińska",
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -259,16 +245,16 @@
     },
     {
      "d": 5,
-     "pl": "Filozofia edukacji",
-     "k": "W",
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
      "time": [
-      "13:30",
-      "16:45"
+      "12:30",
+      "15:00"
      ],
-     "p": "ks. dr A. Komisaryczyk",
+     "p": "mgr M. Wojciechowska",
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -297,6 +283,20 @@
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr hab.. M. Chutorański, prof. .",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -357,16 +357,16 @@
     },
     {
      "d": 5,
-     "pl": "Filozofia edukacji",
+     "pl": "Wprowadzenie do pedagogiki",
      "k": "CW",
      "time": [
-      "17:00",
+      "17:45",
       "19:30"
      ],
-     "p": "ks. dr A. Komisaryczyk",
+     "p": "mgr M. Kiedos",
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -406,7 +406,7 @@
       "12:30"
      ],
      "p": "dr B. Żakowska",
-     "r": "s. 119 ul. Ogińskiego 16-17",
+     "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
      ]
@@ -456,15 +456,15 @@
     {
      "d": 6,
      "pl": "Teoretyczne podstawy wychowania",
-     "k": "W",
+     "k": "CW",
      "time": [
       "09:00",
-      "12:30"
+      "11:30"
      ],
      "p": "dr E. Kopaczewska",
-     "r": "online",
+     "r": "s. 50 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-29"
+      "2027-01-10"
      ]
     },
     {
@@ -511,6 +511,20 @@
     },
     {
      "d": 6,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr M. Wojciechowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Historia myśli pedagogicznej",
      "k": "CW",
      "time": [
@@ -518,23 +532,9 @@
       "15:00"
      ],
      "p": "dr B. Żakowska",
-     "r": "s. 119 ul. Ogińskiego 16-17",
+     "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Psychologia rozwojowa",
-     "k": "W",
-     "time": [
-      "13:30",
-      "17:45"
-     ],
-     "p": "dr M. Bratos-Stępień",
-     "r": "online",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -549,6 +549,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia myśli pedagogicznej",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -625,20 +639,6 @@
      ]
     },
     {
-     "d": 4,
-     "pl": "Teoretyczne podstawy wychowania",
-     "k": "W",
-     "time": [
-      "17:00",
-      "20:15"
-     ],
-     "p": "dr E. Kopaczewska",
-     "r": "online",
-     "dates": [
-      "2026-11-27"
-     ]
-    },
-    {
      "d": 5,
      "pl": "Metody badań pedagogicznych",
      "k": "W",
@@ -668,16 +668,16 @@
     },
     {
      "d": 5,
-     "pl": "Psychologia rozwojowa",
+     "pl": "Psychologia ogólna i społeczna",
      "k": "CW",
      "time": [
       "08:15",
       "12:30"
      ],
-     "p": "mgr M. Wojciechowska",
+     "p": "mgr K. Szalińska",
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -809,16 +809,16 @@
     },
     {
      "d": 5,
-     "pl": "Filozofia edukacji",
-     "k": "W",
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
      "time": [
-      "13:30",
-      "16:45"
+      "12:30",
+      "15:00"
      ],
-     "p": "ks. dr A. Komisaryczyk",
+     "p": "mgr M. Wojciechowska",
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -847,6 +847,20 @@
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań pedagogicnych",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr hab.. M. Chutorański, prof. .",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -907,16 +921,16 @@
     },
     {
      "d": 5,
-     "pl": "Filozofia edukacji",
+     "pl": "Wprowadzenie do pedagogiki",
      "k": "CW",
      "time": [
-      "17:00",
+      "17:45",
       "19:30"
      ],
-     "p": "ks. dr A. Komisaryczyk",
+     "p": "mgr M. Kiedos",
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -956,7 +970,7 @@
       "12:30"
      ],
      "p": "dr B. Żakowska",
-     "r": "s. 119 ul. Ogińskiego 16-17",
+     "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
      ]
@@ -1006,15 +1020,15 @@
     {
      "d": 6,
      "pl": "Teoretyczne podstawy wychowania",
-     "k": "W",
+     "k": "CW",
      "time": [
       "09:00",
-      "12:30"
+      "11:30"
      ],
      "p": "dr E. Kopaczewska",
-     "r": "online",
+     "r": "s. 50 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-29"
+      "2027-01-10"
      ]
     },
     {
@@ -1061,6 +1075,20 @@
     },
     {
      "d": 6,
+     "pl": "Psychologia rozwojowa",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr M. Wojciechowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Historia myśli pedagogicznej",
      "k": "CW",
      "time": [
@@ -1068,23 +1096,9 @@
       "15:00"
      ],
      "p": "dr B. Żakowska",
-     "r": "s. 119 ul. Ogińskiego 16-17",
+     "r": "s. 118 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Psychologia rozwojowa",
-     "k": "W",
-     "time": [
-      "13:30",
-      "17:45"
-     ],
-     "p": "dr M. Bratos-Stępień",
-     "r": "online",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -1099,6 +1113,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Historia myśli pedagogicznej",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "dr B. Żakowska",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {

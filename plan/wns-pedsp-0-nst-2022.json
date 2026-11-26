@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (13 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (16 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika specjalna",
  "kierunekEn": "Special Education",
  "id": "wns-pedsp-0-nst-2022",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PEDSP5": {
    "odd": [
@@ -29,6 +29,20 @@
      "r": "s. 49 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab. M. Wlazło, prof. US",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-11"
      ]
     },
     {
@@ -117,6 +131,20 @@
     },
     {
      "d": 5,
+     "pl": "Wsparcie dorosłych osób z niepełnosprawnością intelektualną",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Rozwój mowy osob z niepełnosprawnością intelektualną",
      "k": "CW",
      "time": [
@@ -141,6 +169,20 @@
      "r": "s. 49 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Praca z rodzina osób z iepełnosprawnoscią intelektualną",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -285,6 +327,20 @@
     },
     {
      "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. M. Wlazło, prof.",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Wsparcie dorosłych osób z niepełnosprawnością intelektualną",
      "k": "CW",
      "time": [
@@ -393,6 +449,20 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seksualność osób z niepełnosprawnością intelektualną",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr A. Chilman",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -426,6 +496,20 @@
      ]
     },
     {
+     "d": 4,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr hab. M. Wlazło, prof. US",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
      "d": 5,
      "pl": "Praca z rodzina osób z niepełnosprawnoscią intelektualną",
      "k": "W",
@@ -511,6 +595,20 @@
     },
     {
      "d": 5,
+     "pl": "Wsparcie dorosłych osób z niepełnosprawnością intelektualną",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "dr A. Prus",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Rozwój mowy osob z niepełnosprawnością intelektualną",
      "k": "CW",
      "time": [
@@ -535,6 +633,20 @@
      "r": "s. 49 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Praca z rodzina osób z iepełnosprawnoscią intelektualną",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -679,6 +791,20 @@
     },
     {
      "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. M. Wlazło, prof.",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Wsparcie dorosłych osób z niepełnosprawnością intelektualną",
      "k": "CW",
      "time": [
@@ -787,6 +913,20 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seksualność osób z niepełnosprawnością intelektualną",
+     "k": "W",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "dr A. Chilman",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {

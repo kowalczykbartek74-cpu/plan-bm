@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (8 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (8 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika resocjalizacyjna",
  "kierunekEn": "Rehabilitation Pedagogy",
  "id": "wns-reso-2-nst-2026",
@@ -12,11 +12,25 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "RESO1": {
    "odd": [
+    {
+     "d": 5,
+     "pl": "Metody badań społecznych",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Chutorański, prof.",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
     {
      "d": 5,
      "pl": "Seminarium dyplomowe",
@@ -47,20 +61,6 @@
     },
     {
      "d": 5,
-     "pl": "Współczesne nurty resocjalizacji",
-     "k": "W",
-     "time": [
-      "09:00",
-      "13:15"
-     ],
-     "p": "dr P. Popek",
-     "r": "s. 117 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Resocjalizacja penitencjarna",
      "k": "W",
      "time": [
@@ -71,6 +71,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań społecznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. M. Chutorański, prof.",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -89,20 +103,6 @@
     },
     {
      "d": 5,
-     "pl": "Psychologia kliniczna",
-     "k": "CW",
-     "time": [
-      "13:30",
-      "17:45"
-     ],
-     "p": "mgr K. Rachubińska",
-     "r": "s. 117 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Edukacja społeczna",
      "k": "CW",
      "time": [
@@ -113,6 +113,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr hab. H. Kupiec, prof.US",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -131,16 +145,16 @@
     },
     {
      "d": 5,
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
+     "pl": "Psychologia kliniczna",
+     "k": "CW",
      "time": [
       "17:45",
-      "20:15"
+      "19:30"
      ],
-     "p": "dr hab. H. Kupiec, prof. US",
-     "r": "s. 117 ul. Ogińskiego 16-17",
+     "p": "mgr K. Rachubińska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -159,16 +173,16 @@
     },
     {
      "d": 6,
-     "pl": "Metody badań społecznych",
+     "pl": "Psychologia kliniczna",
      "k": "W",
      "time": [
       "08:15",
       "12:30"
      ],
-     "p": "dr hab. M. Chutorański, prof. US",
+     "p": "dr Karol Karasiewicz",
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-29"
+      "2026-11-22"
      ]
     },
     {
@@ -180,9 +194,9 @@
       "12:30"
      ],
      "p": "dr Karol Karasiewicz",
-     "r": "s. 117 ul. Ogińskiego 16-17",
+     "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-22"
+      "2027-01-10"
      ]
     },
     {
@@ -229,6 +243,20 @@
     },
     {
      "d": 6,
+     "pl": "Edukacja społeczna",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr I. Walczowska (Kość)., prof. US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Metody badań społecznych",
      "k": "CW",
      "time": [
@@ -253,20 +281,6 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Resocjalizacja penitencjarna",
-     "k": "W",
-     "time": [
-      "12:30",
-      "16:45"
-     ],
-     "p": "dr A. Jarzębińska",
-     "r": "s. 117 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -287,6 +301,20 @@
    "even": [
     {
      "d": 5,
+     "pl": "Metody badań społecznych",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. M. Chutorański, prof.",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Seminarium dyplomowe",
      "k": "S",
      "time": [
@@ -315,20 +343,6 @@
     },
     {
      "d": 5,
-     "pl": "Współczesne nurty resocjalizacji",
-     "k": "W",
-     "time": [
-      "09:00",
-      "13:15"
-     ],
-     "p": "dr P. Popek",
-     "r": "s. 117 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Resocjalizacja penitencjarna",
      "k": "W",
      "time": [
@@ -339,6 +353,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metody badań społecznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. M. Chutorański, prof.",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -357,20 +385,6 @@
     },
     {
      "d": 5,
-     "pl": "Psychologia kliniczna",
-     "k": "CW",
-     "time": [
-      "13:30",
-      "17:45"
-     ],
-     "p": "mgr K. Rachubińska",
-     "r": "s. 117 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Edukacja społeczna",
      "k": "CW",
      "time": [
@@ -381,6 +395,20 @@
      "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr hab. H. Kupiec, prof.US",
+     "r": "s. 100 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -399,16 +427,16 @@
     },
     {
      "d": 5,
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
+     "pl": "Psychologia kliniczna",
+     "k": "CW",
      "time": [
       "17:45",
-      "20:15"
+      "19:30"
      ],
-     "p": "dr hab. H. Kupiec, prof. US",
-     "r": "s. 117 ul. Ogińskiego 16-17",
+     "p": "mgr K. Rachubińska",
+     "r": "s. 49 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -427,16 +455,16 @@
     },
     {
      "d": 6,
-     "pl": "Metody badań społecznych",
+     "pl": "Psychologia kliniczna",
      "k": "W",
      "time": [
       "08:15",
       "12:30"
      ],
-     "p": "dr hab. M. Chutorański, prof. US",
+     "p": "dr Karol Karasiewicz",
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-29"
+      "2026-11-22"
      ]
     },
     {
@@ -448,9 +476,9 @@
       "12:30"
      ],
      "p": "dr Karol Karasiewicz",
-     "r": "s. 117 ul. Ogińskiego 16-17",
+     "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-22"
+      "2027-01-10"
      ]
     },
     {
@@ -497,6 +525,20 @@
     },
     {
      "d": 6,
+     "pl": "Edukacja społeczna",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:45"
+     ],
+     "p": "dr I. Walczowska (Kość)., prof. US",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Metody badań społecznych",
      "k": "CW",
      "time": [
@@ -521,20 +563,6 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-22"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Resocjalizacja penitencjarna",
-     "k": "W",
-     "time": [
-      "12:30",
-      "16:45"
-     ],
-     "p": "dr A. Jarzębińska",
-     "r": "s. 117 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {

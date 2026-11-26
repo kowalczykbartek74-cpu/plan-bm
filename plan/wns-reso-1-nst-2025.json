@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (16 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (15 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika resocjalizacyjna",
  "kierunekEn": "Rehabilitation Pedagogy",
  "id": "wns-reso-1-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "RESO2": {
    "odd": [
@@ -55,8 +55,7 @@
      ],
      "dates": [
       "2026-10-23",
-      "2026-11-06",
-      "2026-11-27"
+      "2026-11-06"
      ]
     },
     {
@@ -71,20 +70,6 @@
      "r": "s. 119 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
-     "k": "W",
-     "time": [
-      "08:15",
-      "10:45"
-     ],
-     "p": "dr U. Kazubowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
      ]
     },
     {
@@ -118,6 +103,20 @@
     },
     {
      "d": 5,
+     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Problemy niedostosowania społecznego",
      "k": "W",
      "time": [
@@ -147,20 +146,6 @@
     {
      "d": 5,
      "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
-     "k": "CW",
-     "time": [
-      "10:45",
-      "13:15"
-     ],
-     "p": "dr U. Kaubowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
      "k": "W",
      "time": [
       "10:45",
@@ -170,6 +155,20 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -251,9 +250,9 @@
       "15:00"
      ],
      "p": "dr u. Kazubowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
+     "r": "s. 51 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -286,15 +285,16 @@
     },
     {
      "d": 5,
-     "pl": "Warsztaty pracy kuratora sądowego A. Kachalicka - Klimek",
-     "k": "CW",
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
      "time": [
       "15:15",
-      "19:30"
+      "16:45"
      ],
-     "r": "s. 49 ul. Ogińskiego 16-17",
+     "p": "dr A. Sander",
+     "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -391,7 +391,8 @@
      "p": "mgr M. Grabowska, mgr A. Meyer",
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-22"
+      "2026-11-22",
+      "2027-01-10"
      ]
     },
     {
@@ -406,20 +407,6 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
-     "k": "CW",
-     "time": [
-      "08:15",
-      "12:30"
-     ],
-     "p": "dr u. Kazubowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -466,6 +453,20 @@
     },
     {
      "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr M. Zięciak",
+     "r": "s. 35 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
      "k": "CW",
      "time": [
@@ -476,20 +477,6 @@
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Profilaktyka społeczna",
-     "k": "W",
-     "time": [
-      "12:30",
-      "16:00"
-     ],
-     "p": "dr A. Sander",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -574,20 +561,6 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-25"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "time": [
-      "16:00",
-      "18:30"
-     ],
-     "p": "dr M. Zięciak, dr A. Sander",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     }
    ],
@@ -630,8 +603,7 @@
      ],
      "dates": [
       "2026-10-23",
-      "2026-11-06",
-      "2026-11-27"
+      "2026-11-06"
      ]
     },
     {
@@ -646,20 +618,6 @@
      "r": "s. 119 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
-     "k": "W",
-     "time": [
-      "08:15",
-      "10:45"
-     ],
-     "p": "dr U. Kazubowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
      ]
     },
     {
@@ -693,6 +651,20 @@
     },
     {
      "d": 5,
+     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Problemy niedostosowania społecznego",
      "k": "W",
      "time": [
@@ -722,20 +694,6 @@
     {
      "d": 5,
      "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
-     "k": "CW",
-     "time": [
-      "10:45",
-      "13:15"
-     ],
-     "p": "dr U. Kaubowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
      "k": "W",
      "time": [
       "10:45",
@@ -745,6 +703,20 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyka rozwijania kompetencji społecznych w resocjalizacji",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -826,9 +798,9 @@
       "15:00"
      ],
      "p": "dr u. Kazubowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
+     "r": "s. 51 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -861,15 +833,16 @@
     },
     {
      "d": 5,
-     "pl": "Warsztaty pracy kuratora sądowego A. Kachalicka - Klimek",
-     "k": "CW",
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
      "time": [
       "15:15",
-      "19:30"
+      "16:45"
      ],
-     "r": "s. 49 ul. Ogińskiego 16-17",
+     "p": "dr A. Sander",
+     "r": "s. 116 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-28"
+      "2027-01-09"
      ]
     },
     {
@@ -966,7 +939,8 @@
      "p": "mgr M. Grabowska, mgr A. Meyer",
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-22"
+      "2026-11-22",
+      "2027-01-10"
      ]
     },
     {
@@ -981,20 +955,6 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
-     "k": "CW",
-     "time": [
-      "08:15",
-      "12:30"
-     ],
-     "p": "dr u. Kazubowska",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -1041,6 +1001,20 @@
     },
     {
      "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr M. Zięciak",
+     "r": "s. 35 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Warsztaty umiejetności wychowawczych i terapeutycznych",
      "k": "CW",
      "time": [
@@ -1051,20 +1025,6 @@
      "r": "s. 52 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Profilaktyka społeczna",
-     "k": "W",
-     "time": [
-      "12:30",
-      "16:00"
-     ],
-     "p": "dr A. Sander",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -1149,20 +1109,6 @@
      "r": "s. 117 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-25"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Seminarium dyplomowe",
-     "k": "S",
-     "time": [
-      "16:00",
-      "18:30"
-     ],
-     "p": "dr M. Zięciak, dr A. Sander",
-     "r": "s. 49 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     }
    ]

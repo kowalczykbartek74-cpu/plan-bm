@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (15 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (18 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PPIW2": {
    "odd": [
@@ -43,6 +43,20 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Podstawy edukacji zdrowotnej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr I. Bonisławska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-08"
      ]
     },
     {
@@ -120,6 +134,20 @@
      "pl": "Podstawy edukacji matematycznej",
      "k": "W",
      "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
       "10:45",
       "14:15"
      ],
@@ -188,6 +216,20 @@
     {
      "d": 5,
      "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
      "k": "W",
      "time": [
       "13:30",
@@ -197,6 +239,20 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pierwsza pomoc przedmedyczna",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "mgr A. Kurylczyk",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -307,7 +363,8 @@
      "p": "mgr M. Grabowska, mgr A. Meyer",
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-22"
+      "2026-11-22",
+      "2027-01-10"
      ]
     },
     {
@@ -349,8 +406,22 @@
      "p": "mgr J. Paśnicka Stopa",
      "r": "s. 308",
      "dates": [
-      "2026-11-08",
-      "2026-12-13"
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr Magdalenę Kisiel",
+     "r": "s. 308",
+     "dates": [
+      "2026-12-13",
+      "2027-01-10"
      ]
     },
     {
@@ -404,9 +475,23 @@
       "15:00"
      ],
      "p": "dr hab.J. Moroz",
-     "r": "s. 43 ul. Ogińskiego 16-17",
+     "r": "s. 119 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy dydaktyki ogólnej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr hab.J. Moroz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -496,6 +581,20 @@
     },
     {
      "d": 4,
+     "pl": "Podstawy edukacji zdrowotnej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr I. Bonisławska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
      "pl": "Wykład ogólnouczelniany",
      "k": "W",
      "time": [
@@ -562,6 +661,20 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -637,6 +750,20 @@
     {
      "d": 5,
      "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
      "k": "W",
      "time": [
       "13:30",
@@ -646,6 +773,20 @@
      "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Pierwsza pomoc przedmedyczna",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "mgr A. Kurylczyk",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -756,7 +897,8 @@
      "p": "mgr M. Grabowska, mgr A. Meyer",
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
-      "2026-11-22"
+      "2026-11-22",
+      "2027-01-10"
      ]
     },
     {
@@ -798,8 +940,22 @@
      "p": "mgr J. Paśnicka Stopa",
      "r": "s. 308",
      "dates": [
-      "2026-11-08",
-      "2026-12-13"
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr Magdalenę Kisiel",
+     "r": "s. 308",
+     "dates": [
+      "2026-12-13",
+      "2027-01-10"
      ]
     },
     {
@@ -853,9 +1009,23 @@
       "15:00"
      ],
      "p": "dr hab.J. Moroz",
-     "r": "s. 43 ul. Ogińskiego 16-17",
+     "r": "s. 119 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy dydaktyki ogólnej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr hab.J. Moroz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {

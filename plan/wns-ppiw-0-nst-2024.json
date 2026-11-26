@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (16 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (18 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2024",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-24T15:52:19.576Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PPIW3": {
    "odd": [
@@ -89,6 +89,34 @@
      ]
     },
     {
+     "d": 4,
+     "pl": "Praktyka śródroczna wychowawczo-dydaktyczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Nermend",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyk edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
      "d": 5,
      "pl": "Metodyka edukacji polonistycznej",
      "k": "CW",
@@ -132,20 +160,6 @@
     },
     {
      "d": 5,
-     "pl": "Podstawy edukacji matematycznej",
-     "k": "W",
-     "time": [
-      "08:15",
-      "11:30"
-     ],
-     "p": "dr L. Pawlusińska",
-     "r": "s. 118 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-12-12"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Pedagogika wczesnoszkolna",
      "k": "W",
      "time": [
@@ -167,7 +181,7 @@
       "16:00"
      ],
      "p": "dr L. Pawlusińska",
-     "r": "s. 40 ul. Ogińskiego 16-17",
+     "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-28"
      ]
@@ -329,6 +343,20 @@
     },
     {
      "d": 6,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język angielski",
      "k": "CW",
      "time": [
@@ -357,6 +385,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język niemiecki",
      "k": "CW",
      "time": [
@@ -379,7 +421,7 @@
       "14:15"
      ],
      "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 43 ul. Ogińskiego 16-17",
+     "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
      ]
@@ -392,10 +434,11 @@
       "11:45",
       "14:15"
      ],
-     "p": "mgr J. Paśnicka - Stopa",
+     "p": "mgr Magdalenę Kisiel",
      "r": "s. ul. Narutowicza 17A",
      "dates": [
-      "2026-12-13"
+      "2026-12-13",
+      "2027-01-10"
      ]
     },
     {
@@ -414,6 +457,19 @@
     },
     {
      "d": 6,
+     "pl": "Etyka pedagogiczna",
+     "k": "W",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr hab. M. Wałejko",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
      "k": "CW",
      "time": [
@@ -421,6 +477,7 @@
       "16:00"
      ],
      "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
      ]
@@ -513,6 +570,34 @@
      ]
     },
     {
+     "d": 4,
+     "pl": "Praktyka śródroczna wychowawczo-dydaktyczna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr M. Nermend",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Metodyk edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 118 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
      "d": 5,
      "pl": "Metodyka edukacji polonistycznej",
      "k": "CW",
@@ -556,20 +641,6 @@
     },
     {
      "d": 5,
-     "pl": "Podstawy edukacji matematycznej",
-     "k": "W",
-     "time": [
-      "08:15",
-      "11:30"
-     ],
-     "p": "dr L. Pawlusińska",
-     "r": "s. 118 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-12-12"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Pedagogika wczesnoszkolna",
      "k": "W",
      "time": [
@@ -591,7 +662,7 @@
       "16:00"
      ],
      "p": "dr L. Pawlusińska",
-     "r": "s. 40 ul. Ogińskiego 16-17",
+     "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-28"
      ]
@@ -753,6 +824,20 @@
     },
     {
      "d": 6,
+     "pl": "Pedagogika wczesnoszkolna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 119 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język angielski",
      "k": "CW",
      "time": [
@@ -781,6 +866,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "mgr M. Schneider, mgr J. Stankiewicz-Rycielska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Język niemiecki",
      "k": "CW",
      "time": [
@@ -803,7 +902,7 @@
       "14:15"
      ],
      "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 43 ul. Ogińskiego 16-17",
+     "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
      ]
@@ -816,10 +915,11 @@
       "11:45",
       "14:15"
      ],
-     "p": "mgr J. Paśnicka - Stopa",
+     "p": "mgr Magdalenę Kisiel",
      "r": "s. ul. Narutowicza 17A",
      "dates": [
-      "2026-12-13"
+      "2026-12-13",
+      "2027-01-10"
      ]
     },
     {
@@ -838,6 +938,19 @@
     },
     {
      "d": 6,
+     "pl": "Etyka pedagogiczna",
+     "k": "W",
+     "time": [
+      "14:15",
+      "18:30"
+     ],
+     "p": "dr hab. M. Wałejko",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
      "k": "CW",
      "time": [
@@ -845,6 +958,7 @@
       "16:00"
      ],
      "p": "dr hab.K. Nerlicki, prof.US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-29"
      ]

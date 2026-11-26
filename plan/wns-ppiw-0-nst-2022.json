@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (12 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (14 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2022",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PPIW5": {
    "odd": [
@@ -102,6 +102,20 @@
     },
     {
      "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
      "k": "W",
      "time": [
@@ -112,6 +126,20 @@
      "r": "s. 44 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -199,6 +227,20 @@
     },
     {
      "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
      "k": "W",
      "time": [
@@ -269,6 +311,20 @@
     },
     {
      "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Modele wspierania rozwoju małego dziecka",
      "k": "CW",
      "time": [
@@ -321,6 +377,20 @@
      "dates": [
       "2026-10-10",
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -446,6 +516,20 @@
      "r": "s. 51 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. L. Orzelska, prof. US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -661,6 +745,20 @@
     },
     {
      "d": 5,
+     "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A.Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
      "k": "W",
      "time": [
@@ -671,6 +769,20 @@
      "r": "s. 44 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -758,6 +870,20 @@
     },
     {
      "d": 5,
+     "pl": "Modele wspierania rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Draszkiewicz",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Podstawy konstruowania programu pracy dydaktyczno-wychowawczej z małym dzieckiem",
      "k": "W",
      "time": [
@@ -828,6 +954,20 @@
     },
     {
      "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Modele wspierania rozwoju małego dziecka",
      "k": "CW",
      "time": [
@@ -880,6 +1020,20 @@
      "dates": [
       "2026-10-10",
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ocenianie i ewaluacja procesu edukacyjnego w przedszkolu i kl. I-III",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr J. Karapuda",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -1005,6 +1159,20 @@
      "r": "s. 51 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr hab. L. Orzelska, prof. US",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {

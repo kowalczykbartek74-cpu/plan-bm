@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (16 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (18 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2026",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-18T13:57:56.927Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PPIW1": {
    "odd": [
@@ -99,7 +99,7 @@
       "10:45"
      ],
      "p": "dr hab. J.Król, prof. US",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
      ]
@@ -149,6 +149,20 @@
     },
     {
      "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Biomedyczne podstawy rozwoju małego dziecka",
      "k": "W",
      "time": [
@@ -170,7 +184,7 @@
       "13:15"
      ],
      "p": "mgr M. Chmiel",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
      ]
@@ -201,6 +215,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "M. Adamczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -240,7 +268,7 @@
       "16:00"
      ],
      "p": "dr N. Cybort-Zioło",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
      ]
@@ -275,6 +303,20 @@
     },
     {
      "d": 5,
+     "pl": "Historia wychowania",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Biomedyczne podstawy rozwoju małego dziecka",
      "k": "CW",
      "time": [
@@ -282,7 +324,7 @@
       "18:30"
      ],
      "p": "mgr M. Adamczyk",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
      ]
@@ -313,6 +355,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -441,6 +497,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     }
    ],
@@ -527,7 +597,7 @@
       "10:45"
      ],
      "p": "dr hab. J.Król, prof. US",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
      ]
@@ -577,6 +647,20 @@
     },
     {
      "d": 5,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Biomedyczne podstawy rozwoju małego dziecka",
      "k": "W",
      "time": [
@@ -598,7 +682,7 @@
       "13:15"
      ],
      "p": "mgr M. Chmiel",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
      ]
@@ -629,6 +713,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Biomedyczne podstawy rozwoju małego dziecka",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "M. Adamczyk",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
      ]
     },
     {
@@ -668,7 +766,7 @@
       "16:00"
      ],
      "p": "dr N. Cybort-Zioło",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
      ]
@@ -703,6 +801,20 @@
     },
     {
      "d": 5,
+     "pl": "Historia wychowania",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "dr hab. J.Król, prof. US",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Biomedyczne podstawy rozwoju małego dziecka",
      "k": "CW",
      "time": [
@@ -710,7 +822,7 @@
       "18:30"
      ],
      "p": "mgr M. Adamczyk",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 53 ul. Ogińskiego 16-17",
      "dates": [
       "2026-12-12"
      ]
@@ -741,6 +853,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Antropologiczne i kulturowe podstawy edukacji",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr A. Makowska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     },
     {
@@ -869,6 +995,20 @@
      "r": "s. 2 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wprowadzenie do pedagogiki",
+     "k": "CW",
+     "time": [
+      "12:30",
+      "15:00"
+     ],
+     "p": "mgr M. Kiedos",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
      ]
     }
    ]

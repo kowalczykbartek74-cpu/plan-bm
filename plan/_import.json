@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-26T15:01:15.474Z",
+ "at": "2026-11-26T16:45:47.729Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -837,8 +837,8 @@
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
    "wersja": "planynst-dee11581b201",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 116
   },
@@ -947,8 +947,8 @@
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
    "wersja": "planynst-dee11581b201",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 90
   },
@@ -997,8 +997,8 @@
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
    "wersja": "planynst-dee11581b201",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 100
   },
@@ -1227,8 +1227,8 @@
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
    "wersja": "o2.html 2026-11-26 10:44:39",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 182
   },
@@ -1237,8 +1237,8 @@
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
    "wersja": "o5.html 2026-11-26 10:44:39",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 98
   },
@@ -1247,8 +1247,8 @@
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
    "wersja": "o3.html 2026-11-26 10:44:39",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 180
   },
@@ -1257,8 +1257,8 @@
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
    "wersja": "o6.html 2026-11-26 10:44:39",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 82
   },
@@ -2575,8 +2575,8 @@
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-130.pdf",
    "wersja": "PedO-I-130.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 24,
    "kolejka": {
@@ -3221,7 +3221,7 @@
    "id": "wns-bn-1-nst-2026",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (23 dni)",
+   "wersja": "55 plików zjazdów (23 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3238,7 +3238,7 @@
    "id": "wns-bn-1-nst-2025",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (24 dni)",
+   "wersja": "55 plików zjazdów (24 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3255,7 +3255,7 @@
    "id": "wns-bn-1-nst-2024",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (25 dni)",
+   "wersja": "55 plików zjazdów (25 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3272,7 +3272,7 @@
    "id": "wns-bw-1-nst-2026",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (23 dni)",
+   "wersja": "55 plików zjazdów (23 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3289,7 +3289,7 @@
    "id": "wns-bw-1-nst-2025",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (23 dni)",
+   "wersja": "55 plików zjazdów (23 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3306,7 +3306,7 @@
    "id": "wns-bw-1-nst-2024",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (22 dni)",
+   "wersja": "55 plików zjazdów (22 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3323,7 +3323,7 @@
    "id": "wns-bw-2-nst-2026",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (24 dni)",
+   "wersja": "55 plików zjazdów (24 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3340,7 +3340,7 @@
    "id": "wns-bw-2-nst-2025",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (22 dni)",
+   "wersja": "55 plików zjazdów (22 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3357,7 +3357,7 @@
    "id": "wns-mipipr-1-nst-2026",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (23 dni)",
+   "wersja": "55 plików zjazdów (23 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3374,7 +3374,7 @@
    "id": "wns-mipipr-1-nst-2025",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (23 dni)",
+   "wersja": "55 plików zjazdów (23 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3391,7 +3391,7 @@
    "id": "wns-mipipr-1-nst-2024",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (22 dni)",
+   "wersja": "55 plików zjazdów (22 dni)",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3408,14 +3408,14 @@
    "id": "wns-pedo-1-nst-2026",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (15 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (16 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 54,
+   "zajec": 60,
    "kolejka": {
-    "pozycji": 27,
-    "doDecyzji": 27,
+    "pozycji": 30,
+    "doDecyzji": 30,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3425,14 +3425,14 @@
    "id": "wns-pedo-1-nst-2025",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (16 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (19 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 64,
+   "zajec": 72,
    "kolejka": {
-    "pozycji": 32,
-    "doDecyzji": 32,
+    "pozycji": 36,
+    "doDecyzji": 36,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3442,14 +3442,14 @@
    "id": "wns-ppiw-0-nst-2026",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (16 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (18 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 60,
+   "zajec": 70,
    "kolejka": {
-    "pozycji": 30,
-    "doDecyzji": 30,
+    "pozycji": 35,
+    "doDecyzji": 35,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3459,14 +3459,14 @@
    "id": "wns-ppiw-0-nst-2025",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (15 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (18 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 64,
+   "zajec": 76,
    "kolejka": {
-    "pozycji": 32,
-    "doDecyzji": 32,
+    "pozycji": 38,
+    "doDecyzji": 38,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3476,14 +3476,14 @@
    "id": "wns-ppiw-0-nst-2024",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (16 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (18 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 60,
+   "zajec": 68,
    "kolejka": {
-    "pozycji": 30,
-    "doDecyzji": 30,
+    "pozycji": 34,
+    "doDecyzji": 34,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3493,14 +3493,14 @@
    "id": "wns-ppiw-0-nst-2023",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (15 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (18 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 56,
+   "zajec": 72,
    "kolejka": {
-    "pozycji": 28,
-    "doDecyzji": 28,
+    "pozycji": 36,
+    "doDecyzji": 36,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3510,9 +3510,26 @@
    "id": "wns-ppiw-0-nst-2022",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (12 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (14 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "grupy": 1,
+   "zajec": 92,
+   "kolejka": {
+    "pozycji": 46,
+    "doDecyzji": 46,
+    "wyslany": true,
+    "blad": null,
+    "odRazu": true
+   }
+  },
+  {
+   "id": "wns-reso-1-nst-2026",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "55 plików zjazdów (16 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 80,
    "kolejka": {
@@ -3524,12 +3541,12 @@
    }
   },
   {
-   "id": "wns-reso-1-nst-2026",
+   "id": "wns-reso-1-nst-2025",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (17 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (15 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 78,
    "kolejka": {
@@ -3541,34 +3558,17 @@
    }
   },
   {
-   "id": "wns-reso-1-nst-2025",
-   "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (16 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 82,
-   "kolejka": {
-    "pozycji": 41,
-    "doDecyzji": 41,
-    "wyslany": true,
-    "blad": null,
-    "odRazu": true
-   }
-  },
-  {
    "id": "wns-reso-1-nst-2024",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (14 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (15 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 60,
+   "zajec": 64,
    "kolejka": {
-    "pozycji": 30,
-    "doDecyzji": 30,
+    "pozycji": 32,
+    "doDecyzji": 32,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3578,14 +3578,14 @@
    "id": "wns-reso-2-nst-2026",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (8 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (8 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 38,
+   "zajec": 40,
    "kolejka": {
-    "pozycji": 19,
-    "doDecyzji": 19,
+    "pozycji": 20,
+    "doDecyzji": 20,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3595,14 +3595,14 @@
    "id": "wns-pedsp-0-nst-2026",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (16 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (19 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 74,
+   "zajec": 86,
    "kolejka": {
-    "pozycji": 37,
-    "doDecyzji": 37,
+    "pozycji": 43,
+    "doDecyzji": 43,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3612,26 +3612,9 @@
    "id": "wns-pedsp-0-nst-2024",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (16 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 60,
-   "kolejka": {
-    "pozycji": 30,
-    "doDecyzji": 30,
-    "wyslany": true,
-    "blad": null,
-    "odRazu": true
-   }
-  },
-  {
-   "id": "wns-pedsp-0-nst-2023",
-   "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (17 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (17 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
    "zajec": 62,
    "kolejka": {
@@ -3643,17 +3626,34 @@
    }
   },
   {
+   "id": "wns-pedsp-0-nst-2023",
+   "wydzial": "wns",
+   "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+   "wersja": "55 plików zjazdów (20 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
+   "grupy": 1,
+   "zajec": 68,
+   "kolejka": {
+    "pozycji": 34,
+    "doDecyzji": 34,
+    "wyslany": true,
+    "blad": null,
+    "odRazu": true
+   }
+  },
+  {
    "id": "wns-pedsp-0-nst-2022",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (13 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (16 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 56,
+   "zajec": 66,
    "kolejka": {
-    "pozycji": 28,
-    "doDecyzji": 28,
+    "pozycji": 33,
+    "doDecyzji": 33,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3663,14 +3663,14 @@
    "id": "wns-ps-1-nst-2024",
    "wydzial": "wns",
    "zrodlo": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
-   "wersja": "51 plików zjazdów (16 dni)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
+   "wersja": "55 plików zjazdów (19 dni)",
+   "status": "ok",
+   "szczegoly": "zmiana",
    "grupy": 1,
-   "zajec": 64,
+   "zajec": 86,
    "kolejka": {
-    "pozycji": 32,
-    "doDecyzji": 32,
+    "pozycji": 43,
+    "doDecyzji": 43,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -4106,8 +4106,8 @@
    "wydzial": "wnsip",
    "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/mat_I-st.-3-rok-akt.-26.11.pdf",
    "wersja": "2026-11-26",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 42,
    "kolejka": {
@@ -4395,8 +4395,8 @@
    "wydzial": "wpia",
    "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/IV-SSP-18.pdf",
    "wersja": "IV-SSP-18.pdf",
-   "status": "ok",
-   "szczegoly": "zmiana",
+   "status": "bez zmian",
+   "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 128,
    "kolejka": {
@@ -5027,36 +5027,6 @@
   }
  ],
  "log": [
-  {
-   "at": "2026-11-19T16:32:27.487Z",
-   "id": "wefiz-eaia-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-19T16:32:27.487Z",
-   "id": "wefiz-ek-1-st-2024",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-19T16:32:27.487Z",
-   "id": "wefiz-ek-1-st-2025",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-19T16:32:27.487Z",
-   "id": "wefiz-ek-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-19T16:32:27.487Z",
-   "id": "wefiz-ek-2-st-2025",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-19T16:32:27.487Z",
-   "id": "wefiz-ek-2-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
   {
    "at": "2026-11-19T16:32:27.487Z",
    "id": "wefiz-fir-1-st-2024",
@@ -6024,6 +5994,36 @@
   },
   {
    "at": "2026-11-26T15:01:15.474Z",
+   "id": "wt-nor-2-st-2025",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-26T16:45:47.729Z",
+   "id": "wns-pedsp-0-st-2024",
+   "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
+  },
+  {
+   "at": "2026-11-26T16:45:47.729Z",
+   "id": "wt-nor-1-st-2026",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-26T16:45:47.729Z",
+   "id": "wt-nor-1-st-2025",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-26T16:45:47.729Z",
+   "id": "wt-nor-1-st-2024",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-26T16:45:47.729Z",
+   "id": "wt-nor-2-st-2026",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-26T16:45:47.729Z",
    "id": "wt-nor-2-st-2025",
    "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
   }

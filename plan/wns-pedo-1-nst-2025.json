@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "51 plików zjazdów (16 dni)",
- "sha256": "406ae307aabcee8597af8d6ae1c880b473263442807762d35b5e24df7775c2d2",
+ "wersja": "55 plików zjazdów (19 dni)",
+ "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
  "kierunek": "Pedagogika",
  "kierunekEn": "Pedagogy",
  "id": "wns-pedo-1-nst-2025",
@@ -12,8 +12,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-24T15:52:19.576Z",
- "checkedAt": "2026-11-26T14:59:55.826Z",
+ "changedAt": "2026-11-26T16:44:17.644Z",
+ "checkedAt": "2026-11-26T16:44:17.644Z",
  "groups": {
   "PEDO2": {
    "odd": [
@@ -42,7 +42,8 @@
      "p": "dr Lidia Marek",
      "r": "online (MS Teams)",
      "dates": [
-      "2026-11-27"
+      "2026-11-27",
+      "2027-01-08"
      ]
     },
     {
@@ -145,6 +146,20 @@
     },
     {
      "d": 5,
+     "pl": "Psychologia ogólna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Psychologia rozwojowa",
      "k": "W",
      "time": [
@@ -194,7 +209,7 @@
       "15:00"
      ],
      "p": "mgr Jerzy Jagodzinski",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 50 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-28"
      ]
@@ -215,6 +230,20 @@
     },
     {
      "d": 5,
+     "pl": "Psychologia ogólna",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Emisja głosu",
      "k": "CW",
      "time": [
@@ -230,15 +259,15 @@
     {
      "d": 5,
      "pl": "Pedagogika ogólna",
-     "k": "CW",
+     "k": "X",
      "time": [
       "12:30",
-      "17:45"
+      "16:45"
      ],
-     "p": "mgr M. Kiedos",
-     "r": "s. 43 ul. Ogińskiego 16-17",
+     "p": "dr Lidia Marek",
+     "r": "online (MS Teams)",
      "dates": [
-      "2026-12-12"
+      "2027-01-09"
      ]
     },
     {
@@ -299,6 +328,20 @@
     },
     {
      "d": 5,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Pedagogika ogólna",
      "k": "CW",
      "time": [
@@ -355,6 +398,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "p": "mgr M. Grabowska, mgr A. Meyer",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Pedagogika ogólna",
      "k": "CW",
      "time": [
@@ -387,7 +444,7 @@
      "k": "S",
      "time": [
       "10:45",
-      "15:00"
+      "13:15"
      ],
      "p": "dr hab. M. Chutorański prof.",
      "r": "s. 49 ul. Ogińskiego 16-17",
@@ -425,6 +482,20 @@
     },
     {
      "d": 6,
+     "pl": "Polityka społeczna",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "15:00"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Psychologia ogólna",
      "k": "W",
      "time": [
@@ -435,20 +506,6 @@
      "r": "online (MS Teams)",
      "dates": [
       "2026-11-08"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Technologia informacyjna",
-     "k": "CW",
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "p": "mgr Witosz",
-     "r": "s. 210",
-     "dates": [
-      "2026-12-13"
      ]
     },
     {
@@ -492,7 +549,8 @@
      "p": "dr Lidia Marek",
      "r": "online (MS Teams)",
      "dates": [
-      "2026-11-27"
+      "2026-11-27",
+      "2027-01-08"
      ]
     },
     {
@@ -595,6 +653,20 @@
     },
     {
      "d": 5,
+     "pl": "Psychologia ogólna",
+     "k": "W",
+     "time": [
+      "08:15",
+      "12:30"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Psychologia rozwojowa",
      "k": "W",
      "time": [
@@ -644,7 +716,7 @@
       "15:00"
      ],
      "p": "mgr Jerzy Jagodzinski",
-     "r": "s. 2 ul. Ogińskiego 16-17",
+     "r": "s. 50 ul. Ogińskiego 16-17",
      "dates": [
       "2026-11-28"
      ]
@@ -665,6 +737,20 @@
     },
     {
      "d": 5,
+     "pl": "Psychologia ogólna",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "16:00"
+     ],
+     "p": "dr B. Kozińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Emisja głosu",
      "k": "CW",
      "time": [
@@ -680,15 +766,15 @@
     {
      "d": 5,
      "pl": "Pedagogika ogólna",
-     "k": "CW",
+     "k": "X",
      "time": [
       "12:30",
-      "17:45"
+      "16:45"
      ],
-     "p": "mgr M. Kiedos",
-     "r": "s. 43 ul. Ogińskiego 16-17",
+     "p": "dr Lidia Marek",
+     "r": "online (MS Teams)",
      "dates": [
-      "2026-12-12"
+      "2027-01-09"
      ]
     },
     {
@@ -749,6 +835,20 @@
     },
     {
      "d": 5,
+     "pl": "Technologia informacyjna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "mgr Witosz",
+     "r": "s. 210",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
      "pl": "Pedagogika ogólna",
      "k": "CW",
      "time": [
@@ -805,6 +905,20 @@
     },
     {
      "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "p": "mgr M. Grabowska, mgr A. Meyer",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Pedagogika ogólna",
      "k": "CW",
      "time": [
@@ -837,7 +951,7 @@
      "k": "S",
      "time": [
       "10:45",
-      "15:00"
+      "13:15"
      ],
      "p": "dr hab. M. Chutorański prof.",
      "r": "s. 49 ul. Ogińskiego 16-17",
@@ -875,6 +989,20 @@
     },
     {
      "d": 6,
+     "pl": "Polityka społeczna",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "15:00"
+     ],
+     "p": "dr A. Sander",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
      "pl": "Psychologia ogólna",
      "k": "W",
      "time": [
@@ -885,20 +1013,6 @@
      "r": "online (MS Teams)",
      "dates": [
       "2026-11-08"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Technologia informacyjna",
-     "k": "CW",
-     "time": [
-      "15:15",
-      "16:45"
-     ],
-     "p": "mgr Witosz",
-     "r": "s. 210",
-     "dates": [
-      "2026-12-13"
      ]
     },
     {
