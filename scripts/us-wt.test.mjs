@@ -48,7 +48,9 @@ test("Nauki o rodzinie: I st. 1–3 i II st. 1–2, „krótkie” zajęcia w no
   const bio = wpisy(plany, "1-1").find((e) => /Biomedyczne/.test(e.pl));
   assert.deepEqual([bio.time, bio.r, bio.dates[0]], [["15:15", "19:00"], "s. 26 al. Piastów 40B, blok 6 (WKFiZ)", "2026-10-06"]);
   assert.match(wpisy(plany, "2-2").find((e) => e.pl === "Proces coachingu" && e.time[0] === "08:15").n, /8, 14 lub 15 godzin/);
-  assert.ok(!Object.values(plany).some((p) => Object.values(p.groups)[0].odd.some((e) => /paliatywno/.test(e.pl))), "[4] terminy nieustalone → pominięte");
+  // wersja 24.11: [4] Opieka paliatywno-hospicyjna ma już dwa terminy (pozostałe do ustalenia); [5] laboratorium dalej pominięte
+  assert.deepEqual(wpisy(plany, "1-2").find((e) => /paliatywno/.test(e.pl)).dates, ["2026-12-07", "2026-12-14"]);
+  assert.ok(!wpisy(plany, "2-2").some((e) => /laboratorium/.test(e.pl)), "[5] bez terminów → pominięte");
 });
 
 test("prostokąt wycinka z siatki skanu", () => {
