@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-dee11581b201",
+ "wersja": "planynst-49a422a1ea74",
  "kierunek": "Finanse i rachunkowość",
  "kierunekEn": "Finance and Accounting",
  "id": "wefiz-fir-1-nst-2026",
@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:31:18.542Z",
- "checkedAt": "2026-11-26T17:32:37.572Z",
+ "checkedAt": "2026-11-27T15:00:14.108Z",
  "groups": {
   "A20": {
    "odd": [
@@ -3226,6 +3226,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m150-m151-m160-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniu-01-12-2026-r/",
+    "title": "M150, M151, M160- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniu 01.12 2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Wszystkie zajęcia z dr Brigitą Zuromskaite-Nagaj w dniu 01.12.2026 r. zostają odwołane. Terminy odrobienia zajęć: 1 rok GN, wykład- 03.12.2026 r., godz. 12.00, sala S017 M151, ćwiczenia- 03.12.2026 r., godz. 13.45, sala S017 M160, wykład- 08.12.2026 r., godz. 10.00, sala N15 M160, ćwiczenia- 08.12.2026 r., godz. 12.00, sala N15"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m150-m151-m160-m240-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniach-03-04-11-2026-r/",
     "title": "M150, M151, M160, M240- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r.",
     "ym": "2026-10",
@@ -3252,12 +3259,12 @@
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 2
+     "post": 3
     },
     {
      "type": "note",
      "date": "2026-10-25",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -3268,19 +3275,19 @@
      "pl": "Podstawy prawa",
      "k": "W",
      "p": "dr hab. prof. US Iwona Szymczak",
-     "post": 2
+     "post": 3
     }
    ],
    "A21": [
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 2
+     "post": 3
     },
     {
      "type": "note",
      "date": "2026-10-25",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -3291,10 +3298,10 @@
      "pl": "Podstawy prawa",
      "k": "W",
      "p": "dr hab. prof. US Iwona Szymczak",
-     "post": 2
+     "post": 3
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:29:53.772Z"
+  "updatedAt": "2026-11-27T15:09:56.151Z"
  }
 }

@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "25.11.2026 14:16",
+ "updated": "27.11.2026 13:38",
  "changedAt": "2026-11-09T13:43:12.536Z",
- "checkedAt": "2026-11-26T17:28:37.538Z",
+ "checkedAt": "2026-11-27T14:52:39.854Z",
  "groups": {
   "M160": {
    "odd": [
@@ -371,6 +371,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m150-m151-m160-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniu-01-12-2026-r/",
+    "title": "M150, M151, M160- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniu 01.12 2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Wszystkie zajęcia z dr Brigitą Zuromskaite-Nagaj w dniu 01.12.2026 r. zostają odwołane. Terminy odrobienia zajęć: 1 rok GN, wykład- 03.12.2026 r., godz. 12.00, sala S017 M151, ćwiczenia- 03.12.2026 r., godz. 13.45, sala S017 M160, wykład- 08.12.2026 r., godz. 10.00, sala N15 M160, ćwiczenia- 08.12.2026 r., godz. 12.00, sala N15"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m160-m260-m360-harmonogram-odrobienia-zajec-z-dni-4-7-12-2026-r/",
     "title": "M160, M260, M360- harmonogram odrobienia zajęć z dni 4, 7.12.2026 r.",
     "ym": "2026-11",
@@ -397,7 +404,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M151",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -409,7 +416,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M160",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -421,7 +428,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S07 M160",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -433,7 +440,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S103 M150",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -445,7 +452,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S08 M240",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -455,7 +462,7 @@
      "end": "9:45",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -465,7 +472,7 @@
      "end": "13:30",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -475,7 +482,7 @@
      "end": "15:15",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -485,7 +492,7 @@
      "end": "9:45",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -496,6 +503,50 @@
      "pl": "Odrabianie zajęć",
      "k": "X",
      "r": "S04/05",
+     "post": 1
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "13:45",
+     "pl": "Podstawy zarządzania",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "15:30",
+     "pl": "Podstawy zarządzania",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M151",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M160",
      "post": 0
     },
     {
@@ -507,7 +558,7 @@
      "pl": "Wprowadzenie do socjologii",
      "k": "X",
      "p": "dr Żaneta Stasieniuk",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -519,7 +570,7 @@
      "pl": "Geografia gospodarcza",
      "k": "X",
      "p": "dr hab. prof. US Paweł Czapliński",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -531,7 +582,7 @@
      "pl": "Podstawy gospodarki przestrzennej",
      "k": "X",
      "p": "dr hab. prof. US Igor Kavetskyy",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -542,7 +593,7 @@
      "end": "9:45",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -553,7 +604,7 @@
      "pl": "Systemy i techniki informatyczne",
      "k": "LAB",
      "p": "dr Rafał Czyżycki",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -565,7 +616,7 @@
      "pl": "Geografia gospodarcza",
      "k": "X",
      "p": "dr hab. prof. US Paweł Czapliński",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -577,7 +628,7 @@
      "pl": "Matematyka",
      "k": "X",
      "p": "dr Anna Landowska",
-     "post": 0,
+     "post": 1,
      "dup": true
     },
     {
@@ -588,6 +639,30 @@
      "end": "17:00",
      "pl": "Odrabianie zajęć",
      "k": "X",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "N15 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "N15",
      "post": 0
     },
     {
@@ -598,7 +673,7 @@
      "end": "15:15",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -608,7 +683,7 @@
      "end": "9:45",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     },
     {
      "type": "extra",
@@ -618,10 +693,10 @@
      "end": "15:15",
      "pl": "Odrabianie zajęć",
      "k": "X",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-26T15:02:46.719Z"
+  "updatedAt": "2026-11-27T15:07:12.102Z"
  }
 }

@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "55 plików zjazdów (18 dni)",
- "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
+ "wersja": "55 plików zjazdów (16 dni)",
+ "sha256": "80abc0b8dabc29171b05cda2f3eb87c27f86a08906014ada86e926e63925811e",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2025",
@@ -12,25 +12,11 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-26T16:44:17.644Z",
- "checkedAt": "2026-11-26T17:36:39.541Z",
+ "changedAt": "2026-11-27T15:04:17.928Z",
+ "checkedAt": "2026-11-27T15:04:17.928Z",
  "groups": {
   "PPIW2": {
    "odd": [
-    {
-     "d": 4,
-     "pl": "Pedagogika społeczna",
-     "k": "W",
-     "time": [
-      "16:00",
-      "20:15"
-     ],
-     "p": "dr A.Linka",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-12-11"
-     ]
-    },
     {
      "d": 4,
      "pl": "Podstawy edukacji zdrowotnej",
@@ -70,7 +56,7 @@
      "dates": [
       "2026-10-23",
       "2026-11-06",
-      "2026-11-27"
+      "2026-12-11"
      ]
     },
     {
@@ -426,20 +412,6 @@
     },
     {
      "d": 6,
-     "pl": "Podstawy edukacji matematycznej",
-     "k": "W",
-     "time": [
-      "08:15",
-      "11:30"
-     ],
-     "p": "dr L. Pawlusińska",
-     "r": "s. 2 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
-     ]
-    },
-    {
-     "d": 6,
      "pl": "Pedagogika społeczna",
      "k": "W",
      "time": [
@@ -506,6 +478,20 @@
      "r": "s. 26, bud. WKFiZ al",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr A.Linka",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {
@@ -553,20 +539,6 @@
    "even": [
     {
      "d": 4,
-     "pl": "Pedagogika społeczna",
-     "k": "W",
-     "time": [
-      "16:00",
-      "20:15"
-     ],
-     "p": "dr A.Linka",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-12-11"
-     ]
-    },
-    {
-     "d": 4,
      "pl": "Podstawy edukacji zdrowotnej",
      "k": "W",
      "time": [
@@ -604,7 +576,7 @@
      "dates": [
       "2026-10-23",
       "2026-11-06",
-      "2026-11-27"
+      "2026-12-11"
      ]
     },
     {
@@ -960,20 +932,6 @@
     },
     {
      "d": 6,
-     "pl": "Podstawy edukacji matematycznej",
-     "k": "W",
-     "time": [
-      "08:15",
-      "11:30"
-     ],
-     "p": "dr L. Pawlusińska",
-     "r": "s. 2 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
-     ]
-    },
-    {
-     "d": 6,
      "pl": "Pedagogika społeczna",
      "k": "W",
      "time": [
@@ -1040,6 +998,20 @@
      "r": "s. 26, bud. WKFiZ al",
      "dates": [
       "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "p": "dr A.Linka",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-13"
      ]
     },
     {

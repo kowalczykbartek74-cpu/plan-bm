@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-26T17:36:38.836Z",
+ "checkedAt": "2026-11-27T15:04:17.215Z",
  "groups": {
   "KK1": {
    "odd": [
@@ -609,6 +609,20 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-tomasz-szubart-przelozenie-zajec-4/",
+    "title": "dr Tomasz Szubart-przełożenie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Dzień dobry, informujemy, że pracownik Tomasz Szubart zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Filozofii i Kognitywistyki Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-12-03 13:30 – – – KK-SI.26-11 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo kognitywistyka komunikacji stacjonarne pierwszego stopnia 1 kultura logicznego myślenia ćwiczenia – Przyczyna nieobecności spotkanie służbowe Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z uwagi na obowiązek uczestniczenia w szkoleniu i spotkaniu opiekunów roczników muszę przełożyć czwartkowe zajęcia i zaplanowane kolokwium. Kolokwium odbędzie się 10.12, a ćwiczenia odrobimy je w styczniu. Pozdrawiam Tomasz Szubart"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-tomasz-szubart/",
+    "title": "dr Tomasz Szubart – odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Dzień dobry, informujemy, że pracownik Tomasz Szubart zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Filozofii i Kognitywistyki Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-12-03 13:30 – – – KK-SI.26-11 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo kognitywistyka komunikacji stacjonarne pierwszego stopnia 1 kultura logicznego myślenia ćwiczenia – Przyczyna nieobecności spotkanie służbowe Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z uwagi na obowiązek uczestniczenia w szkoleniu i spotkaniu opiekunów roczników muszę przełożyć czwartkowe zajęcia i zaplanowane kolokwium. Kolokwium odbędzie się 10.12, a ćwiczenia odrobimy je w styczniu. Pozdrawiam Tomasz Szubart"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-mariusz-strzezek-zastepstwo-na-zajeciach/",
     "title": "dr Mariusz Strzeżek- zastępstwo na zajęciach",
     "ym": "2026-11",
@@ -642,16 +656,16 @@
     {
      "type": "note",
      "date": "2026-10-16",
-     "post": 3
+     "post": 5
     },
     {
      "type": "cancel",
      "date": "2026-11-06",
      "start": "10:00",
      "pl": "Tworzenie stron internetowych",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
@@ -659,25 +673,36 @@
      "date": "2026-11-06",
      "start": "11:45",
      "pl": "Tworzenie stron internetowych",
-     "post": 1,
+     "post": 3,
      "posts": [
-      1
+      3
      ]
     },
     {
      "type": "note",
      "date": "2026-11-19",
-     "post": 2,
+     "post": 4,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-03",
+     "start": "13:30",
+     "pl": "Kultura logicznego myślenia",
+     "post": 0,
+     "posts": [
+      0,
+      1
+     ]
     },
     {
      "type": "note",
      "date": "2026-12-10",
-     "post": 2,
+     "post": 4,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-24T15:58:45.281Z"
+  "updatedAt": "2026-11-27T15:10:18.173Z"
  }
 }

@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-dee11581b201",
+ "wersja": "planynst-49a422a1ea74",
  "kierunek": "Audyt finansowy",
  "kierunekEn": "Financial Audit",
  "id": "wefiz-af-2-nst-2026",
@@ -12,7 +12,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-18T13:53:56.065Z",
- "checkedAt": "2026-11-26T17:32:37.572Z",
+ "checkedAt": "2026-11-27T15:00:14.108Z",
  "groups": {
   "E60": {
    "odd": [
@@ -2834,6 +2834,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/af-1-rok-st-terminy-odrobienia-zajec-z-dr-hanna-czaja-cieszynska/",
+    "title": "AF 1 rok ST- terminy odrobienia zajęć z dr Hanną Czają-Cieszyńską",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Terminy odrabiania zajęć z przedmiotu Teoria, zasady i organizacja rachunkowości: 01.12 godz. 12:00-13:30 wykład s.S017 01.12 godz. 13:45-15:15 ćwiczenia s. S017 08.12 godz. 08:15-9.45 wykład s. S017"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/11/grupa-e61-a-zmiana-sali-na-laboratoria-z-przedmiotu-metody-ilosciowe-w-audycie-i-controllingu-z-dr-wojciechem-kuzminskim/",
     "title": "Grupa E61 A-zmiana sali na laboratoria z przedmiotu „Metody ilościowe w audycie i controllingu” z dr. Wojciechem Kuźmińskim",
     "ym": "2026-11",
@@ -2842,9 +2849,83 @@
    }
   ],
   "zmiany": {
-   "E60": [],
-   "E61": []
+   "E60": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Teoria, zasady i organizacja rachunkowości",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "S017",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "S017",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "S017",
+     "post": 0
+    }
+   ],
+   "E61": [
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Teoria, zasady i organizacja rachunkowości",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "S017",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-01",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "S017",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "8:15",
+     "end": "9:45",
+     "pl": "Odrabianie zajęć",
+     "k": "X",
+     "p": "dr Hanna Czaja-Cieszyńska",
+     "r": "S017",
+     "post": 0
+    }
+   ]
   },
-  "updatedAt": "2026-11-25T15:42:54.674Z"
+  "updatedAt": "2026-11-27T15:09:42.917Z"
  }
 }

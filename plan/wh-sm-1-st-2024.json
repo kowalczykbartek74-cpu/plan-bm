@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-26T17:36:38.836Z",
+ "checkedAt": "2026-11-27T15:04:17.215Z",
  "groups": {
   "SM3": {
    "odd": [
@@ -685,6 +685,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-agnieszka-jakobiak-odwolanie-zajec-2/",
+    "title": "mgr Agnieszka Jakóbiak- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Uwaga Studenci, Zajęcia 2r. – 3r. I stopnia z mgr Agnieszką Jakóbiak język hiszpański w dniach 26.11 i 3.12 zostają odwołane."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-agnieszka-jakobiak-odrabianie-zajec-2/",
     "title": "mgr Agnieszka Jakóbiak- odrabianie zajęć",
     "ym": "2026-11",
@@ -711,36 +718,48 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 2,
+     "post": 3,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-09",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2026-11-26",
+     "post": 0,
+     "niska": true
     },
     {
      "type": "cancel",
      "date": "2026-11-26",
      "start": "15:15",
      "pl": "Język hiszpański",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 0,
+     "niska": true
     },
     {
      "type": "cancel",
      "date": "2026-12-03",
      "start": "15:15",
      "pl": "Język hiszpański",
-     "post": 0,
+     "post": 1,
      "posts": [
-      0
+      1
      ]
     }
    ]
   },
-  "updatedAt": "2026-11-26T15:05:43.874Z"
+  "updatedAt": "2026-11-27T15:10:18.284Z"
  }
 }

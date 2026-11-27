@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:54:22.756Z",
- "checkedAt": "2026-11-26T17:37:41.452Z",
+ "checkedAt": "2026-11-27T15:05:23.066Z",
  "groups": {
   "IEBL2": {
    "odd": [
@@ -727,23 +727,10 @@
     "ym": "2026-10",
     "pub": "2026-10-13",
     "text": "Dear Students, Please be informed that classes with Dr. habil. Krystyna Nizioł scheduled for 13–15 October this year have been cancelled. Information regarding the rescheduled classes will be provided at a later date."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/iebl-ma-studies-2-nd-international-trade-dispute-resolution-09-10-2026-dr-shihan-fernando/",
-    "title": "IEBL MA studies 2 nd. – International Trade Dispute Resolution 09.10.2026 – dr Shihan Fernando",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "The lecture on International Trade Dispute Resolution scheduled for 9 October 2026 will not take place. A date for the rescheduled lecture will be announced soon."
    }
   ],
   "zmiany": {
    "IEBL2": [
-    {
-     "type": "note",
-     "date": "2026-10-09",
-     "post": 14,
-     "niska": true
-    },
     {
      "type": "note",
      "date": "2026-10-13",
@@ -853,6 +840,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-25T15:43:47.304Z"
+  "updatedAt": "2026-11-27T15:10:42.992Z"
  }
 }

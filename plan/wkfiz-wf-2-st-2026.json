@@ -1,6 +1,6 @@
 {
  "source": "https://planyzajec-kfz.usz.edu.pl/index.html",
- "wersja": "dane-376ce634d7f5",
+ "wersja": "dane-6fe9b139d867",
  "kierunek": "Wychowanie fizyczne",
  "kierunekEn": "Physical Education",
  "id": "wkfiz-wf-2-st-2026",
@@ -11,8 +11,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:35:12.415Z",
- "checkedAt": "2026-11-26T17:36:31.296Z",
+ "changedAt": "2026-11-27T15:04:09.685Z",
+ "checkedAt": "2026-11-27T15:04:09.685Z",
  "groups": {
   "WF1": {
    "odd": [
@@ -62,8 +62,8 @@
     {
      "d": 1,
      "time": [
-      "15:15",
-      "16:45"
+      "15:45",
+      "17:15"
      ],
      "pl": "Teoria i metodyka sportów indywidualnych: piłka nożna",
      "k": "CW",
@@ -338,8 +338,8 @@
     {
      "d": 1,
      "time": [
-      "15:15",
-      "16:45"
+      "15:45",
+      "17:15"
      ],
      "pl": "Teoria i metodyka sportów indywidualnych: piłka nożna",
      "k": "CW",

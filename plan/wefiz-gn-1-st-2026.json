@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "25.11.2026 14:16",
+ "updated": "27.11.2026 13:38",
  "changedAt": "2026-11-13T12:57:53.182Z",
- "checkedAt": "2026-11-26T17:28:37.537Z",
+ "checkedAt": "2026-11-27T14:52:22.494Z",
  "groups": {
   "M150": {
    "odd": [
@@ -699,6 +699,13 @@
   "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m150-m151-m160-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniu-01-12-2026-r/",
+    "title": "M150, M151, M160- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniu 01.12 2026 r.",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Wszystkie zajęcia z dr Brigitą Zuromskaite-Nagaj w dniu 01.12.2026 r. zostają odwołane. Terminy odrobienia zajęć: 1 rok GN, wykład- 03.12.2026 r., godz. 12.00, sala S017 M151, ćwiczenia- 03.12.2026 r., godz. 13.45, sala S017 M160, wykład- 08.12.2026 r., godz. 10.00, sala N15 M160, ćwiczenia- 08.12.2026 r., godz. 12.00, sala N15"
+   },
+   {
     "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m151-odwolanie-zajec-z-dr-agnieszka-lopatka-w-dniu-01-12-2026-r/",
     "title": "M151- odwołanie zajęć z dr Agnieszką Łopatką w dniu 01.12.2026 r.",
     "ym": "2026-11",
@@ -725,7 +732,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M151",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -737,7 +744,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M160",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -749,7 +756,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S07 M160",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -761,7 +768,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S103 M150",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -773,7 +780,65 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S08 M240",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "10:00",
+     "pl": "Podstawy organizacji i zarządzania",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "W",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M151",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "W",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "W",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "N15 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "W",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "N15",
+     "post": 0
     }
    ],
    "M151": [
@@ -787,7 +852,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M151",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -799,7 +864,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S017 M160",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -811,7 +876,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S07 M160",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -823,7 +888,7 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S103 M150",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -835,17 +900,85 @@
      "k": "X",
      "p": "dr Brigita Zuromskaite-Nagaj",
      "r": "S08 M240",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
      "date": "2026-12-01",
      "start": "8:15",
      "pl": "Mikroekonomia",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "10:00",
+     "pl": "Podstawy organizacji i zarządzania",
      "post": 0,
      "posts": [
       0
      ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-12-01",
+     "start": "12:00",
+     "pl": "Podstawy organizacji i zarządzania",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M151",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-03",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "S017 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "10:00",
+     "end": "11:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "N15 M160",
+     "post": 0
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-08",
+     "start": "12:00",
+     "end": "13:30",
+     "pl": "Podstawy organizacji i zarządzania",
+     "k": "X",
+     "p": "dr Brigita Zuromskaite-Nagaj",
+     "r": "N15",
+     "post": 0
     },
     {
      "type": "extra",
@@ -857,10 +990,10 @@
      "k": "CW",
      "p": "dr Agnieszka Łopatka",
      "r": "s. 202 MBA",
-     "post": 0
+     "post": 1
     }
    ]
   },
-  "updatedAt": "2026-11-20T14:11:14.509Z"
+  "updatedAt": "2026-11-27T15:07:08.823Z"
  }
 }

@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "25.11.2026 14:16",
+ "updated": "27.11.2026 13:38",
  "changedAt": "2026-11-08T00:54:45.527Z",
- "checkedAt": "2026-11-26T17:28:37.550Z",
+ "checkedAt": "2026-11-27T14:55:37.269Z",
  "groups": {
   "C151": {
    "odd": [
@@ -925,63 +925,10 @@
     "ym": "2026-10",
     "pub": "2026-10-29",
     "text": "Dnia 06.11.2026 zostają odwołane zajęcia z dr Dominiką Kordelą. Termin odrobienia zajęć: 151B – 17.11.2026 godz. 13:45 s. SIL116lab 151A- 17.11.2026 godz. 15:30 s. SIL116lab"
-   },
-   {
-    "url": "https://dos.usz.edu.pl/cukrowa/2026/10/grupa-c151-c152-c153-7/",
-    "title": "GRUPA C151, C152, C153",
-    "ym": "2026-10",
-    "pub": "2026-10-12",
-    "text": "Dnia 20.10.2026 zostają odwołane zajęcia z dr hab. Moniką Różycką. Termin odrabiania zajęć: 29.10.2026 godz. 10:00 sala 307 Termin odrobienia zajęć z dnia 06.10.2026: 29.10.2026 godz. 12:00 sala 307"
    }
   ],
   "zmiany": {
    "C151": [
-    {
-     "type": "cancel",
-     "date": "2026-10-06",
-     "start": "12:00",
-     "pl": "Nauka o przedsiębiorstwie",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "12:00",
-     "pl": "Nauka o przedsiębiorstwie",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-29",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Nauka o przedsiębiorstwie",
-     "k": "W",
-     "p": "dr hab. Monika Różycka",
-     "r": "s. 307",
-     "post": 3,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-29",
-     "start": "12:00",
-     "end": "13:30",
-     "pl": "Nauka o przedsiębiorstwie",
-     "k": "W",
-     "p": "dr hab. Monika Różycka",
-     "r": "s. 307",
-     "post": 3,
-     "dup": true
-    },
     {
      "type": "cancel",
      "date": "2026-11-06",
@@ -1044,52 +991,6 @@
    "C152": [
     {
      "type": "cancel",
-     "date": "2026-10-06",
-     "start": "12:00",
-     "pl": "Nauka o przedsiębiorstwie",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "12:00",
-     "pl": "Nauka o przedsiębiorstwie",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-29",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Nauka o przedsiębiorstwie",
-     "k": "W",
-     "p": "dr hab. Monika Różycka",
-     "r": "s. 307",
-     "post": 3,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-29",
-     "start": "12:00",
-     "end": "13:30",
-     "pl": "Nauka o przedsiębiorstwie",
-     "k": "W",
-     "p": "dr hab. Monika Różycka",
-     "r": "s. 307",
-     "post": 3,
-     "dup": true
-    },
-    {
-     "type": "cancel",
      "date": "2026-11-06",
      "start": "8:15",
      "pl": "Podstawy finansów",
@@ -1137,55 +1038,8 @@
      "dup": true
     }
    ],
-   "C153": [
-    {
-     "type": "cancel",
-     "date": "2026-10-06",
-     "start": "12:00",
-     "pl": "Nauka o przedsiębiorstwie",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "cancel",
-     "date": "2026-10-20",
-     "start": "12:00",
-     "pl": "Nauka o przedsiębiorstwie",
-     "post": 3,
-     "posts": [
-      3
-     ]
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-29",
-     "start": "10:00",
-     "end": "11:30",
-     "pl": "Nauka o przedsiębiorstwie",
-     "k": "W",
-     "p": "dr hab. Monika Różycka",
-     "r": "s. 307",
-     "post": 3,
-     "dup": true
-    },
-    {
-     "type": "extra",
-     "kind": "makeup",
-     "date": "2026-10-29",
-     "start": "12:00",
-     "end": "13:30",
-     "pl": "Nauka o przedsiębiorstwie",
-     "k": "W",
-     "p": "dr hab. Monika Różycka",
-     "r": "s. 307",
-     "post": 3,
-     "dup": true
-    }
-   ]
+   "C153": []
   },
-  "updatedAt": "2026-11-24T15:57:33.930Z"
+  "updatedAt": "2026-11-27T15:09:14.213Z"
  }
 }

@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-08T21:41:31.877Z",
- "checkedAt": "2026-11-26T17:36:38.836Z",
+ "checkedAt": "2026-11-27T15:04:17.215Z",
  "groups": {
   "FA1": {
    "odd": [
@@ -1581,6 +1581,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mateusz-dudek-odwolanie-zajec-2/",
+    "title": "Mateusz Dudek- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Dzień dobry, informujemy, że pracownik Mateusz Dudek zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Nieprzewidziana nieobecność Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-28 17:00 2026-12-09 13:30 304 FANG-SI.26-1-L.1,FANG-SI.26-1-L.2 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 1 praktyczna nauka języka angielskiego – pisanie akademickie laboratorium – Przyczyna nieobecności inne Uzasadnienie Urlop okolicznościowy ze względu na śmierć ojca Proponowana treść ogłoszenia dla studentów: Zajęcia zostaną odrobione w ustalonym terminie Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-10-28 18:45 2026-12-16 13:30 304 FANG-SI.26-1-L.1,FANG-SI.26-1-L.2 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne pierwszego stopnia 1 praktyczna nauka języka angielskiego – pisanie akademickie laboratorium – Przyczyna nieobecności inne Uzasadnienie Urlop okolicznościowy ze względu na śmierć ojca Proponowana treść ogłoszenia dla studentów: Zajęcia zostaną odrobione w ustalonym terminie"
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-pawel-kucharski-odwolanie-zajec/",
     "title": "mgr Paweł Kucharski- odwołanie zajęć",
     "ym": "2026-11",
@@ -1642,17 +1649,17 @@
      "k": "LAB",
      "p": "mgr Mateusz Dudek",
      "r": "s. 120",
-     "post": 1
+     "post": 2
     },
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 6
+     "post": 7
     },
     {
      "type": "note",
      "date": "2026-10-07",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
@@ -1660,15 +1667,15 @@
      "start": "18:45",
      "pl": "PNJA: Pisanie akad.",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 1
+     "post": 2
     },
     {
      "type": "cancel",
@@ -1676,16 +1683,38 @@
      "start": "18:45",
      "pl": "PNJA: Pisanie akad.",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
      "type": "note",
      "date": "2026-10-21",
-     "post": 4,
+     "post": 5,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-28",
+     "start": "17:00",
+     "pl": "PNJA: Pisanie akad.",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-28",
+     "start": "18:45",
+     "pl": "PNJA: Pisanie akad.",
+     "moved": true,
+     "post": 0,
+     "posts": [
+      0
+     ]
     },
     {
      "type": "cancel",
@@ -1693,9 +1722,9 @@
      "start": "17:00",
      "pl": "PNJA: Pisanie akad.",
      "moved": true,
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -1704,9 +1733,9 @@
      "start": "15:15",
      "pl": "PNJA: Pisanie akad.",
      "moved": true,
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
@@ -1719,7 +1748,19 @@
      "k": "LAB",
      "p": "mgr Mateusz Dudek",
      "r": "s. 120",
-     "post": 1
+     "post": 2
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-09",
+     "start": "13:30",
+     "end": "15:00",
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Mateusz Dudek",
+     "r": "s. 304",
+     "post": 0
     },
     {
      "type": "cancel",
@@ -1727,10 +1768,22 @@
      "start": "13:30",
      "pl": "PNJA: Gram. Prakt.",
      "moved": true,
-     "post": 3,
+     "post": 4,
      "posts": [
-      3
+      4
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-16",
+     "start": "13:30",
+     "end": "15:00",
+     "pl": "PNJA: Pisanie akad.",
+     "k": "LAB",
+     "p": "mgr Mateusz Dudek",
+     "r": "s. 304",
+     "post": 0
     },
     {
      "type": "extra",
@@ -1742,7 +1795,7 @@
      "k": "LAB",
      "p": "dr M. Szymczak - Kordulasińska",
      "r": "s. 310 A",
-     "post": 2
+     "post": 3
     },
     {
      "type": "extra",
@@ -1754,7 +1807,7 @@
      "k": "LAB",
      "p": "dr M. Szymczak - Kordulasińska",
      "r": "s. 310 A",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
@@ -1762,9 +1815,9 @@
      "start": "17:00",
      "pl": "PNJA: Konwersacje",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1773,9 +1826,9 @@
      "start": "18:45",
      "pl": "PNJA: Konwersacje",
      "moved": true,
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -1788,7 +1841,7 @@
      "k": "LAB",
      "p": "mgr Becca Borton",
      "r": "s. 120",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -1800,7 +1853,7 @@
      "k": "LAB",
      "p": "mgr Becca Borton",
      "r": "s. 120",
-     "post": 1
+     "post": 2
     },
     {
      "type": "extra",
@@ -1812,10 +1865,10 @@
      "k": "LAB",
      "p": "dr Iryna Penza",
      "r": "s. 120",
-     "post": 3
+     "post": 4
     }
    ]
   },
-  "updatedAt": "2026-11-23T16:11:46.918Z"
+  "updatedAt": "2026-11-27T15:10:17.309Z"
  }
 }

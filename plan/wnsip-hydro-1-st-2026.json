@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:37:44.669Z",
- "checkedAt": "2026-11-26T17:37:23.617Z",
+ "checkedAt": "2026-11-27T15:05:04.329Z",
  "groups": {
   "HYDRO1": {
    "odd": [
@@ -799,6 +799,13 @@
   "source": "https://dos.usz.edu.pl/waska/zajecia-waska/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/waska/2026/11/hydrobiology-1st-degree-1st-year-water-chemistry-lecture-cancelled-on-27th-november/",
+    "title": "Hydrobiology 1st degree 1st year – water chemistry lecture cancelled on 27th November",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "On Friday, 27th November, the lecture with dr Tymoteusz Miller has been cancelled. The class will be made up on December 23rd at 3:00 pm."
+   },
+   {
     "url": "https://dos.usz.edu.pl/waska/2026/10/hydrobiology-i-degree-2-year-cancelled-ornithology-class-on-21st-oct/",
     "title": "Hydrobiology I degree 2 year – cancelled ornithology class on 21st Oct",
     "ym": "2026-10",
@@ -832,13 +839,13 @@
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-14",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
@@ -846,9 +853,9 @@
      "date": "2026-10-20",
      "start": "08:15",
      "pl": "Marine Invertebrates",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
@@ -856,19 +863,34 @@
      "date": "2026-10-20",
      "start": "10:00",
      "pl": "Marine Invertebrates",
-     "post": 1,
+     "post": 2,
      "posts": [
-      1
+      2
      ]
     },
     {
      "type": "note",
      "date": "2026-10-21",
-     "post": 0,
+     "post": 1,
      "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-27",
+     "start": "09:00",
+     "pl": "Water chemistry",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-12-23",
+     "post": 0
     }
    ]
   },
-  "updatedAt": "2026-11-09T23:32:06.221Z"
+  "updatedAt": "2026-11-27T15:10:42.775Z"
  }
 }

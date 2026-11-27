@@ -1,7 +1,7 @@
 {
- "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-IEBL-II-st.-14.pdf",
- "wersja": "I-IEBL-II-st.-14.pdf",
- "sha256": "76751d564ca4f833838e4e6b2b8a457d5d9513c85d3afea2cb2cc5852e80d3f5",
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/I-IBL.pdf",
+ "wersja": "I-IBL.pdf",
+ "sha256": "66cdb192bb7c6b61e18f6bbcd96294101c4de0e4e3b80e78721c38b5ec5ab8ba",
  "kierunek": "International and European Business Law",
  "kierunekEn": "International and European Business Law",
  "id": "wpia-iebl-2-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-09T22:38:26.852Z",
- "checkedAt": "2026-11-26T17:37:41.452Z",
+ "changedAt": "2026-11-27T15:05:23.066Z",
+ "checkedAt": "2026-11-27T15:05:23.066Z",
  "groups": {
   "IEBL1": {
    "odd": [
@@ -108,7 +108,7 @@
       "2026-11-24",
       "2026-12-08",
       "2027-01-12",
-      "2027-01-26"
+      "2027-01-19"
      ]
     },
     {
@@ -126,7 +126,7 @@
       "2026-11-10",
       "2026-11-17",
       "2026-12-15",
-      "2027-01-19"
+      "2027-01-26"
      ]
     },
     {
@@ -354,7 +354,7 @@
       "2026-11-24",
       "2026-12-08",
       "2027-01-12",
-      "2027-01-26"
+      "2027-01-19"
      ]
     },
     {
@@ -372,7 +372,7 @@
       "2026-11-10",
       "2026-11-17",
       "2026-12-15",
-      "2027-01-19"
+      "2027-01-26"
      ]
     },
     {
@@ -728,13 +728,6 @@
     "ym": "2026-10",
     "pub": "2026-10-13",
     "text": "Dear Students, Please be informed that classes with Dr. habil. Krystyna Nizioł scheduled for 13–15 October this year have been cancelled. Information regarding the rescheduled classes will be provided at a later date."
-   },
-   {
-    "url": "https://dos.usz.edu.pl/narutowicza/zajecia-narutowicza/2026/10/iebl-ma-studies-2-nd-international-trade-dispute-resolution-09-10-2026-dr-shihan-fernando/",
-    "title": "IEBL MA studies 2 nd. – International Trade Dispute Resolution 09.10.2026 – dr Shihan Fernando",
-    "ym": "2026-10",
-    "pub": "2026-10-08",
-    "text": "The lecture on International Trade Dispute Resolution scheduled for 9 October 2026 will not take place. A date for the rescheduled lecture will be announced soon."
    }
   ],
   "zmiany": {
@@ -832,6 +825,6 @@
     }
    ]
   },
-  "updatedAt": "2026-11-25T15:43:47.316Z"
+  "updatedAt": "2026-11-27T15:10:43.003Z"
  }
 }

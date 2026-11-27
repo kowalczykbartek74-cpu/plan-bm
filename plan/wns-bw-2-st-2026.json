@@ -1,7 +1,7 @@
 {
- "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-57.pdf",
- "wersja": "BW-II-57.pdf",
- "sha256": "37789108ed75071a088b5ce5eb0222b2b424c5ecc9928052dd1e66a3e658836e",
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/BW-II-27.11.pdf",
+ "wersja": "BW-II-27.11.pdf",
+ "sha256": "4fbe881303da64b9a542daeef50a0551678b55fde8fe3d5c85e06d4bbadbff32",
  "kierunek": "Bezpieczeństwo wewnętrzne",
  "kierunekEn": "Internal Security",
  "id": "wns-bw-2-st-2026",
@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-19T14:05:46.797Z",
- "checkedAt": "2026-11-26T17:36:39.541Z",
+ "changedAt": "2026-11-27T15:04:17.928Z",
+ "checkedAt": "2026-11-27T15:04:17.928Z",
  "groups": {
   "BW1": {
    "odd": [
@@ -75,7 +75,7 @@
       "15:00"
      ],
      "p": "dr M. Mieczkowska",
-     "r": "s. 239",
+     "r": "s. 177",
      "n": "pierwsze zajęcia w godz. 14.15-15.00",
      "dates": [
       "2026-11-24",
@@ -530,7 +530,7 @@
       "15:00"
      ],
      "p": "dr M. Mieczkowska",
-     "r": "s. 239",
+     "r": "s. 177",
      "n": "pierwsze zajęcia w godz. 14.15-15.00",
      "dates": [
       "2026-11-24",

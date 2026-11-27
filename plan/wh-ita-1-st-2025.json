@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-26T17:36:38.836Z",
+ "checkedAt": "2026-11-27T15:04:17.215Z",
  "groups": {
   "ITA2": {
    "odd": [
@@ -475,6 +475,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-agnieszka-jakobiak-odwolanie-zajec-2/",
+    "title": "mgr Agnieszka Jakóbiak- odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Uwaga Studenci, Zajęcia 2r. – 3r. I stopnia z mgr Agnieszką Jakóbiak język hiszpański w dniach 26.11 i 3.12 zostają odwołane."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/mgr-agnieszka-jakobiak-odwoloanie-zajec/",
     "title": "mgr Agnieszka Jakóbiak- odwołoanie zajęć",
     "ym": "2026-11",
@@ -515,25 +522,25 @@
     {
      "type": "note",
      "date": "2026-10-05",
-     "post": 4,
+     "post": 5,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-12",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-10-13",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-03",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
@@ -541,21 +548,22 @@
      "date": "2026-11-04",
      "start": "10:00",
      "pl": "Gramatyka opisowa języka włoskiego WT",
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     },
     {
      "type": "note",
      "date": "2026-11-09",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-11-26",
-     "post": 0
+     "post": 0,
+     "niska": true
     },
     {
      "type": "note",
@@ -564,35 +572,46 @@
     },
     {
      "type": "note",
+     "date": "2026-11-26",
+     "post": 2
+    },
+    {
+     "type": "note",
      "date": "2026-12-01",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-03",
-     "post": 0
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-03",
+     "post": 1
     },
     {
      "type": "note",
      "date": "2026-12-08",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-14",
-     "post": 3,
+     "post": 4,
      "niska": true
     },
     {
      "type": "note",
      "date": "2026-12-15",
-     "post": 3,
+     "post": 4,
      "niska": true
     }
    ]
   },
-  "updatedAt": "2026-11-26T15:05:43.681Z"
+  "updatedAt": "2026-11-27T15:10:18.081Z"
  }
 }

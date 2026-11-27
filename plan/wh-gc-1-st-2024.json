@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:35:19.164Z",
- "checkedAt": "2026-11-26T17:36:38.836Z",
+ "checkedAt": "2026-11-27T15:04:17.215Z",
  "groups": {
   "GC3": {
    "odd": [
@@ -721,6 +721,13 @@
   "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
   "posts": [
    {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/11/dr-anna-lazuka-banach-odwolanie-zajec-10/",
+    "title": "dr Anna Łazuka-Banach – odwołanie zajęć",
+    "ym": "2026-11",
+    "pub": "2026-11-27",
+    "text": "Dzień dobry, informujemy, że pracownik Anna Łazuka-Banach zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Językoznawstwa Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Nieprzewidziana nieobecność Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-28 8:15 2026-11-24 11:45 Biblioteka Międzywydziałowa FANG-SII.25-2-PW2.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne drugiego stopnia 2 Issues in intercultural communication (zagadnienia komunikacji interkulturowej) konwersatorium – Przyczyna nieobecności inne Uzasadnienie Powód osobisty Proponowana treść ogłoszenia dla studentów: Drodzy Studenci, zajęcia zostały odrobione. Dziękuję. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-10-28 10:00 2026-11-26 11:45 120 GCO-SI.24-3-SEM2.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo Global Communication stacjonarne pierwszego stopnia 3 Diploma Seminar (seminarium dyplomowe) seminarium – Przyczyna nieobecności inne Uzasadnienie Powód osobisty Proponowana treść ogłoszenia dla studentów: Drodzy Studenci, zajęcia zostały odrobione. Dziękuję."
+   },
+   {
     "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-anna-lazuka-banach-przelozenie-zajec-2/",
     "title": "dr Anna Łazuka-Banach- przełożenie zajęć",
     "ym": "2026-10",
@@ -756,10 +763,24 @@
      "date": "2026-10-28",
      "start": "10:00",
      "pl": "Diploma seminar",
+     "moved": true,
      "post": 0,
      "posts": [
-      0
+      0,
+      1
      ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-11-26",
+     "start": "11:45",
+     "end": "13:15",
+     "pl": "Diploma seminar",
+     "k": "S",
+     "p": "dr Anna Łazuka-Banach",
+     "r": "s. 120",
+     "post": 0
     },
     {
      "type": "extra",
@@ -771,12 +792,12 @@
      "k": "X",
      "p": "dr J. Sypiańska",
      "r": "s. 120",
-     "post": 2
+     "post": 3
     },
     {
      "type": "note",
      "date": "2026-12-10",
-     "post": 2
+     "post": 3
     },
     {
      "type": "cancel",
@@ -784,13 +805,13 @@
      "start": "08:15",
      "pl": "Spanish I",
      "moved": true,
-     "post": 2,
+     "post": 3,
      "posts": [
-      2
+      3
      ]
     }
    ]
   },
-  "updatedAt": "2026-11-09T18:07:28.387Z"
+  "updatedAt": "2026-11-27T15:10:17.893Z"
  }
 }

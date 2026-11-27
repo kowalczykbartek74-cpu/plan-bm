@@ -8,9 +8,9 @@
  "rok": 1,
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "updated": "25.11.2026 14:16",
- "changedAt": "2026-11-08T18:39:37.121Z",
- "checkedAt": "2026-11-26T17:28:37.539Z",
+ "updated": "27.11.2026 13:38",
+ "changedAt": "2026-11-27T14:52:53.278Z",
+ "checkedAt": "2026-11-27T14:52:53.278Z",
  "groups": {
   "M140": {
    "odd": [
@@ -28,9 +28,20 @@
      "s": 0,
      "pl": "Technologie informacyjne",
      "k": "LAB",
-     "h": 30,
+     "h": 18,
      "p": "dr Magdalena Kotnis",
      "r": "s. N105 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Technologie informacyjne (lab) 12h od",
+     "k": "X",
+     "p": "mgr inż. Bartłomiej Piwowarski",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     },
     {
      "d": 0,
@@ -113,9 +124,20 @@
      "s": 0,
      "pl": "Technologie informacyjne",
      "k": "LAB",
-     "h": 30,
+     "h": 18,
      "p": "dr Magdalena Kotnis",
      "r": "s. N105 (lab)"
+    },
+    {
+     "d": 3,
+     "s": 0,
+     "pl": "Technologie informacyjne (lab) 12h od",
+     "k": "X",
+     "p": "mgr inż. Bartłomiej Piwowarski",
+     "dates": [
+      "2026-12-03"
+     ],
+     "n": "Jednorazowo: 3.12.2026"
     },
     {
      "d": 0,

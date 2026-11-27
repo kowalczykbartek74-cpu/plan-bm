@@ -1,7 +1,7 @@
 {
  "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
- "wersja": "55 plików zjazdów (18 dni)",
- "sha256": "295997e2133a9fbcea028ffc5a80ce1347a569fb91c9c8088e242da91a04d6f1",
+ "wersja": "55 plików zjazdów (15 dni)",
+ "sha256": "80abc0b8dabc29171b05cda2f3eb87c27f86a08906014ada86e926e63925811e",
  "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
  "kierunekEn": "Preschool and Early School Education",
  "id": "wns-ppiw-0-nst-2024",
@@ -12,25 +12,11 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-26T16:44:17.644Z",
- "checkedAt": "2026-11-26T17:36:39.541Z",
+ "changedAt": "2026-11-27T15:04:17.928Z",
+ "checkedAt": "2026-11-27T15:04:17.928Z",
  "groups": {
   "PPIW3": {
    "odd": [
-    {
-     "d": 4,
-     "pl": "Metodyka edukacji polonistycznej",
-     "k": "W",
-     "time": [
-      "16:00",
-      "20:15"
-     ],
-     "p": "dr A. Całużyńska",
-     "r": "online (MS Teams)",
-     "dates": [
-      "2026-11-27"
-     ]
-    },
     {
      "d": 4,
      "pl": "Metodyka edukacji polonistycznej",
@@ -146,20 +132,6 @@
     },
     {
      "d": 5,
-     "pl": "Metodyka edukacji polonistycznej",
-     "k": "CW",
-     "time": [
-      "08:15",
-      "11:30"
-     ],
-     "p": "dr A. Całużyńska",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Pedagogika wczesnoszkolna",
      "k": "W",
      "time": [
@@ -170,20 +142,6 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-10"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Metodyk edukacji matematycznej",
-     "k": "W",
-     "time": [
-      "11:45",
-      "16:00"
-     ],
-     "p": "dr L. Pawlusińska",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
      ]
     },
     {
@@ -271,20 +229,6 @@
      ]
     },
     {
-     "d": 5,
-     "pl": "Pedagogika wczesnoszkolna",
-     "k": "CW",
-     "time": [
-      "16:00",
-      "19:30"
-     ],
-     "p": "mgr J. Majchrzak",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
      "d": 6,
      "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
      "k": "W",
@@ -311,20 +255,6 @@
      "dates": [
       "2026-10-11",
       "2026-11-22"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Pedagogika wczesnoszkolna",
-     "k": "W",
-     "time": [
-      "08:15",
-      "11:30"
-     ],
-     "p": "dr J. Karapuda",
-     "r": "s. 40 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -414,20 +344,6 @@
     },
     {
      "d": 6,
-     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
-     "k": "W",
-     "time": [
-      "11:45",
-      "14:15"
-     ],
-     "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 40 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
-     ]
-    },
-    {
-     "d": 6,
      "pl": "Zaj. do godz. 14.00 Język niemiecki",
      "k": "CW",
      "time": [
@@ -466,20 +382,6 @@
      "p": "dr hab. M. Wałejko",
      "dates": [
       "2027-01-10"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
-     "k": "CW",
-     "time": [
-      "14:15",
-      "16:00"
-     ],
-     "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 40 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -506,20 +408,6 @@
       "16:00",
       "20:15"
      ],
-     "p": "dr A. Całużyńska",
-     "r": "online (MS Teams)",
-     "dates": [
-      "2026-11-27"
-     ]
-    },
-    {
-     "d": 4,
-     "pl": "Metodyka edukacji polonistycznej",
-     "k": "W",
-     "time": [
-      "16:00",
-      "20:15"
-     ],
      "p": "dr A. Całuzyńska",
      "r": "online (MS Teams)",
      "dates": [
@@ -627,20 +515,6 @@
     },
     {
      "d": 5,
-     "pl": "Metodyka edukacji polonistycznej",
-     "k": "CW",
-     "time": [
-      "08:15",
-      "11:30"
-     ],
-     "p": "dr A. Całużyńska",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
-     "d": 5,
      "pl": "Pedagogika wczesnoszkolna",
      "k": "W",
      "time": [
@@ -651,20 +525,6 @@
      "r": "s. 43 ul. Ogińskiego 16-17",
      "dates": [
       "2026-10-10"
-     ]
-    },
-    {
-     "d": 5,
-     "pl": "Metodyk edukacji matematycznej",
-     "k": "W",
-     "time": [
-      "11:45",
-      "16:00"
-     ],
-     "p": "dr L. Pawlusińska",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
      ]
     },
     {
@@ -752,20 +612,6 @@
      ]
     },
     {
-     "d": 5,
-     "pl": "Pedagogika wczesnoszkolna",
-     "k": "CW",
-     "time": [
-      "16:00",
-      "19:30"
-     ],
-     "p": "mgr J. Majchrzak",
-     "r": "s. 43 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-28"
-     ]
-    },
-    {
      "d": 6,
      "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
      "k": "W",
@@ -792,20 +638,6 @@
      "dates": [
       "2026-10-11",
       "2026-11-22"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Pedagogika wczesnoszkolna",
-     "k": "W",
-     "time": [
-      "08:15",
-      "11:30"
-     ],
-     "p": "dr J. Karapuda",
-     "r": "s. 40 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
@@ -895,20 +727,6 @@
     },
     {
      "d": 6,
-     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
-     "k": "W",
-     "time": [
-      "11:45",
-      "14:15"
-     ],
-     "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 40 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
-     ]
-    },
-    {
-     "d": 6,
      "pl": "Zaj. do godz. 14.00 Język niemiecki",
      "k": "CW",
      "time": [
@@ -947,20 +765,6 @@
      "p": "dr hab. M. Wałejko",
      "dates": [
       "2027-01-10"
-     ]
-    },
-    {
-     "d": 6,
-     "pl": "Pedagogiczne podstawy nauczania języka obcego dzieci",
-     "k": "CW",
-     "time": [
-      "14:15",
-      "16:00"
-     ],
-     "p": "dr hab.K. Nerlicki, prof.US",
-     "r": "s. 40 ul. Ogińskiego 16-17",
-     "dates": [
-      "2026-11-29"
      ]
     },
     {
