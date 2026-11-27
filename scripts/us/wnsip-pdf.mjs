@@ -64,7 +64,7 @@ export function zajeciaZLinii(linie, d, sem, startRoku = 2026) {
   const nw = NAWIAS.exec(t);
   const k = nw ? rodzajZ(nw[1]) : /wykład|lecture/i.test(t) ? "W" : "X";
   let pl = (nw ? t.slice(0, nw.index) : t.split(/\s+(?:dr|mgr|prof)\b|\s\d{1,2}\.\d{1,2}/)[0]).replace(/\*+$/, "").replace(/[,\s]+$/, "").trim();
-  const gr = /\bgr\.?\s*(\d{1,2})\b/i.exec(t);
+  const gr = /\bgr\.?\s*(L\.?\s*)?(\d{1,2})\b/i.exec(t);   // „gr. 1” albo grupa laboratoryjna „gr. L.1” (Geografia, Oceanografia)
   let reszta = nw ? t.slice(nw.index + nw[0].length) : t.slice(pl.length);
   // prowadzący: także tytuły bez kropek i medyczne („prof US dr hab Lidia Skuza”, „dr n. med. A. Nowakowska”, „dr inż Ewa Filip”)
   const OSOBA = /(?:(?:prof\.?|Prof\.?)\s*(?:US\s*,?\s*)?|dr\.?\s*(?:hab\.?\s*)?(?:inż\.?\s*)?(?:n\.\s*[a-zł]+\.\s*)?|mgr\.?\s*(?:inż\.?\s*)?)+(?:[A-ZŁŚŻŹĆŃÓ][\wąćęłńóśźżĄĆĘŁŃÓŚŹŻ'.-]*\.?\s*(?:-\s*)?){1,4}(?:,\s*prof\.?\s*US)?/g;
@@ -77,7 +77,7 @@ export function zajeciaZLinii(linie, d, sem, startRoku = 2026) {
   const dt = datyZTekstu(reszta.replace(/(\d{1,2}\.\d{1,2})\.?\s*[-–]\s*\d{1,2}[:.]\d{2}\s*[-–]\s*\d{1,2}[:.]\d{2}/g, "$1"), d, sem, startRoku);
   const n = [wyjatki.length ? "inne godziny: " + wyjatki.join("; ") : "", dt.niejasne ? "terminy: " + (reszta.match(/\d{1,2}\.\d{1,2}[^a-zA-Z]{0,60}/)?.[0] || "").trim() : "",
     /\(ostatnie zajęcia[^)]*\)/i.exec(t)?.[0] || ""].filter(Boolean).join("; ");
-  return { pl, k, time, p: osoby.join(", "), r: sala, ...(gr ? { pg: "gr:" + gr[1] } : {}), daty: dt.daty, ...(n ? { n } : {}) };
+  return { pl, k, time, p: osoby.join(", "), r: sala, ...(gr ? { pg: (gr[1] ? "lab:" : "gr:") + gr[2] } : {}), daty: dt.daty, ...(n ? { n } : {}) };
 }
 
 // Komórki z linii: słowo należy do komórki ograniczonej najbliższymi czarnymi liniami z lewej, prawej, z góry i z dołu

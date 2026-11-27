@@ -55,3 +55,10 @@ test("zajęcia z linii: angielski rodzaj, godziny co 5 min, tytuły bez kropek, 
   assert.equal(m.p, "dr n. med. A. Poniewierska-Baran"); assert.match(m.n, /inne godziny: 24\.11/);
   assert.equal(podzialKomorki([{ y: 1, t: "Wstęp do geometrii" }, { y: 2, t: "[w/30h]" }, { y: 3, t: "dr E. C." }, { y: 4, t: "Wstęp do algebry [k/30h]" }]).length, 2);
 });
+
+test("WNŚiP: grupa laboratoryjna „gr. L.1” → podgrupa lab:1 (Geografia, Oceanografia)", () => {
+  const z = zajeciaZLinii([{ y: 0, t: "10:00 - 12:15 Kartografia i topograf [lab/30h] 16.11.- 01.02. gr. L.2 dr A. Giza s. 407 M18" }], 0, sem);
+  assert.equal(z.pg, "lab:2");
+  assert.equal(zajeciaZLinii([{ y: 0, t: "wstęp do geologii [lb/30h] gr.L.1 05.10 - 14.12 s. 218 M16A mgr Z. Stachowska" }], 0, sem).pg, "lab:1");
+  assert.equal(zajeciaZLinii([{ y: 0, t: "08:15-09:45 Lektorat [lektorat/30h] gr. 2 s. 10 mgr A. Nowak" }], 0, sem).pg, "gr:2");
+});

@@ -84,8 +84,12 @@ export function planWykladowcy(html) {
 
 // zajęcia wszystkich wykładowców → plany roczników { "<kierunek>|<stopień>|<rok>": { groups, zajec } }
 export function zloz(plany) {
+  // system ucina nazwę modułu różnie („…analizach rynku”, „…analizach rynk”, „…analizac”) → jedna, najdłuższa nazwa
+  const spec = [...new Set(plany.flatMap((x) => x.zajecia).map((z) => z.pg).filter((pg) => /^spec:/.test(pg || "")))];
+  const pelna = (pg) => spec.filter((s) => s.startsWith(pg)).sort((a, b) => b.length - a.length)[0] || pg;
   const jedne = new Map();   // te same zajęcia u kilku prowadzących → jeden wpis, prowadzący razem
-  for (const { p, zajecia } of plany) for (const z of zajecia) {
+  for (const { p, zajecia: zz } of plany) for (const z0 of zz) {
+    const z = /^spec:/.test(z0.pg || "") ? { ...z0, pg: pelna(z0.pg) } : z0;
     const klucz = JSON.stringify([z.data, z.time, z.pl, z.k, z.pg || "", z.r, z.grupy.map((g) => g.g).sort()]);
     const x = jedne.get(klucz) || jedne.set(klucz, { ...z, p: [] }).get(klucz);
     if (p && !x.p.includes(p)) x.p.push(p);

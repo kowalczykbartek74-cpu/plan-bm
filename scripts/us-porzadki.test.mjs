@@ -30,3 +30,9 @@ test("grupa z przodu nazwy → pg; resztka komórki (sam prowadzący) przy innyc
     { d: 2, time: ["08:15", "09:45"], pl: "dr A. Kowalska", k: "X" }], even: [] } };
   assert.deepEqual(porzadkujGroups(g).G.odd.map((x) => x.pl), ["Pedagogika specjalna", "dr A. Kowalska"]);
 });
+
+test("porządki: podgrupa „1a” i „1A” w jednym planie = jedna nazwa (częstsza)", () => {
+  const e = (d, pg) => ({ d, time: ["08:15", "09:45"], pl: "P" + d, k: "CW", pg });
+  const g = { G: { odd: [e(0, "gr:1A"), e(1, "gr:1A"), e(2, "gr:1a"), e(3, "gr:1b"), e(4, "lab:2 D"), e(0, "lab:2D"), e(1, "lab:2D")], even: [] } };
+  assert.deepEqual(porzadkujGroups(g).G.odd.map((x) => x.pg), ["gr:1A", "gr:1A", "gr:1A", "gr:1b", "lab:2D", "lab:2D", "lab:2D"]);
+});

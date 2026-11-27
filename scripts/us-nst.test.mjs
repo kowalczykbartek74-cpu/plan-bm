@@ -67,6 +67,14 @@ test("WEFiZ nst: plany wykładowców → plan rocznika po grupach, wspólne zaj�
   assert.ok(wykladowcy(`<a href='/wp-content/include-me/plany_mick/pracow_zajecia_xml.php?nazw=dr Michał&nazw1=Kuczyński' target='_blank'>dr Michał Kuczyński</a>`)[0].url.includes("pracow_zajecia_xml.php"));
 });
 
+test("WEFiZ nst: ucięta nazwa specjalności = jedna pełna nazwa", () => {
+  const g = [{ g: "F40", kierunek: "Data Science", stopien: 2, rok: 2 }];
+  const z0 = (data, pg) => ({ data, time: ["8:00", "9:30"], pl: "x" + data, k: "W", r: "s. 1", pg, grupy: g });
+  const z = zloz([{ p: "dr A", zajecia: [z0("2026-10-10", "spec:Zastosowanie data science w analizach rynku"), z0("2026-10-11", "spec:Zastosowanie data science w analizac"), z0("2026-10-17", "spec:Zastosowanie data science w analizach rynk")] }]);
+  const pg = new Set(Object.values(z)[0].groups.F40.odd.concat(Object.values(z)[0].groups.F40.even).map((e) => e.pg));
+  assert.deepEqual([...pg], ["spec:Zastosowanie data science w analizach rynku"]);
+});
+
 test("WEFiZ nst: roczniki z kodów grup e-proDziekan w PDF-ie „Wykaz grup … NZ” (Cukrowa)", () => {
   const mapa = { L: "Logistyka", Li: "Logistyka inż.", Z: "Zarządzanie", MAR: "Marketing" };
   const r = rocznikiNstWEFiZ(JSON.parse(fx("wefiz-nst/wykaz-cukrowa.json")), mapa);

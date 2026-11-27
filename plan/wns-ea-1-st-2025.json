@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-20T14:08:03.597Z",
- "checkedAt": "2026-11-27T17:15:49.087Z",
+ "changedAt": "2026-11-27T18:28:18.549Z",
+ "checkedAt": "2026-11-27T18:28:18.549Z",
  "groups": {
   "EA2": {
    "odd": [
@@ -132,6 +132,7 @@
      "p": "mgr P. Osuchowski",
      "r": "s. 58 ul. Ogińskiego 16-17",
      "n": "ost zaj do g. 9:45",
+     "pg": "lab:1",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -173,6 +174,7 @@
      "p": "dr A. Pawłowska",
      "r": "s. 44 ul. Ogińskiego 16-17",
      "n": "pierwsze zaj od g. 10:00",
+     "pg": "lab:1",
      "dates": [
       "2026-11-24",
       "2026-12-01",
@@ -739,6 +741,7 @@
      "p": "mgr P. Osuchowski",
      "r": "s. 58 ul. Ogińskiego 16-17",
      "n": "ost zaj do g. 9:45",
+     "pg": "lab:1",
      "dates": [
       "2026-10-06",
       "2026-10-13",
@@ -780,6 +783,7 @@
      "p": "dr A. Pawłowska",
      "r": "s. 44 ul. Ogińskiego 16-17",
      "n": "pierwsze zaj od g. 10:00",
+     "pg": "lab:1",
      "dates": [
       "2026-11-24",
       "2026-12-01",

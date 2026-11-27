@@ -308,14 +308,19 @@ export function etykieta(t0) {
   if ((m = /L\.?\s*(\d+)\s*$/.exec(s)) || (m = /^(\d+)\s*(?:lab|lb)\b/i.exec(s))) return { typ: "lab", nr: m[1] };
   if ((m = /^(\d+)\s*(?:ćw|cw)\b/i.exec(s))) return { typ: "ćw", nr: m[1] };
   if ((m = /^(\d+)\s+([\p{L}]{2,})$/u.exec(s))) return { typ: "spec", nr: m[2] };
-  if ((m = /[-.](\d{1,3})\s*$/.exec(s))) return { typ: "gr", nr: m[1] };
+  if ((m = /[-.]\s*(\d{1,3})\s*$/.exec(s))) return { typ: "gr", nr: m[1] };   // „BW- SI.26- 11”, „PSYC-SJM.22- 51” → 11, 51
   if ((m = /^(\d+)$/.exec(s))) return { typ: "gr", nr: m[1] };
   return { typ: "gr", nr: s };
 }
 // podgrupy, które zajmuje komórka (y0–y1): grupy (bez labów) w całości → per grupa; same laby → per lab; wszystko / nic → cały rok
-function podgrupy(r, etykiety) {
+export function podgrupy(r, etykiety) {
   if (etykiety.length < 2) return [null];
-  const zajete = etykiety.filter((e) => zakrycie(r[1], r[3], e.y0, e.y1) >= 0.7 * (e.y1 - e.y0));
+  let zajete = etykiety.filter((e) => zakrycie(r[1], r[3], e.y0, e.y1) >= 0.7 * (e.y1 - e.y0));
+  if (!zajete.length) {   // komórka w obrębie etykiety (grupa „3 lab” na dwa wiersze, PPIW) → najwęższa taka etykieta
+    const w = etykiety.filter((e) => zakrycie(r[1], r[3], e.y0, e.y1) >= 0.7 * (r[3] - r[1]));
+    const h = Math.min(...w.map((e) => e.y1 - e.y0));
+    zajete = w.filter((e) => e.y1 - e.y0 === h);
+  }
   if (!zajete.length || zajete.length === etykiety.length) return [null];
   const grupy = etykiety.filter((e) => e.typ !== "lab"), zg = zajete.filter((e) => e.typ !== "lab");
   if (zg.length && zg.length === grupy.length) return [null];

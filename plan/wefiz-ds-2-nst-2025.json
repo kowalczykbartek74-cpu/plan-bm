@@ -1,6 +1,6 @@
 {
  "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
- "wersja": "planynst-49a422a1ea74",
+ "wersja": "planynst-74031e9868b3",
  "kierunek": "Data Science",
  "kierunekEn": "Data Science",
  "id": "wefiz-ds-2-nst-2025",
@@ -11,8 +11,8 @@
  "tryb": "nst",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-23T15:57:02.825Z",
- "checkedAt": "2026-11-27T17:11:46.680Z",
+ "changedAt": "2026-11-27T18:24:21.591Z",
+ "checkedAt": "2026-11-27T18:24:21.591Z",
  "groups": {
   "F40": {
    "odd": [
@@ -133,7 +133,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-30"
      ]
@@ -193,7 +193,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-23"
      ]
@@ -266,7 +266,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-30"
      ]
@@ -340,7 +340,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-23"
      ]
@@ -672,7 +672,7 @@
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
-     "pg": "spec:Zastosowanie data science w analizach rynk",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-11-08"
      ]
@@ -687,7 +687,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-11-15"
      ]
@@ -702,7 +702,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-10"
      ]
@@ -822,7 +822,7 @@
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
-     "pg": "spec:Zastosowanie data science w analizach rynk",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-10-11"
      ]
@@ -837,7 +837,7 @@
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
-     "pg": "spec:Zastosowanie data science w analizach rynk",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-12-06"
      ]
@@ -897,7 +897,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-10"
      ]
@@ -956,7 +956,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-11-15"
      ]
@@ -1230,7 +1230,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-30"
      ]
@@ -1290,7 +1290,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-23"
      ]
@@ -1363,7 +1363,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-30"
      ]
@@ -1437,7 +1437,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. S0123B Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-23"
      ]
@@ -1769,7 +1769,7 @@
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
-     "pg": "spec:Zastosowanie data science w analizach rynk",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-11-08"
      ]
@@ -1784,7 +1784,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-11-15"
      ]
@@ -1799,7 +1799,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-10"
      ]
@@ -1919,7 +1919,7 @@
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
-     "pg": "spec:Zastosowanie data science w analizach rynk",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-10-11"
      ]
@@ -1934,7 +1934,7 @@
      "k": "W",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "online",
-     "pg": "spec:Zastosowanie data science w analizach rynk",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-12-06"
      ]
@@ -1994,7 +1994,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N101/102 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2027-01-10"
      ]
@@ -2053,7 +2053,7 @@
      "k": "LAB",
      "p": "dr hab. prof. US Mariusz Doszyń",
      "r": "s. N105 lab Mic.64",
-     "pg": "spec:Zastosowanie data science w analizac",
+     "pg": "spec:Zastosowanie data science w analizach rynku",
      "dates": [
       "2026-11-15"
      ]

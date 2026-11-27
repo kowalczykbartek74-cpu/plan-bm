@@ -106,6 +106,16 @@ export function porzadkujGroups(groups) {
       });
       out[g][l] = l2;
     }
+    // ta sama podgrupa pisana raz „1a”, raz „1A”, „2 D” i „2D” (WH) → jedna nazwa, bo strona robi z nich osobne przyciski
+    const wpisy = ["odd", "even"].flatMap((l) => out[g][l]);
+    const ile = new Map();
+    for (const e of wpisy) if (typeof e.pg === "string") ile.set(e.pg, (ile.get(e.pg) || 0) + 1);
+    const jedna = new Map();
+    for (const pg of ile.keys()) {
+      const k = pg.toLowerCase().replace(/\s+/g, "");
+      if (!jedna.has(k) || ile.get(pg) > ile.get(jedna.get(k))) jedna.set(k, pg);
+    }
+    for (const e of wpisy) if (typeof e.pg === "string") e.pg = jedna.get(e.pg.toLowerCase().replace(/\s+/g, ""));
   }
   return out;
 }

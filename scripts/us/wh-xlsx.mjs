@@ -163,7 +163,8 @@ export function grupaZTekstu(t) {
   // „(specjalność język niemiecki w gospodarce i biznesie)”, „specjalność: kształcenie przygotowujące do zawodu nauczyciela”
   const sn = /\(\s*specjalność:?\s*([^()]*?nauczyciel\w*|[^()]+?)\s*\)|specjalność:?\s*kształcenie przygotowujące do (?:wykonywania )?zawodu nauczyciela/i.exec(s);
   if (sn) { const n = /nauczyciel/i.test(sn[0]) ? "nauczycielska" : sn[1].trim().toLowerCase(); return { pg: "spec:" + n, fragment: sn[0] }; }
-  let m = /\bgr(?:upa)?\.?\s*lab\.?\s*([A-Z0-9]{1,2})\b/i.exec(s) || /\blab\.?\s+([A-H])\b/.exec(s); if (m) return { pg: "lab:" + m[1].toUpperCase(), fragment: m[0] };
+  // „gr lab 2D” i „gr lab 2 D” (GC) to ta sama grupa
+  let m = /\bgr(?:upa)?\.?\s*lab\.?\s*(\d\s[A-H]|[A-Z0-9]{1,2})\b/i.exec(s) || /\blab\.?\s+([A-H])\b/.exec(s); if (m) return { pg: "lab:" + m[1].replace(/\s/g, "").toUpperCase(), fragment: m[0] };
   m = /\bgr(?:upa)?\.?\s*ćw\.?\s*(\d{1,2})\b/i.exec(s); if (m) return { pg: "ćw:" + m[1], fragment: m[0] };
   m = /\bGRUPA\s+(\d{1,2}[a-z]?)\b/i.exec(s) || /\b(\d)\s*grupa\b/i.exec(s) || /\bgr\.?\s*(\d{1,2}[a-z]?)(?:\s*IT)?\b/i.exec(s) || /\b(\d{1,2})\s*gr\b/i.exec(s);
   if (m) return { pg: "gr:" + m[1], fragment: m[0] };

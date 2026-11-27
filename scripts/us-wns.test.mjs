@@ -5,7 +5,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
-import { plikNaWpisy, plikNaPlany, terminyWNS, salaWNS, etykieta } from "./us/wns-pdf.mjs";
+import { plikNaWpisy, plikNaPlany, terminyWNS, salaWNS, etykieta, podgrupy } from "./us/wns-pdf.mjs";
 import { waliduj } from "./us/wspolne.mjs";
 
 const sem = { od: "2026-10-01", do: "2027-01-31" };
@@ -29,8 +29,8 @@ test("sala z budynkiem K/O i inne zapisy sal", () => {
   assert.equal(salaWNS("s. 106/Mickiewicza 18, bud WNŚiP"), "s. 106 ul. Mickiewicza 18");
   assert.equal(salaWNS("sala 07 H"), "s. 07H");
   assert.equal(salaWNS("S. 117"), "s. 117");
-  assert.deepEqual([etykieta("BN-SI.26-11"), etykieta("PSYC-SJM.261-L.3"), etykieta("1 BP"), etykieta("2 ćw")],
-    [{ typ: "gr", nr: "11" }, { typ: "lab", nr: "3" }, { typ: "spec", nr: "BP" }, { typ: "ćw", nr: "2" }]);
+  assert.deepEqual([etykieta("BN-SI.26-11"), etykieta("PSYC-SJM.261-L.3"), etykieta("1 BP"), etykieta("2 ćw"), etykieta("PSYC-SJM.22- 51"), etykieta("BW- SI.26- 11")],
+    [{ typ: "gr", nr: "11" }, { typ: "lab", nr: "3" }, { typ: "spec", nr: "BP" }, { typ: "ćw", nr: "2" }, { typ: "gr", nr: "51" }, { typ: "gr", nr: "11" }]);
 });
 
 test("Socjologia I st. 1 rok (układ A, pilot): 13 zajęć, grupy z kolumn, godziny z komórki, druga strona", () => {
@@ -80,4 +80,13 @@ test("plan z PDF: jeden plik → plan na rocznik, format planu przechodzi sprawd
   assert.deepEqual(Object.keys(lata).sort(), ["1", "2", "3"]);
   for (const r of Object.values(lata)) assert.deepEqual(waliduj({ groups: r.groups }), []);
   assert.ok(lata[2].groups.BN2.odd.some((e) => e.pg === "spec:WiBM" && e.dates?.length));
+});
+
+test("WNS: komórka na pół wiersza grupy „3 lab” należy do lab 3, nie do całego roku ani do ćw", () => {
+  const et = [{ typ: "ćw", nr: "1", y0: 227, y1: 363 }, { typ: "lab", nr: "1", y0: 227, y1: 294 }, { typ: "lab", nr: "2", y0: 294, y1: 363 },
+    { typ: "ćw", nr: "2", y0: 363, y1: 564 }, { typ: "lab", nr: "3", y0: 363, y1: 501 }, { typ: "lab", nr: "4", y0: 501, y1: 564 }];
+  assert.deepEqual(podgrupy([171, 363, 419, 431], et), ["lab:3"]);
+  assert.deepEqual(podgrupy([274, 227, 419, 294], et), ["lab:1"]);
+  assert.deepEqual(podgrupy([100, 227, 200, 363], et), ["ćw:1"]);
+  assert.deepEqual(podgrupy([100, 227, 200, 564], et), [null]);
 });

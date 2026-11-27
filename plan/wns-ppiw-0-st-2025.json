@@ -12,8 +12,8 @@
  "tryb": "st",
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
- "changedAt": "2026-11-23T16:01:03.706Z",
- "checkedAt": "2026-11-27T17:15:49.087Z",
+ "changedAt": "2026-11-27T18:28:18.549Z",
+ "checkedAt": "2026-11-27T18:28:18.549Z",
  "groups": {
   "PPIW2": {
    "odd": [
@@ -489,6 +489,7 @@
      "p": "mgr K. Sołtys",
      "r": "s. 027 ul. Krakowska 71-79",
      "n": "zaj od g. 9:00 do 13:15",
+     "pg": "lab:3",
      "dates": [
       "2026-10-02",
       "2026-10-09",
@@ -570,6 +571,7 @@
      "p": "dr A. Karyń",
      "r": "s. 112 k ul. Mickiewicza 16",
      "n": "zaj od g 10:45 do 13:15",
+     "pg": "lab:3",
      "dates": [
       "2026-12-11",
       "2026-12-18",
@@ -1074,6 +1076,7 @@
      "p": "mgr K. Sołtys",
      "r": "s. 027 ul. Krakowska 71-79",
      "n": "zaj od g. 9:00 do 13:15",
+     "pg": "lab:3",
      "dates": [
       "2026-10-02",
       "2026-10-09",
@@ -1155,6 +1158,7 @@
      "p": "dr A. Karyń",
      "r": "s. 112 k ul. Mickiewicza 16",
      "n": "zaj od g 10:45 do 13:15",
+     "pg": "lab:3",
      "dates": [
       "2026-12-11",
       "2026-12-18",

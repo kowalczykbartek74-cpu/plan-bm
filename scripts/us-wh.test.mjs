@@ -35,6 +35,9 @@ test("terminy z tekstu: zakresy, połowy semestru, listy z miesiącem, oprócz, 
 test("grupa, rodzaj, prowadzący, sala z tekstu komórki", () => {
   assert.equal(grupaZTekstu("I rok gr lab A (30h)").pg, "lab:A");
   assert.equal(grupaZTekstu("I rok grupa ćw 2 (30h)").pg, "ćw:2");
+  assert.equal(grupaZTekstu("English Phonetics gr lab 2 D").pg, "lab:2D");
+  assert.equal(grupaZTekstu("English Phonetics gr lab 2D").pg, "lab:2D");
+  assert.equal(grupaZTekstu("gr lab 2 Data science").pg, "lab:2");
   assert.equal(grupaZTekstu("GRUPA 1a technologia").pg, "gr:1a");
   assert.equal(grupaZTekstu("II rok specj. transl. gr specj. 2 Tłumaczenia").pg, "spec:translatoryczna 2");
   assert.deepEqual(["historia (w) (15)", "łacina (lk) (30)", "debaty (k) (15)", "PNJA: ZSJ gr lab C", "Sem. dyplomowe", "seminarium dyplomowe (s)"].map(rodzajZTekstu), ["W", "CW", "K", "LAB", "S", "S"]);

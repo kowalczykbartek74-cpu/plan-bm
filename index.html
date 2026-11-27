@@ -739,7 +739,9 @@ const PG_NAZWY = { "ćs": ["ćw. specjalistyczne", "specialised classes"], lb: [
   "ćw": ["ćwiczenia", "classes"], k: ["konwersatoria", "conversation classes"], zt: ["zajęcia terenowe", "field classes"], sem: ["seminarium", "seminar"], gr: ["grupy", "groups"], spec: ["specjalność", "specialisation"] };
 const pgNazwa = t => PG_NAZWY[t] ? L(...PG_NAZWY[t]) : t;
 // wybór „translatoryczna 1” pokazuje też zajęcia całej specjalności („translatoryczna”), a „translatoryczna” – obie grupy
-const forPg = e => { if (!e.pg) return true; const w = state.pg[pgTyp(e.pg)], n = pgNr(e.pg); return !w || w === n || w.startsWith(n + " ") || n.startsWith(w + " "); };
+// tak samo „1a” to część grupy „1” (WH: ćw. 1 i ćw. 1a/1b w jednym planie), ale „11” nie
+const czescGrupy = (a, b) => a.startsWith(b) && /^\d+$/.test(b) && /^[a-z]$/i.test(a.slice(b.length));
+const forPg = e => { if (!e.pg) return true; const w = state.pg[pgTyp(e.pg)], n = pgNr(e.pg); return !w || w === n || w.startsWith(n + " ") || n.startsWith(w + " ") || czescGrupy(w, n) || czescGrupy(n, w); };
 function pgTypy(g){
   const m = {};
   for (const e of ["odd","even"].flatMap(w => (G()[g]?.[w] || []))) if (e.pg) (m[pgTyp(e.pg)] ||= new Set()).add(pgNr(e.pg));
