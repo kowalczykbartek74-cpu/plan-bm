@@ -1,6 +1,6 @@
 # Stan planów zajęć – cały US
 
-Wygenerowano 27.11.2026, 19:47 (`node scripts/stan-planow.mjs`). Ostatni przebieg importu: 27.11.2026, 19:42.
+Wygenerowano 28.11.2026, 02:35 (`node scripts/stan-planow.mjs`). Ostatni przebieg importu: 27.11.2026, 19:42.
 Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** – plan na stronie jest wątpliwy (patrz opis); **czeka na zatwierdzenie** – plan z PDF w kolejce Importy (zdawalni.pl), na stronie go nie ma; **brak planu** – nie ma pliku planu.
 
 | Wydział | Roczników | Na stronie | OK | uwaga | czeka | brak | błąd |
@@ -432,7 +432,7 @@ Statusy: **OK**; **uwaga** – do obejrzenia, plan jest na stronie; **błąd** �
 | Kierunek | Rocznik | Id | Źródło | Ostatni udany import | Zmiana planu | Zajęć | Status |
 |---|---|---|---|---|---|---|---|
 | Nauki o rodzinie — doradztwo, coaching, mediacje | I st. 1. rok | `wt-nor-1-st-2026` | [teo.usz.edu.pl/…/Plan-NOR-2026-27a.pdf](https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf) | 23.11.2026, 20:04 | 9.11.2026, 23:39 | 20 | OK |
-| Nauki o rodzinie — doradztwo, coaching, mediacje | I st. 2. rok | `wt-nor-1-st-2025` | [teo.usz.edu.pl/…/Plan-NOR-2026-27a.pdf](https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf) | 23.11.2026, 20:04 | 9.11.2026, 23:39 | 21 | OK |
+| Nauki o rodzinie — doradztwo, coaching, mediacje | I st. 2. rok | `wt-nor-1-st-2025` | [teo.usz.edu.pl/…/Plan-NOR-2026-27a.pdf](https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf) | 27.11.2026, 19:34 | 27.11.2026, 19:34 | 22 | OK |
 | Nauki o rodzinie — doradztwo, coaching, mediacje | I st. 3. rok | `wt-nor-1-st-2024` | [teo.usz.edu.pl/…/Plan-NOR-2026-27a.pdf](https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf) | 23.11.2026, 20:04 | 9.11.2026, 23:39 | 22 | OK |
 | Nauki o rodzinie — doradztwo, coaching, mediacje | II st. 1. rok | `wt-nor-2-st-2026` | [teo.usz.edu.pl/…/Plan-NOR-2026-27a.pdf](https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf) | 23.11.2026, 20:04 | 9.11.2026, 23:39 | 17 | OK |
 | Nauki o rodzinie — doradztwo, coaching, mediacje | II st. 2. rok | `wt-nor-2-st-2025` | [teo.usz.edu.pl/…/Plan-NOR-2026-27a.pdf](https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf) | 23.11.2026, 20:04 | 9.11.2026, 23:39 | 18 | OK |
